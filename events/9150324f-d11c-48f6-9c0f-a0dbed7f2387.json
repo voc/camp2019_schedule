@@ -1,0 +1,45 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10317.html",
+    "id": 10317,
+    "guid": "9150324f-d11c-48f6-9c0f-a0dbed7f2387",
+    "logo": "/system/events/logos/000/010/317/large/nymlogo.jpg?1560274440",
+    "date": "2019-08-25T12:00:00+02:00",
+    "start": "12:00",
+    "duration": "00:45",
+    "room": "Curie",
+    "slug": "Camp2019-10317-fighting_back_against_libra_-_decentralizing_facebook_connect",
+    "title": "Fighting back against Libra - Decentralizing Facebook Connect",
+    "subtitle": "Nym Anonymous Authentication Credentials ",
+    "track": "Security",
+    "type": "lecture",
+    "language": "en",
+    "abstract": "The power of Facebook derives from its control over your digital identity. However, the fundamental technologies behind anonymous (attribute-based) authentication credentials have existed since the mid-90s. This talk will cover new advances in anonymous authentication credentials, how the work was nearly killed by Facebook, and their real-world implementation, including their use in the Nym project's mix-net, cryptocurrency, and decentralized messaging applications. ",
+    "description": "How do we pratically defeat Facebook and build an anonymous internet? Let's start with the building blocks: Getting rid of Facebook Connect using decentralized and privacy-enhancing technologies, then using that as a lever to build the rest of the system.\r\n\r\nAnonymous authentication credentials have existed since early blind signature schemes, but have historically been both inefficient and required centralized (if often blind!) trusted third parties. New advances such as UnlimitID and the Coconut signature scheme have allowed the creation of \"Nym credentials\" that are both decentralized and privacy-preserving. We'll go into three use-cases:\r\n<li><b>Mix-networks</b> Credentials allow mix-nets, which provide anonymity at the network level in even a stronger manner than Tor, to both avoid spam (sybil) attacks and grow in a robust, decentralized manner, avoiding the need of proof of work algorithms.</li>\r\n<li><b>Messaging</b> In combination with the new IETF MLS (Message Layer Security) protocol to replace Signal, anonymous authentication credentials can enable a more privacy-preserving messenger.</li>\r\n<li><b>Cryptocurrency</b> If Facebook is building Libra, we'll show how we can take their fundamental design and make it - or any other cryptocurrency - privacy--preserving using Nym credentials</li>\r\n\r\nLastly, we'll review how we build the initial work using European Commission funding from NEXTLEAP and PANORAMIX, how Facebook nearly killed the project, and now how we are building from both non-profit and private sector sources, including hiring ex-Facebook employees to work on privacy. ",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 7810,
+            "public_name": "Harry Halpin"
+        }
+    ],
+    "links": [
+        {
+            "url": "nymtech.net",
+            "title": "Nymtech"
+        },
+        {
+            "url": "https://0xacab.org/jstuczyn/CoconutGo",
+            "title": "Nym Credential Codebase"
+        },
+        {
+            "url": "http://www0.cs.ucl.ac.uk/staff/G.Danezis/papers/UnlimitID_WPES16.pdf",
+            "title": "UnlimitID"
+        },
+        {
+            "url": "https://arxiv.org/abs/1802.07344",
+            "title": "Coconut Signature Scheme"
+        }
+    ],
+    "attachments": []
+}

@@ -1,0 +1,32 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10380.html",
+    "id": 10380,
+    "guid": "117f530f-a20b-4071-b208-39e989a42408",
+    "logo": null,
+    "date": "2019-08-22T12:00:00+02:00",
+    "start": "12:00",
+    "duration": "03:00",
+    "room": "Meitner",
+    "slug": "Camp2019-10380-lightning_talks",
+    "title": "Lightning Talks",
+    "subtitle": "",
+    "track": "CCC",
+    "type": "lecture",
+    "language": "en",
+    "abstract": "",
+    "description": "",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 4601,
+            "public_name": "bigalex"
+        },
+        {
+            "id": 8067,
+            "public_name": "honky"
+        }
+    ],
+    "links": [],
+    "attachments": []
+}

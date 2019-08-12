@@ -1,0 +1,45 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10174.html",
+    "id": 10174,
+    "guid": "afbc3b87-4156-470d-9385-c18e7b29f97b",
+    "logo": "/system/events/logos/000/010/174/large/fomu.png?1558575164",
+    "date": "2019-08-21T17:00:00+02:00",
+    "start": "17:00",
+    "duration": "00:45",
+    "room": "Curie",
+    "slug": "Camp2019-10174-fomu_-_an_fpga_inside_your_usb_port",
+    "title": "Fomu - an FPGA inside your USB port!",
+    "subtitle": "",
+    "track": "Hardware & Making",
+    "type": "lecture",
+    "language": "en",
+    "abstract": "",
+    "description": "",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 6660,
+            "public_name": "Tim 'mithro' Ansell"
+        },
+        {
+            "id": 4376,
+            "public_name": "Sean \"xobs\" Cross"
+        }
+    ],
+    "links": [
+        {
+            "url": "https://fomu.im",
+            "title": "Fomu Website"
+        },
+        {
+            "url": "https://github.com/im-tomu",
+            "title": "Fomu Github"
+        },
+        {
+            "url": "https://tomu.im",
+            "title": "Tomu Website"
+        }
+    ],
+    "attachments": []
+}

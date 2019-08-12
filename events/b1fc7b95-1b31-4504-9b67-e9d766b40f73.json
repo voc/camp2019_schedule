@@ -1,0 +1,28 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10192.html",
+    "id": 10192,
+    "guid": "b1fc7b95-1b31-4504-9b67-e9d766b40f73",
+    "logo": null,
+    "date": "2019-08-24T16:00:00+02:00",
+    "start": "16:00",
+    "duration": "00:45",
+    "room": "Curie",
+    "slug": "Camp2019-10192-privacy_an_unequally_distributed_resource",
+    "title": "Privacy: An Unequally Distributed Resource",
+    "subtitle": "A Study of Privacy as Privilege in Our World",
+    "track": "Ethics, Society & Politics",
+    "type": "lecture",
+    "language": "en",
+    "abstract": "In this talk, we'll investigate how privacy has become an indicator of privilege in our world. Does everyone have equal access to privacy? How does unequal privacy affect the lives of people? Should we treat privacy like other privileges (i.e. wealth, race, gender)? If we have access to privacy, is this something we can share? By the end of the talk, we'll have explored how the concept of privacy has changed, what we can do about these changes and some practical steps for making privacy more accessible for those who most need it.\r\n",
+    "description": "This is not your average privacy talk. This is, instead, a study of how the word and concept of privacy has changed over time. These changes, which are in part our own creation, have enabled privacy to be both unequally applied and co-opted by a variety of companies and movements. In this lecture, we\u2019ll discuss the following questions:\r\n\r\n- What is privacy in our current society?\r\n- How has our understanding of privacy changed over time?\r\n- Does everyone have equal access to privacy? Why or why not?\r\n- Who is most impacted by the rise of technological surveillance?\r\n- How can we use our privilege to help protect others\u2019 privacy?\r\n\r\nWho should attend:\r\n\r\n- People interested in privacy regardless of \"professional\" knowledge or level of experience\r\n- Folks doing anti-oppression work\r\n- People who already disagree with me after reading this abstract :-D\r\n\r\nWhile the format is a lecture, I hope we can find an open space afterwards to continue debating and discussing these questions and the theme as a whole. My goal is to help educate and inspire work around privacy that benefits not just those who attend the Camp, but instead reaches beyond our privacy-aware social circles, to help those who do not have access to privacy. ",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 7681,
+            "public_name": "Katharine Jarmul"
+        }
+    ],
+    "links": [],
+    "attachments": []
+}

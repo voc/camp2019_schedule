@@ -1,0 +1,33 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10324.html",
+    "id": 10324,
+    "guid": "7c043172-6fbe-4a23-a990-69c5bcab8f5d",
+    "logo": null,
+    "date": "2019-08-21T20:00:00+02:00",
+    "start": "20:00",
+    "duration": "00:45",
+    "room": "Meitner",
+    "slug": "Camp2019-10324-on_bendy_inflatables_and_travelling_techno",
+    "title": "On bendy inflatables and travelling techno",
+    "subtitle": "Or, making hackercamp installations for cheap",
+    "track": "Hardware & Making",
+    "type": "lecture",
+    "language": "en",
+    "abstract": "I\u2019ve made several interactive hackercamp installations over the years. I\u2019ll talk about how they work, how they were made (generally very cheaply), about how people found ways to interact with them, and about what I\u2019ve learned about experience design from them. And about where you can find the source code, obviously.",
+    "description": "",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 9002,
+            "public_name": "Jarkman"
+        }
+    ],
+    "links": [
+        {
+            "url": "http://jarkman.co.uk/catalog/robots/worldotechno.htm",
+            "title": "World'o'Techno"
+        }
+    ],
+    "attachments": []
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10368.html",
+    "id": 10368,
+    "guid": "25ea0487-9dc1-4dc6-8df7-75b4872a164c",
+    "logo": null,
+    "date": "2019-08-22T13:00:00+02:00",
+    "start": "13:00",
+    "duration": "00:45",
+    "room": "Curie",
+    "slug": "Camp2019-10368-beyond_the_pile_of_knobs",
+    "title": "Beyond the Pile of Knobs",
+    "subtitle": "Redesigning NoScript\u2019s UX",
+    "track": "Security",
+    "type": "lecture",
+    "language": "en",
+    "abstract": "This case study of NoScript\u2019s UX redesign showcases tried and true design principles that make security tools usable to a wider range of audiences. \r\n",
+    "description": "Open source security tools are often associated with customizability and transparency: users are given many options (configurations, self-hosting), and system states are more often than not visible to users (detailed connection info, logs). Sometimes, that means bulky user interfaces and technical language, making an otherwise useful and recommended tool less usable for non-technical audiences. This presents a distinct design challenge: is it possible to build tools that are more usable without compromising on customizability and transparency?\r\n\r\nIn this talk, we will present some UX design principles based on our work with NoScript, a browser extension that allows users to fine-tune their script blocking in Firefox and Chrome/Chromium. We will focus on 1) building the minimally viable mental model, 2) choosing sensible default options, and 3) updating interface language for a wider audience.\r\n\r\nIn the course of that, we will also present our process of human-centered design for improving security tools. (Outlined here: https://simplysecure.org/what-we-do/usable-security-audit/ )\r\n",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 8541,
+            "public_name": "Eileen Wagner"
+        }
+    ],
+    "links": [],
+    "attachments": []
+}

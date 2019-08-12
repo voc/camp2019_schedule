@@ -1,0 +1,33 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10299.html",
+    "id": 10299,
+    "guid": "078e6819-edca-4b0a-a417-a964a9c08ce3",
+    "logo": null,
+    "date": "2019-08-24T12:00:00+02:00",
+    "start": "12:00",
+    "duration": "00:45",
+    "room": "Curie",
+    "slug": "Camp2019-10299-lo_an_llvm_obfuscator",
+    "title": "LO! An LLVM Obfuscator",
+    "subtitle": "",
+    "track": "Security",
+    "type": "lecture",
+    "language": "en",
+    "abstract": "In this talk we will present how intermediate code transformations can be used to obfuscate code and the advantadges and limitations they introduce. We will also brielfy discuss some techniques that could help detect and reverse code obfuscated in such ways.",
+    "description": "<p>Despite their limitations, intermediate languages like LLVM-IR provide the best way to write code transformations that work well for all the input and output languages supported by the compiler framework.</p>\r\n<p>Usually, this is used to write optimization passes, but nothing prevents you from using them to make the resulting code less inteligible to an external reader.</p>\r\n<p>This talk will focus on how different obfuscation techniques can be implemented and used as such passes and what are the limitations that may make implementing, for example, an unpacker a bit harder.\r\n<p>We will also cover how some of these techniques can be reversed (specially when perfoming comparative analysis).</p>\r\n<p>Keep in mind that although LO started as a way to provide a way to deterministically increase variability in generated code and make finding out the patched flaws harder, many of it's techniques like code flattening or constant expansions are also used by other users of obfuscated code, for example malware.</p>",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 8931,
+            "public_name": "Klondike"
+        }
+    ],
+    "links": [
+        {
+            "url": "https://klondike.es/mthesis.pdf",
+            "title": "A MSc Thesis on the subject"
+        }
+    ],
+    "attachments": []
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10351.html",
+    "id": 10351,
+    "guid": "5af5134f-a56d-4a42-88e1-d179be98b8db",
+    "logo": null,
+    "date": "2019-08-24T21:00:00+02:00",
+    "start": "21:00",
+    "duration": "00:45",
+    "room": "Meitner",
+    "slug": "Camp2019-10351-from_the_sputnik_beep_to_messages_from_pluto",
+    "title": "From the Sputnik 'Beep' to messages from Pluto",
+    "subtitle": "Signals from Space 101",
+    "track": "Science",
+    "type": "lecture",
+    "language": "en",
+    "abstract": "To tinker with receivers for space-signals, its good to know the different space communication standards. And to understand space standards, it doesn't hurt to get an overview of how to transmit data in the first place.",
+    "description": "Since the first \"beep\" from Sputnik, there have been many different artificial signals from satellites, capsules and space stations being send back to earth. These multitude of RF (and laser...) signals not only show how different mission requirements dictate the system design for different spacecrafts, but also chronicle advances in communication technology since the advent of the space age.\r\nSo get to know how to understand the languages spoken by Voyager, GPS and satellite TV, and learn basics of RF communication in the process! ",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 6049,
+            "public_name": "INCO"
+        }
+    ],
+    "links": [],
+    "attachments": []
+}

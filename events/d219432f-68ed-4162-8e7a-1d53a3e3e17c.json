@@ -1,0 +1,28 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10378.html",
+    "id": 10378,
+    "guid": "d219432f-68ed-4162-8e7a-1d53a3e3e17c",
+    "logo": null,
+    "date": "2019-08-22T16:00:00+02:00",
+    "start": "16:00",
+    "duration": "00:45",
+    "room": "Curie",
+    "slug": "Camp2019-10378-fully_open_fully_sovereign_mobile_devices",
+    "title": " Fully Open, Fully Sovereign mobile devices",
+    "subtitle": "",
+    "track": "Hardware & Making",
+    "type": "lecture",
+    "language": "en",
+    "abstract": "Removing the barriers to making network independent mobile communications.",
+    "description": "In this talk I will discuss our thinking and progress towards making personal mobile communications devices, i.e., things that you use like a smart-phone, but that are fully under the control of the owner.  While this has been done before, we have been focusing on how to make this much easier to do, so that individuals or small teams can create their own custom devices, with whatever features, inclusions and physical form they like, without huge time or cost requirements.  This makes it possible to solve security and privacy problems, and also problems like creating custom devices for people living with disability, so that they can have a device that works for them and with their abilities and needs.\r\n\r\nI will discuss our work-in-progress in this area, the MEGAphone, which is not only a mobile phone, but also includes UHF packet radio and a modular expansion scheme, that can allow allow the incorporation of satellite and other communications.  It is also backwards compatible with the Commodore 64, so can already play loads of privacy-preserving games, and has its own open-source slide presentation software that we hope to use to deliver the talk.\r\n\r\nPrivate UHF and VHF radio communications is a complex space, in terms of regulation, which we have some experience in due to the Serval Project, which has informed our design of the MEGAphone.  I will thus discuss issues such as using \"license free\" bands around the world, as well as options for using either licensed spectrum or existing legacy public spectrum allocations, such as Citizen Band (CB) radio.  As the MEGAphone platform is FPGA based, it is quite possible to implement software defined radio solutions to allow flexible and low-cost access to such spectrum.",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 8890,
+            "public_name": "Paul Gardner-Stephen"
+        }
+    ],
+    "links": [],
+    "attachments": []
+}

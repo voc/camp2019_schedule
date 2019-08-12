@@ -1,0 +1,28 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10340.html",
+    "id": 10340,
+    "guid": "a9b096f5-3db7-4c83-af7c-289afa1d886c",
+    "logo": null,
+    "date": "2019-08-23T14:00:00+02:00",
+    "start": "14:00",
+    "duration": "00:45",
+    "room": "Curie",
+    "slug": "Camp2019-10340-updates_from_the_onion",
+    "title": "Updates from the Onion",
+    "subtitle": "The Road to Mobile Tor and Improved Censorship Circumvention",
+    "track": "Security",
+    "type": "lecture",
+    "language": "en",
+    "abstract": "The Tor Project is building usable free software to fight surveillance and censorship across the globe. In this talk we'll give an update on what we have been up to in the past months, what happened in the wider Tor ecosystem, and what lies ahead of us.",
+    "description": "In the last year the Tor Project has been working hard on improving the software, building and training communities around the world as well as creating an anti-censorship team and roadmap that can push forward technologies to circumvent censorship. This talk will cover major milestones we achieved and will give an outline about what is lying ahead. In particular, we'll talk about the release of Tor Browser for Android and restructuring our anti-censorship efforts as well as working on next generation pluggable transports. Moreover, we'll explain our defense against website traffic fingerprinting attacks and plans for improving onion services and making them more usable (DDoS resistance, better user interfaces for authentication and dealing with errors). Finally, we'll shed some light on efforts to get Tor support directly embedded into other browsers, like Firefox and Brave, and educating users both by reorganizing the content on our website and extensive trainings throughout the world.",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 7805,
+            "public_name": "GeKo"
+        }
+    ],
+    "links": [],
+    "attachments": []
+}

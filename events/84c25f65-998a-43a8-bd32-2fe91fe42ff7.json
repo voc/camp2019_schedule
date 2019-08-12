@@ -1,0 +1,28 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10232.html",
+    "id": 10232,
+    "guid": "84c25f65-998a-43a8-bd32-2fe91fe42ff7",
+    "logo": null,
+    "date": "2019-08-22T12:00:00+02:00",
+    "start": "12:00",
+    "duration": "00:30",
+    "room": "Curie",
+    "slug": "Camp2019-10232-was_ihr_schon_immer_nicht_uber_koffein_wissen_wolltet",
+    "title": "Was ihr schon immer (nicht) \u00fcber Koffein wissen wolltet",
+    "subtitle": "",
+    "track": "Science",
+    "type": "lecture",
+    "language": "de",
+    "abstract": "Koffein als Substanz wird Tag f\u00fcr Tag aufgrund seiner anregenden Wirkung von vielen Menschen konsumiert, doch was genau steckt eigentlich hinter dieser Substanz? In diesem Talk blicken wir in die Chemie, Herkunft, Wirkung, Gefahren und weitere Aspekte des Koffeins.",
+    "description": "Koffein, ein Stoff, den viele (hackende) Menschen tagt\u00e4glich in unterschiedlichen Formen konsumieren. Was genau ist diese Substanz eigentlich und wo kommt sie \u00fcberall vor? Was passiert mit Koffein und mit uns, wenn dieses Molek\u00fcl durch unseren K\u00f6rper reist? Und kann Koffein ab einer bestimmten Menge gef\u00e4hrlich werden? Diese und weitere Fragen werden zusammen mit vielem, was Wissenswertes zur Chemie von Koffein existiert, hier thematisiert.",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 8973,
+            "public_name": "Lea Rain"
+        }
+    ],
+    "links": [],
+    "attachments": []
+}

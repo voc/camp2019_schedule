@@ -1,0 +1,28 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10235.html",
+    "id": 10235,
+    "guid": "97576344-49ba-4fd0-a2e5-9af7923fbffb",
+    "logo": null,
+    "date": "2019-08-21T13:00:00+02:00",
+    "start": "13:00",
+    "duration": "00:45",
+    "room": "Meitner",
+    "slug": "Camp2019-10235-the_great_british_drone_panic",
+    "title": "The Great British Drone Panic",
+    "subtitle": "Asking for better standards of official investigation and media reporting into British drone incident stories.",
+    "track": "Ethics, Society & Politics",
+    "type": "lecture",
+    "language": "en",
+    "abstract": "Looking at the sorry saga of drone incident reports and drone-related airport closures in the UK, and shining a light on the woefully poor quality of official investigations, police response, and media reporting.",
+    "description": "Over the last few years the UK has seen a public moral panic over reported air proximity incidents between drones and aircraft, including highly-publicised closures of major airports. This has resulted in ever more stringent rules being proposed for drone and multirotor hobbyists. Unfortunately while there have been a lot of reports and a huge amount of hype, in none of the cases has any tangible evidence or proof been produced. Reading official reports raises only questions about their woeful inadequacy, police responses have been ham-fisted and incompetent, and media reporting has been sensationalist and devoid of factual basis or responsible investigation. This talk is built upon several years of reporting on these stories, and aims to throw some light upon the whole sorry saga.",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 8923,
+            "public_name": "JennyList"
+        }
+    ],
+    "links": [],
+    "attachments": []
+}

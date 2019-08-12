@@ -1,0 +1,45 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10201.html",
+    "id": 10201,
+    "guid": "f650773d-d9df-4050-814c-a9505c439b30",
+    "logo": null,
+    "date": "2019-08-23T17:00:00+02:00",
+    "start": "17:00",
+    "duration": "00:45",
+    "room": "Curie",
+    "slug": "Camp2019-10201-mit_dem_getrankeautomaten_in_die_cloud",
+    "title": "Mit dem Getr\u00e4nkeautomaten in die Cloud",
+    "subtitle": "\u00dcber die (Un-)Sicherheit eines Bezahlsystems",
+    "track": "Security",
+    "type": "lecture",
+    "language": "de",
+    "abstract": "Ob an Getr\u00e4nkeautomaten oder in der Kantine: Oft wird in Universit\u00e4ten oder gro\u00dfen Firmen mit einem internen Ausweis bezahlt.\r\nWir haben eines dieser internen Bezahlsysteme einmal genauer in Bezug auf seine IT-Sicherheit untersucht und dabei \u00fcberraschend viele Schwachstellen festgestellt.",
+    "description": "Interne, bargeldlose Bezahlsysteme k\u00f6nnen Transaktionen \u00fcber einen Cloud-Dienst abwickeln.\r\nDie Informationssicherheit ist bei diesen Systemen von gro\u00dfer Bedeutung, um das Geld der Kunden und auch das Geld des Betreibers, der f\u00fcr die Abwicklung der Zahlung an die jeweiligen Abteilungen oder Dienstleistern die Verantwortung tr\u00e4gt, zu sch\u00fctzen.\r\nIn diesem Talk soll die Sicherheit eines dieser Cloud-basierten Systeme genauer beleuchtet und dabei ein Gro\u00dfteil seiner Sicherheitsarchitektur auseinandergenommen werden.",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 8906,
+            "public_name": "Janis Streib"
+        }
+    ],
+    "links": [
+        {
+            "url": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18292",
+            "title": "CVE-2018-18292"
+        },
+        {
+            "url": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18293",
+            "title": "CVE-2018-18293"
+        },
+        {
+            "url": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18294",
+            "title": "CVE-2018-18294"
+        },
+        {
+            "url": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18295",
+            "title": "CVE-2018-18295"
+        }
+    ],
+    "attachments": []
+}

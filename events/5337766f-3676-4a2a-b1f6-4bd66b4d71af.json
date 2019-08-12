@@ -1,0 +1,32 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10292.html",
+    "id": 10292,
+    "guid": "5337766f-3676-4a2a-b1f6-4bd66b4d71af",
+    "logo": "/system/events/logos/000/010/292/large/chip.png?1560259230",
+    "date": "2019-08-22T22:00:00+02:00",
+    "start": "22:00",
+    "duration": "00:45",
+    "room": "Meitner",
+    "slug": "Camp2019-10292-how_we_pull_the_firmware_from_your_microcontroller",
+    "title": "How we Pull the Firmware from your Microcontroller",
+    "subtitle": "From Research over Vulnerability Discovery to Public Disclosure",
+    "track": "Security",
+    "type": "lecture",
+    "language": "en",
+    "abstract": "Almost every microcontroller features firmware readout protection. It aims at securing the code, algorithms, and cryptographic keys against unauthorized access. Despite datasheets are promising strong security, our research shows that this is often far from being true. In this talk we want to shed light onto the \"why?\" and especially \"how?\" we approach the security testing of such protection mechanisms. Furthermore, we will talk about our attempts, discussions, and hassles from the vulnerability disclosure process - from successful ones to dead ends.",
+    "description": "Since several years, we, Johannes and Marc, do practical research in the field of embedded system security at a research institute. In this talk, we want to give an insight into the daily work as hardware security researchers. This ranges from giving recommendations on how to secure systems up to verifying microcontroller security in real environments. However, no practical experience and information on the resilience of common microcontrollers is publicly available - a gap we want to close. Especially when trying to make use of the integrated security features, their effectiveness often collapses quickly due to design weaknesses.\r\n\r\nOur focus lies on firmware protection mechanisms since they often are the root of security in embedded systems.\r\nDuring our research we were able to circumvent several mechanisms implemented from different manufacturers.\r\nIn most cases, each attack requires only low-priced equipment, thereby increasing the impact of each weakness and resulting in a severe threat altogether.\r\nWe will present one of those attacks, which can be performed within minutes, on stage.\r\n\r\nDue to the severe impact of these results, we immediately informed the manufacturers in a coordinated disclosure process.\r\nHowever, this is often not as simple as expected and maybe even risky.\r\nIn this talk we will shortly state the chosen approach and will then compare our expectations on coordinated disclosure with the real reactions of the addressed manufacturers - ranging from a friendly discussion, over tricking-into-NDA, up to ghosting.\r\n\r\nFinally we will give some ideas on how to read between the lines in datasheets. Additionally, we will outline the legal gray area of applied security research in academia.",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 9019,
+            "public_name": "Johannes"
+        },
+        {
+            "id": 9092,
+            "public_name": "marc"
+        }
+    ],
+    "links": [],
+    "attachments": []
+}

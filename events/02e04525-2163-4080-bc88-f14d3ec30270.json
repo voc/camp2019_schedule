@@ -1,0 +1,41 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10375.html",
+    "id": 10375,
+    "guid": "02e04525-2163-4080-bc88-f14d3ec30270",
+    "logo": null,
+    "date": "2019-08-21T16:00:00+02:00",
+    "start": "16:00",
+    "duration": "00:45",
+    "room": "Meitner",
+    "slug": "Camp2019-10375-make_your_tech_and_wear_it_too",
+    "title": "Make Your Tech and Wear It Too",
+    "subtitle": "Stories from an e-textile tailor",
+    "track": "Art & Culture",
+    "type": "lecture",
+    "language": "en",
+    "abstract": "In this talk i\u2019d like to give an introduction to the materials, tools, skills and energies involved in making electronic textiles and tailoring wearable technology, which has been my practice for the past 13 years.",
+    "description": "In this talk i\u2019d like to give an introduction to the materials, tools, skills and energies involved in making electronic textiles and tailoring wearable technology, which has been my practice for the past 13 years.\r\nI would like to demonstrate examples of textile sensors and actuators and explain the technical details involved in both the engineering and crafting of the open source designs which i publish on my website titled How To Get What You Want.\r\nAnd i would like to walk through my process of tailoring wearable technology commissions that have been for artistic, prosthetic and research purposes.\r\nI have many photos and videos to show, not only of the finished works but also of the often messy struggle it takes to get things to work. I can also bring live demonstrations of some of the designs.\r\n",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 9114,
+            "public_name": "Plusea"
+        }
+    ],
+    "links": [
+        {
+            "url": "http://www.kobakant.at",
+            "title": "Kobakant"
+        },
+        {
+            "url": "http://howtogetwhatyouwant.at",
+            "title": "How to get what you want "
+        },
+        {
+            "url": "http://plusea.at",
+            "title": "Plusea"
+        }
+    ],
+    "attachments": []
+}

@@ -1,0 +1,49 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10344.html",
+    "id": 10344,
+    "guid": "ed4b6c75-14f4-49fe-a11e-3762bd6b54e3",
+    "logo": "/system/events/logos/000/010/344/large/dsgvo-pannen-show-logo-quadrat.jpg?1560288198",
+    "date": "2019-08-22T23:00:00+02:00",
+    "start": "23:00",
+    "duration": "01:30",
+    "room": "Meitner",
+    "slug": "Camp2019-10344-achtung_datenpannen",
+    "title": "Achtung, Datenpannen!",
+    "subtitle": "Die gro\u00dfe Datenschutz- und DSGVO-Show",
+    "track": "Entertainment",
+    "type": "lecture",
+    "language": "de",
+    "abstract": "<p>Eine Mischung aus einem Vortrag und einer Spiel- und Lernshow rund um die Datenschutz-Grundverordnung, die spielerisch Wissenswertes rund um Datenschutz und die Datenschutz-Grundverordnung vermittelt \u2013 anhand von tats\u00e4chlichen Beratungsanfragen und Datenpannen-Meldungen, die tagt\u00e4glich bei den Aufsichtsbeh\u00f6rden eingehen. Im Stil der Spielshow \u201eDer Gro\u00dfe Preis\u201c stehen Kandidaten Rede und Antwort zu skurrilen F\u00e4llen und hei\u00df diskutierten Problemen rund um Datenschutz, technischen Ma\u00dfnahmen und die DS-GVO.</p>\r\n",
+    "description": "<p>Bei Diskussionen \u00fcber Datenschutz kommen technische Ma\u00dfnahmen aus dem Bereich der IT-Sicherheit bisher oftmals viel zu kurz. Dabei k\u00f6nnen fehlende oder falsch implementierte Ma\u00dfnahmen Sanktionen der Aufsichtsbeh\u00f6rden nach sich ziehen.</p>\r\n<p>Die gro\u00dfe <strong>Datenschutz- und DSGVO-Show</strong> vermittelt auf spielerische Weise rechtliche, technische und praktische Hilfe rund um Datenschutz und die EU-Datenschutz-Grundverordnung. </p>\r\n<ul>\r\n<li>Welche Verschl\u00fcsselungs-Verfahren muss ein Datenverarbeiter verwenden, um kein Bu\u00dfgeld zu riskieren?</li>\r\n<li>Erf\u00fcllt ein verschl\u00fcsselter ZIP-Anhang in einer E-Mail die Anforderungen der DS-GVO auf \u201eSicherheit der Verarbeitung\u201c?</li>\r\n<li>Oder die \u201ebisher ungeknackte Vollbitverschl\u00fcsselung\u201c?</li>\r\n<li>Ist ein Messenger-Dienst \u201esicher\u201c, wenn er Telefonnummern als SHA-256-Hash speichert?</li>\r\n<li>Muss ein Online-Shop wirklich alle Kunden informieren, wenn \u201eein Hacker\u201c erfolgreich \u201enur die E-Mail-Adressen der Kunden\u201c kopiert hat?</li>\r\n<li>Und was ist mit Google Analytics oder Facebook-Plugins auf Websites?</li>\r\n<li>Welche Rechte hat ein Betroffener gegen\u00fcber Datenkraken?</li>\r\n</ul>\r\n\r\n<p>Die Moderatoren sind der <em>Landesbeauftragte f\u00fcr den Datenschutz und die Informationsfreiheit Baden-W\u00fcrttemberg</em> Stefan Brink und zwei Referenten und berichten aus der praktischen Arbeit einer Aufsichtsbeh\u00f6rde. Vor und w\u00e4hrend dem eigentlichen Quiz geben sie eine kurze Einf\u00fchrung \u00fcber h\u00e4ufige Datenpannen-Meldungen, rechtliche Grundlagen, Hinweise zu technischen Ma\u00dfnahmen nach Artikel 32 DS-GVO und die oftmals schwierige Risikoabsch\u00e4tzung.</p>\r\n\r\n<p>Im Quiz selbst m\u00fcssen die Kandidaten in ihren Antworten praktische L\u00f6sungsvorschl\u00e4ge f\u00fcr h\u00e4ufige technische und rechtliche Probleme vorschlagen, zum Beispiel welche technischen Ma\u00dfnahmen bei bestimmten Datenpannen nach dem \u201eStand der Technik\u201c angebracht sind, ob man als Website-Betreiber denn nun Google Analytics nutzen darf oder wie man sich gegen rechtswidrige Datensammler wehrt. Dadurch k\u00f6nnen Teilnehmer wie Zuschauer die praktische Anwendung der DS-GVO spielerisch lernen.</p>\r\n",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 4555,
+            "public_name": "Alvar C.H. Freude"
+        },
+        {
+            "id": 8545,
+            "public_name": "Maria Wilhelm"
+        },
+        {
+            "id": 9127,
+            "public_name": "Stefan Brink"
+        }
+    ],
+    "links": [
+        {
+            "url": "https://www.baden-wuerttemberg.datenschutz.de",
+            "title": "LfDI Baden-W\u00fcrttemberg"
+        },
+        {
+            "url": "https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2019/04/FAQ-zu-Cookies-und-Tracking.pdf",
+            "title": "FAQ zu Cookies und Tracking "
+        },
+        {
+            "url": "https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2019/02/Hinweise-zum-Umgang-mit-Passwoertern-1.0.1.pdf",
+            "title": "Hinweise zum sicheren Umgang mit Passw\u00f6rtern"
+        }
+    ],
+    "attachments": []
+}

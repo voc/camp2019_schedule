@@ -1,0 +1,23 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10390.html",
+    "id": 10390,
+    "guid": "4263620e-f36f-4408-b702-01481e0efbd7",
+    "logo": null,
+    "date": "2019-08-25T17:00:00+02:00",
+    "start": "17:00",
+    "duration": "00:45",
+    "room": "Curie",
+    "slug": "Camp2019-10390-infrastructure_review",
+    "title": "Infrastructure Review",
+    "subtitle": "",
+    "track": "CCC",
+    "type": "lecture",
+    "language": "en",
+    "abstract": "",
+    "description": "",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [],
+    "links": [],
+    "attachments": []
+}

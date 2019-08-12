@@ -1,0 +1,37 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10211.html",
+    "id": 10211,
+    "guid": "df91b683-2f32-4400-8043-b1d88aa0b454",
+    "logo": null,
+    "date": "2019-08-22T20:00:00+02:00",
+    "start": "20:00",
+    "duration": "00:45",
+    "room": "Curie",
+    "slug": "Camp2019-10211-die_5g-uberwachungsstandards",
+    "title": "Die 5G-\u00dcberwachungsstandards  ",
+    "subtitle": "Cops Gegen Telekoms im ETSI",
+    "track": "Ethics, Society & Politics",
+    "type": "lecture",
+    "language": "de",
+    "abstract": "Europol und die nationalen Polizeibeh\u00f6rden laufen Sturm gegen die neuen \u00dcberwachungsstandards, die im \u201eEuropean Telecom Standards Institute\u201c (ETSI) gerade f\u00fcr die 5G-Netze entwickelt werden. Die Telekom-Industrie hatte die Strafverfolger im ETSI \u00fcberstimmt. Es sei \"jetzt wichtig, politischen Druck\u201c auszu\u00fcben, \"um die Definition des Standards noch zu beeinflussen\u201c, hei\u00dft es in einem internen Schreiben von Anti-Terror-Koordinator Gilles de Kerchove an den EU-Ministerrat. Konkret will man die Terlekoms zwingen, ihre 5G-Netzarchitektur entlang der Bed\u00fcrfnisse der Strafverfolger auf- und Sicherheitsl\u00fccken f\u00fcr IMSI-Catcher einzubauen. Der Vortrag schildert den letzten Stand dieser Auseinandersetzung. ",
+    "description": "",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 5097,
+            "public_name": "Erich Moechel"
+        }
+    ],
+    "links": [
+        {
+            "url": "https://fm4.orf.at/stories/2982836/",
+            "title": "EU-Telekoms \u00fcberstimmten EU-Strafverfolger bei 5G-\u00dcberwachung"
+        },
+        {
+            "url": "https://fm4.orf.at/stories/2982118/",
+            "title": "EU-Strafverfolger fordern Sicherheitsl\u00fccken in 5G-Standards"
+        }
+    ],
+    "attachments": []
+}

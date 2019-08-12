@@ -1,0 +1,28 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10367.html",
+    "id": 10367,
+    "guid": "823efec2-9c83-45d6-bec9-6a07db561cc2",
+    "logo": null,
+    "date": "2019-08-23T13:00:00+02:00",
+    "start": "13:00",
+    "duration": "00:45",
+    "room": "Curie",
+    "slug": "Camp2019-10367-zombie_apocalypse_vs_international_health_regulations",
+    "title": "Zombie Apocalypse vs. International Health Regulations",
+    "subtitle": "Introducing a very important piece of international law and how to circumvent it",
+    "track": "Ethics, Society & Politics",
+    "type": "lecture",
+    "language": "en",
+    "abstract": "The little known International Health Regulations are Earth's last defence line against world-wide health risks. I discuss how they would perform during a Zombie Apocalypse.",
+    "description": "The International Health Regulations (IHR) are a piece of legally binding, international law that (theoretically) all countries have to adhere to. After the catastrophic 2003 SARS outbreaks, unlikely partners such as the USA and Iran, together with 192 other member states of the World Health Organisation, agreed upon these rules that entered into force in 2007. This set of rules aims to prevent international spread of health risks (usually communicable diseases) while balancing international travel and, of course, trade. \r\nI will use the popular Zombie Apocalypse metaphor to illustrate the various prevention mechanisms of the IHR and how they were (and will be) circumvented by past and future epidemics. \r\n",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 1408,
+            "public_name": "floX"
+        }
+    ],
+    "links": [],
+    "attachments": []
+}

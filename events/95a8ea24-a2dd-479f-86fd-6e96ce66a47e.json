@@ -1,0 +1,28 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10349.html",
+    "id": 10349,
+    "guid": "95a8ea24-a2dd-479f-86fd-6e96ce66a47e",
+    "logo": null,
+    "date": "2019-08-23T16:00:00+02:00",
+    "start": "16:00",
+    "duration": "00:45",
+    "room": "Meitner",
+    "slug": "Camp2019-10349-it-sicherheit_in_vernetzten_gebauden",
+    "title": "IT-Sicherheit in vernetzten Geb\u00e4uden",
+    "subtitle": "Was kann man noch retten, wenn langlebigen Strukturen grundlegende Sicherheitskonzepte fehlen?",
+    "track": "Security",
+    "type": "lecture",
+    "language": "de",
+    "abstract": "Ein automatisiertes Geb\u00e4ude ist sch\u00f6n, komfortabel und praktisch. Doch das w\u00e4re nicht Thema f\u00fcr einen Vortrag beim CCCamp, wenn es nicht einige gravierende Schwachstellen in den Bussystemen g\u00e4be. Der Vortrag bietet eine Einf\u00fchrung in die Funktionalit\u00e4t von vernetzten Geb\u00e4uden am Beispiel des KNX Standards. Ohne dass ihr gro\u00dfes Vorwissen ben\u00f6tigt, berichte ich euch von Sicherheitsproblemen und m\u00f6glichen L\u00f6sungsans\u00e4tzen zur nachtr\u00e4glichen Steigerung der Sicherheit solcher Geb\u00e4udeautomatisierungssysteme.",
+    "description": "Feldbusse wie KNX werden in modernen Geb\u00e4uden eingesetzt, um typische Vorteile der Geb\u00e4udeautomation zu erzielen. Man verspricht sich Komfortgewinn, Kosteneinsparungen und Flexibilit\u00e4t. Klassische Schutzziele wurden beim Design dieser Bussysteme hintenangestellt und IT-Sicherheit so str\u00e4flich missachtet. Funktionalit\u00e4ten wie Verschl\u00fcsselung oder Authentifikation der Kommunikationsteilnehmer sucht man bisweilen vergeblich. Sind die Geb\u00e4ude erst einmal gebaut, wird die installierte Infrastruktur \u00fcber Jahrzehnte betrieben. Das Licht des Kollegen im Nachbarb\u00fcro zu schalten ist ebenso leicht, wie das Steuern einer an den Feldbus angebundenen Heizung. Was im B\u00fcro noch verh\u00e4ltnism\u00e4\u00dfig harmlos erscheint, wird bedrohlich, wenn man bedenkt, dass auch Kraftwerke und andere kritische Infrastrukturen \u00e4hnliche Systeme nutzen.\r\n\r\nNach einer Einf\u00fchrung in den KNX Bus geht der Vortrag auf Schwachstellen und deren m\u00f6gliche Folgen in automatisierten Geb\u00e4uden ein. Es wird gezeigt, dass sich aus scheinbar harmlosen Sensoraktivit\u00e4tsdaten bereits intime, personenbezogene Informationen herausarbeiten lassen.\r\n\r\nUm die Sicherheit bereits installierter, langlebiger Geb\u00e4udeinfrastrukturen dennoch zu erh\u00f6hen, werden bereits bekannte Verfahren aus der IP-Welt auf Feldbusse \u00fcbertragen. Netzwerksegmentierung, IDS und Filterung sind erste Ans\u00e4tze, auf die der Vortrag eingeht. Es werden deren M\u00f6glichkeiten und Grenzen beschrieben.\r\n\r\n Dar\u00fcber hinaus wird ein entwickelter Testdatensatz zur Evaluierung solcher und anderer Ans\u00e4tze vorgestellt.",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 9060,
+            "public_name": "Simeon"
+        }
+    ],
+    "links": [],
+    "attachments": []
+}

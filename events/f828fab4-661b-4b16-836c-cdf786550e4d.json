@@ -1,0 +1,28 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10278.html",
+    "id": 10278,
+    "guid": "f828fab4-661b-4b16-836c-cdf786550e4d",
+    "logo": null,
+    "date": "2019-08-25T13:00:00+02:00",
+    "start": "13:00",
+    "duration": "00:45",
+    "room": "Meitner",
+    "slug": "Camp2019-10278-making_video_games_in_a_weekend",
+    "title": "Making video games in a weekend",
+    "subtitle": "The why and how of game jams",
+    "track": "Art & Culture",
+    "type": "lecture",
+    "language": "en",
+    "abstract": "Are you curious about making your own video game? Game jams are a brilliant opportunity to try that, and a fun challenge for interdisciplinary teams of all skill levels! They're basically hackathons, but for video games - you're given a certain theme, and are encouraged to make a game around that in two or three days. In this talk, I want to empower and inspire you to try that yourself!\r\n\r\nWhen I first joined in the large, international game jam \"Ludum Dare\" in 2016, I found it a very rewarding experience, that got me in a flow-like state of mind. I liked it so much that I've since participated 10 times in a row - at this point, I have tons of experience, which I want to share with you!",
+    "description": "This talk is split into three parts: First, I'll quickly go over the history of game jams, and introduce you to some of the largest ones, like Ludum Dare and the Global Game Jam.\r\n\r\nSecond, I'll talk about my personal experience with game jams: I'll explain how I got into it, and showcase some games I worked on! I'll also share the development process behind them, and reflect on what went well and what didn't.\r\n\r\nAnd finally, I want to empower you to try this for yourself. Specifically, I'll explain how the \"Ludum Dare\" game jam works, and share some tips, tricks, and resources I have assembled over the years, that would have been useful for myself as I just was starting out.\r\n",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 6697,
+            "public_name": "blinry"
+        }
+    ],
+    "links": [],
+    "attachments": []
+}

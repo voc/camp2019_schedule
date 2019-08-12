@@ -1,0 +1,33 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10258.html",
+    "id": 10258,
+    "guid": "8f17b808-466d-4aa9-8bac-a2b3afcdf0a2",
+    "logo": null,
+    "date": "2019-08-23T22:00:00+02:00",
+    "start": "22:00",
+    "duration": "00:45",
+    "room": "Meitner",
+    "slug": "Camp2019-10258-what_you_see_is_not_what_you_get_-_when_homographs_attack",
+    "title": "What you see is not what you get - when homographs attack",
+    "subtitle": "",
+    "track": "Security",
+    "type": "lecture",
+    "language": "en",
+    "abstract": "This talk offers a brief overview about homograph attacks, describes part of the mechanics behind the registration of homograph domains, highlights their risks and presents a chain of two practical exploits against Signal, Telegram and Tor Browser that could lead to nearly impossible to detect phishing scenarios and also situations where more powerful exploits could be used against an opsec-aware target.",
+    "description": "Since the introduction of Unicode in domain names (known as Internationalized Domain Names, or simply IDN) by ICANN\r\nover two decades ago, a series of brand new security implications were also brought into light together with the\r\npossibility of registering domain names using different alphabets and Unicode characters.\r\n\r\nThis talk offers a brief overview about homograph attacks, describes part of the mechanics behind the registration of homograph domains, highlights their risks and presents a chain of two practical exploits against Signal, Telegram and Tor Browser that could lead to nearly impossible to detect phishing scenarios and also situations where more powerful exploits could be used against an opsec-aware target.\r\n\r\nHistorical security issues related to Unicode and confusable homographs, as well as other attack vectors not discovered by the author will also be explored in this presentation.",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 8669,
+            "public_name": "Julio"
+        }
+    ],
+    "links": [
+        {
+            "url": "https://wildfire.blazeinfosec.com/what-you-see-is-not-what-you-get-when-homographs-attack/",
+            "title": "What you see is not what you get"
+        }
+    ],
+    "attachments": []
+}

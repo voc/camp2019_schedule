@@ -1,0 +1,28 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10184.html",
+    "id": 10184,
+    "guid": "50ed583c-4871-4e8e-a31b-4b2b84385413",
+    "logo": null,
+    "date": "2019-08-24T17:00:00+02:00",
+    "start": "17:00",
+    "duration": "00:45",
+    "room": "Curie",
+    "slug": "Camp2019-10184-from_dc_to_rf_starting_where",
+    "title": "From DC to RF...starting where?",
+    "subtitle": "An analog engineer dives into RF circuits",
+    "track": "Hardware & Making",
+    "type": "lecture",
+    "language": "en",
+    "abstract": "This talk will focus on learning and re-learning RF topics, from the perspective of a  semi-experienced engineer. We will review rules of thumb, practical experience and the theory of RF and how it all fits together for your next PCB design. This will also be contrasted with best-practices for designing lower frequency circuits and how it all fits together. ",
+    "description": "Starting my engineering career working on low level analog measurement, anything above 1kHz kind of felt like \"high frequency\". This is very obviously not the case. This talk will go over the journey of discovering and rediscovering higher frequency techniques and squaring them with the low level measurement basics that I learned at the beginning my career. The talk will include a discussion of Maxwell's equations and some of the assumptions that we make when we're working on different types of circuits. \r\n \r\nAttendees of this talk will find this information useful in the context of RF calculations around cellular, wifi, bluetooth and other commonly available communication methods. CCCamp attendees will walk away knowing a little bit more about how to interact with the elements that power their everyday projects.",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 7093,
+            "public_name": "Chris Gammell"
+        }
+    ],
+    "links": [],
+    "attachments": []
+}

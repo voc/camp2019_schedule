@@ -1,0 +1,33 @@
+{
+    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10298.html",
+    "id": 10298,
+    "guid": "28293a80-2dff-433b-8c79-a714ca4e84bc",
+    "logo": "/system/events/logos/000/010/298/large/46886733.png?1560262902",
+    "date": "2019-08-22T16:00:00+02:00",
+    "start": "16:00",
+    "duration": "00:45",
+    "room": "Meitner",
+    "slug": "Camp2019-10298-taps_transport_services_api",
+    "title": "TAPS Transport Services API",
+    "subtitle": "Retiring the BSD Socket API",
+    "track": "Security",
+    "type": "lecture",
+    "language": "en",
+    "abstract": "In the last year, a group of researchers and some industry people at the IETF decided to join forces and design a replacement of the BSD Socket API. This talk gives an overview about why the BSD Socket API is considered harmful for the Internet's future and how TAPS tries to solve this problem. Besides the facts, also gives some hints about how standardisation at the IETF works and why all this takes so long\u2026",
+    "description": "The BSD Socket API was designed more than 30 years ago. No one back than imagined hosts with multiple access networks, concurrent use of multiple communication protocols, e.g., IPv4 vs IPv6 and TCP/TLS vs QUIC,  and incorporating quality of service (QoS), security and cost constrains for setting up communications. The result is a complex ecosystem of APIs and techniques that must be manually combined in order to write state of the art network applications. \r\n\r\nThe talk will give a brief overview on what choices state of the art network applications can make, why the BSD socket API does not support it and how TAPS tries to solve this. I will also talk a little bit about how standardisation at the IETF works, why one may want to get involved and why all this takes so long\u2026",
+    "recording_license": "",
+    "do_not_record": false,
+    "persons": [
+        {
+            "id": 4277,
+            "public_name": "phils"
+        }
+    ],
+    "links": [
+        {
+            "url": "https://datatracker.ietf.org/wg/taps/documents/",
+            "title": "IETF Transport Services (TAPS) working group"
+        }
+    ],
+    "attachments": []
+}
