@@ -27,8 +27,8 @@
         <abstract>A hearty welcome me lasses and lads!</abstract>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="7797">jinxx</person>
@@ -60,8 +60,8 @@ other card10 devices, probably also your&#13;
 find out more: https://card10.badge.events.ccc.de/&#13;
 FAQ: https://card10.badge.events.ccc.de/en/faq/</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="5339">schneider</person>
@@ -89,8 +89,8 @@ The talk gives an overview of the container escape vulnerabilities in the wild, 
 &#13;
 Finally, it is shown, how Istio has handled the bug report and how future versions from 1.2 will close the exploit using the Container Network Interface (CNI).</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="1382">Thomas Fricke</person>
@@ -120,8 +120,8 @@ More, we'll update you on the topics we have our eyes on in the EU institutions:
 &#13;
 There's only one way to find out. See you at the talk!</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="9013">Chloé Berthélémy (EDRi)</person>
@@ -148,8 +148,8 @@ There's only one way to find out. See you at the talk!</description>
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="6660">Tim 'mithro' Ansell</person>
@@ -178,8 +178,8 @@ There's only one way to find out. See you at the talk!</description>
         <abstract>&lt;a href="https://github.com/osresearch/spispy"&gt;spispy&lt;/a&gt; is an open source hardware tool for emulating SPI flash chips that makes firmware development and boot security research easier. In this talk we'll discuss the challenges of interfacing on the SPI bus and emulating SPI devices, as well as demonstrate how to use it quickly debug issues with coreboot and how we used spispy to discover a critical class of TOCTOU vulnerabilities in secure boot systems like Intel BootGuard.</abstract>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="4825">Trammell Hudson</person>
@@ -211,8 +211,8 @@ The talk will particularly focus on using General Purpose SDRs in the context of
 &#13;
 The talk contains the essence of a decade of witnessing struggling SDR users (not only) with running Osmocom software with them. Let's share that with the next generation of SDR users, to prevent them falling into the same traps.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="1757">LaForge</person>
@@ -238,8 +238,8 @@ The talk contains the essence of a decade of witnessing struggling SDR users (no
         <abstract>Die CCC-family geht campen, das heisst der Knoten wird ausnahmsweise vom abstrakten mathematischen Konzept zur ganz realen Anwendung von Seil und Schnur. Was da alles schiefgehen kann, wo Knoten herkommen und wer sie verwendet wird hier kurz und knackig bearbeitet.</abstract>
         <description>Knoten sind eines dieser Dinge, die man anwendet bevor man sich bewusst ist was man da gerade tut, und gleichzeitig gibt es so viele verschiedene Knoten die in anderen Umfeldern verwendet werden, dass ein ganzheitlicher Überblick über die Materie kaum zu kriegen ist, nicht zuletzt wegen den horrenden Nomenklaturproblemen. In relativ kurzer Zeit werden hier die gefährlichsten, schlechtesten, praktischsten und unbekanntesten Knoten gezeigt, komplett ohne Mathematik und dergleichen.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8875">Lukas "cube" Hannen</person>
@@ -263,8 +263,8 @@ The talk contains the essence of a decade of witnessing struggling SDR users (no
         <abstract>Looking at the sorry saga of drone incident reports and drone-related airport closures in the UK, and shining a light on the woefully poor quality of official investigations, police response, and media reporting.</abstract>
         <description>Over the last few years the UK has seen a public moral panic over reported air proximity incidents between drones and aircraft, including highly-publicised closures of major airports. This has resulted in ever more stringent rules being proposed for drone and multirotor hobbyists. Unfortunately while there have been a lot of reports and a huge amount of hype, in none of the cases has any tangible evidence or proof been produced. Reading official reports raises only questions about their woeful inadequacy, police responses have been ham-fisted and incompetent, and media reporting has been sensationalist and devoid of factual basis or responsible investigation. This talk is built upon several years of reporting on these stories, and aims to throw some light upon the whole sorry saga.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8923">JennyList</person>
@@ -288,8 +288,8 @@ The talk contains the essence of a decade of witnessing struggling SDR users (no
         <abstract>In diesem Vortrag werden die Grundlagen der Silizium-Halbleiter und der  C-MOS-Silizium-Technology vorgestellt und die technischen Abläufe beschrieben, mit denen MOS-Transistoren gebaut werden.</abstract>
         <description>Der Vortrag beschreibt in kurzer Form die elektrischen Eigenschaften von Silizium und wie darauf aufbauend mit Hilfe technischer Prozesse ein MOS-Transistor gebaut werden kann. Auf die technologischen Prozesse wird genauso eingegangen, wie auf die elektrischen Eigenschaften der fertigen C-MOS Schaltungen.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8939">Zigulle</person>
@@ -317,8 +317,8 @@ And i would like to walk through my process of tailoring wearable technology com
 I have many photos and videos to show, not only of the finished works but also of the often messy struggle it takes to get things to work. I can also bring live demonstrations of some of the designs.&#13;
 </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="9114">Plusea</person>
@@ -352,8 +352,8 @@ Two new protocols from this working group are DNS-over-TLS &lt;a href="https://t
 &#13;
 While DoT was initially mostly ignored by OS vendors, ISPs and users alike, DoH was adopted by browser vendors (Mozilla/Firefox and Google/Chrome) and created heated discussions among security and privacy experts. Even to the point that governments discussing way to outlaw DoH.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8916">Carsten Strotmann</person>
@@ -379,8 +379,8 @@ While DoT was initially mostly ignored by OS vendors, ISPs and users alike, DoH 
         <abstract>Typical home networks use a closed-source Internet Service Provider supplied router/firewall and contain no restrictions on communications between clients within the network. The widespread deployment of network-connected appliances, control systems, lighting, etc, means that this design is insecure. This talk will cover the basics of networking, including why and how segregation of different types of network clients and traffic can be achieved to increase privacy and security.</abstract>
         <description>An introduction to wired and wireless networking aimed at home users, but equally applicable in a business context. We will examine basic network theory, typical designs, threats to privacy and security, and steps to reduce the risks presented by these threats. If you are a networking guru, then this is probably not the talk for you. This talk is for anyone interested in learning more about how a small network operates and things they should consider with regards to privacy and security. Topics to be covered: What is Ethernet; how network devices communicate; what is a broadcast zone; what is a subnet; network layers; physical and logical segregation of network traffic;  basic WiFi theory; basics of firewall and wireless access point security and why running your own is better than letting your ISP do it for you.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8952">Egor</person>
@@ -404,8 +404,8 @@ While DoT was initially mostly ignored by OS vendors, ISPs and users alike, DoH 
         <abstract>I’ve made several interactive hackercamp installations over the years. I’ll talk about how they work, how they were made (generally very cheaply), about how people found ways to interact with them, and about what I’ve learned about experience design from them. And about where you can find the source code, obviously.</abstract>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="9002">Jarkman</person>
@@ -447,8 +447,8 @@ This has the implication that some ideas which have been presented&#13;
 years ago are not covered by patents any more.&#13;
 </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="1545">ruedi</person>
@@ -480,8 +480,8 @@ In this talk I will show some examples of interesting IoT devices from various v
 We will use software methods (rooting) and hardware methods (flash dumping). Using this information, I will show how I am able to find the original owner of the device.  Also I discuss various challenges and tricks of the methods, and how to prevent this kind of data leakage for yourself.&#13;
 </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="7869">Dennis Giese</person>
@@ -509,8 +509,8 @@ We will use software methods (rooting) and hardware methods (flash dumping). Usi
         <abstract>Koffein als Substanz wird Tag für Tag aufgrund seiner anregenden Wirkung von vielen Menschen konsumiert, doch was genau steckt eigentlich hinter dieser Substanz? In diesem Talk blicken wir in die Chemie, Herkunft, Wirkung, Gefahren und weitere Aspekte des Koffeins.</abstract>
         <description>Koffein, ein Stoff, den viele (hackende) Menschen tagtäglich in unterschiedlichen Formen konsumieren. Was genau ist diese Substanz eigentlich und wo kommt sie überall vor? Was passiert mit Koffein und mit uns, wenn dieses Molekül durch unseren Körper reist? Und kann Koffein ab einer bestimmten Menge gefährlich werden? Diese und weitere Fragen werden zusammen mit vielem, was Wissenswertes zur Chemie von Koffein existiert, hier thematisiert.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8973">Lea Rain</person>
@@ -540,8 +540,8 @@ In this talk, we will present some UX design principles based on our work with N
 In the course of that, we will also present our process of human-centered design for improving security tools. (Outlined here: https://simplysecure.org/what-we-do/usable-security-audit/ )&#13;
 </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8541">Eileen Wagner</person>
@@ -566,8 +566,8 @@ In the course of that, we will also present our process of human-centered design
 The Talk will introduce basic security knowhow, then show how you can use Open Source Frameworks to check for vulnerable dependencies, containers and (web-)APIs in a live demo</abstract>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="6479">cy</person>
@@ -595,8 +595,8 @@ I will discuss our work-in-progress in this area, the MEGAphone, which is not on
 &#13;
 Private UHF and VHF radio communications is a complex space, in terms of regulation, which we have some experience in due to the Serval Project, which has informed our design of the MEGAphone.  I will thus discuss issues such as using "license free" bands around the world, as well as options for using either licensed spectrum or existing legacy public spectrum allocations, such as Citizen Band (CB) radio.  As the MEGAphone platform is FPGA based, it is quite possible to implement software defined radio solutions to allow flexible and low-cost access to such spectrum.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8890">Paul Gardner-Stephen</person>
@@ -623,8 +623,8 @@ What is often not fully recognized is that this huge ecosystem of mobile hard- a
 &#13;
 This talk will present the experiences we had and have in this industry creating a mobile phone that is running 100% free software, respects the user's digital rights and gives back full control over data and communication to the user - by separating radios from the main CPU, by providing hardware kill switches and by using only free software for the full stack. We will also talk about the huge challenges encountered, from CPU choice to radio choice up through the software stack. It will also share our approaches to solve these challenges and share experience in working with hardware manufacturing companies (globally), from electronics design to product manufacturing.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="9031">Nicole Faerber</person>
@@ -651,8 +651,8 @@ This talk will present the experiences we had and have in this industry creating
         <abstract>Europol und die nationalen Polizeibehörden laufen Sturm gegen die neuen Überwachungsstandards, die im „European Telecom Standards Institute“ (ETSI) gerade für die 5G-Netze entwickelt werden. Die Telekom-Industrie hatte die Strafverfolger im ETSI überstimmt. Es sei "jetzt wichtig, politischen Druck“ auszuüben, "um die Definition des Standards noch zu beeinflussen“, heißt es in einem internen Schreiben von Anti-Terror-Koordinator Gilles de Kerchove an den EU-Ministerrat. Konkret will man die Terlekoms zwingen, ihre 5G-Netzarchitektur entlang der Bedürfnisse der Strafverfolger auf- und Sicherheitslücken für IMSI-Catcher einzubauen. Der Vortrag schildert den letzten Stand dieser Auseinandersetzung. </abstract>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="5097">Erich Moechel</person>
@@ -682,8 +682,8 @@ This talk will present the experiences we had and have in this industry creating
 These vague policies, coupled with the practice of for-profit commercial content moderation, has led to mistakes at scale that are decimating human rights content on these platforms and threatening our civil liberties. Furthermore, the very idea that censorship can solve the deeply rooted&#13;
 problems of extremism in modern society is a mistake. </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="5001">Jillian C. York</person>
@@ -711,8 +711,8 @@ problems of extremism in modern society is a mistake. </description>
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="4601">bigalex</person>
@@ -739,8 +739,8 @@ problems of extremism in modern society is a mistake. </description>
 &#13;
 The talk will give a brief overview on what choices state of the art network applications can make, why the BSD socket API does not support it and how TAPS tries to solve this. I will also talk a little bit about how standardisation at the IETF works, why one may want to get involved and why all this takes so long…</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="4277">phils</person>
@@ -770,8 +770,8 @@ I’ll explain, as a native speaker of Chinese language, the subversive humor an
 &#13;
 You won’t become a China expert after the talk but your will definitely know a bit more about the linguistic and cultural aspects of the country than before. </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8891">Brusda</person>
@@ -799,8 +799,8 @@ Als zeitgenössisches Netzformat tauchen in den meisten ASMR Videos nur aktuelle
 &#13;
 In der Arbeit The Adventures of WH beschäftige ich mich in Kollaboration mit der Künstlerin Anne Baumann, mit Werner Hartmann (1912 - 1988), mein Stiefopa und der Begründer der Mikroelektronik in Ostdeutschland. Von 1961 – 1974 war er Leiter der AME, auch genannt AMD (Arbeitstelle für Molekularelektronik Dresden). Werner Hartmann gehörte einer wissenschaftlichen Elite in der DDR an und wurde aufgrund seiner Parteilosigkeit seit 1965 in der DDR systematisch beschattet und sogar 1974 wegen Spionage-Vorwürfen als Direktor der Arbeitsstelle für Molekularelektronik in Dresden suspendiert. Die Stasi hat 49 Ordner zur Überwachung von WH angelegt. Parallel legte WH ein Archiv mit seinen Memoiren (wissenschaftl. Tätigkeit in der Nazizeit, Sowjetunion und der DDR) sowie seinen Gedanken zur Mikroelektronik, u.a. an.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="7830">Nadja Buttendorf</person>
@@ -833,8 +833,8 @@ In der Arbeit The Adventures of WH beschäftige ich mich in Kollaboration mit de
         <abstract>During an independent security assessment of several pacemaker vendors multiple lethal and highly critical vulnerabilities were found. Based on previous experience with one specific vendor a new way of monetising vulnerabilities has been chosen. After going public a huge discussion on vulnerability disclosure ethics and responsibilities began. The stock value of the affected vendor dropped by 2 billion dollar just in one single day. The security researchers got discredited and a huge lawsuit was started. After a year of mutual accusations and denial more than 500.000 pacemakers got recalled. This talk will provide insights into pacemaker security and share first-hand experience gathered during this project. A special focus will also be on ethical vulnerability disclosure and lessons learned for future security research.</abstract>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="9063">Tobias Zillner </person>
@@ -858,8 +858,8 @@ In der Arbeit The Adventures of WH beschäftige ich mich in Kollaboration mit de
         <abstract>Battle of making the NetBSD better software by leveraging anykernels</abstract>
         <description>The NetBSD offers RUMP anykernel which lets users to do the magic and execute drivers, network stacks or file systems in userspace. Having kernel parts running in user space is a great opportunity to fuzz them efficiently without fancy kernel approaches. First general information about RUMP will be discussed to get the audience familiar with the subject, then results focused on testing network stack will be presented along with encountered problems and other fuzzing efforts that currently are taking place in the NetBSD project.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="9049">Akat1 Majorana</person>
@@ -894,8 +894,8 @@ In this talk we will shortly state the chosen approach and will then compare our
 &#13;
 Finally we will give some ideas on how to read between the lines in datasheets. Additionally, we will outline the legal gray area of applied security research in academia.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="9019">Johannes</person>
@@ -936,8 +936,8 @@ Finally we will give some ideas on how to read between the lines in datasheets. 
 &lt;p&gt;Im Quiz selbst müssen die Kandidaten in ihren Antworten praktische Lösungsvorschläge für häufige technische und rechtliche Probleme vorschlagen, zum Beispiel welche technischen Maßnahmen bei bestimmten Datenpannen nach dem „Stand der Technik“ angebracht sind, ob man als Website-Betreiber denn nun Google Analytics nutzen darf oder wie man sich gegen rechtswidrige Datensammler wehrt. Dadurch können Teilnehmer wie Zuschauer die praktische Anwendung der DS-GVO spielerisch lernen.&lt;/p&gt;&#13;
 </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="4555">Alvar C.H. Freude</person>
@@ -990,8 +990,8 @@ Finally we will give some ideas on how to read between the lines in datasheets. 
   datenschutzfreundliche Systeme sorgen können.&#13;
 </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="1545">ruedi</person>
@@ -1019,8 +1019,8 @@ Finally we will give some ideas on how to read between the lines in datasheets. 
 I will use the popular Zombie Apocalypse metaphor to illustrate the various prevention mechanisms of the IHR and how they were (and will be) circumvented by past and future epidemics. &#13;
 </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="1408">floX</person>
@@ -1044,8 +1044,8 @@ I will use the popular Zombie Apocalypse metaphor to illustrate the various prev
         <abstract>The Tor Project is building usable free software to fight surveillance and censorship across the globe. In this talk we'll give an update on what we have been up to in the past months, what happened in the wider Tor ecosystem, and what lies ahead of us.</abstract>
         <description>In the last year the Tor Project has been working hard on improving the software, building and training communities around the world as well as creating an anti-censorship team and roadmap that can push forward technologies to circumvent censorship. This talk will cover major milestones we achieved and will give an outline about what is lying ahead. In particular, we'll talk about the release of Tor Browser for Android and restructuring our anti-censorship efforts as well as working on next generation pluggable transports. Moreover, we'll explain our defense against website traffic fingerprinting attacks and plans for improving onion services and making them more usable (DDoS resistance, better user interfaces for authentication and dealing with errors). Finally, we'll shed some light on efforts to get Tor support directly embedded into other browsers, like Firefox and Brave, and educating users both by reorganizing the content on our website and extensive trainings throughout the world.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="7805">GeKo</person>
@@ -1073,8 +1073,8 @@ Ebenfalls auf der Tagesordnung stehen die weiteren Verhandlungen für eine Veror
 Schließlich arbeitet die EU an einer Neuauflage der Vorratsdatenspeicherung von Telekommunikationsdaten. Im Juni haben die Innenminister hierzu Schlussfolgerungen erlassen, die den Fahrplan vorgeben. Zwar ist die Rede von einer „beschränkten“ Vorratsdatenspeicherung. Tatsächlich wollen die Polizeien und Geheimdienste aber nur auf wenige Informationen verzichten, darunter die Länge genutzter Antennen, die Verbindungsqualität oder die Zahl der Klingeltöne des genutzten Telefons. Auch Berufsgeheimnisträger werden anlasslos überwacht, außer sie stellen einen Antrag auf Befreiung.&#13;
 Längst beschlossen und umgesetzt ist die EU-Richtlinie zur Speicherung von Fluggastdaten. Airlines, Reisebüros und andere Reiseanbieter müssen vor jedem internationalen Flug „Passenger Name Records“ (PNR) an die zuständige Fluggastdatenzentralstelle übermitteln. Allein in Deutschland werden in den nächsten Monaten 500 neue Stellen bei BKA, Bundespolizei, Zoll und Verwaltungsamt besetzt. Diese ufer- und anlasslose Vorratsdatenspeicherung ist ein gutes schlechtes Beispiel, weshalb den noch zu beschließenden EU-Vorhaben entschlossen entgegengetreten werden muss.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8990">Matthias Monroy</person>
@@ -1101,8 +1101,8 @@ Wir haben eines dieser internen Bezahlsysteme einmal genauer in Bezug auf seine 
 Die Informationssicherheit ist bei diesen Systemen von großer Bedeutung, um das Geld der Kunden und auch das Geld des Betreibers, der für die Abwicklung der Zahlung an die jeweiligen Abteilungen oder Dienstleistern die Verantwortung trägt, zu schützen.&#13;
 In diesem Talk soll die Sicherheit eines dieser Cloud-basierten Systeme genauer beleuchtet und dabei ein Großteil seiner Sicherheitsarchitektur auseinandergenommen werden.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8906">Janis Streib</person>
@@ -1135,8 +1135,8 @@ MegaPixels is developed by:&#13;
 Adam Harvey / &lt;a href="https://ahprojects.com"&gt;ahprojects.com&lt;/a&gt;&#13;
 Jules LaPlace / &lt;a href="https://asdf.us"&gt;asdf.us&lt;/a&gt;</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="7024">Adam Harvey</person>
@@ -1166,8 +1166,8 @@ In this talk we will show and explain the tools and methods we used and develope
 &#13;
 Methods shown will cover the reverse engineering of the wireless protocol based on BTLE captures, analyzing phone apps and intercepting the TLS encrypted traffic to the back end API, which in combination led to the compromise of a system used in quite some big and expensive hotels for their "next level" customer experience: mobile room keys.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="9037">Ray</person>
@@ -1232,8 +1232,8 @@ interactions with Distributed Hash Tables and Conflict Free&#13;
 Replicating Data Types et cetera.&#13;
 </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="7790">David Stainton</person>
@@ -1261,8 +1261,8 @@ Replicating Data Types et cetera.&#13;
         <description>Neun Sektoren wurden in den ersten zwei Körben des IT-Sicherheitsgesetz als kritische Infrastrukturen definiert. Darunter fallen Energieversorgung, Finanz- und Versicherungswesen,&#13;
 Wasser, Ernährung, Gesundheit, IT und TK, Transport und Verkehr. Deren durch IT-Störungen bedingter Versorgungsausfall kann zu einem Großlagebild oder sogar zu einer Krise führen, in der eine Versorgung eines großen Teils der Bevölkerung nicht mehr gewährleistet werden könnte. Wie riskiert der Staat durch eine offensive Cyberwar Vorgehensweise und hybride Kriegsführung dazu, diese Risiken zu erhöhen und warum trifft uns das als Bevölkerung ganz konkret und spielt sich nicht nur im Internet ab? Wie kann es zu physischen IT-Störungen und Ausfällen kommen und was müsste man als Forderungen dagegen vornehmen, um von einer offensiven zu einer defensiven Vorgehensweise zurück zu kommen. Und wieso liegt darin die einzig wahre Lösung für die Bevölkerung?</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="1294">HonkHase</person>
@@ -1310,8 +1310,8 @@ All tools necessary to perform this attack will be released as impacket modules.
 &#13;
 This talk is mainly based on research by @tifkin_ (Lee Christensen), @harmj0y (Will Schroeder), @enigma0x3 (Matt Nelson), @elad_shamir (Elad Shamir), @_dirkjan (Dirk-jan). </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8953">JaGoTu</person>
@@ -1335,8 +1335,8 @@ This talk is mainly based on research by @tifkin_ (Lee Christensen), @harmj0y (W
         <abstract>Presenting the Disruption Network Lab programme in Berlin, we will connect the debate on surveillance and whistleblowing to a cultural framework, analysing the influence of whistleblowing in empowering both experts and non-experts. A talk with Tatiana T_Bazz Bazzichelli and Lieke Ploeger / Disruption Network Lab.</abstract>
         <description>The act of whistleblowing is a concrete process able to reveal hidden facts, misconducts and wrongdoings of institutions and corporations, producing awareness about social, political and technological matters, informing about the reality we live in. Presenting the Disruption Network Lab programme in Berlin, we will connect the debate on surveillance and whistleblowing to a cultural framework, analysing the influence of whistleblowing in empowering both experts and non-experts. The talk will present the mutual interference between whistleblowing, art, hacking, and network development, as well as reflect on the influence of whistleblowing in the art &amp; cultural field. This presentation aims to further question what we can collectively offer to encourage a critical debate on the effects of whistleblowing in society, as well as to generate experimental ways of thinking within the digital scenario.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8888">Tatiana Bazzichelli / Disruption Network Lab</person>
@@ -1368,8 +1368,8 @@ Um die Sicherheit bereits installierter, langlebiger Gebäudeinfrastrukturen den
 &#13;
  Darüber hinaus wird ein entwickelter Testdatensatz zur Evaluierung solcher und anderer Ansätze vorgestellt.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="9060">Simeon</person>
@@ -1399,8 +1399,8 @@ This talk will look at the ways in which these techniques can be usefully applie
 &#13;
 </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="9076">Michael Cruickshank</person>
@@ -1425,8 +1425,8 @@ This talk will look at the ways in which these techniques can be usefully applie
 </abstract>
         <description>Der genauere Inhalt musst erst gemeinsam festgelegt werden, es wird auch Bilder geben. Sicher ist, wir werden Klartext reden, wobei auch ein Outing nicht auszuschließen ist.  </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="5097">Erich Moechel</person>
@@ -1473,8 +1473,8 @@ Vielleicht - hoffentlich - ergibt sich im Anschluss an den Talk die Gelegenheit 
 &#13;
 Image by &lt;a href="https://pixabay.com/users/ElisaRiva-1348268/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1831016"&gt;ElisaRiva&lt;/a&gt; from &lt;a href="https://pixabay.com/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1831016"&gt;Pixabay&lt;/a&gt;</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="1864">Anne Roth</person>
@@ -1511,8 +1511,8 @@ After watching this talk, you will have a better understanding of the pipelines 
 &#13;
 </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8887">folkert</person>
@@ -1542,8 +1542,8 @@ This talk offers a brief overview about homograph attacks, describes part of the
 &#13;
 Historical security issues related to Unicode and confusable homographs, as well as other attack vectors not discovered by the author will also be explored in this presentation.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8669">Julio</person>
@@ -1571,8 +1571,8 @@ Historical security issues related to Unicode and confusable homographs, as well
 &#13;
 These tools, called Dreams and Realities are run alongside a customized version of the Loomio platform and our own instance of the Pretix ticketing platform. Dreams is for distributed art-grant distribution and project guidance. Realites is for stakeholder-mapping to understand how the needs, responsibilities, people and dependencies fit together in a decentralized organization.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8997">hugi</person>
@@ -1607,8 +1607,8 @@ These tools, called Dreams and Realities are run alongside a customized version 
 &lt;p&gt;We will also cover how some of these techniques can be reversed (specially when perfoming comparative analysis).&lt;/p&gt;&#13;
 &lt;p&gt;Keep in mind that although LO started as a way to provide a way to deterministically increase variability in generated code and make finding out the patched flaws harder, many of it's techniques like code flattening or constant expansions are also used by other users of obfuscated code, for example malware.&lt;/p&gt;</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8931">Klondike</person>
@@ -1646,8 +1646,8 @@ This comes at a huge cost: instead of the &lt;i&gt; polis &lt;/i&gt;, which mean
 &#13;
 In this talk, I will detail the "Technopolice" campaign, its importance for every single human being willing to protect their freedom of movement and right to exist without being constantly subjected to surveillance. I'll explain the importance of decentralising such a campaign, and how we will try to federate the data and the organisations around this project.&lt;/br&gt;</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8988">Guinness</person>
@@ -1675,8 +1675,8 @@ Wir zeigen, wie wenig konkret die verschiedenen Selbstverpflichtungen der Untern
 &#13;
 Wir zeigen, wie wenig konkret die verschiedenen Selbstverpflichtungen der Unternehmen, Verbände und Organisationen sind und wie all das Reden über Ethik  in den meisten Fällen einem Ziel dient: gesetzliche Regulierung verhindern.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8967">Chris Köver</person>
@@ -1715,8 +1715,8 @@ Who should attend:&#13;
 &#13;
 While the format is a lecture, I hope we can find an open space afterwards to continue debating and discussing these questions and the theme as a whole. My goal is to help educate and inspire work around privacy that benefits not just those who attend the Camp, but instead reaches beyond our privacy-aware social circles, to help those who do not have access to privacy. </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="7681">Katharine Jarmul</person>
@@ -1742,8 +1742,8 @@ While the format is a lecture, I hope we can find an open space afterwards to co
  &#13;
 Attendees of this talk will find this information useful in the context of RF calculations around cellular, wifi, bluetooth and other commonly available communication methods. CCCamp attendees will walk away knowing a little bit more about how to interact with the elements that power their everyday projects.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="7093">Chris Gammell</person>
@@ -1773,8 +1773,8 @@ Which scanning algorithms are used (centralized, distributed, BGP prefix hit lis
 &#13;
 In the first half of the talk we will deal with these questions. In the second half of the lecture we will discuss real scan data. We will concentrate on the analysis of the network topology and distribution of BGP prefixes, whois blocks and network services of well-known autonomous systems on the Internet. As a further example, we will look at the network structure of a large well-known German hoster, which gives us a good overview of its internal organization of data centers and other services. Finally, we will look at some data and analysis from a security perspective.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="9072">Johannes Klick 'Garak'</person>
@@ -1816,8 +1816,8 @@ This task can be approached by translating it into an optimization problem: Find
 &#13;
 This talk presents an analysis of this optimization problem by comparison of the relevant factors (emissions, affordability, impact, sources) of different energy sources (coal, natural gas, wind, solar, biomass, nuclear and oil). Our aim is to categorize different energy sources under a strict scientific regime without emotional debates, putting price tags on each of them not only made of money but also factors like emissions, fuckup factors, health concerns, and the cost of human lives per TWh. </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8978">Julia Riede</person>
@@ -1843,8 +1843,8 @@ This talk presents an analysis of this optimization problem by comparison of the
 &#13;
 Begleitet uns in einem besinnlichen Diavortrag bei Geschichten einer abenteuerlichen Jagd nach den Datensätzen, von nervenaufreibendem Starren auf Binärmuster, um den Geheimnissen der Encraption auf den Grund zu gehen und dem überwältigenden Gefühl, mal an Datenmengen zu schnuppern, die noch vor ein paar Jahren problemlos als “Big Data” durchgegangen wären.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="1544">erdgeist</person>
@@ -1869,8 +1869,8 @@ Begleitet uns in einem besinnlichen Diavortrag bei Geschichten einer abenteuerli
         <abstract>This talk will present a secure IoT architecture by design, incorporating secure boot (such as HAB of iMx6), secure update processes, system partitioning and redundancy, system recovery, flash wear-out, and secure remote access, </abstract>
         <description>This talk will present a secure IoT architecture by design, incorporating secure boot (such as HAB of iMx6), secure update processes, system partitioning and redundancy, system recovery, flash wear-out, and secure remote access, </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3031">frehberg</person>
@@ -1896,8 +1896,8 @@ Begleitet uns in einem besinnlichen Diavortrag bei Geschichten einer abenteuerli
         <abstract>Here we are, a new generation. Actually not only that, we are moving forward in evolution. The Antropocene is screaming for action, but -  „Yeah right, I know... we‘re working on it!“ she told me. Does Sophia really know? Do I care? 42?</abstract>
         <description>In some people‘s minds, utopian thoughts are blizzering around in thunderstorms of beautiful insanity, yet unfortunately  some others‘ minds seem to be hopeless cases if it comes to the essential understanding of problems. Sure, everyone knows what we‘re talking about. In theory, there is a strong need to change things, not only concerning politics, philosophy, art or physics: almost every academic discipline seems to grow some kind of interdisciplinary necessity into an important status. Sadly, the worlds` leaders suck horribly at reaching any fair and positive social state for all the inhabitants of this beautiful planet. But, since education can be based on solidarity, and swarm intelligence apparently grows into neural networks, there is no better time to sit down and talk about all those moral problems than now. Any change needs to be made by an individual, as far as we know. Let‘s get together, exchange knowledge, fight in peace and use the language of conceptual art as a weapon!</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="9128">Lio</person>
@@ -1930,8 +1930,8 @@ Kai Landre - Cosmic rays&#13;
 &#13;
 In addition, we have the satisfaction of announcing that the CCC will be the first to know about the pioneering technology that we are developing to power the devices.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="9029">Mo</person>
@@ -1963,8 +1963,8 @@ Die Wahrnehmung von Betriebssystemen als Schnittstelle zwischen Mensch und Masch
 Das Anthropzän verlangt den Übergang in die Noosphäre. Und das heißt, wir müssen das  Urheberrecht als juristisches Betriebssystem unserer Wissensordnung in Ordnung bringen, das Netz als seine technische Infrastruktur redezentralisieren und semantifizieren, unser wissenschaftliches, journalistisches und künstlerisches Sensorium stärken und Werkzeuge entwickeln, die es uns erlauben, gemeinsam zu denken und zu enstscheiden. Mehr als künstliche brauchen wir menschliche kollektive Intelligenz, um die Betriebssysteme unserer Gesellschaft mit kollektiver Weisheit auszustatten.</abstract>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="5580">vgrass</person>
@@ -1998,8 +1998,8 @@ I want to give a brief introductive overview on these different approaches and t
 &#13;
 For these carbon capture and utilization (CCU) concepts, like for example electrolysis of water coupled with a second catalytic CO2 reduction step or direct electrocatalytic CO2-reduction, I will present the technical working principles, the chemistry behind it and discuss possibilities and challenges. </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8883">Jonas Geisler</person>
@@ -2027,8 +2027,8 @@ Die Anwendung auf allgemeinere Zeitschriftenprojekte wird am Beispiel des Forks 
 &#13;
 Darüber hinaus liefert der Vortrag durch die Struktur der Schleuderpackung einen Einblick in aktuelle Entwicklungen aus dem LaTeX-Umfeld, wie expl3 Programmierung, die Lua Kopplung und die weitere Planung in Richtung Barrierefreiheit.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8989">marei</person>
@@ -2053,8 +2053,8 @@ Darüber hinaus liefert der Vortrag durch die Struktur der Schleuderpackung eine
         <description>Since the first "beep" from Sputnik, there have been many different artificial signals from satellites, capsules and space stations being send back to earth. These multitude of RF (and laser...) signals not only show how different mission requirements dictate the system design for different spacecrafts, but also chronicle advances in communication technology since the advent of the space age.&#13;
 So get to know how to understand the languages spoken by Voyager, GPS and satellite TV, and learn basics of RF communication in the process! </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="6049">INCO</person>
@@ -2092,8 +2092,8 @@ About the presenter:&#13;
 &#13;
 I am currently doing my PhD at a research institute that focuses on embedded security. I am in the final phase of my dissertation about physical security enclosures, based on PUFs. This offers me a deep insight into the current development status of Physical Security Enclosures. In this talk, I want to share my experience with various solutions, from an analysis of a few up to the development of others. My goal is to discuss novel PUF-based solutions openly to raise awareness and to encourage more research into this interesting direction - from attacks up to countermeasures.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="9019">Johannes</person>
@@ -2128,8 +2128,8 @@ Anonymous authentication credentials have existed since early blind signature sc
 &#13;
 Lastly, we'll review how we build the initial work using European Commission funding from NEXTLEAP and PANORAMIX, how Facebook nearly killed the project, and now how we are building from both non-profit and private sector sources, including hiring ex-Facebook employees to work on privacy. </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="7810">Harry Halpin</person>
@@ -2171,8 +2171,8 @@ Secondly, users cannot be expected to possess an innate sense of “right and wr
 &#13;
 All in all, this presentation aims to provide a tool for thinking that may be put to use in various cases and discussions. It formulates the ethical imperative for technologists to act upon their expertise-enabled moral intuitions, and calls for an active “memetic engineering process” to “intelligently design” appropriate, culturally learned societal intuitions and responses for our technological present and future.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="5500">Wilhelm Klein</person>
@@ -2200,8 +2200,8 @@ The display has come quite far. Originally one could watch individual characters
 &#13;
 Key words: 6502, CSS, Ethernet, ATXMEGA, JavaScript, Cortex-M3, WebSockets, AM335x, BeagleBone Black, PRU, Etherpad, CNC machining, Aluminium Welding</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="2142">Peter Stuge</person>
@@ -2226,8 +2226,8 @@ Key words: 6502, CSS, Ethernet, ATXMEGA, JavaScript, Cortex-M3, WebSockets, AM33
         <abstract>Infastructure Review des Camp 2019 Stromnetz aus Sicht des auf der GPN in der Theorie vorgestellten Low Cost Power Monitoring. Aufbau des Monitoring-Netzes, Inbetriebname und Ergebnisse von Tag -1 bis Tag 4</abstract>
         <description>Wie verhält sich das Netz von c3Power auf dem Camp 2019 zu den verschiedene Tageszeiten, wie sieht die Auswertung von z.B. Lastverteilung, Netzoberwellen, Fehlerrate aus. Visualisierung der Daten in Grafana, Server Infrastruktur. Do:s and don't:s vom Aufbau der Hardware, Betrieb bei 50 Grad plus und 10 cm Wasserstand im Freien. Stabiltät des Campnetzes in den ersten 4 Tagen. Integration ins DMR Funknetz über MMDVM Hotspots zum absenden der Fehlermeldungen als DMR SMS. Abhandeln der Störmeldungen. Impressionen vom c3power Team während des Events.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3701">RFguy</person>
@@ -2251,8 +2251,8 @@ Key words: 6502, CSS, Ethernet, ATXMEGA, JavaScript, Cortex-M3, WebSockets, AM33
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons/>
         <links/>
@@ -2274,8 +2274,8 @@ Key words: 6502, CSS, Ethernet, ATXMEGA, JavaScript, Cortex-M3, WebSockets, AM33
         <abstract>A farewell.</abstract>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="7797">jinxx</person>
@@ -2308,8 +2308,8 @@ Second, I'll talk about my personal experience with game jams: I'll explain how 
 And finally, I want to empower you to try this for yourself. Specifically, I'll explain how the "Ludum Dare" game jam works, and share some tips, tricks, and resources I have assembled over the years, that would have been useful for myself as I just was starting out.&#13;
 </description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="6697">blinry</person>
@@ -2337,8 +2337,8 @@ Dabei schauen wir uns zurerst die aktuelle Entwicklung auf dem WLAN-Hardwaremark
 &#13;
 Im Anschluss betrachten wir die aktuellen Herausforderungen die viele Communities gerade mit stark limitierter Hardware trifft und möchten auch einen Blick auf kommende Herausforderungen werfen.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="9053">blocktrron</person>
@@ -2366,8 +2366,8 @@ After introducing some basic concepts, a large part of the talk will consist of 
 Networks are often depicted visually as sets of points on a plane connected by lines - at large scales however, this image becomes too difficult to interpret due to high density of points and/or too many line crossings. So it is essential to determine an ideal placement of the network's parts in order to reveal its structure in the most clear and informative way.&#13;
 The laws of physics inherently contain dynamics capable of creating aesthetically appealing arrangements of high complexity, as can be seen in snowflakes, soap bubbles, crystals, or molecules in 3d space. By encoding physical qualities and dynamics in a network, we can leverage the laws of motion and the corresponding forces to let them shape the network. As the network is now acting like a physical system, it evolves towards a configuration of minimum energy and reaches a final state that exposes the symmetries, connected parts, and other features, in analogy to the wonderfully complex structures found in Nature.</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="9056">aphotic</person>
