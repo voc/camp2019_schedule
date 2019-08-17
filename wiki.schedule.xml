@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-17 21:20</version>
+  <version>2019-08-17 21:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -4367,11 +4367,11 @@ you don't need to know about security or vulnerability management to do the work
         <description>workshop will feature the following Tools:&#13;
 - OWASP dependency-check (workshop will focus on java/maven/gradle, but feel free bring your own languages and dependencies so i can learn something too:) )&#13;
 - CoreOS Clair for container scanning&#13;
-- OWASP Zap for API scanning&#13;
+- OWASP Zap for API scanning (technically not A9, but many the others;) )&#13;
 &#13;
 if we have time (or if you're interested after the actual workshop) we can further discuss how we can shape the process of fixing said vulnerabilities in our daily dev/ops/x jobs (or we can just rant about security over some beers)&#13;
 &#13;
-i speak english and german, so dont be scared if your english is not too good. we will get along :-)</description>
+we speak english and german, so dont be scared if your english is not too good. we will get along :-)</description>
         <recording>
           <license/>
           <optout>false</optout>
