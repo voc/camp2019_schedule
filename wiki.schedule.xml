@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-17 19:10</version>
+  <version>2019-08-17 19:20</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -575,7 +575,7 @@ Anhand von Beispielen wird gezeigt, welche Rebound-Effekte in dem Zusammenhang b
         <description>Der Titel bezieht sich auf das Versprechen der Dematerialisierung, welches oft mit Digitalisierung in Verbindung gebracht wird. Es soll kritisch hinterfragt werden, ob Digitalisierung dabei helfen kann, die Umwelt zu schonen, indem weniger Ressourcen verbraucht werden. Am Beispiel des Konsums wird gezeigt, dass die derzeitige Art von Digitalisierung die Umweltzerstörung vorantreibt, als sie zu verringern.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="44">

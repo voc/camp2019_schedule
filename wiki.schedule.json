@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-17 19:10",
+    "version": "2019-08-17 19:20",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -617,7 +617,7 @@
                 "abstract": "Der Vortrag soll einen \u00dcberblick \u00fcber die sozialen und \u00f6kologischen Auswirkungen der Digitalisierung von Dienstleistungen oder Prozessen und der steigenden Vernetzung von elektronischen Ger\u00e4ten geben. Dabei spielt die materielle Basis von Digitalisierung mit der Rohstoffgewinnung und dem Ressourcenverbrauch eine entscheidende Rolle, sowie die enorm steigende Datennutzung. \r\nAnhand von Beispielen wird gezeigt, welche Rebound-Effekte in dem Zusammenhang bestehen und wie sie Effizienzsteigerungen zunichte machen.",
                 "description": "Der Titel bezieht sich auf das Versprechen der Dematerialisierung, welches oft mit Digitalisierung in Verbindung gebracht wird. Es soll kritisch hinterfragt werden, ob Digitalisierung dabei helfen kann, die Umwelt zu schonen, indem weniger Ressourcen verbraucht werden. Am Beispiel des Konsums wird gezeigt, dass die derzeitige Art von Digitalisierung die Umweltzerst\u00f6rung vorantreibt, als sie zu verringern.",
                 "recording_license": "",
-                "do_not_record": true,
+                "do_not_record": false,
                 "persons": [
                   {
                     "id": 44,
