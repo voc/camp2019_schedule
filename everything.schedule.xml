@@ -528,7 +528,7 @@ We will use software methods (rooting) and hardware methods (flash dumping). Usi
       </event>
     </room>
     <room name="Plank">
-      <event id="42" guid="ecc2fea1-4e7c-5dce-a88c-e808dd245271">
+      <event id="142" guid="ecc2fea1-4e7c-5dce-a88c-e808dd245271">
         <logo/>
         <date>2019-08-21T15:00:00+00:00</date>
         <start>15:00</start>
@@ -558,7 +558,7 @@ We will use software methods (rooting) and hardware methods (flash dumping). Usi
         <attachments/>
         <answers/>
       </event>
-      <event id="41" guid="74ebea5d-e24e-55a0-99a4-f13879394f48">
+      <event id="141" guid="74ebea5d-e24e-55a0-99a4-f13879394f48">
         <logo/>
         <date>2019-08-21T16:15:00+00:00</date>
         <start>16:15</start>
@@ -589,7 +589,7 @@ Anhand von Beispielen wird gezeigt, welche Rebound-Effekte in dem Zusammenhang b
         <attachments/>
         <answers/>
       </event>
-      <event id="14" guid="d1d313f5-926b-5357-b764-4c85cb9dddfc">
+      <event id="114" guid="d1d313f5-926b-5357-b764-4c85cb9dddfc">
         <logo/>
         <date>2019-08-21T18:30:00+00:00</date>
         <start>18:30</start>
@@ -625,7 +625,7 @@ Der Kurzvortrag gibt einen Einstieg ins Thema und erklärt, was ich vorhabe, wen
         <attachments/>
         <answers/>
       </event>
-      <event id="48" guid="b4902bdb-38ab-5abb-9884-5efdb4bca02f">
+      <event id="148" guid="b4902bdb-38ab-5abb-9884-5efdb4bca02f">
         <logo>/media/thms/images/KXW3SP/digital-vs.-printversion_print-version-for-banners-shirts-etc._1500x1500.png</logo>
         <date>2019-08-21T19:15:00+00:00</date>
         <start>19:15</start>
@@ -659,7 +659,7 @@ FridaysForFuture - die größte SchülerInnenbewegung aller Zeiten weltweit. Wie
         <attachments/>
         <answers/>
       </event>
-      <event id="33" guid="6d16f60d-11cd-53ca-88bb-ccd014b20a9e">
+      <event id="133" guid="6d16f60d-11cd-53ca-88bb-ccd014b20a9e">
         <logo>/media/thms/images/PEXUEM/nice-view-computerraum.jpg</logo>
         <date>2019-08-21T20:00:00+00:00</date>
         <start>20:00</start>
@@ -701,7 +701,7 @@ Seit 2003 Mitgründer und Heimleiter der &amp;bdquo;Restrealitaet&amp;ldquo;, ei
         <attachments/>
         <answers/>
       </event>
-      <event id="49" guid="eda75c8d-fe02-5986-a6c3-d0b699231b6a">
+      <event id="149" guid="eda75c8d-fe02-5986-a6c3-d0b699231b6a">
         <logo/>
         <date>2019-08-21T21:15:00+00:00</date>
         <start>21:15</start>
@@ -758,7 +758,7 @@ die Zukunft zu erhalten</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="44" guid="c1dbaff1-600d-5496-9de7-2ee0b55ee993">
+      <event id="144" guid="c1dbaff1-600d-5496-9de7-2ee0b55ee993">
         <logo/>
         <date>2019-08-21T22:30:00+00:00</date>
         <start>22:30</start>
@@ -790,7 +790,7 @@ DJ/Liveset - Soul, Jazz, Funk</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="5" guid="8b56bef8-edb3-519a-9a48-6a80f4bb9566">
+      <event id="105" guid="8b56bef8-edb3-519a-9a48-6a80f4bb9566">
         <logo>/media/thms/images/DLS83T/Dc8jzhwW0AA1KDn_1.jpg</logo>
         <date>2019-08-22T00:30:00+00:00</date>
         <start>00:30</start>
@@ -820,7 +820,7 @@ DJ/Liveset - Soul, Jazz, Funk</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="6" guid="bffe36f4-428d-57ba-bcab-01b681292b55">
+      <event id="106" guid="bffe36f4-428d-57ba-bcab-01b681292b55">
         <logo>/media/thms/images/FASSF7/Eat_The_Bass_2.jpg</logo>
         <date>2019-08-22T02:30:00+00:00</date>
         <start>02:30</start>
@@ -853,7 +853,7 @@ Check out my mixes on [Soundcloud] (https://soundcloud.com/barbnerdy)</descripti
       </event>
     </room>
     <room name="Workshop">
-      <event id="40" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
+      <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
         <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
         <date>2019-08-21T14:00:00+00:00</date>
         <start>14:00</start>
@@ -884,7 +884,7 @@ Consultation hours are held in German or English, depending on the need. Oh, and
         <attachments/>
         <answers/>
       </event>
-      <event id="16" guid="0d5c9c41-398c-5f2b-aeec-34f1ea5ac454">
+      <event id="116" guid="0d5c9c41-398c-5f2b-aeec-34f1ea5ac454">
         <logo>/media/thms/images/A879ZK/cccamp19_3.png</logo>
         <date>2019-08-21T15:15:00+00:00</date>
         <start>15:15</start>
@@ -913,6 +913,611 @@ Consultation hours are held in German or English, depending on the need. Oh, and
         <links/>
         <attachments/>
         <answers/>
+      </event>
+    </room>
+    <room name="">
+      <event id="1035" guid="F3ab2794-e73a-4b02-9fc7-07fbf1dbe66c">
+        <logo/>
+        <date>2019-08-21T16:15:00+02:00</date>
+        <start>16:15</start>
+        <duration>1:30</duration>
+        <room/>
+        <slug>camp2019-1035-session_awarenessteam_vorstellung</slug>
+        <title>Awarenessteam-Vorstellung</title>
+        <subtitle>Vorstellung</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Vorstellung des Awarenessteams und dessen Konzept</description>
+        <persons/>
+        <links>
+          <link>http://help.ccc.de/awareness</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Awarenessteam-Vorstellung</link>
+        </links>
+      </event>
+      <event id="1101" guid="8ee75b4c-727a-44d8-ae76-3da535871523">
+        <logo/>
+        <date>2019-08-21T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room/>
+        <slug>camp2019-1101-session_kubernetes_security_overview</slug>
+        <title>Kubernetes Security Overview</title>
+        <subtitle>Kubernetes Security Basics</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Kubernetes makes it easy to deploy microservices. However, the price is a huge amount of complexity. If you use Kubernetes, it is high time to learn the basics of container and Kubernetes security.  Handson workshop on selected topics of Kubernetes security.</description>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Kubernetes_Security_Overview</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Foodhackingbase">
+      <event id="1046" guid="F5538214-33b5-45fd-9c69-a9acef3e322e">
+        <logo/>
+        <date>2019-08-21T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Village:Foodhackingbase</room>
+        <slug>camp2019-1046-session_cheese_rendezvous</slug>
+        <title>Cheese Rendezvous</title>
+        <subtitle>Session I.</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Selection of delicious cheeses and condiments for you!</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Algoldor">Algoldor</person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Cheesetasting_ccccamp2019</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Cheese_Rendezvous</link>
+        </links>
+      </event>
+      <event id="1097" guid="Ad76e911-3536-4b60-81bc-93fb0f2ddc12">
+        <logo/>
+        <date>2019-08-21T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Village:Foodhackingbase</room>
+        <slug>camp2019-1097-session_introduction_to_tempeh_making</slug>
+        <title>Introduction to Tempeh Making</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>You will learn how to make your own tempeh.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Algoldor">Algoldor</person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Tempeh_making_ccccamp2019</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Introduction_to_Tempeh_Making</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:LaTeX">
+      <event id="1050" guid="78fe0714-c035-4464-baa9-4a766d058311">
+        <logo/>
+        <date>2019-08-21T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Village:LaTeX</room>
+        <slug>camp2019-1050-session_context_fuer_anfaenger</slug>
+        <title>ConTeXt für Anfänger</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Introduction into ConTeXt</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Hraban">Hraban</person>
+        </persons>
+        <links>
+          <link>http://wiki.contextgarden.net</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:ConTeXt_f%C3%BCr_Anf%C3%A4nger</link>
+        </links>
+      </event>
+      <event id="1064" guid="4100c30a-0e78-403d-a5c8-b0d7387b1ef7">
+        <logo/>
+        <date>2019-08-21T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Village:LaTeX</room>
+        <slug>camp2019-1064-session_einfuehrung_in_latex</slug>
+        <title>Einführung in LaTeX</title>
+        <subtitle>(Individual 1h events, not a series - you can come to any of those)</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Short introduction into typesetting with LaTeX for complete beginners</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Nils">Nils</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_in_LaTeX</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:About:freedom">
+      <event id="1053" guid="5c1066ad-c624-437b-b1aa-cd94855def55">
+        <logo/>
+        <date>2019-08-21T14:30:00+02:00</date>
+        <start>14:30</start>
+        <duration>0:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1053-session_creative_commons</slug>
+        <title>Creative commons</title>
+        <subtitle>verstehen, anwenden, weiterdenken</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Ein Vortrag über Creative Commons. verstehen, anwenden, weiterdenken.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Tunda">Tunda</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Creative_commons</link>
+        </links>
+      </event>
+      <event id="1059" guid="8fffd29a-b237-48ec-b2cd-4126bff8dd15">
+        <logo/>
+        <date>2019-08-21T16:30:00+02:00</date>
+        <start>16:30</start>
+        <duration>0:30</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1059-session_digitale_werkzeuge_zum_verstaendnis_der_energiewende</slug>
+        <title>Digitale Werkzeuge zum Verständnis der Energiewende</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Digitale_Werkzeuge_zum_Verst%C3%A4ndnis_der_Energiewende</link>
+        </links>
+      </event>
+      <event id="1060" guid="A832c946-31a9-41b2-963b-5ef4cc31b33c">
+        <logo/>
+        <date>2019-08-21T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>0:30</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1060-session_digitale_werkzeuge_zum_verstaendnis_von_klima_und_wetter</slug>
+        <title>Digitale Werkzeuge zum Verständnis von Klima und Wetter</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Digitale_Werkzeuge_zum_Verst%C3%A4ndnis_von_Klima_und_Wetter</link>
+        </links>
+      </event>
+      <event id="1067" guid="107bdb89-dabe-4276-9af1-78130e04ef2f">
+        <logo/>
+        <date>2019-08-21T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1067-session_estimate_and_calculate_carbon_footprints</slug>
+        <title>Estimate and calculate carbon footprints</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Make a broad calculation of carbon emissions of &lt;foo&gt;.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Estimate_and_calculate_carbon_footprints</link>
+        </links>
+      </event>
+      <event id="1072" guid="Fb15c229-c580-4974-bd7c-affaa7002089">
+        <logo/>
+        <date>2019-08-21T15:30:00+02:00</date>
+        <start>15:30</start>
+        <duration>0:45</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1072-session_forderungen_des_b_b</slug>
+        <title>Forderungen des B &amp; B</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Forderungen_des_B_%26_B</link>
+        </links>
+      </event>
+      <event id="1104" guid="27e94e6e-74b0-4c58-a221-6c688b72caf6">
+        <logo/>
+        <date>2019-08-21T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1104-session_let_s_go_there_by_land_not_by_air</slug>
+        <title>Let's go there by land not by air</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Suffering of flygskam? Find your therapy here.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Let%27s_go_there_by_land_not_by_air</link>
+        </links>
+      </event>
+      <event id="1107" guid="Bd8cc66c-ae5b-4519-a646-4beff26cb8d7">
+        <logo/>
+        <date>2019-08-21T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>0:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1107-session_net_neutrality_updates_how_5g_is_used_to_water_down_the_protections_of_the_open_internet</slug>
+        <title>Net Neutrality updates: How 5G is used to water down the protections of the open internet</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Net_Neutrality_updates:_How_5G_is_used_to_water_down_the_protections_of_the_open_internet</link>
+        </links>
+      </event>
+      <event id="1131" guid="25c0bf31-46fb-4cb8-b2c5-2369cf2e4e41">
+        <logo/>
+        <date>2019-08-21T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>2:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1131-session_substrate_verifiable_credentials_build_your_first_infrastructure_blockchain</slug>
+        <title>Substrate verifiable credentials - build your first infrastructure blockchain</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language/>
+        <abstract/>
+        <description>In this workshop you'll learn to build your own infrastructure blockchain (for verifiable credentials) using Substrate, Rust and WebAssembly.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>https://substrate.dev/en/tutorials</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Substrate_verifiable_credentials_-_build_your_first_infrastructure_blockchain</link>
+        </links>
+      </event>
+      <event id="1140" guid="9c0d9834-b2a4-4a2e-9c15-9e54bac815d0">
+        <logo/>
+        <date>2019-08-21T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>1:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1140-session_tor_relay_operator_meetup</slug>
+        <title>Tor Relay Operator Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Come learn about Tor Project and privacy, and hang out with Tor contributors</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>https://www.torproject.org</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Tor_Relay_Operator_Meetup</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Free Software Foundation Europe">
+      <event id="1074" guid="E10a5b76-2ca9-4a0d-a1c6-0b3ce24748a8">
+        <logo/>
+        <date>2019-08-21T19:30:00+02:00</date>
+        <start>19:30</start>
+        <duration>0:10</duration>
+        <room>Village:Free Software Foundation Europe</room>
+        <slug>camp2019-1074-session_free_software_song_sing_along</slug>
+        <title>Free Software Song sing-along</title>
+        <subtitle>ad-hoc choir</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>en</language>
+        <abstract/>
+        <description>Everyday at 19:30 in the Cluster about:freedom we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Eal">Eal</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Schaffenburg">
+      <event id="1079" guid="6700ed11-b9cb-46ba-8f25-f68a29dfcc64">
+        <logo/>
+        <date>2019-08-21T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>1:30</duration>
+        <room>Village:Schaffenburg</room>
+        <slug>camp2019-1079-session_goc</slug>
+        <title>GOC</title>
+        <subtitle>Introduction &amp; Selection of Botanicals</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Gin Operation Center</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Fraxinas">Fraxinas</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:GOC</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:HardwareHackingArea">
+      <event id="1082" guid="C5d794aa-3b64-4614-a644-528cc379182a">
+        <logo/>
+        <date>2019-08-21T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>2:00</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1082-session_geiger_counter_workshop</slug>
+        <title>Geiger Counter Workshop</title>
+        <subtitle>Geiger Counter Workshop 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Build a working Geiger Counter</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Mightyohm">Mightyohm</person>
+        </persons>
+        <links>
+          <link>http://mightyohm.com/geiger</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Geiger_Counter_Workshop</link>
+        </links>
+      </event>
+      <event id="1103" guid="2c589187-0e66-45a1-a6ef-4be09eb0d231">
+        <logo/>
+        <date>2019-08-21T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>6:59</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1103-session_learn_to_solder</slug>
+        <title>Learn To Solder</title>
+        <subtitle>Day 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.&lt;br&gt; &lt;br&gt; &lt;span style="color:orange"&gt;'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!  All day &amp; all night, throughout all of CCCamp2019.'''''&lt;/span&gt;</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Maltman23">Maltman23</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Harbor">
+      <event id="1086" guid="32dfd87c-4f9e-4535-b056-898d41e8f2bc">
+        <logo/>
+        <date>2019-08-21T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>0:45</duration>
+        <room>Village:Harbor</room>
+        <slug>camp2019-1086-session_hfos_the_hackerfleet_operating_system</slug>
+        <title>HFOS - The Hackerfleet Operating System</title>
+        <subtitle>Updaates! What happened since last camp?</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>HFOS is the opensource vessel computer system</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Riot">Riot</person>
+        </persons>
+        <links>
+          <link>http://hackerfleet.eu</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:HFOS_-_The_Hackerfleet_Operating_System</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:C-base">
+      <event id="1099" guid="55558acc-348c-44e8-97b1-bbc1187a7407">
+        <logo/>
+        <date>2019-08-21T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>0:45</duration>
+        <room>Village:C-base</room>
+        <slug>camp2019-1099-session_isomer</slug>
+        <title>Isomer</title>
+        <subtitle>An overview of what Isomer aims to be and how that might help you</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Isomer is a new distributed application framework</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Riot">Riot</person>
+        </persons>
+        <links>
+          <link>http://isomer.eu</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Isomer</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:402 Payment Required">
+      <event id="1116" guid="878fe989-4298-4518-b7dc-9e1d41edf78b">
+        <logo/>
+        <date>2019-08-21T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>2:00</duration>
+        <room>Village:402 Payment Required</room>
+        <slug>camp2019-1116-session_pile_farty</slug>
+        <title>Pile Farty</title>
+        <subtitle>Bring your Files, we are having a Party!</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Bring your Files, we are having a Party!</description>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Pile_Farty</link>
+        </links>
+      </event>
+    </room>
+    <room name="Hackcenter">
+      <event id="1124" guid="F5d15859-c9b5-44c8-8565-cb22daacedc8">
+        <logo/>
+        <date>2019-08-21T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1124-session_susi_ai_open_source_voice_assistant</slug>
+        <title>SUSI.AI Open Source Voice Assistant</title>
+        <subtitle>Learn about SUSI.AI and how to build your own smart speaker</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:MarioB">MarioB</person>
+        </persons>
+        <links>
+          <link>https://susi.ai</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:RoboVillage">
+      <event id="1133" guid="95c46d31-b366-4ab3-87af-d123f57931d5">
+        <logo/>
+        <date>2019-08-21T12:30:00+02:00</date>
+        <start>12:30</start>
+        <duration>1:30</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1133-session_sumorobot_programming</slug>
+        <title>SumoRobot programming</title>
+        <subtitle>Day 1 afternoon</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>You will be able to write your awesome algorithm and get a blast on the SumoRobot match.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Superwallah">Superwallah</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com/kits/sumorobot</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming</link>
+        </links>
+      </event>
+      <event id="1018" guid="0e98cba0-23e8-58e1-af2a-d8f892aaa604">
+        <logo/>
+        <date>2019-08-21T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1018-session_sumorobot_programming</slug>
+        <title>SumoRobot programming</title>
+        <subtitle>Day 1 evening</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>You will be able to write your awesome algorithm and get a blast on the SumoRobot match.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Superwallah">Superwallah</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com/kits/sumorobot</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming</link>
+        </links>
+      </event>
+      <event id="1135" guid="52fca402-211b-41df-953f-daede2a0a68b">
+        <logo/>
+        <date>2019-08-21T10:00:00+02:00</date>
+        <start>10:00</start>
+        <duration>2:00</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1135-session_sumorobot_soldering</slug>
+        <title>SumoRobot soldering</title>
+        <subtitle>Day 1 morning</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Come solder your own SumoRobot and have a blast later ate the SumoRobot match.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com/kits/sumorobot</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering</link>
+        </links>
+      </event>
+      <event id="1020" guid="a6546254-82fd-55c2-b07c-1ed995258b55">
+        <logo/>
+        <date>2019-08-21T14:30:00+02:00</date>
+        <start>14:30</start>
+        <duration>2:00</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1020-session_sumorobot_soldering</slug>
+        <title>SumoRobot soldering</title>
+        <subtitle>Day 1 afternoon</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Come solder your own SumoRobot and have a blast later ate the SumoRobot match.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com/kits/sumorobot</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering</link>
+        </links>
       </event>
     </room>
   </day>
@@ -1385,7 +1990,7 @@ Finally we will give some ideas on how to read between the lines in datasheets. 
       </event>
     </room>
     <room name="Plank">
-      <event id="17" guid="ea450a4c-8372-51f3-974d-879ce4083976">
+      <event id="117" guid="ea450a4c-8372-51f3-974d-879ce4083976">
         <logo/>
         <date>2019-08-22T04:30:00+00:00</date>
         <start>04:30</start>
@@ -1415,7 +2020,7 @@ Finally we will give some ideas on how to read between the lines in datasheets. 
         <attachments/>
         <answers/>
       </event>
-      <event id="39" guid="0ef9486d-7f7a-5298-9042-3e55c19768d2">
+      <event id="139" guid="0ef9486d-7f7a-5298-9042-3e55c19768d2">
         <logo/>
         <date>2019-08-22T15:00:00+00:00</date>
         <start>15:00</start>
@@ -1445,7 +2050,7 @@ Finally we will give some ideas on how to read between the lines in datasheets. 
         <attachments/>
         <answers/>
       </event>
-      <event id="50" guid="c26d6ec7-2701-56dc-8110-9896c6f6a659">
+      <event id="150" guid="c26d6ec7-2701-56dc-8110-9896c6f6a659">
         <logo/>
         <date>2019-08-22T18:15:00+00:00</date>
         <start>18:15</start>
@@ -1519,7 +2124,7 @@ wissen, was sie tun.</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="15" guid="ca81a392-cd83-55b0-abd5-1ed379611b37">
+      <event id="115" guid="ca81a392-cd83-55b0-abd5-1ed379611b37">
         <logo/>
         <date>2019-08-22T19:30:00+00:00</date>
         <start>19:30</start>
@@ -1549,7 +2154,7 @@ wissen, was sie tun.</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="7" guid="49498e74-3b88-599b-9fb5-f28663b3c8bc">
+      <event id="107" guid="49498e74-3b88-599b-9fb5-f28663b3c8bc">
         <logo/>
         <date>2019-08-22T20:10:00+00:00</date>
         <start>20:10</start>
@@ -1584,7 +2189,7 @@ wissen, was sie tun.</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="8" guid="da999f3a-edf0-590a-85f8-37cb00cf21d9">
+      <event id="108" guid="da999f3a-edf0-590a-85f8-37cb00cf21d9">
         <logo/>
         <date>2019-08-22T21:30:00+00:00</date>
         <start>21:30</start>
@@ -1616,7 +2221,7 @@ Mit Bildern, Screenshots und vielleicht auch dem einen oder anderen kurzen Video
         <attachments/>
         <answers/>
       </event>
-      <event id="57" guid="85928ccf-a5a7-56a0-8a65-a3e3c859a3b5">
+      <event id="157" guid="85928ccf-a5a7-56a0-8a65-a3e3c859a3b5">
         <logo/>
         <date>2019-08-22T23:00:00+00:00</date>
         <start>23:00</start>
@@ -1646,7 +2251,7 @@ Mit Bildern, Screenshots und vielleicht auch dem einen oder anderen kurzen Video
         <attachments/>
         <answers/>
       </event>
-      <event id="28" guid="0c7c6703-86ba-5059-897b-682e51056488">
+      <event id="128" guid="0c7c6703-86ba-5059-897b-682e51056488">
         <logo/>
         <date>2019-08-23T01:00:00+00:00</date>
         <start>01:00</start>
@@ -1678,7 +2283,7 @@ Mit Bildern, Screenshots und vielleicht auch dem einen oder anderen kurzen Video
       </event>
     </room>
     <room name="Workshop">
-      <event id="40" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
+      <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
         <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
         <date>2019-08-22T14:00:00+00:00</date>
         <start>14:00</start>
@@ -1709,7 +2314,7 @@ Consultation hours are held in German or English, depending on the need. Oh, and
         <attachments/>
         <answers/>
       </event>
-      <event id="20" guid="3690343b-b02c-57a6-8c37-d82113a0843b">
+      <event id="120" guid="3690343b-b02c-57a6-8c37-d82113a0843b">
         <logo>/media/thms/images/ZMERMD/photo_2019-07-18_18-58-45.jpg</logo>
         <date>2019-08-22T15:15:00+00:00</date>
         <start>15:15</start>
@@ -1742,7 +2347,7 @@ maximal 8 teilnehmer*innen, alter ab 8</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="23" guid="30f4400a-23d9-5b81-9beb-875217813515">
+      <event id="123" guid="30f4400a-23d9-5b81-9beb-875217813515">
         <logo/>
         <date>2019-08-22T18:30:00+00:00</date>
         <start>18:30</start>
@@ -1774,6 +2379,970 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
         <links/>
         <attachments/>
         <answers/>
+      </event>
+    </room>
+    <room name="">
+      <event id="1030" guid="F827e2f7-55c1-4f65-b2a4-aa77da48549b">
+        <logo/>
+        <date>2019-08-22T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>2:00</duration>
+        <room/>
+        <slug>camp2019-1030-session_arch_linux_meetup</slug>
+        <title>Arch Linux Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Arch Linux user meetup</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Foxboron">Foxboron</person>
+        </persons>
+        <links>
+          <link>https://archlinux.org</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Arch_Linux_Meetup</link>
+        </links>
+      </event>
+      <event id="1039" guid="71d26132-13a9-41bf-aaa7-6792b363c95e">
+        <logo/>
+        <date>2019-08-22T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>0:45</duration>
+        <room/>
+        <slug>camp2019-1039-session_body_workout_session</slug>
+        <title>Body Workout Session</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>outside</type>
+        <language>de</language>
+        <abstract/>
+        <description>we will do some physical activity together</description>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Body_Workout_Session</link>
+        </links>
+      </event>
+      <event id="1111" guid="Eb23d0dc-2d2f-49c8-98a2-b96cf3d78782">
+        <logo/>
+        <date>2019-08-22T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room/>
+        <slug>camp2019-1111-session_octoprint_user_meetup</slug>
+        <title>OctoPrint User Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Meet and greet of OctoPrint users at the camp. foosel will also be there and bring stickers!</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Foosel">Foosel</person>
+        </persons>
+        <links>
+          <link>https://community.octoprint.org/t/octoprint-meetup-at-chaos-communication-camp-2019/11078</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:OctoPrint_User_Meetup</link>
+        </links>
+      </event>
+      <event id="1121" guid="F28bdd0a-d215-4af6-8c78-9a0ed4e0d758">
+        <logo/>
+        <date>2019-08-22T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room/>
+        <slug>camp2019-1121-session_regio_mediation</slug>
+        <title>Regio Mediation</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Streitigkeiten, die sich schon tiefer in einen Verein eingetreten haben oder sogar mit Machtgefällen behaftet sind, sind nicht einfach aus der Welt zu schaffen und können eine gute Vereinsarbeit über lange Zeit lähmen.  Wir glauben, um diese Probleme zu lösen, könnenn uns die Techniken der Mediation weiterhelfen.  Wir vermuten außerdem, dass schon viel Erfahrung im CCC und seinen Mitgliedern schlummert und wollen euch einladen mit uns Idee noch weiter auszuarbeiten.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Susi">Susi</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Dkl">Dkl</person>
+        </persons>
+        <links>
+          <link>https://doku.ccc.de/Regiowochenende_2019</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Regio_Mediation</link>
+        </links>
+      </event>
+      <event id="1122" guid="Ca75968c-338d-4a45-a41b-594c83b34d70">
+        <logo/>
+        <date>2019-08-22T13:30:00+02:00</date>
+        <start>13:30</start>
+        <duration>1:00</duration>
+        <room/>
+        <slug>camp2019-1122-session_reproducible_builds_meetup</slug>
+        <title>Reproducible Builds Meetup</title>
+        <subtitle>Reproducible build introduction and discussion</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Meeting and discussion about the Reproducible Builds project.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Foxboron">Foxboron</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Jelly">Jelly</person>
+        </persons>
+        <links>
+          <link>https://reproducible-builds.org/</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Reproducible_Builds_Meetup</link>
+        </links>
+      </event>
+      <event id="1142" guid="D018a177-c84e-4106-9bfc-afdafa8f3069">
+        <logo/>
+        <date>2019-08-22T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room/>
+        <slug>camp2019-1142-session_visit_zehdenick_farmer_s_market_by_bike</slug>
+        <title>Visit Zehdenick Farmer's Market by Bike</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>outside</type>
+        <language>de</language>
+        <abstract/>
+        <description>Support your local food supplier, but don't go alone.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Coco">Coco</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Visit_Zehdenick_Farmer%27s_Market_by_Bike</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:HardwareHackingArea">
+      <event id="1033" guid="0ac837d5-262b-4a1c-afc1-dc7b889b3fa5">
+        <logo/>
+        <date>2019-08-22T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>3:30</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1033-session_arduino_for_total_newbies</slug>
+        <title>Arduino For Total Newbies</title>
+        <subtitle>Day 2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>''Learn Arduino using TV-B-Gone as an example project''&lt;br&gt; &lt;br&gt; You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.&lt;br&gt; &lt;br&gt; ''(This is one of many cool things happening throughout CCCamp 2019 in the huge '''Hardware Hacking Area!)'''''&lt;br&gt; &lt;br&gt; This workshop will be given twice&lt;br&gt;(both identical):&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 2: 22-Aug, 1pm - 4:30pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 3: 23-Aug, 1pm - 4:30pm&lt;br&gt;</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Maltman23">Maltman23</person>
+        </persons>
+        <links>
+          <link>https://tiny.cc/A4TN</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Arduino_For_Total_Newbies</link>
+        </links>
+      </event>
+      <event id="1009" guid="ddc6e4c4-fc18-5d1a-9c0b-aeaac81562ca">
+        <logo/>
+        <date>2019-08-22T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>12:59</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1009-session_learn_to_solder</slug>
+        <title>Learn To Solder</title>
+        <subtitle>Day 2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.&lt;br&gt; &lt;br&gt; &lt;span style="color:orange"&gt;'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!  All day &amp; all night, throughout all of CCCamp2019.'''''&lt;/span&gt;</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Maltman23">Maltman23</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder</link>
+        </links>
+      </event>
+      <event id="1127" guid="2cc4ad05-81a4-42c1-b702-910416df5a08">
+        <logo/>
+        <date>2019-08-22T20:30:00+02:00</date>
+        <start>20:30</start>
+        <duration>2:00</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1127-session_soft_circuits_sew_a_tiny_squishy_torch_with_diy_pressure_sensor</slug>
+        <title>Soft circuits: sew a tiny squishy torch with DIY pressure sensor</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Make a tiny squishy torch with DIY pressure sensor: an introduction to soft circuits</description>
+        <persons/>
+        <links>
+          <link>https://twitter.com/helenleigh</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Soft_circuits:_sew_a_tiny_squishy_torch_with_DIY_pressure_sensor</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:About:freedom">
+      <event id="1034" guid="B2ad3535-afd1-4e0c-a298-6aceef686375">
+        <logo/>
+        <date>2019-08-22T12:30:00+02:00</date>
+        <start>12:30</start>
+        <duration>1:25</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1034-session_argumentationstraining_datenschutz</slug>
+        <title>Argumentationstraining Datenschutz</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Argumentationstraining_Datenschutz</link>
+        </links>
+      </event>
+      <event id="1038" guid="2af06946-a29f-426f-9bd3-d24b377b221a">
+        <logo/>
+        <date>2019-08-22T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1038-session_befreie_deine_wlan_steckdose</slug>
+        <title>Befreie deine WLAN Steckdose</title>
+        <subtitle>Introduction, Hands-On</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Freie Firmware Tasmota auf WLAN Steckdose flashen</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Mischk">Mischk</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Befreie_deine_WLAN_Steckdose</link>
+        </links>
+      </event>
+      <event id="1048" guid="0b65610d-cad2-45dd-8814-468f99acd259">
+        <logo/>
+        <date>2019-08-22T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>3:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1048-session_citizen_kino</slug>
+        <title>CiTiZEN KiNO</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>CiTiZEN KiNO #81: Embedded Dystopias - A situationist cinema for our futurist-fed times.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:CiTiZEN_KiNO</link>
+        </links>
+      </event>
+      <event id="1054" guid="Ab428789-489d-4649-8d64-43ad6c072342">
+        <logo/>
+        <date>2019-08-22T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>2:35</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1054-session_cryptoparty_meet_greet</slug>
+        <title>CryptoParty Meet &amp; Greet</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Pre-CryptoParty Meetup of organisers and those, who want to help,</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:CryptoParty_Meet_%26_Greet</link>
+        </links>
+      </event>
+      <event id="1091" guid="F9cc11df-dd08-40f4-b7ba-1860455d5147">
+        <logo/>
+        <date>2019-08-22T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>6:00</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1091-session_how_to_shape_a_responsible_world_</slug>
+        <title>How to shape a responsible world?</title>
+        <subtitle>Starting Panel</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>As activists we seek for a fundamental change in this world towards a fair and responsible society. The invited groups will give their analysis of the problems and present their work. Together we will identify questions or common projects we will work on in the follow-up workshops.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:How_to_shape_a_responsible_world%3F</link>
+        </links>
+      </event>
+      <event id="1094" guid="C78b6f1d-ef23-4199-a3f4-127a769c5b9a">
+        <logo/>
+        <date>2019-08-22T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>0:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1094-session_implementation_of_the_copyright_directive_how_to_prevent_the_worst_in_your_home_country_</slug>
+        <title>Implementation of the Copyright Directive: How to prevent the worst in your home country?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Implementation_of_the_Copyright_Directive:_How_to_prevent_the_worst_in_your_home_country%3F</link>
+        </links>
+      </event>
+      <event id="1095" guid="B611cda2-eeb8-432e-b56b-41266684f84f">
+        <logo/>
+        <date>2019-08-22T10:30:00+02:00</date>
+        <start>10:30</start>
+        <duration>2:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1095-session_ink_write_wasm_smart_contracts_with_rust</slug>
+        <title>Ink!: Write Wasm smart contracts with Rust</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>A comprehensive, end-to-end tutorial for building an ERC20 token using Parity Substrate and ink! - build on Rust and wasm</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>https://substrate.dev/substrate-contracts-workshop/#/</link>
+          <link>https://substrate.dev/en/tutorials</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Ink!:_Write_Wasm_smart_contracts_with_Rust</link>
+        </links>
+      </event>
+      <event id="1110" guid="7e62224f-d99f-492a-84f9-eee90a2b8365">
+        <logo/>
+        <date>2019-08-22T12:30:00+02:00</date>
+        <start>12:30</start>
+        <duration>0:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1110-session_ooni_measuring_internet_censorship_around_the_world</slug>
+        <title>OONI: Measuring internet censorship around the world</title>
+        <subtitle>about:sessions</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Participate in a global community measuring internet censorship around the world.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:OONI:_Measuring_internet_censorship_around_the_world</link>
+        </links>
+      </event>
+      <event id="1128" guid="B6837980-853b-42d7-95b8-72c7d1c3ed96">
+        <logo/>
+        <date>2019-08-22T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>3:25</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1128-session_substrate_collectibles_build_your_own_blockchain_backed_asset_exchange</slug>
+        <title>Substrate Collectibles - Build your own blockchain-backed asset exchange</title>
+        <subtitle>First Iteration</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>This workshop will take you through building your own collectibles blockchain  - think "CryptoKitties" - using Substrate, Rust and WebAssembly.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>https://substrate.dev/substrate-collectables-workshop/#/</link>
+          <link>https://substrate.dev/en/tutorials</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Substrate_Collectibles_-_Build_your_own_blockchain-backed_asset_exchange</link>
+        </links>
+      </event>
+      <event id="1141" guid="A6715135-987f-418c-8dad-d5896ac63695">
+        <logo/>
+        <date>2019-08-22T10:30:00+02:00</date>
+        <start>10:30</start>
+        <duration>1:25</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1141-session_treffen_und_diskussion_zur_netzpolitik_in_der_schweiz</slug>
+        <title>Treffen und Diskussion zur Netzpolitik in der Schweiz</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Netzpolitik-Frühstück: Kaffee &amp; Gipfeli ab 10.30, Vorstellung und Diskussion der aktuellen und anstehenden Themen im Herbst (E-ID, E-Voting, Datenschutzgesetz, Netzneutralität, ...) ab 11.00 Uhr</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Kire">Kire</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Treffen_und_Diskussion_zur_Netzpolitik_in_der_Schweiz</link>
+        </links>
+      </event>
+    </room>
+    <room name="Hackcenter 2">
+      <event id="1045" guid="886dfb0c-900f-47e1-bcb2-a5dc14c09a10">
+        <logo/>
+        <date>2019-08-22T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>Hackcenter 2</room>
+        <slug>camp2019-1045-session_ccchoir</slug>
+        <title>CCChoir</title>
+        <subtitle>Bach vs Pythagoras, Runde 1</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Offene Chorprobe und physikalische Grundlagen der Musik</description>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:CCChoir</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Foodhackingbase">
+      <event id="1049" guid="9628843e-81b0-4810-b26f-bcd9b8141b66">
+        <logo/>
+        <date>2019-08-22T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>2:00</duration>
+        <room>Village:Foodhackingbase</room>
+        <slug>camp2019-1049-session_cidre_flows</slug>
+        <title>Cidre Flows</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Dégustation of cidres.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Algoldor">Algoldor</person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Cidre_flows_ccccamp2019</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Cidre_Flows</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:LaTeX">
+      <event id="1000" guid="d1956445-2894-5c07-b4f9-7bf8c29a1a05">
+        <logo/>
+        <date>2019-08-22T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Village:LaTeX</room>
+        <slug>camp2019-1000-session_context_fuer_anfaenger</slug>
+        <title>ConTeXt für Anfänger</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Introduction into ConTeXt</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Hraban">Hraban</person>
+        </persons>
+        <links>
+          <link>http://wiki.contextgarden.net</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:ConTeXt_f%C3%BCr_Anf%C3%A4nger</link>
+        </links>
+      </event>
+      <event id="1002" guid="81cae958-d4b3-5d51-a291-885572aa177c">
+        <logo/>
+        <date>2019-08-22T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Village:LaTeX</room>
+        <slug>camp2019-1002-session_einfuehrung_in_latex</slug>
+        <title>Einführung in LaTeX</title>
+        <subtitle>(Individual 1h events, not a series - you can come to any of those)</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Short introduction into typesetting with LaTeX for complete beginners</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Nils">Nils</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_in_LaTeX</link>
+        </links>
+      </event>
+      <event id="1083" guid="3e34db5c-5ac7-485f-947a-8098dd01da0f">
+        <logo/>
+        <date>2019-08-22T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>1:30</duration>
+        <room>Village:LaTeX</room>
+        <slug>camp2019-1083-session_graphics_with_latex</slug>
+        <title>Graphics with LaTeX</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>introduction into generating graphics with LaTeX</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Dantetante">Dantetante</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Graphics_with_LaTeX</link>
+        </links>
+      </event>
+      <event id="1145" guid="A3c87f56-9cfa-454b-a6b5-4c2741ebc2c2">
+        <logo/>
+        <date>2019-08-22T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>0:15</duration>
+        <room>Village:LaTeX</room>
+        <slug>camp2019-1145-session_xspace_solution_to_an_annoying_tex_quirk</slug>
+        <title>Xspace – Solution to an annoying TeX quirk</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Let's have a look how xspace.sty makes TeX's treatment of whitespace more predictable!</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Fr%C3%B6belsuppe">Fröbelsuppe</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Xspace_%E2%80%93_Solution_to_an_annoying_TeX_quirk</link>
+        </links>
+      </event>
+    </room>
+    <room name="Hackcenter 1">
+      <event id="1062" guid="56989b98-d3d7-44db-a9c5-db4553adeed2">
+        <logo/>
+        <date>2019-08-22T14:30:00+02:00</date>
+        <start>14:30</start>
+        <duration>2:30</duration>
+        <room>Hackcenter 1</room>
+        <slug>camp2019-1062-session_eightos</slug>
+        <title>EightOS</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>A physical practice session: bodymind operating system — human firmware update</description>
+        <persons/>
+        <links>
+          <link>http://www.8os.io</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:EightOS</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Backspace">
+      <event id="1065" guid="86521597-ff5f-4fe2-b0ec-6b4f05439dad">
+        <logo/>
+        <date>2019-08-22T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
+        <room>Village:Backspace</room>
+        <slug>camp2019-1065-session_einfuehrung_ins_podcasting_mit_reaper_ultraschall</slug>
+        <title>Einführung ins Podcasting mit Reaper/Ultraschall</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Einführung ins Podcasting</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Advi">Advi</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_ins_Podcasting_mit_Reaper/Ultraschall</link>
+        </links>
+      </event>
+    </room>
+    <room name="Johnson (Workshop 1)">
+      <event id="1066" guid="8563f582-f24e-4027-9a26-1725098b2b53">
+        <logo/>
+        <date>2019-08-22T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1066-session_esperanto_a_planned_nerd_language_actually_spoken</slug>
+        <title>Esperanto – a planned nerd language actually spoken</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>A short introduction into the international language Esperanto. A planned language actually spoken by nerds all over the world</description>
+        <persons/>
+        <links>
+          <link>https://github.com/johannes-mueller/esperanto-35c3</link>
+          <link>https://c3eo.chaotik.de</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Free Software Foundation Europe">
+      <event id="1003" guid="f902ed08-e70f-5e38-a731-5aa463db16c0">
+        <logo/>
+        <date>2019-08-22T19:30:00+02:00</date>
+        <start>19:30</start>
+        <duration>0:10</duration>
+        <room>Village:Free Software Foundation Europe</room>
+        <slug>camp2019-1003-session_free_software_song_sing_along</slug>
+        <title>Free Software Song sing-along</title>
+        <subtitle>ad-hoc choir</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>en</language>
+        <abstract/>
+        <description>Everyday at 19:30 in the Cluster about:freedom we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Eal">Eal</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:NixOS">
+      <event id="1108" guid="Afa80109-3761-4b3f-b2e8-57087d164b0d">
+        <logo/>
+        <date>2019-08-22T12:45:00+02:00</date>
+        <start>12:45</start>
+        <duration>1:15</duration>
+        <room>Village:NixOS</room>
+        <slug>camp2019-1108-session_nixos_install_party</slug>
+        <title>NixOS Install Party</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Try NixOS on your laptop or in a VM</description>
+        <persons/>
+        <links>
+          <link>https://nixos.org</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:NixOS_Install_Party</link>
+        </links>
+      </event>
+    </room>
+    <room name="NixOS">
+      <event id="1109" guid="2ec27fbb-3f33-4515-8228-db6205370168">
+        <logo/>
+        <date>2019-08-22T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>NixOS</room>
+        <slug>camp2019-1109-session_nixos_contribution_discussion</slug>
+        <title>NixOS contribution discussion</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>discussion about NixOS contribution workflow</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Palo">Palo</person>
+        </persons>
+        <links>
+          <link>https://git.ingolf-wagner.de/palo/nixos-diagrams</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:NixOS_contribution_discussion</link>
+        </links>
+      </event>
+      <event id="1144" guid="De5f9fba-3854-4a9d-b3f0-69e409f01b79">
+        <logo/>
+        <date>2019-08-22T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>0:45</duration>
+        <room>NixOS</room>
+        <slug>camp2019-1144-session_why_nixos_</slug>
+        <title>Why NixOS?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>A Presentation about NixOS for newcomers.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Palo">Palo</person>
+        </persons>
+        <links>
+          <link>https://tech.ingolf-wagner.de/slides/why-nixos/</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Why_NixOS%3F</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Kidspace">
+      <event id="1010" guid="d4009170-8c36-5144-b9dc-c639425e0eca">
+        <logo/>
+        <date>2019-08-22T10:00:00+02:00</date>
+        <start>10:00</start>
+        <duration>3:00</duration>
+        <room>Village:Kidspace</room>
+        <slug>camp2019-1010-session_ottobot_workshop</slug>
+        <title>Ottobot Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Wir basteln gemeinsam einen laufenden Roboter</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Skyr">Skyr</person>
+        </persons>
+        <links>
+          <link>https://www.hackerspace-bamberg.de/Otto_LC</link>
+          <link>https://www.ottodiy.com/</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Ottobot_Workshop</link>
+        </links>
+      </event>
+      <event id="1137" guid="127c17a7-0a66-49a2-a806-db41c19ebfac">
+        <logo/>
+        <date>2019-08-22T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>3:00</duration>
+        <room>Village:Kidspace</room>
+        <slug>camp2019-1137-session_tetrapixels</slug>
+        <title>Tetrapixels</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>We build blinking objects with Tetrapacks and Arduinos</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Melle">Melle</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Tetrapixels</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:C-base">
+      <event id="1114" guid="E8016cbd-7c0f-478b-a7c9-d4b18cbfce70">
+        <logo/>
+        <date>2019-08-22T17:05:00+02:00</date>
+        <start>17:05</start>
+        <duration>1:30</duration>
+        <room>Village:C-base</room>
+        <slug>camp2019-1114-session_pentagame</slug>
+        <title>Pentagame</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>New abstract board game explained and played</description>
+        <persons/>
+        <links>
+          <link>http://pentagame.org</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Pentagame</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Ecohackerfarm">
+      <event id="1117" guid="63dc7526-e5ad-4519-a349-f75835c8b5f1">
+        <logo/>
+        <date>2019-08-22T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>1:30</duration>
+        <room>Village:Ecohackerfarm</room>
+        <slug>camp2019-1117-session_powerplant_team_meeting</slug>
+        <title>Powerplant team meeting</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>an opportunity for the powerplant team to meet and discuss progress in person</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Aimeejulia">Aimeejulia</person>
+        </persons>
+        <links>
+          <link>https://wiki.ecohackerfarm.org/powerplant:start</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Powerplant_team_meeting</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Harbor">
+      <event id="1126" guid="53b7eed2-1de8-4fa7-8816-618cf4eb6c14">
+        <logo/>
+        <date>2019-08-22T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Village:Harbor</room>
+        <slug>camp2019-1126-session_socialtech</slug>
+        <title>SocialTech</title>
+        <subtitle>SocialTech #1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Workshop: Accessibility and Inclusion - Hacking everyday communication practices to change the world.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Erdbeerblau">Erdbeerblau</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Hirnsalat">Hirnsalat</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Vishnee">Vishnee</person>
+        </persons>
+        <links>
+          <link>http://angela.is/SocialTech/</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SocialTech</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:RoboVillage">
+      <event id="1014" guid="bab4d0ff-f755-518d-9cc2-3989bc727170">
+        <logo/>
+        <date>2019-08-22T12:30:00+02:00</date>
+        <start>12:30</start>
+        <duration>1:30</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1014-session_sumorobot_programming</slug>
+        <title>SumoRobot programming</title>
+        <subtitle>Day 2 afternoon</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>You will be able to write your awesome algorithm and get a blast on the SumoRobot match.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Superwallah">Superwallah</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com/kits/sumorobot</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming</link>
+        </links>
+      </event>
+      <event id="1017" guid="d2c361bc-b9f7-5ab1-8dee-c1dc4773c645">
+        <logo/>
+        <date>2019-08-22T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1017-session_sumorobot_programming</slug>
+        <title>SumoRobot programming</title>
+        <subtitle>Day 2 evening</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>You will be able to write your awesome algorithm and get a blast on the SumoRobot match.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Superwallah">Superwallah</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com/kits/sumorobot</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming</link>
+        </links>
+      </event>
+      <event id="1021" guid="2fa70e75-0768-5308-b545-3d47f25e53d9">
+        <logo/>
+        <date>2019-08-22T10:00:00+02:00</date>
+        <start>10:00</start>
+        <duration>2:00</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1021-session_sumorobot_soldering</slug>
+        <title>SumoRobot soldering</title>
+        <subtitle>Day 2 morning</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Come solder your own SumoRobot and have a blast later ate the SumoRobot match.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com/kits/sumorobot</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering</link>
+        </links>
+      </event>
+      <event id="1025" guid="becfd141-5c7a-553f-b3ef-4c50179bdc85">
+        <logo/>
+        <date>2019-08-22T14:30:00+02:00</date>
+        <start>14:30</start>
+        <duration>2:00</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1025-session_sumorobot_soldering</slug>
+        <title>SumoRobot soldering</title>
+        <subtitle>Day 2 afternoon</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Come solder your own SumoRobot and have a blast later ate the SumoRobot match.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com/kits/sumorobot</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Milliways">
+      <event id="1138" guid="B942af59-cc7b-4414-a822-4fa6d4ade0aa">
+        <logo/>
+        <date>2019-08-22T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Village:Milliways</room>
+        <slug>camp2019-1138-session_the_future_of_hope</slug>
+        <title>The Future of HOPE</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>The HOPE conference run by 2600 Magazine is in trouble and needs your help</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Aestetix">Aestetix</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Maltman23">Maltman23</person>
+        </persons>
+        <links>
+          <link>https://www.2600.com/content/future-hope</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:The_Future_of_HOPE</link>
+        </links>
+      </event>
+      <event id="1143" guid="0ef423eb-0595-4918-9f30-6158ea6227e5">
+        <logo/>
+        <date>2019-08-22T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>5:00</duration>
+        <room>Village:Milliways</room>
+        <slug>camp2019-1143-session_whiskyleaks</slug>
+        <title>Whiskyleaks</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language/>
+        <abstract/>
+        <description>The traditional Milliways Whiskyleaks, bring a nice bottle of liquor and a glass and share it with other fine human beings, donations welcome.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Adventureloop">Adventureloop</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Whiskyleaks</link>
+        </links>
       </event>
     </room>
   </day>
@@ -2409,7 +3978,7 @@ These tools, called Dreams and Realities are run alongside a customized version 
       </event>
     </room>
     <room name="Plank">
-      <event id="52" guid="e960e678-a20b-53bf-8b93-11161b0248b6">
+      <event id="152" guid="e960e678-a20b-53bf-8b93-11161b0248b6">
         <logo/>
         <date>2019-08-23T03:00:00+00:00</date>
         <start>03:00</start>
@@ -2439,7 +4008,7 @@ These tools, called Dreams and Realities are run alongside a customized version 
         <attachments/>
         <answers/>
       </event>
-      <event id="38" guid="4ea406aa-1c4b-5694-b1aa-f86dd3057d8a">
+      <event id="138" guid="4ea406aa-1c4b-5694-b1aa-f86dd3057d8a">
         <logo/>
         <date>2019-08-23T15:00:00+00:00</date>
         <start>15:00</start>
@@ -2473,7 +4042,7 @@ AMD introduced the AMD Secure Processor to provide a trusted execution environme
         <attachments/>
         <answers/>
       </event>
-      <event id="32" guid="4f94b6e0-3e6c-5b5d-9d47-45c06304c063">
+      <event id="132" guid="4f94b6e0-3e6c-5b5d-9d47-45c06304c063">
         <logo/>
         <date>2019-08-23T16:15:00+00:00</date>
         <start>16:15</start>
@@ -2510,7 +4079,7 @@ To stay on the punny side of things, we shall call this method *unicorefuzz*.</d
         <attachments/>
         <answers/>
       </event>
-      <event id="26" guid="493770fd-2347-5707-98bc-22ee77cc9129">
+      <event id="126" guid="493770fd-2347-5707-98bc-22ee77cc9129">
         <logo/>
         <date>2019-08-23T17:00:00+00:00</date>
         <start>17:00</start>
@@ -2546,7 +4115,7 @@ I've worked with most, and carefully implemented several, of the primitives bein
         <attachments/>
         <answers/>
       </event>
-      <event id="34" guid="361c6e0f-a89b-50a7-acc8-66e3c975e6b4">
+      <event id="134" guid="361c6e0f-a89b-50a7-acc8-66e3c975e6b4">
         <logo/>
         <date>2019-08-23T18:30:00+00:00</date>
         <start>18:30</start>
@@ -2580,7 +4149,7 @@ Userli verwendet das Dovecot MailCrypt Plugin und libsodium um Postfächer zu ve
         <attachments/>
         <answers/>
       </event>
-      <event id="36" guid="879d54a4-a90e-5e0d-8c56-c189ba166c72">
+      <event id="136" guid="879d54a4-a90e-5e0d-8c56-c189ba166c72">
         <logo>/media/thms/images/GYWNQP/IMG_9214_ej6Xqgg.JPG</logo>
         <date>2019-08-23T19:45:00+00:00</date>
         <start>19:45</start>
@@ -2610,7 +4179,7 @@ Userli verwendet das Dovecot MailCrypt Plugin und libsodium um Postfächer zu ve
         <attachments/>
         <answers/>
       </event>
-      <event id="13" guid="8c42e64a-160b-53c1-a0a4-c6ef4f93208b">
+      <event id="113" guid="8c42e64a-160b-53c1-a0a4-c6ef4f93208b">
         <logo>/media/thms/images/3UBEUB/6B5CDF68-12FE-416E-9490-3B4DFD62F867.jpeg</logo>
         <date>2019-08-23T21:30:00+00:00</date>
         <start>21:30</start>
@@ -2644,7 +4213,7 @@ einen weiteren Abbau der Freiheitsrechte und noch mehr Überwachung.</abstract>
         <attachments/>
         <answers/>
       </event>
-      <event id="58" guid="6d833231-3c1c-506f-b3fe-dbb08c8bffbc">
+      <event id="158" guid="6d833231-3c1c-506f-b3fe-dbb08c8bffbc">
         <logo/>
         <date>2019-08-23T23:00:00+00:00</date>
         <start>23:00</start>
@@ -2674,7 +4243,7 @@ einen weiteren Abbau der Freiheitsrechte und noch mehr Überwachung.</abstract>
         <attachments/>
         <answers/>
       </event>
-      <event id="9" guid="c59b2363-a6cb-561a-84e5-2e55a759ef97">
+      <event id="109" guid="c59b2363-a6cb-561a-84e5-2e55a759ef97">
         <logo/>
         <date>2019-08-24T00:00:00+00:00</date>
         <start>00:00</start>
@@ -2710,7 +4279,7 @@ Her favorite producers are Calyx, Matrix, Ed Rush &amp; Optical, Teebee, Break, 
         <attachments/>
         <answers/>
       </event>
-      <event id="12" guid="9cf58a9c-11e5-519f-97f9-e66fc443faff">
+      <event id="112" guid="9cf58a9c-11e5-519f-97f9-e66fc443faff">
         <logo>/media/thms/images/8GEREV/15241904_1804354359578279_5081898806412035648_n.jpg</logo>
         <date>2019-08-24T02:00:00+00:00</date>
         <start>02:00</start>
@@ -2744,7 +4313,7 @@ Bass ahoi</description>
       </event>
     </room>
     <room name="Workshop">
-      <event id="40" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
+      <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
         <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
         <date>2019-08-23T14:00:00+00:00</date>
         <start>14:00</start>
@@ -2775,7 +4344,7 @@ Consultation hours are held in German or English, depending on the need. Oh, and
         <attachments/>
         <answers/>
       </event>
-      <event id="25" guid="730b9a78-233a-5fc2-bd47-a64a582e8466">
+      <event id="125" guid="730b9a78-233a-5fc2-bd47-a64a582e8466">
         <logo>/media/thms/images/8NG8AA/Gameboy_Music_Workshop_2011_a.JPG</logo>
         <date>2019-08-23T15:30:00+00:00</date>
         <start>15:30</start>
@@ -2806,7 +4375,7 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <attachments/>
         <answers/>
       </event>
-      <event id="31" guid="8437e8a0-e99a-5e16-81d6-81a1cab2fc59">
+      <event id="131" guid="8437e8a0-e99a-5e16-81d6-81a1cab2fc59">
         <logo>/media/thms/images/QX7DQP/cy_klein.png</logo>
         <date>2019-08-23T18:45:00+00:00</date>
         <start>18:45</start>
@@ -2853,6 +4422,878 @@ i might be reachable on eventphone: -CY4N (-2946)</biography>
         <links/>
         <attachments/>
         <answers/>
+      </event>
+    </room>
+    <room name="Village:Backspace">
+      <event id="1029" guid="0d7d26f7-702d-4311-8e34-a6aa8ef87895">
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Village:Backspace</room>
+        <slug>camp2019-1029-session_advi_weekly_aufnahme</slug>
+        <title>Advi Weekly Aufnahme</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Aufnahme des wöchentlichen Tagebuchpodcasts</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Advi">Advi</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Advi_Weekly_Aufnahme</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:HardwareHackingArea">
+      <event id="1032" guid="8b07d0a4-891f-48d8-833b-694299433d13">
+        <logo/>
+        <date>2019-08-23T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>3:30</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1032-session_arduino_for_total_newbies</slug>
+        <title>Arduino For Total Newbies</title>
+        <subtitle>Day 3</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>''Learn Arduino using TV-B-Gone as an example project''&lt;br&gt; &lt;br&gt; You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.&lt;br&gt; &lt;br&gt; ''(This is one of many cool things happening throughout CCCamp 2019 in the huge '''Hardware Hacking Area!)'''''&lt;br&gt; &lt;br&gt; This workshop will be given twice&lt;br&gt;(both identical):&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 2: 22-Aug, 1pm - 4:30pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 3: 23-Aug, 1pm - 4:30pm&lt;br&gt;</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Maltman23">Maltman23</person>
+        </persons>
+        <links>
+          <link>https://tiny.cc/A4TN</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Arduino_For_Total_Newbies</link>
+        </links>
+      </event>
+      <event id="1081" guid="B73c59a0-98af-4012-8e2b-4e1b886e050d">
+        <logo/>
+        <date>2019-08-23T20:30:00+02:00</date>
+        <start>20:30</start>
+        <duration>2:00</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1081-session_geiger_counter_workshop</slug>
+        <title>Geiger Counter Workshop</title>
+        <subtitle>Geiger Counter Workshop 2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Build a working Geiger Counter</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Mightyohm">Mightyohm</person>
+        </persons>
+        <links>
+          <link>http://mightyohm.com/geiger</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Geiger_Counter_Workshop</link>
+        </links>
+      </event>
+      <event id="1102" guid="069ad79f-dd7f-4e2b-92ae-b9eaf484e61f">
+        <logo/>
+        <date>2019-08-23T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>12:59</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1102-session_learn_to_solder</slug>
+        <title>Learn To Solder</title>
+        <subtitle>Day 3</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.&lt;br&gt; &lt;br&gt; &lt;span style="color:orange"&gt;'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!  All day &amp; all night, throughout all of CCCamp2019.'''''&lt;/span&gt;</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Maltman23">Maltman23</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Scottish Consulate">
+      <event id="1036" guid="31fcf2eb-ad14-47f8-971c-7f06b2d8c178">
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Village:Scottish Consulate</room>
+        <slug>camp2019-1036-session_bsd_users_and_developers_meetup</slug>
+        <title>BSD Users and Developers Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>Meetup for BSD Users and Developers</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Adventureloop">Adventureloop</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:BSD_Users_and_Developers_Meetup</link>
+        </links>
+      </event>
+      <event id="1113" guid="894825a6-c54e-4260-9a23-ce3d50aa5b0b">
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Village:Scottish Consulate</room>
+        <slug>camp2019-1113-session_packet_radio_meetup</slug>
+        <title>Packet Radio Meetup</title>
+        <subtitle>The state of play</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Packet Radio Enthusiasts get together</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Hibby">Hibby</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Packet_Radio_Meetup</link>
+        </links>
+      </event>
+      <event id="1125" guid="8b5b201f-6a6e-46da-bf71-a4ebc9fb2f49">
+        <logo/>
+        <date>2019-08-23T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>5:00</duration>
+        <room>Village:Scottish Consulate</room>
+        <slug>camp2019-1125-session_scottish_drinking_night</slug>
+        <title>Scottish Drinking Night</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language/>
+        <abstract/>
+        <description>Come and join The Scottish Consulate for our semi regular outreach event, learn to drink like a true scotsperson.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Adventureloop">Adventureloop</person>
+        </persons>
+        <links>
+          <link>http://scottishconsulate.org</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Scottish_Drinking_Night</link>
+        </links>
+      </event>
+    </room>
+    <room name="Hackcenter">
+      <event id="1041" guid="7976438d-2b1a-4303-96f5-d6846c9f42f6">
+        <logo/>
+        <date>2019-08-23T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>2:00</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1041-session_bodymind_operating_system</slug>
+        <title>Bodymind Operating System</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Physical practice session where we explore the notions of hacking through the human body.</description>
+        <persons/>
+        <links>
+          <link>http://www.8os.io</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Bodymind_Operating_System</link>
+        </links>
+      </event>
+      <event id="1123" guid="Fe13b901-cc23-4258-91cb-631e29cebe39">
+        <logo/>
+        <date>2019-08-23T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1123-session_susi_ai_open_source_voice_assistant</slug>
+        <title>SUSI.AI Open Source Voice Assistant</title>
+        <subtitle>Learn about SUSI.AI and how to build your own smart speaker</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:MarioB">MarioB</person>
+        </persons>
+        <links>
+          <link>https://susi.ai</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:NixOS">
+      <event id="1042" guid="68994b27-2215-45aa-bfa0-b9f3440c7e17">
+        <logo/>
+        <date>2019-08-23T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Village:NixOS</room>
+        <slug>camp2019-1042-session_bootstrapping_nixos</slug>
+        <title>Bootstrapping NixOS</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>learn how Nixers bootstrap their hosts</description>
+        <persons/>
+        <links>
+          <link>https://krebsco.de</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Bootstrapping_NixOS</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:About:freedom">
+      <event id="1043" guid="C806c61c-521f-4f89-a836-064f5575b3a3">
+        <logo/>
+        <date>2019-08-23T13:30:00+02:00</date>
+        <start>13:30</start>
+        <duration>1:25</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1043-session_c3sus_ride_excellent_with_each_other</slug>
+        <title>C3Sus Ride excellent with each other</title>
+        <subtitle>about:sessions</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>make something better than https://events.ccc.de/camp/2019/wiki/Hitchhiking</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:C3Sus_Ride_excellent_with_each_other</link>
+        </links>
+      </event>
+      <event id="1070" guid="2cc92940-a3f9-4291-800b-87a0123be906">
+        <logo/>
+        <date>2019-08-23T16:30:00+02:00</date>
+        <start>16:30</start>
+        <duration>0:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1070-session_fiff_stammtische_everywhere</slug>
+        <title>FifF-Stammtische everywhere</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:FifF-Stammtische_everywhere</link>
+        </links>
+      </event>
+      <event id="1075" guid="F6cb5bb4-da9e-4f45-a637-d38f786d1cce">
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>0:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1075-session_freedom_cruise_about_gff</slug>
+        <title>Freedom Cruise, about:GFF</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Freedom_Cruise,_about:GFF</link>
+        </links>
+      </event>
+      <event id="1078" guid="65214aac-aeb9-4e6f-80bf-d427b88d7156">
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1078-session_freedom_to_go_an_interactive_workshop_from_an_to_f_to_g_droid</slug>
+        <title>Freedom to go - an interactive workshop from An- to F- to G-Droid</title>
+        <subtitle>about:sessions</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>An interactive workshop to present the Free Software App repository called F-Droid and the outstanding functionalities of its clients called F-Droid and G-Droid.  After that we discover the best (imho!) Android-based Free Software apps including methods of anonymization and encryption - and you will have the possibility to present your personal favorite Free Software app as well.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Freedom_to_go_-_an_interactive_workshop_from_An-_to_F-_to_G-Droid</link>
+        </links>
+      </event>
+      <event id="1090" guid="C26c1327-b087-4f31-93d8-394eece62ae5">
+        <logo/>
+        <date>2019-08-23T10:30:00+02:00</date>
+        <start>10:30</start>
+        <duration>2:30</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1090-session_how_to_shape_a_responsible_world_</slug>
+        <title>How to shape a responsible world?</title>
+        <subtitle>Follow up</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>As activists we seek for a fundamental change in this world towards a fair and responsible society. The invited groups will give their analysis of the problems and present their work. Together we will identify questions or common projects we will work on in the follow-up workshops.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:How_to_shape_a_responsible_world%3F</link>
+        </links>
+      </event>
+      <event id="1120" guid="D28fed56-ab47-4377-baf2-e4e24cc1065a">
+        <logo/>
+        <date>2019-08-23T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>0:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1120-session_r5_meeting_ccc_working_group_</slug>
+        <title>R5 Meeting (CCC working group)</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>Reuse, Repair, Recycle, Rethink, Redesign (R5) is a working group of the CCC. This session is for people that are already part of it, and people that would like to get involved.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Blipp">Blipp</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Fraxinas">Fraxinas</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:R5_Meeting_(CCC_working_group)</link>
+        </links>
+      </event>
+      <event id="1130" guid="204465e5-e23b-4063-b46a-255e9489e3b6">
+        <logo/>
+        <date>2019-08-23T10:30:00+02:00</date>
+        <start>10:30</start>
+        <duration>2:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1130-session_substrate_verifiable_credentials_build_your_first_infrastructure_blockchain</slug>
+        <title>Substrate verifiable credentials - build your first infrastructure blockchain</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language/>
+        <abstract/>
+        <description>In this workshop you'll learn to build your own infrastructure blockchain (for verifiable credentials) using Substrate, Rust and WebAssembly.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>https://substrate.dev/en/tutorials</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Substrate_verifiable_credentials_-_build_your_first_infrastructure_blockchain</link>
+        </links>
+      </event>
+      <event id="1139" guid="74735d77-9d77-4c14-b823-81a1c91820ee">
+        <logo/>
+        <date>2019-08-23T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>0:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1139-session_tor_project_running_tor_trainings_with_human_rights_defenders_in_global_south</slug>
+        <title>Tor Project: running Tor trainings with human rights defenders in Global South</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Meeting the Global South community and users</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>https://www.torproject.org</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Tor_Project:_running_Tor_trainings_with_human_rights_defenders_in_Global_South</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:CCC-CH">
+      <event id="1044" guid="1bd9757b-7cd5-4355-a82f-e4818e796067">
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>0:45</duration>
+        <room>Village:CCC-CH</room>
+        <slug>camp2019-1044-session_ccc_ch_gettogether</slug>
+        <title>CCC-CH Gettogether</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Das Gettogether des CCC-CH am CCCamp19</description>
+        <persons/>
+        <links>
+          <link>https://ccc-ch.ch</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:CCC-CH_Gettogether</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Foodhackingbase">
+      <event id="1047" guid="A29622ff-88ce-4a82-ad06-638b1549d398">
+        <logo/>
+        <date>2019-08-23T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Village:Foodhackingbase</room>
+        <slug>camp2019-1047-session_cheese_rendezvous</slug>
+        <title>Cheese Rendezvous</title>
+        <subtitle>Session II.</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Selection of delicious cheeses and condiments for you!</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Algoldor">Algoldor</person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Cheesetasting_ccccamp2019</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Cheese_Rendezvous</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:LaTeX">
+      <event id="1051" guid="12375d1f-b599-40a8-be72-7ca856048c10">
+        <logo/>
+        <date>2019-08-23T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Village:LaTeX</room>
+        <slug>camp2019-1051-session_context_fuer_anfaenger</slug>
+        <title>ConTeXt für Anfänger</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Introduction into ConTeXt</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Hraban">Hraban</person>
+        </persons>
+        <links>
+          <link>http://wiki.contextgarden.net</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:ConTeXt_f%C3%BCr_Anf%C3%A4nger</link>
+        </links>
+      </event>
+      <event id="1063" guid="29607a5e-7c42-4004-b238-31fa1fe9a3c3">
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Village:LaTeX</room>
+        <slug>camp2019-1063-session_einfuehrung_in_latex</slug>
+        <title>Einführung in LaTeX</title>
+        <subtitle>(Individual 1h events, not a series - you can come to any of those)</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Short introduction into typesetting with LaTeX for complete beginners</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Nils">Nils</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_in_LaTeX</link>
+        </links>
+      </event>
+      <event id="1146" guid="Ac48ceec-92fe-4bbc-b7aa-6993ec6e5da1">
+        <logo/>
+        <date>2019-08-23T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>0:15</duration>
+        <room>Village:LaTeX</room>
+        <slug>camp2019-1146-session_xspace_solution_to_an_annoying_tex_quirk</slug>
+        <title>Xspace – Solution to an annoying TeX quirk</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Let's have a look how xspace.sty makes TeX's treatment of whitespace more predictable!</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Fr%C3%B6belsuppe">Fröbelsuppe</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Xspace_%E2%80%93_Solution_to_an_annoying_TeX_quirk</link>
+        </links>
+      </event>
+    </room>
+    <room name="Hackcenter 3">
+      <event id="1052" guid="46bdea32-2063-4f57-9b69-8ae65516c241">
+        <logo/>
+        <date>2019-08-23T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>0:45</duration>
+        <room>Hackcenter 3</room>
+        <slug>camp2019-1052-session_contributing_to_nixpkgs_for_newbies</slug>
+        <title>Contributing to nixpkgs for Newbies</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn how you can contribute to the nixpkgs git repo</description>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Contributing_to_nixpkgs_for_Newbies</link>
+        </links>
+      </event>
+    </room>
+    <room name="">
+      <event id="1055" guid="B4cc194f-6a8f-4dce-a7ee-b79b68cf78dc">
+        <logo/>
+        <date>2019-08-23T18:30:00+02:00</date>
+        <start>18:30</start>
+        <duration>6:00</duration>
+        <room/>
+        <slug>camp2019-1055-session_cryptoparty</slug>
+        <title>CryptoParty</title>
+        <subtitle>CryptoParty</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:CryptoParty</link>
+        </links>
+      </event>
+      <event id="1056" guid="995cc019-bc3d-402c-8fc8-a0d5aaa8ed80">
+        <logo/>
+        <date>2019-08-23T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room/>
+        <slug>camp2019-1056-session_debate_night_bitcoin_for_socialists_and_environmentalists</slug>
+        <title>Debate Night - Bitcoin for Socialists and Environmentalists</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>Debate Night - Bitcoin for Socialists and Environmentalists</description>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Debate_Night_-_Bitcoin_for_Socialists_and_Environmentalists</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Kidspace">
+      <event id="1068" guid="A4c66248-897e-4280-bb3e-3ba18695526b">
+        <logo/>
+        <date>2019-08-23T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>4:00</duration>
+        <room>Village:Kidspace</room>
+        <slug>camp2019-1068-session_fabscanpi_3d_laser_scanner_workshop</slug>
+        <title>FabScanPi - 3D Laser Scanner Workshop</title>
+        <subtitle>Build your own 3D-Scanner</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Build your own Open Source 3D Laser Scanner.</description>
+        <persons/>
+        <links>
+          <link>https://fabscan.org</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:FabScanPi_-_3D_Laser_Scanner_Workshop</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Free Software Foundation Europe">
+      <event id="1073" guid="Ecfcf7e9-5341-4ca3-ab75-f18882f6cb36">
+        <logo/>
+        <date>2019-08-23T19:30:00+02:00</date>
+        <start>19:30</start>
+        <duration>0:10</duration>
+        <room>Village:Free Software Foundation Europe</room>
+        <slug>camp2019-1073-session_free_software_song_sing_along</slug>
+        <title>Free Software Song sing-along</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>en</language>
+        <abstract/>
+        <description>Everyday at 19:30 in the Cluster about:freedom we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Eal">Eal</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Harbor">
+      <event id="1005" guid="7b761f9f-8311-5cf9-8365-93518cf18bb8">
+        <logo/>
+        <date>2019-08-23T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>0:30</duration>
+        <room>Village:Harbor</room>
+        <slug>camp2019-1005-session_hfos_the_hackerfleet_operating_system</slug>
+        <title>HFOS - The Hackerfleet Operating System</title>
+        <subtitle>A short repetition of the talk from day 1 before the maritime hackers meetup</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>HFOS is the opensource vessel computer system</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Riot">Riot</person>
+        </persons>
+        <links>
+          <link>http://hackerfleet.eu</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:HFOS_-_The_Hackerfleet_Operating_System</link>
+        </links>
+      </event>
+      <event id="1106" guid="F30f2572-96ca-4d5b-8e7f-ab9fa43cdf20">
+        <logo/>
+        <date>2019-08-23T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Village:Harbor</room>
+        <slug>camp2019-1106-session_maritime_hackers_meetup</slug>
+        <title>Maritime Hackers Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Maritime hackers meet for socializing and discussion</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Riot">Riot</person>
+        </persons>
+        <links>
+          <link>https://isomer.hackerfleet.eu</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Maritime_Hackers_Meetup</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Fri3d Camp">
+      <event id="1098" guid="Dc6e98b3-7645-47c9-be4d-91ce0c17a618">
+        <logo/>
+        <date>2019-08-23T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Village:Fri3d Camp</room>
+        <slug>camp2019-1098-session_iot_meetup</slug>
+        <title>IoT Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Open meeting to discuss design &amp; ethics of IoT</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Roeckoe">Roeckoe</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Tamberg">Tamberg</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:IoT_Meetup</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Haecksen">
+      <event id="1100" guid="8668d4a5-c292-49f7-8f16-1e8f9c429a46">
+        <logo/>
+        <date>2019-08-23T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1100-session_junges_chaos_bildet_banden</slug>
+        <title>Junges Chaos Bildet Banden</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Wir wollen Junge Leute im Chaos Umfeld vernetzen und die Jugendarbeit in den einzelnen Spaces stärken. Komm vorbei, trink eine Mate und lass die Welt verändern.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Scammo">Scammo</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Junges_Chaos_Bildet_Banden</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:C-base">
+      <event id="1115" guid="1c0f9124-a0a8-4de3-bf71-7e9e8918b06c">
+        <logo/>
+        <date>2019-08-23T17:05:00+02:00</date>
+        <start>17:05</start>
+        <duration>1:30</duration>
+        <room>Village:C-base</room>
+        <slug>camp2019-1115-session_pentagame</slug>
+        <title>Pentagame</title>
+        <subtitle>An abstract board game</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>New abstract board game explained and played</description>
+        <persons/>
+        <links>
+          <link>http://pentagame.org</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Pentagame</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Ecohackerfarm">
+      <event id="1118" guid="36719604-1c0a-4e1e-b823-734b79283e4d">
+        <logo/>
+        <date>2019-08-23T14:30:00+02:00</date>
+        <start>14:30</start>
+        <duration>1:00</duration>
+        <room>Village:Ecohackerfarm</room>
+        <slug>camp2019-1118-session_powerplant_an_opensource_permaculture_garden_planner_for_everyone</slug>
+        <title>Powerplant: an opensource permaculture garden planner for everyone</title>
+        <subtitle>permaculture gardening for everyone</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>a perfect opportunity to find out what powerplant is all about</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Aimeejulia">Aimeejulia</person>
+        </persons>
+        <links>
+          <link>https://wiki.ecohackerfarm.org/powerplant:start</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Powerplant:_an_opensource_permaculture_garden_planner_for_everyone</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:RoboVillage">
+      <event id="1012" guid="52408eae-be84-50b1-8f16-43f53f0452f9">
+        <logo/>
+        <date>2019-08-23T12:30:00+02:00</date>
+        <start>12:30</start>
+        <duration>1:30</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1012-session_sumorobot_programming</slug>
+        <title>SumoRobot programming</title>
+        <subtitle>Day 3 afternoon</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>You will be able to write your awesome algorithm and get a blast on the SumoRobot match.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Superwallah">Superwallah</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com/kits/sumorobot</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming</link>
+        </links>
+      </event>
+      <event id="1016" guid="27cf8aef-b97c-549d-b041-4edda9b0f894">
+        <logo/>
+        <date>2019-08-23T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1016-session_sumorobot_programming</slug>
+        <title>SumoRobot programming</title>
+        <subtitle>Day 3 evening</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>You will be able to write your awesome algorithm and get a blast on the SumoRobot match.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Superwallah">Superwallah</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com/kits/sumorobot</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming</link>
+        </links>
+      </event>
+      <event id="1023" guid="13c49c3a-e8ee-5636-b25a-de149b504b44">
+        <logo/>
+        <date>2019-08-23T14:30:00+02:00</date>
+        <start>14:30</start>
+        <duration>2:00</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1023-session_sumorobot_soldering</slug>
+        <title>SumoRobot soldering</title>
+        <subtitle>Day 3 afternoon</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Come solder your own SumoRobot and have a blast later ate the SumoRobot match.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com/kits/sumorobot</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering</link>
+        </links>
+      </event>
+      <event id="1024" guid="c3fd69c3-9b8e-5d8e-b516-148af528fedd">
+        <logo/>
+        <date>2019-08-23T10:00:00+02:00</date>
+        <start>10:00</start>
+        <duration>2:00</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1024-session_sumorobot_soldering</slug>
+        <title>SumoRobot soldering</title>
+        <subtitle>Day 3 morning</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Come solder your own SumoRobot and have a blast later ate the SumoRobot match.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com/kits/sumorobot</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering</link>
+        </links>
+      </event>
+    </room>
+    <room name="NixOS">
+      <event id="1136" guid="0c8e57af-799e-4378-a318-07fbd1b1da3f">
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>0:45</duration>
+        <room>NixOS</room>
+        <slug>camp2019-1136-session_terranix</slug>
+        <title>Terranix</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>A NixOS way to create terraform json files.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Palo">Palo</person>
+        </persons>
+        <links>
+          <link>https://terranix.org/</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Terranix</link>
+        </links>
       </event>
     </room>
   </day>
@@ -3399,7 +5840,7 @@ I am currently doing my PhD at a research institute that focuses on embedded sec
       </event>
     </room>
     <room name="Plank">
-      <event id="11" guid="93312758-6925-5e84-85b5-3b80f92a0faa">
+      <event id="111" guid="93312758-6925-5e84-85b5-3b80f92a0faa">
         <logo>/media/thms/images/P9JCSV/Im_Eis_Ronja_Reese.png</logo>
         <date>2019-08-24T15:00:00+00:00</date>
         <start>15:00</start>
@@ -3429,7 +5870,7 @@ I am currently doing my PhD at a research institute that focuses on embedded sec
         <attachments/>
         <answers/>
       </event>
-      <event id="24" guid="54aa059d-1205-5afb-8a11-68ef351b0ab9">
+      <event id="124" guid="54aa059d-1205-5afb-8a11-68ef351b0ab9">
         <logo/>
         <date>2019-08-24T16:15:00+00:00</date>
         <start>16:15</start>
@@ -3468,7 +5909,7 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <attachments/>
         <answers/>
       </event>
-      <event id="37" guid="2e215ec0-4745-581d-bc12-b5ce7a4b3ff2">
+      <event id="137" guid="2e215ec0-4745-581d-bc12-b5ce7a4b3ff2">
         <logo>/media/thms/images/FMQ3UN/SUBSCRIBE10-cart-chaosradio_400x400.54d3adaf44f9d8.png</logo>
         <date>2019-08-24T18:30:00+00:00</date>
         <start>18:30</start>
@@ -3498,7 +5939,7 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <attachments/>
         <answers/>
       </event>
-      <event id="53" guid="85ae064f-2bbe-54d2-a26c-c79ce8457076">
+      <event id="153" guid="85ae064f-2bbe-54d2-a26c-c79ce8457076">
         <logo/>
         <date>2019-08-24T23:00:00+00:00</date>
         <start>23:00</start>
@@ -3530,7 +5971,7 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
       </event>
     </room>
     <room name="Workshop">
-      <event id="55" guid="0be7b345-e2aa-5d94-ba3e-674f3b9b0aea">
+      <event id="155" guid="0be7b345-e2aa-5d94-ba3e-674f3b9b0aea">
         <logo/>
         <date>2019-08-24T11:00:00+00:00</date>
         <start>11:00</start>
@@ -3564,7 +6005,7 @@ Bei gutem Wetter im Freien; bei schlechtem im Zelt.</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="40" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
+      <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
         <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
         <date>2019-08-24T14:00:00+00:00</date>
         <start>14:00</start>
@@ -3594,6 +6035,676 @@ Consultation hours are held in German or English, depending on the need. Oh, and
         <links/>
         <attachments/>
         <answers/>
+      </event>
+    </room>
+    <room name="Village:About:freedom">
+      <event id="1028" guid="A208d05f-cafd-4680-9f4e-760994a1202d">
+        <logo/>
+        <date>2019-08-24T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>0:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1028-session_advanced_web_tracking_methods</slug>
+        <title>Advanced web tracking methods</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Advanced browser tracking techniques have developed over the last decade that allow remote sites to leverage the increasingly feature-rich web to track users without their knowledge or consent.  Not only are distinct visits across sites logged via techniques such as browser fingerprinting, sites that handle our most intimate details are monitoring our behavior on pages and handing that information to third parties with little to no regard to our privacy.  This will cover some of those advanced techniques that have emerged, and how to protect yourself against pervasive web tracking.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Hainish">Hainish</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Advanced_web_tracking_methods</link>
+        </links>
+      </event>
+      <event id="1037" guid="3b8c90c5-464a-4d58-96b6-98808289f738">
+        <logo/>
+        <date>2019-08-24T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>0:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1037-session_bandwidth_matters_information_controls_in_a_conflict_state_in_india</slug>
+        <title>Bandwidth Matters, Information controls in a conflict state in India</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>What does information controls look like in conflict states of India? How does indias surveillance apparatus further intensify the information controls in conflict areas? How does this affect the everyday life of people esp women living and promoting peace in these regions?</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Bandwidth_Matters,_Information_controls_in_a_conflict_state_in_India</link>
+        </links>
+      </event>
+      <event id="1057" guid="E71849f7-2f83-487a-b94c-972972ea9805">
+        <logo/>
+        <date>2019-08-24T19:30:00+02:00</date>
+        <start>19:30</start>
+        <duration>16:30</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1057-session_decentrathon</slug>
+        <title>Decentrathon</title>
+        <subtitle>Hacksession</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>the decentralisation hackathon</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Decentrathon</link>
+        </links>
+      </event>
+      <event id="1058" guid="5367da00-4b01-4644-b874-c4f1441b9099">
+        <logo/>
+        <date>2019-08-24T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>1:30</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1058-session_decentrathon</slug>
+        <title>Decentrathon</title>
+        <subtitle>Pitches</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>the decentralisation hackathon</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Decentrathon</link>
+        </links>
+      </event>
+      <event id="1061" guid="7ed87274-4ec1-46e5-a779-ce8fdcc37bb4">
+        <logo/>
+        <date>2019-08-24T10:30:00+02:00</date>
+        <start>10:30</start>
+        <duration>1:25</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1061-session_discussion_on_privacy_friendly_green_policies_in_the_european_union</slug>
+        <title>Discussion on privacy-friendly green policies in the European Union</title>
+        <subtitle>about:sessions</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>How can we combine environmental issues with privacy-friendly solutions? Knowing that privacy comes at a cost of efficiency, what should the red lines be in the privacy VS environment debate? Is the fight for privacy in green policy the beginning of the end for surveillance capitalism?</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Blipp">Blipp</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Andreea_(EDRi)">Andreea (EDRi)</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Discussion_on_privacy-friendly_green_policies_in_the_European_Union</link>
+        </links>
+      </event>
+      <event id="1076" guid="4a501043-0b7e-4102-ba2e-6bec3444f017">
+        <logo/>
+        <date>2019-08-24T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>1:25</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1076-session_freedom_cruise_about_pnr</slug>
+        <title>Freedom Cruise, about:PNR</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Freedom_Cruise,_about:PNR</link>
+        </links>
+      </event>
+      <event id="1006" guid="7535c749-8cb0-535e-b201-09a741aa5e63">
+        <logo/>
+        <date>2019-08-24T10:30:00+02:00</date>
+        <start>10:30</start>
+        <duration>2:30</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1006-session_how_to_shape_a_responsible_world_</slug>
+        <title>How to shape a responsible world?</title>
+        <subtitle>Follow up</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>As activists we seek for a fundamental change in this world towards a fair and responsible society. The invited groups will give their analysis of the problems and present their work. Together we will identify questions or common projects we will work on in the follow-up workshops.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:How_to_shape_a_responsible_world%3F</link>
+        </links>
+      </event>
+      <event id="1093" guid="06e65ae5-6f8b-44aa-aa45-74991dd88f6a">
+        <logo/>
+        <date>2019-08-24T15:30:00+02:00</date>
+        <start>15:30</start>
+        <duration>1:25</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1093-session_illegal_content_online_bringing_rights_based_solutions_to_the_eu_table</slug>
+        <title>Illegal content online – Bringing rights-based solutions to the EU table</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>EDRi proposes a political workshop to stress-test human rights-based solutions to ongoing debates in EU Brussels bubble: platforms' responsibilities towards illegal content online, prosecution of online crimes and conditions for law enforcement to access online evidence.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Illegal_content_online_%E2%80%93_Bringing_rights-based_solutions_to_the_EU_table</link>
+        </links>
+      </event>
+      <event id="1096" guid="C3e5bdcf-c37b-40b4-8b96-68c698f77723">
+        <logo/>
+        <date>2019-08-24T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>3:25</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1096-session_ink_write_wasm_smart_contracts_with_rust</slug>
+        <title>Ink!: Write Wasm smart contracts with Rust</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>A comprehensive, end-to-end tutorial for building an ERC20 token using Parity Substrate and ink! - build on Rust and wasm</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>https://substrate.dev/substrate-contracts-workshop/#/</link>
+          <link>https://substrate.dev/en/tutorials</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Ink!:_Write_Wasm_smart_contracts_with_Rust</link>
+        </links>
+      </event>
+      <event id="1129" guid="7756ef87-bc29-4010-95a6-553075de7f18">
+        <logo/>
+        <date>2019-08-24T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>3:25</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1129-session_substrate_collectibles_build_your_own_blockchain_backed_asset_exchange</slug>
+        <title>Substrate Collectibles - Build your own blockchain-backed asset exchange</title>
+        <subtitle>Second Iteration</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>This workshop will take you through building your own collectibles blockchain  - think "CryptoKitties" - using Substrate, Rust and WebAssembly.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>https://substrate.dev/substrate-collectables-workshop/#/</link>
+          <link>https://substrate.dev/en/tutorials</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Substrate_Collectibles_-_Build_your_own_blockchain-backed_asset_exchange</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:HardwareHackingArea">
+      <event id="1031" guid="2a436543-55ef-4f8d-a8c6-955ce870a700">
+        <logo/>
+        <date>2019-08-24T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>3:00</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1031-session_ardutouch_music_synthesizer</slug>
+        <title>ArduTouch music synthesizer</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>''Learn to solder together a cool, powerful music synthesizer,&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;and learn to make cool music, sound, and noise!''&lt;br&gt; &lt;br&gt; ''(This is one of many cool things happening throughout CCCamp 2019 at the '''Hardware Hacking Area!)'''''&lt;br&gt; &lt;br&gt; This workshop will be given:&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 4: 30-Dec, 1pm - 4pm&lt;br&gt;</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Maltman23">Maltman23</person>
+        </persons>
+        <links>
+          <link>https://cornfieldelectronics.com/cfe/projects.php#ardutouch</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:ArduTouch_music_synthesizer</link>
+        </links>
+      </event>
+      <event id="1071" guid="Fc555301-996c-470a-a095-5d03182c3f27">
+        <logo/>
+        <date>2019-08-24T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1071-session_flippie_hacking_flip_dot_displays</slug>
+        <title>Flippie - Hacking Flip-Dot Displays</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Hacking flip-dot displays</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ssaschaa">Ssaschaa</person>
+        </persons>
+        <links>
+          <link>https://github.com/545ch4/flippie</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Flippie_-_Hacking_Flip-Dot_Displays</link>
+        </links>
+      </event>
+      <event id="1007" guid="ace5a157-768c-5a04-a6b7-67223d107586">
+        <logo/>
+        <date>2019-08-24T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>12:59</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1007-session_learn_to_solder</slug>
+        <title>Learn To Solder</title>
+        <subtitle>Day 4</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.&lt;br&gt; &lt;br&gt; &lt;span style="color:orange"&gt;'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!  All day &amp; all night, throughout all of CCCamp2019.'''''&lt;/span&gt;</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Maltman23">Maltman23</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder</link>
+        </links>
+      </event>
+    </room>
+    <room name="Hackcenter">
+      <event id="1040" guid="6ad28881-1413-46a4-837a-315359e19aeb">
+        <logo/>
+        <date>2019-08-24T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>2:00</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1040-session_body_mind_hardware_software</slug>
+        <title>Body/Mind Hardware/Software</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>EightOS bodymind operating system</description>
+        <persons/>
+        <links>
+          <link>http://www.8os.io</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Body/Mind_Hardware/Software</link>
+        </links>
+      </event>
+    </room>
+    <room name="Johnson (Workshop 1)">
+      <event id="1069" guid="C8804eab-dadd-4307-ab8c-e19f4a5d769f">
+        <logo/>
+        <date>2019-08-24T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1069-session_fair_ticket_sales_on_a_capitalist_world</slug>
+        <title>Fair Ticket Sales on a Capitalist World</title>
+        <subtitle>Welcome to capitalism where prices regulate the differences between deman and supply, or do they?</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>In this open discussion we will discuss solutions taken by organizations to address ticket sales at fair prices when demand significantly outgrows supply</description>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Fair_Ticket_Sales_on_a_Capitalist_World</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Free Software Foundation Europe">
+      <event id="1004" guid="a9e68dfd-d816-5fd7-918a-8623704dd15b">
+        <logo/>
+        <date>2019-08-24T19:30:00+02:00</date>
+        <start>19:30</start>
+        <duration>0:10</duration>
+        <room>Village:Free Software Foundation Europe</room>
+        <slug>camp2019-1004-session_free_software_song_sing_along</slug>
+        <title>Free Software Song sing-along</title>
+        <subtitle>ad-hoc choir</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>en</language>
+        <abstract/>
+        <description>Everyday at 19:30 in the Cluster about:freedom we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Eal">Eal</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Schaffenburg">
+      <event id="1080" guid="Fa4e46b5-6c08-4e4d-8385-2d1327450aab">
+        <logo/>
+        <date>2019-08-24T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>10:00</duration>
+        <room>Village:Schaffenburg</room>
+        <slug>camp2019-1080-session_goc</slug>
+        <title>GOC</title>
+        <subtitle>Destillation</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Gin Operation Center</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Fraxinas">Fraxinas</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:GOC</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:LaTeX">
+      <event id="1084" guid="9ab6f91f-65a8-4f5e-9b20-34824f839c43">
+        <logo/>
+        <date>2019-08-24T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>1:30</duration>
+        <room>Village:LaTeX</room>
+        <slug>camp2019-1084-session_graphics_with_latex</slug>
+        <title>Graphics with LaTeX</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>introduction into generating graphics with LaTeX</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Dantetante">Dantetante</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Graphics_with_LaTeX</link>
+        </links>
+      </event>
+      <event id="1089" guid="Dd824410-5344-458b-a254-3f66f5cc3fb8">
+        <logo/>
+        <date>2019-08-24T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Village:LaTeX</room>
+        <slug>camp2019-1089-session_how_to_get_ordinary_people_using_jekyll_latex_gitlab_ci_and_other_magic</slug>
+        <title>How to get ordinary people using Jekyll, LaTeX, Gitlab CI and other magic</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>How to set up a Gitlab project to automatically generate a Website and PDFs from the same source and make normal people use it...</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Nils">Nils</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:How_to_get_ordinary_people_using_Jekyll,_LaTeX,_Gitlab_CI_and_other_magic</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:C-base">
+      <event id="1085" guid="Dff93c19-0111-4418-855c-ca6dab6237a2">
+        <logo/>
+        <date>2019-08-24T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>0:30</duration>
+        <room>Village:C-base</room>
+        <slug>camp2019-1085-session_hfos_the_hackerfleet_operating_system</slug>
+        <title>HFOS - The Hackerfleet Operating System</title>
+        <subtitle>HFOS@c-base</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>HFOS is the opensource vessel computer system</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Riot">Riot</person>
+        </persons>
+        <links>
+          <link>http://hackerfleet.eu</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:HFOS_-_The_Hackerfleet_Operating_System</link>
+        </links>
+      </event>
+      <event id="1011" guid="03b08c8a-c471-5f1d-91f9-a643528708e0">
+        <logo/>
+        <date>2019-08-24T17:05:00+02:00</date>
+        <start>17:05</start>
+        <duration>1:30</duration>
+        <room>Village:C-base</room>
+        <slug>camp2019-1011-session_pentagame</slug>
+        <title>Pentagame</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>New abstract board game explained and played</description>
+        <persons/>
+        <links>
+          <link>http://pentagame.org</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Pentagame</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:ChaosZone">
+      <event id="1087" guid="4e353d1e-6318-4c8a-b00b-0952f6acea94">
+        <logo/>
+        <date>2019-08-24T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>2:00</duration>
+        <room>Village:ChaosZone</room>
+        <slug>camp2019-1087-session_hacker_coop_genossenschaft</slug>
+        <title>Hacker Coop Genossenschaft</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Hacker eG Meetup</description>
+        <persons/>
+        <links>
+          <link>http://vebit.xyz</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Hacker_Coop_Genossenschaft</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Ecohackerfarm">
+      <event id="1088" guid="26d4b72f-d202-4047-a66e-976290546aa7">
+        <logo/>
+        <date>2019-08-24T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Village:Ecohackerfarm</room>
+        <slug>camp2019-1088-session_hackerspaces_org_meetup</slug>
+        <title>Hackerspaces.org meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>an opportunity to get involved and catch up with the hackerspaces.org community</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Aimeejulia">Aimeejulia</person>
+        </persons>
+        <links>
+          <link>https://wiki.hackerspaces.org/</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Hackerspaces.org_meetup</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Belgian Embassy">
+      <event id="1092" guid="Dd6684d6-ee37-4d95-8be4-9fbb29f2cb46">
+        <logo/>
+        <date>2019-08-24T10:00:00+02:00</date>
+        <start>10:00</start>
+        <duration>2:00</duration>
+        <room>Village:Belgian Embassy</room>
+        <slug>camp2019-1092-session_icibici</slug>
+        <title>Icibici</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>build a simple brain-computer interface for €20</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Espero">Espero</person>
+        </persons>
+        <links>
+          <link>https://icibici.github.io/site/</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Icibici</link>
+        </links>
+      </event>
+    </room>
+    <room name="Hackcenter 3">
+      <event id="1105" guid="B7523425-acee-4679-96c6-4382236e43ba">
+        <logo/>
+        <date>2019-08-24T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Hackcenter 3</room>
+        <slug>camp2019-1105-session_let_s_hack_words_</slug>
+        <title>Let's hack words!</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Let's hack words is a session for everyone, who wants to explore creative writing, build worlds and lets characters dive into adventures. Or - for a start - just wants to get rid of hacker's block.</description>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Let%27s_hack_words!</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:TEUrCamp">
+      <event id="1112" guid="79236664-3145-40c6-9bb8-fe38fcc00ca0">
+        <logo/>
+        <date>2019-08-24T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Village:TEUrCamp</room>
+        <slug>camp2019-1112-session_oscilloscope_music_workshop</slug>
+        <title>Oscilloscope Music Workshop</title>
+        <subtitle>Open Lab</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Open lab on how to create music that generates images and animations when graphed in x/y mode</description>
+        <persons/>
+        <links>
+          <link>https://oscilloscopemusic.com</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Oscilloscope_Music_Workshop</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:RoboVillage">
+      <event id="1013" guid="e6d55ad6-c9af-5bd9-aa61-ac7f9369f625">
+        <logo/>
+        <date>2019-08-24T12:30:00+02:00</date>
+        <start>12:30</start>
+        <duration>1:30</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1013-session_sumorobot_programming</slug>
+        <title>SumoRobot programming</title>
+        <subtitle>Day 4 afternoon</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>You will be able to write your awesome algorithm and get a blast on the SumoRobot match.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Superwallah">Superwallah</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com/kits/sumorobot</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming</link>
+        </links>
+      </event>
+      <event id="1015" guid="8b2b5180-f7d6-5a10-85fd-0ab1d5af56a0">
+        <logo/>
+        <date>2019-08-24T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1015-session_sumorobot_programming</slug>
+        <title>SumoRobot programming</title>
+        <subtitle>Day 4 evening</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>You will be able to write your awesome algorithm and get a blast on the SumoRobot match.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Superwallah">Superwallah</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com/kits/sumorobot</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming</link>
+        </links>
+      </event>
+      <event id="1134" guid="D9d1bb33-18ab-4327-b399-d875d9be83ae">
+        <logo/>
+        <date>2019-08-24T10:00:00+02:00</date>
+        <start>10:00</start>
+        <duration>2:00</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1134-session_sumorobot_soldering</slug>
+        <title>SumoRobot soldering</title>
+        <subtitle>Day 4 morning</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Come solder your own SumoRobot and have a blast later ate the SumoRobot match.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com/kits/sumorobot</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering</link>
+        </links>
+      </event>
+      <event id="1027" guid="6fe603c8-d7e5-51f9-bc7f-43b83013eb8a">
+        <logo/>
+        <date>2019-08-24T14:30:00+02:00</date>
+        <start>14:30</start>
+        <duration>2:00</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1027-session_sumorobot_soldering</slug>
+        <title>SumoRobot soldering</title>
+        <subtitle>Day 4 afternoon</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Come solder your own SumoRobot and have a blast later ate the SumoRobot match.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com/kits/sumorobot</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering</link>
+        </links>
       </event>
     </room>
   </day>
@@ -3872,7 +6983,7 @@ The laws of physics inherently contain dynamics capable of creating aestheticall
       </event>
     </room>
     <room name="Plank">
-      <event id="54" guid="58d3f54b-e447-5a2d-a466-60ae6e892016">
+      <event id="154" guid="58d3f54b-e447-5a2d-a466-60ae6e892016">
         <logo/>
         <date>2019-08-25T03:00:00+00:00</date>
         <start>03:00</start>
@@ -3902,7 +7013,7 @@ The laws of physics inherently contain dynamics capable of creating aestheticall
         <attachments/>
         <answers/>
       </event>
-      <event id="59" guid="e9cc930e-e589-55b4-a861-44a4fd189512">
+      <event id="159" guid="e9cc930e-e589-55b4-a861-44a4fd189512">
         <logo/>
         <date>2019-08-25T05:00:00+00:00</date>
         <start>05:00</start>
@@ -3932,7 +7043,7 @@ The laws of physics inherently contain dynamics capable of creating aestheticall
         <attachments/>
         <answers/>
       </event>
-      <event id="19" guid="cf5d0389-ea8b-55d9-966c-2669e88de93a">
+      <event id="119" guid="cf5d0389-ea8b-55d9-966c-2669e88de93a">
         <logo/>
         <date>2019-08-25T15:00:00+00:00</date>
         <start>15:00</start>
@@ -3962,7 +7073,7 @@ The laws of physics inherently contain dynamics capable of creating aestheticall
         <attachments/>
         <answers/>
       </event>
-      <event id="51" guid="4b53e5aa-54dc-5b1c-8720-6dbea3e85070">
+      <event id="151" guid="4b53e5aa-54dc-5b1c-8720-6dbea3e85070">
         <logo/>
         <date>2019-08-25T16:30:00+00:00</date>
         <start>16:30</start>
@@ -4014,6 +7125,190 @@ you for many different reasons and would like to talk about that.</description>
         <links/>
         <attachments/>
         <answers/>
+      </event>
+    </room>
+    <room name="Village:About:freedom">
+      <event id="1001" guid="075f0c12-c595-5a0d-95ba-903364d5e443">
+        <logo/>
+        <date>2019-08-25T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>2:00</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1001-session_decentrathon</slug>
+        <title>Decentrathon</title>
+        <subtitle>Final Presentations</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>the decentralisation hackathon</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Decentrathon</link>
+        </links>
+      </event>
+      <event id="1077" guid="61543781-f9af-4428-8999-70c94af52f56">
+        <logo/>
+        <date>2019-08-25T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>0:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1077-session_freedom_cruise_about_policelaws</slug>
+        <title>Freedom Cruise, about:policelaws</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Freedom_Cruise,_about:policelaws</link>
+        </links>
+      </event>
+      <event id="1119" guid="7735bc78-26f8-4f7c-82ae-bfa7080816be">
+        <logo/>
+        <date>2019-08-25T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>0:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1119-session_proof_of_ignorance</slug>
+        <title>Proof of ignorance</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Proof_of_ignorance</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:HardwareHackingArea">
+      <event id="1008" guid="052d5d84-dd1f-5187-8ae1-754cc2b82da3">
+        <logo/>
+        <date>2019-08-25T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>5:59</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1008-session_learn_to_solder</slug>
+        <title>Learn To Solder</title>
+        <subtitle>Day 5</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.&lt;br&gt; &lt;br&gt; &lt;span style="color:orange"&gt;'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!  All day &amp; all night, throughout all of CCCamp2019.'''''&lt;/span&gt;</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Maltman23">Maltman23</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:RoboVillage">
+      <event id="1132" guid="0d35943d-7448-4049-b380-9d8ad5097d52">
+        <logo/>
+        <date>2019-08-25T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1132-session_sumorobot_programming</slug>
+        <title>SumoRobot programming</title>
+        <subtitle>Day 5 evening</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>You will be able to write your awesome algorithm and get a blast on the SumoRobot match.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Superwallah">Superwallah</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com/kits/sumorobot</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming</link>
+        </links>
+      </event>
+      <event id="1019" guid="43db353c-53d3-5ebe-864c-64188e084fad">
+        <logo/>
+        <date>2019-08-25T12:30:00+02:00</date>
+        <start>12:30</start>
+        <duration>1:30</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1019-session_sumorobot_programming</slug>
+        <title>SumoRobot programming</title>
+        <subtitle>Day 5 afternoon</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>You will be able to write your awesome algorithm and get a blast on the SumoRobot match.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Superwallah">Superwallah</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com/kits/sumorobot</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming</link>
+        </links>
+      </event>
+      <event id="1022" guid="7d946137-3850-5e6b-9572-99226df4df49">
+        <logo/>
+        <date>2019-08-25T14:30:00+02:00</date>
+        <start>14:30</start>
+        <duration>2:00</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1022-session_sumorobot_soldering</slug>
+        <title>SumoRobot soldering</title>
+        <subtitle>Day 5 afternoon</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Come solder your own SumoRobot and have a blast later ate the SumoRobot match.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com/kits/sumorobot</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering</link>
+        </links>
+      </event>
+      <event id="1026" guid="9b4461bd-f031-563e-a4a8-035eb3a21edc">
+        <logo/>
+        <date>2019-08-25T10:00:00+02:00</date>
+        <start>10:00</start>
+        <duration>2:00</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1026-session_sumorobot_soldering</slug>
+        <title>SumoRobot soldering</title>
+        <subtitle>Day 5 morning</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Come solder your own SumoRobot and have a blast later ate the SumoRobot match.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com/kits/sumorobot</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering</link>
+        </links>
       </event>
     </room>
   </day>
