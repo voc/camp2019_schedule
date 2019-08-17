@@ -1,5 +1,5 @@
 <schedule>
-  <version>Beteigeuze The Secret of Monkey Island</version>
+  <version>Capella The Secret of Monkey Island</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -32,6 +32,7 @@
         </recording>
         <persons>
           <person id="7797">jinxx</person>
+          <person id="4827">smtw</person>
         </persons>
         <links/>
         <attachments/>
@@ -185,6 +186,42 @@ There's only one way to find out. See you at the talk!</description>
           <person id="4825">Trammell Hudson</person>
         </persons>
         <links/>
+        <attachments/>
+      </event>
+      <event id="10370" guid="074a5ea0-fd00-4529-912c-c986a8856f6b">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10370.html</url>
+        <logo>/system/events/logos/000/010/370/large/XR_Symbol_01.jpg?1562757981</logo>
+        <date>2019-08-21T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>00:45</duration>
+        <room>Curie</room>
+        <slug>Camp2019-10370-aufstand_oder_aussterben_ein_vortrag_uber_die_klimakrise_okologischen_kollaps_und_zivilen_ungehorsam</slug>
+        <title>Aufstand oder Aussterben? Ein Vortrag über die Klimakrise, ökologischen Kollaps und zivilen Ungehorsam.</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>EXTINCTION REBELLION (XR) ist eine schnell wachsende globale Graswurzel-Bewegung von Klima-Aktivist*innen, die mit gewaltfreien zivilen Ungehorsam einen radikalen Wandel herbeiführen möchte um die Risiken des ökologischen Kollaps und des Aussterbens der Menschheit zu minimieren. Wir bringen die Gefahr des Klimakollaps auf die Agenda, informieren die Öffentlichkeit, und üben Druck auf die Regierungen aus, den Klimanotstand auszurufen, und entsprechend angemessen zu handeln.</abstract>
+        <description>XR hat drei Forderungen:&#13;
+&#13;
+1. TELL THE TRUTH - Die Regierung muss die Wahrheit über die ökologische Krise offenlegen und den Klimanotstand ausrufen. Die Dringlichkeit des sofortigen Kurswechsels muss von allen gesellschaftlichen Institutionen kommuniziert werden. &#13;
+&#13;
+2. ACT NOW - Die Regierung muss jetzt handeln, um das Artensterben zu stoppen und die Treibhausgasemissionen bis zum Jahr 2025 auf Netto-Null zu senken.&#13;
+&#13;
+3. BEYOND POLITICS - Die Regierung beruft eine Bürger'innenversammlung zu Klima- und ökologischer Gerechtigkeit ein, die die notwendigen Maßnahmen erarbeitet und verpflichtet sich, deren Beschlüsse umzusetzen.&#13;
+</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="9116">Dan</person>
+          <person id="9118">Maria</person>
+        </persons>
+        <links>
+          <link href="https://rebellion.earth/">rebellion.earth</link>
+          <link href="https://extinctionrebellion.de/">extinctionrebellion.de</link>
+        </links>
         <attachments/>
       </event>
       <event id="10248" guid="4965ee72-6d7b-4e68-85f7-4d6c4f0c9041">
@@ -493,29 +530,37 @@ We will use software methods (rooting) and hardware methods (flash dumping). Usi
   </day>
   <day index="2" date="2019-08-22" start="2019-08-22T09:00:00+02:00" end="2019-08-23T04:00:00+02:00">
     <room name="Curie">
-      <event id="10232" guid="84c25f65-998a-43a8-bd32-2fe91fe42ff7">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10232.html</url>
-        <logo/>
+      <event id="10400" guid="36b973e6-6203-4506-9317-4959d04ce0d0">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10400.html</url>
+        <logo>/system/events/logos/000/010/400/large/IMG_2445.jpg?1565303709</logo>
         <date>2019-08-22T12:00:00+02:00</date>
         <start>12:00</start>
-        <duration>00:30</duration>
+        <duration>00:45</duration>
         <room>Curie</room>
-        <slug>Camp2019-10232-was_ihr_schon_immer_nicht_uber_koffein_wissen_wolltet</slug>
-        <title>Was ihr schon immer (nicht) über Koffein wissen wolltet</title>
-        <subtitle/>
-        <track>Science</track>
+        <slug>Camp2019-10400-opencodes</slug>
+        <title>OpenCodes</title>
+        <subtitle>Hacker im Museum</subtitle>
+        <track>Art &amp; Culture</track>
         <type>lecture</type>
         <language>de</language>
-        <abstract>Koffein als Substanz wird Tag für Tag aufgrund seiner anregenden Wirkung von vielen Menschen konsumiert, doch was genau steckt eigentlich hinter dieser Substanz? In diesem Talk blicken wir in die Chemie, Herkunft, Wirkung, Gefahren und weitere Aspekte des Koffeins.</abstract>
-        <description>Koffein, ein Stoff, den viele (hackende) Menschen tagtäglich in unterschiedlichen Formen konsumieren. Was genau ist diese Substanz eigentlich und wo kommt sie überall vor? Was passiert mit Koffein und mit uns, wenn dieses Molekül durch unseren Körper reist? Und kann Koffein ab einer bestimmten Menge gefährlich werden? Diese und weitere Fragen werden zusammen mit vielem, was Wissenswertes zur Chemie von Koffein existiert, hier thematisiert.</description>
+        <abstract>Computer können Kunst erzeugen. Museen können Kunst ausstellten. Wie kann das zusammen kommen? Und welche Rolle spielen Community- und OpenSource-Gedanken darin? Der Vortrag ist die Geschichte eines Ausstellungs- und Bildungskonzeptes, welches auch von Hackern entworfen wurde.</abstract>
+        <description>Die Ausstellung 'Open Codes' wurde zusammen mit Karlsruher Communities, unter anderem dem Entropia, FabLab und Freifunk entworfen und erweitert. Es geht um einen Blick hinter die Kulissen einer Gesellschaft, die immer weiter in das Digitale wandert.&#13;
+&#13;
+Kostenloser Eintritt, Freifunk-WLAN, Tische, Sofas, Tischtennisplatte, kostenlose Getränke und Snacks, Hackathons, die Gulaschprogrammiernacht, PyCon, Wikimedia usw. lassen einen fast vergessen, dass man in einem Museum steht. Programmieren und hacken im Museum, wie geht das? &#13;
+&#13;
+Die Ausstellung ist weit mehr als eine kuratierte Sammlung von Medienkunstwerken, die sich mit dem Thema Code befasst. Es werden auch Themen wie OpenSource und die Hackercommunity greifbar gemacht. Die Werke sind Eckpunkte für Diskussionen, die bereits in Hacker-, Mackerspaces und digitalen Communities passiert. &#13;
+&#13;
+Der Vortrag verfolgt den gesamten Weg der letzten drei Jahre: von der ersten Konzeptskizze und Tschunkparties mit Kuratorinnen und Hackern über die Ausstellungseröffnung mit Feldtelefon, Hackcenter und Häppchen, "Bitte nicht hacken, das ist Kunst"-Schildern bis zu einer Lovestory - Still a Better Love Story than Twilight - zwischen zwei Welten, die anders nicht sein könnten. Da dürfen Indien und China auch nicht fehlen...</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="8973">Lea Rain</person>
+          <person id="4508">obelix</person>
         </persons>
-        <links/>
+        <links>
+          <link href="https://zkm.de/de/ausstellung/2017/10/open-codes">Projekwebseite</link>
+        </links>
         <attachments/>
       </event>
       <event id="10368" guid="25ea0487-9dc1-4dc6-8df7-75b4872a164c">
@@ -763,12 +808,12 @@ The talk will give a brief overview on what choices state of the art network app
         <track>Ethics, Society &amp; Politics</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>A informative and lighthearted overview of contemporary Chinese online culture </abstract>
-        <description>A river crab (Hé Xié) is a homophone of “harmony”(Hé Xiè) in Mandarin Chinese. The word "harmonious society" was brought up by ex-Chinese leader Hu Jintao's in his speech on signature ideology, which gradually led to the censorship policy that we see nowadays on Chinese internet. The talk will introduce its recent history and status quo of the censorship with actual cases. &#13;
+        <abstract>An informative and lighthearted overview of contemporary Chinese online culture </abstract>
+        <description>A river crab (Hé Xiè) is a homophone of “harmony”(Hé Xié) in Mandarin Chinese. The word "harmonious society" was brought up by ex-Chinese leader Hu Jintao's in his speech on signature ideology, which gradually led to the censorship policy that we see nowadays on Chinese internet. The talk will introduce its recent history and status quo of the censorship with actual cases. &#13;
 &#13;
-I’ll explain, as a native speaker of Chinese language, the subversive humor and ingenious creativity that Chinese netizens employ to get around the infamous online censorship. It is as bad as portrayed in Western media, however you don’t often see people talk about its inefficiency, if not futility. Due to the nature of Chinese language, the collective intelligence can always quickly come up with many ways- homophones being one of them - to circumvent the existing list of censorship. &#13;
+I’ll explain, as a native speaker of Chinese language, the subversive humor and ingenious creativity that Chinese netizens employ to get around the infamous online censorship. The censorship scheme is as bad as portrayed in Western media, however you don’t often see people talk about its inefficiency, if not futility. Due to the complicated nature of Chinese language, the collective intelligence can always quickly come up with many ways- homophones being one of them - to circumvent the existing list of censorship. &#13;
 &#13;
-You won’t become a China expert after the talk but your will definitely know a bit more about the linguistic and cultural aspects of the country than before. </description>
+You won’t become a China expert after the talk but your will definitely know a bit more about the linguistic and cultural aspects of the gigantic country than before. </description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -869,13 +914,13 @@ In der Arbeit The Adventures of WH beschäftige ich mich in Kollaboration mit de
       </event>
       <event id="10292" guid="5337766f-3676-4a2a-b1f6-4bd66b4d71af">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10292.html</url>
-        <logo>/system/events/logos/000/010/292/large/chip.png?1560259230</logo>
+        <logo>/system/events/logos/000/010/292/large/controller-leak.svg.png?1565451988</logo>
         <date>2019-08-22T22:00:00+02:00</date>
         <start>22:00</start>
         <duration>00:45</duration>
         <room>Meitner</room>
-        <slug>Camp2019-10292-how_we_pull_the_firmware_from_your_microcontroller</slug>
-        <title>How we Pull the Firmware from your Microcontroller</title>
+        <slug>Camp2019-10292-tales_from_hardware_security_research</slug>
+        <title>Tales from Hardware Security Research</title>
         <subtitle>From Research over Vulnerability Discovery to Public Disclosure</subtitle>
         <track>Security</track>
         <type>lecture</type>
@@ -941,7 +986,6 @@ Finally we will give some ideas on how to read between the lines in datasheets. 
         </recording>
         <persons>
           <person id="4555">Alvar C.H. Freude</person>
-          <person id="8545">Maria Wilhelm</person>
           <person id="9127">Stefan Brink</person>
         </persons>
         <links>
@@ -1943,6 +1987,31 @@ In addition, we have the satisfaction of announcing that the CCC will be the fir
         </links>
         <attachments/>
       </event>
+      <event id="10232" guid="84c25f65-998a-43a8-bd32-2fe91fe42ff7">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10232.html</url>
+        <logo/>
+        <date>2019-08-24T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>00:45</duration>
+        <room>Meitner</room>
+        <slug>Camp2019-10232-was_ihr_schon_immer_nicht_uber_koffein_wissen_wolltet</slug>
+        <title>Was ihr schon immer (nicht) über Koffein wissen wolltet</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Koffein als Substanz wird Tag für Tag aufgrund seiner anregenden Wirkung von vielen Menschen konsumiert, doch was genau steckt eigentlich hinter dieser Substanz? In diesem Talk blicken wir in die Chemie, Herkunft, Wirkung, Gefahren und weitere Aspekte des Koffeins.</abstract>
+        <description>Koffein, ein Stoff, den viele (hackende) Menschen tagtäglich in unterschiedlichen Formen konsumieren. Was genau ist diese Substanz eigentlich und wo kommt sie überall vor? Was passiert mit Koffein und mit uns, wenn dieses Molekül durch unseren Körper reist? Und kann Koffein ab einer bestimmten Menge gefährlich werden? Diese und weitere Fragen werden zusammen mit vielem, was Wissenswertes zur Chemie von Koffein existiert, hier thematisiert.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="8973">Lea Rain</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="10202" guid="c1146d2e-c4cf-44ed-8d83-3fe3c3a4ba0e">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10202.html</url>
         <logo/>
@@ -2279,6 +2348,7 @@ Key words: 6502, CSS, Ethernet, ATXMEGA, JavaScript, Cortex-M3, WebSockets, AM33
         </recording>
         <persons>
           <person id="7797">jinxx</person>
+          <person id="4827">smtw</person>
         </persons>
         <links/>
         <attachments/>
