@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-17 19:20</version>
+  <version>2019-08-17 19:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -4034,6 +4034,11 @@ AMD introduced the AMD Secure Processor to provide a trusted execution environme
           <person id="41">
             <code>39DWDB</code>
             <public_name>Christian Werling</public_name>
+            <biography/>
+          </person>
+          <person id="69">
+            <code>3MMUHQ</code>
+            <public_name>Robert Buhren</public_name>
             <biography/>
           </person>
         </persons>

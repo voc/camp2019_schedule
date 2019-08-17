@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-17 19:20",
+    "version": "2019-08-17 19:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -4497,6 +4497,13 @@
                     "code": "39DWDB",
                     "public_name": "Christian Werling",
                     "biography": "",
+                    "answers": []
+                  },
+                  {
+                    "id": 69,
+                    "code": "3MMUHQ",
+                    "public_name": "Robert Buhren",
+                    "biography": null,
                     "answers": []
                   }
                 ],

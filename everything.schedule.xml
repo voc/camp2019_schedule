@@ -4037,6 +4037,11 @@ AMD introduced the AMD Secure Processor to provide a trusted execution environme
             <public_name>Christian Werling</public_name>
             <biography/>
           </person>
+          <person id="69">
+            <code>3MMUHQ</code>
+            <public_name>Robert Buhren</public_name>
+            <biography/>
+          </person>
         </persons>
         <links/>
         <attachments/>
