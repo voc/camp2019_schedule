@@ -4805,7 +4805,7 @@
               {
                 "id": 131,
                 "guid": "8437e8a0-e99a-5e16-81d6-81a1cab2fc59",
-                "logo": "/media/thms/images/QX7DQP/cy_klein.png",
+                "logo": "/media/thms/images/QX7DQP/Screenshot_2019-08-17_at_21.30.45.png",
                 "date": "2019-08-23T20:45:00+02:00",
                 "start": "20:45",
                 "duration": "02:00",
@@ -4818,7 +4818,7 @@
                 "type": "Workshop",
                 "language": "en",
                 "abstract": "The OWASP Top Ten project lists the top 10 (web) application security risks. In this Workshop we will take a close look at number 9: \"Using Components With Known Vulnerabilities\".\r\n\r\nwe will try to use (open source) tooling to find known vulnerabilities in 3rd party libraries, containers and APIs, then take a look at how we can automate those tools in our ci/cd pipelines\r\nyou don't need to know about security or vulnerability management to do the workshop, we will cover the basics and you can a lot on the way",
-                "description": "workshop will feature the following Tools:\r\n- OWASP dependency-check (workshop will focus on java/maven/gradle, but feel free bring your own languages and dependencies so i can learn something too:) )\r\n- CoreOS Clair for container scanning\r\n- OWASP Zap for API scanning (technically not A9, but many the others;) )\r\n\r\nif we have time (or if you're interested after the actual workshop) we can further discuss how we can shape the process of fixing said vulnerabilities in our daily dev/ops/x jobs (or we can just rant about security over some beers)\r\n\r\nwe speak english and german, so dont be scared if your english is not too good. we will get along :-)",
+                "description": "workshop will feature the following Tools:\r\n- OWASP dependency-check (workshop will focus on java/maven/gradle, but feel free bring your own languages and dependencies so i can learn something too:) )\r\n- CoreOS Clair for container scanning\r\n- OWASP Zap for API scanning (technically not A9, but many the others;) )\r\n\r\nif we have time (or if you're interested after the actual workshop) we can further discuss how we can shape the process of fixing said vulnerabilities in our daily dev/ops/x jobs (or we can just rant about security over some beers)\r\n\r\nwe speak english and german, so dont be scared if your english is not too good. we will get along :-)\r\n\r\nthis workshop will be the hands-on counterpart to my talk on Thursday, 14:00 in Curie (Tent 1)\r\nhttps://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10181.html",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [

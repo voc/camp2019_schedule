@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-17 21:30</version>
+  <version>2019-08-17 21:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -4348,7 +4348,7 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <answers/>
       </event>
       <event id="131" guid="8437e8a0-e99a-5e16-81d6-81a1cab2fc59">
-        <logo>/media/thms/images/QX7DQP/cy_klein.png</logo>
+        <logo>/media/thms/images/QX7DQP/Screenshot_2019-08-17_at_21.30.45.png</logo>
         <date>2019-08-23T20:45:00+02:00</date>
         <start>20:45</start>
         <duration>02:00</duration>
@@ -4371,7 +4371,10 @@ you don't need to know about security or vulnerability management to do the work
 &#13;
 if we have time (or if you're interested after the actual workshop) we can further discuss how we can shape the process of fixing said vulnerabilities in our daily dev/ops/x jobs (or we can just rant about security over some beers)&#13;
 &#13;
-we speak english and german, so dont be scared if your english is not too good. we will get along :-)</description>
+we speak english and german, so dont be scared if your english is not too good. we will get along :-)&#13;
+&#13;
+this workshop will be the hands-on counterpart to my talk on Thursday, 14:00 in Curie (Tent 1)&#13;
+https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10181.html</description>
         <recording>
           <license/>
           <optout>false</optout>
