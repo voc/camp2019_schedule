@@ -1496,13 +1496,13 @@ Consultation hours are held in German or English, depending on the need. Oh, and
           <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering</link>
         </links>
       </event>
-      <event id="1020" guid="a6546254-82fd-55c2-b07c-1ed995258b55">
+      <event id="1134" guid="D9d1bb33-18ab-4327-b399-d875d9be83ae">
         <logo/>
         <date>2019-08-21T14:30:00+02:00</date>
         <start>14:30</start>
         <duration>2:00</duration>
         <room>Village:RoboVillage</room>
-        <slug>camp2019-1020-session_sumorobot_soldering</slug>
+        <slug>camp2019-1134-session_sumorobot_soldering</slug>
         <title>SumoRobot soldering</title>
         <subtitle>Day 1 afternoon</subtitle>
         <track>self organized sessions</track>
@@ -2536,13 +2536,13 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
           <link>//events.ccc.de/camp/2019/wiki/Session:Arduino_For_Total_Newbies</link>
         </links>
       </event>
-      <event id="1009" guid="ddc6e4c4-fc18-5d1a-9c0b-aeaac81562ca">
+      <event id="1102" guid="069ad79f-dd7f-4e2b-92ae-b9eaf484e61f">
         <logo/>
         <date>2019-08-22T11:00:00+02:00</date>
         <start>11:00</start>
         <duration>12:59</duration>
         <room>Village:HardwareHackingArea</room>
-        <slug>camp2019-1009-session_learn_to_solder</slug>
+        <slug>camp2019-1102-session_learn_to_solder</slug>
         <title>Learn To Solder</title>
         <subtitle>Day 2</subtitle>
         <track>self organized sessions</track>
@@ -2840,13 +2840,13 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
       </event>
     </room>
     <room name="Village:LaTeX">
-      <event id="1000" guid="d1956445-2894-5c07-b4f9-7bf8c29a1a05">
+      <event id="1051" guid="12375d1f-b599-40a8-be72-7ca856048c10">
         <logo/>
         <date>2019-08-22T14:00:00+02:00</date>
         <start>14:00</start>
         <duration>1:00</duration>
         <room>Village:LaTeX</room>
-        <slug>camp2019-1000-session_context_fuer_anfaenger</slug>
+        <slug>camp2019-1051-session_context_fuer_anfaenger</slug>
         <title>ConTeXt für Anfänger</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2862,13 +2862,13 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
           <link>//events.ccc.de/camp/2019/wiki/Session:ConTeXt_f%C3%BCr_Anf%C3%A4nger</link>
         </links>
       </event>
-      <event id="1002" guid="81cae958-d4b3-5d51-a291-885572aa177c">
+      <event id="1063" guid="29607a5e-7c42-4004-b238-31fa1fe9a3c3">
         <logo/>
         <date>2019-08-22T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>1:00</duration>
         <room>Village:LaTeX</room>
-        <slug>camp2019-1002-session_einfuehrung_in_latex</slug>
+        <slug>camp2019-1063-session_einfuehrung_in_latex</slug>
         <title>Einführung in LaTeX</title>
         <subtitle>(Individual 1h events, not a series - you can come to any of those)</subtitle>
         <track>self organized sessions</track>
@@ -2995,13 +2995,13 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
       </event>
     </room>
     <room name="Village:Free Software Foundation Europe">
-      <event id="1003" guid="f902ed08-e70f-5e38-a731-5aa463db16c0">
+      <event id="1073" guid="Ecfcf7e9-5341-4ca3-ab75-f18882f6cb36">
         <logo/>
         <date>2019-08-22T19:30:00+02:00</date>
         <start>19:30</start>
         <duration>0:10</duration>
         <room>Village:Free Software Foundation Europe</room>
-        <slug>camp2019-1003-session_free_software_song_sing_along</slug>
+        <slug>camp2019-1073-session_free_software_song_sing_along</slug>
         <title>Free Software Song sing-along</title>
         <subtitle>ad-hoc choir</subtitle>
         <track>self organized sessions</track>
@@ -3250,15 +3250,15 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
           <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming</link>
         </links>
       </event>
-      <event id="1021" guid="2fa70e75-0768-5308-b545-3d47f25e53d9">
+      <event id="1169" guid="4259313b-6e4c-47dd-9e7d-83798e30d421">
         <logo/>
-        <date>2019-08-22T10:00:00+02:00</date>
-        <start>10:00</start>
+        <date>2019-08-22T14:30:00+02:00</date>
+        <start>14:30</start>
         <duration>2:00</duration>
         <room>Village:RoboVillage</room>
-        <slug>camp2019-1021-session_sumorobot_soldering</slug>
+        <slug>camp2019-1169-session_sumorobot_soldering</slug>
         <title>SumoRobot soldering</title>
-        <subtitle>Day 2 morning</subtitle>
+        <subtitle>Day 2 afternoon</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
         <language>de</language>
@@ -3273,15 +3273,15 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
           <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering</link>
         </links>
       </event>
-      <event id="1025" guid="becfd141-5c7a-553f-b3ef-4c50179bdc85">
+      <event id="1174" guid="D1816030-bd5c-4674-ae2b-4c8b630aaa8c">
         <logo/>
-        <date>2019-08-22T14:30:00+02:00</date>
-        <start>14:30</start>
+        <date>2019-08-22T10:00:00+02:00</date>
+        <start>10:00</start>
         <duration>2:00</duration>
         <room>Village:RoboVillage</room>
-        <slug>camp2019-1025-session_sumorobot_soldering</slug>
+        <slug>camp2019-1174-session_sumorobot_soldering</slug>
         <title>SumoRobot soldering</title>
-        <subtitle>Day 2 afternoon</subtitle>
+        <subtitle>Day 2 morning</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
         <language>de</language>
@@ -4498,13 +4498,13 @@ i might be reachable on eventphone: -CY4N (-2946)</biography>
           <link>//events.ccc.de/camp/2019/wiki/Session:Geiger_Counter_Workshop</link>
         </links>
       </event>
-      <event id="1102" guid="069ad79f-dd7f-4e2b-92ae-b9eaf484e61f">
+      <event id="1165" guid="C760c989-48c2-4772-be52-25db39dea166">
         <logo/>
         <date>2019-08-23T11:00:00+02:00</date>
         <start>11:00</start>
         <duration>12:59</duration>
         <room>Village:HardwareHackingArea</room>
-        <slug>camp2019-1102-session_learn_to_solder</slug>
+        <slug>camp2019-1165-session_learn_to_solder</slug>
         <title>Learn To Solder</title>
         <subtitle>Day 3</subtitle>
         <track>self organized sessions</track>
@@ -4915,13 +4915,13 @@ i might be reachable on eventphone: -CY4N (-2946)</biography>
       </event>
     </room>
     <room name="Village:LaTeX">
-      <event id="1051" guid="12375d1f-b599-40a8-be72-7ca856048c10">
+      <event id="1157" guid="96a680ca-fbcc-4a6a-9de3-d7d908a7019e">
         <logo/>
         <date>2019-08-23T14:00:00+02:00</date>
         <start>14:00</start>
         <duration>1:00</duration>
         <room>Village:LaTeX</room>
-        <slug>camp2019-1051-session_context_fuer_anfaenger</slug>
+        <slug>camp2019-1157-session_context_fuer_anfaenger</slug>
         <title>ConTeXt für Anfänger</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -4937,13 +4937,13 @@ i might be reachable on eventphone: -CY4N (-2946)</biography>
           <link>//events.ccc.de/camp/2019/wiki/Session:ConTeXt_f%C3%BCr_Anf%C3%A4nger</link>
         </links>
       </event>
-      <event id="1063" guid="29607a5e-7c42-4004-b238-31fa1fe9a3c3">
+      <event id="1159" guid="3f3fecb7-2a68-4154-9800-223caa79ec4c">
         <logo/>
         <date>2019-08-23T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>1:00</duration>
         <room>Village:LaTeX</room>
-        <slug>camp2019-1063-session_einfuehrung_in_latex</slug>
+        <slug>camp2019-1159-session_einfuehrung_in_latex</slug>
         <title>Einführung in LaTeX</title>
         <subtitle>(Individual 1h events, not a series - you can come to any of those)</subtitle>
         <track>self organized sessions</track>
@@ -5066,13 +5066,13 @@ i might be reachable on eventphone: -CY4N (-2946)</biography>
       </event>
     </room>
     <room name="Village:Free Software Foundation Europe">
-      <event id="1073" guid="Ecfcf7e9-5341-4ca3-ab75-f18882f6cb36">
+      <event id="1161" guid="151e438c-6527-4f1c-aad5-359e5312110f">
         <logo/>
         <date>2019-08-23T19:30:00+02:00</date>
         <start>19:30</start>
         <duration>0:10</duration>
         <room>Village:Free Software Foundation Europe</room>
-        <slug>camp2019-1073-session_free_software_song_sing_along</slug>
+        <slug>camp2019-1161-session_free_software_song_sing_along</slug>
         <title>Free Software Song sing-along</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -5089,13 +5089,13 @@ i might be reachable on eventphone: -CY4N (-2946)</biography>
       </event>
     </room>
     <room name="Village:Harbor">
-      <event id="1005" guid="7b761f9f-8311-5cf9-8365-93518cf18bb8">
+      <event id="1085" guid="Dff93c19-0111-4418-855c-ca6dab6237a2">
         <logo/>
         <date>2019-08-23T17:30:00+02:00</date>
         <start>17:30</start>
         <duration>0:30</duration>
         <room>Village:Harbor</room>
-        <slug>camp2019-1005-session_hfos_the_hackerfleet_operating_system</slug>
+        <slug>camp2019-1085-session_hfos_the_hackerfleet_operating_system</slug>
         <title>HFOS - The Hackerfleet Operating System</title>
         <subtitle>A short repetition of the talk from day 1 before the maritime hackers meetup</subtitle>
         <track>self organized sessions</track>
@@ -5276,15 +5276,15 @@ i might be reachable on eventphone: -CY4N (-2946)</biography>
           <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming</link>
         </links>
       </event>
-      <event id="1023" guid="13c49c3a-e8ee-5636-b25a-de149b504b44">
+      <event id="1168" guid="083d8e09-756d-4565-a484-159cb37945f1">
         <logo/>
-        <date>2019-08-23T14:30:00+02:00</date>
-        <start>14:30</start>
+        <date>2019-08-23T10:00:00+02:00</date>
+        <start>10:00</start>
         <duration>2:00</duration>
         <room>Village:RoboVillage</room>
-        <slug>camp2019-1023-session_sumorobot_soldering</slug>
+        <slug>camp2019-1168-session_sumorobot_soldering</slug>
         <title>SumoRobot soldering</title>
-        <subtitle>Day 3 afternoon</subtitle>
+        <subtitle>Day 3 morning</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
         <language>de</language>
@@ -5299,15 +5299,15 @@ i might be reachable on eventphone: -CY4N (-2946)</biography>
           <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering</link>
         </links>
       </event>
-      <event id="1024" guid="c3fd69c3-9b8e-5d8e-b516-148af528fedd">
+      <event id="1171" guid="43d790cb-0328-410d-a781-94edc06f6030">
         <logo/>
-        <date>2019-08-23T10:00:00+02:00</date>
-        <start>10:00</start>
+        <date>2019-08-23T14:30:00+02:00</date>
+        <start>14:30</start>
         <duration>2:00</duration>
         <room>Village:RoboVillage</room>
-        <slug>camp2019-1024-session_sumorobot_soldering</slug>
+        <slug>camp2019-1171-session_sumorobot_soldering</slug>
         <title>SumoRobot soldering</title>
-        <subtitle>Day 3 morning</subtitle>
+        <subtitle>Day 3 afternoon</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
         <language>de</language>
@@ -6192,13 +6192,13 @@ Consultation hours are held in German or English, depending on the need. Oh, and
           <link>//events.ccc.de/camp/2019/wiki/Session:Freedom_Cruise,_about:PNR</link>
         </links>
       </event>
-      <event id="1006" guid="7535c749-8cb0-535e-b201-09a741aa5e63">
+      <event id="1163" guid="C59ab826-e9ec-40d9-b529-b48e9d0b87c6">
         <logo/>
         <date>2019-08-24T10:30:00+02:00</date>
         <start>10:30</start>
         <duration>2:30</duration>
         <room>Village:About:freedom</room>
-        <slug>camp2019-1006-session_how_to_shape_a_responsible_world_</slug>
+        <slug>camp2019-1163-session_how_to_shape_a_responsible_world_</slug>
         <title>How to shape a responsible world?</title>
         <subtitle>Follow up</subtitle>
         <track>self organized sessions</track>
@@ -6326,13 +6326,13 @@ Consultation hours are held in German or English, depending on the need. Oh, and
           <link>//events.ccc.de/camp/2019/wiki/Session:Flippie_-_Hacking_Flip-Dot_Displays</link>
         </links>
       </event>
-      <event id="1007" guid="ace5a157-768c-5a04-a6b7-67223d107586">
+      <event id="1164" guid="8968876e-7990-4b18-a1f9-ebf9050bd11f">
         <logo/>
         <date>2019-08-24T11:00:00+02:00</date>
         <start>11:00</start>
         <duration>12:59</duration>
         <room>Village:HardwareHackingArea</room>
-        <slug>camp2019-1007-session_learn_to_solder</slug>
+        <slug>camp2019-1164-session_learn_to_solder</slug>
         <title>Learn To Solder</title>
         <subtitle>Day 4</subtitle>
         <track>self organized sessions</track>
@@ -6392,13 +6392,13 @@ Consultation hours are held in German or English, depending on the need. Oh, and
       </event>
     </room>
     <room name="Village:Free Software Foundation Europe">
-      <event id="1004" guid="a9e68dfd-d816-5fd7-918a-8623704dd15b">
+      <event id="1160" guid="94927a6d-0607-40eb-9064-2563a6c333ca">
         <logo/>
         <date>2019-08-24T19:30:00+02:00</date>
         <start>19:30</start>
         <duration>0:10</duration>
         <room>Village:Free Software Foundation Europe</room>
-        <slug>camp2019-1004-session_free_software_song_sing_along</slug>
+        <slug>camp2019-1160-session_free_software_song_sing_along</slug>
         <title>Free Software Song sing-along</title>
         <subtitle>ad-hoc choir</subtitle>
         <track>self organized sessions</track>
@@ -6482,13 +6482,13 @@ Consultation hours are held in German or English, depending on the need. Oh, and
       </event>
     </room>
     <room name="Village:C-base">
-      <event id="1085" guid="Dff93c19-0111-4418-855c-ca6dab6237a2">
+      <event id="1162" guid="10b9322e-20b2-4ff3-bd8a-8c132aacc169">
         <logo/>
         <date>2019-08-24T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>0:30</duration>
         <room>Village:C-base</room>
-        <slug>camp2019-1085-session_hfos_the_hackerfleet_operating_system</slug>
+        <slug>camp2019-1162-session_hfos_the_hackerfleet_operating_system</slug>
         <title>HFOS - The Hackerfleet Operating System</title>
         <subtitle>HFOS@c-base</subtitle>
         <track>self organized sessions</track>
@@ -6504,13 +6504,13 @@ Consultation hours are held in German or English, depending on the need. Oh, and
           <link>//events.ccc.de/camp/2019/wiki/Session:HFOS_-_The_Hackerfleet_Operating_System</link>
         </links>
       </event>
-      <event id="1011" guid="03b08c8a-c471-5f1d-91f9-a643528708e0">
+      <event id="1167" guid="84c6fdd4-0f81-4635-bc62-4973d8e50b55">
         <logo/>
         <date>2019-08-24T17:05:00+02:00</date>
         <start>17:05</start>
         <duration>1:30</duration>
         <room>Village:C-base</room>
-        <slug>camp2019-1011-session_pentagame</slug>
+        <slug>camp2019-1167-session_pentagame</slug>
         <title>Pentagame</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -6687,15 +6687,15 @@ Consultation hours are held in German or English, depending on the need. Oh, and
           <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming</link>
         </links>
       </event>
-      <event id="1134" guid="D9d1bb33-18ab-4327-b399-d875d9be83ae">
+      <event id="1172" guid="2f9e5999-b655-4c1e-a1e3-79eb6e74ae7b">
         <logo/>
-        <date>2019-08-24T10:00:00+02:00</date>
-        <start>10:00</start>
+        <date>2019-08-24T14:30:00+02:00</date>
+        <start>14:30</start>
         <duration>2:00</duration>
         <room>Village:RoboVillage</room>
-        <slug>camp2019-1134-session_sumorobot_soldering</slug>
+        <slug>camp2019-1172-session_sumorobot_soldering</slug>
         <title>SumoRobot soldering</title>
-        <subtitle>Day 4 morning</subtitle>
+        <subtitle>Day 4 afternoon</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
         <language>de</language>
@@ -6710,15 +6710,15 @@ Consultation hours are held in German or English, depending on the need. Oh, and
           <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering</link>
         </links>
       </event>
-      <event id="1027" guid="6fe603c8-d7e5-51f9-bc7f-43b83013eb8a">
+      <event id="1175" guid="Ab31a912-85f6-4703-8aa2-de2c8906203f">
         <logo/>
-        <date>2019-08-24T14:30:00+02:00</date>
-        <start>14:30</start>
+        <date>2019-08-24T10:00:00+02:00</date>
+        <start>10:00</start>
         <duration>2:00</duration>
         <room>Village:RoboVillage</room>
-        <slug>camp2019-1027-session_sumorobot_soldering</slug>
+        <slug>camp2019-1175-session_sumorobot_soldering</slug>
         <title>SumoRobot soldering</title>
-        <subtitle>Day 4 afternoon</subtitle>
+        <subtitle>Day 4 morning</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
         <language>de</language>
@@ -7155,13 +7155,13 @@ you for many different reasons and would like to talk about that.</description>
       </event>
     </room>
     <room name="Village:About:freedom">
-      <event id="1001" guid="075f0c12-c595-5a0d-95ba-903364d5e443">
+      <event id="1158" guid="7ba573f9-56d0-4941-8381-522df2118498">
         <logo/>
         <date>2019-08-25T12:00:00+02:00</date>
         <start>12:00</start>
         <duration>2:00</duration>
         <room>Village:About:freedom</room>
-        <slug>camp2019-1001-session_decentrathon</slug>
+        <slug>camp2019-1158-session_decentrathon</slug>
         <title>Decentrathon</title>
         <subtitle>Final Presentations</subtitle>
         <track>self organized sessions</track>
@@ -7220,13 +7220,13 @@ you for many different reasons and would like to talk about that.</description>
       </event>
     </room>
     <room name="Village:HardwareHackingArea">
-      <event id="1008" guid="052d5d84-dd1f-5187-8ae1-754cc2b82da3">
+      <event id="1166" guid="9e621cac-08d6-4dd4-bdaf-20307f41fb38">
         <logo/>
         <date>2019-08-25T11:00:00+02:00</date>
         <start>11:00</start>
         <duration>5:59</duration>
         <room>Village:HardwareHackingArea</room>
-        <slug>camp2019-1008-session_learn_to_solder</slug>
+        <slug>camp2019-1166-session_learn_to_solder</slug>
         <title>Learn To Solder</title>
         <subtitle>Day 5</subtitle>
         <track>self organized sessions</track>
@@ -7291,15 +7291,15 @@ you for many different reasons and would like to talk about that.</description>
           <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming</link>
         </links>
       </event>
-      <event id="1022" guid="7d946137-3850-5e6b-9572-99226df4df49">
+      <event id="1170" guid="16adbe9f-1e08-452f-9337-bfdf205ea4bc">
         <logo/>
-        <date>2019-08-25T14:30:00+02:00</date>
-        <start>14:30</start>
+        <date>2019-08-25T10:00:00+02:00</date>
+        <start>10:00</start>
         <duration>2:00</duration>
         <room>Village:RoboVillage</room>
-        <slug>camp2019-1022-session_sumorobot_soldering</slug>
+        <slug>camp2019-1170-session_sumorobot_soldering</slug>
         <title>SumoRobot soldering</title>
-        <subtitle>Day 5 afternoon</subtitle>
+        <subtitle>Day 5 morning</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
         <language>de</language>
@@ -7314,15 +7314,15 @@ you for many different reasons and would like to talk about that.</description>
           <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering</link>
         </links>
       </event>
-      <event id="1026" guid="9b4461bd-f031-563e-a4a8-035eb3a21edc">
+      <event id="1173" guid="272b0087-bb81-4bf0-bb15-6c928912fcd2">
         <logo/>
-        <date>2019-08-25T10:00:00+02:00</date>
-        <start>10:00</start>
+        <date>2019-08-25T14:30:00+02:00</date>
+        <start>14:30</start>
         <duration>2:00</duration>
         <room>Village:RoboVillage</room>
-        <slug>camp2019-1026-session_sumorobot_soldering</slug>
+        <slug>camp2019-1173-session_sumorobot_soldering</slug>
         <title>SumoRobot soldering</title>
-        <subtitle>Day 5 morning</subtitle>
+        <subtitle>Day 5 afternoon</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
         <language>de</language>
