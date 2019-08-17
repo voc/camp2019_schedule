@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-17 15:41</version>
+  <version>2019-08-17 15:44</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -527,7 +527,7 @@ We will use software methods (rooting) and hardware methods (flash dumping). Usi
       </event>
     </room>
     <room name="Plank">
-      <event id="142" guid="ecc2fea1-4e7c-5dce-a88c-e808dd245271">
+      <event id="42" guid="ecc2fea1-4e7c-5dce-a88c-e808dd245271">
         <logo/>
         <date>2019-08-21T15:00:00+00:00</date>
         <start>15:00</start>
@@ -557,7 +557,7 @@ We will use software methods (rooting) and hardware methods (flash dumping). Usi
         <attachments/>
         <answers/>
       </event>
-      <event id="141" guid="74ebea5d-e24e-55a0-99a4-f13879394f48">
+      <event id="41" guid="74ebea5d-e24e-55a0-99a4-f13879394f48">
         <logo/>
         <date>2019-08-21T16:15:00+00:00</date>
         <start>16:15</start>
@@ -588,7 +588,7 @@ Anhand von Beispielen wird gezeigt, welche Rebound-Effekte in dem Zusammenhang b
         <attachments/>
         <answers/>
       </event>
-      <event id="114" guid="d1d313f5-926b-5357-b764-4c85cb9dddfc">
+      <event id="14" guid="d1d313f5-926b-5357-b764-4c85cb9dddfc">
         <logo/>
         <date>2019-08-21T18:30:00+00:00</date>
         <start>18:30</start>
@@ -624,7 +624,7 @@ Der Kurzvortrag gibt einen Einstieg ins Thema und erklärt, was ich vorhabe, wen
         <attachments/>
         <answers/>
       </event>
-      <event id="148" guid="b4902bdb-38ab-5abb-9884-5efdb4bca02f">
+      <event id="48" guid="b4902bdb-38ab-5abb-9884-5efdb4bca02f">
         <logo>/media/thms/images/KXW3SP/digital-vs.-printversion_print-version-for-banners-shirts-etc._1500x1500.png</logo>
         <date>2019-08-21T19:15:00+00:00</date>
         <start>19:15</start>
@@ -658,7 +658,7 @@ FridaysForFuture - die größte SchülerInnenbewegung aller Zeiten weltweit. Wie
         <attachments/>
         <answers/>
       </event>
-      <event id="133" guid="6d16f60d-11cd-53ca-88bb-ccd014b20a9e">
+      <event id="33" guid="6d16f60d-11cd-53ca-88bb-ccd014b20a9e">
         <logo>/media/thms/images/PEXUEM/nice-view-computerraum.jpg</logo>
         <date>2019-08-21T20:00:00+00:00</date>
         <start>20:00</start>
@@ -700,7 +700,7 @@ Seit 2003 Mitgründer und Heimleiter der &amp;bdquo;Restrealitaet&amp;ldquo;, ei
         <attachments/>
         <answers/>
       </event>
-      <event id="149" guid="eda75c8d-fe02-5986-a6c3-d0b699231b6a">
+      <event id="49" guid="eda75c8d-fe02-5986-a6c3-d0b699231b6a">
         <logo/>
         <date>2019-08-21T21:15:00+00:00</date>
         <start>21:15</start>
@@ -757,7 +757,7 @@ die Zukunft zu erhalten</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="144" guid="c1dbaff1-600d-5496-9de7-2ee0b55ee993">
+      <event id="44" guid="c1dbaff1-600d-5496-9de7-2ee0b55ee993">
         <logo/>
         <date>2019-08-21T22:30:00+00:00</date>
         <start>22:30</start>
@@ -789,7 +789,7 @@ DJ/Liveset - Soul, Jazz, Funk</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="105" guid="8b56bef8-edb3-519a-9a48-6a80f4bb9566">
+      <event id="5" guid="8b56bef8-edb3-519a-9a48-6a80f4bb9566">
         <logo>/media/thms/images/DLS83T/Dc8jzhwW0AA1KDn_1.jpg</logo>
         <date>2019-08-22T00:30:00+00:00</date>
         <start>00:30</start>
@@ -819,7 +819,7 @@ DJ/Liveset - Soul, Jazz, Funk</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="106" guid="bffe36f4-428d-57ba-bcab-01b681292b55">
+      <event id="6" guid="bffe36f4-428d-57ba-bcab-01b681292b55">
         <logo>/media/thms/images/FASSF7/Eat_The_Bass_2.jpg</logo>
         <date>2019-08-22T02:30:00+00:00</date>
         <start>02:30</start>
@@ -852,7 +852,7 @@ Check out my mixes on [Soundcloud] (https://soundcloud.com/barbnerdy)</descripti
       </event>
     </room>
     <room name="Workshop">
-      <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
+      <event id="40" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
         <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
         <date>2019-08-21T14:00:00+00:00</date>
         <start>14:00</start>
@@ -883,7 +883,7 @@ Consultation hours are held in German or English, depending on the need. Oh, and
         <attachments/>
         <answers/>
       </event>
-      <event id="116" guid="0d5c9c41-398c-5f2b-aeec-34f1ea5ac454">
+      <event id="16" guid="0d5c9c41-398c-5f2b-aeec-34f1ea5ac454">
         <logo/>
         <date>2019-08-21T15:15:00+00:00</date>
         <start>15:15</start>
@@ -1433,7 +1433,7 @@ Finally we will give some ideas on how to read between the lines in datasheets. 
       </event>
     </room>
     <room name="Plank">
-      <event id="117" guid="ea450a4c-8372-51f3-974d-879ce4083976">
+      <event id="17" guid="ea450a4c-8372-51f3-974d-879ce4083976">
         <logo/>
         <date>2019-08-22T04:30:00+00:00</date>
         <start>04:30</start>
@@ -1463,7 +1463,7 @@ Finally we will give some ideas on how to read between the lines in datasheets. 
         <attachments/>
         <answers/>
       </event>
-      <event id="139" guid="0ef9486d-7f7a-5298-9042-3e55c19768d2">
+      <event id="39" guid="0ef9486d-7f7a-5298-9042-3e55c19768d2">
         <logo/>
         <date>2019-08-22T15:00:00+00:00</date>
         <start>15:00</start>
@@ -1493,7 +1493,7 @@ Finally we will give some ideas on how to read between the lines in datasheets. 
         <attachments/>
         <answers/>
       </event>
-      <event id="150" guid="c26d6ec7-2701-56dc-8110-9896c6f6a659">
+      <event id="50" guid="c26d6ec7-2701-56dc-8110-9896c6f6a659">
         <logo/>
         <date>2019-08-22T18:15:00+00:00</date>
         <start>18:15</start>
@@ -1567,7 +1567,7 @@ wissen, was sie tun.</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="115" guid="ca81a392-cd83-55b0-abd5-1ed379611b37">
+      <event id="15" guid="ca81a392-cd83-55b0-abd5-1ed379611b37">
         <logo/>
         <date>2019-08-22T19:30:00+00:00</date>
         <start>19:30</start>
@@ -1597,7 +1597,7 @@ wissen, was sie tun.</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="107" guid="49498e74-3b88-599b-9fb5-f28663b3c8bc">
+      <event id="7" guid="49498e74-3b88-599b-9fb5-f28663b3c8bc">
         <logo/>
         <date>2019-08-22T20:10:00+00:00</date>
         <start>20:10</start>
@@ -1632,7 +1632,7 @@ wissen, was sie tun.</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="108" guid="da999f3a-edf0-590a-85f8-37cb00cf21d9">
+      <event id="8" guid="da999f3a-edf0-590a-85f8-37cb00cf21d9">
         <logo/>
         <date>2019-08-22T21:30:00+00:00</date>
         <start>21:30</start>
@@ -1664,7 +1664,7 @@ Mit Bildern, Screenshots und vielleicht auch dem einen oder anderen kurzen Video
         <attachments/>
         <answers/>
       </event>
-      <event id="157" guid="85928ccf-a5a7-56a0-8a65-a3e3c859a3b5">
+      <event id="57" guid="85928ccf-a5a7-56a0-8a65-a3e3c859a3b5">
         <logo/>
         <date>2019-08-22T23:00:00+00:00</date>
         <start>23:00</start>
@@ -1694,7 +1694,7 @@ Mit Bildern, Screenshots und vielleicht auch dem einen oder anderen kurzen Video
         <attachments/>
         <answers/>
       </event>
-      <event id="128" guid="0c7c6703-86ba-5059-897b-682e51056488">
+      <event id="28" guid="0c7c6703-86ba-5059-897b-682e51056488">
         <logo/>
         <date>2019-08-23T01:00:00+00:00</date>
         <start>01:00</start>
@@ -1726,7 +1726,7 @@ Mit Bildern, Screenshots und vielleicht auch dem einen oder anderen kurzen Video
       </event>
     </room>
     <room name="Workshop">
-      <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
+      <event id="40" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
         <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
         <date>2019-08-22T14:00:00+00:00</date>
         <start>14:00</start>
@@ -1757,7 +1757,7 @@ Consultation hours are held in German or English, depending on the need. Oh, and
         <attachments/>
         <answers/>
       </event>
-      <event id="120" guid="3690343b-b02c-57a6-8c37-d82113a0843b">
+      <event id="20" guid="3690343b-b02c-57a6-8c37-d82113a0843b">
         <logo>/media/thms/images/ZMERMD/photo_2019-07-18_18-58-45.jpg</logo>
         <date>2019-08-22T15:15:00+00:00</date>
         <start>15:15</start>
@@ -1790,7 +1790,7 @@ maximal 8 teilnehmer*innen, alter ab 8</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="123" guid="30f4400a-23d9-5b81-9beb-875217813515">
+      <event id="23" guid="30f4400a-23d9-5b81-9beb-875217813515">
         <logo/>
         <date>2019-08-22T18:30:00+00:00</date>
         <start>18:30</start>
@@ -2669,7 +2669,7 @@ These tools, called Dreams and Realities are run alongside a customized version 
       </event>
     </room>
     <room name="Plank">
-      <event id="152" guid="e960e678-a20b-53bf-8b93-11161b0248b6">
+      <event id="52" guid="e960e678-a20b-53bf-8b93-11161b0248b6">
         <logo/>
         <date>2019-08-23T03:00:00+00:00</date>
         <start>03:00</start>
@@ -2699,7 +2699,7 @@ These tools, called Dreams and Realities are run alongside a customized version 
         <attachments/>
         <answers/>
       </event>
-      <event id="138" guid="4ea406aa-1c4b-5694-b1aa-f86dd3057d8a">
+      <event id="38" guid="4ea406aa-1c4b-5694-b1aa-f86dd3057d8a">
         <logo/>
         <date>2019-08-23T15:00:00+00:00</date>
         <start>15:00</start>
@@ -2733,7 +2733,7 @@ AMD introduced the AMD Secure Processor to provide a trusted execution environme
         <attachments/>
         <answers/>
       </event>
-      <event id="132" guid="4f94b6e0-3e6c-5b5d-9d47-45c06304c063">
+      <event id="32" guid="4f94b6e0-3e6c-5b5d-9d47-45c06304c063">
         <logo/>
         <date>2019-08-23T16:15:00+00:00</date>
         <start>16:15</start>
@@ -2770,7 +2770,7 @@ To stay on the punny side of things, we shall call this method *unicorefuzz*.</d
         <attachments/>
         <answers/>
       </event>
-      <event id="126" guid="493770fd-2347-5707-98bc-22ee77cc9129">
+      <event id="26" guid="493770fd-2347-5707-98bc-22ee77cc9129">
         <logo/>
         <date>2019-08-23T17:00:00+00:00</date>
         <start>17:00</start>
@@ -2806,7 +2806,7 @@ I've worked with most, and carefully implemented several, of the primitives bein
         <attachments/>
         <answers/>
       </event>
-      <event id="134" guid="361c6e0f-a89b-50a7-acc8-66e3c975e6b4">
+      <event id="34" guid="361c6e0f-a89b-50a7-acc8-66e3c975e6b4">
         <logo/>
         <date>2019-08-23T18:30:00+00:00</date>
         <start>18:30</start>
@@ -2840,7 +2840,7 @@ Userli verwendet das Dovecot MailCrypt Plugin und libsodium um Postfächer zu ve
         <attachments/>
         <answers/>
       </event>
-      <event id="136" guid="879d54a4-a90e-5e0d-8c56-c189ba166c72">
+      <event id="36" guid="879d54a4-a90e-5e0d-8c56-c189ba166c72">
         <logo>/media/thms/images/GYWNQP/IMG_9214_ej6Xqgg.JPG</logo>
         <date>2019-08-23T19:45:00+00:00</date>
         <start>19:45</start>
@@ -2870,7 +2870,7 @@ Userli verwendet das Dovecot MailCrypt Plugin und libsodium um Postfächer zu ve
         <attachments/>
         <answers/>
       </event>
-      <event id="113" guid="8c42e64a-160b-53c1-a0a4-c6ef4f93208b">
+      <event id="13" guid="8c42e64a-160b-53c1-a0a4-c6ef4f93208b">
         <logo>/media/thms/images/3UBEUB/6B5CDF68-12FE-416E-9490-3B4DFD62F867.jpeg</logo>
         <date>2019-08-23T21:30:00+00:00</date>
         <start>21:30</start>
@@ -2904,7 +2904,7 @@ einen weiteren Abbau der Freiheitsrechte und noch mehr Überwachung.</abstract>
         <attachments/>
         <answers/>
       </event>
-      <event id="158" guid="6d833231-3c1c-506f-b3fe-dbb08c8bffbc">
+      <event id="58" guid="6d833231-3c1c-506f-b3fe-dbb08c8bffbc">
         <logo/>
         <date>2019-08-23T23:00:00+00:00</date>
         <start>23:00</start>
@@ -2934,7 +2934,7 @@ einen weiteren Abbau der Freiheitsrechte und noch mehr Überwachung.</abstract>
         <attachments/>
         <answers/>
       </event>
-      <event id="109" guid="c59b2363-a6cb-561a-84e5-2e55a759ef97">
+      <event id="9" guid="c59b2363-a6cb-561a-84e5-2e55a759ef97">
         <logo/>
         <date>2019-08-24T00:00:00+00:00</date>
         <start>00:00</start>
@@ -2970,7 +2970,7 @@ Her favorite producers are Calyx, Matrix, Ed Rush &amp; Optical, Teebee, Break, 
         <attachments/>
         <answers/>
       </event>
-      <event id="112" guid="9cf58a9c-11e5-519f-97f9-e66fc443faff">
+      <event id="12" guid="9cf58a9c-11e5-519f-97f9-e66fc443faff">
         <logo>/media/thms/images/8GEREV/15241904_1804354359578279_5081898806412035648_n.jpg</logo>
         <date>2019-08-24T02:00:00+00:00</date>
         <start>02:00</start>
@@ -3004,7 +3004,7 @@ Bass ahoi</description>
       </event>
     </room>
     <room name="Workshop">
-      <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
+      <event id="40" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
         <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
         <date>2019-08-23T14:00:00+00:00</date>
         <start>14:00</start>
@@ -3035,7 +3035,7 @@ Consultation hours are held in German or English, depending on the need. Oh, and
         <attachments/>
         <answers/>
       </event>
-      <event id="125" guid="730b9a78-233a-5fc2-bd47-a64a582e8466">
+      <event id="25" guid="730b9a78-233a-5fc2-bd47-a64a582e8466">
         <logo>/media/thms/images/8NG8AA/Gameboy_Music_Workshop_2011_a.JPG</logo>
         <date>2019-08-23T15:30:00+00:00</date>
         <start>15:30</start>
@@ -3066,7 +3066,7 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <attachments/>
         <answers/>
       </event>
-      <event id="131" guid="8437e8a0-e99a-5e16-81d6-81a1cab2fc59">
+      <event id="31" guid="8437e8a0-e99a-5e16-81d6-81a1cab2fc59">
         <logo>/media/thms/images/QX7DQP/cy_klein.png</logo>
         <date>2019-08-23T18:45:00+00:00</date>
         <start>18:45</start>
@@ -3779,7 +3779,7 @@ I am currently doing my PhD at a research institute that focuses on embedded sec
       </event>
     </room>
     <room name="Plank">
-      <event id="111" guid="93312758-6925-5e84-85b5-3b80f92a0faa">
+      <event id="11" guid="93312758-6925-5e84-85b5-3b80f92a0faa">
         <logo>/media/thms/images/P9JCSV/Im_Eis_Ronja_Reese.png</logo>
         <date>2019-08-24T15:00:00+00:00</date>
         <start>15:00</start>
@@ -3809,7 +3809,7 @@ I am currently doing my PhD at a research institute that focuses on embedded sec
         <attachments/>
         <answers/>
       </event>
-      <event id="124" guid="54aa059d-1205-5afb-8a11-68ef351b0ab9">
+      <event id="24" guid="54aa059d-1205-5afb-8a11-68ef351b0ab9">
         <logo/>
         <date>2019-08-24T16:15:00+00:00</date>
         <start>16:15</start>
@@ -3848,7 +3848,7 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <attachments/>
         <answers/>
       </event>
-      <event id="137" guid="2e215ec0-4745-581d-bc12-b5ce7a4b3ff2">
+      <event id="37" guid="2e215ec0-4745-581d-bc12-b5ce7a4b3ff2">
         <logo>/media/thms/images/FMQ3UN/SUBSCRIBE10-cart-chaosradio_400x400.54d3adaf44f9d8.png</logo>
         <date>2019-08-24T18:30:00+00:00</date>
         <start>18:30</start>
@@ -3878,7 +3878,7 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <attachments/>
         <answers/>
       </event>
-      <event id="153" guid="85ae064f-2bbe-54d2-a26c-c79ce8457076">
+      <event id="53" guid="85ae064f-2bbe-54d2-a26c-c79ce8457076">
         <logo/>
         <date>2019-08-24T23:00:00+00:00</date>
         <start>23:00</start>
@@ -3910,7 +3910,7 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
       </event>
     </room>
     <room name="Workshop">
-      <event id="155" guid="0be7b345-e2aa-5d94-ba3e-674f3b9b0aea">
+      <event id="55" guid="0be7b345-e2aa-5d94-ba3e-674f3b9b0aea">
         <logo/>
         <date>2019-08-24T11:00:00+00:00</date>
         <start>11:00</start>
@@ -3944,7 +3944,7 @@ Bei gutem Wetter im Freien; bei schlechtem im Zelt.</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
+      <event id="40" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
         <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
         <date>2019-08-24T14:00:00+00:00</date>
         <start>14:00</start>
@@ -4416,7 +4416,7 @@ The laws of physics inherently contain dynamics capable of creating aestheticall
       </event>
     </room>
     <room name="Plank">
-      <event id="154" guid="58d3f54b-e447-5a2d-a466-60ae6e892016">
+      <event id="54" guid="58d3f54b-e447-5a2d-a466-60ae6e892016">
         <logo/>
         <date>2019-08-25T03:00:00+00:00</date>
         <start>03:00</start>
@@ -4446,7 +4446,7 @@ The laws of physics inherently contain dynamics capable of creating aestheticall
         <attachments/>
         <answers/>
       </event>
-      <event id="159" guid="e9cc930e-e589-55b4-a861-44a4fd189512">
+      <event id="59" guid="e9cc930e-e589-55b4-a861-44a4fd189512">
         <logo/>
         <date>2019-08-25T05:00:00+00:00</date>
         <start>05:00</start>
@@ -4476,7 +4476,7 @@ The laws of physics inherently contain dynamics capable of creating aestheticall
         <attachments/>
         <answers/>
       </event>
-      <event id="119" guid="cf5d0389-ea8b-55d9-966c-2669e88de93a">
+      <event id="19" guid="cf5d0389-ea8b-55d9-966c-2669e88de93a">
         <logo/>
         <date>2019-08-25T15:00:00+00:00</date>
         <start>15:00</start>
@@ -4506,7 +4506,7 @@ The laws of physics inherently contain dynamics capable of creating aestheticall
         <attachments/>
         <answers/>
       </event>
-      <event id="151" guid="4b53e5aa-54dc-5b1c-8720-6dbea3e85070">
+      <event id="51" guid="4b53e5aa-54dc-5b1c-8720-6dbea3e85070">
         <logo/>
         <date>2019-08-25T16:30:00+00:00</date>
         <start>16:30</start>
