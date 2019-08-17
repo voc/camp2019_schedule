@@ -1,13 +1,12 @@
 <schedule>
-  <version>Capella The Secret of Monkey Island</version>
+  <version>2019-08-17 15:41</version>
   <conference>
     <acronym>Camp2019</acronym>
-    <title>Chaos Communication Camp 2019</title>
+    <title>Chaos Communication Camp 2019 - Wiki</title>
     <start>2019-08-21</start>
     <end>2019-08-26</end>
     <days>5</days>
     <timeslot_duration>00:15</timeslot_duration>
-    <base_url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/</base_url>
   </conference>
   <day index="1" date="2019-08-21" start="2019-08-21T09:00:00+02:00" end="2019-08-22T04:00:00+02:00">
     <room name="Curie">

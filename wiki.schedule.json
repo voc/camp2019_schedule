@@ -1,10 +1,9 @@
 {
   "schedule": {
-    "version": "Capella The Secret of Monkey Island",
-    "base_url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/",
+    "version": "2019-08-17 15:41",
     "conference": {
       "acronym": "Camp2019",
-      "title": "Chaos Communication Camp 2019",
+      "title": "Chaos Communication Camp 2019 - Wiki",
       "start": "2019-08-21",
       "end": "2019-08-26",
       "daysCount": 5,
