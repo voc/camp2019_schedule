@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-18 23:10</version>
+  <version>2019-08-18 23:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -10,6 +10,105 @@
     <base_url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/</base_url>
   </conference>
   <day index="1" date="2019-08-21" start="2019-08-21T09:00:00+02:00" end="2019-08-22T04:00:00+02:00">
+    <room name="Village:Haecksen">
+      <event id="1274" guid="cc994b81-832a-4206-aa6b-64d587849cd1">
+        <logo/>
+        <date>2019-08-21T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>1:00</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1274-session_a_capella</slug>
+        <title>A capella</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Einsingen, Zusammen singen</description>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:A_capella</link>
+        </links>
+      </event>
+      <event id="1275" guid="98f74b6e-66ab-4a99-9310-b9297555ac5d">
+        <logo/>
+        <date>2019-08-21T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1275-session_buchclub_texte_im_feminismus</slug>
+        <title>Buchclub: Texte im Feminismus</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>was haben wir, ihr gelesen, was lohnt sich zu lesen?</description>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Buchclub:_Texte_im_Feminismus</link>
+        </links>
+      </event>
+      <event id="1276" guid="5b8af331-9b0d-44be-80a3-040be6bc21db">
+        <logo/>
+        <date>2019-08-21T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>0:45</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1276-session_surviving_calc_excel</slug>
+        <title>Surviving Calc/Excel</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>basic formulas for sorting data without as much pain as usual</description>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Surviving_Calc/Excel</link>
+        </links>
+      </event>
+      <event id="1273" guid="a0eaf4f8-d2d9-4f6e-b8c4-b0b31f8824ec">
+        <logo/>
+        <date>2019-08-21T13:30:00+02:00</date>
+        <start>13:30</start>
+        <duration>0:30</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1273-session_toki_pona</slug>
+        <title>Toki Pona</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>an introduction to the language of good</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Toki_Pona</link>
+        </links>
+      </event>
+      <event id="1277" guid="fc8fb444-0f23-4b1c-84fa-d36ddf78c50c">
+        <logo/>
+        <date>2019-08-21T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>0:45</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1277-session_wie_funktioniert_ein_sicherheitsgurt</slug>
+        <title>Wie funktioniert ein Sicherheitsgurt</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>How seatbelt retractors work</description>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Wie_funktioniert_ein_Sicherheitsgurt</link>
+        </links>
+      </event>
+    </room>
     <room name="">
       <event id="1180" guid="f3ab2794-e73a-4b02-9fc7-07fbf1dbe66c">
         <logo/>
@@ -659,29 +758,6 @@
         <links>
           <link>https://www.robokoding.com/kits/sumorobot</link>
           <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering</link>
-        </links>
-      </event>
-    </room>
-    <room name="Village:Haecksen">
-      <event id="1273" guid="a0eaf4f8-d2d9-4f6e-b8c4-b0b31f8824ec">
-        <logo/>
-        <date>2019-08-21T13:30:00+02:00</date>
-        <start>13:30</start>
-        <duration>0:30</duration>
-        <room>Village:Haecksen</room>
-        <slug>camp2019-1273-session_toki_pona</slug>
-        <title>Toki Pona</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>an introduction to the language of good</description>
-        <persons>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
-        </persons>
-        <links>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Toki_Pona</link>
         </links>
       </event>
     </room>
