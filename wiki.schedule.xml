@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-18 18:50</version>
+  <version>2019-08-18 19:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -227,13 +227,13 @@
           <link>//events.ccc.de/camp/2019/wiki/Session:Estimate_and_calculate_carbon_footprints</link>
         </links>
       </event>
-      <event id="1199" guid="0d49e9ac-4aeb-5b66-bfa4-8fb5651462cf">
+      <event id="1264" guid="fb15c229-c580-4974-bd7c-affaa7002089">
         <logo/>
         <date>2019-08-21T15:30:00+02:00</date>
         <start>15:30</start>
         <duration>0:45</duration>
         <room>Village:About:freedom</room>
-        <slug>camp2019-1199-session_forderungen_des_b_b</slug>
+        <slug>camp2019-1264-session_forderungen_des_b_b</slug>
         <title>Forderungen des B &amp; B</title>
         <subtitle>about:stage</subtitle>
         <track>self organized sessions</track>
@@ -248,13 +248,13 @@
           <link>//events.ccc.de/camp/2019/wiki/Session:Forderungen_des_B_%26_B</link>
         </links>
       </event>
-      <event id="1221" guid="a20171d0-970f-5c56-8d54-faee10e82443">
+      <event id="1104" guid="27e94e6e-74b0-4c58-a221-6c688b72caf6">
         <logo/>
         <date>2019-08-21T17:00:00+02:00</date>
         <start>17:00</start>
         <duration>1:00</duration>
         <room>Village:About:freedom</room>
-        <slug>camp2019-1221-session_let_s_go_there_by_land_not_by_air</slug>
+        <slug>camp2019-1104-session_let_s_go_there_by_land_not_by_air</slug>
         <title>Let's go there by land not by air</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1186,13 +1186,13 @@
       </event>
     </room>
     <room name="Hackcenter 1">
-      <event id="1194" guid="3df9cd1a-a7c3-5400-a61d-8480ecde369b">
+      <event id="1062" guid="56989b98-d3d7-44db-a9c5-db4553adeed2">
         <logo/>
         <date>2019-08-22T14:30:00+02:00</date>
         <start>14:30</start>
         <duration>2:30</duration>
         <room>Hackcenter 1</room>
-        <slug>camp2019-1194-session_eightos</slug>
+        <slug>camp2019-1062-session_eightos</slug>
         <title>EightOS</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1208,13 +1208,13 @@
       </event>
     </room>
     <room name="Village:Backspace">
-      <event id="1195" guid="9fd00acb-51f8-5a2a-b501-6bc2d567e866">
+      <event id="1065" guid="86521597-ff5f-4fe2-b0ec-6b4f05439dad">
         <logo/>
         <date>2019-08-22T13:00:00+02:00</date>
         <start>13:00</start>
         <duration>1:00</duration>
         <room>Village:Backspace</room>
-        <slug>camp2019-1195-session_einfuehrung_ins_podcasting_mit_reaper_ultraschall</slug>
+        <slug>camp2019-1065-session_einfuehrung_ins_podcasting_mit_reaper_ultraschall</slug>
         <title>Einführung ins Podcasting mit Reaper/Ultraschall</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2716,13 +2716,13 @@
           <link>//events.ccc.de/camp/2019/wiki/Session:ArduTouch_music_synthesizer</link>
         </links>
       </event>
-      <event id="1198" guid="27b70bc4-cdd6-573a-aa4d-f83f3cfd8855">
+      <event id="1263" guid="fc555301-996c-470a-a095-5d03182c3f27">
         <logo/>
         <date>2019-08-24T14:00:00+02:00</date>
         <start>14:00</start>
         <duration>1:00</duration>
         <room>Village:HardwareHackingArea</room>
-        <slug>camp2019-1198-session_flippie_hacking_flip_dot_displays</slug>
+        <slug>camp2019-1263-session_flippie_hacking_flip_dot_displays</slug>
         <title>Flippie - Hacking Flip-Dot Displays</title>
         <subtitle/>
         <track>self organized sessions</track>

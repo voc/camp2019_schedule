@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-18 18:50",
+    "version": "2019-08-18 19:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -285,14 +285,14 @@
                 ]
               },
               {
-                "id": 1199,
-                "guid": "0d49e9ac-4aeb-5b66-bfa4-8fb5651462cf",
+                "id": 1264,
+                "guid": "fb15c229-c580-4974-bd7c-affaa7002089",
                 "logo": null,
                 "date": "2019-08-21T15:30:00+02:00",
                 "start": "15:30",
                 "duration": "0:45",
                 "room": "Village:About:freedom",
-                "slug": "camp2019-1199-session_forderungen_des_b_b",
+                "slug": "camp2019-1264-session_forderungen_des_b_b",
                 "title": "Forderungen des B & B",
                 "subtitle": "about:stage",
                 "track": "self organized sessions",
@@ -312,14 +312,14 @@
                 ]
               },
               {
-                "id": 1221,
-                "guid": "a20171d0-970f-5c56-8d54-faee10e82443",
+                "id": 1104,
+                "guid": "27e94e6e-74b0-4c58-a221-6c688b72caf6",
                 "logo": null,
                 "date": "2019-08-21T17:00:00+02:00",
                 "start": "17:00",
                 "duration": "1:00",
                 "room": "Village:About:freedom",
-                "slug": "camp2019-1221-session_let_s_go_there_by_land_not_by_air",
+                "slug": "camp2019-1104-session_let_s_go_there_by_land_not_by_air",
                 "title": "Let's go there by land not by air",
                 "subtitle": "",
                 "track": "self organized sessions",
@@ -1520,14 +1520,14 @@
             ],
             "Hackcenter 1": [
               {
-                "id": 1194,
-                "guid": "3df9cd1a-a7c3-5400-a61d-8480ecde369b",
+                "id": 1062,
+                "guid": "56989b98-d3d7-44db-a9c5-db4553adeed2",
                 "logo": null,
                 "date": "2019-08-22T14:30:00+02:00",
                 "start": "14:30",
                 "duration": "2:30",
                 "room": "Hackcenter 1",
-                "slug": "camp2019-1194-session_eightos",
+                "slug": "camp2019-1062-session_eightos",
                 "title": "EightOS",
                 "subtitle": "",
                 "track": "self organized sessions",
@@ -1544,14 +1544,14 @@
             ],
             "Village:Backspace": [
               {
-                "id": 1195,
-                "guid": "9fd00acb-51f8-5a2a-b501-6bc2d567e866",
+                "id": 1065,
+                "guid": "86521597-ff5f-4fe2-b0ec-6b4f05439dad",
                 "logo": null,
                 "date": "2019-08-22T13:00:00+02:00",
                 "start": "13:00",
                 "duration": "1:00",
                 "room": "Village:Backspace",
-                "slug": "camp2019-1195-session_einfuehrung_ins_podcasting_mit_reaper_ultraschall",
+                "slug": "camp2019-1065-session_einfuehrung_ins_podcasting_mit_reaper_ultraschall",
                 "title": "Einf\u00fchrung ins Podcasting mit Reaper/Ultraschall",
                 "subtitle": "",
                 "track": "self organized sessions",
@@ -3502,14 +3502,14 @@
                 ]
               },
               {
-                "id": 1198,
-                "guid": "27b70bc4-cdd6-573a-aa4d-f83f3cfd8855",
+                "id": 1263,
+                "guid": "fc555301-996c-470a-a095-5d03182c3f27",
                 "logo": null,
                 "date": "2019-08-24T14:00:00+02:00",
                 "start": "14:00",
                 "duration": "1:00",
                 "room": "Village:HardwareHackingArea",
-                "slug": "camp2019-1198-session_flippie_hacking_flip_dot_displays",
+                "slug": "camp2019-1263-session_flippie_hacking_flip_dot_displays",
                 "title": "Flippie - Hacking Flip-Dot Displays",
                 "subtitle": "",
                 "track": "self organized sessions",
