@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-18 23:00</version>
+  <version>2019-08-18 23:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -359,6 +359,29 @@
         </links>
       </event>
     </room>
+    <room name="Village:Kidspace">
+      <event id="1272" guid="8fc910cd-6336-4b64-ac07-ac56c61cbeda">
+        <logo/>
+        <date>2019-08-21T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>0:30</duration>
+        <room>Village:Kidspace</room>
+        <slug>camp2019-1272-session_explore_the_botany_of_the_camp_with_plant_identification_apps</slug>
+        <title>Explore the botany of the camp with plant identification apps</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>outside</type>
+        <language>de</language>
+        <abstract/>
+        <description>lets go plant hunting at the lake and test some plant identification apps</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Minoi">Minoi</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Explore_the_botany_of_the_camp_with_plant_identification_apps</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:Free Software Foundation Europe">
       <event id="1255" guid="e10a5b76-2ca9-4a0d-a1c6-0b3ce24748a8">
         <logo/>
@@ -636,6 +659,29 @@
         <links>
           <link>https://www.robokoding.com/kits/sumorobot</link>
           <link>//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Haecksen">
+      <event id="1273" guid="a0eaf4f8-d2d9-4f6e-b8c4-b0b31f8824ec">
+        <logo/>
+        <date>2019-08-21T13:30:00+02:00</date>
+        <start>13:30</start>
+        <duration>0:30</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1273-session_toki_pona</slug>
+        <title>Toki Pona</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>an introduction to the language of good</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Toki_Pona</link>
         </links>
       </event>
     </room>
