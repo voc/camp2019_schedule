@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-18 21:00",
+    "version": "2019-08-18 22:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -4143,6 +4143,35 @@
           "day_start": "2019-08-25T09:00:00+02:00",
           "day_end": "2019-08-26T04:00:00+02:00",
           "rooms": {
+            "Village:Haecksen": [
+              {
+                "id": 1270,
+                "guid": "70d9eabd-198b-4bbb-98bd-1d60a7587bc8",
+                "logo": null,
+                "date": "2019-08-25T13:00:00+02:00",
+                "start": "13:00",
+                "duration": "1:30",
+                "room": "Village:Haecksen",
+                "slug": "camp2019-1270-session_boeser_sprechworkshop",
+                "title": "B\u00f6ser Sprechworkshop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Sprechworkshop, um beim Reden ernstgenommen zu werden",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Piko",
+                    "public_name": "Piko"
+                  }
+                ],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:B%C3%B6ser_Sprechworkshop"
+                ]
+              }
+            ],
             "Village:About:freedom": [
               {
                 "id": 1158,
