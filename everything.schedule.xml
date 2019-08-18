@@ -2794,13 +2794,13 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
         </links>
       </event>
     </room>
-    <room name="Hackcenter 2">
+    <room name="Johnson (Workshop 1)">
       <event id="1045" guid="886dfb0c-900f-47e1-bcb2-a5dc14c09a10">
         <logo/>
         <date>2019-08-22T17:00:00+02:00</date>
         <start>17:00</start>
         <duration>1:30</duration>
-        <room>Hackcenter 2</room>
+        <room>Johnson (Workshop 1)</room>
         <slug>camp2019-1045-session_ccchoir</slug>
         <title>CCChoir</title>
         <subtitle>Bach vs Pythagoras, Runde 1</subtitle>
@@ -2812,6 +2812,27 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
         <persons/>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:CCChoir</link>
+        </links>
+      </event>
+      <event id="1066" guid="8563f582-f24e-4027-9a26-1725098b2b53">
+        <logo/>
+        <date>2019-08-22T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1066-session_esperanto_a_planned_nerd_language_actually_spoken</slug>
+        <title>Esperanto – a planned nerd language actually spoken</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>A short introduction into the international language Esperanto. A planned language actually spoken by nerds all over the world</description>
+        <persons/>
+        <links>
+          <link>https://github.com/johannes-mueller/esperanto-35c3</link>
+          <link>https://c3eo.chaotik.de</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken</link>
         </links>
       </event>
     </room>
@@ -2968,29 +2989,6 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
         </persons>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_ins_Podcasting_mit_Reaper/Ultraschall</link>
-        </links>
-      </event>
-    </room>
-    <room name="Johnson (Workshop 1)">
-      <event id="1066" guid="8563f582-f24e-4027-9a26-1725098b2b53">
-        <logo/>
-        <date>2019-08-22T20:00:00+02:00</date>
-        <start>20:00</start>
-        <duration>2:00</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1066-session_esperanto_a_planned_nerd_language_actually_spoken</slug>
-        <title>Esperanto – a planned nerd language actually spoken</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>A short introduction into the international language Esperanto. A planned language actually spoken by nerds all over the world</description>
-        <persons/>
-        <links>
-          <link>https://github.com/johannes-mueller/esperanto-35c3</link>
-          <link>https://c3eo.chaotik.de</link>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken</link>
         </links>
       </event>
     </room>
