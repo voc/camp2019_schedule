@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-18 22:30</version>
+  <version>2019-08-18 23:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -1456,6 +1456,29 @@
         <links>
           <link>https://wiki.ecohackerfarm.org/powerplant:start</link>
           <link>//events.ccc.de/camp/2019/wiki/Session:Powerplant_team_meeting</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Haecksen">
+      <event id="1271" guid="e954fe1b-25f0-4b97-9ec9-d89ef4b1e291">
+        <logo/>
+        <date>2019-08-22T10:00:00+02:00</date>
+        <start>10:00</start>
+        <duration>1:00</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1271-session_pseudo_yoga</slug>
+        <title>Pseudo-Yoga</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>outside</type>
+        <language>de</language>
+        <abstract/>
+        <description>Kleine Trainingssession für den Rücken</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Pseudo-Yoga</link>
         </links>
       </event>
     </room>
