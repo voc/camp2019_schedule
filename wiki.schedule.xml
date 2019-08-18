@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-18 17:20</version>
+  <version>2019-08-18 17:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -1047,13 +1047,13 @@ Consultation hours are held in German or English, depending on the need. Oh, and
       </event>
     </room>
     <room name="Village:About:freedom">
-      <event id="1188" guid="13a1a749-4635-5aa8-a150-a90c853c8b14">
+      <event id="1053" guid="5c1066ad-c624-437b-b1aa-cd94855def55">
         <logo/>
         <date>2019-08-21T14:30:00+02:00</date>
         <start>14:30</start>
         <duration>0:55</duration>
         <room>Village:About:freedom</room>
-        <slug>camp2019-1188-session_creative_commons</slug>
+        <slug>camp2019-1053-session_creative_commons</slug>
         <title>Creative commons</title>
         <subtitle>verstehen, anwenden, weiterdenken</subtitle>
         <track>self organized sessions</track>
@@ -2470,13 +2470,13 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
       </event>
     </room>
     <room name="Village:About:freedom">
-      <event id="1179" guid="3220223e-79fc-574b-b5ef-3ab681704ebd">
+      <event id="1252" guid="b2ad3535-afd1-4e0c-a298-6aceef686375">
         <logo/>
         <date>2019-08-22T12:30:00+02:00</date>
         <start>12:30</start>
         <duration>1:25</duration>
         <room>Village:About:freedom</room>
-        <slug>camp2019-1179-session_argumentationstraining_datenschutz</slug>
+        <slug>camp2019-1252-session_argumentationstraining_datenschutz</slug>
         <title>Argumentationstraining Datenschutz</title>
         <subtitle>about:stage</subtitle>
         <track>self organized sessions</track>
@@ -6281,13 +6281,13 @@ Consultation hours are held in German or English, depending on the need. Oh, and
       </event>
     </room>
     <room name="Village:HardwareHackingArea">
-      <event id="1178" guid="1a2ff0eb-2f63-5545-8773-4c8d41171d49">
+      <event id="1031" guid="2a436543-55ef-4f8d-a8c6-955ce870a700">
         <logo/>
         <date>2019-08-24T13:00:00+02:00</date>
         <start>13:00</start>
         <duration>3:00</duration>
         <room>Village:HardwareHackingArea</room>
-        <slug>camp2019-1178-session_ardutouch_music_synthesizer</slug>
+        <slug>camp2019-1031-session_ardutouch_music_synthesizer</slug>
         <title>ArduTouch music synthesizer</title>
         <subtitle/>
         <track>self organized sessions</track>
