@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-18 19:00</version>
+  <version>2019-08-18 19:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -1320,13 +1320,13 @@
       </event>
     </room>
     <room name="Village:Kidspace">
-      <event id="1010" guid="d4009170-8c36-5144-b9dc-c639425e0eca">
+      <event id="1265" guid="b2e9d704-4531-47b2-80bf-def24c1087fb">
         <logo/>
         <date>2019-08-22T10:00:00+02:00</date>
         <start>10:00</start>
         <duration>3:00</duration>
         <room>Village:Kidspace</room>
-        <slug>camp2019-1010-session_ottobot_workshop</slug>
+        <slug>camp2019-1265-session_ottobot_workshop</slug>
         <title>Ottobot Workshop</title>
         <subtitle/>
         <track>self organized sessions</track>
