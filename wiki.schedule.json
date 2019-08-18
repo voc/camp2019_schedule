@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-18 17:00",
+    "version": "2019-08-18 17:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -5208,14 +5208,14 @@
             ],
             "Village:About:freedom": [
               {
-                "id": 1184,
-                "guid": "503d5a7d-c091-5940-bc77-96218252c613",
+                "id": 1251,
+                "guid": "c806c61c-521f-4f89-a836-064f5575b3a3",
                 "logo": null,
                 "date": "2019-08-23T13:30:00+02:00",
                 "start": "13:30",
                 "duration": "1:25",
                 "room": "Village:About:freedom",
-                "slug": "camp2019-1184-session_c3sus_ride_excellent_with_each_other",
+                "slug": "camp2019-1251-session_c3sus_ride_excellent_with_each_other",
                 "title": "C3Sus Ride excellent with each other",
                 "subtitle": "about:sessions",
                 "track": "self organized sessions",

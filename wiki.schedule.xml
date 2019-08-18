@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-18 17:00</version>
+  <version>2019-08-18 17:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -4697,13 +4697,13 @@ i might be reachable on eventphone: -CY4N (-2946)</biography>
       </event>
     </room>
     <room name="Village:About:freedom">
-      <event id="1184" guid="503d5a7d-c091-5940-bc77-96218252c613">
+      <event id="1251" guid="c806c61c-521f-4f89-a836-064f5575b3a3">
         <logo/>
         <date>2019-08-23T13:30:00+02:00</date>
         <start>13:30</start>
         <duration>1:25</duration>
         <room>Village:About:freedom</room>
-        <slug>camp2019-1184-session_c3sus_ride_excellent_with_each_other</slug>
+        <slug>camp2019-1251-session_c3sus_ride_excellent_with_each_other</slug>
         <title>C3Sus Ride excellent with each other</title>
         <subtitle>about:sessions</subtitle>
         <track>self organized sessions</track>
