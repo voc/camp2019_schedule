@@ -2592,7 +2592,7 @@
                 "answers": []
               }
             ],
-            "": [
+            "Goldberg (Workshop 2)": [
               {
                 "id": 1030,
                 "guid": "F827e2f7-55c1-4f65-b2a4-aa77da48549b",
@@ -2600,7 +2600,7 @@
                 "date": "2019-08-22T19:00:00+02:00",
                 "start": "19:00",
                 "duration": "2:00",
-                "room": "",
+                "room": "Goldberg (Workshop 2)",
                 "slug": "camp2019-1030-session_arch_linux_meetup",
                 "title": "Arch Linux Meetup",
                 "subtitle": "",
@@ -2619,148 +2619,6 @@
                 "links": [
                   "https://archlinux.org",
                   "//events.ccc.de/camp/2019/wiki/Session:Arch_Linux_Meetup"
-                ]
-              },
-              {
-                "id": 1039,
-                "guid": "71d26132-13a9-41bf-aaa7-6792b363c95e",
-                "logo": null,
-                "date": "2019-08-22T11:00:00+02:00",
-                "start": "11:00",
-                "duration": "0:45",
-                "room": "",
-                "slug": "camp2019-1039-session_body_workout_session",
-                "title": "Body Workout Session",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "outside",
-                "language": "de",
-                "abstract": "",
-                "description": "we will do some physical activity together",
-                "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Body_Workout_Session"
-                ]
-              },
-              {
-                "id": 1111,
-                "guid": "Eb23d0dc-2d2f-49c8-98a2-b96cf3d78782",
-                "logo": null,
-                "date": "2019-08-22T18:00:00+02:00",
-                "start": "18:00",
-                "duration": "1:00",
-                "room": "",
-                "slug": "camp2019-1111-session_octoprint_user_meetup",
-                "title": "OctoPrint User Meetup",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "de",
-                "abstract": "",
-                "description": "Meet and greet of OctoPrint users at the camp. foosel will also be there and bring stickers!",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Foosel",
-                    "public_name": "Foosel"
-                  }
-                ],
-                "links": [
-                  "https://community.octoprint.org/t/octoprint-meetup-at-chaos-communication-camp-2019/11078",
-                  "//events.ccc.de/camp/2019/wiki/Session:OctoPrint_User_Meetup"
-                ]
-              },
-              {
-                "id": 1121,
-                "guid": "F28bdd0a-d215-4af6-8c78-9a0ed4e0d758",
-                "logo": null,
-                "date": "2019-08-22T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "2:00",
-                "room": "",
-                "slug": "camp2019-1121-session_regio_mediation",
-                "title": "Regio Mediation",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "de",
-                "abstract": "",
-                "description": "Streitigkeiten, die sich schon tiefer in einen Verein eingetreten haben oder sogar mit Machtgef\u00e4llen behaftet sind, sind nicht einfach aus der Welt zu schaffen und k\u00f6nnen eine gute Vereinsarbeit \u00fcber lange Zeit l\u00e4hmen.  Wir glauben, um diese Probleme zu l\u00f6sen, k\u00f6nnenn uns die Techniken der Mediation weiterhelfen.  Wir vermuten au\u00dferdem, dass schon viel Erfahrung im CCC und seinen Mitgliedern schlummert und wollen euch einladen mit uns Idee noch weiter auszuarbeiten.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Susi",
-                    "public_name": "Susi"
-                  },
-                  {
-                    "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Dkl",
-                    "public_name": "Dkl"
-                  }
-                ],
-                "links": [
-                  "https://doku.ccc.de/Regiowochenende_2019",
-                  "//events.ccc.de/camp/2019/wiki/Session:Regio_Mediation"
-                ]
-              },
-              {
-                "id": 1122,
-                "guid": "Ca75968c-338d-4a45-a41b-594c83b34d70",
-                "logo": null,
-                "date": "2019-08-22T13:30:00+02:00",
-                "start": "13:30",
-                "duration": "1:00",
-                "room": "",
-                "slug": "camp2019-1122-session_reproducible_builds_meetup",
-                "title": "Reproducible Builds Meetup",
-                "subtitle": "Reproducible build introduction and discussion",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "Meeting and discussion about the Reproducible Builds project.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Foxboron",
-                    "public_name": "Foxboron"
-                  },
-                  {
-                    "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Jelly",
-                    "public_name": "Jelly"
-                  }
-                ],
-                "links": [
-                  "https://reproducible-builds.org/",
-                  "//events.ccc.de/camp/2019/wiki/Session:Reproducible_Builds_Meetup"
-                ]
-              },
-              {
-                "id": 1142,
-                "guid": "D018a177-c84e-4106-9bfc-afdafa8f3069",
-                "logo": null,
-                "date": "2019-08-22T11:00:00+02:00",
-                "start": "11:00",
-                "duration": "2:00",
-                "room": "",
-                "slug": "camp2019-1142-session_visit_zehdenick_farmer_s_market_by_bike",
-                "title": "Visit Zehdenick Farmer's Market by Bike",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "outside",
-                "language": "de",
-                "abstract": "",
-                "description": "Support your local food supplier, but don't go alone.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Coco",
-                    "public_name": "Coco"
-                  }
-                ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Visit_Zehdenick_Farmer%27s_Market_by_Bike"
                 ]
               }
             ],
@@ -3116,6 +2974,150 @@
                 ],
                 "links": [
                   "//events.ccc.de/camp/2019/wiki/Session:Treffen_und_Diskussion_zur_Netzpolitik_in_der_Schweiz"
+                ]
+              }
+            ],
+            "": [
+              {
+                "id": 1039,
+                "guid": "71d26132-13a9-41bf-aaa7-6792b363c95e",
+                "logo": null,
+                "date": "2019-08-22T11:00:00+02:00",
+                "start": "11:00",
+                "duration": "0:45",
+                "room": "",
+                "slug": "camp2019-1039-session_body_workout_session",
+                "title": "Body Workout Session",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "outside",
+                "language": "de",
+                "abstract": "",
+                "description": "we will do some physical activity together",
+                "persons": [],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:Body_Workout_Session"
+                ]
+              },
+              {
+                "id": 1111,
+                "guid": "Eb23d0dc-2d2f-49c8-98a2-b96cf3d78782",
+                "logo": null,
+                "date": "2019-08-22T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "1:00",
+                "room": "",
+                "slug": "camp2019-1111-session_octoprint_user_meetup",
+                "title": "OctoPrint User Meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Meet and greet of OctoPrint users at the camp. foosel will also be there and bring stickers!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Foosel",
+                    "public_name": "Foosel"
+                  }
+                ],
+                "links": [
+                  "https://community.octoprint.org/t/octoprint-meetup-at-chaos-communication-camp-2019/11078",
+                  "//events.ccc.de/camp/2019/wiki/Session:OctoPrint_User_Meetup"
+                ]
+              },
+              {
+                "id": 1121,
+                "guid": "F28bdd0a-d215-4af6-8c78-9a0ed4e0d758",
+                "logo": null,
+                "date": "2019-08-22T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "2:00",
+                "room": "",
+                "slug": "camp2019-1121-session_regio_mediation",
+                "title": "Regio Mediation",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Streitigkeiten, die sich schon tiefer in einen Verein eingetreten haben oder sogar mit Machtgef\u00e4llen behaftet sind, sind nicht einfach aus der Welt zu schaffen und k\u00f6nnen eine gute Vereinsarbeit \u00fcber lange Zeit l\u00e4hmen.  Wir glauben, um diese Probleme zu l\u00f6sen, k\u00f6nnenn uns die Techniken der Mediation weiterhelfen.  Wir vermuten au\u00dferdem, dass schon viel Erfahrung im CCC und seinen Mitgliedern schlummert und wollen euch einladen mit uns Idee noch weiter auszuarbeiten.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Susi",
+                    "public_name": "Susi"
+                  },
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Dkl",
+                    "public_name": "Dkl"
+                  }
+                ],
+                "links": [
+                  "https://doku.ccc.de/Regiowochenende_2019",
+                  "//events.ccc.de/camp/2019/wiki/Session:Regio_Mediation"
+                ]
+              },
+              {
+                "id": 1122,
+                "guid": "Ca75968c-338d-4a45-a41b-594c83b34d70",
+                "logo": null,
+                "date": "2019-08-22T13:30:00+02:00",
+                "start": "13:30",
+                "duration": "1:00",
+                "room": "",
+                "slug": "camp2019-1122-session_reproducible_builds_meetup",
+                "title": "Reproducible Builds Meetup",
+                "subtitle": "Reproducible build introduction and discussion",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "Meeting and discussion about the Reproducible Builds project.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Foxboron",
+                    "public_name": "Foxboron"
+                  },
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Jelly",
+                    "public_name": "Jelly"
+                  }
+                ],
+                "links": [
+                  "https://reproducible-builds.org/",
+                  "//events.ccc.de/camp/2019/wiki/Session:Reproducible_Builds_Meetup"
+                ]
+              },
+              {
+                "id": 1142,
+                "guid": "D018a177-c84e-4106-9bfc-afdafa8f3069",
+                "logo": null,
+                "date": "2019-08-22T11:00:00+02:00",
+                "start": "11:00",
+                "duration": "2:00",
+                "room": "",
+                "slug": "camp2019-1142-session_visit_zehdenick_farmer_s_market_by_bike",
+                "title": "Visit Zehdenick Farmer's Market by Bike",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "outside",
+                "language": "de",
+                "abstract": "",
+                "description": "Support your local food supplier, but don't go alone.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Coco",
+                    "public_name": "Coco"
+                  }
+                ],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:Visit_Zehdenick_Farmer%27s_Market_by_Bike"
                 ]
               }
             ],
