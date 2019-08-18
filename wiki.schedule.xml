@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-18 23:50</version>
+  <version>2019-08-19 01:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -3254,6 +3254,28 @@
         <links>
           <link>https://wiki.hackerspaces.org/</link>
           <link>//events.ccc.de/camp/2019/wiki/Session:Hackerspaces.org_meetup</link>
+        </links>
+      </event>
+      <event id="1282" guid="2675b56d-1217-4f1d-80c8-af89ba013cf3">
+        <logo/>
+        <date>2019-08-24T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>1:00</duration>
+        <room>Village:Ecohackerfarm</room>
+        <slug>camp2019-1282-session_permaculture_for_hackers</slug>
+        <title>Permaculture for hackers</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>a presentation and discussion about how hackerculture can be mixed with permaculture and the benefits of this union</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Aimeejulia">Aimeejulia</person>
+        </persons>
+        <links>
+          <link>https://ecohackerfarm.org/</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Permaculture_for_hackers</link>
         </links>
       </event>
     </room>
