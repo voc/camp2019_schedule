@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-18 18:10</version>
+  <version>2019-08-18 18:20</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -2796,13 +2796,13 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
       </event>
     </room>
     <room name="Johnson (Workshop 1)">
-      <event id="1185" guid="47df9fad-82ca-58cb-bcce-9b64d170901d">
+      <event id="1045" guid="886dfb0c-900f-47e1-bcb2-a5dc14c09a10">
         <logo/>
         <date>2019-08-22T17:00:00+02:00</date>
         <start>17:00</start>
         <duration>1:30</duration>
         <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1185-session_ccchoir</slug>
+        <slug>camp2019-1045-session_ccchoir</slug>
         <title>CCChoir</title>
         <subtitle>Bach vs Pythagoras, Runde 1</subtitle>
         <track>self organized sessions</track>
