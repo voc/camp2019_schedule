@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-18 18:40",
+    "version": "2019-08-18 18:50",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -39,14 +39,14 @@
                 ]
               },
               {
-                "id": 1219,
-                "guid": "12f000bb-4139-5e1f-8f1b-b059f6590bcc",
+                "id": 1101,
+                "guid": "8ee75b4c-727a-44d8-ae76-3da535871523",
                 "logo": null,
                 "date": "2019-08-21T15:00:00+02:00",
                 "start": "15:00",
                 "duration": "1:30",
                 "room": "",
-                "slug": "camp2019-1219-session_kubernetes_security_overview",
+                "slug": "camp2019-1101-session_kubernetes_security_overview",
                 "title": "Kubernetes Security Overview",
                 "subtitle": "Kubernetes Security Basics",
                 "track": "self organized sessions",
@@ -424,14 +424,14 @@
             ],
             "Village:Free Software Foundation Europe": [
               {
-                "id": 1200,
-                "guid": "caffdbe3-34e4-5fb6-9dd1-e73a2df51f6d",
+                "id": 1255,
+                "guid": "e10a5b76-2ca9-4a0d-a1c6-0b3ce24748a8",
                 "logo": null,
                 "date": "2019-08-21T19:30:00+02:00",
                 "start": "19:30",
                 "duration": "0:10",
                 "room": "Village:Free Software Foundation Europe",
-                "slug": "camp2019-1200-session_free_software_song_sing_along",
+                "slug": "camp2019-1255-session_free_software_song_sing_along",
                 "title": "Free Software Song sing-along",
                 "subtitle": "ad-hoc choir",
                 "track": "self organized sessions",
@@ -482,14 +482,14 @@
             ],
             "Village:HardwareHackingArea": [
               {
-                "id": 1205,
-                "guid": "a40cb8ea-8152-57ee-a846-78533a84b686",
+                "id": 1257,
+                "guid": "c5d794aa-3b64-4614-a644-528cc379182a",
                 "logo": null,
                 "date": "2019-08-21T17:00:00+02:00",
                 "start": "17:00",
                 "duration": "2:00",
                 "room": "Village:HardwareHackingArea",
-                "slug": "camp2019-1205-session_geiger_counter_workshop",
+                "slug": "camp2019-1257-session_geiger_counter_workshop",
                 "title": "Geiger Counter Workshop",
                 "subtitle": "Geiger Counter Workshop 1",
                 "track": "self organized sessions",
@@ -569,14 +569,14 @@
             ],
             "Village:C-base": [
               {
-                "id": 1218,
-                "guid": "6381c4c7-a62e-5442-b25b-dcf47416298f",
+                "id": 1099,
+                "guid": "55558acc-348c-44e8-97b1-bbc1187a7407",
                 "logo": null,
                 "date": "2019-08-21T17:00:00+02:00",
                 "start": "17:00",
                 "duration": "0:45",
                 "room": "Village:C-base",
-                "slug": "camp2019-1218-session_isomer",
+                "slug": "camp2019-1099-session_isomer",
                 "title": "Isomer",
                 "subtitle": "An overview of what Isomer aims to be and how that might help you",
                 "track": "self organized sessions",
@@ -742,7 +742,7 @@
                 "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "Come solder your own SumoRobot and have a blast later ate the SumoRobot match.",
+                "description": "Come solder your own SumoRobot and have a blast later at the SumoRobot match.",
                 "persons": [
                   {
                     "id": 0,
@@ -775,7 +775,7 @@
                 "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "Come solder your own SumoRobot and have a blast later ate the SumoRobot match.",
+                "description": "Come solder your own SumoRobot and have a blast later at the SumoRobot match.",
                 "persons": [
                   {
                     "id": 0,
@@ -1021,14 +1021,14 @@
                 ]
               },
               {
-                "id": 1211,
-                "guid": "1c1715ed-1785-52c5-a122-338f8bca20eb",
+                "id": 1259,
+                "guid": "f9cc11df-dd08-40f4-b7ba-1860455d5147",
                 "logo": null,
                 "date": "2019-08-22T15:00:00+02:00",
                 "start": "15:00",
                 "duration": "6:00",
                 "room": "Village:About:freedom",
-                "slug": "camp2019-1211-session_how_to_shape_a_responsible_world_",
+                "slug": "camp2019-1259-session_how_to_shape_a_responsible_world_",
                 "title": "How to shape a responsible world?",
                 "subtitle": "Starting Panel",
                 "track": "self organized sessions",
@@ -1464,14 +1464,14 @@
                 ]
               },
               {
-                "id": 1206,
-                "guid": "7e87d02c-2647-5531-8099-035d26b1de69",
+                "id": 1083,
+                "guid": "3e34db5c-5ac7-485f-947a-8098dd01da0f",
                 "logo": null,
                 "date": "2019-08-22T17:30:00+02:00",
                 "start": "17:30",
                 "duration": "1:30",
                 "room": "Village:LaTeX",
-                "slug": "camp2019-1206-session_graphics_with_latex",
+                "slug": "camp2019-1083-session_graphics_with_latex",
                 "title": "Graphics with LaTeX",
                 "subtitle": "",
                 "track": "self organized sessions",
@@ -1573,14 +1573,14 @@
             ],
             "Village:Free Software Foundation Europe": [
               {
-                "id": 1003,
-                "guid": "f902ed08-e70f-5e38-a731-5aa463db16c0",
+                "id": 1254,
+                "guid": "ecfcf7e9-5341-4ca3-ab75-f18882f6cb36",
                 "logo": null,
                 "date": "2019-08-22T19:30:00+02:00",
                 "start": "19:30",
                 "duration": "0:10",
                 "room": "Village:Free Software Foundation Europe",
-                "slug": "camp2019-1003-session_free_software_song_sing_along",
+                "slug": "camp2019-1254-session_free_software_song_sing_along",
                 "title": "Free Software Song sing-along",
                 "subtitle": "ad-hoc choir",
                 "track": "self organized sessions",
@@ -1602,14 +1602,14 @@
             ],
             "Village:NixOS": [
               {
-                "id": 1225,
-                "guid": "e91c42f9-5761-5762-aed9-8119a22fccbc",
+                "id": 1262,
+                "guid": "afa80109-3761-4b3f-b2e8-57087d164b0d",
                 "logo": null,
                 "date": "2019-08-22T12:45:00+02:00",
                 "start": "12:45",
                 "duration": "1:15",
                 "room": "Village:NixOS",
-                "slug": "camp2019-1225-session_nixos_install_party",
+                "slug": "camp2019-1262-session_nixos_install_party",
                 "title": "NixOS Install Party",
                 "subtitle": "",
                 "track": "self organized sessions",
@@ -1924,7 +1924,7 @@
                 "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "Come solder your own SumoRobot and have a blast later ate the SumoRobot match.",
+                "description": "Come solder your own SumoRobot and have a blast later at the SumoRobot match.",
                 "persons": [
                   {
                     "id": 0,
@@ -1957,7 +1957,7 @@
                 "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "Come solder your own SumoRobot and have a blast later ate the SumoRobot match.",
+                "description": "Come solder your own SumoRobot and have a blast later at the SumoRobot match.",
                 "persons": [
                   {
                     "id": 0,
@@ -2105,14 +2105,14 @@
                 ]
               },
               {
-                "id": 1204,
-                "guid": "cc1fc6d9-96a6-5246-a731-5e7758db8c4b",
+                "id": 1256,
+                "guid": "b73c59a0-98af-4012-8e2b-4e1b886e050d",
                 "logo": null,
                 "date": "2019-08-23T20:30:00+02:00",
                 "start": "20:30",
                 "duration": "2:00",
                 "room": "Village:HardwareHackingArea",
-                "slug": "camp2019-1204-session_geiger_counter_workshop",
+                "slug": "camp2019-1256-session_geiger_counter_workshop",
                 "title": "Geiger Counter Workshop",
                 "subtitle": "Geiger Counter Workshop 2",
                 "track": "self organized sessions",
@@ -2485,14 +2485,14 @@
                 ]
               },
               {
-                "id": 1210,
-                "guid": "ae8335d6-76f4-5986-9ae9-7abef9b2b266",
+                "id": 1258,
+                "guid": "c26c1327-b087-4f31-93d8-394eece62ae5",
                 "logo": null,
                 "date": "2019-08-23T10:30:00+02:00",
                 "start": "10:30",
                 "duration": "2:30",
                 "room": "Village:About:freedom",
-                "slug": "camp2019-1210-session_how_to_shape_a_responsible_world_",
+                "slug": "camp2019-1258-session_how_to_shape_a_responsible_world_",
                 "title": "How to shape a responsible world?",
                 "subtitle": "Follow up",
                 "track": "self organized sessions",
@@ -2837,14 +2837,14 @@
             ],
             "Village:Free Software Foundation Europe": [
               {
-                "id": 1201,
-                "guid": "2356ed43-66e0-5c0e-bb71-65a9c7f889ea",
+                "id": 1161,
+                "guid": "151e438c-6527-4f1c-aad5-359e5312110f",
                 "logo": null,
                 "date": "2019-08-23T19:30:00+02:00",
                 "start": "19:30",
                 "duration": "0:10",
                 "room": "Village:Free Software Foundation Europe",
-                "slug": "camp2019-1201-session_free_software_song_sing_along",
+                "slug": "camp2019-1161-session_free_software_song_sing_along",
                 "title": "Free Software Song sing-along",
                 "subtitle": "",
                 "track": "self organized sessions",
@@ -2924,14 +2924,14 @@
             ],
             "Village:Fri3d Camp": [
               {
-                "id": 1217,
-                "guid": "6889cd9b-e127-5d30-b145-745e19b6908f",
+                "id": 1261,
+                "guid": "dc6e98b3-7645-47c9-be4d-91ce0c17a618",
                 "logo": null,
                 "date": "2019-08-23T14:00:00+02:00",
                 "start": "14:00",
                 "duration": "2:00",
                 "room": "Village:Fri3d Camp",
-                "slug": "camp2019-1217-session_iot_meetup",
+                "slug": "camp2019-1261-session_iot_meetup",
                 "title": "IoT Meetup",
                 "subtitle": "",
                 "track": "self organized sessions",
@@ -3131,7 +3131,7 @@
                 "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "Come solder your own SumoRobot and have a blast later ate the SumoRobot match.",
+                "description": "Come solder your own SumoRobot and have a blast later at the SumoRobot match.",
                 "persons": [
                   {
                     "id": 0,
@@ -3164,7 +3164,7 @@
                 "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "Come solder your own SumoRobot and have a blast later ate the SumoRobot match.",
+                "description": "Come solder your own SumoRobot and have a blast later at the SumoRobot match.",
                 "persons": [
                   {
                     "id": 0,
@@ -3360,14 +3360,14 @@
                 ]
               },
               {
-                "id": 1006,
-                "guid": "7535c749-8cb0-535e-b201-09a741aa5e63",
+                "id": 1260,
+                "guid": "c59ab826-e9ec-40d9-b529-b48e9d0b87c6",
                 "logo": null,
                 "date": "2019-08-24T10:30:00+02:00",
                 "start": "10:30",
                 "duration": "2:30",
                 "room": "Village:About:freedom",
-                "slug": "camp2019-1006-session_how_to_shape_a_responsible_world_",
+                "slug": "camp2019-1260-session_how_to_shape_a_responsible_world_",
                 "title": "How to shape a responsible world?",
                 "subtitle": "Follow up",
                 "track": "self organized sessions",
@@ -3606,14 +3606,14 @@
             ],
             "Village:Free Software Foundation Europe": [
               {
-                "id": 1004,
-                "guid": "a9e68dfd-d816-5fd7-918a-8623704dd15b",
+                "id": 1160,
+                "guid": "94927a6d-0607-40eb-9064-2563a6c333ca",
                 "logo": null,
                 "date": "2019-08-24T19:30:00+02:00",
                 "start": "19:30",
                 "duration": "0:10",
                 "room": "Village:Free Software Foundation Europe",
-                "slug": "camp2019-1004-session_free_software_song_sing_along",
+                "slug": "camp2019-1160-session_free_software_song_sing_along",
                 "title": "Free Software Song sing-along",
                 "subtitle": "ad-hoc choir",
                 "track": "self organized sessions",
@@ -3664,14 +3664,14 @@
             ],
             "Village:LaTeX": [
               {
-                "id": 1207,
-                "guid": "aa8f7640-e2ca-555b-bd1e-27f1c6c86959",
+                "id": 1084,
+                "guid": "9ab6f91f-65a8-4f5e-9b20-34824f839c43",
                 "logo": null,
                 "date": "2019-08-24T17:30:00+02:00",
                 "start": "17:30",
                 "duration": "1:30",
                 "room": "Village:LaTeX",
-                "slug": "camp2019-1207-session_graphics_with_latex",
+                "slug": "camp2019-1084-session_graphics_with_latex",
                 "title": "Graphics with LaTeX",
                 "subtitle": "",
                 "track": "self organized sessions",
@@ -3993,7 +3993,7 @@
                 "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "Come solder your own SumoRobot and have a blast later ate the SumoRobot match.",
+                "description": "Come solder your own SumoRobot and have a blast later at the SumoRobot match.",
                 "persons": [
                   {
                     "id": 0,
@@ -4026,7 +4026,7 @@
                 "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "Come solder your own SumoRobot and have a blast later ate the SumoRobot match.",
+                "description": "Come solder your own SumoRobot and have a blast later at the SumoRobot match.",
                 "persons": [
                   {
                     "id": 0,
@@ -4257,7 +4257,7 @@
                 "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "Come solder your own SumoRobot and have a blast later ate the SumoRobot match.",
+                "description": "Come solder your own SumoRobot and have a blast later at the SumoRobot match.",
                 "persons": [
                   {
                     "id": 0,
@@ -4290,7 +4290,7 @@
                 "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "Come solder your own SumoRobot and have a blast later ate the SumoRobot match.",
+                "description": "Come solder your own SumoRobot and have a blast later at the SumoRobot match.",
                 "persons": [
                   {
                     "id": 0,
