@@ -1,0 +1,32 @@
+{
+  "id": 155,
+  "guid": "0be7b345-e2aa-5d94-ba3e-674f3b9b0aea",
+  "logo": "",
+  "date": "2019-08-24T11:00:00+00:00",
+  "start": "11:00",
+  "duration": "01:00",
+  "room": "Workshop",
+  "slug": "ARNTML",
+  "url": "http://talx.thm.cloud/thms/talk/ARNTML/",
+  "title": "Re-boot yourself! (tbc)",
+  "subtitle": "",
+  "track": "Workshop",
+  "type": "Entertainment",
+  "language": "de",
+  "abstract": "Yoga f\u00fcr diejenigen, die bisher haupts\u00e4chlich die Computer-Asana praktizieren. Auf deutsch, bei Bedarf auch Englisch. (Asana= (sitzende) K\u00f6rperstellung im Yoga)\r\nYoga for people who practice Computer Asana most of the time. In German, english as needed. (asana = (sitting) body posture in Yoga)",
+  "description": "Yoga / Lockerungs\u00fcbungen \r\nDa ihr ja eh alle immer ein Handtuch dabei habt, braucht ihr nichts mitbringen. :) \r\nAber wenn vorhanden: Matte oder Decke... \r\nBei gutem Wetter im Freien; bei schlechtem im Zelt.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 63,
+      "code": "KGEVE9",
+      "public_name": "Neelke",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

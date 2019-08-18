@@ -1,0 +1,22 @@
+{
+  "id": 1040,
+  "guid": "6ad28881-1413-46a4-837a-315359e19aeb",
+  "logo": null,
+  "date": "2019-08-24T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "2:00",
+  "room": "Hackcenter",
+  "slug": "camp2019-1040-session_body_mind_hardware_software",
+  "title": "Body/Mind Hardware/Software",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "EightOS bodymind operating system",
+  "persons": [],
+  "links": [
+    "http://www.8os.io",
+    "//events.ccc.de/camp/2019/wiki/Session:Body/Mind_Hardware/Software"
+  ]
+}

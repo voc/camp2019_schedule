@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10397.html",
-    "id": 10397,
-    "guid": "ebffdad1-55ef-4b66-b7cd-a170c801c147",
-    "logo": null,
-    "date": "2019-08-25T16:00:00+02:00",
-    "start": "16:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10397-c3power_monitoring_cccamp_19",
-    "title": "c3Power Monitoring CCCamp 19",
-    "subtitle": "Strom in Bits und Bytes visualisiert",
-    "track": "Hardware & Making",
-    "type": "lecture",
-    "language": "de",
-    "abstract": "Infastructure Review des Camp 2019 Stromnetz aus Sicht des auf der GPN in der Theorie vorgestellten Low Cost Power Monitoring. Aufbau des Monitoring-Netzes, Inbetriebname und Ergebnisse von Tag -1 bis Tag 4",
-    "description": "Wie verh\u00e4lt sich das Netz von c3Power auf dem Camp 2019 zu den verschiedene Tageszeiten, wie sieht die Auswertung von z.B. Lastverteilung, Netzoberwellen, Fehlerrate aus. Visualisierung der Daten in Grafana, Server Infrastruktur. Do:s and don't:s vom Aufbau der Hardware, Betrieb bei 50 Grad plus und 10 cm Wasserstand im Freien. Stabilt\u00e4t des Campnetzes in den ersten 4 Tagen. Integration ins DMR Funknetz \u00fcber MMDVM Hotspots zum absenden der Fehlermeldungen als DMR SMS. Abhandeln der St\u00f6rmeldungen. Impressionen vom c3power Team w\u00e4hrend des Events.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 3701,
-            "public_name": "RFguy"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10397.html",
+  "id": 10397,
+  "guid": "ebffdad1-55ef-4b66-b7cd-a170c801c147",
+  "logo": null,
+  "date": "2019-08-25T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10397-c3power_monitoring_cccamp_19",
+  "title": "c3Power Monitoring CCCamp 19",
+  "subtitle": "Strom in Bits und Bytes visualisiert",
+  "track": "Hardware & Making",
+  "type": "lecture",
+  "language": "de",
+  "abstract": "Infastructure Review des Camp 2019 Stromnetz aus Sicht des auf der GPN in der Theorie vorgestellten Low Cost Power Monitoring. Aufbau des Monitoring-Netzes, Inbetriebname und Ergebnisse von Tag -1 bis Tag 4",
+  "description": "Wie verh\u00e4lt sich das Netz von c3Power auf dem Camp 2019 zu den verschiedene Tageszeiten, wie sieht die Auswertung von z.B. Lastverteilung, Netzoberwellen, Fehlerrate aus. Visualisierung der Daten in Grafana, Server Infrastruktur. Do:s and don't:s vom Aufbau der Hardware, Betrieb bei 50 Grad plus und 10 cm Wasserstand im Freien. Stabilt\u00e4t des Campnetzes in den ersten 4 Tagen. Integration ins DMR Funknetz \u00fcber MMDVM Hotspots zum absenden der Fehlermeldungen als DMR SMS. Abhandeln der St\u00f6rmeldungen. Impressionen vom c3power Team w\u00e4hrend des Events.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3701,
+      "public_name": "RFguy"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

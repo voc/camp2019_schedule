@@ -1,33 +1,33 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10252.html",
-    "id": 10252,
-    "guid": "f9196061-da41-448d-8e7a-da0a6f8ad63a",
-    "logo": "/system/events/logos/000/010/252/large/Screen_Shot_2019-06-10_at_12.11.03_PM.png?1560163476",
-    "date": "2019-08-23T18:00:00+02:00",
-    "start": "18:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10252-megapixels_face_recognition_training_datasets",
-    "title": "MegaPixels: Face Recognition Training Datasets",
-    "subtitle": "Origins, Ethics, and Individual Privacy Implications of Face Recognition Training Datasets",
-    "track": "Art & Culture",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "This talk will present the MegaPixels project, a website and resource for exploring face recognition training datasets. MegaPixels is an art and research project about the growing crisis of authoritarian biometric surveillance technologies and how data, often originating from social media, has unwittingly contributed to its growth.",
-    "description": "While most face recognition training datasets include images of celebrity faces, many more include everyday images from Flickr, YouTube, or even CCTV footage from cities and campuses. This talk will survey existing face recognition datasets on the megapixels.cc site and present a new investigation revealing the use of CCC videos in a face recognition training dataset created and distributed by a US Government agency. The investigation will show who is using the dataset, where it's being used, and what kind of surveillance technologies these images are unwittingly contributing to.\r\n\r\nMegaPixels is developed by:\r\nAdam Harvey / <a href=\"https://ahprojects.com\">ahprojects.com</a>\r\nJules LaPlace / <a href=\"https://asdf.us\">asdf.us</a>",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 7024,
-            "public_name": "Adam Harvey"
-        }
-    ],
-    "links": [
-        {
-            "url": "https://megapixels.cc",
-            "title": "MegaPixels.cc"
-        }
-    ],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10252.html",
+  "id": 10252,
+  "guid": "f9196061-da41-448d-8e7a-da0a6f8ad63a",
+  "logo": "/system/events/logos/000/010/252/large/Screen_Shot_2019-06-10_at_12.11.03_PM.png?1560163476",
+  "date": "2019-08-23T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10252-megapixels_face_recognition_training_datasets",
+  "title": "MegaPixels: Face Recognition Training Datasets",
+  "subtitle": "Origins, Ethics, and Individual Privacy Implications of Face Recognition Training Datasets",
+  "track": "Art & Culture",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "This talk will present the MegaPixels project, a website and resource for exploring face recognition training datasets. MegaPixels is an art and research project about the growing crisis of authoritarian biometric surveillance technologies and how data, often originating from social media, has unwittingly contributed to its growth.",
+  "description": "While most face recognition training datasets include images of celebrity faces, many more include everyday images from Flickr, YouTube, or even CCTV footage from cities and campuses. This talk will survey existing face recognition datasets on the megapixels.cc site and present a new investigation revealing the use of CCC videos in a face recognition training dataset created and distributed by a US Government agency. The investigation will show who is using the dataset, where it's being used, and what kind of surveillance technologies these images are unwittingly contributing to.\r\n\r\nMegaPixels is developed by:\r\nAdam Harvey / <a href=\"https://ahprojects.com\">ahprojects.com</a>\r\nJules LaPlace / <a href=\"https://asdf.us\">asdf.us</a>",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 7024,
+      "public_name": "Adam Harvey"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://megapixels.cc",
+      "title": "MegaPixels.cc"
+    }
+  ],
+  "attachments": []
 }

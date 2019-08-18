@@ -1,0 +1,22 @@
+{
+  "id": 1044,
+  "guid": "1bd9757b-7cd5-4355-a82f-e4818e796067",
+  "logo": null,
+  "date": "2019-08-23T15:00:00+02:00",
+  "start": "15:00",
+  "duration": "0:45",
+  "room": "Village:CCC-CH",
+  "slug": "camp2019-1044-session_ccc_ch_gettogether",
+  "title": "CCC-CH Gettogether",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "de",
+  "abstract": "",
+  "description": "Das Gettogether des CCC-CH am CCCamp19",
+  "persons": [],
+  "links": [
+    "https://ccc-ch.ch",
+    "//events.ccc.de/camp/2019/wiki/Session:CCC-CH_Gettogether"
+  ]
+}

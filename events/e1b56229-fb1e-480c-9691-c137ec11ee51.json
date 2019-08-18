@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10225.html",
-    "id": 10225,
-    "guid": "e1b56229-fb1e-480c-9691-c137ec11ee51",
-    "logo": null,
-    "date": "2019-08-21T18:00:00+02:00",
-    "start": "18:00",
-    "duration": "00:45",
-    "room": "Meitner",
-    "slug": "Camp2019-10225-introduction_to_home_network_security",
-    "title": "Introduction to (home) network security.",
-    "subtitle": "A beginner-friendly guide to network segmentation for privacy and security in the age of the Internet of Insecure Things.",
-    "track": "Security",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "Typical home networks use a closed-source Internet Service Provider supplied router/firewall and contain no restrictions on communications between clients within the network. The widespread deployment of network-connected appliances, control systems, lighting, etc, means that this design is insecure. This talk will cover the basics of networking, including why and how segregation of different types of network clients and traffic can be achieved to increase privacy and security.",
-    "description": "An introduction to wired and wireless networking aimed at home users, but equally applicable in a business context. We will examine basic network theory, typical designs, threats to privacy and security, and steps to reduce the risks presented by these threats. If you are a networking guru, then this is probably not the talk for you. This talk is for anyone interested in learning more about how a small network operates and things they should consider with regards to privacy and security. Topics to be covered: What is Ethernet; how network devices communicate; what is a broadcast zone; what is a subnet; network layers; physical and logical segregation of network traffic;  basic WiFi theory; basics of firewall and wireless access point security and why running your own is better than letting your ISP do it for you.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 8952,
-            "public_name": "Egor"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10225.html",
+  "id": 10225,
+  "guid": "e1b56229-fb1e-480c-9691-c137ec11ee51",
+  "logo": null,
+  "date": "2019-08-21T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "00:45",
+  "room": "Meitner",
+  "slug": "Camp2019-10225-introduction_to_home_network_security",
+  "title": "Introduction to (home) network security.",
+  "subtitle": "A beginner-friendly guide to network segmentation for privacy and security in the age of the Internet of Insecure Things.",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Typical home networks use a closed-source Internet Service Provider supplied router/firewall and contain no restrictions on communications between clients within the network. The widespread deployment of network-connected appliances, control systems, lighting, etc, means that this design is insecure. This talk will cover the basics of networking, including why and how segregation of different types of network clients and traffic can be achieved to increase privacy and security.",
+  "description": "An introduction to wired and wireless networking aimed at home users, but equally applicable in a business context. We will examine basic network theory, typical designs, threats to privacy and security, and steps to reduce the risks presented by these threats. If you are a networking guru, then this is probably not the talk for you. This talk is for anyone interested in learning more about how a small network operates and things they should consider with regards to privacy and security. Topics to be covered: What is Ethernet; how network devices communicate; what is a broadcast zone; what is a subnet; network layers; physical and logical segregation of network traffic;  basic WiFi theory; basics of firewall and wireless access point security and why running your own is better than letting your ISP do it for you.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8952,
+      "public_name": "Egor"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

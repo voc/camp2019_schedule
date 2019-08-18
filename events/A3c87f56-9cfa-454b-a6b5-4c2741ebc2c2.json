@@ -1,0 +1,27 @@
+{
+  "id": 1145,
+  "guid": "A3c87f56-9cfa-454b-a6b5-4c2741ebc2c2",
+  "logo": null,
+  "date": "2019-08-22T13:00:00+02:00",
+  "start": "13:00",
+  "duration": "0:15",
+  "room": "Village:LaTeX",
+  "slug": "camp2019-1145-session_xspace_solution_to_an_annoying_tex_quirk",
+  "title": "Xspace \u2013 Solution to an annoying TeX quirk",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Let's have a look how xspace.sty makes TeX's treatment of whitespace more predictable!",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Fr%C3%B6belsuppe",
+      "public_name": "Fr\u00f6belsuppe"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Xspace_%E2%80%93_Solution_to_an_annoying_TeX_quirk"
+  ]
+}

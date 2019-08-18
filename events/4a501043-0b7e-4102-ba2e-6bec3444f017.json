@@ -1,0 +1,27 @@
+{
+  "id": 1076,
+  "guid": "4a501043-0b7e-4102-ba2e-6bec3444f017",
+  "logo": null,
+  "date": "2019-08-24T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "1:25",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1076-session_freedom_cruise_about_pnr",
+  "title": "Freedom Cruise, about:PNR",
+  "subtitle": "about:stage",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "public_name": "Gnunicorn"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Freedom_Cruise,_about:PNR"
+  ]
+}

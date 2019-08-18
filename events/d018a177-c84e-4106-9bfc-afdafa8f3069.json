@@ -1,0 +1,27 @@
+{
+  "id": 1247,
+  "guid": "d018a177-c84e-4106-9bfc-afdafa8f3069",
+  "logo": null,
+  "date": "2019-08-22T11:00:00+02:00",
+  "start": "11:00",
+  "duration": "2:00",
+  "room": "",
+  "slug": "camp2019-1247-session_visit_zehdenick_farmer_s_market_by_bike",
+  "title": "Visit Zehdenick Farmer's Market by Bike",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "outside",
+  "language": "de",
+  "abstract": "",
+  "description": "Support your local food supplier, but don't go alone.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Coco",
+      "public_name": "Coco"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Visit_Zehdenick_Farmer%27s_Market_by_Bike"
+  ]
+}

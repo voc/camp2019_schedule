@@ -1,0 +1,27 @@
+{
+  "id": 1079,
+  "guid": "6700ed11-b9cb-46ba-8f25-f68a29dfcc64",
+  "logo": null,
+  "date": "2019-08-21T19:00:00+02:00",
+  "start": "19:00",
+  "duration": "1:30",
+  "room": "Village:Schaffenburg",
+  "slug": "camp2019-1079-session_goc",
+  "title": "GOC",
+  "subtitle": "Introduction & Selection of Botanicals",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "Gin Operation Center",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Fraxinas",
+      "public_name": "Fraxinas"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:GOC"
+  ]
+}

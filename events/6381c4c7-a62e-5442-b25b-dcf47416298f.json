@@ -1,0 +1,28 @@
+{
+  "id": 1218,
+  "guid": "6381c4c7-a62e-5442-b25b-dcf47416298f",
+  "logo": null,
+  "date": "2019-08-21T17:00:00+02:00",
+  "start": "17:00",
+  "duration": "0:45",
+  "room": "Village:C-base",
+  "slug": "camp2019-1218-session_isomer",
+  "title": "Isomer",
+  "subtitle": "An overview of what Isomer aims to be and how that might help you",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "Isomer is a new distributed application framework",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Riot",
+      "public_name": "Riot"
+    }
+  ],
+  "links": [
+    "http://isomer.eu",
+    "//events.ccc.de/camp/2019/wiki/Session:Isomer"
+  ]
+}

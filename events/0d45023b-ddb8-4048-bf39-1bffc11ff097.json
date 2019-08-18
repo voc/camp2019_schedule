@@ -1,37 +1,37 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10204.html",
-    "id": 10204,
-    "guid": "0d45023b-ddb8-4048-bf39-1bffc11ff097",
-    "logo": "/system/events/logos/000/010/204/large/calm-monster.gif?1559684888",
-    "date": "2019-08-23T23:00:00+02:00",
-    "start": "23:00",
-    "duration": "00:45",
-    "room": "Meitner",
-    "slug": "Camp2019-10204-participatory_art_event_tools_co-creation_and_silk_road_networks",
-    "title": "Participatory art event tools, co-creation and silk road networks",
-    "subtitle": "Collide, connect, cartography",
-    "track": "Art & Culture",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "The Borderland is a participatory art event in Denmark with 3210 co-creators. Over the last three years, we have created online tools to keep participation and co-creation high as the event has tripled in size in only three years. This seminar is about the design philosophy behind these tools, drawing parallels to the ancient silk road. These tools have since been spread to at least five other events around the world.",
-    "description": "In developing the Borderland community online and offline, we've built tools that help us create denser networks, allowing for share creative processes, distributed art-grant allocation, empowered community members and decentralized decision making. \r\n\r\nThese tools, called Dreams and Realities are run alongside a customized version of the Loomio platform and our own instance of the Pretix ticketing platform. Dreams is for distributed art-grant distribution and project guidance. Realites is for stakeholder-mapping to understand how the needs, responsibilities, people and dependencies fit together in a decentralized organization.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 8997,
-            "public_name": "hugi"
-        }
-    ],
-    "links": [
-        {
-            "url": "http://theborderland.se",
-            "title": "The Borderland"
-        },
-        {
-            "url": "http://dreams.theborderland.se",
-            "title": "Borderland Dreams"
-        }
-    ],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10204.html",
+  "id": 10204,
+  "guid": "0d45023b-ddb8-4048-bf39-1bffc11ff097",
+  "logo": "/system/events/logos/000/010/204/large/calm-monster.gif?1559684888",
+  "date": "2019-08-23T23:00:00+02:00",
+  "start": "23:00",
+  "duration": "00:45",
+  "room": "Meitner",
+  "slug": "Camp2019-10204-participatory_art_event_tools_co-creation_and_silk_road_networks",
+  "title": "Participatory art event tools, co-creation and silk road networks",
+  "subtitle": "Collide, connect, cartography",
+  "track": "Art & Culture",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "The Borderland is a participatory art event in Denmark with 3210 co-creators. Over the last three years, we have created online tools to keep participation and co-creation high as the event has tripled in size in only three years. This seminar is about the design philosophy behind these tools, drawing parallels to the ancient silk road. These tools have since been spread to at least five other events around the world.",
+  "description": "In developing the Borderland community online and offline, we've built tools that help us create denser networks, allowing for share creative processes, distributed art-grant allocation, empowered community members and decentralized decision making. \r\n\r\nThese tools, called Dreams and Realities are run alongside a customized version of the Loomio platform and our own instance of the Pretix ticketing platform. Dreams is for distributed art-grant distribution and project guidance. Realites is for stakeholder-mapping to understand how the needs, responsibilities, people and dependencies fit together in a decentralized organization.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8997,
+      "public_name": "hugi"
+    }
+  ],
+  "links": [
+    {
+      "url": "http://theborderland.se",
+      "title": "The Borderland"
+    },
+    {
+      "url": "http://dreams.theborderland.se",
+      "title": "Borderland Dreams"
+    }
+  ],
+  "attachments": []
 }

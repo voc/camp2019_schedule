@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10350.html",
-    "id": 10350,
-    "guid": "31dfe9ce-3291-497b-80e2-1b7a82344834",
-    "logo": "/system/events/logos/000/010/350/large/1600px-Hurricane_Isabel_from_ISS.jpg?1560289814",
-    "date": "2019-08-23T17:00:00+02:00",
-    "start": "17:00",
-    "duration": "00:45",
-    "room": "Meitner",
-    "slug": "Camp2019-10350-mapping_doomsday",
-    "title": "Mapping Doomsday",
-    "subtitle": "Using OSINT to monitor and predict environmental conflicts",
-    "track": "Science",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "The world is entering a new era of instability. The climate crisis will put great pressure on the (relatively) peaceful balance of world politics. But the field of open source intelligence (OSINT) provides us with a new and unique way to map, study and predict these flashpoints. This talk will look at several technical approaches for using these techniques and include several example studies.",
-    "description": "Intelligence agencies, NGOs, business groups, and insurance companies all agree that the worsening climate crisis will fuel war and global crises. Some go further, saying that societal collapse is all but inevitable. Whatever your view on this is, it is difficult to see our current paradigm of general peace continuing into the next few decades. \r\n\r\nBut as this crisis worsens, modern technology has also gifted us with new tools to monitor, analyse and predict flashpoints. The emerging field of Open Source Intelligence (OSINT) is one such tool. OSINT uses publically available data (such as social media posts, video footage, satellite imagery, public databases and remote sensing) as the basis for in-depth investigations. \r\n\r\nThis talk will look at the ways in which these techniques can be usefully applied, both journalistically and analytically, within the context of the aforementioned crisis. Specifically, it will look at two examples of how OSINT can be used to analyse past events over the last year, and one concept for predicting a future event. \r\n\r\n",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 9076,
-            "public_name": "Michael Cruickshank"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10350.html",
+  "id": 10350,
+  "guid": "31dfe9ce-3291-497b-80e2-1b7a82344834",
+  "logo": "/system/events/logos/000/010/350/large/1600px-Hurricane_Isabel_from_ISS.jpg?1560289814",
+  "date": "2019-08-23T17:00:00+02:00",
+  "start": "17:00",
+  "duration": "00:45",
+  "room": "Meitner",
+  "slug": "Camp2019-10350-mapping_doomsday",
+  "title": "Mapping Doomsday",
+  "subtitle": "Using OSINT to monitor and predict environmental conflicts",
+  "track": "Science",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "The world is entering a new era of instability. The climate crisis will put great pressure on the (relatively) peaceful balance of world politics. But the field of open source intelligence (OSINT) provides us with a new and unique way to map, study and predict these flashpoints. This talk will look at several technical approaches for using these techniques and include several example studies.",
+  "description": "Intelligence agencies, NGOs, business groups, and insurance companies all agree that the worsening climate crisis will fuel war and global crises. Some go further, saying that societal collapse is all but inevitable. Whatever your view on this is, it is difficult to see our current paradigm of general peace continuing into the next few decades. \r\n\r\nBut as this crisis worsens, modern technology has also gifted us with new tools to monitor, analyse and predict flashpoints. The emerging field of Open Source Intelligence (OSINT) is one such tool. OSINT uses publically available data (such as social media posts, video footage, satellite imagery, public databases and remote sensing) as the basis for in-depth investigations. \r\n\r\nThis talk will look at the ways in which these techniques can be usefully applied, both journalistically and analytically, within the context of the aforementioned crisis. Specifically, it will look at two examples of how OSINT can be used to analyse past events over the last year, and one concept for predicting a future event. \r\n\r\n",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9076,
+      "public_name": "Michael Cruickshank"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

@@ -1,0 +1,27 @@
+{
+  "id": 1036,
+  "guid": "31fcf2eb-ad14-47f8-971c-7f06b2d8c178",
+  "logo": null,
+  "date": "2019-08-23T15:00:00+02:00",
+  "start": "15:00",
+  "duration": "2:00",
+  "room": "Village:Scottish Consulate",
+  "slug": "camp2019-1036-session_bsd_users_and_developers_meetup",
+  "title": "BSD Users and Developers Meetup",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "",
+  "abstract": "",
+  "description": "Meetup for BSD Users and Developers",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Adventureloop",
+      "public_name": "Adventureloop"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:BSD_Users_and_Developers_Meetup"
+  ]
+}

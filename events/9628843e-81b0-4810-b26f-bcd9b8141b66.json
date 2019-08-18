@@ -1,0 +1,28 @@
+{
+  "id": 1049,
+  "guid": "9628843e-81b0-4810-b26f-bcd9b8141b66",
+  "logo": null,
+  "date": "2019-08-22T21:00:00+02:00",
+  "start": "21:00",
+  "duration": "2:00",
+  "room": "Village:Foodhackingbase",
+  "slug": "camp2019-1049-session_cidre_flows",
+  "title": "Cidre Flows",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "D\u00e9gustation of cidres.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Algoldor",
+      "public_name": "Algoldor"
+    }
+  ],
+  "links": [
+    "https://foodhackingbase.org/wiki/Cidre_flows_ccccamp2019",
+    "//events.ccc.de/camp/2019/wiki/Session:Cidre_Flows"
+  ]
+}

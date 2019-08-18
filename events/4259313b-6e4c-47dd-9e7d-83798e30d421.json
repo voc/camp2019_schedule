@@ -1,0 +1,33 @@
+{
+  "id": 1169,
+  "guid": "4259313b-6e4c-47dd-9e7d-83798e30d421",
+  "logo": null,
+  "date": "2019-08-22T14:30:00+02:00",
+  "start": "14:30",
+  "duration": "2:00",
+  "room": "Village:RoboVillage",
+  "slug": "camp2019-1169-session_sumorobot_soldering",
+  "title": "SumoRobot soldering",
+  "subtitle": "Day 2 afternoon",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "de",
+  "abstract": "",
+  "description": "Come solder your own SumoRobot and have a blast later ate the SumoRobot match.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+      "public_name": "Silbo"
+    },
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+      "public_name": "Ivanna"
+    }
+  ],
+  "links": [
+    "https://www.robokoding.com/kits/sumorobot",
+    "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering"
+  ]
+}

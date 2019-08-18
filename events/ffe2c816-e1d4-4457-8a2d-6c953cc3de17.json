@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10195.html",
-    "id": 10195,
-    "guid": "ffe2c816-e1d4-4457-8a2d-6c953cc3de17",
-    "logo": null,
-    "date": "2019-08-23T16:00:00+02:00",
-    "start": "16:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10195-neue_europaische_uberwachungslandschaft",
-    "title": "Neue europ\u00e4ische \u00dcberwachungslandschaft",
-    "subtitle": "",
-    "track": "Ethics, Society & Politics",
-    "type": "lecture",
-    "language": "de",
-    "abstract": "Mit neuen Verordnungen und Richtlinien wachsen in der Europ\u00e4ischen Union weitere Datent\u00f6pfe heran. Internetanbieter sollen au\u00dferdem Inhalte entfernen und Telekommunikationsdaten auf Verlangen herausgeben. Auch der Kreis der Zugriffsberechtigten wird deutlich erweitert. Ganz legal k\u00f6nnten sogar US-Beh\u00f6rden bald in Europa Abh\u00f6ren d\u00fcrfen.",
-    "description": "Unter dem Stichwort \u201eInteroperabilit\u00e4t\u201c vernetzt die Europ\u00e4ische Union ihre gro\u00dfen Datenbanken im Bereich Justiz und Inneres. Der Beschluss fiel bereits, nun steht die Umsetzung an. Fingerabdr\u00fccke und Gesichtsbilder werden in einem \u201egemeinsamen Identit\u00e4tsspeicher\u201c abgelegt und mit einem \u201eEurop\u00e4ischen Suchportal\u201c prozessiert. Mit dem Projekt wird der polizeiliche Datenverkehr drastisch steigen, allein Europol rechnet mit 100.000 t\u00e4glichen Abfragen seiner Dateien.\r\nIm Herbst, wenn sich das neue Parlament konstituiert hat, will die EU au\u00dferdem den Zugriff auf elektronische Beweismittel auf drei Wegen vereinfachen. Die \u201eE-Evidence\u201c-Verordnung\u201c soll die polizeiliche Abfrage von Daten bei Internetfirmen in anderen EU-Staaten unter Androhung hoher Bu\u00dfgelder drastisch erleichtern. F\u00fcr Firmen mit Sitz in den USA plant die EU-Kommission ein Durchf\u00fchrungsabkommen im Rahmen des \u201eCLOUD Act\u201c, den die US-Regierung erlassen hat. Dann k\u00f6nnen auch US-Beh\u00f6rden Daten von Sozialen Netzwerken oder Messengern in Europa abfragen, m\u00f6glich w\u00e4re sogar das Abh\u00f6ren in Echtzeit. Zus\u00e4tzlich verhandelt auch der Europarat \u00fcber die schnelle Herausgabe elektronischer Beweismittel. Die \u201eBudapest-Konvention\u201c zur Kooperation bei Computerstraftaten soll um eine \u201eSicherungsanordnung\u201c erweitert werden.\r\nEbenfalls auf der Tagesordnung stehen die weiteren Verhandlungen f\u00fcr eine Verordnung zur \u201eVerhinderung der Verbreitung terroristischer Online-Inhalte\u201c. Hierzu sollen die Strafverfolgungsbeh\u00f6rden Anordnungen erlassen, denen innerhalb einer Stunde entsprochen werden muss. Die Firmen sollen au\u00dferdem Uploadfilter (\u201eautomatisierte Werkzeuge\u201c gegen erneutes Hochladen) installieren. Auch das BKA beteiligt sich an den Vorbereitungen mit einer \u201enationalen Meldestelle\u201c, die seit ihrem kurzen Bestehen bereits 6.000 Meldungen zur Entfernung von Inhalten verschickt hat.\r\nSchlie\u00dflich arbeitet die EU an einer Neuauflage der Vorratsdatenspeicherung von Telekommunikationsdaten. Im Juni haben die Innenminister hierzu Schlussfolgerungen erlassen, die den Fahrplan vorgeben. Zwar ist die Rede von einer \u201ebeschr\u00e4nkten\u201c Vorratsdatenspeicherung. Tats\u00e4chlich wollen die Polizeien und Geheimdienste aber nur auf wenige Informationen verzichten, darunter die L\u00e4nge genutzter Antennen, die Verbindungsqualit\u00e4t oder die Zahl der Klingelt\u00f6ne des genutzten Telefons. Auch Berufsgeheimnistr\u00e4ger werden anlasslos \u00fcberwacht, au\u00dfer sie stellen einen Antrag auf Befreiung.\r\nL\u00e4ngst beschlossen und umgesetzt ist die EU-Richtlinie zur Speicherung von Fluggastdaten. Airlines, Reiseb\u00fcros und andere Reiseanbieter m\u00fcssen vor jedem internationalen Flug \u201ePassenger Name Records\u201c (PNR) an die zust\u00e4ndige Fluggastdatenzentralstelle \u00fcbermitteln. Allein in Deutschland werden in den n\u00e4chsten Monaten 500 neue Stellen bei BKA, Bundespolizei, Zoll und Verwaltungsamt besetzt. Diese ufer- und anlasslose Vorratsdatenspeicherung ist ein gutes schlechtes Beispiel, weshalb den noch zu beschlie\u00dfenden EU-Vorhaben entschlossen entgegengetreten werden muss.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 8990,
-            "public_name": "Matthias Monroy"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10195.html",
+  "id": 10195,
+  "guid": "ffe2c816-e1d4-4457-8a2d-6c953cc3de17",
+  "logo": null,
+  "date": "2019-08-23T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10195-neue_europaische_uberwachungslandschaft",
+  "title": "Neue europ\u00e4ische \u00dcberwachungslandschaft",
+  "subtitle": "",
+  "track": "Ethics, Society & Politics",
+  "type": "lecture",
+  "language": "de",
+  "abstract": "Mit neuen Verordnungen und Richtlinien wachsen in der Europ\u00e4ischen Union weitere Datent\u00f6pfe heran. Internetanbieter sollen au\u00dferdem Inhalte entfernen und Telekommunikationsdaten auf Verlangen herausgeben. Auch der Kreis der Zugriffsberechtigten wird deutlich erweitert. Ganz legal k\u00f6nnten sogar US-Beh\u00f6rden bald in Europa Abh\u00f6ren d\u00fcrfen.",
+  "description": "Unter dem Stichwort \u201eInteroperabilit\u00e4t\u201c vernetzt die Europ\u00e4ische Union ihre gro\u00dfen Datenbanken im Bereich Justiz und Inneres. Der Beschluss fiel bereits, nun steht die Umsetzung an. Fingerabdr\u00fccke und Gesichtsbilder werden in einem \u201egemeinsamen Identit\u00e4tsspeicher\u201c abgelegt und mit einem \u201eEurop\u00e4ischen Suchportal\u201c prozessiert. Mit dem Projekt wird der polizeiliche Datenverkehr drastisch steigen, allein Europol rechnet mit 100.000 t\u00e4glichen Abfragen seiner Dateien.\r\nIm Herbst, wenn sich das neue Parlament konstituiert hat, will die EU au\u00dferdem den Zugriff auf elektronische Beweismittel auf drei Wegen vereinfachen. Die \u201eE-Evidence\u201c-Verordnung\u201c soll die polizeiliche Abfrage von Daten bei Internetfirmen in anderen EU-Staaten unter Androhung hoher Bu\u00dfgelder drastisch erleichtern. F\u00fcr Firmen mit Sitz in den USA plant die EU-Kommission ein Durchf\u00fchrungsabkommen im Rahmen des \u201eCLOUD Act\u201c, den die US-Regierung erlassen hat. Dann k\u00f6nnen auch US-Beh\u00f6rden Daten von Sozialen Netzwerken oder Messengern in Europa abfragen, m\u00f6glich w\u00e4re sogar das Abh\u00f6ren in Echtzeit. Zus\u00e4tzlich verhandelt auch der Europarat \u00fcber die schnelle Herausgabe elektronischer Beweismittel. Die \u201eBudapest-Konvention\u201c zur Kooperation bei Computerstraftaten soll um eine \u201eSicherungsanordnung\u201c erweitert werden.\r\nEbenfalls auf der Tagesordnung stehen die weiteren Verhandlungen f\u00fcr eine Verordnung zur \u201eVerhinderung der Verbreitung terroristischer Online-Inhalte\u201c. Hierzu sollen die Strafverfolgungsbeh\u00f6rden Anordnungen erlassen, denen innerhalb einer Stunde entsprochen werden muss. Die Firmen sollen au\u00dferdem Uploadfilter (\u201eautomatisierte Werkzeuge\u201c gegen erneutes Hochladen) installieren. Auch das BKA beteiligt sich an den Vorbereitungen mit einer \u201enationalen Meldestelle\u201c, die seit ihrem kurzen Bestehen bereits 6.000 Meldungen zur Entfernung von Inhalten verschickt hat.\r\nSchlie\u00dflich arbeitet die EU an einer Neuauflage der Vorratsdatenspeicherung von Telekommunikationsdaten. Im Juni haben die Innenminister hierzu Schlussfolgerungen erlassen, die den Fahrplan vorgeben. Zwar ist die Rede von einer \u201ebeschr\u00e4nkten\u201c Vorratsdatenspeicherung. Tats\u00e4chlich wollen die Polizeien und Geheimdienste aber nur auf wenige Informationen verzichten, darunter die L\u00e4nge genutzter Antennen, die Verbindungsqualit\u00e4t oder die Zahl der Klingelt\u00f6ne des genutzten Telefons. Auch Berufsgeheimnistr\u00e4ger werden anlasslos \u00fcberwacht, au\u00dfer sie stellen einen Antrag auf Befreiung.\r\nL\u00e4ngst beschlossen und umgesetzt ist die EU-Richtlinie zur Speicherung von Fluggastdaten. Airlines, Reiseb\u00fcros und andere Reiseanbieter m\u00fcssen vor jedem internationalen Flug \u201ePassenger Name Records\u201c (PNR) an die zust\u00e4ndige Fluggastdatenzentralstelle \u00fcbermitteln. Allein in Deutschland werden in den n\u00e4chsten Monaten 500 neue Stellen bei BKA, Bundespolizei, Zoll und Verwaltungsamt besetzt. Diese ufer- und anlasslose Vorratsdatenspeicherung ist ein gutes schlechtes Beispiel, weshalb den noch zu beschlie\u00dfenden EU-Vorhaben entschlossen entgegengetreten werden muss.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8990,
+      "public_name": "Matthias Monroy"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10352.html",
-    "id": 10352,
-    "guid": "9f38e10d-39e2-4380-83bf-26626396e476",
-    "logo": "/system/events/logos/000/010/352/large/network.png?1560351179",
-    "date": "2019-08-25T16:00:00+02:00",
-    "start": "16:00",
-    "duration": "00:45",
-    "room": "Meitner",
-    "slug": "Camp2019-10352-visualization_of_networks_using_physics",
-    "title": "Visualization of networks using physics",
-    "subtitle": "How algorithms inspired by the laws of physics can create elegant and informative visual representations of complex networks",
-    "track": "Science",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "The beautifully complex structures often found in Nature arise from the collective interaction of huge numbers of particles moving under very simple forces.\r\nStarting from this fact, I will present how we can encode simple physical properties into large scale networks in a way that mimics a physical system and leads to elegant structures in 2d or 3d space. \r\nAfter introducing some basic concepts, a large part of the talk will consist of animated demonstrations of network evolution towards a final layout. The talk is aimed at scientists and curious non-scientists alike.",
-    "description": "Large networks (graphs) appear in many types of human activity: computer, social, transportation, biological, and other networks that model the various connections and interactions in a system.\r\nNetworks are often depicted visually as sets of points on a plane connected by lines - at large scales however, this image becomes too difficult to interpret due to high density of points and/or too many line crossings. So it is essential to determine an ideal placement of the network's parts in order to reveal its structure in the most clear and informative way.\r\nThe laws of physics inherently contain dynamics capable of creating aesthetically appealing arrangements of high complexity, as can be seen in snowflakes, soap bubbles, crystals, or molecules in 3d space. By encoding physical qualities and dynamics in a network, we can leverage the laws of motion and the corresponding forces to let them shape the network. As the network is now acting like a physical system, it evolves towards a configuration of minimum energy and reaches a final state that exposes the symmetries, connected parts, and other features, in analogy to the wonderfully complex structures found in Nature.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 9056,
-            "public_name": "aphotic"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10352.html",
+  "id": 10352,
+  "guid": "9f38e10d-39e2-4380-83bf-26626396e476",
+  "logo": "/system/events/logos/000/010/352/large/network.png?1560351179",
+  "date": "2019-08-25T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "00:45",
+  "room": "Meitner",
+  "slug": "Camp2019-10352-visualization_of_networks_using_physics",
+  "title": "Visualization of networks using physics",
+  "subtitle": "How algorithms inspired by the laws of physics can create elegant and informative visual representations of complex networks",
+  "track": "Science",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "The beautifully complex structures often found in Nature arise from the collective interaction of huge numbers of particles moving under very simple forces.\r\nStarting from this fact, I will present how we can encode simple physical properties into large scale networks in a way that mimics a physical system and leads to elegant structures in 2d or 3d space. \r\nAfter introducing some basic concepts, a large part of the talk will consist of animated demonstrations of network evolution towards a final layout. The talk is aimed at scientists and curious non-scientists alike.",
+  "description": "Large networks (graphs) appear in many types of human activity: computer, social, transportation, biological, and other networks that model the various connections and interactions in a system.\r\nNetworks are often depicted visually as sets of points on a plane connected by lines - at large scales however, this image becomes too difficult to interpret due to high density of points and/or too many line crossings. So it is essential to determine an ideal placement of the network's parts in order to reveal its structure in the most clear and informative way.\r\nThe laws of physics inherently contain dynamics capable of creating aesthetically appealing arrangements of high complexity, as can be seen in snowflakes, soap bubbles, crystals, or molecules in 3d space. By encoding physical qualities and dynamics in a network, we can leverage the laws of motion and the corresponding forces to let them shape the network. As the network is now acting like a physical system, it evolves towards a configuration of minimum energy and reaches a final state that exposes the symmetries, connected parts, and other features, in analogy to the wonderfully complex structures found in Nature.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9056,
+      "public_name": "aphotic"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

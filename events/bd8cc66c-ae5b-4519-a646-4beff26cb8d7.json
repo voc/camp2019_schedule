@@ -1,0 +1,27 @@
+{
+  "id": 1224,
+  "guid": "bd8cc66c-ae5b-4519-a646-4beff26cb8d7",
+  "logo": null,
+  "date": "2019-08-21T17:00:00+02:00",
+  "start": "17:00",
+  "duration": "0:55",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1224-session_net_neutrality_updates_how_5g_is_used_to_water_down_the_protections_of_the_open_internet",
+  "title": "Net Neutrality updates: How 5G is used to water down the protections of the open internet",
+  "subtitle": "about:stage",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "public_name": "Gnunicorn"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Net_Neutrality_updates:_How_5G_is_used_to_water_down_the_protections_of_the_open_internet"
+  ]
+}

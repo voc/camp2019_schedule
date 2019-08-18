@@ -1,0 +1,28 @@
+{
+  "id": 1086,
+  "guid": "32dfd87c-4f9e-4535-b056-898d41e8f2bc",
+  "logo": null,
+  "date": "2019-08-21T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "0:45",
+  "room": "Village:Harbor",
+  "slug": "camp2019-1086-session_hfos_the_hackerfleet_operating_system",
+  "title": "HFOS - The Hackerfleet Operating System",
+  "subtitle": "Updaates! What happened since last camp?",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "HFOS is the opensource vessel computer system",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Riot",
+      "public_name": "Riot"
+    }
+  ],
+  "links": [
+    "http://hackerfleet.eu",
+    "//events.ccc.de/camp/2019/wiki/Session:HFOS_-_The_Hackerfleet_Operating_System"
+  ]
+}

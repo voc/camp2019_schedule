@@ -1,0 +1,27 @@
+{
+  "id": 1067,
+  "guid": "107bdb89-dabe-4276-9af1-78130e04ef2f",
+  "logo": null,
+  "date": "2019-08-21T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "1:00",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1067-session_estimate_and_calculate_carbon_footprints",
+  "title": "Estimate and calculate carbon footprints",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "en",
+  "abstract": "",
+  "description": "Make a broad calculation of carbon emissions of <foo>.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "public_name": "Gnunicorn"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Estimate_and_calculate_carbon_footprints"
+  ]
+}

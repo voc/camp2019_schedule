@@ -1,0 +1,22 @@
+{
+  "id": 1087,
+  "guid": "4e353d1e-6318-4c8a-b00b-0952f6acea94",
+  "logo": null,
+  "date": "2019-08-24T13:00:00+02:00",
+  "start": "13:00",
+  "duration": "2:00",
+  "room": "Village:ChaosZone",
+  "slug": "camp2019-1087-session_hacker_coop_genossenschaft",
+  "title": "Hacker Coop Genossenschaft",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "de",
+  "abstract": "",
+  "description": "Hacker eG Meetup",
+  "persons": [],
+  "links": [
+    "http://vebit.xyz",
+    "//events.ccc.de/camp/2019/wiki/Session:Hacker_Coop_Genossenschaft"
+  ]
+}

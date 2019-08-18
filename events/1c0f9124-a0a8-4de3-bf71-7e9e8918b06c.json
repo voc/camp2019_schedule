@@ -1,0 +1,22 @@
+{
+  "id": 1115,
+  "guid": "1c0f9124-a0a8-4de3-bf71-7e9e8918b06c",
+  "logo": null,
+  "date": "2019-08-23T17:05:00+02:00",
+  "start": "17:05",
+  "duration": "1:30",
+  "room": "Village:C-base",
+  "slug": "camp2019-1115-session_pentagame",
+  "title": "Pentagame",
+  "subtitle": "An abstract board game",
+  "track": "self organized sessions",
+  "type": "game",
+  "language": "de",
+  "abstract": "",
+  "description": "New abstract board game explained and played",
+  "persons": [],
+  "links": [
+    "http://pentagame.org",
+    "//events.ccc.de/camp/2019/wiki/Session:Pentagame"
+  ]
+}

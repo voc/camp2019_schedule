@@ -1,0 +1,27 @@
+{
+  "id": 1203,
+  "guid": "fa4e46b5-6c08-4e4d-8385-2d1327450aab",
+  "logo": null,
+  "date": "2019-08-24T11:00:00+02:00",
+  "start": "11:00",
+  "duration": "10:00",
+  "room": "Village:Schaffenburg",
+  "slug": "camp2019-1203-session_goc",
+  "title": "GOC",
+  "subtitle": "Destillation",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "Gin Operation Center",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Fraxinas",
+      "public_name": "Fraxinas"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:GOC"
+  ]
+}

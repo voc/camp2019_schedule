@@ -1,0 +1,27 @@
+{
+  "id": 1072,
+  "guid": "Fb15c229-c580-4974-bd7c-affaa7002089",
+  "logo": null,
+  "date": "2019-08-21T15:30:00+02:00",
+  "start": "15:30",
+  "duration": "0:45",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1072-session_forderungen_des_b_b",
+  "title": "Forderungen des B & B",
+  "subtitle": "about:stage",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "public_name": "Gnunicorn"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Forderungen_des_B_%26_B"
+  ]
+}

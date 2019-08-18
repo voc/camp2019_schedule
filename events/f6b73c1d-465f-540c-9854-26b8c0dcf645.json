@@ -1,0 +1,32 @@
+{
+  "id": 140,
+  "guid": "f6b73c1d-465f-540c-9854-26b8c0dcf645",
+  "logo": "/media/thms/images/VT87DH/Cadus_logo_camp_2.png",
+  "date": "2019-08-24T14:00:00+00:00",
+  "start": "14:00",
+  "duration": "01:00",
+  "room": "Workshop",
+  "slug": "VT87DH",
+  "url": "http://talx.thm.cloud/thms/talk/VT87DH/",
+  "title": "Meet CADUS! Humanitarian Aid goes Open Source",
+  "subtitle": "",
+  "track": "Workshop",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the \"consultation hours\" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.",
+  "description": "During this particular format of \"consultation hours\" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).\r\nConsultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 43,
+      "code": "ZUGZGF",
+      "public_name": "Corinna Cadus",
+      "biography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

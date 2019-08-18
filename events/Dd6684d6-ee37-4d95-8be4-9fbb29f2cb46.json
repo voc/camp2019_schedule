@@ -1,0 +1,28 @@
+{
+  "id": 1092,
+  "guid": "Dd6684d6-ee37-4d95-8be4-9fbb29f2cb46",
+  "logo": null,
+  "date": "2019-08-24T10:00:00+02:00",
+  "start": "10:00",
+  "duration": "2:00",
+  "room": "Village:Belgian Embassy",
+  "slug": "camp2019-1092-session_icibici",
+  "title": "Icibici",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "build a simple brain-computer interface for \u20ac20",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Espero",
+      "public_name": "Espero"
+    }
+  ],
+  "links": [
+    "https://icibici.github.io/site/",
+    "//events.ccc.de/camp/2019/wiki/Session:Icibici"
+  ]
+}

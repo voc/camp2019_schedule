@@ -1,0 +1,28 @@
+{
+  "id": 1125,
+  "guid": "8b5b201f-6a6e-46da-bf71-a4ebc9fb2f49",
+  "logo": null,
+  "date": "2019-08-23T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "5:00",
+  "room": "Village:Scottish Consulate",
+  "slug": "camp2019-1125-session_scottish_drinking_night",
+  "title": "Scottish Drinking Night",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "",
+  "abstract": "",
+  "description": "Come and join The Scottish Consulate for our semi regular outreach event, learn to drink like a true scotsperson.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Adventureloop",
+      "public_name": "Adventureloop"
+    }
+  ],
+  "links": [
+    "http://scottishconsulate.org",
+    "//events.ccc.de/camp/2019/wiki/Session:Scottish_Drinking_Night"
+  ]
+}

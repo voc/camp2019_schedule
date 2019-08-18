@@ -1,0 +1,32 @@
+{
+  "id": 144,
+  "guid": "c1dbaff1-600d-5496-9de7-2ee0b55ee993",
+  "logo": "",
+  "date": "2019-08-21T22:30:00+00:00",
+  "start": "22:30",
+  "duration": "02:00",
+  "room": "Plank",
+  "slug": "DBZNBY",
+  "url": "http://talx.thm.cloud/thms/talk/DBZNBY/",
+  "title": "Muzkat Soundsystem - FUNK",
+  "subtitle": "",
+  "track": "Music",
+  "type": "DJ Set",
+  "language": "en",
+  "abstract": "Jazzy Sprint",
+  "description": "camp FUNK\r\n\r\nDJ/Liveset - Soul, Jazz, Funk",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 48,
+      "code": "9E8RNQ",
+      "public_name": "muzkat soundsystem",
+      "biography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

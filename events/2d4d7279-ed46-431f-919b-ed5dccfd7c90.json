@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10326.html",
-    "id": 10326,
-    "guid": "2d4d7279-ed46-431f-919b-ed5dccfd7c90",
-    "logo": "/system/events/logos/000/010/326/large/hsm.png?1560278463",
-    "date": "2019-08-24T22:00:00+02:00",
-    "start": "22:00",
-    "duration": "00:45",
-    "room": "Meitner",
-    "slug": "Camp2019-10326-physical_unclonable_functions_the_future_technology_for_physical_security_enclosures",
-    "title": "Physical Unclonable Functions: The Future Technology for Physical Security Enclosures?",
-    "subtitle": "",
-    "track": "Security",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "In this talk, I will give an overview of the past, present, and possible future of physical security enclosures, i.e., the physical boundary that protects Hardware Security Modules (HSMs) and separates the untrusted outside from the secret data inside the module. I will present an analysis of the hardware security features in some selected HSMs, ranging from sensitive carbon meshes, over light detectors, up to temperature sensors. Since the security of these solutions has recently been questioned and some of them have been discontinued, new technologies have been proposed by several research groups, which will be presented in the second half of my talk. I will give insight into the current research regarding future solutions whose security is based on Physical Unclonable Functions (PUFs). Via this technology, cryptographic keys are extracted from intrinsic manufacturing variation of the enclosure itself. Thus, a violation of the delicate enclosure results in immediate loss of information and thereby voids cryptographic keys - in theory. Finally, I will discuss existing drawbacks and issues which have to be resolved, which currently prevent PUFs from protecting HSMs.",
-    "description": "Hardware Security modules (HSMs) in servers, such as for VPN or banking applications, are commonly protected via physical security enclosures. This boundary, which consists of a conductive mesh that entirely surrounds the module under protection, is continuously monitored to detect any physical intrusion and subsequently wipe critical data. Since attack tools have improved and some enclosure solutions have been discontinued, a desire for a new technology has emerged.\r\n\r\nAt first, I present state-of-the-art solutions for HSMs which conform up to the highest security level: FIPS 140-2 level 4. Knowledge about these solutions was gained by accurate disassembly of such modules, obtained via a famous online market place. While some solutions have a very delicate mesh surrounding the entire device, others have additional light and temperature sensors that are countermeasures against common physical attacks.\r\nHowever, many physical security enclosures have been discontinued, sometimes due to suspected insecurity, thus, there is demand for a successor.\r\n\r\nThe second part of my presentation focuses on a novel technology for enclosures, based on Physical Unclonable Functions (PUFs). These PUFs, which are currently investigated by several research groups, are uncontrollable minuscule manufacturing variations which are present, for example, in a conductive mesh of a security enclosure. One solution, that I am doing research at, is able to extract femto-farad (10^-15) capacitance variations from electric traces contained in the enclosure. Cryptographic keys are derived from the PUF which is subsequently used to encrypt the underlying system data. If an attacker damages the enclosure in an attempt to gain access, these delicate variations are altered, the key changes, and critical data cannot be recovered anymore.\r\nDespite PUFs provide real tamper-sensitive key storage, they are accompanied by some drawbacks, e.g., sensitivity to environmental conditions, aging, etc. which have to be tackled via additional means.\r\n\r\nFinally, I will discuss the current status of the development of PUF enclosures and outline the issues that have to be resolved to enable PUF-based security enclosures to secure future HSMs.\r\n\r\n(I will try to bring some real-world samples, so that there is the option to have a close look after the talk. However, I have to check this with my institute first.)\r\n\r\nAbout the presenter:\r\n\r\nI am currently doing my PhD at a research institute that focuses on embedded security. I am in the final phase of my dissertation about physical security enclosures, based on PUFs. This offers me a deep insight into the current development status of Physical Security Enclosures. In this talk, I want to share my experience with various solutions, from an analysis of a few up to the development of others. My goal is to discuss novel PUF-based solutions openly to raise awareness and to encourage more research into this interesting direction - from attacks up to countermeasures.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 9019,
-            "public_name": "Johannes"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10326.html",
+  "id": 10326,
+  "guid": "2d4d7279-ed46-431f-919b-ed5dccfd7c90",
+  "logo": "/system/events/logos/000/010/326/large/hsm.png?1560278463",
+  "date": "2019-08-24T22:00:00+02:00",
+  "start": "22:00",
+  "duration": "00:45",
+  "room": "Meitner",
+  "slug": "Camp2019-10326-physical_unclonable_functions_the_future_technology_for_physical_security_enclosures",
+  "title": "Physical Unclonable Functions: The Future Technology for Physical Security Enclosures?",
+  "subtitle": "",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "In this talk, I will give an overview of the past, present, and possible future of physical security enclosures, i.e., the physical boundary that protects Hardware Security Modules (HSMs) and separates the untrusted outside from the secret data inside the module. I will present an analysis of the hardware security features in some selected HSMs, ranging from sensitive carbon meshes, over light detectors, up to temperature sensors. Since the security of these solutions has recently been questioned and some of them have been discontinued, new technologies have been proposed by several research groups, which will be presented in the second half of my talk. I will give insight into the current research regarding future solutions whose security is based on Physical Unclonable Functions (PUFs). Via this technology, cryptographic keys are extracted from intrinsic manufacturing variation of the enclosure itself. Thus, a violation of the delicate enclosure results in immediate loss of information and thereby voids cryptographic keys - in theory. Finally, I will discuss existing drawbacks and issues which have to be resolved, which currently prevent PUFs from protecting HSMs.",
+  "description": "Hardware Security modules (HSMs) in servers, such as for VPN or banking applications, are commonly protected via physical security enclosures. This boundary, which consists of a conductive mesh that entirely surrounds the module under protection, is continuously monitored to detect any physical intrusion and subsequently wipe critical data. Since attack tools have improved and some enclosure solutions have been discontinued, a desire for a new technology has emerged.\r\n\r\nAt first, I present state-of-the-art solutions for HSMs which conform up to the highest security level: FIPS 140-2 level 4. Knowledge about these solutions was gained by accurate disassembly of such modules, obtained via a famous online market place. While some solutions have a very delicate mesh surrounding the entire device, others have additional light and temperature sensors that are countermeasures against common physical attacks.\r\nHowever, many physical security enclosures have been discontinued, sometimes due to suspected insecurity, thus, there is demand for a successor.\r\n\r\nThe second part of my presentation focuses on a novel technology for enclosures, based on Physical Unclonable Functions (PUFs). These PUFs, which are currently investigated by several research groups, are uncontrollable minuscule manufacturing variations which are present, for example, in a conductive mesh of a security enclosure. One solution, that I am doing research at, is able to extract femto-farad (10^-15) capacitance variations from electric traces contained in the enclosure. Cryptographic keys are derived from the PUF which is subsequently used to encrypt the underlying system data. If an attacker damages the enclosure in an attempt to gain access, these delicate variations are altered, the key changes, and critical data cannot be recovered anymore.\r\nDespite PUFs provide real tamper-sensitive key storage, they are accompanied by some drawbacks, e.g., sensitivity to environmental conditions, aging, etc. which have to be tackled via additional means.\r\n\r\nFinally, I will discuss the current status of the development of PUF enclosures and outline the issues that have to be resolved to enable PUF-based security enclosures to secure future HSMs.\r\n\r\n(I will try to bring some real-world samples, so that there is the option to have a close look after the talk. However, I have to check this with my institute first.)\r\n\r\nAbout the presenter:\r\n\r\nI am currently doing my PhD at a research institute that focuses on embedded security. I am in the final phase of my dissertation about physical security enclosures, based on PUFs. This offers me a deep insight into the current development status of Physical Security Enclosures. In this talk, I want to share my experience with various solutions, from an analysis of a few up to the development of others. My goal is to discuss novel PUF-based solutions openly to raise awareness and to encourage more research into this interesting direction - from attacks up to countermeasures.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9019,
+      "public_name": "Johannes"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

@@ -1,0 +1,27 @@
+{
+  "id": 1113,
+  "guid": "894825a6-c54e-4260-9a23-ce3d50aa5b0b",
+  "logo": null,
+  "date": "2019-08-23T15:00:00+02:00",
+  "start": "15:00",
+  "duration": "1:00",
+  "room": "Village:Scottish Consulate",
+  "slug": "camp2019-1113-session_packet_radio_meetup",
+  "title": "Packet Radio Meetup",
+  "subtitle": "The state of play",
+  "track": "self organized sessions",
+  "type": "discussion",
+  "language": "en",
+  "abstract": "",
+  "description": "Packet Radio Enthusiasts get together",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Hibby",
+      "public_name": "Hibby"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Packet_Radio_Meetup"
+  ]
+}

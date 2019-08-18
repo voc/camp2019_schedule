@@ -1,0 +1,32 @@
+{
+  "id": 128,
+  "guid": "0c7c6703-86ba-5059-897b-682e51056488",
+  "logo": "",
+  "date": "2019-08-23T01:00:00+00:00",
+  "start": "01:00",
+  "duration": "02:00",
+  "room": "Plank",
+  "slug": "UPTJXZ",
+  "url": "http://talx.thm.cloud/thms/talk/UPTJXZ/",
+  "title": "Meta Meta Cloud Beats",
+  "subtitle": "",
+  "track": "Music",
+  "type": "DJ Set",
+  "language": "en",
+  "abstract": "Ein DJ Set von Skorpy",
+  "description": "Skorpy provides you with two hours of filthy and clean techno beats.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 34,
+      "code": "CGVXUL",
+      "public_name": "skorpy",
+      "biography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

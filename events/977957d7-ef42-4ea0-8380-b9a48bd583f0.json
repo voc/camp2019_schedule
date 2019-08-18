@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10189.html",
-    "id": 10189,
-    "guid": "977957d7-ef42-4ea0-8380-b9a48bd583f0",
-    "logo": null,
-    "date": "2019-08-21T12:00:00+02:00",
-    "start": "12:00",
-    "duration": "00:45",
-    "room": "Meitner",
-    "slug": "Camp2019-10189-knoten_101",
-    "title": "Knoten 101",
-    "subtitle": "Can you knot or can you not ?",
-    "track": "Hardware & Making",
-    "type": "lecture",
-    "language": "de",
-    "abstract": "Die CCC-family geht campen, das heisst der Knoten wird ausnahmsweise vom abstrakten mathematischen Konzept zur ganz realen Anwendung von Seil und Schnur. Was da alles schiefgehen kann, wo Knoten herkommen und wer sie verwendet wird hier kurz und knackig bearbeitet.",
-    "description": "Knoten sind eines dieser Dinge, die man anwendet bevor man sich bewusst ist was man da gerade tut, und gleichzeitig gibt es so viele verschiedene Knoten die in anderen Umfeldern verwendet werden, dass ein ganzheitlicher \u00dcberblick \u00fcber die Materie kaum zu kriegen ist, nicht zuletzt wegen den horrenden Nomenklaturproblemen. In relativ kurzer Zeit werden hier die gef\u00e4hrlichsten, schlechtesten, praktischsten und unbekanntesten Knoten gezeigt, komplett ohne Mathematik und dergleichen.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 8875,
-            "public_name": "Lukas \"cube\" Hannen"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10189.html",
+  "id": 10189,
+  "guid": "977957d7-ef42-4ea0-8380-b9a48bd583f0",
+  "logo": null,
+  "date": "2019-08-21T12:00:00+02:00",
+  "start": "12:00",
+  "duration": "00:45",
+  "room": "Meitner",
+  "slug": "Camp2019-10189-knoten_101",
+  "title": "Knoten 101",
+  "subtitle": "Can you knot or can you not ?",
+  "track": "Hardware & Making",
+  "type": "lecture",
+  "language": "de",
+  "abstract": "Die CCC-family geht campen, das heisst der Knoten wird ausnahmsweise vom abstrakten mathematischen Konzept zur ganz realen Anwendung von Seil und Schnur. Was da alles schiefgehen kann, wo Knoten herkommen und wer sie verwendet wird hier kurz und knackig bearbeitet.",
+  "description": "Knoten sind eines dieser Dinge, die man anwendet bevor man sich bewusst ist was man da gerade tut, und gleichzeitig gibt es so viele verschiedene Knoten die in anderen Umfeldern verwendet werden, dass ein ganzheitlicher \u00dcberblick \u00fcber die Materie kaum zu kriegen ist, nicht zuletzt wegen den horrenden Nomenklaturproblemen. In relativ kurzer Zeit werden hier die gef\u00e4hrlichsten, schlechtesten, praktischsten und unbekanntesten Knoten gezeigt, komplett ohne Mathematik und dergleichen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8875,
+      "public_name": "Lukas \"cube\" Hannen"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

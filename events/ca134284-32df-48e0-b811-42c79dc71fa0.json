@@ -1,33 +1,33 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10285.html",
-    "id": 10285,
-    "guid": "ca134284-32df-48e0-b811-42c79dc71fa0",
-    "logo": null,
-    "date": "2019-08-23T12:00:00+02:00",
-    "start": "12:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10285-nachhaltige_blockchains",
-    "title": "Nachhaltige Blockchains",
-    "subtitle": " statt Digital und Dreckig",
-    "track": "Science",
-    "type": "lecture",
-    "language": "de",
-    "abstract": "Erfolg der kryptographischen W\u00e4hrung Bitcoin, zu einer der\r\n  meistdiskutierten \"neuen\" Technologien entwickelt. Der sehr schnelle\r\n  Aufstieg von Bitcoin hat viele Problemstellungen zum verteilten\r\n  Vertrauensmanagement, dem Energieverbrauch und dem Schutz der\r\n  Privatsph\u00e4re von interessanten Forschungsfragen zu wichtigen\r\n  Herausforderungen f\u00fcr eine nachhaltige wirtschaftliche und\r\n  gesellschaftliche Entwicklung werden lassen. Wir diskutieren, wie wir\r\n  mit recht \u00fcberschaubaren mathematischen Verbesserungen f\u00fcr weniger\r\n  umweltsch\u00e4dliche, weniger sich zentralisierende und\r\n  datenschutzfreundliche Systeme sorgen k\u00f6nnen. ",
-    "description": "  Innerhalb weniger Jahre haben sich Blockchains, insbesondere durch den Erfolg der kryptographischen W\u00e4hrung Bitcoin, zu einer der\r\n  meistdiskutierten \"neuen\" Technologien entwickelt. Der sehr schnelle\r\n  Aufstieg von Bitcoin hat viele Problemstellungen zum verteilten\r\n  Vertrauensmanagement, dem Energieverbrauch und dem Schutz der\r\n  Privatsph\u00e4re von interessanten Forschungsfragen zu wichtigen\r\n  Herausforderungen f\u00fcr eine nachhaltige wirtschaftliche und\r\n  gesellschaftliche Entwicklung werden lassen. Wir diskutieren, wie wir\r\n  mit recht \u00fcberschaubaren mathematischen Verbesserungen f\u00fcr weniger\r\n  umweltsch\u00e4dliche, weniger sich zentralisierende und\r\n  datenschutzfreundliche Systeme sorgen k\u00f6nnen.\r\n",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 1545,
-            "public_name": "ruedi"
-        }
-    ],
-    "links": [
-        {
-            "url": "https://www.deutschlandfunk.de/blockchain-stories-5-digital-und-dreckig.807.de.html?dram:article_id=435999",
-            "title": "Deutschlandfunk: Digital und dreckig"
-        }
-    ],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10285.html",
+  "id": 10285,
+  "guid": "ca134284-32df-48e0-b811-42c79dc71fa0",
+  "logo": null,
+  "date": "2019-08-23T12:00:00+02:00",
+  "start": "12:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10285-nachhaltige_blockchains",
+  "title": "Nachhaltige Blockchains",
+  "subtitle": " statt Digital und Dreckig",
+  "track": "Science",
+  "type": "lecture",
+  "language": "de",
+  "abstract": "Erfolg der kryptographischen W\u00e4hrung Bitcoin, zu einer der\r\n  meistdiskutierten \"neuen\" Technologien entwickelt. Der sehr schnelle\r\n  Aufstieg von Bitcoin hat viele Problemstellungen zum verteilten\r\n  Vertrauensmanagement, dem Energieverbrauch und dem Schutz der\r\n  Privatsph\u00e4re von interessanten Forschungsfragen zu wichtigen\r\n  Herausforderungen f\u00fcr eine nachhaltige wirtschaftliche und\r\n  gesellschaftliche Entwicklung werden lassen. Wir diskutieren, wie wir\r\n  mit recht \u00fcberschaubaren mathematischen Verbesserungen f\u00fcr weniger\r\n  umweltsch\u00e4dliche, weniger sich zentralisierende und\r\n  datenschutzfreundliche Systeme sorgen k\u00f6nnen. ",
+  "description": "  Innerhalb weniger Jahre haben sich Blockchains, insbesondere durch den Erfolg der kryptographischen W\u00e4hrung Bitcoin, zu einer der\r\n  meistdiskutierten \"neuen\" Technologien entwickelt. Der sehr schnelle\r\n  Aufstieg von Bitcoin hat viele Problemstellungen zum verteilten\r\n  Vertrauensmanagement, dem Energieverbrauch und dem Schutz der\r\n  Privatsph\u00e4re von interessanten Forschungsfragen zu wichtigen\r\n  Herausforderungen f\u00fcr eine nachhaltige wirtschaftliche und\r\n  gesellschaftliche Entwicklung werden lassen. Wir diskutieren, wie wir\r\n  mit recht \u00fcberschaubaren mathematischen Verbesserungen f\u00fcr weniger\r\n  umweltsch\u00e4dliche, weniger sich zentralisierende und\r\n  datenschutzfreundliche Systeme sorgen k\u00f6nnen.\r\n",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 1545,
+      "public_name": "ruedi"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.deutschlandfunk.de/blockchain-stories-5-digital-und-dreckig.807.de.html?dram:article_id=435999",
+      "title": "Deutschlandfunk: Digital und dreckig"
+    }
+  ],
+  "attachments": []
 }

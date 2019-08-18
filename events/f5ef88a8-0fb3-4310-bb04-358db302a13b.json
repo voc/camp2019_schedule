@@ -1,28 +1,32 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10387.html",
-    "id": 10387,
-    "guid": "f5ef88a8-0fb3-4310-bb04-358db302a13b",
-    "logo": null,
-    "date": "2019-08-25T18:00:00+02:00",
-    "start": "18:00",
-    "duration": "00:30",
-    "room": "Curie",
-    "slug": "Camp2019-10387-closing_ceremony",
-    "title": "Closing ceremony",
-    "subtitle": "",
-    "track": "CCC",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "A farewell.",
-    "description": "",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 7797,
-            "public_name": "jinxx"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10387.html",
+  "id": 10387,
+  "guid": "f5ef88a8-0fb3-4310-bb04-358db302a13b",
+  "logo": null,
+  "date": "2019-08-25T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "00:30",
+  "room": "Curie",
+  "slug": "Camp2019-10387-closing_ceremony",
+  "title": "Closing ceremony",
+  "subtitle": "",
+  "track": "CCC",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "A farewell.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 7797,
+      "public_name": "jinxx"
+    },
+    {
+      "id": 4827,
+      "public_name": "smtw"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

@@ -1,0 +1,28 @@
+{
+  "id": 1088,
+  "guid": "26d4b72f-d202-4047-a66e-976290546aa7",
+  "logo": null,
+  "date": "2019-08-24T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "1:30",
+  "room": "Village:Ecohackerfarm",
+  "slug": "camp2019-1088-session_hackerspaces_org_meetup",
+  "title": "Hackerspaces.org meetup",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "en",
+  "abstract": "",
+  "description": "an opportunity to get involved and catch up with the hackerspaces.org community",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Aimeejulia",
+      "public_name": "Aimeejulia"
+    }
+  ],
+  "links": [
+    "https://wiki.hackerspaces.org/",
+    "//events.ccc.de/camp/2019/wiki/Session:Hackerspaces.org_meetup"
+  ]
+}

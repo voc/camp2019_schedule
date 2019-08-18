@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10186.html",
-    "id": 10186,
-    "guid": "f7df9294-6e67-4def-bf45-441663d489f6",
-    "logo": "/system/events/logos/000/010/186/large/46016304734_01e1af5c2d_k.jpg?1559458608",
-    "date": "2019-08-21T18:00:00+02:00",
-    "start": "18:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10186-spispy_spi_flash_device_emulation",
-    "title": "spispy: SPI flash device emulation",
-    "subtitle": "Open source tools for flash emulation and research",
-    "track": "Hardware & Making",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "<a href=\"https://github.com/osresearch/spispy\">spispy</a> is an open source hardware tool for emulating SPI flash chips that makes firmware development and boot security research easier. In this talk we'll discuss the challenges of interfacing on the SPI bus and emulating SPI devices, as well as demonstrate how to use it quickly debug issues with coreboot and how we used spispy to discover a critical class of TOCTOU vulnerabilities in secure boot systems like Intel BootGuard.",
-    "description": "",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 4825,
-            "public_name": "Trammell Hudson"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10186.html",
+  "id": 10186,
+  "guid": "f7df9294-6e67-4def-bf45-441663d489f6",
+  "logo": "/system/events/logos/000/010/186/large/46016304734_01e1af5c2d_k.jpg?1559458608",
+  "date": "2019-08-21T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10186-spispy_spi_flash_device_emulation",
+  "title": "spispy: SPI flash device emulation",
+  "subtitle": "Open source tools for flash emulation and research",
+  "track": "Hardware & Making",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "<a href=\"https://github.com/osresearch/spispy\">spispy</a> is an open source hardware tool for emulating SPI flash chips that makes firmware development and boot security research easier. In this talk we'll discuss the challenges of interfacing on the SPI bus and emulating SPI devices, as well as demonstrate how to use it quickly debug issues with coreboot and how we used spispy to discover a critical class of TOCTOU vulnerabilities in secure boot systems like Intel BootGuard.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 4825,
+      "public_name": "Trammell Hudson"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10272.html",
-    "id": 10272,
-    "guid": "cd241757-8364-4eb1-8173-f049b54efca7",
-    "logo": null,
-    "date": "2019-08-25T14:00:00+02:00",
-    "start": "14:00",
-    "duration": "00:45",
-    "room": "Meitner",
-    "slug": "Camp2019-10272-die_zukunft_hat_zwei_wellen",
-    "title": "Die Zukunft hat zwei Wellen",
-    "subtitle": "Ein Blick auf die Zukunft der Freifunk-Hardware (und was wir mit der alten tun k\u00f6nnen)",
-    "track": "Hardware & Making",
-    "type": "lecture",
-    "language": "de",
-    "abstract": "Freifunk steht vor dem Abgrund, der Flash ist voll, der RAM ist zu klein, so l\u00f6t doch einfach neuen ein? Wir betrachten hier die aktuellen Probleme die viele Communities mit ihrer Hardwarebasis erleben und betrachten die Vor- und Nachteile der verschiedenen Wege, diese Probleme zu l\u00f6sen.",
-    "description": "Freifunk steht vor dem Abgrund, der Flash ist voll, der RAM ist zu klein, so l\u00f6t doch einfach neuen ein? Wir betrachten hier die aktuellen Probleme die viele Communities mit ihrer Hardwarebasis erleben und betrachten die Vor- und Nachteile der verschiedenen Wege, diese Probleme zu l\u00f6sen.\r\n\r\nDabei schauen wir uns zurerst die aktuelle Entwicklung auf dem WLAN-Hardwaremarkt an und welche Unterst\u00fctzung Gluon bereits f\u00fcr Moderne WLAN-Hardware bietet, wie man selber die Unterst\u00fctzung neuer Hardware verbessern kann und dem angehenden Freifunker erleichtert das richtige Ger\u00e4t f\u00fcr sich und seinen Anwendungsfall zu finden.\r\n\r\nIm Anschluss betrachten wir die aktuellen Herausforderungen die viele Communities gerade mit stark limitierter Hardware trifft und m\u00f6chten auch einen Blick auf kommende Herausforderungen werfen.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 9053,
-            "public_name": "blocktrron"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10272.html",
+  "id": 10272,
+  "guid": "cd241757-8364-4eb1-8173-f049b54efca7",
+  "logo": null,
+  "date": "2019-08-25T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "00:45",
+  "room": "Meitner",
+  "slug": "Camp2019-10272-die_zukunft_hat_zwei_wellen",
+  "title": "Die Zukunft hat zwei Wellen",
+  "subtitle": "Ein Blick auf die Zukunft der Freifunk-Hardware (und was wir mit der alten tun k\u00f6nnen)",
+  "track": "Hardware & Making",
+  "type": "lecture",
+  "language": "de",
+  "abstract": "Freifunk steht vor dem Abgrund, der Flash ist voll, der RAM ist zu klein, so l\u00f6t doch einfach neuen ein? Wir betrachten hier die aktuellen Probleme die viele Communities mit ihrer Hardwarebasis erleben und betrachten die Vor- und Nachteile der verschiedenen Wege, diese Probleme zu l\u00f6sen.",
+  "description": "Freifunk steht vor dem Abgrund, der Flash ist voll, der RAM ist zu klein, so l\u00f6t doch einfach neuen ein? Wir betrachten hier die aktuellen Probleme die viele Communities mit ihrer Hardwarebasis erleben und betrachten die Vor- und Nachteile der verschiedenen Wege, diese Probleme zu l\u00f6sen.\r\n\r\nDabei schauen wir uns zurerst die aktuelle Entwicklung auf dem WLAN-Hardwaremarkt an und welche Unterst\u00fctzung Gluon bereits f\u00fcr Moderne WLAN-Hardware bietet, wie man selber die Unterst\u00fctzung neuer Hardware verbessern kann und dem angehenden Freifunker erleichtert das richtige Ger\u00e4t f\u00fcr sich und seinen Anwendungsfall zu finden.\r\n\r\nIm Anschluss betrachten wir die aktuellen Herausforderungen die viele Communities gerade mit stark limitierter Hardware trifft und m\u00f6chten auch einen Blick auf kommende Herausforderungen werfen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9053,
+      "public_name": "blocktrron"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

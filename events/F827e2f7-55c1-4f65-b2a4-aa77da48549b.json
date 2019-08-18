@@ -1,0 +1,28 @@
+{
+  "id": 1030,
+  "guid": "F827e2f7-55c1-4f65-b2a4-aa77da48549b",
+  "logo": null,
+  "date": "2019-08-22T19:00:00+02:00",
+  "start": "19:00",
+  "duration": "2:00",
+  "room": "Goldberg (Workshop 2)",
+  "slug": "camp2019-1030-session_arch_linux_meetup",
+  "title": "Arch Linux Meetup",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "discussion",
+  "language": "en",
+  "abstract": "",
+  "description": "Arch Linux user meetup",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Foxboron",
+      "public_name": "Foxboron"
+    }
+  ],
+  "links": [
+    "https://archlinux.org",
+    "//events.ccc.de/camp/2019/wiki/Session:Arch_Linux_Meetup"
+  ]
+}

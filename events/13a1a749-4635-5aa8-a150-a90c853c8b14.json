@@ -1,0 +1,27 @@
+{
+  "id": 1188,
+  "guid": "13a1a749-4635-5aa8-a150-a90c853c8b14",
+  "logo": null,
+  "date": "2019-08-21T14:30:00+02:00",
+  "start": "14:30",
+  "duration": "0:55",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1188-session_creative_commons",
+  "title": "Creative commons",
+  "subtitle": "verstehen, anwenden, weiterdenken",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Ein Vortrag \u00fcber Creative Commons. verstehen, anwenden, weiterdenken.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Tunda",
+      "public_name": "Tunda"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Creative_commons"
+  ]
+}

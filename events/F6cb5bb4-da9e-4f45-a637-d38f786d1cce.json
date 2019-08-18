@@ -1,0 +1,21 @@
+{
+  "id": 1075,
+  "guid": "F6cb5bb4-da9e-4f45-a637-d38f786d1cce",
+  "logo": null,
+  "date": "2019-08-23T15:00:00+02:00",
+  "start": "15:00",
+  "duration": "0:55",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1075-session_freedom_cruise_about_gff",
+  "title": "Freedom Cruise, about:GFF",
+  "subtitle": "about:stage",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "",
+  "persons": [],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Freedom_Cruise,_about:GFF"
+  ]
+}

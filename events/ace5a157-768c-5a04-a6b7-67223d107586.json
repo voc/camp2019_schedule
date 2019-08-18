@@ -1,0 +1,27 @@
+{
+  "id": 1007,
+  "guid": "ace5a157-768c-5a04-a6b7-67223d107586",
+  "logo": null,
+  "date": "2019-08-24T11:00:00+02:00",
+  "start": "11:00",
+  "duration": "12:59",
+  "room": "Village:HardwareHackingArea",
+  "slug": "camp2019-1007-session_learn_to_solder",
+  "title": "Learn To Solder",
+  "subtitle": "Day 4",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br> <br> <span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!  All day & all night, throughout all of CCCamp2019.'''''</span>",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Maltman23",
+      "public_name": "Maltman23"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder"
+  ]
+}

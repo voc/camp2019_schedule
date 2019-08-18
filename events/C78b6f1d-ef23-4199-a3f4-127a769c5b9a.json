@@ -1,0 +1,27 @@
+{
+  "id": 1094,
+  "guid": "C78b6f1d-ef23-4199-a3f4-127a769c5b9a",
+  "logo": null,
+  "date": "2019-08-22T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "0:55",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1094-session_implementation_of_the_copyright_directive_how_to_prevent_the_worst_in_your_home_country_",
+  "title": "Implementation of the Copyright Directive: How to prevent the worst in your home country?",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "public_name": "Gnunicorn"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Implementation_of_the_Copyright_Directive:_How_to_prevent_the_worst_in_your_home_country%3F"
+  ]
+}

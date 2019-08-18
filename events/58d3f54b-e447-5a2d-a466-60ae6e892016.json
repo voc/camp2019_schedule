@@ -1,0 +1,32 @@
+{
+  "id": 154,
+  "guid": "58d3f54b-e447-5a2d-a466-60ae6e892016",
+  "logo": "",
+  "date": "2019-08-25T03:00:00+00:00",
+  "start": "03:00",
+  "duration": "02:00",
+  "room": "Plank",
+  "slug": "RZSKBC",
+  "url": "http://talx.thm.cloud/thms/talk/RZSKBC/",
+  "title": "bam",
+  "subtitle": "",
+  "track": "Music",
+  "type": "DJ Set",
+  "language": "en",
+  "abstract": "bam",
+  "description": "bam",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8,
+      "code": "TMXW3G",
+      "public_name": "THM Lounge",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

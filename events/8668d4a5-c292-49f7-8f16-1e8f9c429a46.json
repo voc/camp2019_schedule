@@ -1,0 +1,27 @@
+{
+  "id": 1100,
+  "guid": "8668d4a5-c292-49f7-8f16-1e8f9c429a46",
+  "logo": null,
+  "date": "2019-08-23T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "1:30",
+  "room": "Village:Haecksen",
+  "slug": "camp2019-1100-session_junges_chaos_bildet_banden",
+  "title": "Junges Chaos Bildet Banden",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "de",
+  "abstract": "",
+  "description": "Wir wollen Junge Leute im Chaos Umfeld vernetzen und die Jugendarbeit in den einzelnen Spaces st\u00e4rken. Komm vorbei, trink eine Mate und lass die Welt ver\u00e4ndern.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Scammo",
+      "public_name": "Scammo"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Junges_Chaos_Bildet_Banden"
+  ]
+}

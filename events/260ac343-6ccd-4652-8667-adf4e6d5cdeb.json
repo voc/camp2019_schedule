@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10268.html",
-    "id": 10268,
-    "guid": "260ac343-6ccd-4652-8667-adf4e6d5cdeb",
-    "logo": null,
-    "date": "2019-08-24T22:00:00+02:00",
-    "start": "22:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10268-architecture_of_secure_iot_devices",
-    "title": "Architecture of secure IoT devices",
-    "subtitle": "Security by design",
-    "track": "Security",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "This talk will present a secure IoT architecture by design, incorporating secure boot (such as HAB of iMx6), secure update processes, system partitioning and redundancy, system recovery, flash wear-out, and secure remote access, ",
-    "description": "This talk will present a secure IoT architecture by design, incorporating secure boot (such as HAB of iMx6), secure update processes, system partitioning and redundancy, system recovery, flash wear-out, and secure remote access, ",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 3031,
-            "public_name": "frehberg"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10268.html",
+  "id": 10268,
+  "guid": "260ac343-6ccd-4652-8667-adf4e6d5cdeb",
+  "logo": null,
+  "date": "2019-08-24T22:00:00+02:00",
+  "start": "22:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10268-architecture_of_secure_iot_devices",
+  "title": "Architecture of secure IoT devices",
+  "subtitle": "Security by design",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "This talk will present a secure IoT architecture by design, incorporating secure boot (such as HAB of iMx6), secure update processes, system partitioning and redundancy, system recovery, flash wear-out, and secure remote access, ",
+  "description": "This talk will present a secure IoT architecture by design, incorporating secure boot (such as HAB of iMx6), secure update processes, system partitioning and redundancy, system recovery, flash wear-out, and secure remote access, ",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3031,
+      "public_name": "frehberg"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

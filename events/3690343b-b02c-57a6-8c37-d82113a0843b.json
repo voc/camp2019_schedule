@@ -1,0 +1,32 @@
+{
+  "id": 120,
+  "guid": "3690343b-b02c-57a6-8c37-d82113a0843b",
+  "logo": "/media/thms/images/ZMERMD/photo_2019-07-18_18-58-45.jpg",
+  "date": "2019-08-22T15:15:00+00:00",
+  "start": "15:15",
+  "duration": "02:00",
+  "room": "Workshop",
+  "slug": "ZMERMD",
+  "url": "http://talx.thm.cloud/thms/talk/ZMERMD/",
+  "title": "werdeteildesgesamtwiderstandes",
+  "subtitle": "",
+  "track": "Workshop",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "werdeteildesgesamtwiderstandes ist eine Objekt gewordene Handlungsanweisung die dazu anregt sich mit anderen menschen zu verbinden. Im Workshop bauen wir diesen analogen synthesizer, jeder kann mitmachen, vorkenntnisse sind nicht erforderlich, f\u00fcr menschen ab 8.",
+  "description": "werdeteildesgesamtwiderstandes ist eine Objekt gewordene Handlungsanweisung die dazu anregt sich mit anderen menschen zu verbinden. \r\nwerdeteildesgesamtwiderstandes ist ein analoger Synthesizer bei dem du selber teil der Schaltung wirst,\r\nsobald seine beiden enden \u00fcber einen K\u00f6rperkontakt geschlossen werden, t\u00f6nt der gesamtwiderstand. die Tonh\u00f6he h\u00e4ngt dabei von der Anzahl der beteiligten Menschen ab. je mehr Teilnehmer*innen desto tiefer wird der Ton. du kannst den Gesamtwiderstand wie ein Instrument spielen, ein einfacher Rhythmus entsteht durch wiederholtes anfassen und loslassen. gleichzeitig bildet sich beim spielen ein kleines soziales Netzwerk mit der Besonderheit dass dieses Netzwerk ganz physisch ist und nicht virtuell. nur die haut leitet den Strom und nur durch anfassen entsteht der ton. dies ist in Zeiten virtueller sozialer Netzwerke ein erfrischendes Erlebnis das gro\u00dfen spa\u00df macht.\r\nmaximal 8 teilnehmer*innen, alter ab 8",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 29,
+      "code": "3TMUJD",
+      "public_name": "christian faubel",
+      "biography": "Christian Faubel ist ein interdisziplin\u00e4rer Wissenschaftler und K\u00fcnstler. Er ist promovierter Elektroingenieur und hat von 2002-2012 am Institut f\u00fcr Neuroinformatik zu autonomen Systemen geforscht. Von 2012 bis 2018 war er Dozent an der Kunsthochschule f\u00fcr Medien K\u00f6ln im Bereich experimentelle Informatik. 2002 hat er das Kollektiv derstrudel, zur Vermittlung eines entspannten Zugangs zu Elektronik und Robotik, gegr\u00fcndet. Mit derstrudel hat er mehr als 50 Workshops zum Bau einfacher analoger Roboter im Rahmen internationaler Festivals durchgef\u00fchrt. In seiner k\u00fcnstlerischen Arbeit interessiert ihn was autonomes Verhalten erm\u00f6glicht und wie komplexes Verhalten aus dem Zusammenspiel und den Interaktionsdynamiken einfacher Elemente entstehen kann. Mit seinen Arbeiten macht er theoretische Konzepte wie Selbstorganisation, Emergenz oder Embodiment \u00e4sthetisch erfahrbar und sieht seine Arbeiten in der Tradition philosophischer Spielzeuge.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

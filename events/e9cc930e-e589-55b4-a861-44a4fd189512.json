@@ -1,0 +1,32 @@
+{
+  "id": 159,
+  "guid": "e9cc930e-e589-55b4-a861-44a4fd189512",
+  "logo": "",
+  "date": "2019-08-25T05:00:00+00:00",
+  "start": "05:00",
+  "duration": "02:00",
+  "room": "Plank",
+  "slug": "CNDUXW",
+  "url": "http://talx.thm.cloud/thms/talk/CNDUXW/",
+  "title": ".merlin",
+  "subtitle": "",
+  "track": "Music",
+  "type": "DJ Set",
+  "language": "en",
+  "abstract": ".merlin",
+  "description": ".merlin",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8,
+      "code": "TMXW3G",
+      "public_name": "THM Lounge",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1071,
+  "guid": "Fc555301-996c-470a-a095-5d03182c3f27",
+  "logo": null,
+  "date": "2019-08-24T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "1:00",
+  "room": "Village:HardwareHackingArea",
+  "slug": "camp2019-1071-session_flippie_hacking_flip_dot_displays",
+  "title": "Flippie - Hacking Flip-Dot Displays",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "Hacking flip-dot displays",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Ssaschaa",
+      "public_name": "Ssaschaa"
+    }
+  ],
+  "links": [
+    "https://github.com/545ch4/flippie",
+    "//events.ccc.de/camp/2019/wiki/Session:Flippie_-_Hacking_Flip-Dot_Displays"
+  ]
+}

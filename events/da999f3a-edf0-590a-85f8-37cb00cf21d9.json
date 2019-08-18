@@ -1,0 +1,32 @@
+{
+  "id": 108,
+  "guid": "da999f3a-edf0-590a-85f8-37cb00cf21d9",
+  "logo": "",
+  "date": "2019-08-22T21:30:00+00:00",
+  "start": "21:30",
+  "duration": "01:00",
+  "room": "Plank",
+  "slug": "9P8DR9",
+  "url": "http://talx.thm.cloud/thms/talk/9P8DR9/",
+  "title": "15 Jahre netzpolitik.org",
+  "subtitle": "",
+  "track": "Talk",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Im Sommer 2004 erschienen die erste Artikel auf netzpolitik.org. Was als Seitenprojekt begann, entwickelte sich in 15 Jahren zu einer der schlagkr\u00e4ftigsten Organisationen zur Verteidigung von digitalen Grundrechten in Deutschland.",
+  "description": "Der Vortrag will einen nicht ganz ernsten \u00dcberblick \u00fcber die Geschichte von netzpolitik.org geben, was auch eine kleine Geschichte der digitalen Zivilgesellschaft in Deutschland ist. Von den erfolgreichen K\u00e4mpfen gegen Softwarepatente \u00fcber die Vorratsdatenspeicherung und Zensursula bis hin zu ACTA und den Uploadfiltern.\r\n\r\nMit Bildern, Screenshots und vielleicht auch dem einen oder anderen kurzen Video.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 19,
+      "code": "PTPT3U",
+      "public_name": "Markus Beckedahl",
+      "biography": "Ich hab mal netzpolitik.org gestartet und finde das Internet meistens immer noch toll.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

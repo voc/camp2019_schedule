@@ -1,0 +1,21 @@
+{
+  "id": 1101,
+  "guid": "8ee75b4c-727a-44d8-ae76-3da535871523",
+  "logo": null,
+  "date": "2019-08-21T15:00:00+02:00",
+  "start": "15:00",
+  "duration": "1:30",
+  "room": "",
+  "slug": "camp2019-1101-session_kubernetes_security_overview",
+  "title": "Kubernetes Security Overview",
+  "subtitle": "Kubernetes Security Basics",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "Kubernetes makes it easy to deploy microservices. However, the price is a huge amount of complexity. If you use Kubernetes, it is high time to learn the basics of container and Kubernetes security.  Handson workshop on selected topics of Kubernetes security.",
+  "persons": [],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Kubernetes_Security_Overview"
+  ]
+}

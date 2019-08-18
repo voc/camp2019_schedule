@@ -1,0 +1,29 @@
+{
+  "id": 1214,
+  "guid": "b611cda2-eeb8-432e-b56b-41266684f84f",
+  "logo": null,
+  "date": "2019-08-22T10:30:00+02:00",
+  "start": "10:30",
+  "duration": "2:55",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1214-session_ink_write_wasm_smart_contracts_with_rust",
+  "title": "Ink!: Write Wasm smart contracts with Rust",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "en",
+  "abstract": "",
+  "description": "A comprehensive, end-to-end tutorial for building an ERC20 token using Parity Substrate and ink! - build on Rust and wasm",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "public_name": "Gnunicorn"
+    }
+  ],
+  "links": [
+    "https://substrate.dev/substrate-contracts-workshop/#/",
+    "https://substrate.dev/en/tutorials",
+    "//events.ccc.de/camp/2019/wiki/Session:Ink!:_Write_Wasm_smart_contracts_with_Rust"
+  ]
+}

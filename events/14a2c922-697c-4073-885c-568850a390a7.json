@@ -1,33 +1,33 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10200.html",
-    "id": 10200,
-    "guid": "14a2c922-697c-4073-885c-568850a390a7",
-    "logo": "/system/events/logos/000/010/200/large/Disruptionlab.png?1559640910",
-    "date": "2019-08-23T14:00:00+02:00",
-    "start": "14:00",
-    "duration": "00:45",
-    "room": "Meitner",
-    "slug": "Camp2019-10200-exposing_systems_of_power_and_injustice",
-    "title": "Exposing Systems of Power and Injustice",
-    "subtitle": "5 Years of Disruption Network Lab",
-    "track": "Art & Culture",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "Presenting the Disruption Network Lab programme in Berlin, we will connect the debate on surveillance and whistleblowing to a cultural framework, analysing the influence of whistleblowing in empowering both experts and non-experts. A talk with Tatiana T_Bazz Bazzichelli and Lieke Ploeger / Disruption Network Lab.",
-    "description": "The act of whistleblowing is a concrete process able to reveal hidden facts, misconducts and wrongdoings of institutions and corporations, producing awareness about social, political and technological matters, informing about the reality we live in. Presenting the Disruption Network Lab programme in Berlin, we will connect the debate on surveillance and whistleblowing to a cultural framework, analysing the influence of whistleblowing in empowering both experts and non-experts. The talk will present the mutual interference between whistleblowing, art, hacking, and network development, as well as reflect on the influence of whistleblowing in the art & cultural field. This presentation aims to further question what we can collectively offer to encourage a critical debate on the effects of whistleblowing in society, as well as to generate experimental ways of thinking within the digital scenario.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 8888,
-            "public_name": "Tatiana Bazzichelli / Disruption Network Lab"
-        }
-    ],
-    "links": [],
-    "attachments": [
-        {
-            "url": "/system/event_attachments/attachments/000/003/743/original/01_20151212_Chelsea_Manning_Network.jpg?1559640910",
-            "title": "Keep Fighting, photo by Nadine Nelken and Chelsea Manning Initiative Berlin"
-        }
-    ]
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10200.html",
+  "id": 10200,
+  "guid": "14a2c922-697c-4073-885c-568850a390a7",
+  "logo": "/system/events/logos/000/010/200/large/Disruptionlab.png?1559640910",
+  "date": "2019-08-23T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "00:45",
+  "room": "Meitner",
+  "slug": "Camp2019-10200-exposing_systems_of_power_and_injustice",
+  "title": "Exposing Systems of Power and Injustice",
+  "subtitle": "5 Years of Disruption Network Lab",
+  "track": "Art & Culture",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Presenting the Disruption Network Lab programme in Berlin, we will connect the debate on surveillance and whistleblowing to a cultural framework, analysing the influence of whistleblowing in empowering both experts and non-experts. A talk with Tatiana T_Bazz Bazzichelli and Lieke Ploeger / Disruption Network Lab.",
+  "description": "The act of whistleblowing is a concrete process able to reveal hidden facts, misconducts and wrongdoings of institutions and corporations, producing awareness about social, political and technological matters, informing about the reality we live in. Presenting the Disruption Network Lab programme in Berlin, we will connect the debate on surveillance and whistleblowing to a cultural framework, analysing the influence of whistleblowing in empowering both experts and non-experts. The talk will present the mutual interference between whistleblowing, art, hacking, and network development, as well as reflect on the influence of whistleblowing in the art & cultural field. This presentation aims to further question what we can collectively offer to encourage a critical debate on the effects of whistleblowing in society, as well as to generate experimental ways of thinking within the digital scenario.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8888,
+      "public_name": "Tatiana Bazzichelli / Disruption Network Lab"
+    }
+  ],
+  "links": [],
+  "attachments": [
+    {
+      "url": "/system/event_attachments/attachments/000/003/743/original/01_20151212_Chelsea_Manning_Network.jpg?1559640910",
+      "title": "Keep Fighting, photo by Nadine Nelken and Chelsea Manning Initiative Berlin"
+    }
+  ]
 }

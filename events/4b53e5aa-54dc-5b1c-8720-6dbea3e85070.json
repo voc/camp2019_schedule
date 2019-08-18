@@ -1,0 +1,32 @@
+{
+  "id": 151,
+  "guid": "4b53e5aa-54dc-5b1c-8720-6dbea3e85070",
+  "logo": "",
+  "date": "2019-08-25T16:30:00+00:00",
+  "start": "16:30",
+  "duration": "01:00",
+  "room": "Plank",
+  "slug": "7QKPYA",
+  "url": "http://talx.thm.cloud/thms/talk/7QKPYA/",
+  "title": "Verstehbahnhof and beyond -- building the ultimate digital playground",
+  "subtitle": "",
+  "track": "Talk",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Less than two years ago, we set out to create a hacker-and makerspace in\r\nthe rural countryside of Brandenburg, twenty something minutes\r\nnorth-west of camp, in Fuerstenberg/Havel. Dubbed \"Verstehbahnhof\", as\r\nit is located in the local (and still operating) trainstation, the space\r\nwas setup as an open educational space for the up- and coming and a\r\nshared workshop and space for like-minded grown-ups. This project, by\r\nnow, has grown into much more than that. And we think it is time for you\r\nto know about a few things.",
+  "description": "Eight years ago, when we left camp, Anke and I turned north instead of\r\nsouth, and drove into our new home located just around the corner. Two\r\nyears later, we and some of our new neighbors, had established a small\r\ncrowd of young people learning soldering and programming in our place,\r\nwhich grew into a regular class in the local elementary school, which\r\nthen, in 2017, grew into a local hacker- and maker space called\r\n\"Verstehbahnhof\". The young in mind, we transformed the old waiting hall\r\nof our local train station into an educational venue which, 11 months\r\nago, grew into more rooms including a proper workshop with an attached\r\nlounge and a soon to be finished and awesome social kitchen. To add to\r\nthe mix, we are building a water-cooled data center right now, and have\r\nmore possible internet bandwidth available than our whole region could\r\never use up -- including camp. With the data center come a LoRaWAN- and\r\nWiFi-backbone for the city, and sooner than later FTTH. We are turning\r\nour small town into the ultimate digital playground possible, one step\r\nat a time. We believe this development is highly relevant for many of\r\nyou for many different reasons and would like to talk about that.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 57,
+      "code": "TMFRPT",
+      "public_name": "ddb",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

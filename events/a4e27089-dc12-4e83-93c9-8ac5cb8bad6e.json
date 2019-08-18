@@ -1,33 +1,33 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10286.html",
-    "id": 10286,
-    "guid": "a4e27089-dc12-4e83-93c9-8ac5cb8bad6e",
-    "logo": null,
-    "date": "2019-08-21T21:00:00+02:00",
-    "start": "21:00",
-    "duration": "00:45",
-    "room": "Meitner",
-    "slug": "Camp2019-10286-math_protected_social_interactions",
-    "title": "Math Protected Social Interactions",
-    "subtitle": "",
-    "track": "Security",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "We have learned that Math might be our last defence line against\r\na real existing all-encompassing surveillance. One central challenge\r\nin this conflict is to combine authentication and anonymity.\r\nNumber theory provides us many tools to create really surprising\r\ntechnologies for social communication. A lot of these technologies\r\nhave not yet been brought to the world of concrete implementations.\r\nThis has the implication that some ideas which have been presented\r\nyears ago are not covered by patents any more.\r\n",
-    "description": "We have learned that Math might be our last defence line against\r\na real existing all-encompassing surveillance. One central challenge\r\nin this conflict is to combine authentication and anonymity.\r\nNumber theory provides us many tools to create really surprising\r\ntechnologies for social communication. A lot of these technologies\r\nhave not yet been brought to the world of concrete implementations.\r\nThis has the implication that some ideas which have been presented\r\nyears ago are not covered by patents any more.\r\n",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 1545,
-            "public_name": "ruedi"
-        }
-    ],
-    "links": [],
-    "attachments": [
-        {
-            "url": "/system/event_attachments/attachments/000/003/762/original/WeisKirschnerOpenSummit2016AuthAnonymity.pdf?1560249849",
-            "title": "Weis, Kirschner, Authenticated Anonymity by Math "
-        }
-    ]
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10286.html",
+  "id": 10286,
+  "guid": "a4e27089-dc12-4e83-93c9-8ac5cb8bad6e",
+  "logo": null,
+  "date": "2019-08-21T21:00:00+02:00",
+  "start": "21:00",
+  "duration": "00:45",
+  "room": "Meitner",
+  "slug": "Camp2019-10286-math_protected_social_interactions",
+  "title": "Math Protected Social Interactions",
+  "subtitle": "",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "We have learned that Math might be our last defence line against\r\na real existing all-encompassing surveillance. One central challenge\r\nin this conflict is to combine authentication and anonymity.\r\nNumber theory provides us many tools to create really surprising\r\ntechnologies for social communication. A lot of these technologies\r\nhave not yet been brought to the world of concrete implementations.\r\nThis has the implication that some ideas which have been presented\r\nyears ago are not covered by patents any more.\r\n",
+  "description": "We have learned that Math might be our last defence line against\r\na real existing all-encompassing surveillance. One central challenge\r\nin this conflict is to combine authentication and anonymity.\r\nNumber theory provides us many tools to create really surprising\r\ntechnologies for social communication. A lot of these technologies\r\nhave not yet been brought to the world of concrete implementations.\r\nThis has the implication that some ideas which have been presented\r\nyears ago are not covered by patents any more.\r\n",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 1545,
+      "public_name": "ruedi"
+    }
+  ],
+  "links": [],
+  "attachments": [
+    {
+      "url": "/system/event_attachments/attachments/000/003/762/original/WeisKirschnerOpenSummit2016AuthAnonymity.pdf?1560249849",
+      "title": "Weis, Kirschner, Authenticated Anonymity by Math "
+    }
+  ]
 }

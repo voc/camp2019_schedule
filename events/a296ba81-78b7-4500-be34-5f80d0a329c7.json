@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10329.html",
-    "id": 10329,
-    "guid": "a296ba81-78b7-4500-be34-5f80d0a329c7",
-    "logo": "/system/events/logos/000/010/329/large/logoTP.png?1560278804",
-    "date": "2019-08-24T13:00:00+02:00",
-    "start": "13:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10329-technopolice_calling_out_so-called_safe_cities",
-    "title": "Technopolice: calling out so-called \"Safe Cities\"",
-    "subtitle": "Decentralising the fight against automated surveillance in cities.",
-    "track": "Ethics, Society & Politics",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "In many French cities (and beyond), mayors are pushing towards \"safe Smart Cities\", pushing for technology everywhere. Microphones, video-surveillance, automated drones, facial recognition, machine learning is the recipe of their fantasised secure city.\r\n\r\nThis talk will introduce Technopolice, the new campaign from La Quadrature du Net, its goals, its tools, and the way we will make it happen.",
-    "description": "All over the French territory, the \u201cSmart City\u201d is slowly revealing its true colours: a complete and constant surveillance of the urban area for police purposes, based on partnerships between industrial companies such as Thal\u00e8s or Engie and the cities themselves.</br>\r\n\r\nMultiple cities are experimenting \"smart\" videosurveillance based on automated treatment of videos, in order to make face recognition or detecting behaviours deemed to be abnormal. Another city is teaming up with a start-up to deploy microphones and drones in the city. The idea is to detect so-called abnormal sounds to alert the\r\npolice, which can then use video-surveillance to check if a patrol is needed or not. The city of Nice wants to have its own custom citizen reporting application. Marseille wants to use AI and Big Data to predict behaviours\r\nand to help in decision making.</br>\r\n\r\nThis is what they want our future to be: a huge automated surveillance system, with behaviour analysis, emotion recognition, pre-emption of threats, automation of the police, repression of any unwanted behaviour.</br>\r\n\r\nThis comes at a huge cost: instead of the <i> polis </i>, which means Democratic City, a place to stroll around, to meet and gather, we will have a dehumanised, unwanted place, a place to experiment the most advanced forms of social control: there is no such as surveilling just \"to look\", our behaviours are modified just by knowing we are being surveilled. Not to mention the financial and experimental cost of such an architecture.</br>\r\n\r\nIn this talk, I will detail the \"Technopolice\" campaign, its importance for every single human being willing to protect their freedom of movement and right to exist without being constantly subjected to surveillance. I'll explain the importance of decentralising such a campaign, and how we will try to federate the data and the organisations around this project.</br>",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 8988,
-            "public_name": "Guinness"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10329.html",
+  "id": 10329,
+  "guid": "a296ba81-78b7-4500-be34-5f80d0a329c7",
+  "logo": "/system/events/logos/000/010/329/large/logoTP.png?1560278804",
+  "date": "2019-08-24T13:00:00+02:00",
+  "start": "13:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10329-technopolice_calling_out_so-called_safe_cities",
+  "title": "Technopolice: calling out so-called \"Safe Cities\"",
+  "subtitle": "Decentralising the fight against automated surveillance in cities.",
+  "track": "Ethics, Society & Politics",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "In many French cities (and beyond), mayors are pushing towards \"safe Smart Cities\", pushing for technology everywhere. Microphones, video-surveillance, automated drones, facial recognition, machine learning is the recipe of their fantasised secure city.\r\n\r\nThis talk will introduce Technopolice, the new campaign from La Quadrature du Net, its goals, its tools, and the way we will make it happen.",
+  "description": "All over the French territory, the \u201cSmart City\u201d is slowly revealing its true colours: a complete and constant surveillance of the urban area for police purposes, based on partnerships between industrial companies such as Thal\u00e8s or Engie and the cities themselves.</br>\r\n\r\nMultiple cities are experimenting \"smart\" videosurveillance based on automated treatment of videos, in order to make face recognition or detecting behaviours deemed to be abnormal. Another city is teaming up with a start-up to deploy microphones and drones in the city. The idea is to detect so-called abnormal sounds to alert the\r\npolice, which can then use video-surveillance to check if a patrol is needed or not. The city of Nice wants to have its own custom citizen reporting application. Marseille wants to use AI and Big Data to predict behaviours\r\nand to help in decision making.</br>\r\n\r\nThis is what they want our future to be: a huge automated surveillance system, with behaviour analysis, emotion recognition, pre-emption of threats, automation of the police, repression of any unwanted behaviour.</br>\r\n\r\nThis comes at a huge cost: instead of the <i> polis </i>, which means Democratic City, a place to stroll around, to meet and gather, we will have a dehumanised, unwanted place, a place to experiment the most advanced forms of social control: there is no such as surveilling just \"to look\", our behaviours are modified just by knowing we are being surveilled. Not to mention the financial and experimental cost of such an architecture.</br>\r\n\r\nIn this talk, I will detail the \"Technopolice\" campaign, its importance for every single human being willing to protect their freedom of movement and right to exist without being constantly subjected to surveillance. I'll explain the importance of decentralising such a campaign, and how we will try to federate the data and the organisations around this project.</br>",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8988,
+      "public_name": "Guinness"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10181.html",
-    "id": 10181,
-    "guid": "0c8f7472-290c-4bdf-bff0-4a7ce16c4f84",
-    "logo": "/system/events/logos/000/010/181/large/cy_klein.png?1558866315",
-    "date": "2019-08-22T14:00:00+02:00",
-    "start": "14:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10181-automated_security_testing_for_software_developers_who_dont_know_security",
-    "title": "Automated security testing for Software Developers who dont know security!",
-    "subtitle": "secure your apps and servers through continuous integration",
-    "track": "Security",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "i'll show how the average developer (like me) can secure their software and systems by automatically checking for known vulnerabilities and security issues as part of their CI-Toolchain.\r\nThe Talk will introduce basic security knowhow, then show how you can use Open Source Frameworks to check for vulnerable dependencies, containers and (web-)APIs in a live demo",
-    "description": "",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 6479,
-            "public_name": "cy"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10181.html",
+  "id": 10181,
+  "guid": "0c8f7472-290c-4bdf-bff0-4a7ce16c4f84",
+  "logo": "/system/events/logos/000/010/181/large/cy_klein.png?1558866315",
+  "date": "2019-08-22T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10181-automated_security_testing_for_software_developers_who_dont_know_security",
+  "title": "Automated security testing for Software Developers who dont know security!",
+  "subtitle": "secure your apps and servers through continuous integration",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "i'll show how the average developer (like me) can secure their software and systems by automatically checking for known vulnerabilities and security issues as part of their CI-Toolchain.\r\nThe Talk will introduce basic security knowhow, then show how you can use Open Source Frameworks to check for vulnerable dependencies, containers and (web-)APIs in a live demo",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 6479,
+      "public_name": "cy"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

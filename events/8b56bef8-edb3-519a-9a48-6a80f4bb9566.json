@@ -1,0 +1,32 @@
+{
+  "id": 105,
+  "guid": "8b56bef8-edb3-519a-9a48-6a80f4bb9566",
+  "logo": "/media/thms/images/DLS83T/Dc8jzhwW0AA1KDn_1.jpg",
+  "date": "2019-08-22T00:30:00+00:00",
+  "start": "00:30",
+  "duration": "02:00",
+  "room": "Plank",
+  "slug": "DLS83T",
+  "url": "http://talx.thm.cloud/thms/talk/DLS83T/",
+  "title": "live set",
+  "subtitle": "",
+  "track": "Music",
+  "type": "DJ Set",
+  "language": "en",
+  "abstract": "Techno/House/Downtempo",
+  "description": "https://www.mixcloud.com/vidister/",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 15,
+      "code": "QTJV7B",
+      "public_name": "vidister",
+      "biography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

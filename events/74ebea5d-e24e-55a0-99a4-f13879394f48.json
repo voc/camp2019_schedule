@@ -1,0 +1,32 @@
+{
+  "id": 141,
+  "guid": "74ebea5d-e24e-55a0-99a4-f13879394f48",
+  "logo": "",
+  "date": "2019-08-21T16:15:00+00:00",
+  "start": "16:15",
+  "duration": "01:00",
+  "room": "Plank",
+  "slug": "VFBKTL",
+  "url": "http://talx.thm.cloud/thms/talk/VFBKTL/",
+  "title": "Sozial-\u00f6kologische Dimensionen von Digitalisierung",
+  "subtitle": "",
+  "track": "Talk",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Der Vortrag soll einen \u00dcberblick \u00fcber die sozialen und \u00f6kologischen Auswirkungen der Digitalisierung von Dienstleistungen oder Prozessen und der steigenden Vernetzung von elektronischen Ger\u00e4ten geben. Dabei spielt die materielle Basis von Digitalisierung mit der Rohstoffgewinnung und dem Ressourcenverbrauch eine entscheidende Rolle, sowie die enorm steigende Datennutzung. \r\nAnhand von Beispielen wird gezeigt, welche Rebound-Effekte in dem Zusammenhang bestehen und wie sie Effizienzsteigerungen zunichte machen.",
+  "description": "Der Titel bezieht sich auf das Versprechen der Dematerialisierung, welches oft mit Digitalisierung in Verbindung gebracht wird. Es soll kritisch hinterfragt werden, ob Digitalisierung dabei helfen kann, die Umwelt zu schonen, indem weniger Ressourcen verbraucht werden. Am Beispiel des Konsums wird gezeigt, dass die derzeitige Art von Digitalisierung die Umweltzerst\u00f6rung vorantreibt, als sie zu verringern.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 44,
+      "code": "BMHR3B",
+      "public_name": "Nicolas",
+      "biography": "Nicolas ist promovierter Informatiker, der die Wissenschaft hinter sich gelassen hat, um sich auf zivilgesellschaftlicher Seite f\u00fcr einen emanzipatorischen Umgang mit digitalen Technologien einzusetzen. Er arbeitet beim Konzeptwerk Neue \u00d6konomie zu Digitalisierung und ist in der Klimagerechtigkeitsbewegung aktiv.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": 125,
+  "guid": "730b9a78-233a-5fc2-bd47-a64a582e8466",
+  "logo": "/media/thms/images/8NG8AA/Gameboy_Music_Workshop_2011_a.JPG",
+  "date": "2019-08-23T15:30:00+00:00",
+  "start": "15:30",
+  "duration": "02:00",
+  "room": "Workshop",
+  "slug": "8NG8AA",
+  "url": "http://talx.thm.cloud/thms/talk/8NG8AA/",
+  "title": "Gameboy Musik Workshop",
+  "subtitle": "",
+  "track": "Workshop",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Ein Einsteiger-Workshop f\u00fcr alle die schon immer mal Musik mit Gameboys machen wollten.",
+  "description": "Chiptune - oder Musik erzeugt von Soundchips alter Computer, Konsolen und Handhelds ben\u00f6tigt heute keine detaillierten Kenntnisse mehr von Hardware und Assemblersprache. Der Liveact irq7 zeigt wie man einem Gameboy Sounds entlockt und erste Loops damit komponiert. Daf\u00fcr sind keine Vorkenntnisse n\u00f6tig - alles was ihr braucht gibt's beim Workshop. Gerne darf man nat\u00fcrlich Kopfh\u00f6rer und den eigenen Gameboy mitbringen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 32,
+      "code": "U8GPQ7",
+      "public_name": "Hannes Fertala",
+      "biography": "Hannes Fertala ist seit mehreren Jahren in der Chiptune-Szene als Gameboy-Liveact 'irq7' aktiv. Der erste Kontakt zu dieser Art von Musik kam 2003 durch ein Konzert des Gameboymusicclub's in Graz zustande. Daraufhin folgt der Kauf den ersten Gameboys und dann schlie\u00dflich das erste Konzert im Jahr 2006. Davor ein \u00fcberzeugter Fan des Commodore 64 \u2013 Sounds und sammeln erster Erfahrungen mit Tracker-Software am Amiga.\r\nUm noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys selbst zu modifizieren und erweitern. Alle Aktivit\u00e4ten werden seither auf seinem Blog (http://irq7.blogspot.com) ver\u00f6ffentlicht. Des Weiteren ist er seit 2010 Mitorganisator des j\u00e4hrlichen Chiptune-Festivals CHIP HITS THE FAN (http://chiphitsthefan.de) in N\u00fcrnberg.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

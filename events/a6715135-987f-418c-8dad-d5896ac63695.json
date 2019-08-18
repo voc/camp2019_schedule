@@ -1,0 +1,27 @@
+{
+  "id": 1246,
+  "guid": "a6715135-987f-418c-8dad-d5896ac63695",
+  "logo": null,
+  "date": "2019-08-22T10:30:00+02:00",
+  "start": "10:30",
+  "duration": "1:25",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1246-session_treffen_und_diskussion_zur_netzpolitik_in_der_schweiz",
+  "title": "Treffen und Diskussion zur Netzpolitik in der Schweiz",
+  "subtitle": "about:stage",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "de",
+  "abstract": "",
+  "description": "Netzpolitik-Fr\u00fchst\u00fcck: Kaffee & Gipfeli ab 10.30, Vorstellung und Diskussion der aktuellen und anstehenden Themen im Herbst (E-ID, E-Voting, Datenschutzgesetz, Netzneutralit\u00e4t, ...) ab 11.00 Uhr",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Kire",
+      "public_name": "Kire"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Treffen_und_Diskussion_zur_Netzpolitik_in_der_Schweiz"
+  ]
+}

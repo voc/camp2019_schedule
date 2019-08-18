@@ -1,0 +1,32 @@
+{
+  "id": 158,
+  "guid": "6d833231-3c1c-506f-b3fe-dbb08c8bffbc",
+  "logo": "",
+  "date": "2019-08-23T23:00:00+00:00",
+  "start": "23:00",
+  "duration": "01:00",
+  "room": "Plank",
+  "slug": "DKGDLN",
+  "url": "http://talx.thm.cloud/thms/talk/DKGDLN/",
+  "title": "Digitale Freiheit",
+  "subtitle": "",
+  "track": "Music",
+  "type": "Band",
+  "language": "en",
+  "abstract": "Digitale Freiheit",
+  "description": "Digitale Freiheit",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8,
+      "code": "TMXW3G",
+      "public_name": "THM Lounge",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

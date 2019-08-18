@@ -1,0 +1,27 @@
+{
+  "id": 1176,
+  "guid": "a208d05f-cafd-4680-9f4e-760994a1202d",
+  "logo": null,
+  "date": "2019-08-24T17:00:00+02:00",
+  "start": "17:00",
+  "duration": "0:55",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1176-session_advanced_web_tracking_methods",
+  "title": "Advanced web tracking methods",
+  "subtitle": "about:stage",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "Advanced browser tracking techniques have developed over the last decade that allow remote sites to leverage the increasingly feature-rich web to track users without their knowledge or consent.  Not only are distinct visits across sites logged via techniques such as browser fingerprinting, sites that handle our most intimate details are monitoring our behavior on pages and handing that information to third parties with little to no regard to our privacy.  This will cover some of those advanced techniques that have emerged, and how to protect yourself against pervasive web tracking.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Hainish",
+      "public_name": "Hainish"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Advanced_web_tracking_methods"
+  ]
+}

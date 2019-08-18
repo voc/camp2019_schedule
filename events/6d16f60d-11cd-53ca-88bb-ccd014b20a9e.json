@@ -1,0 +1,39 @@
+{
+  "id": 133,
+  "guid": "6d16f60d-11cd-53ca-88bb-ccd014b20a9e",
+  "logo": "/media/thms/images/PEXUEM/nice-view-computerraum.jpg",
+  "date": "2019-08-21T20:00:00+00:00",
+  "start": "20:00",
+  "duration": "01:00",
+  "room": "Plank",
+  "slug": "PEXUEM",
+  "url": "http://talx.thm.cloud/thms/talk/PEXUEM/",
+  "title": "Nice View Reporter",
+  "subtitle": "",
+  "track": "Talk",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Projektwoche an einer Schule in Msambweni, Kenia",
+  "description": "Die Nice View Gratitude School in der kenianischen Kleinstadt Msambweni hat zwar einen eigenen IT-Raum, in dem die rund 150 Sch\u00fclerinnen und Sch\u00fcler lernen, mit Computern umzugehen. Aber die Schule hatte bislang keinen Internet-Anschluss. Und das in Kenia, einem Land, das im Grunde ein riesiger Hub in Sachen Internet-Technik ist, wo an jeder Ecke brauchbare, pragmatische und innovative digitale Anwendungen programmiert werden und mehr als 85 Prozent der Bev\u00f6lkerung \u2013 meist mobilen \u2013 Zugang zum Internet hat. FLMH hat im Januar 2019 die Schule mit einem Internetanschluss ausger\u00fcstet und zusammen mit den Sch\u00fcler*innen und Lehrern eine Projektwoche veranstaltet.\r\n\r\nWebiste der Nice View Reporter: https://nice-view-reporter.org/\r\nProjektbeschreibung: https://www.flmh.de/projekte/nice-view-reporter/",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 37,
+      "code": "KD8CU9",
+      "public_name": "Martin Thomas",
+      "biography": "Martin arbeitet seit 2017 bei &bdquo;FLMH | Labor f\u00fcr Politik und Kommunikation&ldquo; im Bereich Digitale Kommunikation und Social Media.<br/>&#x2192; <a href=\"https://www.flmh.de/\" target=\"_blank\">www.flmh.de</a><br/>\r\n&#9993; <a href=\"mailto:m.thomas@flmh.de\">m.thomas@flmh.de</a>\r\n\r\nSeit 2003 Mitgr\u00fcnder und Heimleiter der &bdquo;Restrealitaet&ldquo;, eines Forums f\u00fcr die Berliner Party- und Subkultur.<br/>&#x2192; <a href=\"https://restrealitaet.de\" target=\"_blank\">www.restrealitaet.de</a><br/>\r\n&#9993; <a href=\"martin@restrealitaet.de\">martin@restrealitaet.de</a>",
+      "answers": []
+    },
+    {
+      "id": 60,
+      "code": "R9WU3Q",
+      "public_name": "Ralf Mueller von der Haegen",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

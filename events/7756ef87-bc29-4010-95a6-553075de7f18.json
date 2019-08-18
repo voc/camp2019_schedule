@@ -1,0 +1,29 @@
+{
+  "id": 1129,
+  "guid": "7756ef87-bc29-4010-95a6-553075de7f18",
+  "logo": null,
+  "date": "2019-08-24T12:00:00+02:00",
+  "start": "12:00",
+  "duration": "3:25",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1129-session_substrate_collectibles_build_your_own_blockchain_backed_asset_exchange",
+  "title": "Substrate Collectibles - Build your own blockchain-backed asset exchange",
+  "subtitle": "Second Iteration",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "en",
+  "abstract": "",
+  "description": "This workshop will take you through building your own collectibles blockchain  - think \"CryptoKitties\" - using Substrate, Rust and WebAssembly.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "public_name": "Gnunicorn"
+    }
+  ],
+  "links": [
+    "https://substrate.dev/substrate-collectables-workshop/#/",
+    "https://substrate.dev/en/tutorials",
+    "//events.ccc.de/camp/2019/wiki/Session:Substrate_Collectibles_-_Build_your_own_blockchain-backed_asset_exchange"
+  ]
+}

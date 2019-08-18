@@ -1,0 +1,32 @@
+{
+  "id": 1098,
+  "guid": "Dc6e98b3-7645-47c9-be4d-91ce0c17a618",
+  "logo": null,
+  "date": "2019-08-23T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "2:00",
+  "room": "Village:Fri3d Camp",
+  "slug": "camp2019-1098-session_iot_meetup",
+  "title": "IoT Meetup",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "en",
+  "abstract": "",
+  "description": "Open meeting to discuss design & ethics of IoT",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Roeckoe",
+      "public_name": "Roeckoe"
+    },
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Tamberg",
+      "public_name": "Tamberg"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:IoT_Meetup"
+  ]
+}

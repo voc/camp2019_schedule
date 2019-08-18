@@ -1,0 +1,32 @@
+{
+  "id": 136,
+  "guid": "879d54a4-a90e-5e0d-8c56-c189ba166c72",
+  "logo": "/media/thms/images/GYWNQP/IMG_9214_ej6Xqgg.JPG",
+  "date": "2019-08-23T19:45:00+00:00",
+  "start": "19:45",
+  "duration": "01:00",
+  "room": "Plank",
+  "slug": "GYWNQP",
+  "url": "http://talx.thm.cloud/thms/talk/GYWNQP/",
+  "title": "Elektroschrott - Welchen letzten Weg geht mein PC?",
+  "subtitle": "",
+  "track": "Talk",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Elektronikschrott ist eine Handelsware. Schrott wird zu Gold. Ger\u00e4te werden \u00fcberall in der Welt mal gut, mal nicht so gut zerlegt. Wer verdient daran? Und was k\u00f6nnen wir tun, dass sich der Export nicht mehr lohnt?",
+  "description": "Die digitale Gesellschaft produziert Elektronikschrott. Dieser besteht aus Kunststoffen, Metallen und Platinen, die unterschiedlichen Verwertungswegen zugef\u00fchrt werden m\u00fcssen. Die beste Trennung ist immer noch das Zerlegen per Hand. Dabei k\u00f6nnen au\u00dferdem nutzbare Einzelteile extrahiert und direkt weiterverwendet werden. Dieses Vorgehen ist \u00f6kologisch sinnvoll, aber nicht besonders \u00f6konomisch. Das spielt aber im Rahmen eines \"Dismantling Caf\u00e9s\" (vis \u00e1 vis dem Repair Caf\u00e9) keine Rolle. Daf\u00fcr gibt es die Sicherheit, dass die eigenen Ger\u00e4te nicht in einer der zahlreichen Dokumentationen \u00fcber Agbotbloshie, den gro\u00dfen Elektroschrottplatz in Ghana, auftauchen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 40,
+      "code": "BZBPSB",
+      "public_name": "lasermax",
+      "biography": "Maker seit Schneider CPC464, Abitur mit 14.400 Baud Modem, Studium ab Windows 3.11. Ingenieur f\u00fcr Theater- und Veranstaltungstechnik, eigene Firma f\u00fcr technische Spezialeffekte auf Veranstaltungen. Nebenberuflich E-Waste Evangelist.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

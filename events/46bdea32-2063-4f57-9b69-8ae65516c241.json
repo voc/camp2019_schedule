@@ -1,0 +1,21 @@
+{
+  "id": 1052,
+  "guid": "46bdea32-2063-4f57-9b69-8ae65516c241",
+  "logo": null,
+  "date": "2019-08-23T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "0:45",
+  "room": "Hackcenter 3",
+  "slug": "camp2019-1052-session_contributing_to_nixpkgs_for_newbies",
+  "title": "Contributing to nixpkgs for Newbies",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "Learn how you can contribute to the nixpkgs git repo",
+  "persons": [],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Contributing_to_nixpkgs_for_Newbies"
+  ]
+}

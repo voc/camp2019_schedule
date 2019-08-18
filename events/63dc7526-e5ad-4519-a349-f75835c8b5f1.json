@@ -1,0 +1,28 @@
+{
+  "id": 1117,
+  "guid": "63dc7526-e5ad-4519-a349-f75835c8b5f1",
+  "logo": null,
+  "date": "2019-08-22T11:00:00+02:00",
+  "start": "11:00",
+  "duration": "1:30",
+  "room": "Village:Ecohackerfarm",
+  "slug": "camp2019-1117-session_powerplant_team_meeting",
+  "title": "Powerplant team meeting",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "en",
+  "abstract": "",
+  "description": "an opportunity for the powerplant team to meet and discuss progress in person",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Aimeejulia",
+      "public_name": "Aimeejulia"
+    }
+  ],
+  "links": [
+    "https://wiki.ecohackerfarm.org/powerplant:start",
+    "//events.ccc.de/camp/2019/wiki/Session:Powerplant_team_meeting"
+  ]
+}

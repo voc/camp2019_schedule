@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10188.html",
-    "id": 10188,
-    "guid": "fef1667a-de02-42f8-9162-6483c5ff5d5f",
-    "logo": null,
-    "date": "2019-08-21T14:00:00+02:00",
-    "start": "14:00",
-    "duration": "00:45",
-    "room": "Meitner",
-    "slug": "Camp2019-10188-die_c-mos-technology_fur_computer-chips",
-    "title": "Die C-MOS-Technology f\u00fcr Computer-Chips",
-    "subtitle": "Wie wird ein Prozessor gebaut?",
-    "track": "Hardware & Making",
-    "type": "lecture",
-    "language": "de",
-    "abstract": "In diesem Vortrag werden die Grundlagen der Silizium-Halbleiter und der  C-MOS-Silizium-Technology vorgestellt und die technischen Abl\u00e4ufe beschrieben, mit denen MOS-Transistoren gebaut werden.",
-    "description": "Der Vortrag beschreibt in kurzer Form die elektrischen Eigenschaften von Silizium und wie darauf aufbauend mit Hilfe technischer Prozesse ein MOS-Transistor gebaut werden kann. Auf die technologischen Prozesse wird genauso eingegangen, wie auf die elektrischen Eigenschaften der fertigen C-MOS Schaltungen.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 8939,
-            "public_name": "Zigulle"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10188.html",
+  "id": 10188,
+  "guid": "fef1667a-de02-42f8-9162-6483c5ff5d5f",
+  "logo": null,
+  "date": "2019-08-21T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "00:45",
+  "room": "Meitner",
+  "slug": "Camp2019-10188-die_c-mos-technology_fur_computer-chips",
+  "title": "Die C-MOS-Technology f\u00fcr Computer-Chips",
+  "subtitle": "Wie wird ein Prozessor gebaut?",
+  "track": "Hardware & Making",
+  "type": "lecture",
+  "language": "de",
+  "abstract": "In diesem Vortrag werden die Grundlagen der Silizium-Halbleiter und der  C-MOS-Silizium-Technology vorgestellt und die technischen Abl\u00e4ufe beschrieben, mit denen MOS-Transistoren gebaut werden.",
+  "description": "Der Vortrag beschreibt in kurzer Form die elektrischen Eigenschaften von Silizium und wie darauf aufbauend mit Hilfe technischer Prozesse ein MOS-Transistor gebaut werden kann. Auf die technologischen Prozesse wird genauso eingegangen, wie auf die elektrischen Eigenschaften der fertigen C-MOS Schaltungen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8939,
+      "public_name": "Zigulle"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

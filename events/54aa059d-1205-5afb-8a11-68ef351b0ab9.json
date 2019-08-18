@@ -1,0 +1,32 @@
+{
+  "id": 124,
+  "guid": "54aa059d-1205-5afb-8a11-68ef351b0ab9",
+  "logo": "",
+  "date": "2019-08-24T16:15:00+00:00",
+  "start": "16:15",
+  "duration": "01:00",
+  "room": "Plank",
+  "slug": "FLXJRA",
+  "url": "http://talx.thm.cloud/thms/talk/FLXJRA/",
+  "title": "Climate breakdown \u2013 the bleak reality",
+  "subtitle": "",
+  "track": "Talk",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Heat waves, wildfires and new movements like Fridays for Future and Extinction Rebellion have brought the climate crisis back into the news. However, meaningful political action is still not happening and the world is on track to three to four degrees of warming. Where are we heading and why did humanity fail so badly at tackling the problem?",
+  "description": "A look at the scientific reality of the climate crisis is dire. Sinking coastal cities with millions of inhabitants, dying coral reefs, and large uninhabitable areas are practically impossible to avoid by now. But that doesn\u2019t even come close to capture the worst outlooks: A runaway climate change where feedback loops accelerate heating [1], without any option for humanity to do anything about it. The end result may very well be a planet largely uninhabitable for humans.\r\n\r\nAvoiding just the worst of these consequences requires unprecedented political action on a scale that\u2019s not even part of the political discourse yet.\r\n\r\nThe talk will give an overview of the troubling scientific facts. Furthermore I\u2019ll provide some discussion why humanity failed so badly at doing anything about it. This includes undeserved optimism by traditional environmental organizations about international climate diplomacy and the Kyoto and Paris accords, a wrong understanding about relative versus absolute emission reductions and false hopes in technology fixes.\r\n\r\nWith all that dire outlook, it\u2019s important to realize that the difference between \u201cbusiness as usual\u201d and ambitious changes is still huge. A new wave of climate doomsdayers that say it\u2019s too late to do anything may be just as harmful as the climate deniers, because they share the wrong message of doing nothing.\r\n\r\n[1] https://www.pik-potsdam.de/news/press-releases/planet-at-risk-of-heading-towards-irreversible-201chothouse-earth201d-state?set_language=en",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 31,
+      "code": "3AZWLV",
+      "public_name": "hanno",
+      "biography": "Hanno B\u00f6ck is a hacker and freelance journalist.\r\nHe is a regular writer for the German online IT magazine Golem.de and writes the monthly Bulletproof TLS Newsletter.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

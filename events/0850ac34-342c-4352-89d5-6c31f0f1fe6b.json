@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10223.html",
-    "id": 10223,
-    "guid": "0850ac34-342c-4352-89d5-6c31f0f1fe6b",
-    "logo": null,
-    "date": "2019-08-24T20:00:00+02:00",
-    "start": "20:00",
-    "duration": "00:45",
-    "room": "Meitner",
-    "slug": "Camp2019-10223-schleuderpackung_2_0",
-    "title": "schleuderpackung 2.0",
-    "subtitle": "TeXnische Aspekte und Umsetzung in der DS-Redaktion",
-    "track": "CCC",
-    "type": "lecture",
-    "language": "de",
-    "abstract": "Technischer \u00dcberblick zum Build-Prozess der Datenschleuder. Vom LaTeX-Backend (schleuderpackung) \u00fcber Continous Integration (Zentrifuge) zum PDF, Epub und HTML-Ausz\u00fcgen.",
-    "description": "Seit der Reanimation der Datenschleuder sind bisher drei Ausgaben erschienen. In dieser Zeit hat sich der technische Prozess deutlich professionalisiert. Der Vortrag gibt einen kurzen \u00dcberblick \u00fcber die Redaktionsarbeit und fokussiert sich anschlie\u00dfend auf die TeXnische Umsetzung inklusive des Buildsystems und der unterschiedlichen Ausgabemodi (PDF/ePUB/HTML).\r\n\r\nDie Anwendung auf allgemeinere Zeitschriftenprojekte wird am Beispiel des Forks einer Sch\u00fclerzeitung gezeigt und mit dem geplanten Release  zum Camp bietet sich damit die M\u00f6glichkeit der Nutzung f\u00fcr eigene Zeitschriftenprojekte. \r\n\r\nDar\u00fcber hinaus liefert der Vortrag durch die Struktur der Schleuderpackung einen Einblick in aktuelle Entwicklungen aus dem LaTeX-Umfeld, wie expl3 Programmierung, die Lua Kopplung und die weitere Planung in Richtung Barrierefreiheit.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 8989,
-            "public_name": "marei"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10223.html",
+  "id": 10223,
+  "guid": "0850ac34-342c-4352-89d5-6c31f0f1fe6b",
+  "logo": null,
+  "date": "2019-08-24T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "00:45",
+  "room": "Meitner",
+  "slug": "Camp2019-10223-schleuderpackung_2_0",
+  "title": "schleuderpackung 2.0",
+  "subtitle": "TeXnische Aspekte und Umsetzung in der DS-Redaktion",
+  "track": "CCC",
+  "type": "lecture",
+  "language": "de",
+  "abstract": "Technischer \u00dcberblick zum Build-Prozess der Datenschleuder. Vom LaTeX-Backend (schleuderpackung) \u00fcber Continous Integration (Zentrifuge) zum PDF, Epub und HTML-Ausz\u00fcgen.",
+  "description": "Seit der Reanimation der Datenschleuder sind bisher drei Ausgaben erschienen. In dieser Zeit hat sich der technische Prozess deutlich professionalisiert. Der Vortrag gibt einen kurzen \u00dcberblick \u00fcber die Redaktionsarbeit und fokussiert sich anschlie\u00dfend auf die TeXnische Umsetzung inklusive des Buildsystems und der unterschiedlichen Ausgabemodi (PDF/ePUB/HTML).\r\n\r\nDie Anwendung auf allgemeinere Zeitschriftenprojekte wird am Beispiel des Forks einer Sch\u00fclerzeitung gezeigt und mit dem geplanten Release  zum Camp bietet sich damit die M\u00f6glichkeit der Nutzung f\u00fcr eigene Zeitschriftenprojekte. \r\n\r\nDar\u00fcber hinaus liefert der Vortrag durch die Struktur der Schleuderpackung einen Einblick in aktuelle Entwicklungen aus dem LaTeX-Umfeld, wie expl3 Programmierung, die Lua Kopplung und die weitere Planung in Richtung Barrierefreiheit.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8989,
+      "public_name": "marei"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

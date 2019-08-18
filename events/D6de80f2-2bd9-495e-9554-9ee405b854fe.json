@@ -1,0 +1,38 @@
+{
+  "id": 1151,
+  "guid": "D6de80f2-2bd9-495e-9554-9ee405b854fe",
+  "logo": null,
+  "date": "2019-08-24T17:00:00+02:00",
+  "start": "17:00",
+  "duration": "1:30",
+  "room": "Village:RoboVillage",
+  "slug": "camp2019-1151-session_sumorobot_programming",
+  "title": "SumoRobot programming",
+  "subtitle": "Day 4 evening",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "de",
+  "abstract": "",
+  "description": "You will be able to write your awesome algorithm and get a blast on the SumoRobot match.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+      "public_name": "Silbo"
+    },
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+      "public_name": "Ivanna"
+    },
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Superwallah",
+      "public_name": "Superwallah"
+    }
+  ],
+  "links": [
+    "https://www.robokoding.com/kits/sumorobot",
+    "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming"
+  ]
+}

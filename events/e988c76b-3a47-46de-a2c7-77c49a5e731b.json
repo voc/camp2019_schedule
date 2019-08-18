@@ -1,37 +1,37 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10238.html",
-    "id": 10238,
-    "guid": "e988c76b-3a47-46de-a2c7-77c49a5e731b",
-    "logo": null,
-    "date": "2019-08-22T17:00:00+02:00",
-    "start": "17:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10238-a_mobile_phone_that_respects_your_freedom",
-    "title": "A mobile phone that respects your freedom",
-    "subtitle": "Experiences and lessons learned from 2 years of development and still ongoing",
-    "track": "Hardware & Making",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "Motivation and challenges building a mobile phone that respects your freedom, privacy and digital rights - and is hackable. This talk will present a summary of a two year journey, which is still ongoing.",
-    "description": "Today mobile phones are _the_ computing device of the decade, maybe even of this century. Almost everyone carries one, every day to every place. They are pretty much always connected and we entrust almost our entire digital life to them - any form of communication (voice, text, video), all kinds of entertainment (reading, web surfing, video/movies), personal information (address books, social media), location (navigation, location sharing) etc. Pretty much our entire digital life is mirrored by these devices and to a growing extent happening right on them.\r\nWhat is often not fully recognized is that this huge ecosystem of mobile hard- and software is controlled by only a very few globe spanning companies. Our digital life is to a large part controlled by these companies and currently there is little way around them.\r\n\r\nThis talk will present the experiences we had and have in this industry creating a mobile phone that is running 100% free software, respects the user's digital rights and gives back full control over data and communication to the user - by separating radios from the main CPU, by providing hardware kill switches and by using only free software for the full stack. We will also talk about the huge challenges encountered, from CPU choice to radio choice up through the software stack. It will also share our approaches to solve these challenges and share experience in working with hardware manufacturing companies (globally), from electronics design to product manufacturing.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 9031,
-            "public_name": "Nicole Faerber"
-        }
-    ],
-    "links": [
-        {
-            "url": "https://puri.sm/products/librem-5/",
-            "title": "Purism Librem 5 product page"
-        },
-        {
-            "url": "https://developer.puri.sm/Librem5/",
-            "title": "Librem5 developer information"
-        }
-    ],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10238.html",
+  "id": 10238,
+  "guid": "e988c76b-3a47-46de-a2c7-77c49a5e731b",
+  "logo": null,
+  "date": "2019-08-22T17:00:00+02:00",
+  "start": "17:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10238-a_mobile_phone_that_respects_your_freedom",
+  "title": "A mobile phone that respects your freedom",
+  "subtitle": "Experiences and lessons learned from 2 years of development and still ongoing",
+  "track": "Hardware & Making",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Motivation and challenges building a mobile phone that respects your freedom, privacy and digital rights - and is hackable. This talk will present a summary of a two year journey, which is still ongoing.",
+  "description": "Today mobile phones are _the_ computing device of the decade, maybe even of this century. Almost everyone carries one, every day to every place. They are pretty much always connected and we entrust almost our entire digital life to them - any form of communication (voice, text, video), all kinds of entertainment (reading, web surfing, video/movies), personal information (address books, social media), location (navigation, location sharing) etc. Pretty much our entire digital life is mirrored by these devices and to a growing extent happening right on them.\r\nWhat is often not fully recognized is that this huge ecosystem of mobile hard- and software is controlled by only a very few globe spanning companies. Our digital life is to a large part controlled by these companies and currently there is little way around them.\r\n\r\nThis talk will present the experiences we had and have in this industry creating a mobile phone that is running 100% free software, respects the user's digital rights and gives back full control over data and communication to the user - by separating radios from the main CPU, by providing hardware kill switches and by using only free software for the full stack. We will also talk about the huge challenges encountered, from CPU choice to radio choice up through the software stack. It will also share our approaches to solve these challenges and share experience in working with hardware manufacturing companies (globally), from electronics design to product manufacturing.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9031,
+      "public_name": "Nicole Faerber"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://puri.sm/products/librem-5/",
+      "title": "Purism Librem 5 product page"
+    },
+    {
+      "url": "https://developer.puri.sm/Librem5/",
+      "title": "Librem5 developer information"
+    }
+  ],
+  "attachments": []
 }

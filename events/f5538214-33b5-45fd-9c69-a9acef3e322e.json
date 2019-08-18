@@ -1,0 +1,28 @@
+{
+  "id": 1186,
+  "guid": "f5538214-33b5-45fd-9c69-a9acef3e322e",
+  "logo": null,
+  "date": "2019-08-21T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "2:00",
+  "room": "Village:Foodhackingbase",
+  "slug": "camp2019-1186-session_cheese_rendezvous",
+  "title": "Cheese Rendezvous",
+  "subtitle": "Session I.",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "Selection of delicious cheeses and condiments for you!",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Algoldor",
+      "public_name": "Algoldor"
+    }
+  ],
+  "links": [
+    "https://foodhackingbase.org/wiki/Cheesetasting_ccccamp2019",
+    "//events.ccc.de/camp/2019/wiki/Session:Cheese_Rendezvous"
+  ]
+}

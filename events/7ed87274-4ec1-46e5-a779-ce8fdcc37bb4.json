@@ -1,0 +1,32 @@
+{
+  "id": 1061,
+  "guid": "7ed87274-4ec1-46e5-a779-ce8fdcc37bb4",
+  "logo": null,
+  "date": "2019-08-24T10:30:00+02:00",
+  "start": "10:30",
+  "duration": "1:25",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1061-session_discussion_on_privacy_friendly_green_policies_in_the_european_union",
+  "title": "Discussion on privacy-friendly green policies in the European Union",
+  "subtitle": "about:sessions",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "How can we combine environmental issues with privacy-friendly solutions? Knowing that privacy comes at a cost of efficiency, what should the red lines be in the privacy VS environment debate? Is the fight for privacy in green policy the beginning of the end for surveillance capitalism?",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Blipp",
+      "public_name": "Blipp"
+    },
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Andreea_(EDRi)",
+      "public_name": "Andreea (EDRi)"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Discussion_on_privacy-friendly_green_policies_in_the_European_Union"
+  ]
+}

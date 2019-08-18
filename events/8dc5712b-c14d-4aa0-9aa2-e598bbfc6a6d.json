@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10334.html",
-    "id": 10334,
-    "guid": "8dc5712b-c14d-4aa0-9aa2-e598bbfc6a6d",
-    "logo": null,
-    "date": "2019-08-22T21:00:00+02:00",
-    "start": "21:00",
-    "duration": "00:45",
-    "room": "Meitner",
-    "slug": "Camp2019-10334-anykernels_meet_fuzzing",
-    "title": "Anykernels meet fuzzing",
-    "subtitle": "how to make NetBSD a better software for you and me",
-    "track": "Security",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "Battle of making the NetBSD better software by leveraging anykernels",
-    "description": "The NetBSD offers RUMP anykernel which lets users to do the magic and execute drivers, network stacks or file systems in userspace. Having kernel parts running in user space is a great opportunity to fuzz them efficiently without fancy kernel approaches. First general information about RUMP will be discussed to get the audience familiar with the subject, then results focused on testing network stack will be presented along with encountered problems and other fuzzing efforts that currently are taking place in the NetBSD project.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 9049,
-            "public_name": "Akat1 Majorana"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10334.html",
+  "id": 10334,
+  "guid": "8dc5712b-c14d-4aa0-9aa2-e598bbfc6a6d",
+  "logo": null,
+  "date": "2019-08-22T21:00:00+02:00",
+  "start": "21:00",
+  "duration": "00:45",
+  "room": "Meitner",
+  "slug": "Camp2019-10334-anykernels_meet_fuzzing",
+  "title": "Anykernels meet fuzzing",
+  "subtitle": "how to make NetBSD a better software for you and me",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Battle of making the NetBSD better software by leveraging anykernels",
+  "description": "The NetBSD offers RUMP anykernel which lets users to do the magic and execute drivers, network stacks or file systems in userspace. Having kernel parts running in user space is a great opportunity to fuzz them efficiently without fancy kernel approaches. First general information about RUMP will be discussed to get the audience familiar with the subject, then results focused on testing network stack will be presented along with encountered problems and other fuzzing efforts that currently are taking place in the NetBSD project.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9049,
+      "public_name": "Akat1 Majorana"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

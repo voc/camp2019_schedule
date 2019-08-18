@@ -1,0 +1,27 @@
+{
+  "id": 1143,
+  "guid": "0ef423eb-0595-4918-9f30-6158ea6227e5",
+  "logo": null,
+  "date": "2019-08-22T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "5:00",
+  "room": "Village:Milliways",
+  "slug": "camp2019-1143-session_whiskyleaks",
+  "title": "Whiskyleaks",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "",
+  "abstract": "",
+  "description": "The traditional Milliways Whiskyleaks, bring a nice bottle of liquor and a glass and share it with other fine human beings, donations welcome.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Adventureloop",
+      "public_name": "Adventureloop"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Whiskyleaks"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1130,
+  "guid": "204465e5-e23b-4063-b46a-255e9489e3b6",
+  "logo": null,
+  "date": "2019-08-23T10:30:00+02:00",
+  "start": "10:30",
+  "duration": "2:55",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1130-session_substrate_verifiable_credentials_build_your_first_infrastructure_blockchain",
+  "title": "Substrate verifiable credentials - build your first infrastructure blockchain",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "",
+  "abstract": "",
+  "description": "In this workshop you'll learn to build your own infrastructure blockchain (for verifiable credentials) using Substrate, Rust and WebAssembly.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "public_name": "Gnunicorn"
+    }
+  ],
+  "links": [
+    "https://substrate.dev/en/tutorials",
+    "//events.ccc.de/camp/2019/wiki/Session:Substrate_verifiable_credentials_-_build_your_first_infrastructure_blockchain"
+  ]
+}

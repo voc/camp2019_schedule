@@ -1,33 +1,33 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10213.html",
-    "id": 10213,
-    "guid": "ca6fc2d4-7b9e-4d1c-b90a-8741cf9bb399",
-    "logo": null,
-    "date": "2019-08-21T17:00:00+02:00",
-    "start": "17:00",
-    "duration": "00:45",
-    "room": "Meitner",
-    "slug": "Camp2019-10213-doh_or_don_t",
-    "title": "DoH or Don't",
-    "subtitle": "The dilemma of DNS privacy protocols",
-    "track": "Security",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "Seldom have DNS protocol changes sparked such fierce debate as happen in the case of DNS-over-HTTPs (Doh) and it's little cousin, DNS-over-TLS (DoT). While for many people it is a matter of black and white, the reality out there is various shades of grey ;)\r\n\r\nThis talk will discuss the technical and political aspects of these DNS privacy protocols, where they come from, who is implementing DoH/DoT (both in the browser space and otherwise) and why it is a [good|bad] idea to support these protocol implementations.",
-    "description": "Since the Snowden revelations, the <a href=\"https://datatracker.ietf.org/wg/dprive/documents/\">DPRIVE (DNS Privacy Exchange) working group</a> inside the IETF has been working on ways to make DNS, the Domain Name System, leaking less privacy related information (aka metadata).\r\n\r\nTwo new protocols from this working group are DNS-over-TLS <a href=\"https://tools.ietf.org/html/rfc7858\">RFC 7858</a> (DoT) and DNS-over-HTTPS <a href=\"https://tools.ietf.org/html/rfc8484\">RFC 8484</a> (DoH). Both protocols secure DNS queries between client systems and DNS resolver using encryption and authentication. DoT runs on a dedicated port 853, while DoH piggybacks on HTTPS (port 443).\r\n\r\nWhile DoT was initially mostly ignored by OS vendors, ISPs and users alike, DoH was adopted by browser vendors (Mozilla/Firefox and Google/Chrome) and created heated discussions among security and privacy experts. Even to the point that governments discussing way to outlaw DoH.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 8916,
-            "public_name": "Carsten Strotmann"
-        }
-    ],
-    "links": [
-        {
-            "url": "https://doh.defaultroutes.de",
-            "title": "DOH/DOT Server and Information"
-        }
-    ],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10213.html",
+  "id": 10213,
+  "guid": "ca6fc2d4-7b9e-4d1c-b90a-8741cf9bb399",
+  "logo": null,
+  "date": "2019-08-21T17:00:00+02:00",
+  "start": "17:00",
+  "duration": "00:45",
+  "room": "Meitner",
+  "slug": "Camp2019-10213-doh_or_don_t",
+  "title": "DoH or Don't",
+  "subtitle": "The dilemma of DNS privacy protocols",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Seldom have DNS protocol changes sparked such fierce debate as happen in the case of DNS-over-HTTPs (Doh) and it's little cousin, DNS-over-TLS (DoT). While for many people it is a matter of black and white, the reality out there is various shades of grey ;)\r\n\r\nThis talk will discuss the technical and political aspects of these DNS privacy protocols, where they come from, who is implementing DoH/DoT (both in the browser space and otherwise) and why it is a [good|bad] idea to support these protocol implementations.",
+  "description": "Since the Snowden revelations, the <a href=\"https://datatracker.ietf.org/wg/dprive/documents/\">DPRIVE (DNS Privacy Exchange) working group</a> inside the IETF has been working on ways to make DNS, the Domain Name System, leaking less privacy related information (aka metadata).\r\n\r\nTwo new protocols from this working group are DNS-over-TLS <a href=\"https://tools.ietf.org/html/rfc7858\">RFC 7858</a> (DoT) and DNS-over-HTTPS <a href=\"https://tools.ietf.org/html/rfc8484\">RFC 8484</a> (DoH). Both protocols secure DNS queries between client systems and DNS resolver using encryption and authentication. DoT runs on a dedicated port 853, while DoH piggybacks on HTTPS (port 443).\r\n\r\nWhile DoT was initially mostly ignored by OS vendors, ISPs and users alike, DoH was adopted by browser vendors (Mozilla/Firefox and Google/Chrome) and created heated discussions among security and privacy experts. Even to the point that governments discussing way to outlaw DoH.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8916,
+      "public_name": "Carsten Strotmann"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://doh.defaultroutes.de",
+      "title": "DOH/DOT Server and Information"
+    }
+  ],
+  "attachments": []
 }

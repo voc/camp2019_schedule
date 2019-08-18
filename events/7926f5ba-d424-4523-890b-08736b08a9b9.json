@@ -1,42 +1,42 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10208.html",
-    "id": 10208,
-    "guid": "7926f5ba-d424-4523-890b-08736b08a9b9",
-    "logo": "/system/events/logos/000/010/208/large/KRITIS_Sektoren.jpeg?1563712264",
-    "date": "2019-08-23T22:00:00+02:00",
-    "start": "22:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10208-defensive_statt_offensive_am_beispiel_von_kritis",
-    "title": "#Defensive statt #Offensive am Beispiel von KRITIS",
-    "subtitle": "aka Ethik rekalibrieren",
-    "track": "Ethics, Society & Politics",
-    "type": "lecture",
-    "language": "de",
-    "abstract": "Es wird in einer aktuellen \u00dcbersicht aufgezeigt, dass die Cybersicherheitsstrategie in Deutschland keine Strategie darstellt. Dar\u00fcber Hinaus wird aufgezeigt, welche Gesetzesvorhaben die Sicherheit schw\u00e4chen oder bereits geschw\u00e4cht haben und was das f\u00fcr Auswirkungen auf kritische Infrastrukturen (KRITIS) - und somit auf uns als Gesamtbev\u00f6lkerung - haben kann. Zuletzt werden m\u00f6gliche Optionen als Forderungen aufgezeigt, durch die sich das aktuelle Lagebild bessern kann.",
-    "description": "Neun Sektoren wurden in den ersten zwei K\u00f6rben des IT-Sicherheitsgesetz als kritische Infrastrukturen definiert. Darunter fallen Energieversorgung, Finanz- und Versicherungswesen,\r\nWasser, Ern\u00e4hrung, Gesundheit, IT und TK, Transport und Verkehr. Deren durch IT-St\u00f6rungen bedingter Versorgungsausfall kann zu einem Gro\u00dflagebild oder sogar zu einer Krise f\u00fchren, in der eine Versorgung eines gro\u00dfen Teils der Bev\u00f6lkerung nicht mehr gew\u00e4hrleistet werden k\u00f6nnte. Wie riskiert der Staat durch eine offensive Cyberwar Vorgehensweise und hybride Kriegsf\u00fchrung dazu, diese Risiken zu erh\u00f6hen und warum trifft uns das als Bev\u00f6lkerung ganz konkret und spielt sich nicht nur im Internet ab? Wie kann es zu physischen IT-St\u00f6rungen und Ausf\u00e4llen kommen und was m\u00fcsste man als Forderungen dagegen vornehmen, um von einer offensiven zu einer defensiven Vorgehensweise zur\u00fcck zu kommen. Und wieso liegt darin die einzig wahre L\u00f6sung f\u00fcr die Bev\u00f6lkerung?",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 1294,
-            "public_name": "HonkHase"
-        }
-    ],
-    "links": [
-        {
-            "url": "https://www.blablasecurity.de/",
-            "title": "Folien zu bereits gehaltenen KRITIS und Ethik Vortr\u00e4gen"
-        },
-        {
-            "url": "https://www.blablasecurity.de/20190601_Berlinsides_HonkHase.pdf",
-            "title": "Zum Zeitpunkt der Einreichung aktuellster Foliensatz zum Thema"
-        }
-    ],
-    "attachments": [
-        {
-            "url": "/attachments/original/missing.png",
-            "title": "file"
-        }
-    ]
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10208.html",
+  "id": 10208,
+  "guid": "7926f5ba-d424-4523-890b-08736b08a9b9",
+  "logo": "/system/events/logos/000/010/208/large/KRITIS_Sektoren.jpeg?1563712264",
+  "date": "2019-08-23T22:00:00+02:00",
+  "start": "22:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10208-defensive_statt_offensive_am_beispiel_von_kritis",
+  "title": "#Defensive statt #Offensive am Beispiel von KRITIS",
+  "subtitle": "aka Ethik rekalibrieren",
+  "track": "Ethics, Society & Politics",
+  "type": "lecture",
+  "language": "de",
+  "abstract": "Es wird in einer aktuellen \u00dcbersicht aufgezeigt, dass die Cybersicherheitsstrategie in Deutschland keine Strategie darstellt. Dar\u00fcber Hinaus wird aufgezeigt, welche Gesetzesvorhaben die Sicherheit schw\u00e4chen oder bereits geschw\u00e4cht haben und was das f\u00fcr Auswirkungen auf kritische Infrastrukturen (KRITIS) - und somit auf uns als Gesamtbev\u00f6lkerung - haben kann. Zuletzt werden m\u00f6gliche Optionen als Forderungen aufgezeigt, durch die sich das aktuelle Lagebild bessern kann.",
+  "description": "Neun Sektoren wurden in den ersten zwei K\u00f6rben des IT-Sicherheitsgesetz als kritische Infrastrukturen definiert. Darunter fallen Energieversorgung, Finanz- und Versicherungswesen,\r\nWasser, Ern\u00e4hrung, Gesundheit, IT und TK, Transport und Verkehr. Deren durch IT-St\u00f6rungen bedingter Versorgungsausfall kann zu einem Gro\u00dflagebild oder sogar zu einer Krise f\u00fchren, in der eine Versorgung eines gro\u00dfen Teils der Bev\u00f6lkerung nicht mehr gew\u00e4hrleistet werden k\u00f6nnte. Wie riskiert der Staat durch eine offensive Cyberwar Vorgehensweise und hybride Kriegsf\u00fchrung dazu, diese Risiken zu erh\u00f6hen und warum trifft uns das als Bev\u00f6lkerung ganz konkret und spielt sich nicht nur im Internet ab? Wie kann es zu physischen IT-St\u00f6rungen und Ausf\u00e4llen kommen und was m\u00fcsste man als Forderungen dagegen vornehmen, um von einer offensiven zu einer defensiven Vorgehensweise zur\u00fcck zu kommen. Und wieso liegt darin die einzig wahre L\u00f6sung f\u00fcr die Bev\u00f6lkerung?",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 1294,
+      "public_name": "HonkHase"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.blablasecurity.de/",
+      "title": "Folien zu bereits gehaltenen KRITIS und Ethik Vortr\u00e4gen"
+    },
+    {
+      "url": "https://www.blablasecurity.de/20190601_Berlinsides_HonkHase.pdf",
+      "title": "Zum Zeitpunkt der Einreichung aktuellster Foliensatz zum Thema"
+    }
+  ],
+  "attachments": [
+    {
+      "url": "/attachments/original/missing.png",
+      "title": "file"
+    }
+  ]
 }

@@ -1,0 +1,32 @@
+{
+  "id": 123,
+  "guid": "30f4400a-23d9-5b81-9beb-875217813515",
+  "logo": "",
+  "date": "2019-08-22T18:30:00+00:00",
+  "start": "18:30",
+  "duration": "02:00",
+  "room": "Workshop",
+  "slug": "GHNDP7",
+  "url": "http://talx.thm.cloud/thms/talk/GHNDP7/",
+  "title": "analoge neuronale oszillatoren",
+  "subtitle": "",
+  "track": "Workshop",
+  "type": "Workshop",
+  "language": "en",
+  "abstract": "in dem workshop bauen teilnehmer*innen analoge neuronale schaltungen mit denen ein netzwerkmodell, wie es shun-ichi amari in den 70 er jahren entwickelt hat, realisiert wird.",
+  "description": "in dem workshop bauen teilnehmer*innen analoge neuronale schaltungen mit denen ein netzwerkmodell, wie es shun-ichi amari in den 70 er jahren entwickelt hat, realisiert wird.  Im workshop geht es darum ein gesp\u00fcr f\u00fcr die neuronalen netzen intrinsischen schwingungen zu entwickeln und mit diesen zu spielen und krach oder musik zu machen.\r\ngrundlage f\u00fcr den workshop sind sogenannte pop-neuronen schaltungen, die ich gemeinsam mit wolfgang\r\nspahn f\u00fcr eine k\u00fcnstlerische installation, symbolic grounding, entwickelt habe. hier ein kurzes video von einem fr\u00fcherem workshop https://vimeo.com/273578536, pop-neurone\r\nhttps://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 29,
+      "code": "3TMUJD",
+      "public_name": "christian faubel",
+      "biography": "Christian Faubel ist ein interdisziplin\u00e4rer Wissenschaftler und K\u00fcnstler. Er ist promovierter Elektroingenieur und hat von 2002-2012 am Institut f\u00fcr Neuroinformatik zu autonomen Systemen geforscht. Von 2012 bis 2018 war er Dozent an der Kunsthochschule f\u00fcr Medien K\u00f6ln im Bereich experimentelle Informatik. 2002 hat er das Kollektiv derstrudel, zur Vermittlung eines entspannten Zugangs zu Elektronik und Robotik, gegr\u00fcndet. Mit derstrudel hat er mehr als 50 Workshops zum Bau einfacher analoger Roboter im Rahmen internationaler Festivals durchgef\u00fchrt. In seiner k\u00fcnstlerischen Arbeit interessiert ihn was autonomes Verhalten erm\u00f6glicht und wie komplexes Verhalten aus dem Zusammenspiel und den Interaktionsdynamiken einfacher Elemente entstehen kann. Mit seinen Arbeiten macht er theoretische Konzepte wie Selbstorganisation, Emergenz oder Embodiment \u00e4sthetisch erfahrbar und sieht seine Arbeiten in der Tradition philosophischer Spielzeuge.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

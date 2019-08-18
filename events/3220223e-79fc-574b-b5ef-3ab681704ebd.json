@@ -1,0 +1,27 @@
+{
+  "id": 1179,
+  "guid": "3220223e-79fc-574b-b5ef-3ab681704ebd",
+  "logo": null,
+  "date": "2019-08-22T12:30:00+02:00",
+  "start": "12:30",
+  "duration": "1:25",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1179-session_argumentationstraining_datenschutz",
+  "title": "Argumentationstraining Datenschutz",
+  "subtitle": "about:stage",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "public_name": "Gnunicorn"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Argumentationstraining_Datenschutz"
+  ]
+}

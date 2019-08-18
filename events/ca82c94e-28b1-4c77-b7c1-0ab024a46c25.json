@@ -1,32 +1,32 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10339.html",
-    "id": 10339,
-    "guid": "ca82c94e-28b1-4c77-b7c1-0ab024a46c25",
-    "logo": "/system/events/logos/000/010/339/large/led_display800.jpg?1560285586",
-    "date": "2019-08-25T14:00:00+02:00",
-    "start": "14:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10339-service_point_the_display",
-    "title": "\"Service Point\" The Display",
-    "subtitle": "A tale of four generations",
-    "track": "Hardware & Making",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "The walls of CCC Berlin are filled with posters, analog as well as digital art, and also: a large LED display! The display is a proper piece of dual-use technology, serving both as hack material for fun and as a useful tool e.g. for taking notes during meetings.",
-    "description": "Come join us on a technology tour through the history of this fun piece of kit, starting with a look at the original hardware and software architecture and moving on through the many following software, hardware and mechanical hack generations in and around the display.\r\n\r\nThe display has come quite far. Originally one could watch individual characters render on the 71680 LEDs, now 35 fps video playback is effortless, and it functions as a hub for collaborative visual expression using both text and graphics.\r\n\r\nKey words: 6502, CSS, Ethernet, ATXMEGA, JavaScript, Cortex-M3, WebSockets, AM335x, BeagleBone Black, PRU, Etherpad, CNC machining, Aluminium Welding",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 2142,
-            "public_name": "Peter Stuge"
-        },
-        {
-            "id": 9077,
-            "public_name": "mrflix"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10339.html",
+  "id": 10339,
+  "guid": "ca82c94e-28b1-4c77-b7c1-0ab024a46c25",
+  "logo": "/system/events/logos/000/010/339/large/led_display800.jpg?1560285586",
+  "date": "2019-08-25T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10339-service_point_the_display",
+  "title": "\"Service Point\" The Display",
+  "subtitle": "A tale of four generations",
+  "track": "Hardware & Making",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "The walls of CCC Berlin are filled with posters, analog as well as digital art, and also: a large LED display! The display is a proper piece of dual-use technology, serving both as hack material for fun and as a useful tool e.g. for taking notes during meetings.",
+  "description": "Come join us on a technology tour through the history of this fun piece of kit, starting with a look at the original hardware and software architecture and moving on through the many following software, hardware and mechanical hack generations in and around the display.\r\n\r\nThe display has come quite far. Originally one could watch individual characters render on the 71680 LEDs, now 35 fps video playback is effortless, and it functions as a hub for collaborative visual expression using both text and graphics.\r\n\r\nKey words: 6502, CSS, Ethernet, ATXMEGA, JavaScript, Cortex-M3, WebSockets, AM335x, BeagleBone Black, PRU, Etherpad, CNC machining, Aluminium Welding",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 2142,
+      "public_name": "Peter Stuge"
+    },
+    {
+      "id": 9077,
+      "public_name": "mrflix"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

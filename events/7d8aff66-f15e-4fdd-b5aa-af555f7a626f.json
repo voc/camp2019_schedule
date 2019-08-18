@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10207.html",
-    "id": 10207,
-    "guid": "7d8aff66-f15e-4fdd-b5aa-af555f7a626f",
-    "logo": null,
-    "date": "2019-08-23T13:00:00+02:00",
-    "start": "13:00",
-    "duration": "00:45",
-    "room": "Meitner",
-    "slug": "Camp2019-10207-domain_computers_have_accounts_too",
-    "title": "Domain computers have accounts, too!",
-    "subtitle": "Owning machines through relaying and delegation",
-    "track": "Security",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "In Microsoft Active Directory, computers also have their accounts. We used to consider them useless when they turned up during pentests, but recent research showed that successfully relaying a machine account can actually lead to completely owning the machine. This talk will explain the foundation of such attacks and end with a demonstration of how a non-privileged domain user can get SYSTEM privileges on remote machines.",
-    "description": "Active Directory is notorious for using long-broken protocols and preserving them for ages because backwards compatibility. In recent years, pentesters are realizing more and more how terrible these protocols can be, and security experts are finding more and more abuse scenarios.\r\n\r\nTake for example the NTLMv2 challenge-response protocol: It was first introduced back in Windows NT 4.0 SP4 and is still readily available on modern windows. Apart from not being very resistant to cracking (using just a few MD5s), it turned out it's not resistant to MITM attacks at all. An attacker in a MITM position can relay any authentication attempts to almost any target. There were some mitigitations for this over the years, but we are just now starting to see people actually starting to use them.\r\n\r\nSo when relaying came to existence, security researches focused on \"what can we do with this\"? Obviously, if you manage to succesfully relay a Domain Administrator account, you have won; but that's not always possible. \r\n\r\nAnother protocol used extensively in Active Directory is Kerberos. The Microsoft implementation has several delegation/impersonation techniques available. And now, we know how to combine all these to be able to impersonate any user to a computer, given we were able to relay that computer's authentication at least once.\r\n\r\nThe talk will cover these main areas:\r\n<ul>\r\n<li>NTLM Relaying</li>\r\n<li>Kerberos delegation</li>\r\n<li>Getting machines to authenticate to us</li>\r\n</ul>\r\n\r\nAll tools necessary to perform this attack will be released as impacket modules.\r\n\r\nThis talk is mainly based on research by @tifkin_ (Lee Christensen), @harmj0y (Will Schroeder), @enigma0x3 (Matt Nelson), @elad_shamir (Elad Shamir), @_dirkjan (Dirk-jan). ",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 8953,
-            "public_name": "JaGoTu"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10207.html",
+  "id": 10207,
+  "guid": "7d8aff66-f15e-4fdd-b5aa-af555f7a626f",
+  "logo": null,
+  "date": "2019-08-23T13:00:00+02:00",
+  "start": "13:00",
+  "duration": "00:45",
+  "room": "Meitner",
+  "slug": "Camp2019-10207-domain_computers_have_accounts_too",
+  "title": "Domain computers have accounts, too!",
+  "subtitle": "Owning machines through relaying and delegation",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "In Microsoft Active Directory, computers also have their accounts. We used to consider them useless when they turned up during pentests, but recent research showed that successfully relaying a machine account can actually lead to completely owning the machine. This talk will explain the foundation of such attacks and end with a demonstration of how a non-privileged domain user can get SYSTEM privileges on remote machines.",
+  "description": "Active Directory is notorious for using long-broken protocols and preserving them for ages because backwards compatibility. In recent years, pentesters are realizing more and more how terrible these protocols can be, and security experts are finding more and more abuse scenarios.\r\n\r\nTake for example the NTLMv2 challenge-response protocol: It was first introduced back in Windows NT 4.0 SP4 and is still readily available on modern windows. Apart from not being very resistant to cracking (using just a few MD5s), it turned out it's not resistant to MITM attacks at all. An attacker in a MITM position can relay any authentication attempts to almost any target. There were some mitigitations for this over the years, but we are just now starting to see people actually starting to use them.\r\n\r\nSo when relaying came to existence, security researches focused on \"what can we do with this\"? Obviously, if you manage to succesfully relay a Domain Administrator account, you have won; but that's not always possible. \r\n\r\nAnother protocol used extensively in Active Directory is Kerberos. The Microsoft implementation has several delegation/impersonation techniques available. And now, we know how to combine all these to be able to impersonate any user to a computer, given we were able to relay that computer's authentication at least once.\r\n\r\nThe talk will cover these main areas:\r\n<ul>\r\n<li>NTLM Relaying</li>\r\n<li>Kerberos delegation</li>\r\n<li>Getting machines to authenticate to us</li>\r\n</ul>\r\n\r\nAll tools necessary to perform this attack will be released as impacket modules.\r\n\r\nThis talk is mainly based on research by @tifkin_ (Lee Christensen), @harmj0y (Will Schroeder), @enigma0x3 (Matt Nelson), @elad_shamir (Elad Shamir), @_dirkjan (Dirk-jan). ",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8953,
+      "public_name": "JaGoTu"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

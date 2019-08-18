@@ -1,0 +1,27 @@
+{
+  "id": 1054,
+  "guid": "Ab428789-489d-4649-8d64-43ad6c072342",
+  "logo": null,
+  "date": "2019-08-22T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "2:35",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1054-session_cryptoparty_meet_greet",
+  "title": "CryptoParty Meet & Greet",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "en",
+  "abstract": "",
+  "description": "Pre-CryptoParty Meetup of organisers and those, who want to help,",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "public_name": "Gnunicorn"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:CryptoParty_Meet_%26_Greet"
+  ]
+}

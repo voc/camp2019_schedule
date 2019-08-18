@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10178.html",
-    "id": 10178,
-    "guid": "24b58c74-2bba-412e-84ac-c206f714f0b7",
-    "logo": null,
-    "date": "2019-08-21T13:00:00+02:00",
-    "start": "13:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10178-hacking_containers_and_kubernetes",
-    "title": "Hacking Containers and Kubernetes ",
-    "subtitle": "Exploiting and protecting containers with a few lines of scripting",
-    "track": "Security",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "The talks shows the security model of Kubernetes and how to detect and fight security weaknesses with a few lines of scripting.",
-    "description": "Hidden under the hood of Kubernetes are a lot of security features. Starting from the Linux namespaces used in containers to the network there are a lot of configurations with many bells and whistles supporting or totally destroying the security of a cluster\r\n\r\nThe talk gives an overview of the container escape vulnerabilities in the wild, that are documented in the CVE database. Simple scripts are shown to check clusters for vulnerabilities. The scripts are used to analyze Istio, the \"trust nothing\" distributed firewall solution, and find an exploitable attack immediately. This would be a script kiddie attack, if they already would have started using Kubernetes and Istio.\r\n\r\nFinally, it is shown, how Istio has handled the bug report and how future versions from 1.2 will close the exploit using the Container Network Interface (CNI).",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 1382,
-            "public_name": "Thomas Fricke"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10178.html",
+  "id": 10178,
+  "guid": "24b58c74-2bba-412e-84ac-c206f714f0b7",
+  "logo": null,
+  "date": "2019-08-21T13:00:00+02:00",
+  "start": "13:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10178-hacking_containers_and_kubernetes",
+  "title": "Hacking Containers and Kubernetes ",
+  "subtitle": "Exploiting and protecting containers with a few lines of scripting",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "The talks shows the security model of Kubernetes and how to detect and fight security weaknesses with a few lines of scripting.",
+  "description": "Hidden under the hood of Kubernetes are a lot of security features. Starting from the Linux namespaces used in containers to the network there are a lot of configurations with many bells and whistles supporting or totally destroying the security of a cluster\r\n\r\nThe talk gives an overview of the container escape vulnerabilities in the wild, that are documented in the CVE database. Simple scripts are shown to check clusters for vulnerabilities. The scripts are used to analyze Istio, the \"trust nothing\" distributed firewall solution, and find an exploitable attack immediately. This would be a script kiddie attack, if they already would have started using Kubernetes and Istio.\r\n\r\nFinally, it is shown, how Istio has handled the bug report and how future versions from 1.2 will close the exploit using the Container Network Interface (CNI).",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 1382,
+      "public_name": "Thomas Fricke"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

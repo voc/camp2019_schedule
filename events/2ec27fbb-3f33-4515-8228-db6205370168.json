@@ -1,0 +1,28 @@
+{
+  "id": 1109,
+  "guid": "2ec27fbb-3f33-4515-8228-db6205370168",
+  "logo": null,
+  "date": "2019-08-22T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "1:00",
+  "room": "Village:NixOS",
+  "slug": "camp2019-1109-session_nixos_contribution_discussion",
+  "title": "NixOS contribution discussion",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "de",
+  "abstract": "",
+  "description": "discussion about NixOS contribution workflow",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Palo",
+      "public_name": "Palo"
+    }
+  ],
+  "links": [
+    "https://git.ingolf-wagner.de/palo/nixos-diagrams",
+    "//events.ccc.de/camp/2019/wiki/Session:NixOS_contribution_discussion"
+  ]
+}

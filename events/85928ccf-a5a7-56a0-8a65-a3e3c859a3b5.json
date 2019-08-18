@@ -1,0 +1,32 @@
+{
+  "id": 157,
+  "guid": "85928ccf-a5a7-56a0-8a65-a3e3c859a3b5",
+  "logo": "",
+  "date": "2019-08-22T23:00:00+00:00",
+  "start": "23:00",
+  "duration": "02:00",
+  "room": "Plank",
+  "slug": "QTLVBH",
+  "url": "http://talx.thm.cloud/thms/talk/QTLVBH/",
+  "title": "Trummerschlunk",
+  "subtitle": "",
+  "track": "Music",
+  "type": "DJ Set",
+  "language": "en",
+  "abstract": "Trummerschlunk",
+  "description": "Trummerschlunk",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8,
+      "code": "TMXW3G",
+      "public_name": "THM Lounge",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

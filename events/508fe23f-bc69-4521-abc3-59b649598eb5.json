@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10193.html",
-    "id": 10193,
-    "guid": "508fe23f-bc69-4521-abc3-59b649598eb5",
-    "logo": null,
-    "date": "2019-08-24T20:00:00+02:00",
-    "start": "20:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10193-deaths_per_twh",
-    "title": "Deaths per TWh",
-    "subtitle": "The Price of Energy and Reducing CO2 Emissions",
-    "track": "Science",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "Climate change and the discussion about reducing CO2 emissions to ensure matching the Paris agreement currently is the most important topic in our political and economic discussions. We all agree reducing emissions is a necessity, but how can we possibly achieve this in a world that consumes more energy than ever before? And which price are we willing to pay for it?",
-    "description": "Climate change and the discussion about reducing CO2 emissions to ensure matching the Paris agreement currently is the most important topic in our political and economic discussions. We all agree reducing emissions is a necessity, but how can we possibly achieve this in a world that consumes more energy than ever before? And which price are we willing to pay for it?\r\n\r\n[The Paris agreement](https://ec.europa.eu/clima/policies/international/negotiations/paris_en) sets out a global action plan to put the world on track to avoid dangerous climate change by limiting global warming to well below 2\u00b0C and pursuing efforts to limit it to 1.5\u00b0C. This can only be achieved by reducing emissions - this primarily means CO2 emission.\r\n\r\nSo far, so good. But let's face the truth: We NEED energy. Our whole world is addicted to it, and cutting the power lines is no option for today's society, economy, and our daily lives. \r\n\r\nWe need energy, therefor we need power plants. Power plants need energy sources for transforming them into electrical energy. These plants can be fuelled by various sources: Coal, wind, solar, nuclear, natural gas, biomass, and oil, just to name the major ones.\r\n\r\nLet's assume for a moment we could build a completely new power infrastructure for a country from scratch under the following prerequisites:\r\n\r\n* Minimal CO2 emissions\r\n* As little impact as possible (environment, health, economics etc.)\r\n* Affordable price\r\n* Available sources\r\n* Lowest possible fuckup factor\r\n\r\nThis task can be approached by translating it into an optimization problem: Finding the ideal energy mix taking into account the conditions listed above.\r\n\r\nThis talk presents an analysis of this optimization problem by comparison of the relevant factors (emissions, affordability, impact, sources) of different energy sources (coal, natural gas, wind, solar, biomass, nuclear and oil). Our aim is to categorize different energy sources under a strict scientific regime without emotional debates, putting price tags on each of them not only made of money but also factors like emissions, fuckup factors, health concerns, and the cost of human lives per TWh. ",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 8978,
-            "public_name": "Julia Riede"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10193.html",
+  "id": 10193,
+  "guid": "508fe23f-bc69-4521-abc3-59b649598eb5",
+  "logo": null,
+  "date": "2019-08-24T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10193-deaths_per_twh",
+  "title": "Deaths per TWh",
+  "subtitle": "The Price of Energy and Reducing CO2 Emissions",
+  "track": "Science",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Climate change and the discussion about reducing CO2 emissions to ensure matching the Paris agreement currently is the most important topic in our political and economic discussions. We all agree reducing emissions is a necessity, but how can we possibly achieve this in a world that consumes more energy than ever before? And which price are we willing to pay for it?",
+  "description": "Climate change and the discussion about reducing CO2 emissions to ensure matching the Paris agreement currently is the most important topic in our political and economic discussions. We all agree reducing emissions is a necessity, but how can we possibly achieve this in a world that consumes more energy than ever before? And which price are we willing to pay for it?\r\n\r\n[The Paris agreement](https://ec.europa.eu/clima/policies/international/negotiations/paris_en) sets out a global action plan to put the world on track to avoid dangerous climate change by limiting global warming to well below 2\u00b0C and pursuing efforts to limit it to 1.5\u00b0C. This can only be achieved by reducing emissions - this primarily means CO2 emission.\r\n\r\nSo far, so good. But let's face the truth: We NEED energy. Our whole world is addicted to it, and cutting the power lines is no option for today's society, economy, and our daily lives. \r\n\r\nWe need energy, therefor we need power plants. Power plants need energy sources for transforming them into electrical energy. These plants can be fuelled by various sources: Coal, wind, solar, nuclear, natural gas, biomass, and oil, just to name the major ones.\r\n\r\nLet's assume for a moment we could build a completely new power infrastructure for a country from scratch under the following prerequisites:\r\n\r\n* Minimal CO2 emissions\r\n* As little impact as possible (environment, health, economics etc.)\r\n* Affordable price\r\n* Available sources\r\n* Lowest possible fuckup factor\r\n\r\nThis task can be approached by translating it into an optimization problem: Finding the ideal energy mix taking into account the conditions listed above.\r\n\r\nThis talk presents an analysis of this optimization problem by comparison of the relevant factors (emissions, affordability, impact, sources) of different energy sources (coal, natural gas, wind, solar, biomass, nuclear and oil). Our aim is to categorize different energy sources under a strict scientific regime without emotional debates, putting price tags on each of them not only made of money but also factors like emissions, fuckup factors, health concerns, and the cost of human lives per TWh. ",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8978,
+      "public_name": "Julia Riede"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

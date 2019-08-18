@@ -1,37 +1,37 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10309.html",
-    "id": 10309,
-    "guid": "0a99f1db-dfad-4534-888c-bd98acc576b3",
-    "logo": "/system/events/logos/000/010/309/large/edri_logo.png?1560268483",
-    "date": "2019-08-21T16:00:00+02:00",
-    "start": "16:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10309-reporting_from_brussels_the_state_of_digital_rights",
-    "title": "Reporting from Brussels: The state of Digital Rights",
-    "subtitle": "How is our fight impacted by the new EU political landscape?",
-    "track": "Ethics, Society & Politics",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "Come and find out how digital rights will be impacted by the new European Parliament, European Commission and Brexit. In the process, get updates about the burning topics we are following in the EU institutions. ",
-    "description": "New European Parliament (EP), new European Commission(EC), possibly Brexit. Nevertheless, the same digital rights we're fighting for. \r\n\r\nIn this talk we will give you an update on what the results of the European Parliament look like, what characterises the new EU Commission and how likely it is that Brexit happens in November 2019. \r\n\r\nMore, we'll update you on the topics we have our eyes on in the EU institutions: the future of content moderation and platform liability in Europe, confidentiality of our communications (ePrivacy), access to data cross-borders by law enforcement, net neutrality, data retention reloaded, algorithms (including upload filters), AI regulation.Finally, we unite the 2 parts: what do the new developments in the EP, EC and Brexity mean for our digital rights fight? How will our rights and freedoms online be impacted by the new environment? Are there new ways and avenues to mobilise and influence policy-making across Europe?\r\n\r\nThere's only one way to find out. See you at the talk!",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 9013,
-            "public_name": "Chlo\u00e9 Berth\u00e9l\u00e9my (EDRi)"
-        },
-        {
-            "id": 8770,
-            "public_name": "Andreea Belu (EDRi)"
-        }
-    ],
-    "links": [
-        {
-            "url": "https://edri.org",
-            "title": "EDRi Website"
-        }
-    ],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10309.html",
+  "id": 10309,
+  "guid": "0a99f1db-dfad-4534-888c-bd98acc576b3",
+  "logo": "/system/events/logos/000/010/309/large/edri_logo.png?1560268483",
+  "date": "2019-08-21T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10309-reporting_from_brussels_the_state_of_digital_rights",
+  "title": "Reporting from Brussels: The state of Digital Rights",
+  "subtitle": "How is our fight impacted by the new EU political landscape?",
+  "track": "Ethics, Society & Politics",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Come and find out how digital rights will be impacted by the new European Parliament, European Commission and Brexit. In the process, get updates about the burning topics we are following in the EU institutions. ",
+  "description": "New European Parliament (EP), new European Commission(EC), possibly Brexit. Nevertheless, the same digital rights we're fighting for. \r\n\r\nIn this talk we will give you an update on what the results of the European Parliament look like, what characterises the new EU Commission and how likely it is that Brexit happens in November 2019. \r\n\r\nMore, we'll update you on the topics we have our eyes on in the EU institutions: the future of content moderation and platform liability in Europe, confidentiality of our communications (ePrivacy), access to data cross-borders by law enforcement, net neutrality, data retention reloaded, algorithms (including upload filters), AI regulation.Finally, we unite the 2 parts: what do the new developments in the EP, EC and Brexity mean for our digital rights fight? How will our rights and freedoms online be impacted by the new environment? Are there new ways and avenues to mobilise and influence policy-making across Europe?\r\n\r\nThere's only one way to find out. See you at the talk!",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9013,
+      "public_name": "Chlo\u00e9 Berth\u00e9l\u00e9my (EDRi)"
+    },
+    {
+      "id": 8770,
+      "public_name": "Andreea Belu (EDRi)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://edri.org",
+      "title": "EDRi Website"
+    }
+  ],
+  "attachments": []
 }

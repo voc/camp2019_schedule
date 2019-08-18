@@ -1,0 +1,27 @@
+{
+  "id": 1048,
+  "guid": "0b65610d-cad2-45dd-8814-468f99acd259",
+  "logo": null,
+  "date": "2019-08-22T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "3:55",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1048-session_citizen_kino",
+  "title": "CiTiZEN KiNO",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "CiTiZEN KiNO #81: Embedded Dystopias - A situationist cinema for our futurist-fed times.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "public_name": "Gnunicorn"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:CiTiZEN_KiNO"
+  ]
+}

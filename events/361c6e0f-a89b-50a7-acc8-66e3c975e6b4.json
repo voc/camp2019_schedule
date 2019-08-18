@@ -1,0 +1,32 @@
+{
+  "id": 134,
+  "guid": "361c6e0f-a89b-50a7-acc8-66e3c975e6b4",
+  "logo": "",
+  "date": "2019-08-23T18:30:00+00:00",
+  "start": "18:30",
+  "duration": "01:00",
+  "room": "Plank",
+  "slug": "ACSFZ7",
+  "url": "http://talx.thm.cloud/thms/talk/ACSFZ7/",
+  "title": "E-Mail-Privatheit und Mailbox-Verschl\u00fcsselung",
+  "subtitle": "",
+  "track": "Talk",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "\u00dcberblick \u00fcber den aktuellen Stand der Privatheit von E-Mails und Pr\u00e4sentation von [Userli](https://systemli.github.io/userli/), einer Webapplikation um E-Mailboxen zu verschl\u00fcsseln.",
+  "description": "Zuerst werden die derzeitigen Probleme der Privatheit von E-Mail beleuchtet. Dies soll zeigen, dass es sich um eine Vielzahl von Problemen handelt, welche einzeln gel\u00f6st werden m\u00fcssen. \r\nDanach wird Userli pr\u00e4sentiert, welches einen Teil dieser Probleme angeht: Die Privatheit des E-Mail-Storage.\r\nUserli ist eine FOSS-Webapplikation um die Verwaltung von E-Mail-Konten f\u00fcr Communities zu unterst\u00fctzen und Postf\u00e4cher zu verschl\u00fcsseln. Auch die Admins eines Servers k\u00f6nnen dann nicht mehr in die gespeicherten E-Mails schauen.\r\nUserli fokussiert sich auf die Selbstverwaltung kleiner Communities und bietet daher auch Einladungsmechanismen, Domain-spezifische Admins und weitere Rollen. Alias-Adressen helfen deine Identit\u00e4t vor Dritten zu verschleiern.\r\nUserli verwendet das Dovecot MailCrypt Plugin und libsodium um Postf\u00e4cher zu verschl\u00fcsseln und einen Passwort-Reset-Mechanismus anzubieten, welcher ohne pers\u00f6nliche Informationen auskommt.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 38,
+      "code": "DGKT3P",
+      "public_name": "Tim",
+      "biography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

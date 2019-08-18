@@ -1,0 +1,32 @@
+{
+  "id": 117,
+  "guid": "ea450a4c-8372-51f3-974d-879ce4083976",
+  "logo": "",
+  "date": "2019-08-22T04:30:00+00:00",
+  "start": "04:30",
+  "duration": "02:00",
+  "room": "Plank",
+  "slug": "PHGYF8",
+  "url": "http://talx.thm.cloud/thms/talk/PHGYF8/",
+  "title": "Beh",
+  "subtitle": "",
+  "track": "Music",
+  "type": "DJ Set",
+  "language": "de",
+  "abstract": "Bass/Chill",
+  "description": "DJ-Set Bass/Chill",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 28,
+      "code": "TQKQFD",
+      "public_name": "Beh",
+      "biography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

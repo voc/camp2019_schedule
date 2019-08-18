@@ -1,0 +1,27 @@
+{
+  "id": 1191,
+  "guid": "5efb1cda-0cd4-582f-9fb5-74dce3ffa75a",
+  "logo": null,
+  "date": "2019-08-24T19:30:00+02:00",
+  "start": "19:30",
+  "duration": "16:30",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1191-session_decentrathon",
+  "title": "Decentrathon",
+  "subtitle": "Hacksession",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "en",
+  "abstract": "",
+  "description": "the decentralisation hackathon",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "public_name": "Gnunicorn"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Decentrathon"
+  ]
+}

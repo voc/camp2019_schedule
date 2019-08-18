@@ -1,41 +1,41 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10312.html",
-    "id": 10312,
-    "guid": "6d0b0f86-3969-4cd9-974f-69ba90cfce64",
-    "logo": "/system/events/logos/000/010/312/large/CFL?1560270263",
-    "date": "2019-08-24T14:00:00+02:00",
-    "start": "14:00",
-    "duration": "00:45",
-    "room": "Meitner",
-    "slug": "Camp2019-10312-cyborg_foundation",
-    "title": "Cyborg Foundation ",
-    "subtitle": "Transpecies Society",
-    "track": "Hardware & Making",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "Presentation of the Cyborg Foundation, its philosophy, members and developed projects. Based in Barcelona and founded in 2017, CFL is an association that gives voice to non-human identities.  ",
-    "description": "The world around us is full of things that our body is not able to perceive. However, what would happen if we could create new senses that would allow us to decide how we want to perceive our surroundings? \r\nSupported by a multidisciplinary team, we conform a group of engineers, philosophers, designers and artists dedicated to exploring the relationship between species, machines and organs. With an eye on nature and analyzing the different senses found on living beings,  our purpose is the creation of new sense organs to expand human capabilities. Our team is focused on translating the suggested idea to a hardware/software device, that will not only process data but also transmit it to the body through the brain. \r\nIn the course of becoming cyborg, different phases are found: the creation of the organ, the implantation of it and the acclimatization of the brain and body to the new sense. The brain is a plastic organ that can be moulded. Just like Neil Harbisson says \u201cThe brain is like a sculpture to be shaped\u201d. \r\nBy now, considerable results have been obtained. We will take a closer look at it by introducing the several members whose organs have been already implanted, how this has affected their life and way of interact with the physical world. We will, as well, explain the different senses and its design. Just for a quick view we will talk about:\r\nNeil Harbisson - Eyeborg. Color sense antenna. \r\nMoon Ribas - Seismic sense \r\nManel Mu\u00f1oz - Weather station\r\nKai Landre - Cosmic rays\r\n\r\nIn addition, we have the satisfaction of announcing that the CCC will be the first to know about the pioneering technology that we are developing to power the devices.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 9029,
-            "public_name": "Mo"
-        }
-    ],
-    "links": [
-        {
-            "url": "https://www.cyborgfoundation.com",
-            "title": "Cyborg Foundation"
-        },
-        {
-            "url": "https://www.cyborgarts.com",
-            "title": "Cyborg Arts"
-        },
-        {
-            "url": "https://www.transpeciessociety.com",
-            "title": "Transpecies Society "
-        }
-    ],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10312.html",
+  "id": 10312,
+  "guid": "6d0b0f86-3969-4cd9-974f-69ba90cfce64",
+  "logo": "/system/events/logos/000/010/312/large/CFL?1560270263",
+  "date": "2019-08-24T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "00:45",
+  "room": "Meitner",
+  "slug": "Camp2019-10312-cyborg_foundation",
+  "title": "Cyborg Foundation ",
+  "subtitle": "Transpecies Society",
+  "track": "Hardware & Making",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Presentation of the Cyborg Foundation, its philosophy, members and developed projects. Based in Barcelona and founded in 2017, CFL is an association that gives voice to non-human identities.  ",
+  "description": "The world around us is full of things that our body is not able to perceive. However, what would happen if we could create new senses that would allow us to decide how we want to perceive our surroundings? \r\nSupported by a multidisciplinary team, we conform a group of engineers, philosophers, designers and artists dedicated to exploring the relationship between species, machines and organs. With an eye on nature and analyzing the different senses found on living beings,  our purpose is the creation of new sense organs to expand human capabilities. Our team is focused on translating the suggested idea to a hardware/software device, that will not only process data but also transmit it to the body through the brain. \r\nIn the course of becoming cyborg, different phases are found: the creation of the organ, the implantation of it and the acclimatization of the brain and body to the new sense. The brain is a plastic organ that can be moulded. Just like Neil Harbisson says \u201cThe brain is like a sculpture to be shaped\u201d. \r\nBy now, considerable results have been obtained. We will take a closer look at it by introducing the several members whose organs have been already implanted, how this has affected their life and way of interact with the physical world. We will, as well, explain the different senses and its design. Just for a quick view we will talk about:\r\nNeil Harbisson - Eyeborg. Color sense antenna. \r\nMoon Ribas - Seismic sense \r\nManel Mu\u00f1oz - Weather station\r\nKai Landre - Cosmic rays\r\n\r\nIn addition, we have the satisfaction of announcing that the CCC will be the first to know about the pioneering technology that we are developing to power the devices.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9029,
+      "public_name": "Mo"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.cyborgfoundation.com",
+      "title": "Cyborg Foundation"
+    },
+    {
+      "url": "https://www.cyborgarts.com",
+      "title": "Cyborg Arts"
+    },
+    {
+      "url": "https://www.transpeciessociety.com",
+      "title": "Transpecies Society "
+    }
+  ],
+  "attachments": []
 }

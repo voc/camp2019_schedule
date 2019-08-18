@@ -1,0 +1,28 @@
+{
+  "id": 1226,
+  "guid": "eb23d0dc-2d2f-49c8-98a2-b96cf3d78782",
+  "logo": null,
+  "date": "2019-08-22T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "1:00",
+  "room": "",
+  "slug": "camp2019-1226-session_octoprint_user_meetup",
+  "title": "OctoPrint User Meetup",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "de",
+  "abstract": "",
+  "description": "Meet and greet of OctoPrint users at the camp. foosel will also be there and bring stickers!",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Foosel",
+      "public_name": "Foosel"
+    }
+  ],
+  "links": [
+    "https://community.octoprint.org/t/octoprint-meetup-at-chaos-communication-camp-2019/11078",
+    "//events.ccc.de/camp/2019/wiki/Session:OctoPrint_User_Meetup"
+  ]
+}

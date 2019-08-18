@@ -1,0 +1,32 @@
+{
+  "id": 139,
+  "guid": "0ef9486d-7f7a-5298-9042-3e55c19768d2",
+  "logo": "",
+  "date": "2019-08-22T15:00:00+00:00",
+  "start": "15:00",
+  "duration": "01:00",
+  "room": "Plank",
+  "slug": "WCSCAX",
+  "url": "http://talx.thm.cloud/thms/talk/WCSCAX/",
+  "title": "Blockchain: Proof of ignorance",
+  "subtitle": "",
+  "track": "Talk",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "With liberty and autonomy for some!",
+  "description": "With liberty and autonomy for some \u2013 the techies.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 42,
+      "code": "3UXMDZ",
+      "public_name": "Rainer",
+      "biography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

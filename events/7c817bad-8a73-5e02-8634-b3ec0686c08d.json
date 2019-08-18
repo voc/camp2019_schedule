@@ -1,0 +1,28 @@
+{
+  "id": 1244,
+  "guid": "7c817bad-8a73-5e02-8634-b3ec0686c08d",
+  "logo": null,
+  "date": "2019-08-23T15:00:00+02:00",
+  "start": "15:00",
+  "duration": "0:45",
+  "room": "Village:NixOS",
+  "slug": "camp2019-1244-session_terranix",
+  "title": "Terranix",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "A NixOS way to create terraform json files.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Palo",
+      "public_name": "Palo"
+    }
+  ],
+  "links": [
+    "https://terranix.org/",
+    "//events.ccc.de/camp/2019/wiki/Session:Terranix"
+  ]
+}

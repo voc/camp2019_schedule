@@ -1,0 +1,41 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10370.html",
+  "id": 10370,
+  "guid": "074a5ea0-fd00-4529-912c-c986a8856f6b",
+  "logo": "/system/events/logos/000/010/370/large/XR_Symbol_01.jpg?1562757981",
+  "date": "2019-08-21T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10370-aufstand_oder_aussterben_ein_vortrag_uber_die_klimakrise_okologischen_kollaps_und_zivilen_ungehorsam",
+  "title": "Aufstand oder Aussterben? Ein Vortrag \u00fcber die Klimakrise, \u00f6kologischen Kollaps und zivilen Ungehorsam.",
+  "subtitle": "",
+  "track": "Ethics, Society & Politics",
+  "type": "lecture",
+  "language": "de",
+  "abstract": "EXTINCTION REBELLION (XR) ist eine schnell wachsende globale Graswurzel-Bewegung von Klima-Aktivist*innen, die mit gewaltfreien zivilen Ungehorsam einen radikalen Wandel herbeif\u00fchren m\u00f6chte um die Risiken des \u00f6kologischen Kollaps und des Aussterbens der Menschheit zu minimieren. Wir bringen die Gefahr des Klimakollaps auf die Agenda, informieren die \u00d6ffentlichkeit, und \u00fcben Druck auf die Regierungen aus, den Klimanotstand auszurufen, und entsprechend angemessen zu handeln.",
+  "description": "XR hat drei Forderungen:\r\n\r\n1. TELL THE TRUTH - Die Regierung muss die Wahrheit \u00fcber die \u00f6kologische Krise offenlegen und den Klimanotstand ausrufen. Die Dringlichkeit des sofortigen Kurswechsels muss von allen gesellschaftlichen Institutionen kommuniziert werden. \r\n\r\n2. ACT NOW - Die Regierung muss jetzt handeln, um das Artensterben zu stoppen und die Treibhausgasemissionen bis zum Jahr 2025 auf Netto-Null zu senken.\r\n\r\n3. BEYOND POLITICS - Die Regierung beruft eine B\u00fcrger'innenversammlung zu Klima- und \u00f6kologischer Gerechtigkeit ein, die die notwendigen Ma\u00dfnahmen erarbeitet und verpflichtet sich, deren Beschl\u00fcsse umzusetzen.\r\n",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9116,
+      "public_name": "Dan"
+    },
+    {
+      "id": 9118,
+      "public_name": "Maria"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://rebellion.earth/",
+      "title": "rebellion.earth"
+    },
+    {
+      "url": "https://extinctionrebellion.de/",
+      "title": "extinctionrebellion.de"
+    }
+  ],
+  "attachments": []
+}

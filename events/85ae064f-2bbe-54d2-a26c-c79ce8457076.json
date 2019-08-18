@@ -1,0 +1,32 @@
+{
+  "id": 153,
+  "guid": "85ae064f-2bbe-54d2-a26c-c79ce8457076",
+  "logo": "",
+  "date": "2019-08-24T23:00:00+00:00",
+  "start": "23:00",
+  "duration": "02:00",
+  "room": "Plank",
+  "slug": "HSZXE7",
+  "url": "http://talx.thm.cloud/thms/talk/HSZXE7/",
+  "title": "Tschunkelmusik",
+  "subtitle": "",
+  "track": "Music",
+  "type": "DJ Set",
+  "language": "en",
+  "abstract": "Delizi\u00f6se Synthkl\u00e4nge",
+  "description": "Delizi\u00f6se Synthkl\u00e4nge",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8,
+      "code": "TMXW3G",
+      "public_name": "THM Lounge",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

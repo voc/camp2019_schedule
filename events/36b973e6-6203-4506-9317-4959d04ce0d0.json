@@ -1,0 +1,33 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10400.html",
+  "id": 10400,
+  "guid": "36b973e6-6203-4506-9317-4959d04ce0d0",
+  "logo": "/system/events/logos/000/010/400/large/IMG_2445.jpg?1565303709",
+  "date": "2019-08-22T12:00:00+02:00",
+  "start": "12:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10400-opencodes",
+  "title": "OpenCodes",
+  "subtitle": "Hacker im Museum",
+  "track": "Art & Culture",
+  "type": "lecture",
+  "language": "de",
+  "abstract": "Computer k\u00f6nnen Kunst erzeugen. Museen k\u00f6nnen Kunst ausstellten. Wie kann das zusammen kommen? Und welche Rolle spielen Community- und OpenSource-Gedanken darin? Der Vortrag ist die Geschichte eines Ausstellungs- und Bildungskonzeptes, welches auch von Hackern entworfen wurde.",
+  "description": "Die Ausstellung 'Open Codes' wurde zusammen mit Karlsruher Communities, unter anderem dem Entropia, FabLab und Freifunk entworfen und erweitert. Es geht um einen Blick hinter die Kulissen einer Gesellschaft, die immer weiter in das Digitale wandert.\r\n\r\nKostenloser Eintritt, Freifunk-WLAN, Tische, Sofas, Tischtennisplatte, kostenlose Getr\u00e4nke und Snacks, Hackathons, die Gulaschprogrammiernacht, PyCon, Wikimedia usw. lassen einen fast vergessen, dass man in einem Museum steht. Programmieren und hacken im Museum, wie geht das? \r\n\r\nDie Ausstellung ist weit mehr als eine kuratierte Sammlung von Medienkunstwerken, die sich mit dem Thema Code befasst. Es werden auch Themen wie OpenSource und die Hackercommunity greifbar gemacht. Die Werke sind Eckpunkte f\u00fcr Diskussionen, die bereits in Hacker-, Mackerspaces und digitalen Communities passiert. \r\n\r\nDer Vortrag verfolgt den gesamten Weg der letzten drei Jahre: von der ersten Konzeptskizze und Tschunkparties mit Kuratorinnen und Hackern \u00fcber die Ausstellungser\u00f6ffnung mit Feldtelefon, Hackcenter und H\u00e4ppchen, \"Bitte nicht hacken, das ist Kunst\"-Schildern bis zu einer Lovestory - Still a Better Love Story than Twilight - zwischen zwei Welten, die anders nicht sein k\u00f6nnten. Da d\u00fcrfen Indien und China auch nicht fehlen...",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 4508,
+      "public_name": "obelix"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://zkm.de/de/ausstellung/2017/10/open-codes",
+      "title": "Projekwebseite"
+    }
+  ],
+  "attachments": []
+}

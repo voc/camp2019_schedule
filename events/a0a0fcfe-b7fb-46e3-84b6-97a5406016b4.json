@@ -1,28 +1,32 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10386.html",
-    "id": 10386,
-    "guid": "a0a0fcfe-b7fb-46e3-84b6-97a5406016b4",
-    "logo": null,
-    "date": "2019-08-21T11:00:00+02:00",
-    "start": "11:00",
-    "duration": "00:30",
-    "room": "Curie",
-    "slug": "Camp2019-10386-opening_ceremony",
-    "title": "Opening Ceremony",
-    "subtitle": "",
-    "track": "CCC",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "A hearty welcome me lasses and lads!",
-    "description": "",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 7797,
-            "public_name": "jinxx"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10386.html",
+  "id": 10386,
+  "guid": "a0a0fcfe-b7fb-46e3-84b6-97a5406016b4",
+  "logo": null,
+  "date": "2019-08-21T11:00:00+02:00",
+  "start": "11:00",
+  "duration": "00:30",
+  "room": "Curie",
+  "slug": "Camp2019-10386-opening_ceremony",
+  "title": "Opening Ceremony",
+  "subtitle": "",
+  "track": "CCC",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "A hearty welcome me lasses and lads!",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 7797,
+      "public_name": "jinxx"
+    },
+    {
+      "id": 4827,
+      "public_name": "smtw"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

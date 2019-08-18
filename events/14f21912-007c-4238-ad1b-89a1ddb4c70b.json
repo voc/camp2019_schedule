@@ -1,0 +1,33 @@
+{
+  "id": 1147,
+  "guid": "14f21912-007c-4238-ad1b-89a1ddb4c70b",
+  "logo": null,
+  "date": "2019-08-23T12:30:00+02:00",
+  "start": "12:30",
+  "duration": "1:30",
+  "room": "Village:HardwareHackingArea",
+  "slug": "camp2019-1147-session_mechanical_keyboard_meetup",
+  "title": "Mechanical Keyboard Meetup",
+  "subtitle": "Hands-on",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "de",
+  "abstract": "",
+  "description": "Try out a mechanical keyboard or show off your collection.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Roeckoe",
+      "public_name": "Roeckoe"
+    },
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:XTaran",
+      "public_name": "XTaran"
+    }
+  ],
+  "links": [
+    "https://redd.it/ch91ip",
+    "//events.ccc.de/camp/2019/wiki/Session:Mechanical_Keyboard_Meetup"
+  ]
+}

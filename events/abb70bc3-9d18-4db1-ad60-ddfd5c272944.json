@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10251.html",
-    "id": 10251,
-    "guid": "abb70bc3-9d18-4db1-ad60-ddfd5c272944",
-    "logo": "/system/events/logos/000/010/251/large/siUhMfp.jpg?1565095649",
-    "date": "2019-08-25T13:00:00+02:00",
-    "start": "13:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10251-why_nobody_cares_and_only_you_can_save_the_world",
-    "title": "Why Nobody cares, and only You can save the World",
-    "subtitle": "Technology, Intuitions & Moral Expertise",
-    "track": "Ethics, Society & Politics",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "This talk aims to provide a possible explanation why most people seem to care very little about the unethicality of much of today\u2019s technologies. It outlines what science and philosophy tell us about the biological and cultural evolutionary origins of (human) morality and ethics, introduces recent research in moral cognition and the importance of moral intuitions in human decision making, and discusses how these things relate to contemporary issues such as A(G)I, self-driving cars, sex-robots, \u201csurveillance capitalism\u201d, the Snowden revelations and many more. Suggesting an \u201cintuition void effect\u201d leading standard users to remain largely oblivious to the moral dimensions of many technologies, it identifies technologists as \u201clearned moral experts\u201d, and emphasizes their responsibility to assume an active role in safeguarding the ethicality of today\u2019s and future technologies.",
-    "description": "Why is it that in a technological present full of unethical practices \u2013 from the \u201cattention economy\u201d to \u201csurveillance capitalism\u201d, \u201cplanned obsolescence\u201d, DRM, and so on and so forth \u2013 so many appear to care so little? \r\n\r\nTo attempt to answer this question, the presentation begins its argument with an introduction into our contemporary understanding about the origins of (human) morality / ethics.  From computational approaches a la Axelrod\u2019s Tit for Tat, Frans De Waal\u2019s cucumber-throwing monkeys and Steven Pinker\u2019s \u201cBetter Angles of our Nature\u201d, to contemporary moral psychology and moral cognition and these fields\u2019 work on moral intuitions. \r\n\r\nAs research in the last couple of decades in these fields suggest, it appears that much, if not most of (human) moral / ethical decision making is based on moral intuitions rather than careful, rational reasoning. Joshua Greene likens this to the difference between the \u201cpoint-and-shoot\u201d mode and the manual mode of a digital camera. Jonathan Haidt uses a metaphorical elephant (moral intuition) and his rider (conscious deliberation) to emphasize the difference in weight. These intuitions are the result of both biological and cultural evolution \u2013 the former carrying most of the weight. \r\n\r\nThe problem with this basis for our moral decision making is, as this presentation will argue, that \r\nwe have not (yet) had the time to evolve (both culturally and biologically), \u201cappropriate\u201d moral intuitions towards the technologies that surround us everyday, resulting in an \u201cmoral intuition void\u201d effect. And without initial moral intuitions in the face of a technological artifact, neither sentiment nor reason may be activated to pass judgment on its ethicality. \r\n\r\nThis perspective allows for some interesting conclusions. Firstly, technologists (i.e. hackers, engineers, programmers etc.) for one, who exhibit strong moral intuitions toward certain artifacts have to be understood as \u201clearned moral experts\u201d, whose ability to intuitively grasp the ethical dimensions of a certain technology is not shared by the majority of users. \r\n\r\nSecondly, users cannot be expected to possess an innate sense of \u201cright and wrong\u201d with regards to technologies. Thirdly, entities (such as for-profit corporations) need to be called out for making deliberate use of the \u201cmoral intuition void\u201d effect.\r\n\r\nAll in all, this presentation aims to provide a tool for thinking that may be put to use in various cases and discussions. It formulates the ethical imperative for technologists to act upon their expertise-enabled moral intuitions, and calls for an active \u201cmemetic engineering process\u201d to \u201cintelligently design\u201d appropriate, culturally learned societal intuitions and responses for our technological present and future.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 5500,
-            "public_name": "Wilhelm Klein"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10251.html",
+  "id": 10251,
+  "guid": "abb70bc3-9d18-4db1-ad60-ddfd5c272944",
+  "logo": "/system/events/logos/000/010/251/large/siUhMfp.jpg?1565095649",
+  "date": "2019-08-25T13:00:00+02:00",
+  "start": "13:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10251-why_nobody_cares_and_only_you_can_save_the_world",
+  "title": "Why Nobody cares, and only You can save the World",
+  "subtitle": "Technology, Intuitions & Moral Expertise",
+  "track": "Ethics, Society & Politics",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "This talk aims to provide a possible explanation why most people seem to care very little about the unethicality of much of today\u2019s technologies. It outlines what science and philosophy tell us about the biological and cultural evolutionary origins of (human) morality and ethics, introduces recent research in moral cognition and the importance of moral intuitions in human decision making, and discusses how these things relate to contemporary issues such as A(G)I, self-driving cars, sex-robots, \u201csurveillance capitalism\u201d, the Snowden revelations and many more. Suggesting an \u201cintuition void effect\u201d leading standard users to remain largely oblivious to the moral dimensions of many technologies, it identifies technologists as \u201clearned moral experts\u201d, and emphasizes their responsibility to assume an active role in safeguarding the ethicality of today\u2019s and future technologies.",
+  "description": "Why is it that in a technological present full of unethical practices \u2013 from the \u201cattention economy\u201d to \u201csurveillance capitalism\u201d, \u201cplanned obsolescence\u201d, DRM, and so on and so forth \u2013 so many appear to care so little? \r\n\r\nTo attempt to answer this question, the presentation begins its argument with an introduction into our contemporary understanding about the origins of (human) morality / ethics.  From computational approaches a la Axelrod\u2019s Tit for Tat, Frans De Waal\u2019s cucumber-throwing monkeys and Steven Pinker\u2019s \u201cBetter Angles of our Nature\u201d, to contemporary moral psychology and moral cognition and these fields\u2019 work on moral intuitions. \r\n\r\nAs research in the last couple of decades in these fields suggest, it appears that much, if not most of (human) moral / ethical decision making is based on moral intuitions rather than careful, rational reasoning. Joshua Greene likens this to the difference between the \u201cpoint-and-shoot\u201d mode and the manual mode of a digital camera. Jonathan Haidt uses a metaphorical elephant (moral intuition) and his rider (conscious deliberation) to emphasize the difference in weight. These intuitions are the result of both biological and cultural evolution \u2013 the former carrying most of the weight. \r\n\r\nThe problem with this basis for our moral decision making is, as this presentation will argue, that \r\nwe have not (yet) had the time to evolve (both culturally and biologically), \u201cappropriate\u201d moral intuitions towards the technologies that surround us everyday, resulting in an \u201cmoral intuition void\u201d effect. And without initial moral intuitions in the face of a technological artifact, neither sentiment nor reason may be activated to pass judgment on its ethicality. \r\n\r\nThis perspective allows for some interesting conclusions. Firstly, technologists (i.e. hackers, engineers, programmers etc.) for one, who exhibit strong moral intuitions toward certain artifacts have to be understood as \u201clearned moral experts\u201d, whose ability to intuitively grasp the ethical dimensions of a certain technology is not shared by the majority of users. \r\n\r\nSecondly, users cannot be expected to possess an innate sense of \u201cright and wrong\u201d with regards to technologies. Thirdly, entities (such as for-profit corporations) need to be called out for making deliberate use of the \u201cmoral intuition void\u201d effect.\r\n\r\nAll in all, this presentation aims to provide a tool for thinking that may be put to use in various cases and discussions. It formulates the ethical imperative for technologists to act upon their expertise-enabled moral intuitions, and calls for an active \u201cmemetic engineering process\u201d to \u201cintelligently design\u201d appropriate, culturally learned societal intuitions and responses for our technological present and future.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 5500,
+      "public_name": "Wilhelm Klein"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

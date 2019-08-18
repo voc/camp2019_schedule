@@ -1,0 +1,22 @@
+{
+  "id": 1182,
+  "guid": "6166b64b-ee18-5384-97d5-fdcaba03ed07",
+  "logo": null,
+  "date": "2019-08-23T17:30:00+02:00",
+  "start": "17:30",
+  "duration": "2:00",
+  "room": "Hackcenter",
+  "slug": "camp2019-1182-session_bodymind_operating_system",
+  "title": "Bodymind Operating System",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "Physical practice session where we explore the notions of hacking through the human body.",
+  "persons": [],
+  "links": [
+    "http://www.8os.io",
+    "//events.ccc.de/camp/2019/wiki/Session:Bodymind_Operating_System"
+  ]
+}

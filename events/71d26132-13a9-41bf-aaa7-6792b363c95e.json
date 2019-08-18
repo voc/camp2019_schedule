@@ -1,0 +1,21 @@
+{
+  "id": 1039,
+  "guid": "71d26132-13a9-41bf-aaa7-6792b363c95e",
+  "logo": null,
+  "date": "2019-08-22T11:00:00+02:00",
+  "start": "11:00",
+  "duration": "0:45",
+  "room": "",
+  "slug": "camp2019-1039-session_body_workout_session",
+  "title": "Body Workout Session",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "outside",
+  "language": "de",
+  "abstract": "",
+  "description": "we will do some physical activity together",
+  "persons": [],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Body_Workout_Session"
+  ]
+}

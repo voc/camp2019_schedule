@@ -1,32 +1,32 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10241.html",
-    "id": 10241,
-    "guid": "06bcc268-f0db-48dc-963d-d3d54c6769a8",
-    "logo": "/system/events/logos/000/010/241/large/rayhotel3.jpg?1560128079",
-    "date": "2019-08-23T20:00:00+02:00",
-    "start": "20:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10241-taking_bluetooth_lockpicking_to_the_next_level",
-    "title": "Taking Bluetooth lockpicking to the next level",
-    "subtitle": "...or the 37th floor of a Hotel",
-    "track": "Security",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "If hacking chinese padlocks and bike sharing systems isn't enough any more, let's go and open some new doors. Like the ones of some 37th floor Hotel Suites...",
-    "description": "We're taking Bluetooth LE hacking from toys and padlocks to the real world. Improving the tools and methods we used in previous research to break the AES cryptography of the NOKE Padlock, we went to do the one thing a mobile hotel key is supposed to prevent: wirelessly sniff someone entering his room - or just unlocking the elevator - and then reconstruct the needed data to open the door with any BTLE enabled PC or even a raspberry pi.\r\n\r\nIn this talk we will show and explain the tools and methods we used and developed to break the BTLE based mobile phone key system of a large hotel chain. And then come from the academic proof of concept to a reliable setup that can be used in real life scenarios to carry out the attack.\r\n\r\nMethods shown will cover the reverse engineering of the wireless protocol based on BTLE captures, analyzing phone apps and intercepting the TLS encrypted traffic to the back end API, which in combination led to the compromise of a system used in quite some big and expensive hotels for their \"next level\" customer experience: mobile room keys.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 9037,
-            "public_name": "Ray"
-        },
-        {
-            "id": 3683,
-            "public_name": "mh"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10241.html",
+  "id": 10241,
+  "guid": "06bcc268-f0db-48dc-963d-d3d54c6769a8",
+  "logo": "/system/events/logos/000/010/241/large/rayhotel3.jpg?1560128079",
+  "date": "2019-08-23T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10241-taking_bluetooth_lockpicking_to_the_next_level",
+  "title": "Taking Bluetooth lockpicking to the next level",
+  "subtitle": "...or the 37th floor of a Hotel",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "If hacking chinese padlocks and bike sharing systems isn't enough any more, let's go and open some new doors. Like the ones of some 37th floor Hotel Suites...",
+  "description": "We're taking Bluetooth LE hacking from toys and padlocks to the real world. Improving the tools and methods we used in previous research to break the AES cryptography of the NOKE Padlock, we went to do the one thing a mobile hotel key is supposed to prevent: wirelessly sniff someone entering his room - or just unlocking the elevator - and then reconstruct the needed data to open the door with any BTLE enabled PC or even a raspberry pi.\r\n\r\nIn this talk we will show and explain the tools and methods we used and developed to break the BTLE based mobile phone key system of a large hotel chain. And then come from the academic proof of concept to a reliable setup that can be used in real life scenarios to carry out the attack.\r\n\r\nMethods shown will cover the reverse engineering of the wireless protocol based on BTLE captures, analyzing phone apps and intercepting the TLS encrypted traffic to the back end API, which in combination led to the compromise of a system used in quite some big and expensive hotels for their \"next level\" customer experience: mobile room keys.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9037,
+      "public_name": "Ray"
+    },
+    {
+      "id": 3683,
+      "public_name": "mh"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

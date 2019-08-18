@@ -1,0 +1,28 @@
+{
+  "id": 1031,
+  "guid": "2a436543-55ef-4f8d-a8c6-955ce870a700",
+  "logo": null,
+  "date": "2019-08-24T13:00:00+02:00",
+  "start": "13:00",
+  "duration": "3:00",
+  "room": "Village:HardwareHackingArea",
+  "slug": "camp2019-1031-session_ardutouch_music_synthesizer",
+  "title": "ArduTouch music synthesizer",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "''Learn to solder together a cool, powerful music synthesizer,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and learn to make cool music, sound, and noise!''<br> <br> ''(This is one of many cool things happening throughout CCCamp 2019 at the '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given:<br> &nbsp;&nbsp;&nbsp;Day 4: 30-Dec, 1pm - 4pm<br>",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Maltman23",
+      "public_name": "Maltman23"
+    }
+  ],
+  "links": [
+    "https://cornfieldelectronics.com/cfe/projects.php#ardutouch",
+    "//events.ccc.de/camp/2019/wiki/Session:ArduTouch_music_synthesizer"
+  ]
+}

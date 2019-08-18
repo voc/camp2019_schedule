@@ -1,0 +1,27 @@
+{
+  "id": 1193,
+  "guid": "a832c946-31a9-41b2-963b-5ef4cc31b33c",
+  "logo": null,
+  "date": "2019-08-21T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "0:30",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1193-session_digitale_werkzeuge_zum_verstaendnis_von_klima_und_wetter",
+  "title": "Digitale Werkzeuge zum Verst\u00e4ndnis von Klima und Wetter",
+  "subtitle": "about:stage",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "public_name": "Gnunicorn"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Digitale_Werkzeuge_zum_Verst%C3%A4ndnis_von_Klima_und_Wetter"
+  ]
+}

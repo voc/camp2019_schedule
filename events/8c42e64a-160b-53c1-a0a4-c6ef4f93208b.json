@@ -1,0 +1,32 @@
+{
+  "id": 113,
+  "guid": "8c42e64a-160b-53c1-a0a4-c6ef4f93208b",
+  "logo": "/media/thms/images/3UBEUB/6B5CDF68-12FE-416E-9490-3B4DFD62F867.jpeg",
+  "date": "2019-08-23T21:30:00+00:00",
+  "start": "21:30",
+  "duration": "01:00",
+  "room": "Plank",
+  "slug": "3UBEUB",
+  "url": "http://talx.thm.cloud/thms/talk/3UBEUB/",
+  "title": "Systemabsturz",
+  "subtitle": "",
+  "track": "Music",
+  "type": "Band",
+  "language": "de",
+  "abstract": "Systemabsturz haben sich in den Tiefen des Berliner Datenschutzuntergrunds\r\ngegr\u00fcndet und spielen unter immer anderem Namen. Ihre Musik ist ganz klar dem Stil datenschutzsensibilisierter\r\nSynthiepunk-Bands der 80er zuzuordnen, gekreuzt mit Schlagerverschnitten\r\nund Techno. Stets ernst und pflichtbewusst fordern sie in ihren Texten\r\neinen weiteren Abbau der Freiheitsrechte und noch mehr \u00dcberwachung.",
+  "description": "Wie oben.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 24,
+      "code": "RB98TC",
+      "public_name": "Sof",
+      "biography": "@Systemabsturz",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

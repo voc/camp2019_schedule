@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10353.html",
-    "id": 10353,
-    "guid": "6963b184-207a-4ac3-9aea-530120c1445f",
-    "logo": null,
-    "date": "2019-08-24T18:00:00+02:00",
-    "start": "18:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10353-fast_global_internet_scanning_-_challenges_and_new_approaches",
-    "title": "Fast Global Internet Scanning - Challenges and new Approaches",
-    "subtitle": "Or how to become your own ISP",
-    "track": "Security",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "Current search engines such as censys or shodan give everyone an insight into the global Internet. Unfortunately, they don't provide a comprehensive view of the Internet because you can't access the raw data. Consequently, you have to scan the Internet yourself.\r\nAnyone can perform a one-shot scan via Mass-Scan & Co. However, how to build an infrastructure for regular Internet scans that is not blocked after a short time by Intrussion Detection Systems and Spam/Blacklists is not easy. \r\nFirst we will talk about the right scan setup, infrastructure, scan strategies, and data enrichment. We will then take a look at the data and gain common and interesting insights into the structure of the Internet.",
-    "description": "Current search engines such as censys or shodan give everyone an insight into the global Internet. Unfortunately, they don't provide a comprehensive view of the Internet because you can't access the raw data. Consequently, you have to scan the Internet yourself.\r\nAnyone can perform a one-shot scan via Mass-Scan & Co. However, how to build an infrastructure for regular Internet scans that is not blocked after a short time by Intrussion Detection System and Spam/Blacklists is not easy. The following questions must be answered:\r\nWhich scanning algorithms are used (centralized, distributed, BGP prefix hit lists)? How could you reduce scan traffic?  How do I process the data in the long term (up to 600GB / scan)? With which further data do I enrich the scans for further analyses (BGP prefixes, Inetnum objects) ? How do I build the right server without a bottleneck and how do I connect it to the internet (rent a server or become a RIPE-Member/ your own ISP with a /22 IPv4 /32 IPv6 Block)? \r\n\r\nIn the first half of the talk we will deal with these questions. In the second half of the lecture we will discuss real scan data. We will concentrate on the analysis of the network topology and distribution of BGP prefixes, whois blocks and network services of well-known autonomous systems on the Internet. As a further example, we will look at the network structure of a large well-known German hoster, which gives us a good overview of its internal organization of data centers and other services. Finally, we will look at some data and analysis from a security perspective.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 9072,
-            "public_name": "Johannes Klick 'Garak'"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10353.html",
+  "id": 10353,
+  "guid": "6963b184-207a-4ac3-9aea-530120c1445f",
+  "logo": null,
+  "date": "2019-08-24T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10353-fast_global_internet_scanning_-_challenges_and_new_approaches",
+  "title": "Fast Global Internet Scanning - Challenges and new Approaches",
+  "subtitle": "Or how to become your own ISP",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Current search engines such as censys or shodan give everyone an insight into the global Internet. Unfortunately, they don't provide a comprehensive view of the Internet because you can't access the raw data. Consequently, you have to scan the Internet yourself.\r\nAnyone can perform a one-shot scan via Mass-Scan & Co. However, how to build an infrastructure for regular Internet scans that is not blocked after a short time by Intrussion Detection Systems and Spam/Blacklists is not easy. \r\nFirst we will talk about the right scan setup, infrastructure, scan strategies, and data enrichment. We will then take a look at the data and gain common and interesting insights into the structure of the Internet.",
+  "description": "Current search engines such as censys or shodan give everyone an insight into the global Internet. Unfortunately, they don't provide a comprehensive view of the Internet because you can't access the raw data. Consequently, you have to scan the Internet yourself.\r\nAnyone can perform a one-shot scan via Mass-Scan & Co. However, how to build an infrastructure for regular Internet scans that is not blocked after a short time by Intrussion Detection System and Spam/Blacklists is not easy. The following questions must be answered:\r\nWhich scanning algorithms are used (centralized, distributed, BGP prefix hit lists)? How could you reduce scan traffic?  How do I process the data in the long term (up to 600GB / scan)? With which further data do I enrich the scans for further analyses (BGP prefixes, Inetnum objects) ? How do I build the right server without a bottleneck and how do I connect it to the internet (rent a server or become a RIPE-Member/ your own ISP with a /22 IPv4 /32 IPv6 Block)? \r\n\r\nIn the first half of the talk we will deal with these questions. In the second half of the lecture we will discuss real scan data. We will concentrate on the analysis of the network topology and distribution of BGP prefixes, whois blocks and network services of well-known autonomous systems on the Internet. As a further example, we will look at the network structure of a large well-known German hoster, which gives us a good overview of its internal organization of data centers and other services. Finally, we will look at some data and analysis from a security perspective.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9072,
+      "public_name": "Johannes Klick 'Garak'"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

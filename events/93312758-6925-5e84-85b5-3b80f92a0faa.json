@@ -1,0 +1,32 @@
+{
+  "id": 111,
+  "guid": "93312758-6925-5e84-85b5-3b80f92a0faa",
+  "logo": "/media/thms/images/P9JCSV/Im_Eis_Ronja_Reese.png",
+  "date": "2019-08-24T15:00:00+00:00",
+  "start": "15:00",
+  "duration": "01:00",
+  "room": "Plank",
+  "slug": "P9JCSV",
+  "url": "http://talx.thm.cloud/thms/talk/P9JCSV/",
+  "title": "Global Warming Sucks!",
+  "subtitle": "",
+  "track": "Talk",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Alle reden vom Klimawandel, doch niemand erkl\u00e4rt was da gerade passiert. Wird es in Zukunft einfach nur sch\u00f6n warm oder wird die Ver\u00e4nderung der Umwelt die Menschheit in die Knie zwingen? Warum der Temperaturanstieg der Atmosph\u00e4re einzigartig ist und welche Folgen dies f\u00fcr Land, Meer und Gletscher hat, erkl\u00e4rt die angehende Polarforscherin Maria-Elena Vorrath.",
+  "description": "Die Diskussion \u00fcber den menschengemachten Klimawandel ist in den Medien stark verzerrt und es ist schwer sich als Laie in der Informationsflut zu orientieren. Der Vortrag \"Global Warming Sucks!\" soll eine breiten Zuh\u00f6rerschaft \u00fcber die aktuelle Situation des sich wandelnden Erdklimas sachlich aufkl\u00e4ren. Es wird erkl\u00e4rt, wie der Aussto\u00df von Treibhausgasen die Atmosph\u00e4re seit der Industrialisierung beeinflusst und auf die bisherigen beobachteten Ver\u00e4nderungen in allen Teilen der Erde eingegangen. Anschlie\u00dfend werden einige globale Kipppunkte, die sensiblen Bausteine des Klimasystems, vorgestellt, und ihre Reichweite, Verwundbarkeit und Bedeutung f\u00fcr die Menschheit verdeutlicht. Angesichts der wissenschaftlichen Erkenntnisse k\u00f6nnen die Zuschauer nun \u00f6ffentliche Auseinandersetzungen besser einordnen und kommentieren und ihren Beitrag zur L\u00f6sung der Klimakrise bestimmen. Fragen sind ausdr\u00fccklich erw\u00fcnscht.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 22,
+      "code": "7JYRX9",
+      "public_name": "Maria-Elena Vorrath",
+      "biography": "Ich lebe in Bremerhaven und promoviere am Alfred Wegener Institut \u00fcber die Geschichte des Antarktischen Meereises und Klimas. Unsere Forschung leistet einen Beitrag um Klimaver\u00e4nderungen der Vergangenheit zu erforschen und diese Erkenntnisse f\u00fcr Klimaprojektionen der Zukunft zu nutzen. Ansonsten mache ich viele Science Slams und Wissenschaftskommunikation.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

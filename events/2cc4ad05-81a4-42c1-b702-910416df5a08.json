@@ -1,0 +1,22 @@
+{
+  "id": 1127,
+  "guid": "2cc4ad05-81a4-42c1-b702-910416df5a08",
+  "logo": null,
+  "date": "2019-08-22T20:30:00+02:00",
+  "start": "20:30",
+  "duration": "2:00",
+  "room": "Village:HardwareHackingArea",
+  "slug": "camp2019-1127-session_soft_circuits_sew_a_tiny_squishy_torch_with_diy_pressure_sensor",
+  "title": "Soft circuits: sew a tiny squishy torch with DIY pressure sensor",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "Make a tiny squishy torch with DIY pressure sensor: an introduction to soft circuits",
+  "persons": [],
+  "links": [
+    "https://twitter.com/helenleigh",
+    "//events.ccc.de/camp/2019/wiki/Session:Soft_circuits:_sew_a_tiny_squishy_torch_with_DIY_pressure_sensor"
+  ]
+}

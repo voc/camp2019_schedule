@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10381.html",
-    "id": 10381,
-    "guid": "2fe00b49-1471-4c79-8a75-8da73f71b63d",
-    "logo": null,
-    "date": "2019-08-24T13:00:00+02:00",
-    "start": "13:00",
-    "duration": "00:45",
-    "room": "Meitner",
-    "slug": "Camp2019-10381-love_cyborgs_art_and_open_source-_an_artistic_approach_on_how_to_stay_golden",
-    "title": "Love, CyBorgs, Art and Open Source- an artistic approach on how to stay golden",
-    "subtitle": "How to educate society through the language of art",
-    "track": "Art & Culture",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "Here we are, a new generation. Actually not only that, we are moving forward in evolution. The Antropocene is screaming for action, but -  \u201eYeah right, I know... we\u2018re working on it!\u201c she told me. Does Sophia really know? Do I care? 42?",
-    "description": "In some people\u2018s minds, utopian thoughts are blizzering around in thunderstorms of beautiful insanity, yet unfortunately  some others\u2018 minds seem to be hopeless cases if it comes to the essential understanding of problems. Sure, everyone knows what we\u2018re talking about. In theory, there is a strong need to change things, not only concerning politics, philosophy, art or physics: almost every academic discipline seems to grow some kind of interdisciplinary necessity into an important status. Sadly, the worlds` leaders suck horribly at reaching any fair and positive social state for all the inhabitants of this beautiful planet. But, since education can be based on solidarity, and swarm intelligence apparently grows into neural networks, there is no better time to sit down and talk about all those moral problems than now. Any change needs to be made by an individual, as far as we know. Let\u2018s get together, exchange knowledge, fight in peace and use the language of conceptual art as a weapon!",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 9128,
-            "public_name": "Lio"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10381.html",
+  "id": 10381,
+  "guid": "2fe00b49-1471-4c79-8a75-8da73f71b63d",
+  "logo": null,
+  "date": "2019-08-24T13:00:00+02:00",
+  "start": "13:00",
+  "duration": "00:45",
+  "room": "Meitner",
+  "slug": "Camp2019-10381-love_cyborgs_art_and_open_source-_an_artistic_approach_on_how_to_stay_golden",
+  "title": "Love, CyBorgs, Art and Open Source- an artistic approach on how to stay golden",
+  "subtitle": "How to educate society through the language of art",
+  "track": "Art & Culture",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Here we are, a new generation. Actually not only that, we are moving forward in evolution. The Antropocene is screaming for action, but -  \u201eYeah right, I know... we\u2018re working on it!\u201c she told me. Does Sophia really know? Do I care? 42?",
+  "description": "In some people\u2018s minds, utopian thoughts are blizzering around in thunderstorms of beautiful insanity, yet unfortunately  some others\u2018 minds seem to be hopeless cases if it comes to the essential understanding of problems. Sure, everyone knows what we\u2018re talking about. In theory, there is a strong need to change things, not only concerning politics, philosophy, art or physics: almost every academic discipline seems to grow some kind of interdisciplinary necessity into an important status. Sadly, the worlds` leaders suck horribly at reaching any fair and positive social state for all the inhabitants of this beautiful planet. But, since education can be based on solidarity, and swarm intelligence apparently grows into neural networks, there is no better time to sit down and talk about all those moral problems than now. Any change needs to be made by an individual, as far as we know. Let\u2018s get together, exchange knowledge, fight in peace and use the language of conceptual art as a weapon!",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9128,
+      "public_name": "Lio"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

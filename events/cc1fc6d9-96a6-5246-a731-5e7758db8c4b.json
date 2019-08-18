@@ -1,0 +1,28 @@
+{
+  "id": 1204,
+  "guid": "cc1fc6d9-96a6-5246-a731-5e7758db8c4b",
+  "logo": null,
+  "date": "2019-08-23T20:30:00+02:00",
+  "start": "20:30",
+  "duration": "2:00",
+  "room": "Village:HardwareHackingArea",
+  "slug": "camp2019-1204-session_geiger_counter_workshop",
+  "title": "Geiger Counter Workshop",
+  "subtitle": "Geiger Counter Workshop 2",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "Build a working Geiger Counter",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Mightyohm",
+      "public_name": "Mightyohm"
+    }
+  ],
+  "links": [
+    "http://mightyohm.com/geiger",
+    "//events.ccc.de/camp/2019/wiki/Session:Geiger_Counter_Workshop"
+  ]
+}

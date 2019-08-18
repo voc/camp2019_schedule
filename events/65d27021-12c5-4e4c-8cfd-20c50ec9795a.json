@@ -1,32 +1,32 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10257.html",
-    "id": 10257,
-    "guid": "65d27021-12c5-4e4c-8cfd-20c50ec9795a",
-    "logo": null,
-    "date": "2019-08-24T21:00:00+02:00",
-    "start": "21:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10257-little_big_data",
-    "title": "Little Big Data",
-    "subtitle": "Spurensuche in elektronischen Teilnehmerverzeichnissen",
-    "track": "Ethics, Society & Politics",
-    "type": "lecture",
-    "language": "de",
-    "abstract": "Ein Geheimdienst im 21. Jahrhundert, der was auf sich h\u00e4lt, muss Big Data machen: M\u00f6glichst alles \u00fcber alle B\u00fcrger sammeln, horten, sortieren, filtern, rastern und ja niemandem was von den Ergebnissen mitteilen. Da haben wir uns gedacht: Das k\u00f6nnen wir auch! Daher machen wir f\u00fcr unseren eigenen Kurznachrichtendienst eben in Little Big Data.",
-    "description": "Praktischerweise stellt die Deutsche Telekom im Halbjahrestakt eine digitale Offlinedatenbank bereit, die schonmal Adressen, Telefonnummern und Geokoordinaten der meisten Einwohner enth\u00e4lt - und das seit 1992. Einzige Nachl\u00e4ssigkeit: Die Informationen sind in bin\u00e4rer Form auf den Datentr\u00e4gern abgelegt und die Gewissenhaftigkeit der Informanten im Post- und Telekomdienst l\u00e4sst ausweislich offensichtlicher Fehler in den Datens\u00e4tzen zu w\u00fcnschen \u00fcbrig.\r\n\r\nBegleitet uns in einem besinnlichen Diavortrag bei Geschichten einer abenteuerlichen Jagd nach den Datens\u00e4tzen, von nervenaufreibendem Starren auf Bin\u00e4rmuster, um den Geheimnissen der Encraption auf den Grund zu gehen und dem \u00fcberw\u00e4ltigenden Gef\u00fchl, mal an Datenmengen zu schnuppern, die noch vor ein paar Jahren problemlos als \u201cBig Data\u201d durchgegangen w\u00e4ren.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 1544,
-            "public_name": "erdgeist"
-        },
-        {
-            "id": 1645,
-            "public_name": "Andreas Lehner"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10257.html",
+  "id": 10257,
+  "guid": "65d27021-12c5-4e4c-8cfd-20c50ec9795a",
+  "logo": null,
+  "date": "2019-08-24T21:00:00+02:00",
+  "start": "21:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10257-little_big_data",
+  "title": "Little Big Data",
+  "subtitle": "Spurensuche in elektronischen Teilnehmerverzeichnissen",
+  "track": "Ethics, Society & Politics",
+  "type": "lecture",
+  "language": "de",
+  "abstract": "Ein Geheimdienst im 21. Jahrhundert, der was auf sich h\u00e4lt, muss Big Data machen: M\u00f6glichst alles \u00fcber alle B\u00fcrger sammeln, horten, sortieren, filtern, rastern und ja niemandem was von den Ergebnissen mitteilen. Da haben wir uns gedacht: Das k\u00f6nnen wir auch! Daher machen wir f\u00fcr unseren eigenen Kurznachrichtendienst eben in Little Big Data.",
+  "description": "Praktischerweise stellt die Deutsche Telekom im Halbjahrestakt eine digitale Offlinedatenbank bereit, die schonmal Adressen, Telefonnummern und Geokoordinaten der meisten Einwohner enth\u00e4lt - und das seit 1992. Einzige Nachl\u00e4ssigkeit: Die Informationen sind in bin\u00e4rer Form auf den Datentr\u00e4gern abgelegt und die Gewissenhaftigkeit der Informanten im Post- und Telekomdienst l\u00e4sst ausweislich offensichtlicher Fehler in den Datens\u00e4tzen zu w\u00fcnschen \u00fcbrig.\r\n\r\nBegleitet uns in einem besinnlichen Diavortrag bei Geschichten einer abenteuerlichen Jagd nach den Datens\u00e4tzen, von nervenaufreibendem Starren auf Bin\u00e4rmuster, um den Geheimnissen der Encraption auf den Grund zu gehen und dem \u00fcberw\u00e4ltigenden Gef\u00fchl, mal an Datenmengen zu schnuppern, die noch vor ein paar Jahren problemlos als \u201cBig Data\u201d durchgegangen w\u00e4ren.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 1544,
+      "public_name": "erdgeist"
+    },
+    {
+      "id": 1645,
+      "public_name": "Andreas Lehner"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

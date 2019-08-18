@@ -1,0 +1,28 @@
+{
+  "id": 1216,
+  "guid": "ad76e911-3536-4b60-81bc-93fb0f2ddc12",
+  "logo": null,
+  "date": "2019-08-21T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "2:00",
+  "room": "Village:Foodhackingbase",
+  "slug": "camp2019-1216-session_introduction_to_tempeh_making",
+  "title": "Introduction to Tempeh Making",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "en",
+  "abstract": "",
+  "description": "You will learn how to make your own tempeh.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Algoldor",
+      "public_name": "Algoldor"
+    }
+  ],
+  "links": [
+    "https://foodhackingbase.org/wiki/Tempeh_making_ccccamp2019",
+    "//events.ccc.de/camp/2019/wiki/Session:Introduction_to_Tempeh_Making"
+  ]
+}

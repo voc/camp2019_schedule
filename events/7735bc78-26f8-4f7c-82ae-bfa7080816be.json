@@ -1,0 +1,27 @@
+{
+  "id": 1119,
+  "guid": "7735bc78-26f8-4f7c-82ae-bfa7080816be",
+  "logo": null,
+  "date": "2019-08-25T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "0:55",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1119-session_proof_of_ignorance",
+  "title": "Proof of ignorance",
+  "subtitle": "about:stage",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "public_name": "Gnunicorn"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Proof_of_ignorance"
+  ]
+}

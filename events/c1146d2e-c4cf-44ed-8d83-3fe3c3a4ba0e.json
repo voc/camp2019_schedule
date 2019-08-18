@@ -1,42 +1,42 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10202.html",
-    "id": 10202,
-    "guid": "c1146d2e-c4cf-44ed-8d83-3fe3c3a4ba0e",
-    "logo": null,
-    "date": "2019-08-24T17:00:00+02:00",
-    "start": "17:00",
-    "duration": "00:45",
-    "room": "Meitner",
-    "slug": "Camp2019-10202-wisdom_of_os",
-    "title": "Wisdom of OS",
-    "subtitle": "An Inquiry into the Limits of the Possible",
-    "track": "Ethics, Society & Politics",
-    "type": "lecture",
-    "language": "de",
-    "abstract": "Klimakrise, Artensterben, die Grundlagen des Leben \u2013 unsere Herausforderungen sind dringend, global und komplex. Seit dem Anthropoz\u00e4n wissen wir, dass der Planet in unserer Hand liegt. Jetzt m\u00fcssen wir unsere K\u00f6pfe zusammenstecken und gemeinsam L\u00f6sungen entwickeln. Ankn\u00fcpfend an historischen Konzepte von einer das Weltwissen allgemein zug\u00e4nglich machenden World Encyclopedia und des k\u00fcnstlich intelligenten Word Brain kann eine interdisziplin\u00e4re Betrachtung durch unterschiedliche Herangehensweisen spannende neue Sichtweisen er\u00f6ffnen.\r\n\r\nDie Wahrnehmung von Betriebssystemen als Schnittstelle zwischen Mensch und Maschine, die Auswirkung von Softwarelizenzen auf die Gestaltung der Verh\u00e4ltnisse zwischen Maschinen, Menschen, Firmen und Staaten und die mit einer weltweiten Vernetzung entstehenden Chancen und Risiken k\u00f6nnen aus Hackersicht von einem sehr technischen Startpunkt analysiert werden.\r\n\r\nDas Anthropz\u00e4n verlangt den \u00dcbergang in die Noosph\u00e4re. Und das hei\u00dft, wir m\u00fcssen das  Urheberrecht als juristisches Betriebssystem unserer Wissensordnung in Ordnung bringen, das Netz als seine technische Infrastruktur redezentralisieren und semantifizieren, unser wissenschaftliches, journalistisches und k\u00fcnstlerisches Sensorium st\u00e4rken und Werkzeuge entwickeln, die es uns erlauben, gemeinsam zu denken und zu enstscheiden. Mehr als k\u00fcnstliche brauchen wir menschliche kollektive Intelligenz, um die Betriebssysteme unserer Gesellschaft mit kollektiver Weisheit auszustatten.",
-    "description": "",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 5580,
-            "public_name": "vgrass"
-        },
-        {
-            "id": 1545,
-            "public_name": "ruedi"
-        }
-    ],
-    "links": [
-        {
-            "url": "http://public.beuth-hochschule.de/~rweis/papers/WeisHochschulforumDigitalisihttp://public.beuth-hochschule.de/~rweis/papers/WeisHochschulforumDigitalisierungBetriebssystemBildung.pdferungBetriebssystemBildung.pdf",
-            "title": "R\u00fcdiger Weis, Bildung als Betriebssystem der Digitalen Gesellschaft, HRK Expertenanh\u00f6rung, Frankfurt, 7. Februar 2019 "
-        }
-    ],
-    "attachments": [
-        {
-            "url": "/system/event_attachments/attachments/000/003/763/original/WeisHochschulforumDigitalisierungBetriebssystemBildung.pdf?1560249921",
-            "title": "R\u00fcdiger Weis, Bildung als Betriebssystem der Digitalen Gesellschaft, HRK Expertenanh\u00f6rung, Frankfurt, 7. Februar 2019 "
-        }
-    ]
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10202.html",
+  "id": 10202,
+  "guid": "c1146d2e-c4cf-44ed-8d83-3fe3c3a4ba0e",
+  "logo": null,
+  "date": "2019-08-24T17:00:00+02:00",
+  "start": "17:00",
+  "duration": "00:45",
+  "room": "Meitner",
+  "slug": "Camp2019-10202-wisdom_of_os",
+  "title": "Wisdom of OS",
+  "subtitle": "An Inquiry into the Limits of the Possible",
+  "track": "Ethics, Society & Politics",
+  "type": "lecture",
+  "language": "de",
+  "abstract": "Klimakrise, Artensterben, die Grundlagen des Leben \u2013 unsere Herausforderungen sind dringend, global und komplex. Seit dem Anthropoz\u00e4n wissen wir, dass der Planet in unserer Hand liegt. Jetzt m\u00fcssen wir unsere K\u00f6pfe zusammenstecken und gemeinsam L\u00f6sungen entwickeln. Ankn\u00fcpfend an historischen Konzepte von einer das Weltwissen allgemein zug\u00e4nglich machenden World Encyclopedia und des k\u00fcnstlich intelligenten Word Brain kann eine interdisziplin\u00e4re Betrachtung durch unterschiedliche Herangehensweisen spannende neue Sichtweisen er\u00f6ffnen.\r\n\r\nDie Wahrnehmung von Betriebssystemen als Schnittstelle zwischen Mensch und Maschine, die Auswirkung von Softwarelizenzen auf die Gestaltung der Verh\u00e4ltnisse zwischen Maschinen, Menschen, Firmen und Staaten und die mit einer weltweiten Vernetzung entstehenden Chancen und Risiken k\u00f6nnen aus Hackersicht von einem sehr technischen Startpunkt analysiert werden.\r\n\r\nDas Anthropz\u00e4n verlangt den \u00dcbergang in die Noosph\u00e4re. Und das hei\u00dft, wir m\u00fcssen das  Urheberrecht als juristisches Betriebssystem unserer Wissensordnung in Ordnung bringen, das Netz als seine technische Infrastruktur redezentralisieren und semantifizieren, unser wissenschaftliches, journalistisches und k\u00fcnstlerisches Sensorium st\u00e4rken und Werkzeuge entwickeln, die es uns erlauben, gemeinsam zu denken und zu enstscheiden. Mehr als k\u00fcnstliche brauchen wir menschliche kollektive Intelligenz, um die Betriebssysteme unserer Gesellschaft mit kollektiver Weisheit auszustatten.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 5580,
+      "public_name": "vgrass"
+    },
+    {
+      "id": 1545,
+      "public_name": "ruedi"
+    }
+  ],
+  "links": [
+    {
+      "url": "http://public.beuth-hochschule.de/~rweis/papers/WeisHochschulforumDigitalisihttp://public.beuth-hochschule.de/~rweis/papers/WeisHochschulforumDigitalisierungBetriebssystemBildung.pdferungBetriebssystemBildung.pdf",
+      "title": "R\u00fcdiger Weis, Bildung als Betriebssystem der Digitalen Gesellschaft, HRK Expertenanh\u00f6rung, Frankfurt, 7. Februar 2019 "
+    }
+  ],
+  "attachments": [
+    {
+      "url": "/system/event_attachments/attachments/000/003/763/original/WeisHochschulforumDigitalisierungBetriebssystemBildung.pdf?1560249921",
+      "title": "R\u00fcdiger Weis, Bildung als Betriebssystem der Digitalen Gesellschaft, HRK Expertenanh\u00f6rung, Frankfurt, 7. Februar 2019 "
+    }
+  ]
 }

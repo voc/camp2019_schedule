@@ -1,33 +1,33 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10255.html",
-    "id": 10255,
-    "guid": "d57b03ce-cc47-403d-8d18-c707dcd61bd1",
-    "logo": null,
-    "date": "2019-08-22T21:00:00+02:00",
-    "start": "21:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10255-caught_in_the_net",
-    "title": "Caught in the Net",
-    "subtitle": "The Impact of Anti-Extremism Content Regulation on Human Rights",
-    "track": "Ethics, Society & Politics",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "Increasingly, governments are moving to impose regulatory measures that would require the removal of extremist speech or privatize enforcement of existing laws. But all too often, these regulations infringe on human rights. What should societies be doing to counter extremism while ensuring the rights of the vulnerable are preserved?",
-    "description": "Social media companies have long struggled with what to do about extremist content on their platforms. While most companies include provisions about \u201cextremist\u201d content in their community standards, such content is often vaguely defined. Governments increasingly rely on platforms to regulate speech for them, relying on the very same rulesets.\r\n\r\nThese vague policies, coupled with the practice of for-profit commercial content moderation, has led to mistakes at scale that are decimating human rights content on these platforms and threatening our civil liberties. Furthermore, the very idea that censorship can solve the deeply rooted\r\nproblems of extremism in modern society is a mistake. ",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 5001,
-            "public_name": "Jillian C. York"
-        }
-    ],
-    "links": [
-        {
-            "url": "https://www.eff.org/wp/caught-net-impact-extremist-speech-regulations-human-rights-content",
-            "title": "Caught in the Net: The Impact of \"Extremist\" Speech Regulations on Human Rights Content"
-        }
-    ],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10255.html",
+  "id": 10255,
+  "guid": "d57b03ce-cc47-403d-8d18-c707dcd61bd1",
+  "logo": null,
+  "date": "2019-08-22T21:00:00+02:00",
+  "start": "21:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10255-caught_in_the_net",
+  "title": "Caught in the Net",
+  "subtitle": "The Impact of Anti-Extremism Content Regulation on Human Rights",
+  "track": "Ethics, Society & Politics",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Increasingly, governments are moving to impose regulatory measures that would require the removal of extremist speech or privatize enforcement of existing laws. But all too often, these regulations infringe on human rights. What should societies be doing to counter extremism while ensuring the rights of the vulnerable are preserved?",
+  "description": "Social media companies have long struggled with what to do about extremist content on their platforms. While most companies include provisions about \u201cextremist\u201d content in their community standards, such content is often vaguely defined. Governments increasingly rely on platforms to regulate speech for them, relying on the very same rulesets.\r\n\r\nThese vague policies, coupled with the practice of for-profit commercial content moderation, has led to mistakes at scale that are decimating human rights content on these platforms and threatening our civil liberties. Furthermore, the very idea that censorship can solve the deeply rooted\r\nproblems of extremism in modern society is a mistake. ",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 5001,
+      "public_name": "Jillian C. York"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.eff.org/wp/caught-net-impact-extremist-speech-regulations-human-rights-content",
+      "title": "Caught in the Net: The Impact of \"Extremist\" Speech Regulations on Human Rights Content"
+    }
+  ],
+  "attachments": []
 }

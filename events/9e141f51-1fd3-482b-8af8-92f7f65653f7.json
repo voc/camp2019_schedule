@@ -1,37 +1,37 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10226.html",
-    "id": 10226,
-    "guid": "9e141f51-1fd3-482b-8af8-92f7f65653f7",
-    "logo": "/system/events/logos/000/010/226/large/katzenpost_logo.png?1559993635",
-    "date": "2019-08-23T21:00:00+02:00",
-    "start": "21:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10226-introduction_to_mix_networks_and_katzenpost",
-    "title": "Introduction to Mix Networks and Katzenpost",
-    "subtitle": "a new anonymity movement",
-    "track": "Security",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "This talk will introduce the fundamental concepts of mix networks as\r\nwell as the Katzenpost mix network free software project. We are not\r\njust implementing a new mix network but starting a new anonymity\r\nmovement and we welcome others to join us! Like Tor, mix networks\r\nprotect metadata by using layered encryption and routing packets\r\nbetween a series of independent nodes. Mix networks resist vastly more\r\npowerful adversary models than Tor though, including partial defense\r\nagainst global passive adversaries. In so doing, mix networks add both\r\nlatency and cover traffic. I shall outline the basic components of a\r\nmix network, touch on their roles in resisting active and passive\r\nattacks. In particular I'll mention how mix networks can be used with\r\nencrypted messaging applications and crypto currency to resist global\r\nnetwork surveillance and traffic analysis.\r\n",
-    "description": "Academics have proposed various anonymity technologies with far\r\nstronger threat models than Tor, but by far the most practical and\r\nefficient option remains mix networks, which date to the founding of\r\nanonymity research by David Chaum in 1981. Tor was inspired by mix\r\nnetworks and shares some superficial similarities, but mix networks'\r\nare vastly stronger if they judiciously add latency and decoy traffic.\r\n\r\nThere are several historical reasons why mixnets lost popularity and\r\nwhy Tor's onion routing won. Namely, Tor is low latency and can be\r\nused to browse the web. This is in contrast to mix networks which are\r\nessentially an unreliable packet switching network. Historically mix\r\nnetworks achieved enough mix entropy by using long delays whereas it\r\nis becoming more widely understood that there exists a trade off\r\nbetween legit traffic, decoy traffic and latency. After this\r\nintroduction to mix networks I'll talk a bit about the Katzenpost mix\r\nnetwork software project which is based off of the recently published\r\nacademic paper \"The Loopix Anonymity System\". These new insights into\r\nmix network designs allow modern mix networks to make the correct\r\ndesign trade offs so that we can keep the latency relatively\r\nlow. Historically high latency and unreliability has been a major\r\nobstacle to mass adoption. I shall explain how Katzenpost solves both\r\nof these problems and allows developers to easily add network services\r\nto the mix network to support a wide variety of client applications\r\nincluding but not limited to: encrypted messaging, crypto currency\r\ntransaction transport, offline browsing and, transporting client\r\ninteractions with Distributed Hash Tables and Conflict Free\r\nReplicating Data Types et cetera.\r\n",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 7790,
-            "public_name": "David Stainton"
-        },
-        {
-            "id": 3988,
-            "public_name": "mo"
-        }
-    ],
-    "links": [
-        {
-            "url": "https://katzenpost.mixnetworks.org/",
-            "title": "Katzenpost website"
-        }
-    ],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10226.html",
+  "id": 10226,
+  "guid": "9e141f51-1fd3-482b-8af8-92f7f65653f7",
+  "logo": "/system/events/logos/000/010/226/large/katzenpost_logo.png?1559993635",
+  "date": "2019-08-23T21:00:00+02:00",
+  "start": "21:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10226-introduction_to_mix_networks_and_katzenpost",
+  "title": "Introduction to Mix Networks and Katzenpost",
+  "subtitle": "a new anonymity movement",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "This talk will introduce the fundamental concepts of mix networks as\r\nwell as the Katzenpost mix network free software project. We are not\r\njust implementing a new mix network but starting a new anonymity\r\nmovement and we welcome others to join us! Like Tor, mix networks\r\nprotect metadata by using layered encryption and routing packets\r\nbetween a series of independent nodes. Mix networks resist vastly more\r\npowerful adversary models than Tor though, including partial defense\r\nagainst global passive adversaries. In so doing, mix networks add both\r\nlatency and cover traffic. I shall outline the basic components of a\r\nmix network, touch on their roles in resisting active and passive\r\nattacks. In particular I'll mention how mix networks can be used with\r\nencrypted messaging applications and crypto currency to resist global\r\nnetwork surveillance and traffic analysis.\r\n",
+  "description": "Academics have proposed various anonymity technologies with far\r\nstronger threat models than Tor, but by far the most practical and\r\nefficient option remains mix networks, which date to the founding of\r\nanonymity research by David Chaum in 1981. Tor was inspired by mix\r\nnetworks and shares some superficial similarities, but mix networks'\r\nare vastly stronger if they judiciously add latency and decoy traffic.\r\n\r\nThere are several historical reasons why mixnets lost popularity and\r\nwhy Tor's onion routing won. Namely, Tor is low latency and can be\r\nused to browse the web. This is in contrast to mix networks which are\r\nessentially an unreliable packet switching network. Historically mix\r\nnetworks achieved enough mix entropy by using long delays whereas it\r\nis becoming more widely understood that there exists a trade off\r\nbetween legit traffic, decoy traffic and latency. After this\r\nintroduction to mix networks I'll talk a bit about the Katzenpost mix\r\nnetwork software project which is based off of the recently published\r\nacademic paper \"The Loopix Anonymity System\". These new insights into\r\nmix network designs allow modern mix networks to make the correct\r\ndesign trade offs so that we can keep the latency relatively\r\nlow. Historically high latency and unreliability has been a major\r\nobstacle to mass adoption. I shall explain how Katzenpost solves both\r\nof these problems and allows developers to easily add network services\r\nto the mix network to support a wide variety of client applications\r\nincluding but not limited to: encrypted messaging, crypto currency\r\ntransaction transport, offline browsing and, transporting client\r\ninteractions with Distributed Hash Tables and Conflict Free\r\nReplicating Data Types et cetera.\r\n",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 7790,
+      "public_name": "David Stainton"
+    },
+    {
+      "id": 3988,
+      "public_name": "mo"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://katzenpost.mixnetworks.org/",
+      "title": "Katzenpost website"
+    }
+  ],
+  "attachments": []
 }

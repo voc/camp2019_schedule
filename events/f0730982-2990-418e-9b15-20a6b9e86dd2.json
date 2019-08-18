@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10295.html",
-    "id": 10295,
-    "guid": "f0730982-2990-418e-9b15-20a6b9e86dd2",
-    "logo": null,
-    "date": "2019-08-24T18:00:00+02:00",
-    "start": "18:00",
-    "duration": "00:45",
-    "room": "Meitner",
-    "slug": "Camp2019-10295-power-to-x",
-    "title": "Power-to-X",
-    "subtitle": "How to make (nearly) everything from electricity.",
-    "track": "Science",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "This talk will give an introduction into the general concepts of power-to-x and then go more into detail on carbon capture and utilization (CCU). CCU is the idea of building up a closed carbon cycle, where CO2 is recycled, towards fuels and base chemicals, under the use of renewable energy. The talk will give insight in the technology, chemistry, possibilities and challenges. ",
-    "description": "While redesigning our electric supply network towards renewable energies, we face the problem of the fluctuating behavior of the renewables. To solve this, higher nameplate capacities need to be installed, as compared to traditional power plants. This frequently leads to high overcapacities, which we should use, as they would be wasted otherwise. Some of this energy needs to be stored for periods where the energy generation is lower than our consumption. The rest can be used to produce all kinds of things that we need. This would allow a sector coupling of electricity with other fields like transport, heat or chemical industry and lead to more sustainable processes in all those fields.\r\nIf we see this on a global scale, we can also think of a redistribution of energy not only in time and sector of application, but as well in space. This can be realized, by producing fuels and other energy intensive products in areas of the world with a high potential in the generation of renewable electricity, and transport them to places where they are needed.\r\nThe technologies that would make this possible are often subsumed as power-to-x technologies. The Wikipedia names twelve different x\u2019s: power-to-ammonia, power-to-chemicals, power-to-fuel, power-to-gas, power-to-heat, power-to-hydrogen, power-to-liquid, power-to-methane, power-to-mobility, power-to-food, power-to-power, and power-to-syngas. In addition, one could still think of many more.\r\nI want to give a brief introductive overview on these different approaches and then focus on the technologies, which are using carbon dioxide as a feedstock. Here the idea of power-to-x is combined with the aim of a closed carbon cycle. Emitted CO2 would be recycled to products, like fuels, plastics or fine chemicals. While today these are mainly produced form crude oil, in future they could be implemented in a sustainable process cycle. \r\n\r\nFor these carbon capture and utilization (CCU) concepts, like for example electrolysis of water coupled with a second catalytic CO2 reduction step or direct electrocatalytic CO2-reduction, I will present the technical working principles, the chemistry behind it and discuss possibilities and challenges. ",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 8883,
-            "public_name": "Jonas Geisler"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10295.html",
+  "id": 10295,
+  "guid": "f0730982-2990-418e-9b15-20a6b9e86dd2",
+  "logo": null,
+  "date": "2019-08-24T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "00:45",
+  "room": "Meitner",
+  "slug": "Camp2019-10295-power-to-x",
+  "title": "Power-to-X",
+  "subtitle": "How to make (nearly) everything from electricity.",
+  "track": "Science",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "This talk will give an introduction into the general concepts of power-to-x and then go more into detail on carbon capture and utilization (CCU). CCU is the idea of building up a closed carbon cycle, where CO2 is recycled, towards fuels and base chemicals, under the use of renewable energy. The talk will give insight in the technology, chemistry, possibilities and challenges. ",
+  "description": "While redesigning our electric supply network towards renewable energies, we face the problem of the fluctuating behavior of the renewables. To solve this, higher nameplate capacities need to be installed, as compared to traditional power plants. This frequently leads to high overcapacities, which we should use, as they would be wasted otherwise. Some of this energy needs to be stored for periods where the energy generation is lower than our consumption. The rest can be used to produce all kinds of things that we need. This would allow a sector coupling of electricity with other fields like transport, heat or chemical industry and lead to more sustainable processes in all those fields.\r\nIf we see this on a global scale, we can also think of a redistribution of energy not only in time and sector of application, but as well in space. This can be realized, by producing fuels and other energy intensive products in areas of the world with a high potential in the generation of renewable electricity, and transport them to places where they are needed.\r\nThe technologies that would make this possible are often subsumed as power-to-x technologies. The Wikipedia names twelve different x\u2019s: power-to-ammonia, power-to-chemicals, power-to-fuel, power-to-gas, power-to-heat, power-to-hydrogen, power-to-liquid, power-to-methane, power-to-mobility, power-to-food, power-to-power, and power-to-syngas. In addition, one could still think of many more.\r\nI want to give a brief introductive overview on these different approaches and then focus on the technologies, which are using carbon dioxide as a feedstock. Here the idea of power-to-x is combined with the aim of a closed carbon cycle. Emitted CO2 would be recycled to products, like fuels, plastics or fine chemicals. While today these are mainly produced form crude oil, in future they could be implemented in a sustainable process cycle. \r\n\r\nFor these carbon capture and utilization (CCU) concepts, like for example electrolysis of water coupled with a second catalytic CO2 reduction step or direct electrocatalytic CO2-reduction, I will present the technical working principles, the chemistry behind it and discuss possibilities and challenges. ",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8883,
+      "public_name": "Jonas Geisler"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

@@ -1,0 +1,32 @@
+{
+  "id": 116,
+  "guid": "0d5c9c41-398c-5f2b-aeec-34f1ea5ac454",
+  "logo": "/media/thms/images/A879ZK/cccamp19_3.png",
+  "date": "2019-08-21T15:15:00+00:00",
+  "start": "15:15",
+  "duration": "02:00",
+  "room": "Workshop",
+  "slug": "A879ZK",
+  "url": "http://talx.thm.cloud/thms/talk/A879ZK/",
+  "title": "Einblicke in die Wettervorhersage",
+  "subtitle": "",
+  "track": "Workshop",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Ist das Wetter immer so unberechenbar wie es scheint? Was passiert in der Atmosph\u00e4re? Und wie k\u00f6nnt ihr selbst besser das Wetter vorhersagen?",
+  "description": "T\u00e4glich betrifft uns alle das Wetter. Aber was passiert eigentlich in der Atmosph\u00e4re? Um das zu verstehen wird in der synoptischen Meteorologie die Analyse *Wie ist das Wetter?* , die Diagnose *Warum ist das Wetter so?* und schlussendlich die Prognose *Wie wird das Wetter?* des Wetters betrachtet. Damit auch ihr das Wetter besser einsch\u00e4tzen k\u00f6nnt und nicht nur auf die Symbole in den Wetterapps angewiesen seid, m\u00f6chte ich euch erste Einblicke in die Wettervorhersage geben. Dazu gucken wir uns gemeinsam Wetterkarten an und geben einen Tipp (z.B. Temperatur, Luftdruck, Regenmenge) f\u00fcr den n\u00e4chsten Tag ab.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 27,
+      "code": "Z8VADQ",
+      "public_name": "Daniela Schoster",
+      "biography": "Studentin MA Meteorologie",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

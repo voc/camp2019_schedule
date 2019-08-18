@@ -1,0 +1,27 @@
+{
+  "id": 1163,
+  "guid": "C59ab826-e9ec-40d9-b529-b48e9d0b87c6",
+  "logo": null,
+  "date": "2019-08-24T10:30:00+02:00",
+  "start": "10:30",
+  "duration": "2:30",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1163-session_how_to_shape_a_responsible_world_",
+  "title": "How to shape a responsible world?",
+  "subtitle": "Follow up",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "As activists we seek for a fundamental change in this world towards a fair and responsible society. The invited groups will give their analysis of the problems and present their work. Together we will identify questions or common projects we will work on in the follow-up workshops.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "public_name": "Gnunicorn"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:How_to_shape_a_responsible_world%3F"
+  ]
+}

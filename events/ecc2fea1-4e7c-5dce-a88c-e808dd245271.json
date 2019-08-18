@@ -1,0 +1,32 @@
+{
+  "id": 142,
+  "guid": "ecc2fea1-4e7c-5dce-a88c-e808dd245271",
+  "logo": "",
+  "date": "2019-08-21T15:00:00+00:00",
+  "start": "15:00",
+  "duration": "01:00",
+  "room": "Plank",
+  "slug": "ET9CFU",
+  "url": "http://talx.thm.cloud/thms/talk/ET9CFU/",
+  "title": "Konviviale Software vor und jenseits des digitalen Kapitalismus",
+  "subtitle": "",
+  "track": "Talk",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Der Vortrag geht der Frage nach, welche Aspekte der Geschichte des digitalen Wandels mit der Bestrebung nach einer sozial-\u00f6kologischen Gestaltung von Technik zu tun haben. Dabei wird gezeigt, was die Nachhaltigkeitsbewegung von der Free-Software-Bewegung und der Hacker-Ethik lernen kann, insbesondere bzgl. der Autonomie gegen\u00fcber digitalen Gro\u00dfkonzernen durch Selbstverwaltung und kollaborative Entwicklung. Andersherum wird diskutiert, was die Techszene \u00fcber die Notwendigkeit und M\u00f6glichkeiten einer sozial-\u00f6kologischen Transformation lernen kann. Im Grunde genommen geht es hier darum, die emanzipatorischen Elemente der digitalen Technikentwicklung (die vor dem digitalen Kapitalismus des 21. Jahrhunderts existierten und sich ihm weiterhin entgegenstellen) und die Botschaften der politischen \u00d6kologie in eine gemeinsame Erz\u00e4hlung zusammenzuf\u00fchren.",
+  "description": "Der Begriff \"Konvivialit\u00e4t\" wurde in der politischen \u00d6kologie eingef\u00fchrt, um eine Vorstellung von Technik zu beschreiben, die sich von der industriellen Produktivit\u00e4t unterscheidet. Dabei geht es darum, Technik auf der Grundlage sozial-\u00f6kologischer Kriterien zu bewerten. Diese Kriterien werden vorgestellt und auf den Bereich digitale Technik angewandt. Ein \u00dcberblick \u00fcber die Geschichte der Softwareentwicklung und des digitalen Kapitalismus wird zeigen, dass Konvivialit\u00e4t viel mit FOSS-Prinzipien zu tun hat, im Gegensatz zu kommerzieller Software, die von Konzernen entwickelt wird. Die Analyse anhand von Konvivialit\u00e4tskriterien wird dadurch zur n\u00fctzlichen Methode, um \u00fcber digitale Technik zu reflektieren. Perspektivisch k\u00f6nnte das zu einer Ann\u00e4herung der kritischen Tech- und \u00d6kologiebewegungen f\u00fchren: die etablierte Praxis der Free-Software-Bewegung k\u00f6nnte zu einer Keimform einer sozial-\u00f6kologischen Utopie jenseits des digitalen Kapitalismus werden.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 44,
+      "code": "BMHR3B",
+      "public_name": "Nicolas",
+      "biography": "Nicolas ist promovierter Informatiker, der die Wissenschaft hinter sich gelassen hat, um sich auf zivilgesellschaftlicher Seite f\u00fcr einen emanzipatorischen Umgang mit digitalen Technologien einzusetzen. Er arbeitet beim Konzeptwerk Neue \u00d6konomie zu Digitalisierung und ist in der Klimagerechtigkeitsbewegung aktiv.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

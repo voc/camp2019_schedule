@@ -1,0 +1,28 @@
+{
+  "id": 1032,
+  "guid": "8b07d0a4-891f-48d8-833b-694299433d13",
+  "logo": null,
+  "date": "2019-08-23T13:00:00+02:00",
+  "start": "13:00",
+  "duration": "3:30",
+  "room": "Village:HardwareHackingArea",
+  "slug": "camp2019-1032-session_arduino_for_total_newbies",
+  "title": "Arduino For Total Newbies",
+  "subtitle": "Day 3",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "''Learn Arduino using TV-B-Gone as an example project''<br> <br> You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br> <br> ''(This is one of many cool things happening throughout CCCamp 2019 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given twice<br>(both identical):<br> &nbsp;&nbsp;&nbsp;Day 2: 22-Aug, 1pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 3: 23-Aug, 1pm - 4:30pm<br>",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Maltman23",
+      "public_name": "Maltman23"
+    }
+  ],
+  "links": [
+    "https://tiny.cc/A4TN",
+    "//events.ccc.de/camp/2019/wiki/Session:Arduino_For_Total_Newbies"
+  ]
+}

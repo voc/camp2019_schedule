@@ -1,58 +1,58 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10293.html",
-    "id": 10293,
-    "guid": "acc3dd01-bec3-444f-80c1-5dd37f522aa4",
-    "logo": "/system/events/logos/000/010/293/large/Robotron-a_tech_opera.gif?1560260229",
-    "date": "2019-08-22T18:00:00+02:00",
-    "start": "18:00",
-    "duration": "00:30",
-    "room": "Meitner",
-    "slug": "Camp2019-10293-robotron",
-    "title": "Robotron ",
-    "subtitle": "a tech opera",
-    "track": "Art & Culture",
-    "type": "lecture",
-    "language": "de",
-    "abstract": "In den letzten 2 Jahren habe ich mich in meiner k\u00fcnstlerischen Arbeit mit der Computerherstellung in der DDR besch\u00e4ftigt. Technikproduktion in der DDR war durch Planwirtschaft und dem COCOM-Hochtechnologieembargo besonderen Bedingungen unterworfen. Entlang der k\u00fcnstlerischen Ausseinandersetzung m\u00f6chte ich in dem Vortrag ein Bild \u00fcber Ostdeutsche Computertechnologie nachzeichnen.",
-    "description": "Die Web Serie Robotron \u2013 a tech opera spielt im VEB Kombinat Robotron, dem gr\u00f6\u00dften Computerhersteller der ehemaligen DDR und einer der bedeutendsten Produzenten von Informationstechnologie im sozialistischen Osteuropa. Anhand der eigenen Familiengeschichte zeichne ich eine Technikgeschichte nach die heute niemanden mehr interessiert. Weil sie nicht der Logik einer Erfolgsgeschichte entspricht und es sich bereits um obsolete Technik handelt. \r\n\r\nAls zeitgen\u00f6ssisches Netzformat tauchen in den meisten ASMR Videos nur aktuelle High-tech Utensilien auf um Tingles (Kopfkribbeln) hervorzurufen. In Soft Nails ~ \u2665 [ASMR] Kleincomputer Robotron KC87 \u2665 greife ich bewusst auf High-tech aus der DDR zur\u00fcck und \u00fcberf\u00fchre sie in ein popkulturelles Format. Der Versuch einer g\u00e4ngigen US-amerikanischen Technikerfolgsgeschichte ein alternatives Narrativ entgegensetzen/ hinzuf\u00fcgen.\r\n\r\nIn der Arbeit The Adventures of WH besch\u00e4ftige ich mich in Kollaboration mit der K\u00fcnstlerin Anne Baumann, mit Werner Hartmann (1912 - 1988), mein Stiefopa und der Begr\u00fcnder der Mikroelektronik in Ostdeutschland. Von 1961 \u2013 1974 war er Leiter der AME, auch genannt AMD (Arbeitstelle f\u00fcr Molekularelektronik Dresden). Werner Hartmann geh\u00f6rte einer wissenschaftlichen Elite in der DDR an und wurde aufgrund seiner Parteilosigkeit seit 1965 in der DDR systematisch beschattet und sogar 1974 wegen Spionage-Vorw\u00fcrfen als Direktor der Arbeitsstelle f\u00fcr Molekularelektronik in Dresden suspendiert. Die Stasi hat 49 Ordner zur \u00dcberwachung von WH angelegt. Parallel legte WH ein Archiv mit seinen Memoiren (wissenschaftl. T\u00e4tigkeit in der Nazizeit, Sowjetunion und der DDR) sowie seinen Gedanken zur Mikroelektronik, u.a. an.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 7830,
-            "public_name": "Nadja Buttendorf"
-        }
-    ],
-    "links": [
-        {
-            "url": "http://nadjabuttendorf.com/",
-            "title": "artists website"
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=SAVEQbWXwzs&list=PLqjISv13g0qqmBFCW4lHb6LPOtRHgqqFA",
-            "title": "Robotron - a tech opera SEASON 01"
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=9bYr49YmII0&list=PLqjISv13g0qq-z448vt2besIeZ5MZzRKx",
-            "title": "Robotron - a tech opera SEASON 02"
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=VD6-EUuUzN4&feature=youtu.be",
-            "title": "Soft Nails ~ \u2665[ASMR] Kleincomputer Robotron KC87 \u2665"
-        },
-        {
-            "url": "https://www.youtube.com/watch?v=7sJbCCgpm2Y",
-            "title": "The Adventures of WH - Kapitel 1: Diskriminator (exhibition view)"
-        }
-    ],
-    "attachments": [
-        {
-            "url": "/system/event_attachments/attachments/000/003/768/original/RobotronKC87-softnails-asmr-buttendorf.gif?1560260230",
-            "title": "RobotronKC87-softnails-asmr-buttendorf.gif"
-        },
-        {
-            "url": "/system/event_attachments/attachments/000/003/769/original/Robotron-a_tech_opera_SEASON02-2.png?1560260230",
-            "title": "Robotron-a_tech_opera_SEASON02-2.png"
-        }
-    ]
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10293.html",
+  "id": 10293,
+  "guid": "acc3dd01-bec3-444f-80c1-5dd37f522aa4",
+  "logo": "/system/events/logos/000/010/293/large/Robotron-a_tech_opera.gif?1560260229",
+  "date": "2019-08-22T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "00:30",
+  "room": "Meitner",
+  "slug": "Camp2019-10293-robotron",
+  "title": "Robotron ",
+  "subtitle": "a tech opera",
+  "track": "Art & Culture",
+  "type": "lecture",
+  "language": "de",
+  "abstract": "In den letzten 2 Jahren habe ich mich in meiner k\u00fcnstlerischen Arbeit mit der Computerherstellung in der DDR besch\u00e4ftigt. Technikproduktion in der DDR war durch Planwirtschaft und dem COCOM-Hochtechnologieembargo besonderen Bedingungen unterworfen. Entlang der k\u00fcnstlerischen Ausseinandersetzung m\u00f6chte ich in dem Vortrag ein Bild \u00fcber Ostdeutsche Computertechnologie nachzeichnen.",
+  "description": "Die Web Serie Robotron \u2013 a tech opera spielt im VEB Kombinat Robotron, dem gr\u00f6\u00dften Computerhersteller der ehemaligen DDR und einer der bedeutendsten Produzenten von Informationstechnologie im sozialistischen Osteuropa. Anhand der eigenen Familiengeschichte zeichne ich eine Technikgeschichte nach die heute niemanden mehr interessiert. Weil sie nicht der Logik einer Erfolgsgeschichte entspricht und es sich bereits um obsolete Technik handelt. \r\n\r\nAls zeitgen\u00f6ssisches Netzformat tauchen in den meisten ASMR Videos nur aktuelle High-tech Utensilien auf um Tingles (Kopfkribbeln) hervorzurufen. In Soft Nails ~ \u2665 [ASMR] Kleincomputer Robotron KC87 \u2665 greife ich bewusst auf High-tech aus der DDR zur\u00fcck und \u00fcberf\u00fchre sie in ein popkulturelles Format. Der Versuch einer g\u00e4ngigen US-amerikanischen Technikerfolgsgeschichte ein alternatives Narrativ entgegensetzen/ hinzuf\u00fcgen.\r\n\r\nIn der Arbeit The Adventures of WH besch\u00e4ftige ich mich in Kollaboration mit der K\u00fcnstlerin Anne Baumann, mit Werner Hartmann (1912 - 1988), mein Stiefopa und der Begr\u00fcnder der Mikroelektronik in Ostdeutschland. Von 1961 \u2013 1974 war er Leiter der AME, auch genannt AMD (Arbeitstelle f\u00fcr Molekularelektronik Dresden). Werner Hartmann geh\u00f6rte einer wissenschaftlichen Elite in der DDR an und wurde aufgrund seiner Parteilosigkeit seit 1965 in der DDR systematisch beschattet und sogar 1974 wegen Spionage-Vorw\u00fcrfen als Direktor der Arbeitsstelle f\u00fcr Molekularelektronik in Dresden suspendiert. Die Stasi hat 49 Ordner zur \u00dcberwachung von WH angelegt. Parallel legte WH ein Archiv mit seinen Memoiren (wissenschaftl. T\u00e4tigkeit in der Nazizeit, Sowjetunion und der DDR) sowie seinen Gedanken zur Mikroelektronik, u.a. an.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 7830,
+      "public_name": "Nadja Buttendorf"
+    }
+  ],
+  "links": [
+    {
+      "url": "http://nadjabuttendorf.com/",
+      "title": "artists website"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SAVEQbWXwzs&list=PLqjISv13g0qqmBFCW4lHb6LPOtRHgqqFA",
+      "title": "Robotron - a tech opera SEASON 01"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9bYr49YmII0&list=PLqjISv13g0qq-z448vt2besIeZ5MZzRKx",
+      "title": "Robotron - a tech opera SEASON 02"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VD6-EUuUzN4&feature=youtu.be",
+      "title": "Soft Nails ~ \u2665[ASMR] Kleincomputer Robotron KC87 \u2665"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7sJbCCgpm2Y",
+      "title": "The Adventures of WH - Kapitel 1: Diskriminator (exhibition view)"
+    }
+  ],
+  "attachments": [
+    {
+      "url": "/system/event_attachments/attachments/000/003/768/original/RobotronKC87-softnails-asmr-buttendorf.gif?1560260230",
+      "title": "RobotronKC87-softnails-asmr-buttendorf.gif"
+    },
+    {
+      "url": "/system/event_attachments/attachments/000/003/769/original/Robotron-a_tech_opera_SEASON02-2.png?1560260230",
+      "title": "Robotron-a_tech_opera_SEASON02-2.png"
+    }
+  ]
 }

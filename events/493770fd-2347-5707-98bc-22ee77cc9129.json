@@ -1,0 +1,32 @@
+{
+  "id": 126,
+  "guid": "493770fd-2347-5707-98bc-22ee77cc9129",
+  "logo": "",
+  "date": "2019-08-23T17:00:00+00:00",
+  "start": "17:00",
+  "duration": "00:30",
+  "room": "Plank",
+  "slug": "Z3VR8P",
+  "url": "http://talx.thm.cloud/thms/talk/Z3VR8P/",
+  "title": "Cryptography of Killing Proof-of-Work",
+  "subtitle": "",
+  "track": "Talk",
+  "type": "Short Talk",
+  "language": "en",
+  "abstract": "We briefly discuss the range of cryptographic primitives being used by protocols that seek to make proof-of-work protocols obsolete.  We shall focus primarily on these cryptographic building blocks themselves, not overly on the different protocols built form them.",
+  "description": "There are a handful of protocols consuming enormous amounts of energy in proof-of-work schemes, which provide only rather tenuous security assurances.   In practice, proof-of-work also invalidates these protocols original goal of being distributed.\r\n\r\nThere is also a zoo of protocols designs, both new and from the 80s, that provide far stronger security than proof-of-work at minimal cost.  We shall discuss the distinctive cryptographic primitives used by these protocols, without examining any of these critters too closely.\r\n\r\nIn essence, our taxonomy splits as blind signatures vs. verifiable random functions (VRFs) vs. randomness beacons, with the latter consisting of publicly verifiable secret sharing (PVSS) and verifiable delay functions (VDFs).  We only have time for a cursory look at the mathematics usable to build each of these, but this should explain some of their uses, strengths, and weaknesses.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 33,
+      "code": "GEYBHU",
+      "public_name": "Jeff Burdges",
+      "biography": "I'm a pure mathematician turned cryptographer.  \r\n\r\nI've worked with most, and carefully implemented several, of the primitives being discussed, including blind signatures as part of GNU Taler, and more recently VRFs and randomness beacons.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

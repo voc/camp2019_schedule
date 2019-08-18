@@ -1,0 +1,32 @@
+{
+  "id": 132,
+  "guid": "4f94b6e0-3e6c-5b5d-9d47-45c06304c063",
+  "logo": "",
+  "date": "2019-08-23T16:15:00+00:00",
+  "start": "16:15",
+  "duration": "00:30",
+  "room": "Plank",
+  "slug": "QULQKV",
+  "url": "http://talx.thm.cloud/thms/talk/QULQKV/",
+  "title": "(emulate|fuzz|break) kernels",
+  "subtitle": "",
+  "track": "Talk",
+  "type": "Short Talk",
+  "language": "en",
+  "abstract": "This talk will give an introduction to kernel fuzzing using *unicorefuzz*.",
+  "description": "Yes, yes. We all know fuzzing is a powerful tool to find bugs.\r\nFor user space software, this is so 2014. Fuzzing kernels, however, can still be a daunting task.\r\nThe state of the art kernel fuzzer, syzkaller, is somewhat complex to set up. \r\nSo many unhappy parsers in the kernel remain unfuzzed to this day!\r\nWhy can we not simply start fuzzing from some random breakpoint in the kernel, you ask?\r\nWell of course we can. Let's drop the whole thing into Unicorn Engine, a CPU emulator, and give it input.\r\nSimple as that.\r\nTo stay on the punny side of things, we shall call this method *unicorefuzz*.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 36,
+      "code": "B739DS",
+      "public_name": "domenukk",
+      "biography": "Dominik Maier works as Program Manager Security with AVM GmbH and pursues his PhD at TU Berlin with Prof. Dr. Jean-Pierre Seifert. During his Masters at FAU Erlangen-N\u00fcrnberg, he conducted security research at NECST-lab of Politecnico di Milano (Italy) and at SecLab UC Santa Barbara, CA (USA). His Bachelor's Thesis, \"Obfuscation Techniques for Android Malware to Bypass Sandboxes\" was awarded with the CAST-F\u00f6rderpreis for best Bachelor's thesis in the field of IT security in Germany. He worked on security development projects, consulting and pentesting for large German companies. In his spare-time, he likes to travel and participate in CTFs with ENOFLAG.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

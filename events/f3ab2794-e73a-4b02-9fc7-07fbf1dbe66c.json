@@ -1,0 +1,22 @@
+{
+  "id": 1180,
+  "guid": "f3ab2794-e73a-4b02-9fc7-07fbf1dbe66c",
+  "logo": null,
+  "date": "2019-08-21T16:15:00+02:00",
+  "start": "16:15",
+  "duration": "1:30",
+  "room": "",
+  "slug": "camp2019-1180-session_awarenessteam_vorstellung",
+  "title": "Awarenessteam-Vorstellung",
+  "subtitle": "Vorstellung",
+  "track": "self organized sessions",
+  "type": "discussion",
+  "language": "de",
+  "abstract": "",
+  "description": "Vorstellung des Awarenessteams und dessen Konzept",
+  "persons": [],
+  "links": [
+    "http://help.ccc.de/awareness",
+    "//events.ccc.de/camp/2019/wiki/Session:Awarenessteam-Vorstellung"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1222,
+  "guid": "b7523425-acee-4679-96c6-4382236e43ba",
+  "logo": null,
+  "date": "2019-08-24T15:00:00+02:00",
+  "start": "15:00",
+  "duration": "1:30",
+  "room": "Hackcenter 3",
+  "slug": "camp2019-1222-session_let_s_hack_words_",
+  "title": "Let's hack words!",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "Let's hack words is a session for everyone, who wants to explore creative writing, build worlds and lets characters dive into adventures. Or - for a start - just wants to get rid of hacker's block.",
+  "persons": [],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Let%27s_hack_words!"
+  ]
+}

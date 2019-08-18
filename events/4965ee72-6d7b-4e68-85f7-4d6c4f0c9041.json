@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10248.html",
-    "id": 10248,
-    "guid": "4965ee72-6d7b-4e68-85f7-4d6c4f0c9041",
-    "logo": null,
-    "date": "2019-08-21T21:00:00+02:00",
-    "start": "21:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10248-the_limits_of_general_purpose_sdr_devices",
-    "title": "The Limits of General Purpose SDR devices",
-    "subtitle": "Why an SDR board like a USRP or LimeSDR is not a cellular base station",
-    "track": "Hardware & Making",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "It's tempting to buy a SDR device like a LimeSDR or USRP family member in the expectation of operating any wireless communications system out there from pure software.  In reality, however, the SDR board is really only one building block.  Know the limitations and constraints of your SDR board and what you need around it to build a proper transceiver.",
-    "description": "For many years, there's an expectation that general purpose SDR devices like the Ettus USRP families, HackRF, bladeRF, LimeSDR, etc. can implement virtually any wireless system.\r\n\r\nWhile that is true in principle, it is equally important to understand the limitations and constraints.\r\n\r\nPeople with deep understanding of SDR and/or wireless communications systems will likely know all of those.  However, SDRs are increasingly used by software developers and IT security experts.  They often acquire an SDR board without understanding that this SDR board is only one building block, but by far not enough to e.g. operate a cellular base station.  After investing a lot of time, some discover that they're unable to get it to work at all, or at the very least unable to get it to work reliably.  This can easily lead to frustration on both the user side, as well as on the side of the authors of software used with those SDRs.\r\n\r\nThe talk will particularly focus on using General Purpose SDRs in the context of cellular technologies from GSM to LTE.  It will cover aspects such as band filters, channel filters, clock stability, harmonics as well as Rx and Tx power level calibration.  \r\n\r\nThe talk contains the essence of a decade of witnessing struggling SDR users (not only) with running Osmocom software with them. Let's share that with the next generation of SDR users, to prevent them falling into the same traps.",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 1757,
-            "public_name": "LaForge"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10248.html",
+  "id": 10248,
+  "guid": "4965ee72-6d7b-4e68-85f7-4d6c4f0c9041",
+  "logo": null,
+  "date": "2019-08-21T21:00:00+02:00",
+  "start": "21:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10248-the_limits_of_general_purpose_sdr_devices",
+  "title": "The Limits of General Purpose SDR devices",
+  "subtitle": "Why an SDR board like a USRP or LimeSDR is not a cellular base station",
+  "track": "Hardware & Making",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "It's tempting to buy a SDR device like a LimeSDR or USRP family member in the expectation of operating any wireless communications system out there from pure software.  In reality, however, the SDR board is really only one building block.  Know the limitations and constraints of your SDR board and what you need around it to build a proper transceiver.",
+  "description": "For many years, there's an expectation that general purpose SDR devices like the Ettus USRP families, HackRF, bladeRF, LimeSDR, etc. can implement virtually any wireless system.\r\n\r\nWhile that is true in principle, it is equally important to understand the limitations and constraints.\r\n\r\nPeople with deep understanding of SDR and/or wireless communications systems will likely know all of those.  However, SDRs are increasingly used by software developers and IT security experts.  They often acquire an SDR board without understanding that this SDR board is only one building block, but by far not enough to e.g. operate a cellular base station.  After investing a lot of time, some discover that they're unable to get it to work at all, or at the very least unable to get it to work reliably.  This can easily lead to frustration on both the user side, as well as on the side of the authors of software used with those SDRs.\r\n\r\nThe talk will particularly focus on using General Purpose SDRs in the context of cellular technologies from GSM to LTE.  It will cover aspects such as band filters, channel filters, clock stability, harmonics as well as Rx and Tx power level calibration.  \r\n\r\nThe talk contains the essence of a decade of witnessing struggling SDR users (not only) with running Osmocom software with them. Let's share that with the next generation of SDR users, to prevent them falling into the same traps.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 1757,
+      "public_name": "LaForge"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

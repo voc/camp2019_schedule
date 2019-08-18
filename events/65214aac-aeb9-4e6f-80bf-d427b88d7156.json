@@ -1,0 +1,27 @@
+{
+  "id": 1078,
+  "guid": "65214aac-aeb9-4e6f-80bf-d427b88d7156",
+  "logo": null,
+  "date": "2019-08-23T15:00:00+02:00",
+  "start": "15:00",
+  "duration": "1:55",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1078-session_freedom_to_go_an_interactive_workshop_from_an_to_f_to_g_droid",
+  "title": "Freedom to go - an interactive workshop from An- to F- to G-Droid",
+  "subtitle": "about:sessions",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "An interactive workshop to present the Free Software App repository called F-Droid and the outstanding functionalities of its clients called F-Droid and G-Droid.  After that we discover the best (imho!) Android-based Free Software apps including methods of anonymization and encryption - and you will have the possibility to present your personal favorite Free Software app as well.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "public_name": "Gnunicorn"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Freedom_to_go_-_an_interactive_workshop_from_An-_to_F-_to_G-Droid"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 106,
+  "guid": "bffe36f4-428d-57ba-bcab-01b681292b55",
+  "logo": "/media/thms/images/FASSF7/Eat_The_Bass_2.jpg",
+  "date": "2019-08-22T02:30:00+00:00",
+  "start": "02:30",
+  "duration": "02:00",
+  "room": "Plank",
+  "slug": "FASSF7",
+  "url": "http://talx.thm.cloud/thms/talk/FASSF7/",
+  "title": "Music Music Music (DJ-Set)",
+  "subtitle": "",
+  "track": "Music",
+  "type": "DJ Set",
+  "language": "en",
+  "abstract": "Bass + Klapper-Beats",
+  "description": "Depending on what you are up to, either way, I make you move with Bass + Beats. From Chill-Bass, Vapor-Trap to Djungle. Whatever you like. You **L.O.V.E.** Mjusic!\r\nCheck out my mixes on [Soundcloud] (https://soundcloud.com/barbnerdy)",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 16,
+      "code": "PJF8MV",
+      "public_name": "BarbNerdy",
+      "biography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

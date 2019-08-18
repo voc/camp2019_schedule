@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10365.html",
-    "id": 10365,
-    "guid": "c9edea6f-1da1-4772-a0a9-6dd4e33f11bb",
-    "logo": null,
-    "date": "2019-08-21T12:00:00+02:00",
-    "start": "12:00",
-    "duration": "00:45",
-    "room": "Curie",
-    "slug": "Camp2019-10365-card10_badge",
-    "title": "card10 Badge",
-    "subtitle": "",
-    "track": "CCC",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "Introducing you to card10, the 2019 camp badge, bio monitor, wrist worn POV device, and everything else your imagination comes up with.",
-    "description": "\r\nThis year's 0b10nd edition of the camp badge is card10. It comes packed with biosensors and can talk to many devices with BLE (Bluetooth Low Energy). As always with camp badges, it comes with some space to extend it with further electronics and this time a programming interface that is even easier to use, so you can individualize your card10 and pick up some new skills on the way. \r\nIn this talk, we will tell you more about the technical details of card10, the considerations behind making the new badge, and what card10 taught us on the way to camp.\r\nYou, too, can join us in integrating the badge into 2019 camp life, by creating your own interh4cktions. We will show you how, with some examples of interh4cktions we already know about for inspiration.\r\nBefore you leave to forge your own path through camp2019 with card10 by your side, we will share some highlights from the camp events around card10, how you can keep your finger on the pulse of card10 news, release your card10 interh4cktions to camp, and add your own self organised card10 sessions.\r\nother card10 devices, probably also your\r\n\r\nfind out more: https://card10.badge.events.ccc.de/\r\nFAQ: https://card10.badge.events.ccc.de/en/faq/",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 5339,
-            "public_name": "schneider"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10365.html",
+  "id": 10365,
+  "guid": "c9edea6f-1da1-4772-a0a9-6dd4e33f11bb",
+  "logo": null,
+  "date": "2019-08-21T12:00:00+02:00",
+  "start": "12:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10365-card10_badge",
+  "title": "card10 Badge",
+  "subtitle": "",
+  "track": "CCC",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Introducing you to card10, the 2019 camp badge, bio monitor, wrist worn POV device, and everything else your imagination comes up with.",
+  "description": "\r\nThis year's 0b10nd edition of the camp badge is card10. It comes packed with biosensors and can talk to many devices with BLE (Bluetooth Low Energy). As always with camp badges, it comes with some space to extend it with further electronics and this time a programming interface that is even easier to use, so you can individualize your card10 and pick up some new skills on the way. \r\nIn this talk, we will tell you more about the technical details of card10, the considerations behind making the new badge, and what card10 taught us on the way to camp.\r\nYou, too, can join us in integrating the badge into 2019 camp life, by creating your own interh4cktions. We will show you how, with some examples of interh4cktions we already know about for inspiration.\r\nBefore you leave to forge your own path through camp2019 with card10 by your side, we will share some highlights from the camp events around card10, how you can keep your finger on the pulse of card10 news, release your card10 interh4cktions to camp, and add your own self organised card10 sessions.\r\nother card10 devices, probably also your\r\n\r\nfind out more: https://card10.badge.events.ccc.de/\r\nFAQ: https://card10.badge.events.ccc.de/en/faq/",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 5339,
+      "public_name": "schneider"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

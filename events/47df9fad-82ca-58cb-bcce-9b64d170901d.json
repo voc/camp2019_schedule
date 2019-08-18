@@ -1,0 +1,21 @@
+{
+  "id": 1185,
+  "guid": "47df9fad-82ca-58cb-bcce-9b64d170901d",
+  "logo": null,
+  "date": "2019-08-22T17:00:00+02:00",
+  "start": "17:00",
+  "duration": "1:30",
+  "room": "Johnson (Workshop 1)",
+  "slug": "camp2019-1185-session_ccchoir",
+  "title": "CCChoir",
+  "subtitle": "Bach vs Pythagoras, Runde 1",
+  "track": "self organized sessions",
+  "type": "other",
+  "language": "de",
+  "abstract": "",
+  "description": "Offene Chorprobe und physikalische Grundlagen der Musik",
+  "persons": [],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:CCChoir"
+  ]
+}

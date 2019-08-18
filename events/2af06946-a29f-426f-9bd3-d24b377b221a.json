@@ -1,0 +1,27 @@
+{
+  "id": 1038,
+  "guid": "2af06946-a29f-426f-9bd3-d24b377b221a",
+  "logo": null,
+  "date": "2019-08-22T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "2:00",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1038-session_befreie_deine_wlan_steckdose",
+  "title": "Befreie deine WLAN Steckdose",
+  "subtitle": "Introduction, Hands-On",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "de",
+  "abstract": "",
+  "description": "Freie Firmware Tasmota auf WLAN Steckdose flashen",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Mischk",
+      "public_name": "Mischk"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Befreie_deine_WLAN_Steckdose"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1037,
+  "guid": "3b8c90c5-464a-4d58-96b6-98808289f738",
+  "logo": null,
+  "date": "2019-08-24T13:00:00+02:00",
+  "start": "13:00",
+  "duration": "0:55",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1037-session_bandwidth_matters_information_controls_in_a_conflict_state_in_india",
+  "title": "Bandwidth Matters, Information controls in a conflict state in India",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "What does information controls look like in conflict states of India? How does indias surveillance apparatus further intensify the information controls in conflict areas? How does this affect the everyday life of people esp women living and promoting peace in these regions?",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "public_name": "Gnunicorn"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Bandwidth_Matters,_Information_controls_in_a_conflict_state_in_India"
+  ]
+}

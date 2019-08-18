@@ -1,0 +1,27 @@
+{
+  "id": 1207,
+  "guid": "aa8f7640-e2ca-555b-bd1e-27f1c6c86959",
+  "logo": null,
+  "date": "2019-08-24T17:30:00+02:00",
+  "start": "17:30",
+  "duration": "1:30",
+  "room": "Village:LaTeX",
+  "slug": "camp2019-1207-session_graphics_with_latex",
+  "title": "Graphics with LaTeX",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "introduction into generating graphics with LaTeX",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Dantetante",
+      "public_name": "Dantetante"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Graphics_with_LaTeX"
+  ]
+}

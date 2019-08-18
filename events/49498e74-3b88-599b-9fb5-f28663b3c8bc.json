@@ -1,0 +1,39 @@
+{
+  "id": 107,
+  "guid": "49498e74-3b88-599b-9fb5-f28663b3c8bc",
+  "logo": "",
+  "date": "2019-08-22T20:10:00+00:00",
+  "start": "20:10",
+  "duration": "01:00",
+  "room": "Plank",
+  "slug": "LJQNKC",
+  "url": "http://talx.thm.cloud/thms/talk/LJQNKC/",
+  "title": "Logbuch:Netzpolitik",
+  "subtitle": "",
+  "track": "Entertainment",
+  "type": "Entertainment",
+  "language": "de",
+  "abstract": "Live-Podcast",
+  "description": "Logbuch:Netzpolitik ist ein in der Regel w\u00f6chentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 17,
+      "code": "YQRFRN",
+      "public_name": "Linus Neumann",
+      "biography": "",
+      "answers": []
+    },
+    {
+      "id": 18,
+      "code": "N9XJ77",
+      "public_name": "Tim Pritlove",
+      "biography": "Diskordischer Evangelist",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

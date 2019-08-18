@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10288.html",
-    "id": 10288,
-    "guid": "9b7f0485-2ff1-4302-b1b7-98cbc8b502f4",
-    "logo": null,
-    "date": "2019-08-22T20:00:00+02:00",
-    "start": "20:00",
-    "duration": "00:45",
-    "room": "Meitner",
-    "slug": "Camp2019-10288-500_000_recalled_pacemakers_2_billion_stock_value_loss",
-    "title": "500.000 Recalled Pacemakers, 2 Billion $ Stock Value Loss",
-    "subtitle": "The Story Behind",
-    "track": "Security",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "During an independent security assessment of several pacemaker vendors multiple lethal and highly critical vulnerabilities were found. Based on previous experience with one specific vendor a new way of monetising vulnerabilities has been chosen. After going public a huge discussion on vulnerability disclosure ethics and responsibilities began. The stock value of the affected vendor dropped by 2 billion dollar just in one single day. The security researchers got discredited and a huge lawsuit was started. After a year of mutual accusations and denial more than 500.000 pacemakers got recalled. This talk will provide insights into pacemaker security and share first-hand experience gathered during this project. A special focus will also be on ethical vulnerability disclosure and lessons learned for future security research.",
-    "description": "",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 9063,
-            "public_name": "Tobias Zillner "
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10288.html",
+  "id": 10288,
+  "guid": "9b7f0485-2ff1-4302-b1b7-98cbc8b502f4",
+  "logo": null,
+  "date": "2019-08-22T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "00:45",
+  "room": "Meitner",
+  "slug": "Camp2019-10288-500_000_recalled_pacemakers_2_billion_stock_value_loss",
+  "title": "500.000 Recalled Pacemakers, 2 Billion $ Stock Value Loss",
+  "subtitle": "The Story Behind",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "During an independent security assessment of several pacemaker vendors multiple lethal and highly critical vulnerabilities were found. Based on previous experience with one specific vendor a new way of monetising vulnerabilities has been chosen. After going public a huge discussion on vulnerability disclosure ethics and responsibilities began. The stock value of the affected vendor dropped by 2 billion dollar just in one single day. The security researchers got discredited and a huge lawsuit was started. After a year of mutual accusations and denial more than 500.000 pacemakers got recalled. This talk will provide insights into pacemaker security and share first-hand experience gathered during this project. A special focus will also be on ethical vulnerability disclosure and lessons learned for future security research.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9063,
+      "public_name": "Tobias Zillner "
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

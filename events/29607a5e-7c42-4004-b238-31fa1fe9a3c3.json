@@ -1,0 +1,27 @@
+{
+  "id": 1063,
+  "guid": "29607a5e-7c42-4004-b238-31fa1fe9a3c3",
+  "logo": null,
+  "date": "2019-08-22T15:00:00+02:00",
+  "start": "15:00",
+  "duration": "1:00",
+  "room": "Village:LaTeX",
+  "slug": "camp2019-1063-session_einfuehrung_in_latex",
+  "title": "Einf\u00fchrung in LaTeX",
+  "subtitle": "(Individual 1h events, not a series - you can come to any of those)",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "Short introduction into typesetting with LaTeX for complete beginners",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Nils",
+      "public_name": "Nils"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_in_LaTeX"
+  ]
+}

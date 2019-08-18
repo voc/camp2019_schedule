@@ -1,28 +1,28 @@
 {
-    "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10256.html",
-    "id": 10256,
-    "guid": "b516cbe6-9225-449a-9298-1bb1a2fdb3c6",
-    "logo": null,
-    "date": "2019-08-23T21:00:00+02:00",
-    "start": "21:00",
-    "duration": "00:45",
-    "room": "Meitner",
-    "slug": "Camp2019-10256-introduction_to_opengles_and_glsl_programming",
-    "title": "Introduction to OpenGLES and GLSL programming",
-    "subtitle": "",
-    "track": "Hardware & Making",
-    "type": "lecture",
-    "language": "en",
-    "abstract": "This foundation talk describes the basic concepts of the OpenGLES 2.0 real-time rasterizer. We will explain the different stages of the rendering pipeline, briefly introduce the mathematics involved, show the boilerplate code required to setup an OpenGLES program, and finally look at the real fun stuff, which is the GLSL language used in vertex and fragment shaders.\r\n",
-    "description": "From notebooks and smartphones to embedded systems and game consoles, every modern computing platform contains chips for hardware accelerated 3d rendering. The OpenGL standard and API describes the drawing directives provided by these chips and is used to compose and animate user interfaces and to render interactive virtual scenes. Basically, every pixel that you see has been processed by an OpenGL pipeline.\r\n\r\nEngines like Unity3d provide a convenient way to describe and render threedimensional scenes without having to deal with the low level drawing directives. But this convenience makes it difficult to understand the path by which your logic becomes pixels, and coding closee to the hardware can be a lot of fun.\r\n\r\nThis foundation talk describes the basic concepts of the OpenGLES 2.0 real-time rasterizer. We will explain the different stages of the rendering pipeline, briefly introduce the mathematics involved, show the boilerplate code required to setup an OpenGLES program, and finally look at the real fun stuff, which is the GLSL language used in vertex and fragment shaders.\r\n\r\nAfter watching this talk, you will have a better understanding of the pipelines that are used to create the pixels on your screen. If you already know a high-level programming language such as C/C++, Java or Go, the examples provided will help you get started with coding your own 3d app, game or demo.\r\n\r\n",
-    "recording_license": "",
-    "do_not_record": false,
-    "persons": [
-        {
-            "id": 8887,
-            "public_name": "folkert"
-        }
-    ],
-    "links": [],
-    "attachments": []
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10256.html",
+  "id": 10256,
+  "guid": "b516cbe6-9225-449a-9298-1bb1a2fdb3c6",
+  "logo": null,
+  "date": "2019-08-23T21:00:00+02:00",
+  "start": "21:00",
+  "duration": "00:45",
+  "room": "Meitner",
+  "slug": "Camp2019-10256-introduction_to_opengles_and_glsl_programming",
+  "title": "Introduction to OpenGLES and GLSL programming",
+  "subtitle": "",
+  "track": "Hardware & Making",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "This foundation talk describes the basic concepts of the OpenGLES 2.0 real-time rasterizer. We will explain the different stages of the rendering pipeline, briefly introduce the mathematics involved, show the boilerplate code required to setup an OpenGLES program, and finally look at the real fun stuff, which is the GLSL language used in vertex and fragment shaders.\r\n",
+  "description": "From notebooks and smartphones to embedded systems and game consoles, every modern computing platform contains chips for hardware accelerated 3d rendering. The OpenGL standard and API describes the drawing directives provided by these chips and is used to compose and animate user interfaces and to render interactive virtual scenes. Basically, every pixel that you see has been processed by an OpenGL pipeline.\r\n\r\nEngines like Unity3d provide a convenient way to describe and render threedimensional scenes without having to deal with the low level drawing directives. But this convenience makes it difficult to understand the path by which your logic becomes pixels, and coding closee to the hardware can be a lot of fun.\r\n\r\nThis foundation talk describes the basic concepts of the OpenGLES 2.0 real-time rasterizer. We will explain the different stages of the rendering pipeline, briefly introduce the mathematics involved, show the boilerplate code required to setup an OpenGLES program, and finally look at the real fun stuff, which is the GLSL language used in vertex and fragment shaders.\r\n\r\nAfter watching this talk, you will have a better understanding of the pipelines that are used to create the pixels on your screen. If you already know a high-level programming language such as C/C++, Java or Go, the examples provided will help you get started with coding your own 3d app, game or demo.\r\n\r\n",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8887,
+      "public_name": "folkert"
+    }
+  ],
+  "links": [],
+  "attachments": []
 }

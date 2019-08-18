@@ -1,0 +1,23 @@
+{
+  "id": 1066,
+  "guid": "8563f582-f24e-4027-9a26-1725098b2b53",
+  "logo": null,
+  "date": "2019-08-22T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "2:00",
+  "room": "Johnson (Workshop 1)",
+  "slug": "camp2019-1066-session_esperanto_a_planned_nerd_language_actually_spoken",
+  "title": "Esperanto \u2013 a planned nerd language actually spoken",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "A short introduction into the international language Esperanto. A planned language actually spoken by nerds all over the world",
+  "persons": [],
+  "links": [
+    "https://github.com/johannes-mueller/esperanto-35c3",
+    "https://c3eo.chaotik.de",
+    "//events.ccc.de/camp/2019/wiki/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken"
+  ]
+}

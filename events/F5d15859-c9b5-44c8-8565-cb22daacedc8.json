@@ -1,0 +1,28 @@
+{
+  "id": 1124,
+  "guid": "F5d15859-c9b5-44c8-8565-cb22daacedc8",
+  "logo": null,
+  "date": "2019-08-21T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "1:30",
+  "room": "Hackcenter",
+  "slug": "camp2019-1124-session_susi_ai_open_source_voice_assistant",
+  "title": "SUSI.AI Open Source Voice Assistant",
+  "subtitle": "Learn about SUSI.AI and how to build your own smart speaker",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:MarioB",
+      "public_name": "MarioB"
+    }
+  ],
+  "links": [
+    "https://susi.ai",
+    "//events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant"
+  ]
+}

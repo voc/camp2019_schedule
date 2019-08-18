@@ -1,0 +1,22 @@
+{
+  "id": 1042,
+  "guid": "68994b27-2215-45aa-bfa0-b9f3440c7e17",
+  "logo": null,
+  "date": "2019-08-23T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "1:30",
+  "room": "Village:NixOS",
+  "slug": "camp2019-1042-session_bootstrapping_nixos",
+  "title": "Bootstrapping NixOS",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "discussion",
+  "language": "de",
+  "abstract": "",
+  "description": "learn how Nixers bootstrap their hosts",
+  "persons": [],
+  "links": [
+    "https://krebsco.de",
+    "//events.ccc.de/camp/2019/wiki/Session:Bootstrapping_NixOS"
+  ]
+}
