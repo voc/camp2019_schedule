@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-18 23:30",
+    "version": "2019-08-18 23:50",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -56,6 +56,27 @@
                 "persons": [],
                 "links": [
                   "//events.ccc.de/camp/2019/wiki/Session:Buchclub:_Texte_im_Feminismus"
+                ]
+              },
+              {
+                "id": 1279,
+                "guid": "1dcab320-f662-4426-98ac-d07fecf6746e",
+                "logo": null,
+                "date": "2019-08-21T22:00:00+02:00",
+                "start": "22:00",
+                "duration": "0:30",
+                "room": "Village:Haecksen",
+                "slug": "camp2019-1279-session_maerchenstunde_fuer_erwachsene_",
+                "title": "M\u00e4rchenstunde (f\u00fcr Erwachsene)",
+                "subtitle": "Teil 1: Was haben die Hexenverbrennungen mit Computergeschichte und Frauen* zu tun, h\u00e4?",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "",
+                "persons": [],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)"
                 ]
               },
               {
@@ -1802,6 +1823,56 @@
                 ]
               }
             ],
+            "Village:Haecksen": [
+              {
+                "id": 1280,
+                "guid": "fdddaac9-cf42-531b-9131-c78e071fa354",
+                "logo": null,
+                "date": "2019-08-22T22:00:00+02:00",
+                "start": "22:00",
+                "duration": "0:30",
+                "room": "Village:Haecksen",
+                "slug": "camp2019-1280-session_maerchenstunde_fuer_erwachsene_",
+                "title": "M\u00e4rchenstunde (f\u00fcr Erwachsene)",
+                "subtitle": "Teil 2: Die Originaltexte von Ada Lovelace (die sind toll!)",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "",
+                "persons": [],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)"
+                ]
+              },
+              {
+                "id": 1271,
+                "guid": "e954fe1b-25f0-4b97-9ec9-d89ef4b1e291",
+                "logo": null,
+                "date": "2019-08-22T10:00:00+02:00",
+                "start": "10:00",
+                "duration": "1:00",
+                "room": "Village:Haecksen",
+                "slug": "camp2019-1271-session_pseudo_yoga",
+                "title": "Pseudo-Yoga",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "outside",
+                "language": "de",
+                "abstract": "",
+                "description": "Kleine Trainingssession f\u00fcr den R\u00fccken",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Piko",
+                    "public_name": "Piko"
+                  }
+                ],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:Pseudo-Yoga"
+                ]
+              }
+            ],
             "Village:NixOS": [
               {
                 "id": 1262,
@@ -1991,35 +2062,6 @@
                 "links": [
                   "https://wiki.ecohackerfarm.org/powerplant:start",
                   "//events.ccc.de/camp/2019/wiki/Session:Powerplant_team_meeting"
-                ]
-              }
-            ],
-            "Village:Haecksen": [
-              {
-                "id": 1271,
-                "guid": "e954fe1b-25f0-4b97-9ec9-d89ef4b1e291",
-                "logo": null,
-                "date": "2019-08-22T10:00:00+02:00",
-                "start": "10:00",
-                "duration": "1:00",
-                "room": "Village:Haecksen",
-                "slug": "camp2019-1271-session_pseudo_yoga",
-                "title": "Pseudo-Yoga",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "outside",
-                "language": "de",
-                "abstract": "",
-                "description": "Kleine Trainingssession f\u00fcr den R\u00fccken",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Piko",
-                    "public_name": "Piko"
-                  }
-                ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Pseudo-Yoga"
                 ]
               }
             ],
@@ -3214,6 +3256,27 @@
                 "links": [
                   "//events.ccc.de/camp/2019/wiki/Session:Junges_Chaos_Bildet_Banden"
                 ]
+              },
+              {
+                "id": 1281,
+                "guid": "bc0a9fbd-4fe8-5a39-b360-a3743244bc9e",
+                "logo": null,
+                "date": "2019-08-23T22:00:00+02:00",
+                "start": "22:00",
+                "duration": "0:30",
+                "room": "Village:Haecksen",
+                "slug": "camp2019-1281-session_maerchenstunde_fuer_erwachsene_",
+                "title": "M\u00e4rchenstunde (f\u00fcr Erwachsene)",
+                "subtitle": "Teil 3: Meine Gro\u00dfmutter war ein Computer! - von den ENIAC Girls bis zum Harem von Pickering",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "",
+                "persons": [],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)"
+                ]
               }
             ],
             "Village:C-base": [
@@ -4135,6 +4198,29 @@
                 "persons": [],
                 "links": [
                   "//events.ccc.de/camp/2019/wiki/Session:Let%27s_hack_words!"
+                ]
+              }
+            ],
+            "Village:Haecksen": [
+              {
+                "id": 1278,
+                "guid": "b2a39864-a9b3-4026-82c9-6398c858864f",
+                "logo": null,
+                "date": "2019-08-24T22:00:00+02:00",
+                "start": "22:00",
+                "duration": "0:30",
+                "room": "Village:Haecksen",
+                "slug": "camp2019-1278-session_maerchenstunde_fuer_erwachsene_",
+                "title": "M\u00e4rchenstunde (f\u00fcr Erwachsene)",
+                "subtitle": "Computerge- schichte und Frauen*: letzter Teil, die Gegenwart, was ist da los und was soll das",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "",
+                "persons": [],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)"
                 ]
               }
             ],
