@@ -579,10 +579,10 @@ Anhand von Beispielen wird gezeigt, welche Rebound-Effekte in dem Zusammenhang b
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="44">
-            <code>BMHR3B</code>
-            <public_name>Nicolas</public_name>
-            <biography>Nicolas ist promovierter Informatiker, der die Wissenschaft hinter sich gelassen hat, um sich auf zivilgesellschaftlicher Seite für einen emanzipatorischen Umgang mit digitalen Technologien einzusetzen. Er arbeitet beim Konzeptwerk Neue Ökonomie zu Digitalisierung und ist in der Klimagerechtigkeitsbewegung aktiv.</biography>
+          <person id="71">
+            <code>JLUDRK</code>
+            <public_name>Anja</public_name>
+            <biography/>
           </person>
         </persons>
         <links/>
