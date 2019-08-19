@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-19 09:30</version>
+  <version>2019-08-19 09:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -3054,28 +3054,6 @@
         <links>
           <link>https://cornfieldelectronics.com/cfe/projects.php#ardutouch</link>
           <link>//events.ccc.de/camp/2019/wiki/Session:ArduTouch_music_synthesizer</link>
-        </links>
-      </event>
-      <event id="1263" guid="fc555301-996c-470a-a095-5d03182c3f27">
-        <logo/>
-        <date>2019-08-24T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>1:00</duration>
-        <room>Village:HardwareHackingArea</room>
-        <slug>camp2019-1263-session_flippie_hacking_flip_dot_displays</slug>
-        <title>Flippie - Hacking Flip-Dot Displays</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description>Hacking flip-dot displays</description>
-        <persons>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ssaschaa">Ssaschaa</person>
-        </persons>
-        <links>
-          <link>https://github.com/545ch4/flippie</link>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Flippie_-_Hacking_Flip-Dot_Displays</link>
         </links>
       </event>
       <event id="1164" guid="8968876e-7990-4b18-a1f9-ebf9050bd11f">
