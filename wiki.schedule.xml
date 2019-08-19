@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-19 03:10</version>
+  <version>2019-08-19 06:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -1129,6 +1129,28 @@
         <persons/>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:Body_Workout_Session</link>
+        </links>
+      </event>
+      <event id="1285" guid="ada6ca92-709b-4574-b783-ea647d6ee9f3">
+        <logo/>
+        <date>2019-08-22T10:30:00+02:00</date>
+        <start>10:30</start>
+        <duration>1:30</duration>
+        <room/>
+        <slug>camp2019-1285-session_gigatron_ttl_computer</slug>
+        <title>Gigatron TTL Computer</title>
+        <subtitle>Introduction, Hands-On</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Gigatron TTL computer introduction and workshop</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Kerouanton">Kerouanton</person>
+        </persons>
+        <links>
+          <link>https://gigatron.io</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Gigatron_TTL_Computer</link>
         </links>
       </event>
       <event id="1226" guid="eb23d0dc-2d2f-49c8-98a2-b96cf3d78782">
