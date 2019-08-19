@@ -1,0 +1,27 @@
+{
+  "id": 1318,
+  "guid": "4bd515dd-087d-482e-b092-8ae27a3938a6",
+  "logo": null,
+  "date": "2019-08-22T15:00:00+02:00",
+  "start": "15:00",
+  "duration": "1:00",
+  "room": "Village:Backspace",
+  "slug": "camp2019-1318-session_educational_filk_der_hacker_song",
+  "title": "Educational Filk: Der Hacker-Song",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "Wir schreiben gemeinsam ein Lied, das auf unterhaltsame Weise Muggles erkl\u00e4rt, was Hacker sind und machen.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Advi",
+      "public_name": "Advi"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Educational_Filk:_Der_Hacker-Song"
+  ]
+}

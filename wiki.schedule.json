@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-19 20:10",
+    "version": "2019-08-19 20:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -2037,31 +2037,34 @@
                 ]
               }
             ],
-            "Hackcenter 1": [
+            "Village:Backspace": [
               {
-                "id": 1062,
-                "guid": "56989b98-d3d7-44db-a9c5-db4553adeed2",
+                "id": 1318,
+                "guid": "4bd515dd-087d-482e-b092-8ae27a3938a6",
                 "logo": null,
-                "date": "2019-08-22T14:30:00+02:00",
-                "start": "14:30",
-                "duration": "2:30",
-                "room": "Hackcenter 1",
-                "slug": "camp2019-1062-session_eightos",
-                "title": "EightOS",
+                "date": "2019-08-22T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "1:00",
+                "room": "Village:Backspace",
+                "slug": "camp2019-1318-session_educational_filk_der_hacker_song",
+                "title": "Educational Filk: Der Hacker-Song",
                 "subtitle": "",
                 "track": "self organized sessions",
                 "type": "workshop",
-                "language": "en",
+                "language": "de",
                 "abstract": "",
-                "description": "A physical practice session: bodymind operating system \u2014 human firmware update",
-                "persons": [],
+                "description": "Wir schreiben gemeinsam ein Lied, das auf unterhaltsame Weise Muggles erkl\u00e4rt, was Hacker sind und machen.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Advi",
+                    "public_name": "Advi"
+                  }
+                ],
                 "links": [
-                  "http://www.8os.io",
-                  "//events.ccc.de/camp/2019/wiki/Session:EightOS"
+                  "//events.ccc.de/camp/2019/wiki/Session:Educational_Filk:_Der_Hacker-Song"
                 ]
-              }
-            ],
-            "Village:Backspace": [
+              },
               {
                 "id": 1065,
                 "guid": "86521597-ff5f-4fe2-b0ec-6b4f05439dad",
@@ -2087,6 +2090,30 @@
                 ],
                 "links": [
                   "//events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_ins_Podcasting_mit_Reaper/Ultraschall"
+                ]
+              }
+            ],
+            "Hackcenter 1": [
+              {
+                "id": 1062,
+                "guid": "56989b98-d3d7-44db-a9c5-db4553adeed2",
+                "logo": null,
+                "date": "2019-08-22T14:30:00+02:00",
+                "start": "14:30",
+                "duration": "2:30",
+                "room": "Hackcenter 1",
+                "slug": "camp2019-1062-session_eightos",
+                "title": "EightOS",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "A physical practice session: bodymind operating system \u2014 human firmware update",
+                "persons": [],
+                "links": [
+                  "http://www.8os.io",
+                  "//events.ccc.de/camp/2019/wiki/Session:EightOS"
                 ]
               }
             ],
