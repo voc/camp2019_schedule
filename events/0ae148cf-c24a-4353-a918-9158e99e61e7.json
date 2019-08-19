@@ -1,0 +1,27 @@
+{
+  "id": 1317,
+  "guid": "0ae148cf-c24a-4353-a918-9158e99e61e7",
+  "logo": null,
+  "date": "2019-08-24T17:30:00+02:00",
+  "start": "17:30",
+  "duration": "1:00",
+  "room": "Village:Haecksen",
+  "slug": "camp2019-1317-session_rsa_verschluesselung_selbst_rechnen",
+  "title": "RSA Verschl\u00fcsselung selbst rechnen",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "de",
+  "abstract": "",
+  "description": "Die (gar nicht so schwere) Mathematik hinter RSA",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Janepie",
+      "public_name": "Janepie"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:RSA_Verschl%C3%BCsselung_selbst_rechnen"
+  ]
+}
