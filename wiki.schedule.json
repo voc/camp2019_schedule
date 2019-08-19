@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-19 10:50",
+    "version": "2019-08-19 12:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -642,6 +642,33 @@
                 ],
                 "links": [
                   "//events.ccc.de/camp/2019/wiki/Session:Explore_the_botany_of_the_camp_with_plant_identification_apps"
+                ]
+              },
+              {
+                "id": 1298,
+                "guid": "a212c8d6-beb5-53a4-8892-e16ae3c46673",
+                "logo": null,
+                "date": "2019-08-21T17:30:00+02:00",
+                "start": "17:30",
+                "duration": "1:00",
+                "room": "Village:Kidspace",
+                "slug": "camp2019-1298-session_vorlesestunde_reading_hour",
+                "title": "Vorlesestunde / reading hour",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "de",
+                "abstract": "",
+                "description": "Kinderb\u00fccher vorlesen",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Ckeen",
+                    "public_name": "Ckeen"
+                  }
+                ],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour"
                 ]
               }
             ],
@@ -2203,6 +2230,33 @@
                 "links": [
                   "//events.ccc.de/camp/2019/wiki/Session:Tetrapixels"
                 ]
+              },
+              {
+                "id": 1299,
+                "guid": "76d0e2b4-32de-5938-8c95-45d64ea46a1e",
+                "logo": null,
+                "date": "2019-08-22T17:30:00+02:00",
+                "start": "17:30",
+                "duration": "1:00",
+                "room": "Village:Kidspace",
+                "slug": "camp2019-1299-session_vorlesestunde_reading_hour",
+                "title": "Vorlesestunde / reading hour",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "de",
+                "abstract": "",
+                "description": "Kinderb\u00fccher vorlesen",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Ckeen",
+                    "public_name": "Ckeen"
+                  }
+                ],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour"
+                ]
               }
             ],
             "Village:C-base": [
@@ -3413,6 +3467,33 @@
                   "https://fabscan.org",
                   "//events.ccc.de/camp/2019/wiki/Session:FabScanPi_-_3D_Laser_Scanner_Workshop"
                 ]
+              },
+              {
+                "id": 1297,
+                "guid": "f40b1ff2-7dbd-419a-8dc4-199f3bf33c0d",
+                "logo": null,
+                "date": "2019-08-23T17:30:00+02:00",
+                "start": "17:30",
+                "duration": "1:00",
+                "room": "Village:Kidspace",
+                "slug": "camp2019-1297-session_vorlesestunde_reading_hour",
+                "title": "Vorlesestunde / reading hour",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "de",
+                "abstract": "",
+                "description": "Kinderb\u00fccher vorlesen",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Ckeen",
+                    "public_name": "Ckeen"
+                  }
+                ],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour"
+                ]
               }
             ],
             "Village:Free Software Foundation Europe": [
@@ -3583,6 +3664,29 @@
                 "persons": [],
                 "links": [
                   "//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)"
+                ]
+              }
+            ],
+            "Goldberg (Workshop 2)": [
+              {
+                "id": 1296,
+                "guid": "4a5e8ab5-afa7-4bcd-9260-bf4ba79f1814",
+                "logo": null,
+                "date": "2019-08-23T10:30:00+02:00",
+                "start": "10:30",
+                "duration": "1:00",
+                "room": "Goldberg (Workshop 2)",
+                "slug": "camp2019-1296-session_learning_to_see_in_3d",
+                "title": "Learning to see in 3D",
+                "subtitle": "Introduction, Hands-On",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Can you hack how you see with Virtual RealiTy to rediscover your full sense of 3D?  Try out the new system, meet other interested people, plot and plan.",
+                "persons": [],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:Learning_to_see_in_3D"
                 ]
               }
             ],

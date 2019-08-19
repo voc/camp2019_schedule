@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-19 10:50</version>
+  <version>2019-08-19 12:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -521,6 +521,27 @@
         </persons>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:Explore_the_botany_of_the_camp_with_plant_identification_apps</link>
+        </links>
+      </event>
+      <event id="1298" guid="a212c8d6-beb5-53a4-8892-e16ae3c46673">
+        <logo/>
+        <date>2019-08-21T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>1:00</duration>
+        <room>Village:Kidspace</room>
+        <slug>camp2019-1298-session_vorlesestunde_reading_hour</slug>
+        <title>Vorlesestunde / reading hour</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Kinderbücher vorlesen</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ckeen">Ckeen</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour</link>
         </links>
       </event>
     </room>
@@ -1747,6 +1768,27 @@
           <link>//events.ccc.de/camp/2019/wiki/Session:Tetrapixels</link>
         </links>
       </event>
+      <event id="1299" guid="76d0e2b4-32de-5938-8c95-45d64ea46a1e">
+        <logo/>
+        <date>2019-08-22T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>1:00</duration>
+        <room>Village:Kidspace</room>
+        <slug>camp2019-1299-session_vorlesestunde_reading_hour</slug>
+        <title>Vorlesestunde / reading hour</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Kinderbücher vorlesen</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ckeen">Ckeen</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour</link>
+        </links>
+      </event>
     </room>
     <room name="Village:C-base">
       <event id="1227" guid="e8016cbd-7c0f-478b-a7c9-d4b18cbfce70">
@@ -2683,6 +2725,27 @@
           <link>//events.ccc.de/camp/2019/wiki/Session:FabScanPi_-_3D_Laser_Scanner_Workshop</link>
         </links>
       </event>
+      <event id="1297" guid="f40b1ff2-7dbd-419a-8dc4-199f3bf33c0d">
+        <logo/>
+        <date>2019-08-23T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>1:00</duration>
+        <room>Village:Kidspace</room>
+        <slug>camp2019-1297-session_vorlesestunde_reading_hour</slug>
+        <title>Vorlesestunde / reading hour</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Kinderbücher vorlesen</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Ckeen">Ckeen</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour</link>
+        </links>
+      </event>
     </room>
     <room name="Village:Free Software Foundation Europe">
       <event id="1161" guid="151e438c-6527-4f1c-aad5-359e5312110f">
@@ -2816,6 +2879,27 @@
         <persons/>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)</link>
+        </links>
+      </event>
+    </room>
+    <room name="Goldberg (Workshop 2)">
+      <event id="1296" guid="4a5e8ab5-afa7-4bcd-9260-bf4ba79f1814">
+        <logo/>
+        <date>2019-08-23T10:30:00+02:00</date>
+        <start>10:30</start>
+        <duration>1:00</duration>
+        <room>Goldberg (Workshop 2)</room>
+        <slug>camp2019-1296-session_learning_to_see_in_3d</slug>
+        <title>Learning to see in 3D</title>
+        <subtitle>Introduction, Hands-On</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Can you hack how you see with Virtual RealiTy to rediscover your full sense of 3D?  Try out the new system, meet other interested people, plot and plan.</description>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Learning_to_see_in_3D</link>
         </links>
       </event>
     </room>
