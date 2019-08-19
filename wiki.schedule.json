@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-19 16:50",
+    "version": "2019-08-19 17:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -635,14 +635,14 @@
                 ]
               },
               {
-                "id": 1298,
-                "guid": "a212c8d6-beb5-53a4-8892-e16ae3c46673",
+                "id": 1304,
+                "guid": "f40b1ff2-7dbd-419a-8dc4-199f3bf33c0e",
                 "logo": null,
                 "date": "2019-08-21T17:30:00+02:00",
                 "start": "17:30",
                 "duration": "1:00",
                 "room": "Village:Kidspace",
-                "slug": "camp2019-1298-session_vorlesestunde_reading_hour",
+                "slug": "camp2019-1304-session_vorlesestunde_reading_hour",
                 "title": "Vorlesestunde / reading hour",
                 "subtitle": "",
                 "track": "self organized sessions",
@@ -1609,6 +1609,33 @@
                 ]
               },
               {
+                "id": 1301,
+                "guid": "29357083-31f2-4021-afc6-a83ed524f91a",
+                "logo": null,
+                "date": "2019-08-22T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:30",
+                "room": "",
+                "slug": "camp2019-1301-session_fairydust_jewerly",
+                "title": "Fairydust Jewerly",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Bend wire into shape!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Abcdev",
+                    "public_name": "Abcdev"
+                  }
+                ],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:Fairydust_Jewerly"
+                ]
+              },
+              {
                 "id": 1285,
                 "guid": "ada6ca92-709b-4574-b783-ea647d6ee9f3",
                 "logo": null,
@@ -2273,14 +2300,14 @@
                 ]
               },
               {
-                "id": 1299,
-                "guid": "76d0e2b4-32de-5938-8c95-45d64ea46a1e",
+                "id": 1303,
+                "guid": "f40b1ff2-7dbd-419a-8dc4-199f3bf33c0f",
                 "logo": null,
                 "date": "2019-08-22T17:30:00+02:00",
                 "start": "17:30",
                 "duration": "1:00",
                 "room": "Village:Kidspace",
-                "slug": "camp2019-1299-session_vorlesestunde_reading_hour",
+                "slug": "camp2019-1303-session_vorlesestunde_reading_hour",
                 "title": "Vorlesestunde / reading hour",
                 "subtitle": "",
                 "track": "self organized sessions",
@@ -3482,14 +3509,14 @@
                 ]
               },
               {
-                "id": 1297,
-                "guid": "f40b1ff2-7dbd-419a-8dc4-199f3bf33c0d",
+                "id": 1302,
+                "guid": "f40b1ff2-7dbd-419a-8dc4-199f3bf33c1a",
                 "logo": null,
                 "date": "2019-08-23T17:30:00+02:00",
                 "start": "17:30",
                 "duration": "1:00",
                 "room": "Village:Kidspace",
-                "slug": "camp2019-1297-session_vorlesestunde_reading_hour",
+                "slug": "camp2019-1302-session_vorlesestunde_reading_hour",
                 "title": "Vorlesestunde / reading hour",
                 "subtitle": "",
                 "track": "self organized sessions",
