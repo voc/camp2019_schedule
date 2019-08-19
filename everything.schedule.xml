@@ -5783,13 +5783,13 @@ I am currently doing my PhD at a research institute that focuses on embedded sec
         </links>
       </event>
     </room>
-    <room name="">
+    <room name="Village:Haecksen">
       <event id="1315" guid="be027390-38e1-4207-b05f-2f4a2a279194">
         <logo/>
         <date>2019-08-24T23:00:00+02:00</date>
         <start>23:00</start>
         <duration>1:00</duration>
-        <room/>
+        <room>Village:Haecksen</room>
         <slug>camp2019-1315-session_feierliche_verlesung_des_gesammelten_aergers</slug>
         <title>Feierliche Verlesung des gesammelten Ärgers</title>
         <subtitle/>
@@ -5803,6 +5803,49 @@ I am currently doing my PhD at a research institute that focuses on embedded sec
         </persons>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:Feierliche_Verlesung_des_gesammelten_%C3%84rgers</link>
+        </links>
+      </event>
+      <event id="1311" guid="b2a39864-a9b3-4026-82c9-6398c8588651">
+        <logo/>
+        <date>2019-08-24T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>0:30</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1311-session_maerchenstunde_fuer_erwachsene_</slug>
+        <title>Märchenstunde (für Erwachsene)</title>
+        <subtitle>Computerge- schichte und Frauen*: letzter Teil, die Gegenwart, was ist da los und was soll das</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)</link>
+        </links>
+      </event>
+      <event id="1312" guid="614078e0-9cf6-42e3-a957-17d77fe10582">
+        <logo/>
+        <date>2019-08-24T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1312-session_socialtech</slug>
+        <title>SocialTech</title>
+        <subtitle>SocialTech #2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Workshop: Accessibility and Inclusion - Hacking everyday communication practices to change the world.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Erdbeerblau">Erdbeerblau</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Hirnsalat">Hirnsalat</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Vishnee">Vishnee</person>
+        </persons>
+        <links>
+          <link>http://angela.is/SocialTech/</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SocialTech</link>
         </links>
       </event>
     </room>
@@ -5982,51 +6025,6 @@ I am currently doing my PhD at a research institute that focuses on embedded sec
         <persons/>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:Let%27s_hack_words!</link>
-        </links>
-      </event>
-    </room>
-    <room name="Village:Haecksen">
-      <event id="1311" guid="b2a39864-a9b3-4026-82c9-6398c8588651">
-        <logo/>
-        <date>2019-08-24T22:00:00+02:00</date>
-        <start>22:00</start>
-        <duration>0:30</duration>
-        <room>Village:Haecksen</room>
-        <slug>camp2019-1311-session_maerchenstunde_fuer_erwachsene_</slug>
-        <title>Märchenstunde (für Erwachsene)</title>
-        <subtitle>Computerge- schichte und Frauen*: letzter Teil, die Gegenwart, was ist da los und was soll das</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <links>
-          <link>//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)</link>
-        </links>
-      </event>
-      <event id="1312" guid="614078e0-9cf6-42e3-a957-17d77fe10582">
-        <logo/>
-        <date>2019-08-24T11:00:00+02:00</date>
-        <start>11:00</start>
-        <duration>2:00</duration>
-        <room>Village:Haecksen</room>
-        <slug>camp2019-1312-session_socialtech</slug>
-        <title>SocialTech</title>
-        <subtitle>SocialTech #2</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Workshop: Accessibility and Inclusion - Hacking everyday communication practices to change the world.</description>
-        <persons>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Erdbeerblau">Erdbeerblau</person>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Hirnsalat">Hirnsalat</person>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Vishnee">Vishnee</person>
-        </persons>
-        <links>
-          <link>http://angela.is/SocialTech/</link>
-          <link>//events.ccc.de/camp/2019/wiki/Session:SocialTech</link>
         </links>
       </event>
     </room>

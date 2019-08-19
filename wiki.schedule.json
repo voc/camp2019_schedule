@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-19 18:00",
+    "version": "2019-08-19 18:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -4547,7 +4547,7 @@
                 ]
               }
             ],
-            "": [
+            "Village:Haecksen": [
               {
                 "id": 1315,
                 "guid": "be027390-38e1-4207-b05f-2f4a2a279194",
@@ -4555,7 +4555,7 @@
                 "date": "2019-08-24T23:00:00+02:00",
                 "start": "23:00",
                 "duration": "1:00",
-                "room": "",
+                "room": "Village:Haecksen",
                 "slug": "camp2019-1315-session_feierliche_verlesung_des_gesammelten_aergers",
                 "title": "Feierliche Verlesung des gesammelten \u00c4rgers",
                 "subtitle": "",
@@ -4573,6 +4573,65 @@
                 ],
                 "links": [
                   "//events.ccc.de/camp/2019/wiki/Session:Feierliche_Verlesung_des_gesammelten_%C3%84rgers"
+                ]
+              },
+              {
+                "id": 1311,
+                "guid": "b2a39864-a9b3-4026-82c9-6398c8588651",
+                "logo": null,
+                "date": "2019-08-24T22:00:00+02:00",
+                "start": "22:00",
+                "duration": "0:30",
+                "room": "Village:Haecksen",
+                "slug": "camp2019-1311-session_maerchenstunde_fuer_erwachsene_",
+                "title": "M\u00e4rchenstunde (f\u00fcr Erwachsene)",
+                "subtitle": "Computerge- schichte und Frauen*: letzter Teil, die Gegenwart, was ist da los und was soll das",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "",
+                "persons": [],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)"
+                ]
+              },
+              {
+                "id": 1312,
+                "guid": "614078e0-9cf6-42e3-a957-17d77fe10582",
+                "logo": null,
+                "date": "2019-08-24T11:00:00+02:00",
+                "start": "11:00",
+                "duration": "2:00",
+                "room": "Village:Haecksen",
+                "slug": "camp2019-1312-session_socialtech",
+                "title": "SocialTech",
+                "subtitle": "SocialTech #2",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Workshop: Accessibility and Inclusion - Hacking everyday communication practices to change the world.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Erdbeerblau",
+                    "public_name": "Erdbeerblau"
+                  },
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Hirnsalat",
+                    "public_name": "Hirnsalat"
+                  },
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Vishnee",
+                    "public_name": "Vishnee"
+                  }
+                ],
+                "links": [
+                  "http://angela.is/SocialTech/",
+                  "//events.ccc.de/camp/2019/wiki/Session:SocialTech"
                 ]
               }
             ],
@@ -4792,67 +4851,6 @@
                 "persons": [],
                 "links": [
                   "//events.ccc.de/camp/2019/wiki/Session:Let%27s_hack_words!"
-                ]
-              }
-            ],
-            "Village:Haecksen": [
-              {
-                "id": 1311,
-                "guid": "b2a39864-a9b3-4026-82c9-6398c8588651",
-                "logo": null,
-                "date": "2019-08-24T22:00:00+02:00",
-                "start": "22:00",
-                "duration": "0:30",
-                "room": "Village:Haecksen",
-                "slug": "camp2019-1311-session_maerchenstunde_fuer_erwachsene_",
-                "title": "M\u00e4rchenstunde (f\u00fcr Erwachsene)",
-                "subtitle": "Computerge- schichte und Frauen*: letzter Teil, die Gegenwart, was ist da los und was soll das",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "",
-                "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)"
-                ]
-              },
-              {
-                "id": 1312,
-                "guid": "614078e0-9cf6-42e3-a957-17d77fe10582",
-                "logo": null,
-                "date": "2019-08-24T11:00:00+02:00",
-                "start": "11:00",
-                "duration": "2:00",
-                "room": "Village:Haecksen",
-                "slug": "camp2019-1312-session_socialtech",
-                "title": "SocialTech",
-                "subtitle": "SocialTech #2",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Workshop: Accessibility and Inclusion - Hacking everyday communication practices to change the world.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Erdbeerblau",
-                    "public_name": "Erdbeerblau"
-                  },
-                  {
-                    "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Hirnsalat",
-                    "public_name": "Hirnsalat"
-                  },
-                  {
-                    "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Vishnee",
-                    "public_name": "Vishnee"
-                  }
-                ],
-                "links": [
-                  "http://angela.is/SocialTech/",
-                  "//events.ccc.de/camp/2019/wiki/Session:SocialTech"
                 ]
               }
             ],
