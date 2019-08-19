@@ -1,5 +1,5 @@
 <schedule>
-  <version>Capella The Secret of Monkey Island</version>
+  <version>Capella Monkey Island 2: LeChuck’s Revenge</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -528,40 +528,10 @@ We will use software methods (rooting) and hardware methods (flash dumping). Usi
       </event>
     </room>
     <room name="Plank">
-      <event id="142" guid="ecc2fea1-4e7c-5dce-a88c-e808dd245271">
-        <logo/>
-        <date>2019-08-21T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>01:00</duration>
-        <room>Plank</room>
-        <slug>ET9CFU</slug>
-        <url>http://talx.thm.cloud/thms/talk/ET9CFU/</url>
-        <title>Konviviale Software vor und jenseits des digitalen Kapitalismus</title>
-        <subtitle/>
-        <track>Talk</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Der Vortrag geht der Frage nach, welche Aspekte der Geschichte des digitalen Wandels mit der Bestrebung nach einer sozial-ökologischen Gestaltung von Technik zu tun haben. Dabei wird gezeigt, was die Nachhaltigkeitsbewegung von der Free-Software-Bewegung und der Hacker-Ethik lernen kann, insbesondere bzgl. der Autonomie gegenüber digitalen Großkonzernen durch Selbstverwaltung und kollaborative Entwicklung. Andersherum wird diskutiert, was die Techszene über die Notwendigkeit und Möglichkeiten einer sozial-ökologischen Transformation lernen kann. Im Grunde genommen geht es hier darum, die emanzipatorischen Elemente der digitalen Technikentwicklung (die vor dem digitalen Kapitalismus des 21. Jahrhunderts existierten und sich ihm weiterhin entgegenstellen) und die Botschaften der politischen Ökologie in eine gemeinsame Erzählung zusammenzuführen.</abstract>
-        <description>Der Begriff "Konvivialität" wurde in der politischen Ökologie eingeführt, um eine Vorstellung von Technik zu beschreiben, die sich von der industriellen Produktivität unterscheidet. Dabei geht es darum, Technik auf der Grundlage sozial-ökologischer Kriterien zu bewerten. Diese Kriterien werden vorgestellt und auf den Bereich digitale Technik angewandt. Ein Überblick über die Geschichte der Softwareentwicklung und des digitalen Kapitalismus wird zeigen, dass Konvivialität viel mit FOSS-Prinzipien zu tun hat, im Gegensatz zu kommerzieller Software, die von Konzernen entwickelt wird. Die Analyse anhand von Konvivialitätskriterien wird dadurch zur nützlichen Methode, um über digitale Technik zu reflektieren. Perspektivisch könnte das zu einer Annäherung der kritischen Tech- und Ökologiebewegungen führen: die etablierte Praxis der Free-Software-Bewegung könnte zu einer Keimform einer sozial-ökologischen Utopie jenseits des digitalen Kapitalismus werden.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="44">
-            <code>BMHR3B</code>
-            <public_name>Nicolas</public_name>
-            <biography>Nicolas ist promovierter Informatiker, der die Wissenschaft hinter sich gelassen hat, um sich auf zivilgesellschaftlicher Seite für einen emanzipatorischen Umgang mit digitalen Technologien einzusetzen. Er arbeitet beim Konzeptwerk Neue Ökonomie zu Digitalisierung und ist in der Klimagerechtigkeitsbewegung aktiv.</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="141" guid="74ebea5d-e24e-55a0-99a4-f13879394f48">
         <logo/>
-        <date>2019-08-21T18:15:00+02:00</date>
-        <start>18:15</start>
+        <date>2019-08-21T15:00:00+02:00</date>
+        <start>15:00</start>
         <duration>01:00</duration>
         <room>Plank</room>
         <slug>VFBKTL</slug>
@@ -589,10 +559,40 @@ Anhand von Beispielen wird gezeigt, welche Rebound-Effekte in dem Zusammenhang b
         <attachments/>
         <answers/>
       </event>
+      <event id="142" guid="ecc2fea1-4e7c-5dce-a88c-e808dd245271">
+        <logo/>
+        <date>2019-08-21T16:15:00+02:00</date>
+        <start>16:15</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>ET9CFU</slug>
+        <url>http://talx.thm.cloud/thms/talk/ET9CFU/</url>
+        <title>Konviviale Software vor und jenseits des digitalen Kapitalismus</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Der Vortrag geht der Frage nach, welche Aspekte der Geschichte des digitalen Wandels mit der Bestrebung nach einer sozial-ökologischen Gestaltung von Technik zu tun haben. Dabei wird gezeigt, was die Nachhaltigkeitsbewegung von der Free-Software-Bewegung und der Hacker-Ethik lernen kann, insbesondere bzgl. der Autonomie gegenüber digitalen Großkonzernen durch Selbstverwaltung und kollaborative Entwicklung. Andersherum wird diskutiert, was die Techszene über die Notwendigkeit und Möglichkeiten einer sozial-ökologischen Transformation lernen kann. Im Grunde genommen geht es hier darum, die emanzipatorischen Elemente der digitalen Technikentwicklung (die vor dem digitalen Kapitalismus des 21. Jahrhunderts existierten und sich ihm weiterhin entgegenstellen) und die Botschaften der politischen Ökologie in eine gemeinsame Erzählung zusammenzuführen.</abstract>
+        <description>Der Begriff "Konvivialität" wurde in der politischen Ökologie eingeführt, um eine Vorstellung von Technik zu beschreiben, die sich von der industriellen Produktivität unterscheidet. Dabei geht es darum, Technik auf der Grundlage sozial-ökologischer Kriterien zu bewerten. Diese Kriterien werden vorgestellt und auf den Bereich digitale Technik angewandt. Ein Überblick über die Geschichte der Softwareentwicklung und des digitalen Kapitalismus wird zeigen, dass Konvivialität viel mit FOSS-Prinzipien zu tun hat, im Gegensatz zu kommerzieller Software, die von Konzernen entwickelt wird. Die Analyse anhand von Konvivialitätskriterien wird dadurch zur nützlichen Methode, um über digitale Technik zu reflektieren. Perspektivisch könnte das zu einer Annäherung der kritischen Tech- und Ökologiebewegungen führen: die etablierte Praxis der Free-Software-Bewegung könnte zu einer Keimform einer sozial-ökologischen Utopie jenseits des digitalen Kapitalismus werden.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="44">
+            <code>BMHR3B</code>
+            <public_name>Nicolas</public_name>
+            <biography>Nicolas ist promovierter Informatiker, der die Wissenschaft hinter sich gelassen hat, um sich auf zivilgesellschaftlicher Seite für einen emanzipatorischen Umgang mit digitalen Technologien einzusetzen. Er arbeitet beim Konzeptwerk Neue Ökonomie zu Digitalisierung und ist in der Klimagerechtigkeitsbewegung aktiv.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="114" guid="d1d313f5-926b-5357-b764-4c85cb9dddfc">
         <logo/>
-        <date>2019-08-21T20:30:00+02:00</date>
-        <start>20:30</start>
+        <date>2019-08-21T18:30:00+02:00</date>
+        <start>18:30</start>
         <duration>00:30</duration>
         <room>Plank</room>
         <slug>ASYLJ8</slug>
@@ -627,8 +627,8 @@ Der Kurzvortrag gibt einen Einstieg ins Thema und erklärt, was ich vorhabe, wen
       </event>
       <event id="148" guid="b4902bdb-38ab-5abb-9884-5efdb4bca02f">
         <logo>/media/thms/images/KXW3SP/digital-vs.-printversion_print-version-for-banners-shirts-etc._1500x1500.png</logo>
-        <date>2019-08-21T21:15:00+02:00</date>
-        <start>21:15</start>
+        <date>2019-08-21T19:15:00+02:00</date>
+        <start>19:15</start>
         <duration>00:30</duration>
         <room>Plank</room>
         <slug>KXW3SP</slug>
@@ -661,8 +661,8 @@ FridaysForFuture - die größte SchülerInnenbewegung aller Zeiten weltweit. Wie
       </event>
       <event id="133" guid="6d16f60d-11cd-53ca-88bb-ccd014b20a9e">
         <logo>/media/thms/images/PEXUEM/nice-view-computerraum.jpg</logo>
-        <date>2019-08-21T22:00:00+02:00</date>
-        <start>22:00</start>
+        <date>2019-08-21T20:00:00+02:00</date>
+        <start>20:00</start>
         <duration>01:00</duration>
         <room>Plank</room>
         <slug>PEXUEM</slug>
@@ -703,8 +703,8 @@ Seit 2003 Mitgründer und Heimleiter der &amp;bdquo;Restrealitaet&amp;ldquo;, ei
       </event>
       <event id="149" guid="eda75c8d-fe02-5986-a6c3-d0b699231b6a">
         <logo/>
-        <date>2019-08-21T23:15:00+02:00</date>
-        <start>23:15</start>
+        <date>2019-08-21T21:10:00+02:00</date>
+        <start>21:10</start>
         <duration>00:30</duration>
         <room>Plank</room>
         <slug>NWNHJ3</slug>
@@ -760,8 +760,8 @@ die Zukunft zu erhalten</description>
       </event>
       <event id="144" guid="c1dbaff1-600d-5496-9de7-2ee0b55ee993">
         <logo/>
-        <date>2019-08-22T00:30:00+02:00</date>
-        <start>00:30</start>
+        <date>2019-08-21T22:30:00+02:00</date>
+        <start>22:30</start>
         <duration>02:00</duration>
         <room>Plank</room>
         <slug>DBZNBY</slug>
@@ -792,8 +792,8 @@ DJ/Liveset - Soul, Jazz, Funk</description>
       </event>
       <event id="105" guid="8b56bef8-edb3-519a-9a48-6a80f4bb9566">
         <logo>/media/thms/images/DLS83T/Dc8jzhwW0AA1KDn_1.jpg</logo>
-        <date>2019-08-22T02:30:00+02:00</date>
-        <start>02:30</start>
+        <date>2019-08-22T00:30:00+02:00</date>
+        <start>00:30</start>
         <duration>02:00</duration>
         <room>Plank</room>
         <slug>DLS83T</slug>
@@ -820,12 +820,43 @@ DJ/Liveset - Soul, Jazz, Funk</description>
         <attachments/>
         <answers/>
       </event>
+      <event id="106" guid="bffe36f4-428d-57ba-bcab-01b681292b55">
+        <logo>/media/thms/images/FASSF7/Eat_The_Bass_2.jpg</logo>
+        <date>2019-08-22T02:30:00+02:00</date>
+        <start>02:30</start>
+        <duration>02:00</duration>
+        <room>Plank</room>
+        <slug>FASSF7</slug>
+        <url>http://talx.thm.cloud/thms/talk/FASSF7/</url>
+        <title>Music Music Music (DJ-Set)</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>DJ Set</type>
+        <language>en</language>
+        <abstract>Bass + Klapper-Beats</abstract>
+        <description>Depending on what you are up to, either way, I make you move with Bass + Beats. From Chill-Bass, Vapor-Trap to Djungle. Whatever you like. You **L.O.V.E.** Mjusic!&#13;
+Check out my mixes on [Soundcloud] (https://soundcloud.com/barbnerdy)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="16">
+            <code>PJF8MV</code>
+            <public_name>BarbNerdy</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
     </room>
     <room name="Workshop">
       <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
         <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
-        <date>2019-08-21T16:00:00+02:00</date>
-        <start>16:00</start>
+        <date>2019-08-21T14:00:00+02:00</date>
+        <start>14:00</start>
         <duration>01:00</duration>
         <room>Workshop</room>
         <slug>VT87DH</slug>
@@ -855,8 +886,8 @@ Consultation hours are held in German or English, depending on the need. Oh, and
       </event>
       <event id="116" guid="0d5c9c41-398c-5f2b-aeec-34f1ea5ac454">
         <logo>/media/thms/images/A879ZK/cccamp19_3.png</logo>
-        <date>2019-08-21T17:15:00+02:00</date>
-        <start>17:15</start>
+        <date>2019-08-21T15:15:00+02:00</date>
+        <start>15:15</start>
         <duration>02:00</duration>
         <room>Workshop</room>
         <slug>A879ZK</slug>
@@ -1354,41 +1385,10 @@ Finally we will give some ideas on how to read between the lines in datasheets. 
       </event>
     </room>
     <room name="Plank">
-      <event id="106" guid="bffe36f4-428d-57ba-bcab-01b681292b55">
-        <logo>/media/thms/images/FASSF7/Eat_The_Bass_2.jpg</logo>
-        <date>2019-08-22T04:30:00+02:00</date>
-        <start>04:30</start>
-        <duration>02:00</duration>
-        <room>Plank</room>
-        <slug>FASSF7</slug>
-        <url>http://talx.thm.cloud/thms/talk/FASSF7/</url>
-        <title>Music Music Music (DJ-Set)</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>DJ Set</type>
-        <language>en</language>
-        <abstract>Bass + Klapper-Beats</abstract>
-        <description>Depending on what you are up to, either way, I make you move with Bass + Beats. From Chill-Bass, Vapor-Trap to Djungle. Whatever you like. You **L.O.V.E.** Mjusic!&#13;
-Check out my mixes on [Soundcloud] (https://soundcloud.com/barbnerdy)</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="16">
-            <code>PJF8MV</code>
-            <public_name>BarbNerdy</public_name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="117" guid="ea450a4c-8372-51f3-974d-879ce4083976">
         <logo/>
-        <date>2019-08-22T06:30:00+02:00</date>
-        <start>06:30</start>
+        <date>2019-08-22T04:30:00+02:00</date>
+        <start>04:30</start>
         <duration>02:00</duration>
         <room>Plank</room>
         <slug>PHGYF8</slug>
@@ -1417,8 +1417,8 @@ Check out my mixes on [Soundcloud] (https://soundcloud.com/barbnerdy)</descripti
       </event>
       <event id="139" guid="0ef9486d-7f7a-5298-9042-3e55c19768d2">
         <logo/>
-        <date>2019-08-22T17:00:00+02:00</date>
-        <start>17:00</start>
+        <date>2019-08-22T15:00:00+02:00</date>
+        <start>15:00</start>
         <duration>01:00</duration>
         <room>Plank</room>
         <slug>WCSCAX</slug>
@@ -1445,10 +1445,49 @@ Check out my mixes on [Soundcloud] (https://soundcloud.com/barbnerdy)</descripti
         <attachments/>
         <answers/>
       </event>
+      <event id="138" guid="4ea406aa-1c4b-5694-b1aa-f86dd3057d8a">
+        <logo/>
+        <date>2019-08-22T16:15:00+02:00</date>
+        <start>16:15</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>LEA7LY</slug>
+        <url>http://talx.thm.cloud/thms/talk/LEA7LY/</url>
+        <title>Security Analysis of the AMD Platform Security Processor</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>The AMD Platform Security Processor (PSP) is a security subsystem in AMD CPUs comparable to the Intel ME and was introduced in 2013. It is essential for system startup – in fact, in runs before the main processor is even started – and offers runtime services to the main processor. For this, it has full access to the system memory space (inlcuding MMIO).&#13;
+&#13;
+The PSP runs undocumented, proprietary firmware. This talk presents efforts of investigating what the PSP does and if it's secure. For the first time, it documents the PSP firmware's proprietary filesystem and provides insights into reverse-engineering such a deeply embedded system as the PSP. The talk further sheds light on how we might regain trust in AMD CPUs despite the delicate nature of the PSP.</abstract>
+        <description>With the ongoing digitalization, not only the number of IT systems is increasing in many domains, but also the amount of software and hardware that forms the trusted computing base of an application. Applications in industrial systems, infrastructure and consumer electronics rely on the security of these systems. Emerging security technologies try to mitigate the risk of insecure software and hardware by embedding secure components into these untrusted systems. &#13;
+&#13;
+AMD introduced the AMD Secure Processor to provide a trusted execution environment for critical operations. This talk comprehensively analyzes the undocumented and largely unknown security co-processor and discovers its inner workings. It aims to find out if it is able to keep its promise – or if it opens up another attack vector.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="41">
+            <code>39DWDB</code>
+            <public_name>Christian Werling</public_name>
+            <biography/>
+          </person>
+          <person id="69">
+            <code>3MMUHQ</code>
+            <public_name>Robert Buhren</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="150" guid="c26d6ec7-2701-56dc-8110-9896c6f6a659">
         <logo/>
-        <date>2019-08-22T20:15:00+02:00</date>
-        <start>20:15</start>
+        <date>2019-08-22T18:15:00+02:00</date>
+        <start>18:15</start>
         <duration>01:00</duration>
         <room>Plank</room>
         <slug>GRRQTX</slug>
@@ -1521,8 +1560,8 @@ wissen, was sie tun.</description>
       </event>
       <event id="115" guid="ca81a392-cd83-55b0-abd5-1ed379611b37">
         <logo/>
-        <date>2019-08-22T21:30:00+02:00</date>
-        <start>21:30</start>
+        <date>2019-08-22T19:30:00+02:00</date>
+        <start>19:30</start>
         <duration>00:30</duration>
         <room>Plank</room>
         <slug>MRJQ7S</slug>
@@ -1549,45 +1588,10 @@ wissen, was sie tun.</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="107" guid="49498e74-3b88-599b-9fb5-f28663b3c8bc">
-        <logo/>
-        <date>2019-08-22T22:10:00+02:00</date>
-        <start>22:10</start>
-        <duration>01:00</duration>
-        <room>Plank</room>
-        <slug>LJQNKC</slug>
-        <url>http://talx.thm.cloud/thms/talk/LJQNKC/</url>
-        <title>Logbuch:Netzpolitik</title>
-        <subtitle/>
-        <track>Entertainment</track>
-        <type>Entertainment</type>
-        <language>de</language>
-        <abstract>Live-Podcast</abstract>
-        <description>Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="17">
-            <code>YQRFRN</code>
-            <public_name>Linus Neumann</public_name>
-            <biography/>
-          </person>
-          <person id="18">
-            <code>N9XJ77</code>
-            <public_name>Tim Pritlove</public_name>
-            <biography>Diskordischer Evangelist</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="108" guid="da999f3a-edf0-590a-85f8-37cb00cf21d9">
         <logo/>
-        <date>2019-08-22T23:30:00+02:00</date>
-        <start>23:30</start>
+        <date>2019-08-22T21:30:00+02:00</date>
+        <start>21:30</start>
         <duration>01:00</duration>
         <room>Plank</room>
         <slug>9P8DR9</slug>
@@ -1618,8 +1622,8 @@ Mit Bildern, Screenshots und vielleicht auch dem einen oder anderen kurzen Video
       </event>
       <event id="157" guid="85928ccf-a5a7-56a0-8a65-a3e3c859a3b5">
         <logo/>
-        <date>2019-08-23T01:00:00+02:00</date>
-        <start>01:00</start>
+        <date>2019-08-22T23:00:00+02:00</date>
+        <start>23:00</start>
         <duration>02:00</duration>
         <room>Plank</room>
         <slug>QTLVBH</slug>
@@ -1646,12 +1650,42 @@ Mit Bildern, Screenshots und vielleicht auch dem einen oder anderen kurzen Video
         <attachments/>
         <answers/>
       </event>
+      <event id="128" guid="0c7c6703-86ba-5059-897b-682e51056488">
+        <logo/>
+        <date>2019-08-23T01:00:00+02:00</date>
+        <start>01:00</start>
+        <duration>02:00</duration>
+        <room>Plank</room>
+        <slug>UPTJXZ</slug>
+        <url>http://talx.thm.cloud/thms/talk/UPTJXZ/</url>
+        <title>Meta Meta Cloud Beats</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>DJ Set</type>
+        <language>en</language>
+        <abstract>Ein DJ Set von Skorpy</abstract>
+        <description>Skorpy provides you with two hours of filthy and clean techno beats.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="34">
+            <code>CGVXUL</code>
+            <public_name>skorpy</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
     </room>
     <room name="Workshop">
       <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
         <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
-        <date>2019-08-22T16:00:00+02:00</date>
-        <start>16:00</start>
+        <date>2019-08-22T14:00:00+02:00</date>
+        <start>14:00</start>
         <duration>01:00</duration>
         <room>Workshop</room>
         <slug>VT87DH</slug>
@@ -1681,8 +1715,8 @@ Consultation hours are held in German or English, depending on the need. Oh, and
       </event>
       <event id="120" guid="3690343b-b02c-57a6-8c37-d82113a0843b">
         <logo>/media/thms/images/ZMERMD/photo_2019-07-18_18-58-45.jpg</logo>
-        <date>2019-08-22T17:15:00+02:00</date>
-        <start>17:15</start>
+        <date>2019-08-22T15:15:00+02:00</date>
+        <start>15:15</start>
         <duration>02:00</duration>
         <room>Workshop</room>
         <slug>ZMERMD</slug>
@@ -1714,8 +1748,8 @@ maximal 8 teilnehmer*innen, alter ab 8</description>
       </event>
       <event id="123" guid="30f4400a-23d9-5b81-9beb-875217813515">
         <logo/>
-        <date>2019-08-22T20:30:00+02:00</date>
-        <start>20:30</start>
+        <date>2019-08-22T18:30:00+02:00</date>
+        <start>18:30</start>
         <duration>02:00</duration>
         <room>Workshop</room>
         <slug>GHNDP7</slug>
@@ -2379,40 +2413,10 @@ These tools, called Dreams and Realities are run alongside a customized version 
       </event>
     </room>
     <room name="Plank">
-      <event id="128" guid="0c7c6703-86ba-5059-897b-682e51056488">
+      <event id="152" guid="e960e678-a20b-53bf-8b93-11161b0248b6">
         <logo/>
         <date>2019-08-23T03:00:00+02:00</date>
         <start>03:00</start>
-        <duration>02:00</duration>
-        <room>Plank</room>
-        <slug>UPTJXZ</slug>
-        <url>http://talx.thm.cloud/thms/talk/UPTJXZ/</url>
-        <title>Meta Meta Cloud Beats</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>DJ Set</type>
-        <language>en</language>
-        <abstract>Ein DJ Set von Skorpy</abstract>
-        <description>Skorpy provides you with two hours of filthy and clean techno beats.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="34">
-            <code>CGVXUL</code>
-            <public_name>skorpy</public_name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="152" guid="e960e678-a20b-53bf-8b93-11161b0248b6">
-        <logo/>
-        <date>2019-08-23T05:00:00+02:00</date>
-        <start>05:00</start>
         <duration>02:00</duration>
         <room>Plank</room>
         <slug>9MFGLW</slug>
@@ -2439,49 +2443,10 @@ These tools, called Dreams and Realities are run alongside a customized version 
         <attachments/>
         <answers/>
       </event>
-      <event id="138" guid="4ea406aa-1c4b-5694-b1aa-f86dd3057d8a">
-        <logo/>
-        <date>2019-08-23T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>01:00</duration>
-        <room>Plank</room>
-        <slug>LEA7LY</slug>
-        <url>http://talx.thm.cloud/thms/talk/LEA7LY/</url>
-        <title>Security Analysis of the AMD Platform Security Processor</title>
-        <subtitle/>
-        <track>Talk</track>
-        <type>Talk</type>
-        <language>en</language>
-        <abstract>The AMD Platform Security Processor (PSP) is a security subsystem in AMD CPUs comparable to the Intel ME and was introduced in 2013. It is essential for system startup – in fact, in runs before the main processor is even started – and offers runtime services to the main processor. For this, it has full access to the system memory space (inlcuding MMIO).&#13;
-&#13;
-The PSP runs undocumented, proprietary firmware. This talk presents efforts of investigating what the PSP does and if it's secure. For the first time, it documents the PSP firmware's proprietary filesystem and provides insights into reverse-engineering such a deeply embedded system as the PSP. The talk further sheds light on how we might regain trust in AMD CPUs despite the delicate nature of the PSP.</abstract>
-        <description>With the ongoing digitalization, not only the number of IT systems is increasing in many domains, but also the amount of software and hardware that forms the trusted computing base of an application. Applications in industrial systems, infrastructure and consumer electronics rely on the security of these systems. Emerging security technologies try to mitigate the risk of insecure software and hardware by embedding secure components into these untrusted systems. &#13;
-&#13;
-AMD introduced the AMD Secure Processor to provide a trusted execution environment for critical operations. This talk comprehensively analyzes the undocumented and largely unknown security co-processor and discovers its inner workings. It aims to find out if it is able to keep its promise – or if it opens up another attack vector.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="41">
-            <code>39DWDB</code>
-            <public_name>Christian Werling</public_name>
-            <biography/>
-          </person>
-          <person id="69">
-            <code>3MMUHQ</code>
-            <public_name>Robert Buhren</public_name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="132" guid="4f94b6e0-3e6c-5b5d-9d47-45c06304c063">
         <logo/>
-        <date>2019-08-23T18:15:00+02:00</date>
-        <start>18:15</start>
+        <date>2019-08-23T16:15:00+02:00</date>
+        <start>16:15</start>
         <duration>00:30</duration>
         <room>Plank</room>
         <slug>QULQKV</slug>
@@ -2517,8 +2482,8 @@ To stay on the punny side of things, we shall call this method *unicorefuzz*.</d
       </event>
       <event id="126" guid="493770fd-2347-5707-98bc-22ee77cc9129">
         <logo/>
-        <date>2019-08-23T19:00:00+02:00</date>
-        <start>19:00</start>
+        <date>2019-08-23T17:00:00+02:00</date>
+        <start>17:00</start>
         <duration>00:30</duration>
         <room>Plank</room>
         <slug>Z3VR8P</slug>
@@ -2553,8 +2518,8 @@ I've worked with most, and carefully implemented several, of the primitives bein
       </event>
       <event id="134" guid="361c6e0f-a89b-50a7-acc8-66e3c975e6b4">
         <logo/>
-        <date>2019-08-23T20:30:00+02:00</date>
-        <start>20:30</start>
+        <date>2019-08-23T18:30:00+02:00</date>
+        <start>18:30</start>
         <duration>01:00</duration>
         <room>Plank</room>
         <slug>ACSFZ7</slug>
@@ -2587,8 +2552,8 @@ Userli verwendet das Dovecot MailCrypt Plugin und libsodium um Postfächer zu ve
       </event>
       <event id="136" guid="879d54a4-a90e-5e0d-8c56-c189ba166c72">
         <logo>/media/thms/images/GYWNQP/IMG_9214_ej6Xqgg.JPG</logo>
-        <date>2019-08-23T21:45:00+02:00</date>
-        <start>21:45</start>
+        <date>2019-08-23T19:45:00+02:00</date>
+        <start>19:45</start>
         <duration>01:00</duration>
         <room>Plank</room>
         <slug>GYWNQP</slug>
@@ -2617,8 +2582,8 @@ Userli verwendet das Dovecot MailCrypt Plugin und libsodium um Postfächer zu ve
       </event>
       <event id="113" guid="8c42e64a-160b-53c1-a0a4-c6ef4f93208b">
         <logo>/media/thms/images/3UBEUB/6B5CDF68-12FE-416E-9490-3B4DFD62F867.jpeg</logo>
-        <date>2019-08-23T23:30:00+02:00</date>
-        <start>23:30</start>
+        <date>2019-08-23T21:30:00+02:00</date>
+        <start>21:30</start>
         <duration>01:00</duration>
         <room>Plank</room>
         <slug>3UBEUB</slug>
@@ -2651,8 +2616,8 @@ einen weiteren Abbau der Freiheitsrechte und noch mehr Überwachung.</abstract>
       </event>
       <event id="158" guid="6d833231-3c1c-506f-b3fe-dbb08c8bffbc">
         <logo/>
-        <date>2019-08-24T01:00:00+02:00</date>
-        <start>01:00</start>
+        <date>2019-08-23T23:00:00+02:00</date>
+        <start>23:00</start>
         <duration>01:00</duration>
         <room>Plank</room>
         <slug>DKGDLN</slug>
@@ -2681,8 +2646,8 @@ einen weiteren Abbau der Freiheitsrechte und noch mehr Überwachung.</abstract>
       </event>
       <event id="109" guid="c59b2363-a6cb-561a-84e5-2e55a759ef97">
         <logo/>
-        <date>2019-08-24T02:00:00+02:00</date>
-        <start>02:00</start>
+        <date>2019-08-24T00:00:00+02:00</date>
+        <start>00:00</start>
         <duration>02:00</duration>
         <room>Plank</room>
         <slug>QWFLJN</slug>
@@ -2715,12 +2680,44 @@ Her favorite producers are Calyx, Matrix, Ed Rush &amp; Optical, Teebee, Break, 
         <attachments/>
         <answers/>
       </event>
+      <event id="112" guid="9cf58a9c-11e5-519f-97f9-e66fc443faff">
+        <logo>/media/thms/images/8GEREV/15241904_1804354359578279_5081898806412035648_n.jpg</logo>
+        <date>2019-08-24T02:00:00+02:00</date>
+        <start>02:00</start>
+        <duration>02:00</duration>
+        <room>Plank</room>
+        <slug>8GEREV</slug>
+        <url>http://talx.thm.cloud/thms/talk/8GEREV/</url>
+        <title>Delaydi and Saetchmo bassploring space</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>DJ Set</type>
+        <language>de</language>
+        <abstract>Die Bassplorers aka Delaydi und Saetchmo nehmen euch mit auf eine basstherapeutische Weltraumreise</abstract>
+        <description>Die Bassplores sind ein DJ Team aus Berlin, das mit basstherapeutischen Massnahmen das Raum-Zeit-Kontinuum entdeckt. Folge den Machern des Echochamber Podcasts auf eine faszinierende Reise durch unbekannte Galaxien aus Sound und Licht. Delaydi und Saetchmo dringen dabei in Sphären vor, die die Seele jedes tieffrequent begeisterten Wesens zum Beben bringen wird. &#13;
+In diesem Sinne&#13;
+Bass ahoi</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="23">
+            <code>T9CNKN</code>
+            <public_name>Bassplorers</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
     </room>
     <room name="Workshop">
       <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
         <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
-        <date>2019-08-23T16:00:00+02:00</date>
-        <start>16:00</start>
+        <date>2019-08-23T14:00:00+02:00</date>
+        <start>14:00</start>
         <duration>01:00</duration>
         <room>Workshop</room>
         <slug>VT87DH</slug>
@@ -2748,41 +2745,10 @@ Consultation hours are held in German or English, depending on the need. Oh, and
         <attachments/>
         <answers/>
       </event>
-      <event id="125" guid="730b9a78-233a-5fc2-bd47-a64a582e8466">
-        <logo>/media/thms/images/8NG8AA/Gameboy_Music_Workshop_2011_a.JPG</logo>
-        <date>2019-08-23T17:30:00+02:00</date>
-        <start>17:30</start>
-        <duration>02:00</duration>
-        <room>Workshop</room>
-        <slug>8NG8AA</slug>
-        <url>http://talx.thm.cloud/thms/talk/8NG8AA/</url>
-        <title>Gameboy Musik Workshop</title>
-        <subtitle/>
-        <track>Workshop</track>
-        <type>Workshop</type>
-        <language>de</language>
-        <abstract>Ein Einsteiger-Workshop für alle die schon immer mal Musik mit Gameboys machen wollten.</abstract>
-        <description>Chiptune - oder Musik erzeugt von Soundchips alter Computer, Konsolen und Handhelds benötigt heute keine detaillierten Kenntnisse mehr von Hardware und Assemblersprache. Der Liveact irq7 zeigt wie man einem Gameboy Sounds entlockt und erste Loops damit komponiert. Dafür sind keine Vorkenntnisse nötig - alles was ihr braucht gibt's beim Workshop. Gerne darf man natürlich Kopfhörer und den eigenen Gameboy mitbringen.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="32">
-            <code>U8GPQ7</code>
-            <public_name>Hannes Fertala</public_name>
-            <biography>Hannes Fertala ist seit mehreren Jahren in der Chiptune-Szene als Gameboy-Liveact 'irq7' aktiv. Der erste Kontakt zu dieser Art von Musik kam 2003 durch ein Konzert des Gameboymusicclub's in Graz zustande. Daraufhin folgt der Kauf den ersten Gameboys und dann schließlich das erste Konzert im Jahr 2006. Davor ein überzeugter Fan des Commodore 64 – Sounds und sammeln erster Erfahrungen mit Tracker-Software am Amiga.&#13;
-Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys selbst zu modifizieren und erweitern. Alle Aktivitäten werden seither auf seinem Blog (http://irq7.blogspot.com) veröffentlicht. Des Weiteren ist er seit 2010 Mitorganisator des jährlichen Chiptune-Festivals CHIP HITS THE FAN (http://chiphitsthefan.de) in Nürnberg.</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="131" guid="8437e8a0-e99a-5e16-81d6-81a1cab2fc59">
         <logo>/media/thms/images/QX7DQP/Screenshot_2019-08-17_at_21.30.45.png</logo>
-        <date>2019-08-23T20:45:00+02:00</date>
-        <start>20:45</start>
+        <date>2019-08-23T15:15:00+02:00</date>
+        <start>15:15</start>
         <duration>02:00</duration>
         <room>Workshop</room>
         <slug>QX7DQP</slug>
@@ -2824,6 +2790,44 @@ i might be reachable on eventphone: -CY4N (-2946)</biography>
             <code>UY8TSA</code>
             <public_name>honnel</public_name>
             <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="121" guid="54e38754-23b1-5d62-8554-77c9aea7180a">
+        <logo/>
+        <date>2019-08-23T18:45:00+02:00</date>
+        <start>18:45</start>
+        <duration>01:00</duration>
+        <room>Workshop</room>
+        <slug>PGL9WK</slug>
+        <url>http://talx.thm.cloud/thms/talk/PGL9WK/</url>
+        <title>Introduction to Lindy Hop / Swing Dance</title>
+        <subtitle/>
+        <track>Entertainment</track>
+        <type>Entertainment</type>
+        <language>en</language>
+        <abstract>A brief introduction to Lindy Hop dancing for beginners.</abstract>
+        <description>We want to teach you a little bit of Lindy Hop. It is a couple dance that originates in the 1920s in New York, today there's a world-wide scene of Lindy Hop dancers. We'll teach you some basic moves.&#13;
+&#13;
+No dance partner and no previous dancing experience is required. Everyone will learn to dance both roles - following and leading.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="30">
+            <code>XHVTCZ</code>
+            <public_name>zitro</public_name>
+            <biography/>
+          </person>
+          <person id="31">
+            <code>3AZWLV</code>
+            <public_name>hanno</public_name>
+            <biography>Hanno Böck is a hacker and freelance journalist.&#13;
+He is a regular writer for the German online IT magazine Golem.de and writes the monthly Bulletproof TLS Newsletter.</biography>
           </person>
         </persons>
         <links/>
@@ -3375,42 +3379,10 @@ I am currently doing my PhD at a research institute that focuses on embedded sec
       </event>
     </room>
     <room name="Plank">
-      <event id="112" guid="9cf58a9c-11e5-519f-97f9-e66fc443faff">
-        <logo>/media/thms/images/8GEREV/15241904_1804354359578279_5081898806412035648_n.jpg</logo>
-        <date>2019-08-24T04:00:00+02:00</date>
-        <start>04:00</start>
-        <duration>02:00</duration>
-        <room>Plank</room>
-        <slug>8GEREV</slug>
-        <url>http://talx.thm.cloud/thms/talk/8GEREV/</url>
-        <title>Delaydi and Saetchmo bassploring space</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>DJ Set</type>
-        <language>de</language>
-        <abstract>Die Bassplorers aka Delaydi und Saetchmo nehmen euch mit auf eine basstherapeutische Weltraumreise</abstract>
-        <description>Die Bassplores sind ein DJ Team aus Berlin, das mit basstherapeutischen Massnahmen das Raum-Zeit-Kontinuum entdeckt. Folge den Machern des Echochamber Podcasts auf eine faszinierende Reise durch unbekannte Galaxien aus Sound und Licht. Delaydi und Saetchmo dringen dabei in Sphären vor, die die Seele jedes tieffrequent begeisterten Wesens zum Beben bringen wird. &#13;
-In diesem Sinne&#13;
-Bass ahoi</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="23">
-            <code>T9CNKN</code>
-            <public_name>Bassplorers</public_name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="111" guid="93312758-6925-5e84-85b5-3b80f92a0faa">
         <logo>/media/thms/images/P9JCSV/Im_Eis_Ronja_Reese.png</logo>
-        <date>2019-08-24T17:00:00+02:00</date>
-        <start>17:00</start>
+        <date>2019-08-24T15:00:00+02:00</date>
+        <start>15:00</start>
         <duration>01:00</duration>
         <room>Plank</room>
         <slug>P9JCSV</slug>
@@ -3439,8 +3411,8 @@ Bass ahoi</description>
       </event>
       <event id="124" guid="54aa059d-1205-5afb-8a11-68ef351b0ab9">
         <logo/>
-        <date>2019-08-24T18:15:00+02:00</date>
-        <start>18:15</start>
+        <date>2019-08-24T16:15:00+02:00</date>
+        <start>16:15</start>
         <duration>01:00</duration>
         <room>Plank</room>
         <slug>FLXJRA</slug>
@@ -3478,8 +3450,8 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
       </event>
       <event id="137" guid="2e215ec0-4745-581d-bc12-b5ce7a4b3ff2">
         <logo>/media/thms/images/FMQ3UN/SUBSCRIBE10-cart-chaosradio_400x400.54d3adaf44f9d8.png</logo>
-        <date>2019-08-24T20:30:00+02:00</date>
-        <start>20:30</start>
+        <date>2019-08-24T18:30:00+02:00</date>
+        <start>18:30</start>
         <duration>02:00</duration>
         <room>Plank</room>
         <slug>FMQ3UN</slug>
@@ -3506,10 +3478,67 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <attachments/>
         <answers/>
       </event>
+      <event id="127" guid="ffa61ddc-7493-5c90-8976-ca25cf368bd0">
+        <logo>/media/thms/images/ULS83P/freak-show-logo-1.0.png</logo>
+        <date>2019-08-24T20:45:00+02:00</date>
+        <start>20:45</start>
+        <duration>02:00</duration>
+        <room>Plank</room>
+        <slug>ULS83P</slug>
+        <url>http://talx.thm.cloud/thms/talk/ULS83P/</url>
+        <title>Freak Show</title>
+        <subtitle/>
+        <track>Entertainment</track>
+        <type>Entertainment (120)</type>
+        <language>de</language>
+        <abstract>Der Freak Show Podcast live on stage</abstract>
+        <description>Ausgabe FS239 von der Freak Show.&#13;
+&#13;
+https://freakshow.fm</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="18">
+            <code>N9XJ77</code>
+            <public_name>Tim Pritlove</public_name>
+            <biography>Diskordischer Evangelist</biography>
+          </person>
+          <person id="49">
+            <code>9ERJVB</code>
+            <public_name>Roddi</public_name>
+            <biography/>
+          </person>
+          <person id="65">
+            <code>KPZRFJ</code>
+            <public_name>Letty</public_name>
+            <biography/>
+          </person>
+          <person id="66">
+            <code>HVUYSW</code>
+            <public_name>Clemens Schrimpe</public_name>
+            <biography/>
+          </person>
+          <person id="67">
+            <code>DYA983</code>
+            <public_name>hukl</public_name>
+            <biography/>
+          </person>
+          <person id="68">
+            <code>ZPLUTL</code>
+            <public_name>Denis Ahrens</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="153" guid="85ae064f-2bbe-54d2-a26c-c79ce8457076">
         <logo/>
-        <date>2019-08-25T01:00:00+02:00</date>
-        <start>01:00</start>
+        <date>2019-08-24T23:00:00+02:00</date>
+        <start>23:00</start>
         <duration>02:00</duration>
         <room>Plank</room>
         <slug>HSZXE7</slug>
@@ -3540,8 +3569,8 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
     <room name="Workshop">
       <event id="155" guid="0be7b345-e2aa-5d94-ba3e-674f3b9b0aea">
         <logo/>
-        <date>2019-08-24T13:00:00+02:00</date>
-        <start>13:00</start>
+        <date>2019-08-24T11:00:00+02:00</date>
+        <start>11:00</start>
         <duration>01:00</duration>
         <room>Workshop</room>
         <slug>ARNTML</slug>
@@ -3574,8 +3603,8 @@ Bei gutem Wetter im Freien; bei schlechtem im Zelt.</description>
       </event>
       <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
         <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
-        <date>2019-08-24T16:00:00+02:00</date>
-        <start>16:00</start>
+        <date>2019-08-24T14:00:00+02:00</date>
+        <start>14:00</start>
         <duration>01:00</duration>
         <room>Workshop</room>
         <slug>VT87DH</slug>
@@ -3597,6 +3626,37 @@ Consultation hours are held in German or English, depending on the need. Oh, and
             <code>ZUGZGF</code>
             <public_name>Corinna Cadus</public_name>
             <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="125" guid="730b9a78-233a-5fc2-bd47-a64a582e8466">
+        <logo>/media/thms/images/8NG8AA/Gameboy_Music_Workshop_2011_a.JPG</logo>
+        <date>2019-08-24T15:15:00+02:00</date>
+        <start>15:15</start>
+        <duration>02:00</duration>
+        <room>Workshop</room>
+        <slug>8NG8AA</slug>
+        <url>http://talx.thm.cloud/thms/talk/8NG8AA/</url>
+        <title>Gameboy Musik Workshop</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Ein Einsteiger-Workshop für alle die schon immer mal Musik mit Gameboys machen wollten.</abstract>
+        <description>Chiptune - oder Musik erzeugt von Soundchips alter Computer, Konsolen und Handhelds benötigt heute keine detaillierten Kenntnisse mehr von Hardware und Assemblersprache. Der Liveact irq7 zeigt wie man einem Gameboy Sounds entlockt und erste Loops damit komponiert. Dafür sind keine Vorkenntnisse nötig - alles was ihr braucht gibt's beim Workshop. Gerne darf man natürlich Kopfhörer und den eigenen Gameboy mitbringen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="32">
+            <code>U8GPQ7</code>
+            <public_name>Hannes Fertala</public_name>
+            <biography>Hannes Fertala ist seit mehreren Jahren in der Chiptune-Szene als Gameboy-Liveact 'irq7' aktiv. Der erste Kontakt zu dieser Art von Musik kam 2003 durch ein Konzert des Gameboymusicclub's in Graz zustande. Daraufhin folgt der Kauf den ersten Gameboys und dann schließlich das erste Konzert im Jahr 2006. Davor ein überzeugter Fan des Commodore 64 – Sounds und sammeln erster Erfahrungen mit Tracker-Software am Amiga.&#13;
+Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys selbst zu modifizieren und erweitern. Alle Aktivitäten werden seither auf seinem Blog (http://irq7.blogspot.com) veröffentlicht. Des Weiteren ist er seit 2010 Mitorganisator des jährlichen Chiptune-Festivals CHIP HITS THE FAN (http://chiphitsthefan.de) in Nürnberg.</biography>
           </person>
         </persons>
         <links/>
@@ -3880,21 +3940,27 @@ The laws of physics inherently contain dynamics capable of creating aestheticall
       </event>
     </room>
     <room name="Plank">
-      <event id="154" guid="58d3f54b-e447-5a2d-a466-60ae6e892016">
+      <event id="166" guid="85f449be-d06e-5ab8-bb06-a45f9d1347fa">
         <logo/>
-        <date>2019-08-25T05:00:00+02:00</date>
-        <start>05:00</start>
+        <date>2019-08-25T03:00:00+02:00</date>
+        <start>03:00</start>
         <duration>02:00</duration>
         <room>Plank</room>
-        <slug>RZSKBC</slug>
-        <url>http://talx.thm.cloud/thms/talk/RZSKBC/</url>
-        <title>bam</title>
+        <slug>NKSSZ8</slug>
+        <url>http://talx.thm.cloud/thms/talk/NKSSZ8/</url>
+        <title>We &lt;3 Techno</title>
         <subtitle/>
         <track>Music</track>
         <type>DJ Set</type>
         <language>en</language>
         <abstract>bam</abstract>
-        <description>bam</description>
+        <description>&lt;&lt;&lt;EOF&#13;
+Let's celebrate electronic music with some #bambambeats&#13;
+Come together and enjoy some fine Techno &amp;&amp; Tech House tunes&#13;
+&#13;
+Yours truly,&#13;
+https://www.mixcloud.com/b4m/&#13;
+EOF</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -3912,8 +3978,8 @@ The laws of physics inherently contain dynamics capable of creating aestheticall
       </event>
       <event id="159" guid="e9cc930e-e589-55b4-a861-44a4fd189512">
         <logo/>
-        <date>2019-08-25T07:00:00+02:00</date>
-        <start>07:00</start>
+        <date>2019-08-25T05:00:00+02:00</date>
+        <start>05:00</start>
         <duration>02:00</duration>
         <room>Plank</room>
         <slug>CNDUXW</slug>
@@ -3942,8 +4008,8 @@ The laws of physics inherently contain dynamics capable of creating aestheticall
       </event>
       <event id="119" guid="cf5d0389-ea8b-55d9-966c-2669e88de93a">
         <logo/>
-        <date>2019-08-25T17:00:00+02:00</date>
-        <start>17:00</start>
+        <date>2019-08-25T15:00:00+02:00</date>
+        <start>15:00</start>
         <duration>00:30</duration>
         <room>Plank</room>
         <slug>TX3WKW</slug>
@@ -3970,10 +4036,40 @@ The laws of physics inherently contain dynamics capable of creating aestheticall
         <attachments/>
         <answers/>
       </event>
+      <event id="145" guid="d6b8d105-2540-5f33-955a-f73ae31831ca">
+        <logo/>
+        <date>2019-08-25T15:45:00+02:00</date>
+        <start>15:45</start>
+        <duration>00:30</duration>
+        <room>Plank</room>
+        <slug>QHMZQM</slug>
+        <url>http://talx.thm.cloud/thms/talk/QHMZQM/</url>
+        <title>#fusionbleibt</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Short Talk</type>
+        <language>de</language>
+        <abstract>#fusionbleibt</abstract>
+        <description>tba</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="50">
+            <code>YLWWL9</code>
+            <public_name>Stefan</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="151" guid="4b53e5aa-54dc-5b1c-8720-6dbea3e85070">
         <logo/>
-        <date>2019-08-25T18:30:00+02:00</date>
-        <start>18:30</start>
+        <date>2019-08-25T16:30:00+02:00</date>
+        <start>16:30</start>
         <duration>01:00</duration>
         <room>Plank</room>
         <slug>7QKPYA</slug>

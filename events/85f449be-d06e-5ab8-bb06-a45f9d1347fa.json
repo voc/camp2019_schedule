@@ -1,0 +1,32 @@
+{
+  "id": 166,
+  "guid": "85f449be-d06e-5ab8-bb06-a45f9d1347fa",
+  "logo": "",
+  "date": "2019-08-25T03:00:00+02:00",
+  "start": "03:00",
+  "duration": "02:00",
+  "room": "Plank",
+  "slug": "NKSSZ8",
+  "url": "http://talx.thm.cloud/thms/talk/NKSSZ8/",
+  "title": "We <3 Techno",
+  "subtitle": "",
+  "track": "Music",
+  "type": "DJ Set",
+  "language": "en",
+  "abstract": "bam",
+  "description": "<<<EOF\r\nLet's celebrate electronic music with some #bambambeats\r\nCome together and enjoy some fine Techno && Tech House tunes\r\n\r\nYours truly,\r\nhttps://www.mixcloud.com/b4m/\r\nEOF",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8,
+      "code": "TMXW3G",
+      "public_name": "THM Lounge",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

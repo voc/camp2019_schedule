@@ -1,0 +1,32 @@
+{
+  "id": 145,
+  "guid": "d6b8d105-2540-5f33-955a-f73ae31831ca",
+  "logo": "",
+  "date": "2019-08-25T15:45:00+02:00",
+  "start": "15:45",
+  "duration": "00:30",
+  "room": "Plank",
+  "slug": "QHMZQM",
+  "url": "http://talx.thm.cloud/thms/talk/QHMZQM/",
+  "title": "#fusionbleibt",
+  "subtitle": "",
+  "track": "Talk",
+  "type": "Short Talk",
+  "language": "de",
+  "abstract": "#fusionbleibt",
+  "description": "tba",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 50,
+      "code": "YLWWL9",
+      "public_name": "Stefan",
+      "biography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

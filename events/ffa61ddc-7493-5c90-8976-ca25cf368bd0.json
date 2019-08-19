@@ -1,0 +1,67 @@
+{
+  "id": 127,
+  "guid": "ffa61ddc-7493-5c90-8976-ca25cf368bd0",
+  "logo": "/media/thms/images/ULS83P/freak-show-logo-1.0.png",
+  "date": "2019-08-24T20:45:00+02:00",
+  "start": "20:45",
+  "duration": "02:00",
+  "room": "Plank",
+  "slug": "ULS83P",
+  "url": "http://talx.thm.cloud/thms/talk/ULS83P/",
+  "title": "Freak Show",
+  "subtitle": "",
+  "track": "Entertainment",
+  "type": "Entertainment (120)",
+  "language": "de",
+  "abstract": "Der Freak Show Podcast live on stage",
+  "description": "Ausgabe FS239 von der Freak Show.\r\n\r\nhttps://freakshow.fm",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 18,
+      "code": "N9XJ77",
+      "public_name": "Tim Pritlove",
+      "biography": "Diskordischer Evangelist",
+      "answers": []
+    },
+    {
+      "id": 49,
+      "code": "9ERJVB",
+      "public_name": "Roddi",
+      "biography": null,
+      "answers": []
+    },
+    {
+      "id": 65,
+      "code": "KPZRFJ",
+      "public_name": "Letty",
+      "biography": null,
+      "answers": []
+    },
+    {
+      "id": 66,
+      "code": "HVUYSW",
+      "public_name": "Clemens Schrimpe",
+      "biography": null,
+      "answers": []
+    },
+    {
+      "id": 67,
+      "code": "DYA983",
+      "public_name": "hukl",
+      "biography": null,
+      "answers": []
+    },
+    {
+      "id": 68,
+      "code": "ZPLUTL",
+      "public_name": "Denis Ahrens",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

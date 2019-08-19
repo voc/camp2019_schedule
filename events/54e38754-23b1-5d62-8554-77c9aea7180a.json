@@ -1,0 +1,39 @@
+{
+  "id": 121,
+  "guid": "54e38754-23b1-5d62-8554-77c9aea7180a",
+  "logo": "",
+  "date": "2019-08-23T18:45:00+02:00",
+  "start": "18:45",
+  "duration": "01:00",
+  "room": "Workshop",
+  "slug": "PGL9WK",
+  "url": "http://talx.thm.cloud/thms/talk/PGL9WK/",
+  "title": "Introduction to Lindy Hop / Swing Dance",
+  "subtitle": "",
+  "track": "Entertainment",
+  "type": "Entertainment",
+  "language": "en",
+  "abstract": "A brief introduction to Lindy Hop dancing for beginners.",
+  "description": "We want to teach you a little bit of Lindy Hop. It is a couple dance that originates in the 1920s in New York, today there's a world-wide scene of Lindy Hop dancers. We'll teach you some basic moves.\r\n\r\nNo dance partner and no previous dancing experience is required. Everyone will learn to dance both roles - following and leading.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 30,
+      "code": "XHVTCZ",
+      "public_name": "zitro",
+      "biography": "",
+      "answers": []
+    },
+    {
+      "id": 31,
+      "code": "3AZWLV",
+      "public_name": "hanno",
+      "biography": "Hanno B\u00f6ck is a hacker and freelance journalist.\r\nHe is a regular writer for the German online IT magazine Golem.de and writes the monthly Bulletproof TLS Newsletter.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}
