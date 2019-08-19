@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-19 16:00",
+    "version": "2019-08-19 16:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -4353,6 +4353,80 @@
                 ]
               }
             ],
+            "Village:C-base": [
+              {
+                "id": 1300,
+                "guid": "6dc5eae9-babb-44e7-b2e5-c4308c8f257d",
+                "logo": null,
+                "date": "2019-08-24T10:00:00+02:00",
+                "start": "10:00",
+                "duration": "4:00",
+                "room": "Village:C-base",
+                "slug": "camp2019-1300-session_coderdojo",
+                "title": "CoderDojo",
+                "subtitle": "CoderDojo",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "CoderDojo - between 12 and 18 years old yourh people",
+                "persons": [],
+                "links": [
+                  "https://zen.coderdojo.com/dojos/de/berlin/berlin-mitte-c-base",
+                  "//events.ccc.de/camp/2019/wiki/Session:CoderDojo"
+                ]
+              },
+              {
+                "id": 1162,
+                "guid": "10b9322e-20b2-4ff3-bd8a-8c132aacc169",
+                "logo": null,
+                "date": "2019-08-24T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "0:30",
+                "room": "Village:C-base",
+                "slug": "camp2019-1162-session_hfos_the_hackerfleet_operating_system",
+                "title": "HFOS - The Hackerfleet Operating System",
+                "subtitle": "HFOS@c-base",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "HFOS is the opensource vessel computer system",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Riot",
+                    "public_name": "Riot"
+                  }
+                ],
+                "links": [
+                  "http://hackerfleet.eu",
+                  "//events.ccc.de/camp/2019/wiki/Session:HFOS_-_The_Hackerfleet_Operating_System"
+                ]
+              },
+              {
+                "id": 1167,
+                "guid": "84c6fdd4-0f81-4635-bc62-4973d8e50b55",
+                "logo": null,
+                "date": "2019-08-24T17:05:00+02:00",
+                "start": "17:05",
+                "duration": "1:30",
+                "room": "Village:C-base",
+                "slug": "camp2019-1167-session_pentagame",
+                "title": "Pentagame",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "New abstract board game explained and played",
+                "persons": [],
+                "links": [
+                  "http://pentagame.org",
+                  "//events.ccc.de/camp/2019/wiki/Session:Pentagame"
+                ]
+              }
+            ],
             "Village:Digitalcourage": [
               {
                 "id": 1266,
@@ -4517,58 +4591,6 @@
                 ],
                 "links": [
                   "//events.ccc.de/camp/2019/wiki/Session:How_to_get_ordinary_people_using_Jekyll,_LaTeX,_Gitlab_CI_and_other_magic"
-                ]
-              }
-            ],
-            "Village:C-base": [
-              {
-                "id": 1162,
-                "guid": "10b9322e-20b2-4ff3-bd8a-8c132aacc169",
-                "logo": null,
-                "date": "2019-08-24T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "0:30",
-                "room": "Village:C-base",
-                "slug": "camp2019-1162-session_hfos_the_hackerfleet_operating_system",
-                "title": "HFOS - The Hackerfleet Operating System",
-                "subtitle": "HFOS@c-base",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "HFOS is the opensource vessel computer system",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Riot",
-                    "public_name": "Riot"
-                  }
-                ],
-                "links": [
-                  "http://hackerfleet.eu",
-                  "//events.ccc.de/camp/2019/wiki/Session:HFOS_-_The_Hackerfleet_Operating_System"
-                ]
-              },
-              {
-                "id": 1167,
-                "guid": "84c6fdd4-0f81-4635-bc62-4973d8e50b55",
-                "logo": null,
-                "date": "2019-08-24T17:05:00+02:00",
-                "start": "17:05",
-                "duration": "1:30",
-                "room": "Village:C-base",
-                "slug": "camp2019-1167-session_pentagame",
-                "title": "Pentagame",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "game",
-                "language": "de",
-                "abstract": "",
-                "description": "New abstract board game explained and played",
-                "persons": [],
-                "links": [
-                  "http://pentagame.org",
-                  "//events.ccc.de/camp/2019/wiki/Session:Pentagame"
                 ]
               }
             ],
