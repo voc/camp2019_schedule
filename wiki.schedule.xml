@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-19 10:10</version>
+  <version>2019-08-19 10:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -614,6 +614,27 @@
           <link>//events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder</link>
         </links>
       </event>
+      <event id="1294" guid="592e8c5b-b23a-4768-8ffc-9d07329ce16f">
+        <logo/>
+        <date>2019-08-21T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>1:40</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1294-session_surface_mount_electronics_assembly_for_terrified_beginners_electronic_kitten_experimental_workshop</slug>
+        <title>Surface Mount Electronics Assembly for Terrified Beginners - electronic kitten EXPERIMENTAL WORKSHOP</title>
+        <subtitle>EXPERIMENTAL Day 1 - 20:00</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Experimental new workshop - Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building an electronic touch-activated purring kitten. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 6 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Kliment">Kliment</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners_-_electronic_kitten_EXPERIMENTAL_WORKSHOP</link>
+        </links>
+      </event>
     </room>
     <room name="Village:Harbor">
       <event id="1086" guid="32dfd87c-4f9e-4535-b056-898d41e8f2bc">
@@ -851,6 +872,27 @@
         <links>
           <link>https://tiny.cc/A4TN</link>
           <link>//events.ccc.de/camp/2019/wiki/Session:Arduino_For_Total_Newbies</link>
+        </links>
+      </event>
+      <event id="1292" guid="979a6e80-7544-470c-b7c3-d2bc7f4bdb39">
+        <logo/>
+        <date>2019-08-22T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>1:00</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1292-session_bristlebots_for_kids_</slug>
+        <title>Bristlebots for kids!</title>
+        <subtitle>Day 2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>DE/EN/FI Build a little electronic insect robot from a toothbrush and a motor</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Kliment">Kliment</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Bristlebots_for_kids!</link>
         </links>
       </event>
       <event id="1102" guid="069ad79f-dd7f-4e2b-92ae-b9eaf484e61f">
@@ -1966,6 +2008,27 @@
         <links>
           <link>https://tiny.cc/A4TN</link>
           <link>//events.ccc.de/camp/2019/wiki/Session:Arduino_For_Total_Newbies</link>
+        </links>
+      </event>
+      <event id="1293" guid="79ea6aeb-45d4-5a7f-8804-24737900e3e4">
+        <logo/>
+        <date>2019-08-23T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>1:00</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1293-session_bristlebots_for_kids_</slug>
+        <title>Bristlebots for kids!</title>
+        <subtitle>Day 3</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>DE/EN/FI Build a little electronic insect robot from a toothbrush and a motor</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Kliment">Kliment</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Bristlebots_for_kids!</link>
         </links>
       </event>
       <event id="1256" guid="b73c59a0-98af-4012-8e2b-4e1b886e050d">
@@ -3140,6 +3203,27 @@
           <link>//events.ccc.de/camp/2019/wiki/Session:ArduTouch_music_synthesizer</link>
         </links>
       </event>
+      <event id="1291" guid="c71c920f-bd27-4879-9095-78e26d15ed7e">
+        <logo/>
+        <date>2019-08-24T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>1:00</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1291-session_bristlebots_for_kids_</slug>
+        <title>Bristlebots for kids!</title>
+        <subtitle>Day 4</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>DE/EN/FI Build a little electronic insect robot from a toothbrush and a motor</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Kliment">Kliment</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Bristlebots_for_kids!</link>
+        </links>
+      </event>
       <event id="1164" guid="8968876e-7990-4b18-a1f9-ebf9050bd11f">
         <logo/>
         <date>2019-08-24T11:00:00+02:00</date>
@@ -3159,6 +3243,27 @@
         </persons>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder</link>
+        </links>
+      </event>
+      <event id="1295" guid="07c2e0d3-6f4b-462b-9725-5846c7f0dc16">
+        <logo/>
+        <date>2019-08-24T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>1:40</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1295-session_surface_mount_electronics_assembly_for_terrified_beginners_electronic_kitten_experimental_workshop</slug>
+        <title>Surface Mount Electronics Assembly for Terrified Beginners - electronic kitten EXPERIMENTAL WORKSHOP</title>
+        <subtitle>EXPERIMENTAL Day 4 - 17:30</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Experimental new workshop - Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building an electronic touch-activated purring kitten. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 6 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Kliment">Kliment</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners_-_electronic_kitten_EXPERIMENTAL_WORKSHOP</link>
         </links>
       </event>
     </room>
