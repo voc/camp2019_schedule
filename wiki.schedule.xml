@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-19 22:10</version>
+  <version>2019-08-19 22:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -758,27 +758,6 @@
         </links>
       </event>
     </room>
-    <room name="">
-      <event id="1101" guid="8ee75b4c-727a-44d8-ae76-3da535871523">
-        <logo/>
-        <date>2019-08-21T15:00:00+02:00</date>
-        <start>15:00</start>
-        <duration>1:30</duration>
-        <room/>
-        <slug>camp2019-1101-session_kubernetes_security_overview</slug>
-        <title>Kubernetes Security Overview</title>
-        <subtitle>Kubernetes Security Basics</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Kubernetes makes it easy to deploy microservices. However, the price is a huge amount of complexity. If you use Kubernetes, it is high time to learn the basics of container and Kubernetes security.  Handson workshop on selected topics of Kubernetes security.</description>
-        <persons/>
-        <links>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Kubernetes_Security_Overview</link>
-        </links>
-      </event>
-    </room>
     <room name="Village:402 Payment Required">
       <event id="1116" guid="878fe989-4298-4518-b7dc-9e1d41edf78b">
         <logo/>
@@ -1352,138 +1331,6 @@
         </persons>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:Treffen_und_Diskussion_zur_Netzpolitik_in_der_Schweiz</link>
-        </links>
-      </event>
-    </room>
-    <room name="">
-      <event id="1039" guid="71d26132-13a9-41bf-aaa7-6792b363c95e">
-        <logo/>
-        <date>2019-08-22T11:00:00+02:00</date>
-        <start>11:00</start>
-        <duration>0:45</duration>
-        <room/>
-        <slug>camp2019-1039-session_body_workout_session</slug>
-        <title>Body Workout Session</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>outside</type>
-        <language>de</language>
-        <abstract/>
-        <description>we will do some physical activity together</description>
-        <persons/>
-        <links>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Body_Workout_Session</link>
-        </links>
-      </event>
-      <event id="1285" guid="ada6ca92-709b-4574-b783-ea647d6ee9f3">
-        <logo/>
-        <date>2019-08-22T10:30:00+02:00</date>
-        <start>10:30</start>
-        <duration>1:30</duration>
-        <room/>
-        <slug>camp2019-1285-session_gigatron_ttl_computer</slug>
-        <title>Gigatron TTL Computer</title>
-        <subtitle>Introduction, Hands-On</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Gigatron TTL computer introduction and workshop</description>
-        <persons>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Kerouanton">Kerouanton</person>
-        </persons>
-        <links>
-          <link>https://gigatron.io</link>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Gigatron_TTL_Computer</link>
-        </links>
-      </event>
-      <event id="1226" guid="eb23d0dc-2d2f-49c8-98a2-b96cf3d78782">
-        <logo/>
-        <date>2019-08-22T18:00:00+02:00</date>
-        <start>18:00</start>
-        <duration>1:00</duration>
-        <room/>
-        <slug>camp2019-1226-session_octoprint_user_meetup</slug>
-        <title>OctoPrint User Meetup</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>Meet and greet of OctoPrint users at the camp. foosel will also be there and bring stickers!</description>
-        <persons>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Foosel">Foosel</person>
-        </persons>
-        <links>
-          <link>https://community.octoprint.org/t/octoprint-meetup-at-chaos-communication-camp-2019/11078</link>
-          <link>//events.ccc.de/camp/2019/wiki/Session:OctoPrint_User_Meetup</link>
-        </links>
-      </event>
-      <event id="1230" guid="f28bdd0a-d215-4af6-8c78-9a0ed4e0d758">
-        <logo/>
-        <date>2019-08-22T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>2:00</duration>
-        <room/>
-        <slug>camp2019-1230-session_regio_mediation</slug>
-        <title>Regio Mediation</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>Streitigkeiten, die sich schon tiefer in einen Verein eingetreten haben oder sogar mit Machtgefällen behaftet sind, sind nicht einfach aus der Welt zu schaffen und können eine gute Vereinsarbeit über lange Zeit lähmen.  Wir glauben, um diese Probleme zu lösen, könnenn uns die Techniken der Mediation weiterhelfen.  Wir vermuten außerdem, dass schon viel Erfahrung im CCC und seinen Mitgliedern schlummert und wollen euch einladen mit uns Idee noch weiter auszuarbeiten.</description>
-        <persons>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Susi">Susi</person>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Dkl">Dkl</person>
-        </persons>
-        <links>
-          <link>https://doku.ccc.de/Regiowochenende_2019</link>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Regio_Mediation</link>
-        </links>
-      </event>
-      <event id="1231" guid="ca75968c-338d-4a45-a41b-594c83b34d70">
-        <logo/>
-        <date>2019-08-22T13:30:00+02:00</date>
-        <start>13:30</start>
-        <duration>1:00</duration>
-        <room/>
-        <slug>camp2019-1231-session_reproducible_builds_meetup</slug>
-        <title>Reproducible Builds Meetup</title>
-        <subtitle>Reproducible build introduction and discussion</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>Meeting and discussion about the Reproducible Builds project.</description>
-        <persons>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Foxboron">Foxboron</person>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Jelly">Jelly</person>
-        </persons>
-        <links>
-          <link>https://reproducible-builds.org/</link>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Reproducible_Builds_Meetup</link>
-        </links>
-      </event>
-      <event id="1247" guid="d018a177-c84e-4106-9bfc-afdafa8f3069">
-        <logo/>
-        <date>2019-08-22T11:00:00+02:00</date>
-        <start>11:00</start>
-        <duration>2:00</duration>
-        <room/>
-        <slug>camp2019-1247-session_visit_zehdenick_farmer_s_market_by_bike</slug>
-        <title>Visit Zehdenick Farmer's Market by Bike</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>outside</type>
-        <language>de</language>
-        <abstract/>
-        <description>Support your local food supplier, but don't go alone.</description>
-        <persons>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Coco">Coco</person>
-        </persons>
-        <links>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Visit_Zehdenick_Farmer%27s_Market_by_Bike</link>
         </links>
       </event>
     </room>
@@ -2798,48 +2645,6 @@
         <persons/>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:Contributing_to_nixpkgs_for_Newbies</link>
-        </links>
-      </event>
-    </room>
-    <room name="">
-      <event id="1190" guid="b4cc194f-6a8f-4dce-a7ee-b79b68cf78dc">
-        <logo/>
-        <date>2019-08-23T18:30:00+02:00</date>
-        <start>18:30</start>
-        <duration>6:00</duration>
-        <room/>
-        <slug>camp2019-1190-session_cryptoparty</slug>
-        <title>CryptoParty</title>
-        <subtitle>CryptoParty</subtitle>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
-        </persons>
-        <links>
-          <link>//events.ccc.de/camp/2019/wiki/Session:CryptoParty</link>
-        </links>
-      </event>
-      <event id="1056" guid="995cc019-bc3d-402c-8fc8-a0d5aaa8ed80">
-        <logo/>
-        <date>2019-08-23T21:00:00+02:00</date>
-        <start>21:00</start>
-        <duration>1:00</duration>
-        <room/>
-        <slug>camp2019-1056-session_debate_night_bitcoin_for_socialists_and_environmentalists</slug>
-        <title>Debate Night - Bitcoin for Socialists and Environmentalists</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type/>
-        <language>en</language>
-        <abstract/>
-        <description>Debate Night - Bitcoin for Socialists and Environmentalists</description>
-        <persons/>
-        <links>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Debate_Night_-_Bitcoin_for_Socialists_and_Environmentalists</link>
         </links>
       </event>
     </room>
