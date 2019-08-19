@@ -1,0 +1,28 @@
+{
+  "id": 1285,
+  "guid": "ada6ca92-709b-4574-b783-ea647d6ee9f3",
+  "logo": null,
+  "date": "2019-08-22T10:30:00+02:00",
+  "start": "10:30",
+  "duration": "1:30",
+  "room": "",
+  "slug": "camp2019-1285-session_gigatron_ttl_computer",
+  "title": "Gigatron TTL Computer",
+  "subtitle": "Introduction, Hands-On",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "Gigatron TTL computer introduction and workshop",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Kerouanton",
+      "public_name": "Kerouanton"
+    }
+  ],
+  "links": [
+    "https://gigatron.io",
+    "//events.ccc.de/camp/2019/wiki/Session:Gigatron_TTL_Computer"
+  ]
+}

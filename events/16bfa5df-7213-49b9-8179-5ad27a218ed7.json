@@ -1,0 +1,28 @@
+{
+  "id": 1307,
+  "guid": "16bfa5df-7213-49b9-8179-5ad27a218ed7",
+  "logo": null,
+  "date": "2019-08-24T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "1:30",
+  "room": "Village:Digitalcourage",
+  "slug": "camp2019-1307-session_digital_self_defense_workshop",
+  "title": "Digital Self-Defense Workshop",
+  "subtitle": "E-Mail Encryption",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "Learn about the basics of practical cryptography and privacy enhancing measures for your digital devices in the spirit of a CryptoParty.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:CryptGoat",
+      "public_name": "CryptGoat"
+    }
+  ],
+  "links": [
+    "https://digitalcourage.de/digitale-selbstverteidigung",
+    "//events.ccc.de/camp/2019/wiki/Session:Digital_Self-Defense_Workshop"
+  ]
+}

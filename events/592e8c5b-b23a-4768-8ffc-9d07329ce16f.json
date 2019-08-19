@@ -1,0 +1,27 @@
+{
+  "id": 1294,
+  "guid": "592e8c5b-b23a-4768-8ffc-9d07329ce16f",
+  "logo": null,
+  "date": "2019-08-21T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "1:40",
+  "room": "Village:HardwareHackingArea",
+  "slug": "camp2019-1294-session_surface_mount_electronics_assembly_for_terrified_beginners_electronic_kitten_experimental_workshop",
+  "title": "Surface Mount Electronics Assembly for Terrified Beginners - electronic kitten EXPERIMENTAL WORKSHOP",
+  "subtitle": "EXPERIMENTAL Day 1 - 20:00",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "Experimental new workshop - Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building an electronic touch-activated purring kitten. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 6 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Kliment",
+      "public_name": "Kliment"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners_-_electronic_kitten_EXPERIMENTAL_WORKSHOP"
+  ]
+}

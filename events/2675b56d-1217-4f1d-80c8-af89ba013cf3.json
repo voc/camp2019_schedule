@@ -1,0 +1,28 @@
+{
+  "id": 1282,
+  "guid": "2675b56d-1217-4f1d-80c8-af89ba013cf3",
+  "logo": null,
+  "date": "2019-08-24T12:00:00+02:00",
+  "start": "12:00",
+  "duration": "1:00",
+  "room": "Village:Ecohackerfarm",
+  "slug": "camp2019-1282-session_permaculture_for_hackers",
+  "title": "Permaculture for hackers",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "discussion",
+  "language": "en",
+  "abstract": "",
+  "description": "a presentation and discussion about how hackerculture can be mixed with permaculture and the benefits of this union",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Aimeejulia",
+      "public_name": "Aimeejulia"
+    }
+  ],
+  "links": [
+    "https://ecohackerfarm.org/",
+    "//events.ccc.de/camp/2019/wiki/Session:Permaculture_for_hackers"
+  ]
+}

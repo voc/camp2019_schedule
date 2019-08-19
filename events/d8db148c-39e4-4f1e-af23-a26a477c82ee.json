@@ -1,0 +1,36 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10413.html",
+  "id": 10413,
+  "guid": "d8db148c-39e4-4f1e-af23-a26a477c82ee",
+  "logo": "/system/events/logos/000/010/413/large/talk-logo.jpg?1566059026",
+  "date": "2019-08-21T22:00:00+02:00",
+  "start": "22:00",
+  "duration": "01:30",
+  "room": "Curie",
+  "slug": "Camp2019-10413-20_jahre_camp",
+  "title": "20 Jahre Camp",
+  "subtitle": "die Evolution des Chaos Communication Camps",
+  "track": "CCC",
+  "type": "lecture",
+  "language": "de",
+  "abstract": "Aus der Gruppe, die 1999 das erste Camp organisiert hat, reden Tim, Andre und Markus \u00fcber die Verschmelzung von Open-Air- und Hacker-kultur.",
+  "description": "Tim hat gemeinsam mit den Pyonen \u2013 Andre und Markus \u2013 das erste Camp 1999 ins Rollen gebracht. Gemeinsam blicken sie zur\u00fcck auf die Entstehungsgeschichte des Camps und die besonderen Herausforderungen bei der Planung und Logistik des Events.\r\n\r\nDas erste Camp auf einer Pferdewiese in Altlandsberg war f\u00fcr den CCC ein Kraftakt. Aus der Vorlage der niederl\u00e4ndischen Camps 1993 (Hacking at the End of the Universe, HEU) und 1997 (Hacking In Progress, HIP) wurde versucht, eine Veranstaltung zu kreieren, die sowohl den Geist des Clubs als auch den schon damals starken Einfluss der damaligen Techno-Open-Air-Szene kombiniert.\r\n\r\nBest\u00e4rkt durch den erfolgreichen Umzug des Chaos Communication Congress Ende 1998 nach Berlin nahm der Club die Herausforderungen an und entwickelte mit den Pyonen eine fruchtbare Kooperation, bei der jede Gruppe Ihre St\u00e4rken ausspielen konnte. Der Club k\u00fcmmerte sich um Netz und Inhalte, die Pyonen stellten sicher, dass die Produktion der Veranstaltung in sicheren Bahnen verlief.\r\n\r\nAm Ende gelang es dem ersten Camp, die Grundlage zu legen f\u00fcr die Veranstaltung, die es heute ist: ein Ort der Freiheit und Kreativit\u00e4t, der dem Spa\u00df am Ger\u00e4t, der \u00c4sthetik und der Kommunikation den notwendigen Raum bietet.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 280,
+      "public_name": "Markus Ossevorth"
+    },
+    {
+      "id": 9152,
+      "public_name": "Marc-Andr\u00e9 Janizewski"
+    },
+    {
+      "id": 1817,
+      "public_name": "Tim Pritlove"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

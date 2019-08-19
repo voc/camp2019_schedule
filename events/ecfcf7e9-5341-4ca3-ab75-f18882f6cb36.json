@@ -1,0 +1,27 @@
+{
+  "id": 1254,
+  "guid": "ecfcf7e9-5341-4ca3-ab75-f18882f6cb36",
+  "logo": null,
+  "date": "2019-08-22T19:30:00+02:00",
+  "start": "19:30",
+  "duration": "0:10",
+  "room": "Village:Free Software Foundation Europe",
+  "slug": "camp2019-1254-session_free_software_song_sing_along",
+  "title": "Free Software Song sing-along",
+  "subtitle": "ad-hoc choir",
+  "track": "self organized sessions",
+  "type": "other",
+  "language": "en",
+  "abstract": "",
+  "description": "Everyday at 19:30 in the Cluster about:freedom we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Eal",
+      "public_name": "Eal"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along"
+  ]
+}

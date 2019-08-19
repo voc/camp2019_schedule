@@ -1,0 +1,22 @@
+{
+  "id": 1262,
+  "guid": "afa80109-3761-4b3f-b2e8-57087d164b0d",
+  "logo": null,
+  "date": "2019-08-22T12:45:00+02:00",
+  "start": "12:45",
+  "duration": "1:15",
+  "room": "Village:NixOS",
+  "slug": "camp2019-1262-session_nixos_install_party",
+  "title": "NixOS Install Party",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "de",
+  "abstract": "",
+  "description": "Try NixOS on your laptop or in a VM",
+  "persons": [],
+  "links": [
+    "https://nixos.org",
+    "//events.ccc.de/camp/2019/wiki/Session:NixOS_Install_Party"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 1312,
+  "guid": "614078e0-9cf6-42e3-a957-17d77fe10582",
+  "logo": null,
+  "date": "2019-08-24T11:00:00+02:00",
+  "start": "11:00",
+  "duration": "2:00",
+  "room": "Village:Haecksen",
+  "slug": "camp2019-1312-session_socialtech",
+  "title": "SocialTech",
+  "subtitle": "SocialTech #2",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "Workshop: Accessibility and Inclusion - Hacking everyday communication practices to change the world.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Erdbeerblau",
+      "public_name": "Erdbeerblau"
+    },
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Hirnsalat",
+      "public_name": "Hirnsalat"
+    },
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Vishnee",
+      "public_name": "Vishnee"
+    }
+  ],
+  "links": [
+    "http://angela.is/SocialTech/",
+    "//events.ccc.de/camp/2019/wiki/Session:SocialTech"
+  ]
+}

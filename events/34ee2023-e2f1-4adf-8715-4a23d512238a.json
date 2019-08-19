@@ -1,0 +1,27 @@
+{
+  "id": 1308,
+  "guid": "34ee2023-e2f1-4adf-8715-4a23d512238a",
+  "logo": null,
+  "date": "2019-08-23T17:30:00+02:00",
+  "start": "17:30",
+  "duration": "1:40",
+  "room": "Village:HardwareHackingArea",
+  "slug": "camp2019-1308-session_surface_mount_electronics_assembly_for_terrified_beginners",
+  "title": "Surface Mount Electronics Assembly for Terrified Beginners",
+  "subtitle": "Day 3 - 17:30",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 17 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Kliment",
+      "public_name": "Kliment"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners"
+  ]
+}

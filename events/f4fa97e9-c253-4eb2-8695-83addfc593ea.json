@@ -1,0 +1,28 @@
+{
+  "id": 1284,
+  "guid": "f4fa97e9-c253-4eb2-8695-83addfc593ea",
+  "logo": null,
+  "date": "2019-08-21T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "1:30",
+  "room": "Johnson (Workshop 1)",
+  "slug": "camp2019-1284-session_creating_z_wave_controllers_and_devices",
+  "title": "Creating Z-Wave controllers and devices",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "Hacking around Z-Wave smart home protocol",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:PoltoS",
+      "public_name": "PoltoS"
+    }
+  ],
+  "links": [
+    "http://z-uno.z-wave.me",
+    "//events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices"
+  ]
+}

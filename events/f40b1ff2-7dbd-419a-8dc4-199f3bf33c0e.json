@@ -1,0 +1,27 @@
+{
+  "id": 1304,
+  "guid": "f40b1ff2-7dbd-419a-8dc4-199f3bf33c0e",
+  "logo": null,
+  "date": "2019-08-21T17:30:00+02:00",
+  "start": "17:30",
+  "duration": "1:00",
+  "room": "Village:Kidspace",
+  "slug": "camp2019-1304-session_vorlesestunde_reading_hour",
+  "title": "Vorlesestunde / reading hour",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "other",
+  "language": "de",
+  "abstract": "",
+  "description": "Kinderb\u00fccher vorlesen",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Ckeen",
+      "public_name": "Ckeen"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour"
+  ]
+}

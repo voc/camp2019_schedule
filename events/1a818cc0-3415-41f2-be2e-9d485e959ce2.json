@@ -1,0 +1,32 @@
+{
+  "id": 1286,
+  "guid": "1a818cc0-3415-41f2-be2e-9d485e959ce2",
+  "logo": null,
+  "date": "2019-08-23T12:30:00+02:00",
+  "start": "12:30",
+  "duration": "1:25",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1286-session_global_climate_strike_exchange_of_ideas_and_experiences_about_organizing_strikes_and_demonstrations",
+  "title": "Global Climate Strike: exchange of ideas and experiences about organizing strikes and demonstrations",
+  "subtitle": "about:stage",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "The climate crisis is an emergency but we\u2019re not acting like it. Especially in political organizations like the Chaos Community this topic has to be more present, more visible. Our hotter planet is already hurting millions of people. We are not only in one of the best positions to provide technology for change, but we also should show that we belong to the people behind the movements like Fridays For Future or Global Climate Strike.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "public_name": "Gnunicorn"
+    },
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Karlabyrinth",
+      "public_name": "Karlabyrinth"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Global_Climate_Strike:_exchange_of_ideas_and_experiences_about_organizing_strikes_and_demonstrations"
+  ]
+}

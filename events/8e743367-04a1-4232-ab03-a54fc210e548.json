@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10357.html",
+  "id": 10357,
+  "guid": "8e743367-04a1-4232-ab03-a54fc210e548",
+  "logo": null,
+  "date": "2019-08-22T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "00:45",
+  "room": "Curie",
+  "slug": "Camp2019-10357-fangespielen_mit_imsi-catchern",
+  "title": "Fangespielen mit IMSI-Catchern",
+  "subtitle": "Warum IMSI Catcher schlecht \"Verstecken\" spielen k\u00f6nnen",
+  "track": "Hardware & Making",
+  "type": "lecture",
+  "language": "de",
+  "abstract": "Mobiltelefone hinterlassen aufgrund ihrer Funkaktivit\u00e4t in der Umgebung vielf\u00e4ltige Spuren, die von entsprechendem passiven Equipment aufgesp\u00fcrt und verarbeitet werden kann. Doch um tiefer in die Kommunikation zu schauen, braucht es aktive Netzwerkomponenten \u2013 sogenannte IMSI-Catcher oder Stingrays, die den Kontakt zu ihren Zielen direkt suchen und Informationen austauschen.\r\n\r\nDoch wenn sich solche hinterh\u00e4ltigen Basisstationen auf die Lauer legen, m\u00fcssen sie sich zu Erkennen geben \u2013 und k\u00f6nnen erkannt werden. Der Vortrag er\u00f6rtert technische Hintergr\u00fcnde, verr\u00e4terische Anzeichen eines Angriffs und was Netzwerkbetreiber und Nutzer dagegen tun k\u00f6nnen.\r\n\r\nOshie arbeitet seit 4 Jahren an Heuristiken zur Erkennung und Werkzeugen zur Visualisierung von rogue base stations.",
+  "description": "Der Vortrag gibt einen \u00dcberblick wie IMSI Catcher arbeiten, was sie heutzutage leisten und wie sie dabei beobachtet werden k\u00f6nnen. Hierbei werden Sicherheitsfeatures der unterschiedlichen Netzgenerationen, von 2g bis 4g, betrachtet und was das konkret f\u00fcr den Einsatz von IMSI Catchern bedeutet. ",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9085,
+      "public_name": "oshie"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

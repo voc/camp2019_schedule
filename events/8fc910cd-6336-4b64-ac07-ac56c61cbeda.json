@@ -1,0 +1,27 @@
+{
+  "id": 1272,
+  "guid": "8fc910cd-6336-4b64-ac07-ac56c61cbeda",
+  "logo": null,
+  "date": "2019-08-21T11:00:00+02:00",
+  "start": "11:00",
+  "duration": "0:30",
+  "room": "Village:Kidspace",
+  "slug": "camp2019-1272-session_explore_the_botany_of_the_camp_with_plant_identification_apps",
+  "title": "Explore the botany of the camp with plant identification apps",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "outside",
+  "language": "de",
+  "abstract": "",
+  "description": "lets go plant hunting at the lake and test some plant identification apps",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Minoi",
+      "public_name": "Minoi"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Explore_the_botany_of_the_camp_with_plant_identification_apps"
+  ]
+}

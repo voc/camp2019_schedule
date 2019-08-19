@@ -5,7 +5,7 @@
   "date": "2019-08-21T16:15:00+02:00",
   "start": "16:15",
   "duration": "1:30",
-  "room": "",
+  "room": "Goldberg (Workshop 2)",
   "slug": "camp2019-1180-session_awarenessteam_vorstellung",
   "title": "Awarenessteam-Vorstellung",
   "subtitle": "Vorstellung",
@@ -14,7 +14,18 @@
   "language": "de",
   "abstract": "",
   "description": "Vorstellung des Awarenessteams und dessen Konzept",
-  "persons": [],
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Sistason",
+      "public_name": "Sistason"
+    },
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Theresa",
+      "public_name": "Theresa"
+    }
+  ],
   "links": [
     "http://help.ccc.de/awareness",
     "//events.ccc.de/camp/2019/wiki/Session:Awarenessteam-Vorstellung"

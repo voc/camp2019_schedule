@@ -1,0 +1,27 @@
+{
+  "id": 1273,
+  "guid": "a0eaf4f8-d2d9-4f6e-b8c4-b0b31f8824ec",
+  "logo": null,
+  "date": "2019-08-21T13:30:00+02:00",
+  "start": "13:30",
+  "duration": "0:30",
+  "room": "Village:Haecksen",
+  "slug": "camp2019-1273-session_toki_pona",
+  "title": "Toki Pona",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "an introduction to the language of good",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Piko",
+      "public_name": "Piko"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Toki_Pona"
+  ]
+}

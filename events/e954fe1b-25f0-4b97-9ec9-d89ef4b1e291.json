@@ -1,0 +1,27 @@
+{
+  "id": 1271,
+  "guid": "e954fe1b-25f0-4b97-9ec9-d89ef4b1e291",
+  "logo": null,
+  "date": "2019-08-22T10:00:00+02:00",
+  "start": "10:00",
+  "duration": "1:00",
+  "room": "Village:Haecksen",
+  "slug": "camp2019-1271-session_pseudo_yoga",
+  "title": "Pseudo-Yoga",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "outside",
+  "language": "de",
+  "abstract": "",
+  "description": "Kleine Trainingssession f\u00fcr den R\u00fccken",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Piko",
+      "public_name": "Piko"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Pseudo-Yoga"
+  ]
+}

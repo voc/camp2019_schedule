@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-19 17:20</version>
+  <version>2019-08-19 17:34</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -10,6 +10,57 @@
     <base_url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/</base_url>
   </conference>
   <day index="1" date="2019-08-21" start="2019-08-21T09:00:00+02:00" end="2019-08-22T04:00:00+02:00">
+    <room name="PlankHackcenter"/>
+    <room name="Johnson (Workshop 1)">
+      <event id="1284" guid="f4fa97e9-c253-4eb2-8695-83addfc593ea">
+        <logo/>
+        <date>2019-08-21T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1284-session_creating_z_wave_controllers_and_devices</slug>
+        <title>Creating Z-Wave controllers and devices</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hacking around Z-Wave smart home protocol</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:PoltoS">PoltoS</person>
+        </persons>
+        <links>
+          <link>http://z-uno.z-wave.me</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</link>
+        </links>
+      </event>
+    </room>
+    <room name="Goldberg (Workshop 2)">
+      <event id="1180" guid="f3ab2794-e73a-4b02-9fc7-07fbf1dbe66c">
+        <logo/>
+        <date>2019-08-21T16:15:00+02:00</date>
+        <start>16:15</start>
+        <duration>1:30</duration>
+        <room>Goldberg (Workshop 2)</room>
+        <slug>camp2019-1180-session_awarenessteam_vorstellung</slug>
+        <title>Awarenessteam-Vorstellung</title>
+        <subtitle>Vorstellung</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Vorstellung des Awarenessteams und dessen Konzept</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Sistason">Sistason</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Theresa">Theresa</person>
+        </persons>
+        <links>
+          <link>http://help.ccc.de/awareness</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Awarenessteam-Vorstellung</link>
+        </links>
+      </event>
+    </room>
+    <room name="THM Workshop"/>
     <room name="Village:Haecksen">
       <event id="1274" guid="cc994b81-832a-4206-aa6b-64d587849cd1">
         <logo/>
@@ -128,31 +179,6 @@
         </links>
       </event>
     </room>
-    <room name="Goldberg (Workshop 2)">
-      <event id="1180" guid="f3ab2794-e73a-4b02-9fc7-07fbf1dbe66c">
-        <logo/>
-        <date>2019-08-21T16:15:00+02:00</date>
-        <start>16:15</start>
-        <duration>1:30</duration>
-        <room>Goldberg (Workshop 2)</room>
-        <slug>camp2019-1180-session_awarenessteam_vorstellung</slug>
-        <title>Awarenessteam-Vorstellung</title>
-        <subtitle>Vorstellung</subtitle>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>de</language>
-        <abstract/>
-        <description>Vorstellung des Awarenessteams und dessen Konzept</description>
-        <persons>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Sistason">Sistason</person>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Theresa">Theresa</person>
-        </persons>
-        <links>
-          <link>http://help.ccc.de/awareness</link>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Awarenessteam-Vorstellung</link>
-        </links>
-      </event>
-    </room>
     <room name="Village:Foodhackingbase">
       <event id="1186" guid="f5538214-33b5-45fd-9c69-a9acef3e322e">
         <logo/>
@@ -241,30 +267,6 @@
         </persons>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_in_LaTeX</link>
-        </links>
-      </event>
-    </room>
-    <room name="Johnson (Workshop 1)">
-      <event id="1284" guid="f4fa97e9-c253-4eb2-8695-83addfc593ea">
-        <logo/>
-        <date>2019-08-21T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1284-session_creating_z_wave_controllers_and_devices</slug>
-        <title>Creating Z-Wave controllers and devices</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Hacking around Z-Wave smart home protocol</description>
-        <persons>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:PoltoS">PoltoS</person>
-        </persons>
-        <links>
-          <link>http://z-uno.z-wave.me</link>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</link>
         </links>
       </event>
     </room>
@@ -853,6 +855,71 @@
     </room>
   </day>
   <day index="2" date="2019-08-22" start="2019-08-22T09:00:00+02:00" end="2019-08-23T04:00:00+02:00">
+    <room name="PlankHackcenter"/>
+    <room name="Johnson (Workshop 1)">
+      <event id="1045" guid="886dfb0c-900f-47e1-bcb2-a5dc14c09a10">
+        <logo/>
+        <date>2019-08-22T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1045-session_ccchoir</slug>
+        <title>CCChoir</title>
+        <subtitle>Bach vs Pythagoras, Runde 1</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Offene Chorprobe und physikalische Grundlagen der Musik</description>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:CCChoir</link>
+        </links>
+      </event>
+      <event id="1283" guid="7db3ec84-5dc0-46a3-b30e-8fa3eb9560b6">
+        <logo/>
+        <date>2019-08-22T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1283-session_creating_z_wave_controllers_and_devices</slug>
+        <title>Creating Z-Wave controllers and devices</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hacking around Z-Wave smart home protocol</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:PoltoS">PoltoS</person>
+        </persons>
+        <links>
+          <link>http://z-uno.z-wave.me</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</link>
+        </links>
+      </event>
+      <event id="1066" guid="8563f582-f24e-4027-9a26-1725098b2b53">
+        <logo/>
+        <date>2019-08-22T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1066-session_esperanto_a_planned_nerd_language_actually_spoken</slug>
+        <title>Esperanto – a planned nerd language actually spoken</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>A short introduction into the international language Esperanto. A planned language actually spoken by nerds all over the world</description>
+        <persons/>
+        <links>
+          <link>https://github.com/johannes-mueller/esperanto-35c3</link>
+          <link>https://c3eo.chaotik.de</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken</link>
+        </links>
+      </event>
+    </room>
     <room name="Goldberg (Workshop 2)">
       <event id="1177" guid="f827e2f7-55c1-4f65-b2a4-aa77da48549b">
         <logo/>
@@ -877,6 +944,7 @@
         </links>
       </event>
     </room>
+    <room name="THM Workshop"/>
     <room name="Village:HardwareHackingArea">
       <event id="1033" guid="0ac837d5-262b-4a1c-afc1-dc7b889b3fa5">
         <logo/>
@@ -1375,70 +1443,6 @@
         </links>
       </event>
     </room>
-    <room name="Johnson (Workshop 1)">
-      <event id="1045" guid="886dfb0c-900f-47e1-bcb2-a5dc14c09a10">
-        <logo/>
-        <date>2019-08-22T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>1:30</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1045-session_ccchoir</slug>
-        <title>CCChoir</title>
-        <subtitle>Bach vs Pythagoras, Runde 1</subtitle>
-        <track>self organized sessions</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description>Offene Chorprobe und physikalische Grundlagen der Musik</description>
-        <persons/>
-        <links>
-          <link>//events.ccc.de/camp/2019/wiki/Session:CCChoir</link>
-        </links>
-      </event>
-      <event id="1283" guid="7db3ec84-5dc0-46a3-b30e-8fa3eb9560b6">
-        <logo/>
-        <date>2019-08-22T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1283-session_creating_z_wave_controllers_and_devices</slug>
-        <title>Creating Z-Wave controllers and devices</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Hacking around Z-Wave smart home protocol</description>
-        <persons>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:PoltoS">PoltoS</person>
-        </persons>
-        <links>
-          <link>http://z-uno.z-wave.me</link>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</link>
-        </links>
-      </event>
-      <event id="1066" guid="8563f582-f24e-4027-9a26-1725098b2b53">
-        <logo/>
-        <date>2019-08-22T20:00:00+02:00</date>
-        <start>20:00</start>
-        <duration>2:00</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1066-session_esperanto_a_planned_nerd_language_actually_spoken</slug>
-        <title>Esperanto – a planned nerd language actually spoken</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>A short introduction into the international language Esperanto. A planned language actually spoken by nerds all over the world</description>
-        <persons/>
-        <links>
-          <link>https://github.com/johannes-mueller/esperanto-35c3</link>
-          <link>https://c3eo.chaotik.de</link>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken</link>
-        </links>
-      </event>
-    </room>
     <room name="Village:Foodhackingbase">
       <event id="1049" guid="9628843e-81b0-4810-b26f-bcd9b8141b66">
         <logo/>
@@ -1643,13 +1647,13 @@
       </event>
     </room>
     <room name="Village:Haecksen">
-      <event id="1280" guid="fdddaac9-cf42-531b-9131-c78e071fa354">
+      <event id="1278" guid="b2a39864-a9b3-4026-82c9-6398c858864f">
         <logo/>
         <date>2019-08-22T22:00:00+02:00</date>
         <start>22:00</start>
         <duration>0:30</duration>
         <room>Village:Haecksen</room>
-        <slug>camp2019-1280-session_maerchenstunde_fuer_erwachsene_</slug>
+        <slug>camp2019-1278-session_maerchenstunde_fuer_erwachsene_</slug>
         <title>Märchenstunde (für Erwachsene)</title>
         <subtitle>Teil 2: Die Originaltexte von Ada Lovelace (die sind toll!)</subtitle>
         <track>self organized sessions</track>
@@ -2033,6 +2037,30 @@
     </room>
   </day>
   <day index="3" date="2019-08-23" start="2019-08-23T09:00:00+02:00" end="2019-08-24T04:00:00+02:00">
+    <room name="PlankHackcenter"/>
+    <room name="Johnson (Workshop 1)"/>
+    <room name="Goldberg (Workshop 2)">
+      <event id="1296" guid="4a5e8ab5-afa7-4bcd-9260-bf4ba79f1814">
+        <logo/>
+        <date>2019-08-23T10:30:00+02:00</date>
+        <start>10:30</start>
+        <duration>1:00</duration>
+        <room>Goldberg (Workshop 2)</room>
+        <slug>camp2019-1296-session_learning_to_see_in_3d</slug>
+        <title>Learning to see in 3D</title>
+        <subtitle>Introduction, Hands-On</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Can you hack how you see with Virtual RealiTy to rediscover your full sense of 3D?  Try out the new system, meet other interested people, plot and plan.</description>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Learning_to_see_in_3D</link>
+        </links>
+      </event>
+    </room>
+    <room name="THM Workshop"/>
     <room name="Village:Backspace">
       <event id="1029" guid="0d7d26f7-702d-4311-8e34-a6aa8ef87895">
         <logo/>
@@ -2867,13 +2895,13 @@
           <link>//events.ccc.de/camp/2019/wiki/Session:Junges_Chaos_Bildet_Banden</link>
         </links>
       </event>
-      <event id="1281" guid="bc0a9fbd-4fe8-5a39-b360-a3743244bc9e">
+      <event id="1310" guid="b2a39864-a9b3-4026-82c9-6398c8588650">
         <logo/>
         <date>2019-08-23T22:00:00+02:00</date>
         <start>22:00</start>
         <duration>0:30</duration>
         <room>Village:Haecksen</room>
-        <slug>camp2019-1281-session_maerchenstunde_fuer_erwachsene_</slug>
+        <slug>camp2019-1310-session_maerchenstunde_fuer_erwachsene_</slug>
         <title>Märchenstunde (für Erwachsene)</title>
         <subtitle>Teil 3: Meine Großmutter war ein Computer! - von den ENIAC Girls bis zum Harem von Pickering</subtitle>
         <track>self organized sessions</track>
@@ -2884,27 +2912,6 @@
         <persons/>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)</link>
-        </links>
-      </event>
-    </room>
-    <room name="Goldberg (Workshop 2)">
-      <event id="1296" guid="4a5e8ab5-afa7-4bcd-9260-bf4ba79f1814">
-        <logo/>
-        <date>2019-08-23T10:30:00+02:00</date>
-        <start>10:30</start>
-        <duration>1:00</duration>
-        <room>Goldberg (Workshop 2)</room>
-        <slug>camp2019-1296-session_learning_to_see_in_3d</slug>
-        <title>Learning to see in 3D</title>
-        <subtitle>Introduction, Hands-On</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Can you hack how you see with Virtual RealiTy to rediscover your full sense of 3D?  Try out the new system, meet other interested people, plot and plan.</description>
-        <persons/>
-        <links>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Learning_to_see_in_3D</link>
         </links>
       </event>
     </room>
@@ -3052,6 +3059,30 @@
     </room>
   </day>
   <day index="4" date="2019-08-24" start="2019-08-24T09:00:00+02:00" end="2019-08-25T04:00:00+02:00">
+    <room name="PlankHackcenter"/>
+    <room name="Johnson (Workshop 1)">
+      <event id="1197" guid="c8804eab-dadd-4307-ab8c-e19f4a5d769f">
+        <logo/>
+        <date>2019-08-24T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1197-session_fair_ticket_sales_on_a_capitalist_world</slug>
+        <title>Fair Ticket Sales on a Capitalist World</title>
+        <subtitle>Welcome to capitalism where prices regulate the differences between deman and supply, or do they?</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>In this open discussion we will discuss solutions taken by organizations to address ticket sales at fair prices when demand significantly outgrows supply</description>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Fair_Ticket_Sales_on_a_Capitalist_World</link>
+        </links>
+      </event>
+    </room>
+    <room name="Goldberg (Workshop 2)"/>
+    <room name="THM Workshop"/>
     <room name="Village:About:freedom">
       <event id="1176" guid="a208d05f-cafd-4680-9f4e-760994a1202d">
         <logo/>
@@ -3488,27 +3519,6 @@
         </links>
       </event>
     </room>
-    <room name="Johnson (Workshop 1)">
-      <event id="1197" guid="c8804eab-dadd-4307-ab8c-e19f4a5d769f">
-        <logo/>
-        <date>2019-08-24T20:00:00+02:00</date>
-        <start>20:00</start>
-        <duration>1:00</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1197-session_fair_ticket_sales_on_a_capitalist_world</slug>
-        <title>Fair Ticket Sales on a Capitalist World</title>
-        <subtitle>Welcome to capitalism where prices regulate the differences between deman and supply, or do they?</subtitle>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>en</language>
-        <abstract/>
-        <description>In this open discussion we will discuss solutions taken by organizations to address ticket sales at fair prices when demand significantly outgrows supply</description>
-        <persons/>
-        <links>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Fair_Ticket_Sales_on_a_Capitalist_World</link>
-        </links>
-      </event>
-    </room>
     <room name="Village:Free Software Foundation Europe">
       <event id="1160" guid="94927a6d-0607-40eb-9064-2563a6c333ca">
         <logo/>
@@ -3689,13 +3699,13 @@
       </event>
     </room>
     <room name="Village:Haecksen">
-      <event id="1278" guid="b2a39864-a9b3-4026-82c9-6398c858864f">
+      <event id="1311" guid="b2a39864-a9b3-4026-82c9-6398c8588651">
         <logo/>
         <date>2019-08-24T22:00:00+02:00</date>
         <start>22:00</start>
         <duration>0:30</duration>
         <room>Village:Haecksen</room>
-        <slug>camp2019-1278-session_maerchenstunde_fuer_erwachsene_</slug>
+        <slug>camp2019-1311-session_maerchenstunde_fuer_erwachsene_</slug>
         <title>Märchenstunde (für Erwachsene)</title>
         <subtitle>Computerge- schichte und Frauen*: letzter Teil, die Gegenwart, was ist da los und was soll das</subtitle>
         <track>self organized sessions</track>
@@ -3706,6 +3716,30 @@
         <persons/>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)</link>
+        </links>
+      </event>
+      <event id="1312" guid="614078e0-9cf6-42e3-a957-17d77fe10582">
+        <logo/>
+        <date>2019-08-24T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1312-session_socialtech</slug>
+        <title>SocialTech</title>
+        <subtitle>SocialTech #2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Workshop: Accessibility and Inclusion - Hacking everyday communication practices to change the world.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Erdbeerblau">Erdbeerblau</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Hirnsalat">Hirnsalat</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Vishnee">Vishnee</person>
+        </persons>
+        <links>
+          <link>http://angela.is/SocialTech/</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SocialTech</link>
         </links>
       </event>
     </room>
@@ -3829,6 +3863,10 @@
     </room>
   </day>
   <day index="5" date="2019-08-25" start="2019-08-25T09:00:00+02:00" end="2019-08-26T04:00:00+02:00">
+    <room name="PlankHackcenter"/>
+    <room name="Johnson (Workshop 1)"/>
+    <room name="Goldberg (Workshop 2)"/>
+    <room name="THM Workshop"/>
     <room name="Village:Haecksen">
       <event id="1270" guid="70d9eabd-198b-4bbb-98bd-1d60a7587bc8">
         <logo/>

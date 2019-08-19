@@ -1,0 +1,29 @@
+{
+  "id": 1265,
+  "guid": "b2e9d704-4531-47b2-80bf-def24c1087fb",
+  "logo": null,
+  "date": "2019-08-22T10:00:00+02:00",
+  "start": "10:00",
+  "duration": "3:00",
+  "room": "Village:Kidspace",
+  "slug": "camp2019-1265-session_ottobot_workshop",
+  "title": "Ottobot Workshop",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "Wir basteln gemeinsam einen laufenden Roboter",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Skyr",
+      "public_name": "Skyr"
+    }
+  ],
+  "links": [
+    "https://www.hackerspace-bamberg.de/Otto_LC",
+    "https://www.ottodiy.com/",
+    "//events.ccc.de/camp/2019/wiki/Session:Ottobot_Workshop"
+  ]
+}

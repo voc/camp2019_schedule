@@ -1,0 +1,27 @@
+{
+  "id": 1292,
+  "guid": "979a6e80-7544-470c-b7c3-d2bc7f4bdb39",
+  "logo": null,
+  "date": "2019-08-22T11:00:00+02:00",
+  "start": "11:00",
+  "duration": "1:00",
+  "room": "Village:HardwareHackingArea",
+  "slug": "camp2019-1292-session_bristlebots_for_kids_",
+  "title": "Bristlebots for kids!",
+  "subtitle": "Day 2",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "DE/EN/FI Build a little electronic insect robot from a toothbrush and a motor",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Kliment",
+      "public_name": "Kliment"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Bristlebots_for_kids!"
+  ]
+}

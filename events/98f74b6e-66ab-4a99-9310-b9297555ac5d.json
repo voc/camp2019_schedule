@@ -1,0 +1,21 @@
+{
+  "id": 1275,
+  "guid": "98f74b6e-66ab-4a99-9310-b9297555ac5d",
+  "logo": null,
+  "date": "2019-08-21T21:00:00+02:00",
+  "start": "21:00",
+  "duration": "1:00",
+  "room": "Village:Haecksen",
+  "slug": "camp2019-1275-session_buchclub_texte_im_feminismus",
+  "title": "Buchclub: Texte im Feminismus",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "de",
+  "abstract": "",
+  "description": "was haben wir, ihr gelesen, was lohnt sich zu lesen?",
+  "persons": [],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Buchclub:_Texte_im_Feminismus"
+  ]
+}

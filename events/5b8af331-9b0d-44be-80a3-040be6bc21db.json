@@ -1,0 +1,21 @@
+{
+  "id": 1276,
+  "guid": "5b8af331-9b0d-44be-80a3-040be6bc21db",
+  "logo": null,
+  "date": "2019-08-21T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "0:45",
+  "room": "Village:Haecksen",
+  "slug": "camp2019-1276-session_surviving_calc_excel",
+  "title": "Surviving Calc/Excel",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "basic formulas for sorting data without as much pain as usual",
+  "persons": [],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Surviving_Calc/Excel"
+  ]
+}
