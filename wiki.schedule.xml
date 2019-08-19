@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-19 17:00</version>
+  <version>2019-08-19 17:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -983,13 +983,13 @@
           <link>//events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners</link>
         </links>
       </event>
-      <event id="1290" guid="db2fc208-2728-59ae-ac28-3e2f31e79e54">
+      <event id="1287" guid="34ee2023-e2f1-4adf-8715-4a23d5122389">
         <logo/>
         <date>2019-08-22T20:00:00+02:00</date>
         <start>20:00</start>
         <duration>1:40</duration>
         <room>Village:HardwareHackingArea</room>
-        <slug>camp2019-1290-session_surface_mount_electronics_assembly_for_terrified_beginners</slug>
+        <slug>camp2019-1287-session_surface_mount_electronics_assembly_for_terrified_beginners</slug>
         <title>Surface Mount Electronics Assembly for Terrified Beginners</title>
         <subtitle>Day 2 - 20:00</subtitle>
         <track>self organized sessions</track>
@@ -1261,27 +1261,6 @@
         <persons/>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:Body_Workout_Session</link>
-        </links>
-      </event>
-      <event id="1301" guid="29357083-31f2-4021-afc6-a83ed524f91a">
-        <logo/>
-        <date>2019-08-22T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room/>
-        <slug>camp2019-1301-session_fairydust_jewerly</slug>
-        <title>Fairydust Jewerly</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>de</language>
-        <abstract/>
-        <description>Bend wire into shape!</description>
-        <persons>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Abcdev">Abcdev</person>
-        </persons>
-        <links>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Fairydust_Jewerly</link>
         </links>
       </event>
       <event id="1285" guid="ada6ca92-709b-4574-b783-ea647d6ee9f3">
@@ -1572,13 +1551,13 @@
       </event>
     </room>
     <room name="Village:Digitalcourage">
-      <event id="1267" guid="a8a2cc06-9c89-5eff-8fae-246b84402b2f">
+      <event id="1266" guid="16bfa5df-7213-49b9-8179-5ad27a218ed6">
         <logo/>
         <date>2019-08-22T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>1:30</duration>
         <room>Village:Digitalcourage</room>
-        <slug>camp2019-1267-session_digital_self_defense_workshop</slug>
+        <slug>camp2019-1266-session_digital_self_defense_workshop</slug>
         <title>Digital Self-Defense Workshop</title>
         <subtitle>Private and Anonymous Web Browsing</subtitle>
         <track>self organized sessions</track>
@@ -2100,13 +2079,13 @@
           <link>//events.ccc.de/camp/2019/wiki/Session:Arduino_For_Total_Newbies</link>
         </links>
       </event>
-      <event id="1293" guid="79ea6aeb-45d4-5a7f-8804-24737900e3e4">
+      <event id="1291" guid="c71c920f-bd27-4879-9095-78e26d15ed7e">
         <logo/>
         <date>2019-08-23T11:00:00+02:00</date>
         <start>11:00</start>
         <duration>1:00</duration>
         <room>Village:HardwareHackingArea</room>
-        <slug>camp2019-1293-session_bristlebots_for_kids_</slug>
+        <slug>camp2019-1291-session_bristlebots_for_kids_</slug>
         <title>Bristlebots for kids!</title>
         <subtitle>Day 3</subtitle>
         <track>self organized sessions</track>
@@ -2187,13 +2166,13 @@
           <link>//events.ccc.de/camp/2019/wiki/Session:Mechanical_Keyboard_Meetup</link>
         </links>
       </event>
-      <event id="1287" guid="34ee2023-e2f1-4adf-8715-4a23d5122389">
+      <event id="1308" guid="34ee2023-e2f1-4adf-8715-4a23d512238a">
         <logo/>
         <date>2019-08-23T17:30:00+02:00</date>
         <start>17:30</start>
         <duration>1:40</duration>
         <room>Village:HardwareHackingArea</room>
-        <slug>camp2019-1287-session_surface_mount_electronics_assembly_for_terrified_beginners</slug>
+        <slug>camp2019-1308-session_surface_mount_electronics_assembly_for_terrified_beginners</slug>
         <title>Surface Mount Electronics Assembly for Terrified Beginners</title>
         <subtitle>Day 3 - 17:30</subtitle>
         <track>self organized sessions</track>
@@ -2208,13 +2187,13 @@
           <link>//events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners</link>
         </links>
       </event>
-      <event id="1288" guid="0cd788a6-1328-5742-b5b7-295c74a5dd2e">
+      <event id="1309" guid="34ee2023-e2f1-4adf-8715-4a23d512238b">
         <logo/>
         <date>2019-08-23T20:00:00+02:00</date>
         <start>20:00</start>
         <duration>1:40</duration>
         <room>Village:HardwareHackingArea</room>
-        <slug>camp2019-1288-session_surface_mount_electronics_assembly_for_terrified_beginners</slug>
+        <slug>camp2019-1309-session_surface_mount_electronics_assembly_for_terrified_beginners</slug>
         <title>Surface Mount Electronics Assembly for Terrified Beginners</title>
         <subtitle>Day 3 - 20:00</subtitle>
         <track>self organized sessions</track>
@@ -3313,13 +3292,13 @@
           <link>//events.ccc.de/camp/2019/wiki/Session:ArduTouch_music_synthesizer</link>
         </links>
       </event>
-      <event id="1291" guid="c71c920f-bd27-4879-9095-78e26d15ed7e">
+      <event id="1305" guid="c71c920f-bd27-4879-9095-78e26d15ed7d">
         <logo/>
         <date>2019-08-24T11:00:00+02:00</date>
         <start>11:00</start>
         <duration>1:00</duration>
         <room>Village:HardwareHackingArea</room>
-        <slug>camp2019-1291-session_bristlebots_for_kids_</slug>
+        <slug>camp2019-1305-session_bristlebots_for_kids_</slug>
         <title>Bristlebots for kids!</title>
         <subtitle>Day 4</subtitle>
         <track>self organized sessions</track>
@@ -3486,13 +3465,13 @@
       </event>
     </room>
     <room name="Village:Digitalcourage">
-      <event id="1266" guid="16bfa5df-7213-49b9-8179-5ad27a218ed6">
+      <event id="1307" guid="16bfa5df-7213-49b9-8179-5ad27a218ed7">
         <logo/>
         <date>2019-08-24T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>1:30</duration>
         <room>Village:Digitalcourage</room>
-        <slug>camp2019-1266-session_digital_self_defense_workshop</slug>
+        <slug>camp2019-1307-session_digital_self_defense_workshop</slug>
         <title>Digital Self-Defense Workshop</title>
         <subtitle>E-Mail Encryption</subtitle>
         <track>self organized sessions</track>
@@ -3939,13 +3918,13 @@
       </event>
     </room>
     <room name="Village:Digitalcourage">
-      <event id="1268" guid="b44fb851-185d-5a8b-bbc5-5b569c446ebd">
+      <event id="1306" guid="16bfa5df-7213-49b9-8179-5ad27a218ed8">
         <logo/>
         <date>2019-08-25T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>1:30</duration>
         <room>Village:Digitalcourage</room>
-        <slug>camp2019-1268-session_digital_self_defense_workshop</slug>
+        <slug>camp2019-1306-session_digital_self_defense_workshop</slug>
         <title>Digital Self-Defense Workshop</title>
         <subtitle>Smartphones</subtitle>
         <track>self organized sessions</track>

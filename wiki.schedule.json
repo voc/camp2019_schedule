@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-19 17:00",
+    "version": "2019-08-19 17:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -1255,14 +1255,14 @@
                 ]
               },
               {
-                "id": 1290,
-                "guid": "db2fc208-2728-59ae-ac28-3e2f31e79e54",
+                "id": 1287,
+                "guid": "34ee2023-e2f1-4adf-8715-4a23d5122389",
                 "logo": null,
                 "date": "2019-08-22T20:00:00+02:00",
                 "start": "20:00",
                 "duration": "1:40",
                 "room": "Village:HardwareHackingArea",
-                "slug": "camp2019-1290-session_surface_mount_electronics_assembly_for_terrified_beginners",
+                "slug": "camp2019-1287-session_surface_mount_electronics_assembly_for_terrified_beginners",
                 "title": "Surface Mount Electronics Assembly for Terrified Beginners",
                 "subtitle": "Day 2 - 20:00",
                 "track": "self organized sessions",
@@ -1606,33 +1606,6 @@
                 "persons": [],
                 "links": [
                   "//events.ccc.de/camp/2019/wiki/Session:Body_Workout_Session"
-                ]
-              },
-              {
-                "id": 1301,
-                "guid": "29357083-31f2-4021-afc6-a83ed524f91a",
-                "logo": null,
-                "date": "2019-08-22T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "1:30",
-                "room": "",
-                "slug": "camp2019-1301-session_fairydust_jewerly",
-                "title": "Fairydust Jewerly",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "de",
-                "abstract": "",
-                "description": "Bend wire into shape!",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Abcdev",
-                    "public_name": "Abcdev"
-                  }
-                ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Fairydust_Jewerly"
                 ]
               },
               {
@@ -2002,14 +1975,14 @@
             ],
             "Village:Digitalcourage": [
               {
-                "id": 1267,
-                "guid": "a8a2cc06-9c89-5eff-8fae-246b84402b2f",
+                "id": 1266,
+                "guid": "16bfa5df-7213-49b9-8179-5ad27a218ed6",
                 "logo": null,
                 "date": "2019-08-22T16:00:00+02:00",
                 "start": "16:00",
                 "duration": "1:30",
                 "room": "Village:Digitalcourage",
-                "slug": "camp2019-1267-session_digital_self_defense_workshop",
+                "slug": "camp2019-1266-session_digital_self_defense_workshop",
                 "title": "Digital Self-Defense Workshop",
                 "subtitle": "Private and Anonymous Web Browsing",
                 "track": "self organized sessions",
@@ -2694,14 +2667,14 @@
                 ]
               },
               {
-                "id": 1293,
-                "guid": "79ea6aeb-45d4-5a7f-8804-24737900e3e4",
+                "id": 1291,
+                "guid": "c71c920f-bd27-4879-9095-78e26d15ed7e",
                 "logo": null,
                 "date": "2019-08-23T11:00:00+02:00",
                 "start": "11:00",
                 "duration": "1:00",
                 "room": "Village:HardwareHackingArea",
-                "slug": "camp2019-1293-session_bristlebots_for_kids_",
+                "slug": "camp2019-1291-session_bristlebots_for_kids_",
                 "title": "Bristlebots for kids!",
                 "subtitle": "Day 3",
                 "track": "self organized sessions",
@@ -2809,14 +2782,14 @@
                 ]
               },
               {
-                "id": 1287,
-                "guid": "34ee2023-e2f1-4adf-8715-4a23d5122389",
+                "id": 1308,
+                "guid": "34ee2023-e2f1-4adf-8715-4a23d512238a",
                 "logo": null,
                 "date": "2019-08-23T17:30:00+02:00",
                 "start": "17:30",
                 "duration": "1:40",
                 "room": "Village:HardwareHackingArea",
-                "slug": "camp2019-1287-session_surface_mount_electronics_assembly_for_terrified_beginners",
+                "slug": "camp2019-1308-session_surface_mount_electronics_assembly_for_terrified_beginners",
                 "title": "Surface Mount Electronics Assembly for Terrified Beginners",
                 "subtitle": "Day 3 - 17:30",
                 "track": "self organized sessions",
@@ -2836,14 +2809,14 @@
                 ]
               },
               {
-                "id": 1288,
-                "guid": "0cd788a6-1328-5742-b5b7-295c74a5dd2e",
+                "id": 1309,
+                "guid": "34ee2023-e2f1-4adf-8715-4a23d512238b",
                 "logo": null,
                 "date": "2019-08-23T20:00:00+02:00",
                 "start": "20:00",
                 "duration": "1:40",
                 "room": "Village:HardwareHackingArea",
-                "slug": "camp2019-1288-session_surface_mount_electronics_assembly_for_terrified_beginners",
+                "slug": "camp2019-1309-session_surface_mount_electronics_assembly_for_terrified_beginners",
                 "title": "Surface Mount Electronics Assembly for Terrified Beginners",
                 "subtitle": "Day 3 - 20:00",
                 "track": "self organized sessions",
@@ -4247,14 +4220,14 @@
                 ]
               },
               {
-                "id": 1291,
-                "guid": "c71c920f-bd27-4879-9095-78e26d15ed7e",
+                "id": 1305,
+                "guid": "c71c920f-bd27-4879-9095-78e26d15ed7d",
                 "logo": null,
                 "date": "2019-08-24T11:00:00+02:00",
                 "start": "11:00",
                 "duration": "1:00",
                 "room": "Village:HardwareHackingArea",
-                "slug": "camp2019-1291-session_bristlebots_for_kids_",
+                "slug": "camp2019-1305-session_bristlebots_for_kids_",
                 "title": "Bristlebots for kids!",
                 "subtitle": "Day 4",
                 "track": "self organized sessions",
@@ -4456,14 +4429,14 @@
             ],
             "Village:Digitalcourage": [
               {
-                "id": 1266,
-                "guid": "16bfa5df-7213-49b9-8179-5ad27a218ed6",
+                "id": 1307,
+                "guid": "16bfa5df-7213-49b9-8179-5ad27a218ed7",
                 "logo": null,
                 "date": "2019-08-24T16:00:00+02:00",
                 "start": "16:00",
                 "duration": "1:30",
                 "room": "Village:Digitalcourage",
-                "slug": "camp2019-1266-session_digital_self_defense_workshop",
+                "slug": "camp2019-1307-session_digital_self_defense_workshop",
                 "title": "Digital Self-Defense Workshop",
                 "subtitle": "E-Mail Encryption",
                 "track": "self organized sessions",
@@ -5039,14 +5012,14 @@
             ],
             "Village:Digitalcourage": [
               {
-                "id": 1268,
-                "guid": "b44fb851-185d-5a8b-bbc5-5b569c446ebd",
+                "id": 1306,
+                "guid": "16bfa5df-7213-49b9-8179-5ad27a218ed8",
                 "logo": null,
                 "date": "2019-08-25T16:00:00+02:00",
                 "start": "16:00",
                 "duration": "1:30",
                 "room": "Village:Digitalcourage",
-                "slug": "camp2019-1268-session_digital_self_defense_workshop",
+                "slug": "camp2019-1306-session_digital_self_defense_workshop",
                 "title": "Digital Self-Defense Workshop",
                 "subtitle": "Smartphones",
                 "track": "self organized sessions",
