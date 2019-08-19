@@ -3786,6 +3786,25 @@ These tools, called Dreams and Realities are run alongside a customized version 
     </room>
     <room name="Johnson (Workshop 1)"/>
     <room name="Goldberg (Workshop 2)">
+      <event id="1316" guid="01a0c21a-8b90-4387-9198-8e80cccb18a8">
+        <logo/>
+        <date>2019-08-23T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>3:00</duration>
+        <room>Goldberg (Workshop 2)</room>
+        <slug>camp2019-1316-session_extra_thumb_workshop</slug>
+        <title>Extra Thumb Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Make yourself an extra functional thumb, and see if you like it.</description>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Extra_Thumb_Workshop</link>
+        </links>
+      </event>
       <event id="1296" guid="4a5e8ab5-afa7-4bcd-9260-bf4ba79f1814">
         <logo/>
         <date>2019-08-23T10:30:00+02:00</date>
