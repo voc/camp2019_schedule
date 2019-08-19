@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-19 06:10</version>
+  <version>2019-08-19 09:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -2228,6 +2228,28 @@
         </persons>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:Freedom_to_go_-_an_interactive_workshop_from_An-_to_F-_to_G-Droid</link>
+        </links>
+      </event>
+      <event id="1286" guid="1a818cc0-3415-41f2-be2e-9d485e959ce2">
+        <logo/>
+        <date>2019-08-23T12:30:00+02:00</date>
+        <start>12:30</start>
+        <duration>1:25</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1286-session_global_climate_strike_exchange_of_ideas_and_experiences_about_organizing_strikes_and_demonstrations</slug>
+        <title>Global Climate Strike: exchange of ideas and experiences about organizing strikes and demonstrations</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>The climate crisis is an emergency but we’re not acting like it. Especially in political organizations like the Chaos Community this topic has to be more present, more visible. Our hotter planet is already hurting millions of people. We are not only in one of the best positions to provide technology for change, but we also should show that we belong to the people behind the movements like Fridays For Future or Global Climate Strike.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Karlabyrinth">Karlabyrinth</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Global_Climate_Strike:_exchange_of_ideas_and_experiences_about_organizing_strikes_and_demonstrations</link>
         </links>
       </event>
       <event id="1258" guid="c26c1327-b087-4f31-93d8-394eece62ae5">
