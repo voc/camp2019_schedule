@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-19 09:00</version>
+  <version>2019-08-19 09:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -3066,7 +3066,7 @@
         <title>Flippie - Hacking Flip-Dot Displays</title>
         <subtitle/>
         <track>self organized sessions</track>
-        <type>workshop</type>
+        <type>other</type>
         <language>de</language>
         <abstract/>
         <description>Hacking flip-dot displays</description>
