@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-19 10:30</version>
+  <version>2019-08-19 10:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -3224,6 +3224,28 @@
           <link>//events.ccc.de/camp/2019/wiki/Session:Bristlebots_for_kids!</link>
         </links>
       </event>
+      <event id="1212" guid="dd6684d6-ee37-4d95-8be4-9fbb29f2cb46">
+        <logo/>
+        <date>2019-08-24T10:00:00+02:00</date>
+        <start>10:00</start>
+        <duration>2:00</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1212-session_icibici</slug>
+        <title>Icibici</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>build a simple brain-computer interface for €20</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Espero">Espero</person>
+        </persons>
+        <links>
+          <link>https://icibici.github.io/site/</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Icibici</link>
+        </links>
+      </event>
       <event id="1164" guid="8968876e-7990-4b18-a1f9-ebf9050bd11f">
         <logo/>
         <date>2019-08-24T11:00:00+02:00</date>
@@ -3533,30 +3555,6 @@
         <links>
           <link>https://ecohackerfarm.org/</link>
           <link>//events.ccc.de/camp/2019/wiki/Session:Permaculture_for_hackers</link>
-        </links>
-      </event>
-    </room>
-    <room name="Village:Belgian Embassy">
-      <event id="1212" guid="dd6684d6-ee37-4d95-8be4-9fbb29f2cb46">
-        <logo/>
-        <date>2019-08-24T10:00:00+02:00</date>
-        <start>10:00</start>
-        <duration>2:00</duration>
-        <room>Village:Belgian Embassy</room>
-        <slug>camp2019-1212-session_icibici</slug>
-        <title>Icibici</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>build a simple brain-computer interface for €20</description>
-        <persons>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Espero">Espero</person>
-        </persons>
-        <links>
-          <link>https://icibici.github.io/site/</link>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Icibici</link>
         </links>
       </event>
     </room>
