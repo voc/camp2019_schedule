@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-19 12:30",
+    "version": "2019-08-19 12:50",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -149,7 +149,7 @@
                 ]
               }
             ],
-            "": [
+            "Goldberg (Workshop 2)": [
               {
                 "id": 1180,
                 "guid": "f3ab2794-e73a-4b02-9fc7-07fbf1dbe66c",
@@ -157,7 +157,7 @@
                 "date": "2019-08-21T16:15:00+02:00",
                 "start": "16:15",
                 "duration": "1:30",
-                "room": "",
+                "room": "Goldberg (Workshop 2)",
                 "slug": "camp2019-1180-session_awarenessteam_vorstellung",
                 "title": "Awarenessteam-Vorstellung",
                 "subtitle": "Vorstellung",
@@ -166,31 +166,21 @@
                 "language": "de",
                 "abstract": "",
                 "description": "Vorstellung des Awarenessteams und dessen Konzept",
-                "persons": [],
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Sistason",
+                    "public_name": "Sistason"
+                  },
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Theresa",
+                    "public_name": "Theresa"
+                  }
+                ],
                 "links": [
                   "http://help.ccc.de/awareness",
                   "//events.ccc.de/camp/2019/wiki/Session:Awarenessteam-Vorstellung"
-                ]
-              },
-              {
-                "id": 1101,
-                "guid": "8ee75b4c-727a-44d8-ae76-3da535871523",
-                "logo": null,
-                "date": "2019-08-21T15:00:00+02:00",
-                "start": "15:00",
-                "duration": "1:30",
-                "room": "",
-                "slug": "camp2019-1101-session_kubernetes_security_overview",
-                "title": "Kubernetes Security Overview",
-                "subtitle": "Kubernetes Security Basics",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Kubernetes makes it easy to deploy microservices. However, the price is a huge amount of complexity. If you use Kubernetes, it is high time to learn the basics of container and Kubernetes security.  Handson workshop on selected topics of Kubernetes security.",
-                "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Kubernetes_Security_Overview"
                 ]
               }
             ],
@@ -874,6 +864,29 @@
                 ]
               }
             ],
+            "": [
+              {
+                "id": 1101,
+                "guid": "8ee75b4c-727a-44d8-ae76-3da535871523",
+                "logo": null,
+                "date": "2019-08-21T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "1:30",
+                "room": "",
+                "slug": "camp2019-1101-session_kubernetes_security_overview",
+                "title": "Kubernetes Security Overview",
+                "subtitle": "Kubernetes Security Basics",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Kubernetes makes it easy to deploy microservices. However, the price is a huge amount of complexity. If you use Kubernetes, it is high time to learn the basics of container and Kubernetes security.  Handson workshop on selected topics of Kubernetes security.",
+                "persons": [],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:Kubernetes_Security_Overview"
+                ]
+              }
+            ],
             "Village:402 Payment Required": [
               {
                 "id": 1116,
@@ -1515,6 +1528,34 @@
                   "https://substrate.dev/substrate-collectables-workshop/#/",
                   "https://substrate.dev/en/tutorials",
                   "//events.ccc.de/camp/2019/wiki/Session:Substrate_Collectibles_-_Build_your_own_blockchain-backed_asset_exchange"
+                ]
+              },
+              {
+                "id": 1139,
+                "guid": "74735d77-9d77-4c14-b823-81a1c91820ee",
+                "logo": null,
+                "date": "2019-08-22T14:30:00+02:00",
+                "start": "14:30",
+                "duration": "0:55",
+                "room": "Village:About:freedom",
+                "slug": "camp2019-1139-session_tor_project_running_tor_trainings_with_human_rights_defenders_in_global_south",
+                "title": "Tor Project: running Tor trainings with human rights defenders in Global South",
+                "subtitle": "about:stage",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "Meeting the Global South community and users",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "public_name": "Gnunicorn"
+                  }
+                ],
+                "links": [
+                  "https://www.torproject.org",
+                  "//events.ccc.de/camp/2019/wiki/Session:Tor_Project:_running_Tor_trainings_with_human_rights_defenders_in_Global_South"
                 ]
               },
               {
@@ -3203,34 +3244,6 @@
                 "links": [
                   "https://substrate.dev/en/tutorials",
                   "//events.ccc.de/camp/2019/wiki/Session:Substrate_verifiable_credentials_-_build_your_first_infrastructure_blockchain"
-                ]
-              },
-              {
-                "id": 1139,
-                "guid": "74735d77-9d77-4c14-b823-81a1c91820ee",
-                "logo": null,
-                "date": "2019-08-23T14:00:00+02:00",
-                "start": "14:00",
-                "duration": "0:55",
-                "room": "Village:About:freedom",
-                "slug": "camp2019-1139-session_tor_project_running_tor_trainings_with_human_rights_defenders_in_global_south",
-                "title": "Tor Project: running Tor trainings with human rights defenders in Global South",
-                "subtitle": "about:stage",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "Meeting the Global South community and users",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
-                    "public_name": "Gnunicorn"
-                  }
-                ],
-                "links": [
-                  "https://www.torproject.org",
-                  "//events.ccc.de/camp/2019/wiki/Session:Tor_Project:_running_Tor_trainings_with_human_rights_defenders_in_Global_South"
                 ]
               }
             ],
