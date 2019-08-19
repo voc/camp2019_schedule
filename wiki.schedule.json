@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-19 20:30",
+    "version": "2019-08-19 22:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -243,6 +243,28 @@
                 "persons": [],
                 "links": [
                   "//events.ccc.de/camp/2019/wiki/Session:Wie_funktioniert_ein_Sicherheitsgurt"
+                ]
+              },
+              {
+                "id": 1320,
+                "guid": "15d059be-acc8-4d88-a350-e7dc94ab2ca4",
+                "logo": null,
+                "date": "2019-08-21T21:00:00+02:00",
+                "start": "21:00",
+                "duration": "1:00",
+                "room": "Village:Haecksen",
+                "slug": "camp2019-1320-session_workshop_feminist_library",
+                "title": "Workshop feminist library",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "de",
+                "abstract": "",
+                "description": "Workshop to start the feminist library",
+                "persons": [],
+                "links": [
+                  "http://haecksen.org",
+                  "//events.ccc.de/camp/2019/wiki/Session:Workshop_feminist_library"
                 ]
               }
             ],
@@ -3406,6 +3428,30 @@
                 "links": [
                   "https://foodhackingbase.org/wiki/Cheesetasting_ccccamp2019",
                   "//events.ccc.de/camp/2019/wiki/Session:Cheese_Rendezvous"
+                ]
+              }
+            ],
+            "Village:Reclaim Club Culture": [
+              {
+                "id": 1319,
+                "guid": "9c204188-b4dd-4509-982f-db08159de482",
+                "logo": null,
+                "date": "2019-08-23T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "1:30",
+                "room": "Village:Reclaim Club Culture",
+                "slug": "camp2019-1319-session_club_culture_against_the_monopoly_of_facebook",
+                "title": "Club culture against the monopoly of Facebook",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Reclaim Club Culture goes Feediverse, we want to learn about alternatives to facebook: We need a platform that includes social multimedia feeds and most importantly: a calendar for mobilization/invitation. We will prepare a campaign to get institutions of the cultural scene to use that alternative platform.",
+                "persons": [],
+                "links": [
+                  "https://twitter.com/ReclaimYourClub",
+                  "//events.ccc.de/camp/2019/wiki/Session:Club_culture_against_the_monopoly_of_Facebook"
                 ]
               }
             ],

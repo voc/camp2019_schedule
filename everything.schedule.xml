@@ -754,6 +754,26 @@ We will use software methods (rooting) and hardware methods (flash dumping). Usi
           <link>//events.ccc.de/camp/2019/wiki/Session:Wie_funktioniert_ein_Sicherheitsgurt</link>
         </links>
       </event>
+      <event id="1320" guid="15d059be-acc8-4d88-a350-e7dc94ab2ca4">
+        <logo/>
+        <date>2019-08-21T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1320-session_workshop_feminist_library</slug>
+        <title>Workshop feminist library</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Workshop to start the feminist library</description>
+        <persons/>
+        <links>
+          <link>http://haecksen.org</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Workshop_feminist_library</link>
+        </links>
+      </event>
     </room>
     <room name="Village:Chaos-West">
       <event id="1313" guid="7f6c411b-c418-42d5-bc0a-c1514aa2e687">
@@ -4347,6 +4367,28 @@ These tools, called Dreams and Realities are run alongside a customized version 
         <links>
           <link>https://foodhackingbase.org/wiki/Cheesetasting_ccccamp2019</link>
           <link>//events.ccc.de/camp/2019/wiki/Session:Cheese_Rendezvous</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Reclaim Club Culture">
+      <event id="1319" guid="9c204188-b4dd-4509-982f-db08159de482">
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Village:Reclaim Club Culture</room>
+        <slug>camp2019-1319-session_club_culture_against_the_monopoly_of_facebook</slug>
+        <title>Club culture against the monopoly of Facebook</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Reclaim Club Culture goes Feediverse, we want to learn about alternatives to facebook: We need a platform that includes social multimedia feeds and most importantly: a calendar for mobilization/invitation. We will prepare a campaign to get institutions of the cultural scene to use that alternative platform.</description>
+        <persons/>
+        <links>
+          <link>https://twitter.com/ReclaimYourClub</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Club_culture_against_the_monopoly_of_Facebook</link>
         </links>
       </event>
     </room>
