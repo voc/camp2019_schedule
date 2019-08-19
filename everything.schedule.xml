@@ -1453,7 +1453,7 @@ Finally we will give some ideas on how to read between the lines in datasheets. 
         <room>Plank</room>
         <slug>LEA7LY</slug>
         <url>http://talx.thm.cloud/thms/talk/LEA7LY/</url>
-        <title>Security Analysis of the AMD Platform Security Processor</title>
+        <title>Dissecting the AMD Platform Security Processor</title>
         <subtitle/>
         <track>Talk</track>
         <type>Talk</type>
