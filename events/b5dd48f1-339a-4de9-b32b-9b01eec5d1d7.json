@@ -1,0 +1,27 @@
+{
+  "id": 1314,
+  "guid": "b5dd48f1-339a-4de9-b32b-9b01eec5d1d7",
+  "logo": null,
+  "date": "2019-08-23T12:30:00+02:00",
+  "start": "12:30",
+  "duration": "1:30",
+  "room": "Village:Haecksen",
+  "slug": "camp2019-1314-session_der_haecksen_hack",
+  "title": "Der Haecksen-Hack",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "discussion",
+  "language": "de",
+  "abstract": "",
+  "description": "Die Haecksen erkl\u00e4ren das Memorial-Projekt und die Briefmarken und freuen sich auf konstruktive Kritik und Ideen",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Piko",
+      "public_name": "Piko"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Der_Haecksen-Hack"
+  ]
+}

@@ -4439,6 +4439,69 @@ These tools, called Dreams and Realities are run alongside a customized version 
         </links>
       </event>
     </room>
+    <room name="Village:Haecksen">
+      <event id="1314" guid="b5dd48f1-339a-4de9-b32b-9b01eec5d1d7">
+        <logo/>
+        <date>2019-08-23T12:30:00+02:00</date>
+        <start>12:30</start>
+        <duration>1:30</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1314-session_der_haecksen_hack</slug>
+        <title>Der Haecksen-Hack</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Die Haecksen erklären das Memorial-Projekt und die Briefmarken und freuen sich auf konstruktive Kritik und Ideen</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Der_Haecksen-Hack</link>
+        </links>
+      </event>
+      <event id="1100" guid="8668d4a5-c292-49f7-8f16-1e8f9c429a46">
+        <logo/>
+        <date>2019-08-23T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1100-session_junges_chaos_bildet_banden</slug>
+        <title>Junges Chaos Bildet Banden</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Wir wollen Junge Leute im Chaos Umfeld vernetzen und die Jugendarbeit in den einzelnen Spaces stärken. Komm vorbei, trink eine Mate und lass die Welt verändern.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Scammo">Scammo</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Junges_Chaos_Bildet_Banden</link>
+        </links>
+      </event>
+      <event id="1310" guid="b2a39864-a9b3-4026-82c9-6398c8588650">
+        <logo/>
+        <date>2019-08-23T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>0:30</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1310-session_maerchenstunde_fuer_erwachsene_</slug>
+        <title>Märchenstunde (für Erwachsene)</title>
+        <subtitle>Teil 3: Meine Großmutter war ein Computer! - von den ENIAC Girls bis zum Harem von Pickering</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:Kidspace">
       <event id="1196" guid="a4c66248-897e-4280-bb3e-3ba18695526b">
         <logo/>
@@ -4572,48 +4635,6 @@ These tools, called Dreams and Realities are run alongside a customized version 
         </persons>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:IoT_Meetup</link>
-        </links>
-      </event>
-    </room>
-    <room name="Village:Haecksen">
-      <event id="1100" guid="8668d4a5-c292-49f7-8f16-1e8f9c429a46">
-        <logo/>
-        <date>2019-08-23T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Village:Haecksen</room>
-        <slug>camp2019-1100-session_junges_chaos_bildet_banden</slug>
-        <title>Junges Chaos Bildet Banden</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>Wir wollen Junge Leute im Chaos Umfeld vernetzen und die Jugendarbeit in den einzelnen Spaces stärken. Komm vorbei, trink eine Mate und lass die Welt verändern.</description>
-        <persons>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Scammo">Scammo</person>
-        </persons>
-        <links>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Junges_Chaos_Bildet_Banden</link>
-        </links>
-      </event>
-      <event id="1310" guid="b2a39864-a9b3-4026-82c9-6398c8588650">
-        <logo/>
-        <date>2019-08-23T22:00:00+02:00</date>
-        <start>22:00</start>
-        <duration>0:30</duration>
-        <room>Village:Haecksen</room>
-        <slug>camp2019-1310-session_maerchenstunde_fuer_erwachsene_</slug>
-        <title>Märchenstunde (für Erwachsene)</title>
-        <subtitle>Teil 3: Meine Großmutter war ein Computer! - von den ENIAC Girls bis zum Harem von Pickering</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <links>
-          <link>//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)</link>
         </links>
       </event>
     </room>
@@ -5759,6 +5780,29 @@ I am currently doing my PhD at a research institute that focuses on embedded sec
         <links>
           <link>https://digitalcourage.de/digitale-selbstverteidigung</link>
           <link>//events.ccc.de/camp/2019/wiki/Session:Digital_Self-Defense_Workshop</link>
+        </links>
+      </event>
+    </room>
+    <room name="">
+      <event id="1315" guid="be027390-38e1-4207-b05f-2f4a2a279194">
+        <logo/>
+        <date>2019-08-24T23:00:00+02:00</date>
+        <start>23:00</start>
+        <duration>1:00</duration>
+        <room/>
+        <slug>camp2019-1315-session_feierliche_verlesung_des_gesammelten_aergers</slug>
+        <title>Feierliche Verlesung des gesammelten Ärgers</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Solemn reading of the collected anger</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Feierliche_Verlesung_des_gesammelten_%C3%84rgers</link>
         </links>
       </event>
     </room>

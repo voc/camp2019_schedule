@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-19 17:46",
+    "version": "2019-08-19 18:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -3518,6 +3518,83 @@
                 ]
               }
             ],
+            "Village:Haecksen": [
+              {
+                "id": 1314,
+                "guid": "b5dd48f1-339a-4de9-b32b-9b01eec5d1d7",
+                "logo": null,
+                "date": "2019-08-23T12:30:00+02:00",
+                "start": "12:30",
+                "duration": "1:30",
+                "room": "Village:Haecksen",
+                "slug": "camp2019-1314-session_der_haecksen_hack",
+                "title": "Der Haecksen-Hack",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "de",
+                "abstract": "",
+                "description": "Die Haecksen erkl\u00e4ren das Memorial-Projekt und die Briefmarken und freuen sich auf konstruktive Kritik und Ideen",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Piko",
+                    "public_name": "Piko"
+                  }
+                ],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:Der_Haecksen-Hack"
+                ]
+              },
+              {
+                "id": 1100,
+                "guid": "8668d4a5-c292-49f7-8f16-1e8f9c429a46",
+                "logo": null,
+                "date": "2019-08-23T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:30",
+                "room": "Village:Haecksen",
+                "slug": "camp2019-1100-session_junges_chaos_bildet_banden",
+                "title": "Junges Chaos Bildet Banden",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Wir wollen Junge Leute im Chaos Umfeld vernetzen und die Jugendarbeit in den einzelnen Spaces st\u00e4rken. Komm vorbei, trink eine Mate und lass die Welt ver\u00e4ndern.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Scammo",
+                    "public_name": "Scammo"
+                  }
+                ],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:Junges_Chaos_Bildet_Banden"
+                ]
+              },
+              {
+                "id": 1310,
+                "guid": "b2a39864-a9b3-4026-82c9-6398c8588650",
+                "logo": null,
+                "date": "2019-08-23T22:00:00+02:00",
+                "start": "22:00",
+                "duration": "0:30",
+                "room": "Village:Haecksen",
+                "slug": "camp2019-1310-session_maerchenstunde_fuer_erwachsene_",
+                "title": "M\u00e4rchenstunde (f\u00fcr Erwachsene)",
+                "subtitle": "Teil 3: Meine Gro\u00dfmutter war ein Computer! - von den ENIAC Girls bis zum Harem von Pickering",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "",
+                "persons": [],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)"
+                ]
+              }
+            ],
             "Village:Kidspace": [
               {
                 "id": 1196,
@@ -3687,56 +3764,6 @@
                 ],
                 "links": [
                   "//events.ccc.de/camp/2019/wiki/Session:IoT_Meetup"
-                ]
-              }
-            ],
-            "Village:Haecksen": [
-              {
-                "id": 1100,
-                "guid": "8668d4a5-c292-49f7-8f16-1e8f9c429a46",
-                "logo": null,
-                "date": "2019-08-23T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "1:30",
-                "room": "Village:Haecksen",
-                "slug": "camp2019-1100-session_junges_chaos_bildet_banden",
-                "title": "Junges Chaos Bildet Banden",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "de",
-                "abstract": "",
-                "description": "Wir wollen Junge Leute im Chaos Umfeld vernetzen und die Jugendarbeit in den einzelnen Spaces st\u00e4rken. Komm vorbei, trink eine Mate und lass die Welt ver\u00e4ndern.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Scammo",
-                    "public_name": "Scammo"
-                  }
-                ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Junges_Chaos_Bildet_Banden"
-                ]
-              },
-              {
-                "id": 1310,
-                "guid": "b2a39864-a9b3-4026-82c9-6398c8588650",
-                "logo": null,
-                "date": "2019-08-23T22:00:00+02:00",
-                "start": "22:00",
-                "duration": "0:30",
-                "room": "Village:Haecksen",
-                "slug": "camp2019-1310-session_maerchenstunde_fuer_erwachsene_",
-                "title": "M\u00e4rchenstunde (f\u00fcr Erwachsene)",
-                "subtitle": "Teil 3: Meine Gro\u00dfmutter war ein Computer! - von den ENIAC Girls bis zum Harem von Pickering",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "",
-                "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)"
                 ]
               }
             ],
@@ -4517,6 +4544,35 @@
                 "links": [
                   "https://digitalcourage.de/digitale-selbstverteidigung",
                   "//events.ccc.de/camp/2019/wiki/Session:Digital_Self-Defense_Workshop"
+                ]
+              }
+            ],
+            "": [
+              {
+                "id": 1315,
+                "guid": "be027390-38e1-4207-b05f-2f4a2a279194",
+                "logo": null,
+                "date": "2019-08-24T23:00:00+02:00",
+                "start": "23:00",
+                "duration": "1:00",
+                "room": "",
+                "slug": "camp2019-1315-session_feierliche_verlesung_des_gesammelten_aergers",
+                "title": "Feierliche Verlesung des gesammelten \u00c4rgers",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Solemn reading of the collected anger",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Piko",
+                    "public_name": "Piko"
+                  }
+                ],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:Feierliche_Verlesung_des_gesammelten_%C3%84rgers"
                 ]
               }
             ],

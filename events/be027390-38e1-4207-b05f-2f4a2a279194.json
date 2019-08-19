@@ -1,0 +1,27 @@
+{
+  "id": 1315,
+  "guid": "be027390-38e1-4207-b05f-2f4a2a279194",
+  "logo": null,
+  "date": "2019-08-24T23:00:00+02:00",
+  "start": "23:00",
+  "duration": "1:00",
+  "room": "",
+  "slug": "camp2019-1315-session_feierliche_verlesung_des_gesammelten_aergers",
+  "title": "Feierliche Verlesung des gesammelten \u00c4rgers",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Solemn reading of the collected anger",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Piko",
+      "public_name": "Piko"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Feierliche_Verlesung_des_gesammelten_%C3%84rgers"
+  ]
+}
