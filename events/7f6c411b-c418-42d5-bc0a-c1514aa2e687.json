@@ -1,0 +1,27 @@
+{
+  "id": 1313,
+  "guid": "7f6c411b-c418-42d5-bc0a-c1514aa2e687",
+  "logo": null,
+  "date": "2019-08-21T15:00:00+02:00",
+  "start": "15:00",
+  "duration": "2:00",
+  "room": "Village:Chaos-West",
+  "slug": "camp2019-1313-session_board_meeting",
+  "title": "Board Meeting",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "",
+  "abstract": "",
+  "description": "Meetup for e-longboards and related e-vehicles",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Rnbwdsh",
+      "public_name": "Rnbwdsh"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Board_Meeting"
+  ]
+}

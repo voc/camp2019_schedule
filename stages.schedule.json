@@ -608,75 +608,6 @@
                 "attachments": []
               }
             ],
-            "PlankHackcenter": [],
-            "Johnson (Workshop 1)": [],
-            "Goldberg (Workshop 2)": [],
-            "THM Workshop": [
-              {
-                "id": 140,
-                "guid": "f6b73c1d-465f-540c-9854-26b8c0dcf645",
-                "logo": "/media/thms/images/VT87DH/Cadus_logo_camp_2.png",
-                "date": "2019-08-21T14:00:00+02:00",
-                "start": "14:00",
-                "duration": "01:00",
-                "room": "THM Workshop",
-                "slug": "VT87DH",
-                "url": "http://talx.thm.cloud/thms/talk/VT87DH/",
-                "title": "Meet CADUS! Humanitarian Aid goes Open Source",
-                "subtitle": "",
-                "track": "Workshop",
-                "type": "Talk",
-                "language": "en",
-                "abstract": "Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the \"consultation hours\" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.",
-                "description": "During this particular format of \"consultation hours\" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).\r\nConsultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 43,
-                    "code": "ZUGZGF",
-                    "public_name": "Corinna Cadus",
-                    "biography": "",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 116,
-                "guid": "0d5c9c41-398c-5f2b-aeec-34f1ea5ac454",
-                "logo": "/media/thms/images/A879ZK/cccamp19_3.png",
-                "date": "2019-08-21T15:15:00+02:00",
-                "start": "15:15",
-                "duration": "02:00",
-                "room": "THM Workshop",
-                "slug": "A879ZK",
-                "url": "http://talx.thm.cloud/thms/talk/A879ZK/",
-                "title": "Einblicke in die Wettervorhersage",
-                "subtitle": "",
-                "track": "Workshop",
-                "type": "Workshop",
-                "language": "de",
-                "abstract": "Ist das Wetter immer so unberechenbar wie es scheint? Was passiert in der Atmosph\u00e4re? Und wie k\u00f6nnt ihr selbst besser das Wetter vorhersagen?",
-                "description": "T\u00e4glich betrifft uns alle das Wetter. Aber was passiert eigentlich in der Atmosph\u00e4re? Um das zu verstehen wird in der synoptischen Meteorologie die Analyse *Wie ist das Wetter?* , die Diagnose *Warum ist das Wetter so?* und schlussendlich die Prognose *Wie wird das Wetter?* des Wetters betrachtet. Damit auch ihr das Wetter besser einsch\u00e4tzen k\u00f6nnt und nicht nur auf die Symbole in den Wetterapps angewiesen seid, m\u00f6chte ich euch erste Einblicke in die Wettervorhersage geben. Dazu gucken wir uns gemeinsam Wetterkarten an und geben einen Tipp (z.B. Temperatur, Luftdruck, Regenmenge) f\u00fcr den n\u00e4chsten Tag ab.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 27,
-                    "code": "Z8VADQ",
-                    "public_name": "Daniela Schoster",
-                    "biography": "Studentin MA Meteorologie",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              }
-            ],
             "Plank": [
               {
                 "id": 141,
@@ -966,6 +897,75 @@
                     "code": "PJF8MV",
                     "public_name": "BarbNerdy",
                     "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "Hackcenter": [],
+            "Johnson (Workshop 1)": [],
+            "Goldberg (Workshop 2)": [],
+            "THM Workshop": [
+              {
+                "id": 140,
+                "guid": "f6b73c1d-465f-540c-9854-26b8c0dcf645",
+                "logo": "/media/thms/images/VT87DH/Cadus_logo_camp_2.png",
+                "date": "2019-08-21T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "01:00",
+                "room": "THM Workshop",
+                "slug": "VT87DH",
+                "url": "http://talx.thm.cloud/thms/talk/VT87DH/",
+                "title": "Meet CADUS! Humanitarian Aid goes Open Source",
+                "subtitle": "",
+                "track": "Workshop",
+                "type": "Talk",
+                "language": "en",
+                "abstract": "Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the \"consultation hours\" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.",
+                "description": "During this particular format of \"consultation hours\" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).\r\nConsultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 43,
+                    "code": "ZUGZGF",
+                    "public_name": "Corinna Cadus",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 116,
+                "guid": "0d5c9c41-398c-5f2b-aeec-34f1ea5ac454",
+                "logo": "/media/thms/images/A879ZK/cccamp19_3.png",
+                "date": "2019-08-21T15:15:00+02:00",
+                "start": "15:15",
+                "duration": "02:00",
+                "room": "THM Workshop",
+                "slug": "A879ZK",
+                "url": "http://talx.thm.cloud/thms/talk/A879ZK/",
+                "title": "Einblicke in die Wettervorhersage",
+                "subtitle": "",
+                "track": "Workshop",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Ist das Wetter immer so unberechenbar wie es scheint? Was passiert in der Atmosph\u00e4re? Und wie k\u00f6nnt ihr selbst besser das Wetter vorhersagen?",
+                "description": "T\u00e4glich betrifft uns alle das Wetter. Aber was passiert eigentlich in der Atmosph\u00e4re? Um das zu verstehen wird in der synoptischen Meteorologie die Analyse *Wie ist das Wetter?* , die Diagnose *Warum ist das Wetter so?* und schlussendlich die Prognose *Wie wird das Wetter?* des Wetters betrachtet. Damit auch ihr das Wetter besser einsch\u00e4tzen k\u00f6nnt und nicht nur auf die Symbole in den Wetterapps angewiesen seid, m\u00f6chte ich euch erste Einblicke in die Wettervorhersage geben. Dazu gucken wir uns gemeinsam Wetterkarten an und geben einen Tipp (z.B. Temperatur, Luftdruck, Regenmenge) f\u00fcr den n\u00e4chsten Tag ab.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 27,
+                    "code": "Z8VADQ",
+                    "public_name": "Daniela Schoster",
+                    "biography": "Studentin MA Meteorologie",
                     "answers": []
                   }
                 ],
@@ -1522,107 +1522,6 @@
                 "attachments": []
               }
             ],
-            "PlankHackcenter": [],
-            "Johnson (Workshop 1)": [],
-            "Goldberg (Workshop 2)": [],
-            "THM Workshop": [
-              {
-                "id": 140,
-                "guid": "f6b73c1d-465f-540c-9854-26b8c0dcf645",
-                "logo": "/media/thms/images/VT87DH/Cadus_logo_camp_2.png",
-                "date": "2019-08-22T14:00:00+02:00",
-                "start": "14:00",
-                "duration": "01:00",
-                "room": "THM Workshop",
-                "slug": "VT87DH",
-                "url": "http://talx.thm.cloud/thms/talk/VT87DH/",
-                "title": "Meet CADUS! Humanitarian Aid goes Open Source",
-                "subtitle": "",
-                "track": "Workshop",
-                "type": "Talk",
-                "language": "en",
-                "abstract": "Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the \"consultation hours\" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.",
-                "description": "During this particular format of \"consultation hours\" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).\r\nConsultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 43,
-                    "code": "ZUGZGF",
-                    "public_name": "Corinna Cadus",
-                    "biography": "",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 120,
-                "guid": "3690343b-b02c-57a6-8c37-d82113a0843b",
-                "logo": "/media/thms/images/ZMERMD/photo_2019-07-18_18-58-45.jpg",
-                "date": "2019-08-22T15:15:00+02:00",
-                "start": "15:15",
-                "duration": "02:00",
-                "room": "THM Workshop",
-                "slug": "ZMERMD",
-                "url": "http://talx.thm.cloud/thms/talk/ZMERMD/",
-                "title": "werdeteildesgesamtwiderstandes",
-                "subtitle": "",
-                "track": "Workshop",
-                "type": "Workshop",
-                "language": "de",
-                "abstract": "werdeteildesgesamtwiderstandes ist eine Objekt gewordene Handlungsanweisung die dazu anregt sich mit anderen menschen zu verbinden. Im Workshop bauen wir diesen analogen synthesizer, jeder kann mitmachen, vorkenntnisse sind nicht erforderlich, f\u00fcr menschen ab 8.",
-                "description": "werdeteildesgesamtwiderstandes ist eine Objekt gewordene Handlungsanweisung die dazu anregt sich mit anderen menschen zu verbinden. \r\nwerdeteildesgesamtwiderstandes ist ein analoger Synthesizer bei dem du selber teil der Schaltung wirst,\r\nsobald seine beiden enden \u00fcber einen K\u00f6rperkontakt geschlossen werden, t\u00f6nt der gesamtwiderstand. die Tonh\u00f6he h\u00e4ngt dabei von der Anzahl der beteiligten Menschen ab. je mehr Teilnehmer*innen desto tiefer wird der Ton. du kannst den Gesamtwiderstand wie ein Instrument spielen, ein einfacher Rhythmus entsteht durch wiederholtes anfassen und loslassen. gleichzeitig bildet sich beim spielen ein kleines soziales Netzwerk mit der Besonderheit dass dieses Netzwerk ganz physisch ist und nicht virtuell. nur die haut leitet den Strom und nur durch anfassen entsteht der ton. dies ist in Zeiten virtueller sozialer Netzwerke ein erfrischendes Erlebnis das gro\u00dfen spa\u00df macht.\r\nmaximal 8 teilnehmer*innen, alter ab 8",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 29,
-                    "code": "3TMUJD",
-                    "public_name": "christian faubel",
-                    "biography": "Christian Faubel ist ein interdisziplin\u00e4rer Wissenschaftler und K\u00fcnstler. Er ist promovierter Elektroingenieur und hat von 2002-2012 am Institut f\u00fcr Neuroinformatik zu autonomen Systemen geforscht. Von 2012 bis 2018 war er Dozent an der Kunsthochschule f\u00fcr Medien K\u00f6ln im Bereich experimentelle Informatik. 2002 hat er das Kollektiv derstrudel, zur Vermittlung eines entspannten Zugangs zu Elektronik und Robotik, gegr\u00fcndet. Mit derstrudel hat er mehr als 50 Workshops zum Bau einfacher analoger Roboter im Rahmen internationaler Festivals durchgef\u00fchrt. In seiner k\u00fcnstlerischen Arbeit interessiert ihn was autonomes Verhalten erm\u00f6glicht und wie komplexes Verhalten aus dem Zusammenspiel und den Interaktionsdynamiken einfacher Elemente entstehen kann. Mit seinen Arbeiten macht er theoretische Konzepte wie Selbstorganisation, Emergenz oder Embodiment \u00e4sthetisch erfahrbar und sieht seine Arbeiten in der Tradition philosophischer Spielzeuge.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 123,
-                "guid": "30f4400a-23d9-5b81-9beb-875217813515",
-                "logo": "",
-                "date": "2019-08-22T18:30:00+02:00",
-                "start": "18:30",
-                "duration": "02:00",
-                "room": "THM Workshop",
-                "slug": "GHNDP7",
-                "url": "http://talx.thm.cloud/thms/talk/GHNDP7/",
-                "title": "analoge neuronale oszillatoren",
-                "subtitle": "",
-                "track": "Workshop",
-                "type": "Workshop",
-                "language": "en",
-                "abstract": "in dem workshop bauen teilnehmer*innen analoge neuronale schaltungen mit denen ein netzwerkmodell, wie es shun-ichi amari in den 70 er jahren entwickelt hat, realisiert wird.",
-                "description": "in dem workshop bauen teilnehmer*innen analoge neuronale schaltungen mit denen ein netzwerkmodell, wie es shun-ichi amari in den 70 er jahren entwickelt hat, realisiert wird.  Im workshop geht es darum ein gesp\u00fcr f\u00fcr die neuronalen netzen intrinsischen schwingungen zu entwickeln und mit diesen zu spielen und krach oder musik zu machen.\r\ngrundlage f\u00fcr den workshop sind sogenannte pop-neuronen schaltungen, die ich gemeinsam mit wolfgang\r\nspahn f\u00fcr eine k\u00fcnstlerische installation, symbolic grounding, entwickelt habe. hier ein kurzes video von einem fr\u00fcherem workshop https://vimeo.com/273578536, pop-neurone\r\nhttps://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 29,
-                    "code": "3TMUJD",
-                    "public_name": "christian faubel",
-                    "biography": "Christian Faubel ist ein interdisziplin\u00e4rer Wissenschaftler und K\u00fcnstler. Er ist promovierter Elektroingenieur und hat von 2002-2012 am Institut f\u00fcr Neuroinformatik zu autonomen Systemen geforscht. Von 2012 bis 2018 war er Dozent an der Kunsthochschule f\u00fcr Medien K\u00f6ln im Bereich experimentelle Informatik. 2002 hat er das Kollektiv derstrudel, zur Vermittlung eines entspannten Zugangs zu Elektronik und Robotik, gegr\u00fcndet. Mit derstrudel hat er mehr als 50 Workshops zum Bau einfacher analoger Roboter im Rahmen internationaler Festivals durchgef\u00fchrt. In seiner k\u00fcnstlerischen Arbeit interessiert ihn was autonomes Verhalten erm\u00f6glicht und wie komplexes Verhalten aus dem Zusammenspiel und den Interaktionsdynamiken einfacher Elemente entstehen kann. Mit seinen Arbeiten macht er theoretische Konzepte wie Selbstorganisation, Emergenz oder Embodiment \u00e4sthetisch erfahrbar und sieht seine Arbeiten in der Tradition philosophischer Spielzeuge.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              }
-            ],
             "Plank": [
               {
                 "id": 117,
@@ -1880,6 +1779,107 @@
                     "code": "CGVXUL",
                     "public_name": "skorpy",
                     "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "Hackcenter": [],
+            "Johnson (Workshop 1)": [],
+            "Goldberg (Workshop 2)": [],
+            "THM Workshop": [
+              {
+                "id": 140,
+                "guid": "f6b73c1d-465f-540c-9854-26b8c0dcf645",
+                "logo": "/media/thms/images/VT87DH/Cadus_logo_camp_2.png",
+                "date": "2019-08-22T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "01:00",
+                "room": "THM Workshop",
+                "slug": "VT87DH",
+                "url": "http://talx.thm.cloud/thms/talk/VT87DH/",
+                "title": "Meet CADUS! Humanitarian Aid goes Open Source",
+                "subtitle": "",
+                "track": "Workshop",
+                "type": "Talk",
+                "language": "en",
+                "abstract": "Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the \"consultation hours\" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.",
+                "description": "During this particular format of \"consultation hours\" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).\r\nConsultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 43,
+                    "code": "ZUGZGF",
+                    "public_name": "Corinna Cadus",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 120,
+                "guid": "3690343b-b02c-57a6-8c37-d82113a0843b",
+                "logo": "/media/thms/images/ZMERMD/photo_2019-07-18_18-58-45.jpg",
+                "date": "2019-08-22T15:15:00+02:00",
+                "start": "15:15",
+                "duration": "02:00",
+                "room": "THM Workshop",
+                "slug": "ZMERMD",
+                "url": "http://talx.thm.cloud/thms/talk/ZMERMD/",
+                "title": "werdeteildesgesamtwiderstandes",
+                "subtitle": "",
+                "track": "Workshop",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "werdeteildesgesamtwiderstandes ist eine Objekt gewordene Handlungsanweisung die dazu anregt sich mit anderen menschen zu verbinden. Im Workshop bauen wir diesen analogen synthesizer, jeder kann mitmachen, vorkenntnisse sind nicht erforderlich, f\u00fcr menschen ab 8.",
+                "description": "werdeteildesgesamtwiderstandes ist eine Objekt gewordene Handlungsanweisung die dazu anregt sich mit anderen menschen zu verbinden. \r\nwerdeteildesgesamtwiderstandes ist ein analoger Synthesizer bei dem du selber teil der Schaltung wirst,\r\nsobald seine beiden enden \u00fcber einen K\u00f6rperkontakt geschlossen werden, t\u00f6nt der gesamtwiderstand. die Tonh\u00f6he h\u00e4ngt dabei von der Anzahl der beteiligten Menschen ab. je mehr Teilnehmer*innen desto tiefer wird der Ton. du kannst den Gesamtwiderstand wie ein Instrument spielen, ein einfacher Rhythmus entsteht durch wiederholtes anfassen und loslassen. gleichzeitig bildet sich beim spielen ein kleines soziales Netzwerk mit der Besonderheit dass dieses Netzwerk ganz physisch ist und nicht virtuell. nur die haut leitet den Strom und nur durch anfassen entsteht der ton. dies ist in Zeiten virtueller sozialer Netzwerke ein erfrischendes Erlebnis das gro\u00dfen spa\u00df macht.\r\nmaximal 8 teilnehmer*innen, alter ab 8",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 29,
+                    "code": "3TMUJD",
+                    "public_name": "christian faubel",
+                    "biography": "Christian Faubel ist ein interdisziplin\u00e4rer Wissenschaftler und K\u00fcnstler. Er ist promovierter Elektroingenieur und hat von 2002-2012 am Institut f\u00fcr Neuroinformatik zu autonomen Systemen geforscht. Von 2012 bis 2018 war er Dozent an der Kunsthochschule f\u00fcr Medien K\u00f6ln im Bereich experimentelle Informatik. 2002 hat er das Kollektiv derstrudel, zur Vermittlung eines entspannten Zugangs zu Elektronik und Robotik, gegr\u00fcndet. Mit derstrudel hat er mehr als 50 Workshops zum Bau einfacher analoger Roboter im Rahmen internationaler Festivals durchgef\u00fchrt. In seiner k\u00fcnstlerischen Arbeit interessiert ihn was autonomes Verhalten erm\u00f6glicht und wie komplexes Verhalten aus dem Zusammenspiel und den Interaktionsdynamiken einfacher Elemente entstehen kann. Mit seinen Arbeiten macht er theoretische Konzepte wie Selbstorganisation, Emergenz oder Embodiment \u00e4sthetisch erfahrbar und sieht seine Arbeiten in der Tradition philosophischer Spielzeuge.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 123,
+                "guid": "30f4400a-23d9-5b81-9beb-875217813515",
+                "logo": "",
+                "date": "2019-08-22T18:30:00+02:00",
+                "start": "18:30",
+                "duration": "02:00",
+                "room": "THM Workshop",
+                "slug": "GHNDP7",
+                "url": "http://talx.thm.cloud/thms/talk/GHNDP7/",
+                "title": "analoge neuronale oszillatoren",
+                "subtitle": "",
+                "track": "Workshop",
+                "type": "Workshop",
+                "language": "en",
+                "abstract": "in dem workshop bauen teilnehmer*innen analoge neuronale schaltungen mit denen ein netzwerkmodell, wie es shun-ichi amari in den 70 er jahren entwickelt hat, realisiert wird.",
+                "description": "in dem workshop bauen teilnehmer*innen analoge neuronale schaltungen mit denen ein netzwerkmodell, wie es shun-ichi amari in den 70 er jahren entwickelt hat, realisiert wird.  Im workshop geht es darum ein gesp\u00fcr f\u00fcr die neuronalen netzen intrinsischen schwingungen zu entwickeln und mit diesen zu spielen und krach oder musik zu machen.\r\ngrundlage f\u00fcr den workshop sind sogenannte pop-neuronen schaltungen, die ich gemeinsam mit wolfgang\r\nspahn f\u00fcr eine k\u00fcnstlerische installation, symbolic grounding, entwickelt habe. hier ein kurzes video von einem fr\u00fcherem workshop https://vimeo.com/273578536, pop-neurone\r\nhttps://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 29,
+                    "code": "3TMUJD",
+                    "public_name": "christian faubel",
+                    "biography": "Christian Faubel ist ein interdisziplin\u00e4rer Wissenschaftler und K\u00fcnstler. Er ist promovierter Elektroingenieur und hat von 2002-2012 am Institut f\u00fcr Neuroinformatik zu autonomen Systemen geforscht. Von 2012 bis 2018 war er Dozent an der Kunsthochschule f\u00fcr Medien K\u00f6ln im Bereich experimentelle Informatik. 2002 hat er das Kollektiv derstrudel, zur Vermittlung eines entspannten Zugangs zu Elektronik und Robotik, gegr\u00fcndet. Mit derstrudel hat er mehr als 50 Workshops zum Bau einfacher analoger Roboter im Rahmen internationaler Festivals durchgef\u00fchrt. In seiner k\u00fcnstlerischen Arbeit interessiert ihn was autonomes Verhalten erm\u00f6glicht und wie komplexes Verhalten aus dem Zusammenspiel und den Interaktionsdynamiken einfacher Elemente entstehen kann. Mit seinen Arbeiten macht er theoretische Konzepte wie Selbstorganisation, Emergenz oder Embodiment \u00e4sthetisch erfahrbar und sieht seine Arbeiten in der Tradition philosophischer Spielzeuge.",
                     "answers": []
                   }
                 ],
@@ -2498,121 +2498,6 @@
                 "attachments": []
               }
             ],
-            "PlankHackcenter": [],
-            "Johnson (Workshop 1)": [],
-            "Goldberg (Workshop 2)": [],
-            "THM Workshop": [
-              {
-                "id": 140,
-                "guid": "f6b73c1d-465f-540c-9854-26b8c0dcf645",
-                "logo": "/media/thms/images/VT87DH/Cadus_logo_camp_2.png",
-                "date": "2019-08-23T14:00:00+02:00",
-                "start": "14:00",
-                "duration": "01:00",
-                "room": "THM Workshop",
-                "slug": "VT87DH",
-                "url": "http://talx.thm.cloud/thms/talk/VT87DH/",
-                "title": "Meet CADUS! Humanitarian Aid goes Open Source",
-                "subtitle": "",
-                "track": "Workshop",
-                "type": "Talk",
-                "language": "en",
-                "abstract": "Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the \"consultation hours\" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.",
-                "description": "During this particular format of \"consultation hours\" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).\r\nConsultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 43,
-                    "code": "ZUGZGF",
-                    "public_name": "Corinna Cadus",
-                    "biography": "",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 131,
-                "guid": "8437e8a0-e99a-5e16-81d6-81a1cab2fc59",
-                "logo": "/media/thms/images/QX7DQP/Screenshot_2019-08-17_at_21.30.45.png",
-                "date": "2019-08-23T15:15:00+02:00",
-                "start": "15:15",
-                "duration": "02:00",
-                "room": "THM Workshop",
-                "slug": "QX7DQP",
-                "url": "http://talx.thm.cloud/thms/talk/QX7DQP/",
-                "title": "Finding insecure third-party librarys in dependencies, containers, APIs (OWASP Top10 - A9)",
-                "subtitle": "",
-                "track": "Workshop",
-                "type": "Workshop",
-                "language": "en",
-                "abstract": "The OWASP Top Ten project lists the top 10 (web) application security risks. In this Workshop we will take a close look at number 9: \"Using Components With Known Vulnerabilities\".\r\n\r\nwe will try to use (open source) tooling to find known vulnerabilities in 3rd party libraries, containers and APIs, then take a look at how we can automate those tools in our ci/cd pipelines\r\nyou don't need to know about security or vulnerability management to do the workshop, we will cover the basics and you can a lot on the way",
-                "description": "workshop will feature the following Tools:\r\n- OWASP dependency-check (workshop will focus on java/maven/gradle, but feel free bring your own languages and dependencies so i can learn something too:) )\r\n- CoreOS Clair for container scanning\r\n- OWASP Zap for API scanning (technically not A9, but many the others;) )\r\n\r\nif we have time (or if you're interested after the actual workshop) we can further discuss how we can shape the process of fixing said vulnerabilities in our daily dev/ops/x jobs (or we can just rant about security over some beers)\r\n\r\nwe speak english and german, so dont be scared if your english is not too good. we will get along :-)\r\n\r\nthis workshop will be the hands-on counterpart to my talk on Thursday, 14:00 in Curie (Tent 1)\r\nhttps://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10181.html",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 35,
-                    "code": "YYBHKY",
-                    "public_name": "cy",
-                    "biography": "system developer, i love cloud, automation, testing, security\r\n\r\ni will camp here: https://events.ccc.de/camp/2019/wiki/Village:Faken_bis_es_rult\r\ni might be reachable on eventphone: -CY4N (-2946)",
-                    "answers": []
-                  },
-                  {
-                    "id": 46,
-                    "code": "UY8TSA",
-                    "public_name": "honnel",
-                    "biography": "",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 121,
-                "guid": "54e38754-23b1-5d62-8554-77c9aea7180a",
-                "logo": "",
-                "date": "2019-08-23T18:45:00+02:00",
-                "start": "18:45",
-                "duration": "01:00",
-                "room": "THM Workshop",
-                "slug": "PGL9WK",
-                "url": "http://talx.thm.cloud/thms/talk/PGL9WK/",
-                "title": "Introduction to Lindy Hop / Swing Dance",
-                "subtitle": "",
-                "track": "Entertainment",
-                "type": "Entertainment",
-                "language": "en",
-                "abstract": "A brief introduction to Lindy Hop dancing for beginners.",
-                "description": "We want to teach you a little bit of Lindy Hop. It is a couple dance that originates in the 1920s in New York, today there's a world-wide scene of Lindy Hop dancers. We'll teach you some basic moves.\r\n\r\nNo dance partner and no previous dancing experience is required. Everyone will learn to dance both roles - following and leading.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 30,
-                    "code": "XHVTCZ",
-                    "public_name": "zitro",
-                    "biography": "",
-                    "answers": []
-                  },
-                  {
-                    "id": 31,
-                    "code": "3AZWLV",
-                    "public_name": "hanno",
-                    "biography": "Hanno B\u00f6ck is a hacker and freelance journalist.\r\nHe is a regular writer for the German online IT magazine Golem.de and writes the monthly Bulletproof TLS Newsletter.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              }
-            ],
             "Plank": [
               {
                 "id": 152,
@@ -2895,6 +2780,121 @@
                     "code": "T9CNKN",
                     "public_name": "Bassplorers",
                     "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "Hackcenter": [],
+            "Johnson (Workshop 1)": [],
+            "Goldberg (Workshop 2)": [],
+            "THM Workshop": [
+              {
+                "id": 140,
+                "guid": "f6b73c1d-465f-540c-9854-26b8c0dcf645",
+                "logo": "/media/thms/images/VT87DH/Cadus_logo_camp_2.png",
+                "date": "2019-08-23T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "01:00",
+                "room": "THM Workshop",
+                "slug": "VT87DH",
+                "url": "http://talx.thm.cloud/thms/talk/VT87DH/",
+                "title": "Meet CADUS! Humanitarian Aid goes Open Source",
+                "subtitle": "",
+                "track": "Workshop",
+                "type": "Talk",
+                "language": "en",
+                "abstract": "Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the \"consultation hours\" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.",
+                "description": "During this particular format of \"consultation hours\" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).\r\nConsultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 43,
+                    "code": "ZUGZGF",
+                    "public_name": "Corinna Cadus",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 131,
+                "guid": "8437e8a0-e99a-5e16-81d6-81a1cab2fc59",
+                "logo": "/media/thms/images/QX7DQP/Screenshot_2019-08-17_at_21.30.45.png",
+                "date": "2019-08-23T15:15:00+02:00",
+                "start": "15:15",
+                "duration": "02:00",
+                "room": "THM Workshop",
+                "slug": "QX7DQP",
+                "url": "http://talx.thm.cloud/thms/talk/QX7DQP/",
+                "title": "Finding insecure third-party librarys in dependencies, containers, APIs (OWASP Top10 - A9)",
+                "subtitle": "",
+                "track": "Workshop",
+                "type": "Workshop",
+                "language": "en",
+                "abstract": "The OWASP Top Ten project lists the top 10 (web) application security risks. In this Workshop we will take a close look at number 9: \"Using Components With Known Vulnerabilities\".\r\n\r\nwe will try to use (open source) tooling to find known vulnerabilities in 3rd party libraries, containers and APIs, then take a look at how we can automate those tools in our ci/cd pipelines\r\nyou don't need to know about security or vulnerability management to do the workshop, we will cover the basics and you can a lot on the way",
+                "description": "workshop will feature the following Tools:\r\n- OWASP dependency-check (workshop will focus on java/maven/gradle, but feel free bring your own languages and dependencies so i can learn something too:) )\r\n- CoreOS Clair for container scanning\r\n- OWASP Zap for API scanning (technically not A9, but many the others;) )\r\n\r\nif we have time (or if you're interested after the actual workshop) we can further discuss how we can shape the process of fixing said vulnerabilities in our daily dev/ops/x jobs (or we can just rant about security over some beers)\r\n\r\nwe speak english and german, so dont be scared if your english is not too good. we will get along :-)\r\n\r\nthis workshop will be the hands-on counterpart to my talk on Thursday, 14:00 in Curie (Tent 1)\r\nhttps://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10181.html",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 35,
+                    "code": "YYBHKY",
+                    "public_name": "cy",
+                    "biography": "system developer, i love cloud, automation, testing, security\r\n\r\ni will camp here: https://events.ccc.de/camp/2019/wiki/Village:Faken_bis_es_rult\r\ni might be reachable on eventphone: -CY4N (-2946)",
+                    "answers": []
+                  },
+                  {
+                    "id": 46,
+                    "code": "UY8TSA",
+                    "public_name": "honnel",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 121,
+                "guid": "54e38754-23b1-5d62-8554-77c9aea7180a",
+                "logo": "",
+                "date": "2019-08-23T18:45:00+02:00",
+                "start": "18:45",
+                "duration": "01:00",
+                "room": "THM Workshop",
+                "slug": "PGL9WK",
+                "url": "http://talx.thm.cloud/thms/talk/PGL9WK/",
+                "title": "Introduction to Lindy Hop / Swing Dance",
+                "subtitle": "",
+                "track": "Entertainment",
+                "type": "Entertainment",
+                "language": "en",
+                "abstract": "A brief introduction to Lindy Hop dancing for beginners.",
+                "description": "We want to teach you a little bit of Lindy Hop. It is a couple dance that originates in the 1920s in New York, today there's a world-wide scene of Lindy Hop dancers. We'll teach you some basic moves.\r\n\r\nNo dance partner and no previous dancing experience is required. Everyone will learn to dance both roles - following and leading.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 30,
+                    "code": "XHVTCZ",
+                    "public_name": "zitro",
+                    "biography": "",
+                    "answers": []
+                  },
+                  {
+                    "id": 31,
+                    "code": "3AZWLV",
+                    "public_name": "hanno",
+                    "biography": "Hanno B\u00f6ck is a hacker and freelance journalist.\r\nHe is a regular writer for the German online IT magazine Golem.de and writes the monthly Bulletproof TLS Newsletter.",
                     "answers": []
                   }
                 ],
@@ -3427,107 +3427,6 @@
                 "attachments": []
               }
             ],
-            "PlankHackcenter": [],
-            "Johnson (Workshop 1)": [],
-            "Goldberg (Workshop 2)": [],
-            "THM Workshop": [
-              {
-                "id": 155,
-                "guid": "0be7b345-e2aa-5d94-ba3e-674f3b9b0aea",
-                "logo": "",
-                "date": "2019-08-24T11:00:00+02:00",
-                "start": "11:00",
-                "duration": "01:00",
-                "room": "THM Workshop",
-                "slug": "ARNTML",
-                "url": "http://talx.thm.cloud/thms/talk/ARNTML/",
-                "title": "Re-boot yourself! (tbc)",
-                "subtitle": "",
-                "track": "Workshop",
-                "type": "Entertainment",
-                "language": "de",
-                "abstract": "Yoga f\u00fcr diejenigen, die bisher haupts\u00e4chlich die Computer-Asana praktizieren. Auf deutsch, bei Bedarf auch Englisch. (Asana= (sitzende) K\u00f6rperstellung im Yoga)\r\nYoga for people who practice Computer Asana most of the time. In German, english as needed. (asana = (sitting) body posture in Yoga)",
-                "description": "Yoga / Lockerungs\u00fcbungen \r\nDa ihr ja eh alle immer ein Handtuch dabei habt, braucht ihr nichts mitbringen. :) \r\nAber wenn vorhanden: Matte oder Decke... \r\nBei gutem Wetter im Freien; bei schlechtem im Zelt.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 63,
-                    "code": "KGEVE9",
-                    "public_name": "Neelke",
-                    "biography": null,
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 140,
-                "guid": "f6b73c1d-465f-540c-9854-26b8c0dcf645",
-                "logo": "/media/thms/images/VT87DH/Cadus_logo_camp_2.png",
-                "date": "2019-08-24T14:00:00+02:00",
-                "start": "14:00",
-                "duration": "01:00",
-                "room": "THM Workshop",
-                "slug": "VT87DH",
-                "url": "http://talx.thm.cloud/thms/talk/VT87DH/",
-                "title": "Meet CADUS! Humanitarian Aid goes Open Source",
-                "subtitle": "",
-                "track": "Workshop",
-                "type": "Talk",
-                "language": "en",
-                "abstract": "Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the \"consultation hours\" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.",
-                "description": "During this particular format of \"consultation hours\" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).\r\nConsultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 43,
-                    "code": "ZUGZGF",
-                    "public_name": "Corinna Cadus",
-                    "biography": "",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 125,
-                "guid": "730b9a78-233a-5fc2-bd47-a64a582e8466",
-                "logo": "/media/thms/images/8NG8AA/Gameboy_Music_Workshop_2011_a.JPG",
-                "date": "2019-08-24T15:15:00+02:00",
-                "start": "15:15",
-                "duration": "02:00",
-                "room": "THM Workshop",
-                "slug": "8NG8AA",
-                "url": "http://talx.thm.cloud/thms/talk/8NG8AA/",
-                "title": "Gameboy Musik Workshop",
-                "subtitle": "",
-                "track": "Workshop",
-                "type": "Workshop",
-                "language": "de",
-                "abstract": "Ein Einsteiger-Workshop f\u00fcr alle die schon immer mal Musik mit Gameboys machen wollten.",
-                "description": "Chiptune - oder Musik erzeugt von Soundchips alter Computer, Konsolen und Handhelds ben\u00f6tigt heute keine detaillierten Kenntnisse mehr von Hardware und Assemblersprache. Der Liveact irq7 zeigt wie man einem Gameboy Sounds entlockt und erste Loops damit komponiert. Daf\u00fcr sind keine Vorkenntnisse n\u00f6tig - alles was ihr braucht gibt's beim Workshop. Gerne darf man nat\u00fcrlich Kopfh\u00f6rer und den eigenen Gameboy mitbringen.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 32,
-                    "code": "U8GPQ7",
-                    "public_name": "Hannes Fertala",
-                    "biography": "Hannes Fertala ist seit mehreren Jahren in der Chiptune-Szene als Gameboy-Liveact 'irq7' aktiv. Der erste Kontakt zu dieser Art von Musik kam 2003 durch ein Konzert des Gameboymusicclub's in Graz zustande. Daraufhin folgt der Kauf den ersten Gameboys und dann schlie\u00dflich das erste Konzert im Jahr 2006. Davor ein \u00fcberzeugter Fan des Commodore 64 \u2013 Sounds und sammeln erster Erfahrungen mit Tracker-Software am Amiga.\r\nUm noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys selbst zu modifizieren und erweitern. Alle Aktivit\u00e4ten werden seither auf seinem Blog (http://irq7.blogspot.com) ver\u00f6ffentlicht. Des Weiteren ist er seit 2010 Mitorganisator des j\u00e4hrlichen Chiptune-Festivals CHIP HITS THE FAN (http://chiphitsthefan.de) in N\u00fcrnberg.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              }
-            ],
             "Plank": [
               {
                 "id": 111,
@@ -3717,6 +3616,107 @@
                     "code": "TMXW3G",
                     "public_name": "THM Lounge",
                     "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "Hackcenter": [],
+            "Johnson (Workshop 1)": [],
+            "Goldberg (Workshop 2)": [],
+            "THM Workshop": [
+              {
+                "id": 155,
+                "guid": "0be7b345-e2aa-5d94-ba3e-674f3b9b0aea",
+                "logo": "",
+                "date": "2019-08-24T11:00:00+02:00",
+                "start": "11:00",
+                "duration": "01:00",
+                "room": "THM Workshop",
+                "slug": "ARNTML",
+                "url": "http://talx.thm.cloud/thms/talk/ARNTML/",
+                "title": "Re-boot yourself! (tbc)",
+                "subtitle": "",
+                "track": "Workshop",
+                "type": "Entertainment",
+                "language": "de",
+                "abstract": "Yoga f\u00fcr diejenigen, die bisher haupts\u00e4chlich die Computer-Asana praktizieren. Auf deutsch, bei Bedarf auch Englisch. (Asana= (sitzende) K\u00f6rperstellung im Yoga)\r\nYoga for people who practice Computer Asana most of the time. In German, english as needed. (asana = (sitting) body posture in Yoga)",
+                "description": "Yoga / Lockerungs\u00fcbungen \r\nDa ihr ja eh alle immer ein Handtuch dabei habt, braucht ihr nichts mitbringen. :) \r\nAber wenn vorhanden: Matte oder Decke... \r\nBei gutem Wetter im Freien; bei schlechtem im Zelt.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 63,
+                    "code": "KGEVE9",
+                    "public_name": "Neelke",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 140,
+                "guid": "f6b73c1d-465f-540c-9854-26b8c0dcf645",
+                "logo": "/media/thms/images/VT87DH/Cadus_logo_camp_2.png",
+                "date": "2019-08-24T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "01:00",
+                "room": "THM Workshop",
+                "slug": "VT87DH",
+                "url": "http://talx.thm.cloud/thms/talk/VT87DH/",
+                "title": "Meet CADUS! Humanitarian Aid goes Open Source",
+                "subtitle": "",
+                "track": "Workshop",
+                "type": "Talk",
+                "language": "en",
+                "abstract": "Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the \"consultation hours\" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.",
+                "description": "During this particular format of \"consultation hours\" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).\r\nConsultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 43,
+                    "code": "ZUGZGF",
+                    "public_name": "Corinna Cadus",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 125,
+                "guid": "730b9a78-233a-5fc2-bd47-a64a582e8466",
+                "logo": "/media/thms/images/8NG8AA/Gameboy_Music_Workshop_2011_a.JPG",
+                "date": "2019-08-24T15:15:00+02:00",
+                "start": "15:15",
+                "duration": "02:00",
+                "room": "THM Workshop",
+                "slug": "8NG8AA",
+                "url": "http://talx.thm.cloud/thms/talk/8NG8AA/",
+                "title": "Gameboy Musik Workshop",
+                "subtitle": "",
+                "track": "Workshop",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Ein Einsteiger-Workshop f\u00fcr alle die schon immer mal Musik mit Gameboys machen wollten.",
+                "description": "Chiptune - oder Musik erzeugt von Soundchips alter Computer, Konsolen und Handhelds ben\u00f6tigt heute keine detaillierten Kenntnisse mehr von Hardware und Assemblersprache. Der Liveact irq7 zeigt wie man einem Gameboy Sounds entlockt und erste Loops damit komponiert. Daf\u00fcr sind keine Vorkenntnisse n\u00f6tig - alles was ihr braucht gibt's beim Workshop. Gerne darf man nat\u00fcrlich Kopfh\u00f6rer und den eigenen Gameboy mitbringen.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 32,
+                    "code": "U8GPQ7",
+                    "public_name": "Hannes Fertala",
+                    "biography": "Hannes Fertala ist seit mehreren Jahren in der Chiptune-Szene als Gameboy-Liveact 'irq7' aktiv. Der erste Kontakt zu dieser Art von Musik kam 2003 durch ein Konzert des Gameboymusicclub's in Graz zustande. Daraufhin folgt der Kauf den ersten Gameboys und dann schlie\u00dflich das erste Konzert im Jahr 2006. Davor ein \u00fcberzeugter Fan des Commodore 64 \u2013 Sounds und sammeln erster Erfahrungen mit Tracker-Software am Amiga.\r\nUm noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys selbst zu modifizieren und erweitern. Alle Aktivit\u00e4ten werden seither auf seinem Blog (http://irq7.blogspot.com) ver\u00f6ffentlicht. Des Weiteren ist er seit 2010 Mitorganisator des j\u00e4hrlichen Chiptune-Festivals CHIP HITS THE FAN (http://chiphitsthefan.de) in N\u00fcrnberg.",
                     "answers": []
                   }
                 ],
@@ -4009,10 +4009,6 @@
                 "attachments": []
               }
             ],
-            "PlankHackcenter": [],
-            "Johnson (Workshop 1)": [],
-            "Goldberg (Workshop 2)": [],
-            "THM Workshop": [],
             "Plank": [
               {
                 "id": 166,
@@ -4174,7 +4170,11 @@
                 "attachments": [],
                 "answers": []
               }
-            ]
+            ],
+            "Hackcenter": [],
+            "Johnson (Workshop 1)": [],
+            "Goldberg (Workshop 2)": [],
+            "THM Workshop": []
           }
         }
       ]

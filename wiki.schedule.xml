@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-19 17:34</version>
+  <version>2019-08-19 17:46</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -10,7 +10,31 @@
     <base_url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/</base_url>
   </conference>
   <day index="1" date="2019-08-21" start="2019-08-21T09:00:00+02:00" end="2019-08-22T04:00:00+02:00">
-    <room name="PlankHackcenter"/>
+    <room name="Plank"/>
+    <room name="Hackcenter">
+      <event id="1233" guid="f5d15859-c9b5-44c8-8565-cb22daacedc8">
+        <logo/>
+        <date>2019-08-21T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1233-session_susi_ai_open_source_voice_assistant</slug>
+        <title>SUSI.AI Open Source Voice Assistant</title>
+        <subtitle>Learn about SUSI.AI and how to build your own smart speaker</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:MarioB">MarioB</person>
+        </persons>
+        <links>
+          <link>https://susi.ai</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant</link>
+        </links>
+      </event>
+    </room>
     <room name="Johnson (Workshop 1)">
       <event id="1284" guid="f4fa97e9-c253-4eb2-8695-83addfc593ea">
         <logo/>
@@ -176,6 +200,29 @@
         <persons/>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:Wie_funktioniert_ein_Sicherheitsgurt</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Chaos-West">
+      <event id="1313" guid="7f6c411b-c418-42d5-bc0a-c1514aa2e687">
+        <logo/>
+        <date>2019-08-21T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Village:Chaos-West</room>
+        <slug>camp2019-1313-session_board_meeting</slug>
+        <title>Board Meeting</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>Meetup for e-longboards and related e-vehicles</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Rnbwdsh">Rnbwdsh</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Board_Meeting</link>
         </links>
       </event>
     </room>
@@ -733,30 +780,6 @@
         </links>
       </event>
     </room>
-    <room name="Hackcenter">
-      <event id="1233" guid="f5d15859-c9b5-44c8-8565-cb22daacedc8">
-        <logo/>
-        <date>2019-08-21T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Hackcenter</room>
-        <slug>camp2019-1233-session_susi_ai_open_source_voice_assistant</slug>
-        <title>SUSI.AI Open Source Voice Assistant</title>
-        <subtitle>Learn about SUSI.AI and how to build your own smart speaker</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.</description>
-        <persons>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:MarioB">MarioB</person>
-        </persons>
-        <links>
-          <link>https://susi.ai</link>
-          <link>//events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant</link>
-        </links>
-      </event>
-    </room>
     <room name="Village:RoboVillage">
       <event id="1238" guid="ff0380fa-659f-4f84-b2c5-2dca4bf145ff">
         <logo/>
@@ -855,7 +878,8 @@
     </room>
   </day>
   <day index="2" date="2019-08-22" start="2019-08-22T09:00:00+02:00" end="2019-08-23T04:00:00+02:00">
-    <room name="PlankHackcenter"/>
+    <room name="Plank"/>
+    <room name="Hackcenter"/>
     <room name="Johnson (Workshop 1)">
       <event id="1045" guid="886dfb0c-900f-47e1-bcb2-a5dc14c09a10">
         <logo/>
@@ -2037,7 +2061,51 @@
     </room>
   </day>
   <day index="3" date="2019-08-23" start="2019-08-23T09:00:00+02:00" end="2019-08-24T04:00:00+02:00">
-    <room name="PlankHackcenter"/>
+    <room name="Plank"/>
+    <room name="Hackcenter">
+      <event id="1041" guid="7976438d-2b1a-4303-96f5-d6846c9f42f6">
+        <logo/>
+        <date>2019-08-23T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>2:00</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1041-session_bodymind_operating_system</slug>
+        <title>Bodymind Operating System</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Physical practice session where we explore the notions of hacking through the human body.</description>
+        <persons/>
+        <links>
+          <link>http://www.8os.io</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Bodymind_Operating_System</link>
+        </links>
+      </event>
+      <event id="1232" guid="fe13b901-cc23-4258-91cb-631e29cebe39">
+        <logo/>
+        <date>2019-08-23T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1232-session_susi_ai_open_source_voice_assistant</slug>
+        <title>SUSI.AI Open Source Voice Assistant</title>
+        <subtitle>Learn about SUSI.AI and how to build your own smart speaker</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:MarioB">MarioB</person>
+        </persons>
+        <links>
+          <link>https://susi.ai</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant</link>
+        </links>
+      </event>
+    </room>
     <room name="Johnson (Workshop 1)"/>
     <room name="Goldberg (Workshop 2)">
       <event id="1296" guid="4a5e8ab5-afa7-4bcd-9260-bf4ba79f1814">
@@ -2300,50 +2368,6 @@
         <links>
           <link>http://scottishconsulate.org</link>
           <link>//events.ccc.de/camp/2019/wiki/Session:Scottish_Drinking_Night</link>
-        </links>
-      </event>
-    </room>
-    <room name="Hackcenter">
-      <event id="1041" guid="7976438d-2b1a-4303-96f5-d6846c9f42f6">
-        <logo/>
-        <date>2019-08-23T17:30:00+02:00</date>
-        <start>17:30</start>
-        <duration>2:00</duration>
-        <room>Hackcenter</room>
-        <slug>camp2019-1041-session_bodymind_operating_system</slug>
-        <title>Bodymind Operating System</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Physical practice session where we explore the notions of hacking through the human body.</description>
-        <persons/>
-        <links>
-          <link>http://www.8os.io</link>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Bodymind_Operating_System</link>
-        </links>
-      </event>
-      <event id="1232" guid="fe13b901-cc23-4258-91cb-631e29cebe39">
-        <logo/>
-        <date>2019-08-23T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Hackcenter</room>
-        <slug>camp2019-1232-session_susi_ai_open_source_voice_assistant</slug>
-        <title>SUSI.AI Open Source Voice Assistant</title>
-        <subtitle>Learn about SUSI.AI and how to build your own smart speaker</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.</description>
-        <persons>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:MarioB">MarioB</person>
-        </persons>
-        <links>
-          <link>https://susi.ai</link>
-          <link>//events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant</link>
         </links>
       </event>
     </room>
@@ -3059,7 +3083,29 @@
     </room>
   </day>
   <day index="4" date="2019-08-24" start="2019-08-24T09:00:00+02:00" end="2019-08-25T04:00:00+02:00">
-    <room name="PlankHackcenter"/>
+    <room name="Plank"/>
+    <room name="Hackcenter">
+      <event id="1040" guid="6ad28881-1413-46a4-837a-315359e19aeb">
+        <logo/>
+        <date>2019-08-24T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>2:00</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1040-session_body_mind_hardware_software</slug>
+        <title>Body/Mind Hardware/Software</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>EightOS bodymind operating system</description>
+        <persons/>
+        <links>
+          <link>http://www.8os.io</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Body/Mind_Hardware/Software</link>
+        </links>
+      </event>
+    </room>
     <room name="Johnson (Workshop 1)">
       <event id="1197" guid="c8804eab-dadd-4307-ab8c-e19f4a5d769f">
         <logo/>
@@ -3406,28 +3452,6 @@
         </persons>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners_-_electronic_kitten_EXPERIMENTAL_WORKSHOP</link>
-        </links>
-      </event>
-    </room>
-    <room name="Hackcenter">
-      <event id="1040" guid="6ad28881-1413-46a4-837a-315359e19aeb">
-        <logo/>
-        <date>2019-08-24T18:00:00+02:00</date>
-        <start>18:00</start>
-        <duration>2:00</duration>
-        <room>Hackcenter</room>
-        <slug>camp2019-1040-session_body_mind_hardware_software</slug>
-        <title>Body/Mind Hardware/Software</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>EightOS bodymind operating system</description>
-        <persons/>
-        <links>
-          <link>http://www.8os.io</link>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Body/Mind_Hardware/Software</link>
         </links>
       </event>
     </room>
@@ -3863,7 +3887,8 @@
     </room>
   </day>
   <day index="5" date="2019-08-25" start="2019-08-25T09:00:00+02:00" end="2019-08-26T04:00:00+02:00">
-    <room name="PlankHackcenter"/>
+    <room name="Plank"/>
+    <room name="Hackcenter"/>
     <room name="Johnson (Workshop 1)"/>
     <room name="Goldberg (Workshop 2)"/>
     <room name="THM Workshop"/>
