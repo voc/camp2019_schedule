@@ -1,0 +1,28 @@
+{
+  "id": 1322,
+  "guid": "ae547302-6b4b-4ea9-ade9-51a495ac1b82",
+  "logo": null,
+  "date": "2019-08-22T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "2:00",
+  "room": "Village:Haecksen",
+  "slug": "camp2019-1322-session_fnit_vernetzungsworkshop",
+  "title": "FNIT Vernetzungsworkshop",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "de",
+  "abstract": "",
+  "description": "Vernetzungsworkshop der FNIT Gruppen im CCC Raum",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Melzai",
+      "public_name": "Melzai"
+    }
+  ],
+  "links": [
+    "http://haecksen.org",
+    "//events.ccc.de/camp/2019/wiki/Session:FNIT_Vernetzungsworkshop"
+  ]
+}

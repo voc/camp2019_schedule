@@ -1,0 +1,28 @@
+{
+  "id": 1323,
+  "guid": "771c1caa-1c3f-4f50-bdd6-4133d2a9dd53",
+  "logo": null,
+  "date": "2019-08-23T11:00:00+02:00",
+  "start": "11:00",
+  "duration": "1:30",
+  "room": "Village:Haecksen",
+  "slug": "camp2019-1323-session_haeckenfryhstyck",
+  "title": "Haeckenfryhstyck",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "de",
+  "abstract": "",
+  "description": "Haecksenfryhstyck",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Janepie",
+      "public_name": "Janepie"
+    }
+  ],
+  "links": [
+    "http://haecksen.org",
+    "//events.ccc.de/camp/2019/wiki/Session:Haeckenfryhstyck"
+  ]
+}

@@ -3363,30 +3363,29 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
         </links>
       </event>
     </room>
-    <room name="Village:Free Software Foundation Europe">
-      <event id="1254" guid="ecfcf7e9-5341-4ca3-ab75-f18882f6cb36">
+    <room name="Village:Haecksen">
+      <event id="1322" guid="ae547302-6b4b-4ea9-ade9-51a495ac1b82">
         <logo/>
-        <date>2019-08-22T19:30:00+02:00</date>
-        <start>19:30</start>
-        <duration>0:10</duration>
-        <room>Village:Free Software Foundation Europe</room>
-        <slug>camp2019-1254-session_free_software_song_sing_along</slug>
-        <title>Free Software Song sing-along</title>
-        <subtitle>ad-hoc choir</subtitle>
+        <date>2019-08-22T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1322-session_fnit_vernetzungsworkshop</slug>
+        <title>FNIT Vernetzungsworkshop</title>
+        <subtitle/>
         <track>self organized sessions</track>
-        <type>other</type>
-        <language>en</language>
+        <type>meeting</type>
+        <language>de</language>
         <abstract/>
-        <description>Everyday at 19:30 in the Cluster about:freedom we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!</description>
+        <description>Vernetzungsworkshop der FNIT Gruppen im CCC Raum</description>
         <persons>
-          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Eal">Eal</person>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Melzai">Melzai</person>
         </persons>
         <links>
-          <link>//events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along</link>
+          <link>http://haecksen.org</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:FNIT_Vernetzungsworkshop</link>
         </links>
       </event>
-    </room>
-    <room name="Village:Haecksen">
       <event id="1278" guid="b2a39864-a9b3-4026-82c9-6398c858864f">
         <logo/>
         <date>2019-08-22T22:00:00+02:00</date>
@@ -3425,6 +3424,29 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
         </persons>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:Pseudo-Yoga</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Free Software Foundation Europe">
+      <event id="1254" guid="ecfcf7e9-5341-4ca3-ab75-f18882f6cb36">
+        <logo/>
+        <date>2019-08-22T19:30:00+02:00</date>
+        <start>19:30</start>
+        <duration>0:10</duration>
+        <room>Village:Free Software Foundation Europe</room>
+        <slug>camp2019-1254-session_free_software_song_sing_along</slug>
+        <title>Free Software Song sing-along</title>
+        <subtitle>ad-hoc choir</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>en</language>
+        <abstract/>
+        <description>Everyday at 19:30 in the Cluster about:freedom we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Eal">Eal</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along</link>
         </links>
       </event>
     </room>
@@ -4754,6 +4776,28 @@ Bass ahoi</description>
     </room>
     <room name="Johnson (Workshop 1)"/>
     <room name="Goldberg (Workshop 2)">
+      <event id="1321" guid="1953ae86-7a6b-4a3f-b80f-71490d017842">
+        <logo/>
+        <date>2019-08-23T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Goldberg (Workshop 2)</room>
+        <slug>camp2019-1321-session_binaergewitter_hoerertreffen</slug>
+        <title>Binärgewitter Hörertreffen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Hörertreffen des Binärgewitter Podcasts</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Makefu">Makefu</person>
+        </persons>
+        <links>
+          <link>https://krepel.us</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen</link>
+        </links>
+      </event>
       <event id="1316" guid="01a0c21a-8b90-4387-9198-8e80cccb18a8">
         <logo/>
         <date>2019-08-23T14:00:00+02:00</date>
@@ -5547,6 +5591,28 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         </persons>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:Der_Haecksen-Hack</link>
+        </links>
+      </event>
+      <event id="1323" guid="771c1caa-1c3f-4f50-bdd6-4133d2a9dd53">
+        <logo/>
+        <date>2019-08-23T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>1:30</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1323-session_haeckenfryhstyck</slug>
+        <title>Haeckenfryhstyck</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Haecksenfryhstyck</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Janepie">Janepie</person>
+        </persons>
+        <links>
+          <link>http://haecksen.org</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Haeckenfryhstyck</link>
         </links>
       </event>
       <event id="1100" guid="8668d4a5-c292-49f7-8f16-1e8f9c429a46">
