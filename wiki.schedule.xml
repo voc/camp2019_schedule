@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-19 01:00</version>
+  <version>2019-08-19 02:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -257,6 +257,28 @@
         </persons>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_in_LaTeX</link>
+        </links>
+      </event>
+    </room>
+    <room name="Johnson (Workshop 1)">
+      <event id="1284" guid="f4fa97e9-c253-4eb2-8695-83addfc593ea">
+        <logo/>
+        <date>2019-08-21T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1284-session_creating_z_wave_controllers_and_devices</slug>
+        <title>Creating Z-Wave controllers and devices</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hacking around Z-Wave smart home protocol</description>
+        <persons/>
+        <links>
+          <link>http://z-uno.z-wave.me</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</link>
         </links>
       </event>
     </room>
@@ -1215,6 +1237,26 @@
         <persons/>
         <links>
           <link>//events.ccc.de/camp/2019/wiki/Session:CCChoir</link>
+        </links>
+      </event>
+      <event id="1283" guid="7db3ec84-5dc0-46a3-b30e-8fa3eb9560b6">
+        <logo/>
+        <date>2019-08-22T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1283-session_creating_z_wave_controllers_and_devices</slug>
+        <title>Creating Z-Wave controllers and devices</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hacking around Z-Wave smart home protocol</description>
+        <persons/>
+        <links>
+          <link>http://z-uno.z-wave.me</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</link>
         </links>
       </event>
       <event id="1066" guid="8563f582-f24e-4027-9a26-1725098b2b53">
