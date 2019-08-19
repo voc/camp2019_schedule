@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-19 02:50</version>
+  <version>2019-08-19 03:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -275,7 +275,9 @@
         <language>en</language>
         <abstract/>
         <description>Hacking around Z-Wave smart home protocol</description>
-        <persons/>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:PoltoS">PoltoS</person>
+        </persons>
         <links>
           <link>http://z-uno.z-wave.me</link>
           <link>//events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</link>
@@ -1253,7 +1255,9 @@
         <language>en</language>
         <abstract/>
         <description>Hacking around Z-Wave smart home protocol</description>
-        <persons/>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:PoltoS">PoltoS</person>
+        </persons>
         <links>
           <link>http://z-uno.z-wave.me</link>
           <link>//events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</link>
