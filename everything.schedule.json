@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Deneb; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 303; lightning Idril; wiki 2019-08-20 19:40",
+    "version": "Deneb; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 303; lightning Idril; wiki 2019-08-20 20:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -2125,7 +2125,7 @@
                 "type": "workshop",
                 "language": "de",
                 "abstract": "",
-                "description": "Experimental new workshop - Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building an electronic touch-activated purring kitten. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 6 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.",
+                "description": "Experimental new workshop - Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building an electronic touch-activated purring kitten. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 5 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.",
                 "persons": [
                   {
                     "id": 0,
@@ -9759,7 +9759,7 @@
                 "type": "workshop",
                 "language": "de",
                 "abstract": "",
-                "description": "Experimental new workshop - Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building an electronic touch-activated purring kitten. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 6 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.",
+                "description": "Experimental new workshop - Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building an electronic touch-activated purring kitten. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 5 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.",
                 "persons": [
                   {
                     "id": 0,
