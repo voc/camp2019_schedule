@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Deneb; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 303; lightning Idril; wiki 2019-08-20 23:00",
+    "version": "Deneb; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 303; lightning Idril; wiki 2019-08-21 00:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -1436,8 +1436,8 @@
                 "guid": "38f8c609-043e-4c22-a301-688acefdb765",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:HAMNET",
                 "logo": null,
-                "date": "2019-08-21T21:00:00+02:00",
-                "start": "21:00",
+                "date": "2019-08-21T19:30:00+02:00",
+                "start": "19:30",
                 "duration": "1:00",
                 "room": "Village:Chaoswelle",
                 "slug": "camp2019-1326-session_hamnet",
@@ -1456,8 +1456,8 @@
                 "guid": "b2f0e1a6-194c-40d6-8ce4-908200b6fe7b",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Restauration_antiker_Autoradios",
                 "logo": null,
-                "date": "2019-08-21T19:30:00+02:00",
-                "start": "19:30",
+                "date": "2019-08-21T21:00:00+02:00",
+                "start": "21:00",
                 "duration": "1:00",
                 "room": "Village:Chaoswelle",
                 "slug": "camp2019-1327-session_restauration_antiker_autoradios",
@@ -4429,6 +4429,70 @@
                 "attachments": []
               }
             ],
+            "Village:Chaoswelle": [
+              {
+                "id": 1345,
+                "guid": "1595bd1c-6966-4f06-9fc6-9e01692e1153",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:AREDN",
+                "logo": null,
+                "date": "2019-08-22T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "0:30",
+                "room": "Village:Chaoswelle",
+                "slug": "camp2019-1345-session_aredn",
+                "title": "AREDN",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Eine Einf\u00fchrung in die Installation auf dem Camp",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1348,
+                "guid": "17c39a2b-9f71-4487-a804-01e5c2d1275d",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Draht,_Blut,_und_schwarze_Magie",
+                "logo": null,
+                "date": "2019-08-22T21:00:00+02:00",
+                "start": "21:00",
+                "duration": "1:00",
+                "room": "Village:Chaoswelle",
+                "slug": "camp2019-1348-session_draht_blut_und_schwarze_magie",
+                "title": "Draht, Blut, und schwarze Magie",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Antennentechnik",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1349,
+                "guid": "83d1d937-7852-48c1-8c91-e9e0c02891f0",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:New_Packet_Radio",
+                "logo": null,
+                "date": "2019-08-22T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "1:00",
+                "room": "Village:Chaoswelle",
+                "slug": "camp2019-1349-session_new_packet_radio",
+                "title": "New Packet Radio",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Einf\u00fchrung in New Packet Radio",
+                "persons": [],
+                "links": [
+                  "https://hackaday.io/project/164092-npr-new-packet-radio"
+                ]
+              }
+            ],
             "Village:HardwareHackingArea": [
               {
                 "id": 1033,
@@ -7180,6 +7244,48 @@
                     "public_name": "Jur"
                   }
                 ],
+                "links": []
+              }
+            ],
+            "Village:Chaoswelle": [
+              {
+                "id": 1346,
+                "guid": "5994d79f-c014-4ba3-8cb3-7956276a3f4c",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Amateurfunk_f%C3%BCr_Dummies",
+                "logo": null,
+                "date": "2019-08-23T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "0:30",
+                "room": "Village:Chaoswelle",
+                "slug": "camp2019-1346-session_amateurfunk_fuer_dummies",
+                "title": "Amateurfunk f\u00fcr Dummies",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1347,
+                "guid": "50cea405-319b-4d75-a6b0-87f8a0120ac9",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Aus-_und_Weiterbildung_im_Amateurfunk",
+                "logo": null,
+                "date": "2019-08-23T18:30:00+02:00",
+                "start": "18:30",
+                "duration": "0:30",
+                "room": "Village:Chaoswelle",
+                "slug": "camp2019-1347-session_aus_und_weiterbildung_im_amateurfunk",
+                "title": "Aus- und Weiterbildung im Amateurfunk",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "de",
+                "abstract": "",
+                "description": "",
+                "persons": [],
                 "links": []
               }
             ],

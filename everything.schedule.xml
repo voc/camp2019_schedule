@@ -1,5 +1,5 @@
 <schedule>
-  <version>Deneb; thm Monkey Island 2: LeChuck’s Revenge; lounges 303; lightning Idril; wiki 2019-08-20 23:00</version>
+  <version>Deneb; thm Monkey Island 2: LeChuck’s Revenge; lounges 303; lightning Idril; wiki 2019-08-21 00:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -1364,8 +1364,8 @@ Größere Auftritte hatte Ingo Boss bei der Nature One und dem Ruhr in Love sowi
       <event id="1326" guid="38f8c609-043e-4c22-a301-688acefdb765">
         <url>https://events.ccc.de/camp/2019/wiki/Session:HAMNET</url>
         <logo/>
-        <date>2019-08-21T21:00:00+02:00</date>
-        <start>21:00</start>
+        <date>2019-08-21T19:30:00+02:00</date>
+        <start>19:30</start>
         <duration>1:00</duration>
         <room>Village:Chaoswelle</room>
         <slug>camp2019-1326-session_hamnet</slug>
@@ -1382,8 +1382,8 @@ Größere Auftritte hatte Ingo Boss bei der Nature One und dem Ruhr in Love sowi
       <event id="1327" guid="b2f0e1a6-194c-40d6-8ce4-908200b6fe7b">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Restauration_antiker_Autoradios</url>
         <logo/>
-        <date>2019-08-21T19:30:00+02:00</date>
-        <start>19:30</start>
+        <date>2019-08-21T21:00:00+02:00</date>
+        <start>21:00</start>
         <duration>1:00</duration>
         <room>Village:Chaoswelle</room>
         <slug>camp2019-1327-session_restauration_antiker_autoradios</slug>
@@ -4092,6 +4092,64 @@ Publikum vor.</abstract>
         <attachments/>
       </event>
     </room>
+    <room name="Village:Chaoswelle">
+      <event id="1345" guid="1595bd1c-6966-4f06-9fc6-9e01692e1153">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:AREDN</url>
+        <logo/>
+        <date>2019-08-22T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>0:30</duration>
+        <room>Village:Chaoswelle</room>
+        <slug>camp2019-1345-session_aredn</slug>
+        <title>AREDN</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Eine Einführung in die Installation auf dem Camp</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1348" guid="17c39a2b-9f71-4487-a804-01e5c2d1275d">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Draht,_Blut,_und_schwarze_Magie</url>
+        <logo/>
+        <date>2019-08-22T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Village:Chaoswelle</room>
+        <slug>camp2019-1348-session_draht_blut_und_schwarze_magie</slug>
+        <title>Draht, Blut, und schwarze Magie</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Antennentechnik</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1349" guid="83d1d937-7852-48c1-8c91-e9e0c02891f0">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:New_Packet_Radio</url>
+        <logo/>
+        <date>2019-08-22T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Village:Chaoswelle</room>
+        <slug>camp2019-1349-session_new_packet_radio</slug>
+        <title>New Packet Radio</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Einführung in New Packet Radio</description>
+        <persons/>
+        <links>
+          <link>https://hackaday.io/project/164092-npr-new-packet-radio</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:HardwareHackingArea">
       <event id="1033" guid="0ac837d5-262b-4a1c-afc1-dc7b889b3fa5">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Arduino_For_Total_Newbies</url>
@@ -6542,6 +6600,44 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Jur">Jur</person>
         </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Village:Chaoswelle">
+      <event id="1346" guid="5994d79f-c014-4ba3-8cb3-7956276a3f4c">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Amateurfunk_f%C3%BCr_Dummies</url>
+        <logo/>
+        <date>2019-08-23T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>0:30</duration>
+        <room>Village:Chaoswelle</room>
+        <slug>camp2019-1346-session_amateurfunk_fuer_dummies</slug>
+        <title>Amateurfunk für Dummies</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1347" guid="50cea405-319b-4d75-a6b0-87f8a0120ac9">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Aus-_und_Weiterbildung_im_Amateurfunk</url>
+        <logo/>
+        <date>2019-08-23T18:30:00+02:00</date>
+        <start>18:30</start>
+        <duration>0:30</duration>
+        <room>Village:Chaoswelle</room>
+        <slug>camp2019-1347-session_aus_und_weiterbildung_im_amateurfunk</slug>
+        <title>Aus- und Weiterbildung im Amateurfunk</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
         <links/>
       </event>
     </room>

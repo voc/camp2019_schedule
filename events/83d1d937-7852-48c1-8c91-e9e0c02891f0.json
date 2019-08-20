@@ -1,0 +1,22 @@
+{
+  "id": 1349,
+  "guid": "83d1d937-7852-48c1-8c91-e9e0c02891f0",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:New_Packet_Radio",
+  "logo": null,
+  "date": "2019-08-22T15:00:00+02:00",
+  "start": "15:00",
+  "duration": "1:00",
+  "room": "Village:Chaoswelle",
+  "slug": "camp2019-1349-session_new_packet_radio",
+  "title": "New Packet Radio",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "Einf\u00fchrung in New Packet Radio",
+  "persons": [],
+  "links": [
+    "https://hackaday.io/project/164092-npr-new-packet-radio"
+  ]
+}

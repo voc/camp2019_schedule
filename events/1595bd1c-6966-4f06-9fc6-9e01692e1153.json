@@ -1,0 +1,20 @@
+{
+  "id": 1345,
+  "guid": "1595bd1c-6966-4f06-9fc6-9e01692e1153",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:AREDN",
+  "logo": null,
+  "date": "2019-08-22T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "0:30",
+  "room": "Village:Chaoswelle",
+  "slug": "camp2019-1345-session_aredn",
+  "title": "AREDN",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Eine Einf\u00fchrung in die Installation auf dem Camp",
+  "persons": [],
+  "links": []
+}
