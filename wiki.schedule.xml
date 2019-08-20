@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-20 16:40</version>
+  <version>2019-08-20 17:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -855,6 +855,26 @@
         <links>
           <link>https://p0stap0calyptic.wordpress.com/</link>
         </links>
+      </event>
+    </room>
+    <room name="Village:Sft / pwnda village™">
+      <event id="1335" guid="e04abc78-9ce0-438b-be18-262991300d62">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Stargazing_with_a_telescope</url>
+        <logo/>
+        <date>2019-08-21T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>2:00</duration>
+        <room>Village:Sft / pwnda village™</room>
+        <slug>camp2019-1335-session_stargazing_with_a_telescope</slug>
+        <title>Stargazing with a telescope</title>
+        <subtitle>looking up</subtitle>
+        <track>self organized sessions</track>
+        <type>outside</type>
+        <language>en</language>
+        <abstract/>
+        <description>Wir beobachten Planeten und Sterne mit einem Teleskop. We are gazing at stars</description>
+        <persons/>
+        <links/>
       </event>
     </room>
     <room name="Village:RoboVillage">
@@ -1878,6 +1898,31 @@
         </links>
       </event>
     </room>
+    <room name="Village:AAAAAAAAAAAA">
+      <event id="1230" guid="f28bdd0a-d215-4af6-8c78-9a0ed4e0d758">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Regio_Mediation</url>
+        <logo/>
+        <date>2019-08-22T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Village:AAAAAAAAAAAA</room>
+        <slug>camp2019-1230-session_regio_mediation</slug>
+        <title>Regio Mediation</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Streitigkeiten, die sich schon tiefer in einen Verein eingetreten haben oder sogar mit Machtgefällen behaftet sind, sind nicht einfach aus der Welt zu schaffen und können eine gute Vereinsarbeit über lange Zeit lähmen.  Wir glauben, um diese Probleme zu lösen, könnenn uns die Techniken der Mediation weiterhelfen.  Wir vermuten außerdem, dass schon viel Erfahrung im CCC und seinen Mitgliedern schlummert und wollen euch einladen mit uns Idee noch weiter auszuarbeiten.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Susi">Susi</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Dkl">Dkl</person>
+        </persons>
+        <links>
+          <link>https://doku.ccc.de/Regiowochenende_2019</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:Harbor">
       <event id="1126" guid="53b7eed2-1de8-4fa7-8816-618cf4eb6c14">
         <url>https://events.ccc.de/camp/2019/wiki/Session:SocialTech</url>
@@ -2184,7 +2229,7 @@
         <room>Village:Backspace</room>
         <slug>camp2019-1328-session_beer_tasting</slug>
         <title>Beer Tasting</title>
-        <subtitle>A biased selection of beers from Franconia</subtitle>
+        <subtitle>1st round of Beer Tasting</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
         <language>de</language>
@@ -3506,6 +3551,28 @@
         <description>Experimental new workshop - Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building an electronic touch-activated purring kitten. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 6 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Kliment">Kliment</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Village:Backspace">
+      <event id="1334" guid="96fd48ac-adb0-4576-9d92-40b6901dc747">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Beer_Tasting</url>
+        <logo/>
+        <date>2019-08-24T17:15:00+02:00</date>
+        <start>17:15</start>
+        <duration>1:30</duration>
+        <room>Village:Backspace</room>
+        <slug>camp2019-1334-session_beer_tasting</slug>
+        <title>Beer Tasting</title>
+        <subtitle>2nd round of Beer Tasting (what‘s left from 1st round)</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Taste a variety of beers from Franconia</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Jur">Jur</person>
         </persons>
         <links/>
       </event>

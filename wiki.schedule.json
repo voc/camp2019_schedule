@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-20 16:40",
+    "version": "2019-08-20 17:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -1060,6 +1060,28 @@
                 "links": [
                   "https://p0stap0calyptic.wordpress.com/"
                 ]
+              }
+            ],
+            "Village:Sft / pwnda village\u2122": [
+              {
+                "id": 1335,
+                "guid": "e04abc78-9ce0-438b-be18-262991300d62",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Stargazing_with_a_telescope",
+                "logo": null,
+                "date": "2019-08-21T21:00:00+02:00",
+                "start": "21:00",
+                "duration": "2:00",
+                "room": "Village:Sft / pwnda village\u2122",
+                "slug": "camp2019-1335-session_stargazing_with_a_telescope",
+                "title": "Stargazing with a telescope",
+                "subtitle": "looking up",
+                "track": "self organized sessions",
+                "type": "outside",
+                "language": "en",
+                "abstract": "",
+                "description": "Wir beobachten Planeten und Sterne mit einem Teleskop. We are gazing at stars",
+                "persons": [],
+                "links": []
               }
             ],
             "Village:RoboVillage": [
@@ -2363,6 +2385,41 @@
                 ]
               }
             ],
+            "Village:AAAAAAAAAAAA": [
+              {
+                "id": 1230,
+                "guid": "f28bdd0a-d215-4af6-8c78-9a0ed4e0d758",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Regio_Mediation",
+                "logo": null,
+                "date": "2019-08-22T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "2:00",
+                "room": "Village:AAAAAAAAAAAA",
+                "slug": "camp2019-1230-session_regio_mediation",
+                "title": "Regio Mediation",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Streitigkeiten, die sich schon tiefer in einen Verein eingetreten haben oder sogar mit Machtgef\u00e4llen behaftet sind, sind nicht einfach aus der Welt zu schaffen und k\u00f6nnen eine gute Vereinsarbeit \u00fcber lange Zeit l\u00e4hmen.  Wir glauben, um diese Probleme zu l\u00f6sen, k\u00f6nnenn uns die Techniken der Mediation weiterhelfen.  Wir vermuten au\u00dferdem, dass schon viel Erfahrung im CCC und seinen Mitgliedern schlummert und wollen euch einladen mit uns Idee noch weiter auszuarbeiten.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Susi",
+                    "public_name": "Susi"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Dkl",
+                    "public_name": "Dkl"
+                  }
+                ],
+                "links": [
+                  "https://doku.ccc.de/Regiowochenende_2019"
+                ]
+              }
+            ],
             "Village:Harbor": [
               {
                 "id": 1126,
@@ -2779,7 +2836,7 @@
                 "room": "Village:Backspace",
                 "slug": "camp2019-1328-session_beer_tasting",
                 "title": "Beer Tasting",
-                "subtitle": "A biased selection of beers from Franconia",
+                "subtitle": "1st round of Beer Tasting",
                 "track": "self organized sessions",
                 "type": "hands-on",
                 "language": "de",
@@ -4476,6 +4533,34 @@
                     "id": 0,
                     "url": "https://events.ccc.de/camp/2019/wiki/User:Kliment",
                     "public_name": "Kliment"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Village:Backspace": [
+              {
+                "id": 1334,
+                "guid": "96fd48ac-adb0-4576-9d92-40b6901dc747",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Beer_Tasting",
+                "logo": null,
+                "date": "2019-08-24T17:15:00+02:00",
+                "start": "17:15",
+                "duration": "1:30",
+                "room": "Village:Backspace",
+                "slug": "camp2019-1334-session_beer_tasting",
+                "title": "Beer Tasting",
+                "subtitle": "2nd round of Beer Tasting (what\u2018s left from 1st round)",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Taste a variety of beers from Franconia",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Jur",
+                    "public_name": "Jur"
                   }
                 ],
                 "links": []

@@ -1,11 +1,12 @@
 {
   "id": 1230,
   "guid": "f28bdd0a-d215-4af6-8c78-9a0ed4e0d758",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Regio_Mediation",
   "logo": null,
   "date": "2019-08-22T16:00:00+02:00",
   "start": "16:00",
   "duration": "2:00",
-  "room": "",
+  "room": "Village:AAAAAAAAAAAA",
   "slug": "camp2019-1230-session_regio_mediation",
   "title": "Regio Mediation",
   "subtitle": "",
@@ -17,17 +18,16 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Susi",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Susi",
       "public_name": "Susi"
     },
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Dkl",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Dkl",
       "public_name": "Dkl"
     }
   ],
   "links": [
-    "https://doku.ccc.de/Regiowochenende_2019",
-    "//events.ccc.de/camp/2019/wiki/Session:Regio_Mediation"
+    "https://doku.ccc.de/Regiowochenende_2019"
   ]
 }
