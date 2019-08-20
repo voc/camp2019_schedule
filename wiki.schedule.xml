@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-19 23:00</version>
+  <version>2019-08-20 06:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -1474,7 +1474,7 @@
         <logo/>
         <date>2019-08-22T15:00:00+02:00</date>
         <start>15:00</start>
-        <duration>1:00</duration>
+        <duration>2:00</duration>
         <room>Village:Backspace</room>
         <slug>camp2019-1318-session_educational_filk_der_hacker_song</slug>
         <title>Educational Filk: Der Hacker-Song</title>
