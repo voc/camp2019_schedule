@@ -1,0 +1,22 @@
+{
+  "id": 1340,
+  "guid": "d40a738b-44b0-4239-a792-438c645945b2",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Hackleman_badge_building",
+  "logo": null,
+  "date": "2019-08-21T10:00:00+02:00",
+  "start": "10:00",
+  "duration": "2:00",
+  "room": "Village:HackLeman",
+  "slug": "camp2019-1340-session_hackleman_badge_building",
+  "title": "Hackleman badge building",
+  "subtitle": "Let's build our badges fellow citizens",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "Badge building session for HackLeman residents, outsiders also welcome. Badges cost 5 CHF/EUR/USD/Units of money",
+  "persons": [],
+  "links": [
+    "https://github.com/pingud98/HackLemanBadge"
+  ]
+}

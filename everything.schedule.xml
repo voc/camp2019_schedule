@@ -1,5 +1,5 @@
 <schedule>
-  <version>Deneb; thm Monkey Island 2: LeChuck’s Revenge; lounges 303; lightning Idril; wiki 2019-08-20 22:40</version>
+  <version>Deneb; thm Monkey Island 2: LeChuck’s Revenge; lounges 303; lightning Idril; wiki 2019-08-20 23:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -1944,6 +1944,28 @@ Größere Auftritte hatte Ingo Boss bei der Nature One und dem Ruhr in Love sowi
         </links>
       </event>
     </room>
+    <room name="Village:HackLeman">
+      <event id="1340" guid="d40a738b-44b0-4239-a792-438c645945b2">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hackleman_badge_building</url>
+        <logo/>
+        <date>2019-08-21T10:00:00+02:00</date>
+        <start>10:00</start>
+        <duration>2:00</duration>
+        <room>Village:HackLeman</room>
+        <slug>camp2019-1340-session_hackleman_badge_building</slug>
+        <title>Hackleman badge building</title>
+        <subtitle>Let's build our badges fellow citizens</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Badge building session for HackLeman residents, outsiders also welcome. Badges cost 5 CHF/EUR/USD/Units of money</description>
+        <persons/>
+        <links>
+          <link>https://github.com/pingud98/HackLemanBadge</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:C-base">
       <event id="1099" guid="55558acc-348c-44e8-97b1-bbc1187a7407">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Isomer</url>
@@ -1965,6 +1987,33 @@ Größere Auftritte hatte Ingo Boss bei der Nature One und dem Ruhr in Love sowi
         </persons>
         <links>
           <link>http://isomer.eu</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Milliways">
+      <event id="1343" guid="010a82f9-f773-4784-8536-cd7009cdefce">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Modding_Milliways_-_Low-poly_Whiskyleaks</url>
+        <logo/>
+        <date>2019-08-21T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>2:00</duration>
+        <room>Village:Milliways</room>
+        <slug>camp2019-1343-session_modding_milliways_low_poly_whiskyleaks</slug>
+        <title>Modding Milliways - Low-poly Whiskyleaks</title>
+        <subtitle>Low-poly buildup pt.1</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>en</language>
+        <abstract/>
+        <description>A livestream at Milliways of CCC being modded into a videogame</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Awtnmy">Awtnmy</person>
+        </persons>
+        <links>
+          <link>http://wiki.offgridthegame.com/index.php?title=Milliways_CCCamp_mod</link>
+          <link>https://github.com/IuriLeitaoMartinho/OffGridMilliwaysMod</link>
+          <link>https://www.twitch.tv/semaeopus</link>
+          <link>http://www.offgridthegame.com</link>
         </links>
       </event>
     </room>
@@ -4677,6 +4726,101 @@ Publikum vor.</abstract>
         <links/>
       </event>
     </room>
+    <room name="Village:Milliways">
+      <event id="1341" guid="76a758fd-23da-4aa7-8d94-124a28e14e1d">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Modding_Milliways_-_Low-poly_Whiskyleaks</url>
+        <logo/>
+        <date>2019-08-22T21:30:00+02:00</date>
+        <start>21:30</start>
+        <duration>2:00</duration>
+        <room>Village:Milliways</room>
+        <slug>camp2019-1341-session_modding_milliways_low_poly_whiskyleaks</slug>
+        <title>Modding Milliways - Low-poly Whiskyleaks</title>
+        <subtitle>Low-poly buildup pt.3 Live @ Whiskyleaks</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>en</language>
+        <abstract/>
+        <description>A livestream at Milliways of CCC being modded into a videogame</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Awtnmy">Awtnmy</person>
+        </persons>
+        <links>
+          <link>http://wiki.offgridthegame.com/index.php?title=Milliways_CCCamp_mod</link>
+          <link>https://github.com/IuriLeitaoMartinho/OffGridMilliwaysMod</link>
+          <link>https://www.twitch.tv/semaeopus</link>
+          <link>http://www.offgridthegame.com</link>
+        </links>
+      </event>
+      <event id="1344" guid="83932d28-9edd-5e43-80b0-b9365a855284">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Modding_Milliways_-_Low-poly_Whiskyleaks</url>
+        <logo/>
+        <date>2019-08-22T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>2:00</duration>
+        <room>Village:Milliways</room>
+        <slug>camp2019-1344-session_modding_milliways_low_poly_whiskyleaks</slug>
+        <title>Modding Milliways - Low-poly Whiskyleaks</title>
+        <subtitle>Low-poly buildup pt.2</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>en</language>
+        <abstract/>
+        <description>A livestream at Milliways of CCC being modded into a videogame</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Awtnmy">Awtnmy</person>
+        </persons>
+        <links>
+          <link>http://wiki.offgridthegame.com/index.php?title=Milliways_CCCamp_mod</link>
+          <link>https://github.com/IuriLeitaoMartinho/OffGridMilliwaysMod</link>
+          <link>https://www.twitch.tv/semaeopus</link>
+          <link>http://www.offgridthegame.com</link>
+        </links>
+      </event>
+      <event id="1245" guid="b942af59-cc7b-4414-a822-4fa6d4ade0aa">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:The_Future_of_HOPE</url>
+        <logo/>
+        <date>2019-08-22T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Village:Milliways</room>
+        <slug>camp2019-1245-session_the_future_of_hope</slug>
+        <title>The Future of HOPE</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>The HOPE conference run by 2600 Magazine is in trouble and needs your help</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Aestetix">Aestetix</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Maltman23">Maltman23</person>
+        </persons>
+        <links>
+          <link>https://www.2600.com/content/future-hope</link>
+        </links>
+      </event>
+      <event id="1143" guid="0ef423eb-0595-4918-9f30-6158ea6227e5">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Whiskyleaks</url>
+        <logo/>
+        <date>2019-08-22T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>5:00</duration>
+        <room>Village:Milliways</room>
+        <slug>camp2019-1143-session_whiskyleaks</slug>
+        <title>Whiskyleaks</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language/>
+        <abstract/>
+        <description>The traditional Milliways Whiskyleaks, bring a nice bottle of liquor and a glass and share it with other fine human beings, donations welcome.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Adventureloop">Adventureloop</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Village:NixOS">
       <event id="1262" guid="afa80109-3761-4b3f-b2e8-57087d164b0d">
         <url>https://events.ccc.de/camp/2019/wiki/Session:NixOS_Install_Party</url>
@@ -5021,51 +5165,6 @@ Publikum vor.</abstract>
         <links>
           <link>https://www.robokoding.com/kits/sumorobot</link>
         </links>
-      </event>
-    </room>
-    <room name="Village:Milliways">
-      <event id="1245" guid="b942af59-cc7b-4414-a822-4fa6d4ade0aa">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:The_Future_of_HOPE</url>
-        <logo/>
-        <date>2019-08-22T20:00:00+02:00</date>
-        <start>20:00</start>
-        <duration>1:00</duration>
-        <room>Village:Milliways</room>
-        <slug>camp2019-1245-session_the_future_of_hope</slug>
-        <title>The Future of HOPE</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>en</language>
-        <abstract/>
-        <description>The HOPE conference run by 2600 Magazine is in trouble and needs your help</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Aestetix">Aestetix</person>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Maltman23">Maltman23</person>
-        </persons>
-        <links>
-          <link>https://www.2600.com/content/future-hope</link>
-        </links>
-      </event>
-      <event id="1143" guid="0ef423eb-0595-4918-9f30-6158ea6227e5">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Whiskyleaks</url>
-        <logo/>
-        <date>2019-08-22T20:00:00+02:00</date>
-        <start>20:00</start>
-        <duration>5:00</duration>
-        <room>Village:Milliways</room>
-        <slug>camp2019-1143-session_whiskyleaks</slug>
-        <title>Whiskyleaks</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language/>
-        <abstract/>
-        <description>The traditional Milliways Whiskyleaks, bring a nice bottle of liquor and a glass and share it with other fine human beings, donations welcome.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Adventureloop">Adventureloop</person>
-        </persons>
-        <links/>
       </event>
     </room>
   </day>
@@ -6677,6 +6776,31 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
         <description>Unidirectional and bidirectional crosschain transfers using NIPoPoWs and Proof-of-Burn</description>
         <persons/>
         <links/>
+      </event>
+      <event id="1342" guid="dff8659b-3e7a-5769-9704-b7555b16d525">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Modding_Milliways_-_Low-poly_Whiskyleaks</url>
+        <logo/>
+        <date>2019-08-23T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>2:00</duration>
+        <room>Village:Milliways</room>
+        <slug>camp2019-1342-session_modding_milliways_low_poly_whiskyleaks</slug>
+        <title>Modding Milliways - Low-poly Whiskyleaks</title>
+        <subtitle>Low-poly buildup pt.4</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>en</language>
+        <abstract/>
+        <description>A livestream at Milliways of CCC being modded into a videogame</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Awtnmy">Awtnmy</person>
+        </persons>
+        <links>
+          <link>http://wiki.offgridthegame.com/index.php?title=Milliways_CCCamp_mod</link>
+          <link>https://github.com/IuriLeitaoMartinho/OffGridMilliwaysMod</link>
+          <link>https://www.twitch.tv/semaeopus</link>
+          <link>http://www.offgridthegame.com</link>
+        </links>
       </event>
     </room>
     <room name="Village:NixOS">
@@ -10022,7 +10146,7 @@ you for many different reasons and would like to talk about that.</description>
         <abstract/>
         <description/>
         <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Rainer">Rainer</person>
         </persons>
         <links/>
       </event>

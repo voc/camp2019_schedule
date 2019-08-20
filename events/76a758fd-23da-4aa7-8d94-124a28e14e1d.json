@@ -1,0 +1,31 @@
+{
+  "id": 1341,
+  "guid": "76a758fd-23da-4aa7-8d94-124a28e14e1d",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Modding_Milliways_-_Low-poly_Whiskyleaks",
+  "logo": null,
+  "date": "2019-08-22T21:30:00+02:00",
+  "start": "21:30",
+  "duration": "2:00",
+  "room": "Village:Milliways",
+  "slug": "camp2019-1341-session_modding_milliways_low_poly_whiskyleaks",
+  "title": "Modding Milliways - Low-poly Whiskyleaks",
+  "subtitle": "Low-poly buildup pt.3 Live @ Whiskyleaks",
+  "track": "self organized sessions",
+  "type": "game",
+  "language": "en",
+  "abstract": "",
+  "description": "A livestream at Milliways of CCC being modded into a videogame",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Awtnmy",
+      "public_name": "Awtnmy"
+    }
+  ],
+  "links": [
+    "http://wiki.offgridthegame.com/index.php?title=Milliways_CCCamp_mod",
+    "https://github.com/IuriLeitaoMartinho/OffGridMilliwaysMod",
+    "https://www.twitch.tv/semaeopus",
+    "http://www.offgridthegame.com"
+  ]
+}
