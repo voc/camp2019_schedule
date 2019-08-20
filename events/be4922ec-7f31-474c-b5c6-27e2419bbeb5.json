@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10420.html",
+  "id": 10420,
+  "guid": "be4922ec-7f31-474c-b5c6-27e2419bbeb5",
+  "logo": "/system/events/logos/000/010/420/large/jake1.jpg?1566150973",
+  "date": "2019-08-23T22:00:00+02:00",
+  "start": "22:00",
+  "duration": "01:00",
+  "room": "Kemistry Lounge",
+  "slug": "camp19lounge-10420-jake_chambers_live",
+  "title": "Jake Chambers live",
+  "subtitle": "",
+  "track": "Music",
+  "type": "concert",
+  "language": "en",
+  "abstract": "",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [],
+  "links": [
+    {
+      "url": "https://www.youtube.com/channel/UCMfMMgvx37E_zOShz3xebIA/",
+      "title": "Jake Chambers on YT"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": 3136,
+  "guid": "fe4e5200-7a44-5ef4-b3a1-6c9186c75a56",
+  "logo": null,
+  "date": "2019-08-22T14:20:00+02:00",
+  "start": "14:20",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "UPSHHV",
+  "url": "https://c3lt.de/camp2019/talk/UPSHHV",
+  "title": "Securing Server-Side Scripting",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "Establishing a secure runtime environment for untrusted scripts running on a critical infrastructure server.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 129,
+      "name": "Daniel Grahl",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

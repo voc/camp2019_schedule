@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10434.html",
+  "id": 10434,
+  "guid": "0912c0ba-228f-41e2-bac1-1b91ebd40755",
+  "logo": "/system/events/logos/000/010/434/large/sportbrigade.jpg?1566156407",
+  "date": "2019-08-25T22:00:00+02:00",
+  "start": "22:00",
+  "duration": "02:00",
+  "room": "Kemistry Lounge",
+  "slug": "camp19lounge-10434-sportbrigade_sparwasser",
+  "title": "Sportbrigade Sparwasser",
+  "subtitle": "",
+  "track": "Music",
+  "type": "djset",
+  "language": "en",
+  "abstract": "",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [],
+  "links": [
+    {
+      "url": "https://soundcloud.com/sportbrigade-sparwasser",
+      "title": "Sportbrigade Sparwasser on Soundcloud"
+    }
+  ],
+  "attachments": []
+}

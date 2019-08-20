@@ -1,0 +1,31 @@
+{
+  "id": 3124,
+  "guid": "9cc4dfa8-8e3b-5cbc-8b75-d0c5e4d4c0b1",
+  "logo": null,
+  "date": "2019-08-22T13:10:00+02:00",
+  "start": "13:10",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "ATV7FM",
+  "url": "https://c3lt.de/camp2019/talk/ATV7FM",
+  "title": "Badge Magic",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "Magically Create Text and Cliparts on LED Name Badges using Bluetooth",
+  "description": "The Badge Magic Android app lets you create scrolling symbols and text on LED name badges through Bluetooth. The app provides options to portray names, clipart and simple animations on LED badges. For the data transfer from the smartphone to the LED badge we use Bluetooth. The project was possible after the transmissions were reverse-engineered. It was then developed by a group of developers from the FOSSASIA community.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 73,
+      "name": "hpdang",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

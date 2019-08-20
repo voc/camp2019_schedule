@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10432.html",
+  "id": 10432,
+  "guid": "d380e4bc-55f2-417b-9f37-e14efb1cf8ee",
+  "logo": "/system/events/logos/000/010/432/large/mo.jpg?1566155936",
+  "date": "2019-08-25T17:00:00+02:00",
+  "start": "17:00",
+  "duration": "03:00",
+  "room": "Rockmore Booth",
+  "slug": "camp19lounge-10432-mogreens",
+  "title": "mogreens",
+  "subtitle": "",
+  "track": "Music",
+  "type": "djset",
+  "language": "en",
+  "abstract": "the maker of the ambient floor at the congress",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [],
+  "links": [
+    {
+      "url": "http://mogreens.de/",
+      "title": "mogreens homepage"
+    }
+  ],
+  "attachments": []
+}

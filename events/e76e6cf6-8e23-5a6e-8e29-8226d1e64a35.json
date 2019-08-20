@@ -1,0 +1,31 @@
+{
+  "id": 3119,
+  "guid": "e76e6cf6-8e23-5a6e-8e29-8226d1e64a35",
+  "logo": null,
+  "date": "2019-08-22T13:20:00+02:00",
+  "start": "13:20",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "E3FZXB",
+  "url": "https://c3lt.de/camp2019/talk/E3FZXB",
+  "title": "Introducing DEEP",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "The debate on digital issues in the EU has a structural problem. DEEP is a new player in Brussels to address it.",
+  "description": "DEEP explains the important things behind the buzzwords to political participants in Brussels, but we deliberately do not see ourselves as an activist lobby group that triggers its own campaigns. We are actively working to ensure that the digital world is better regulated and decision-making takes place with a greater understanding of technical interrelationships. European democracy faces major challenges and we help to make these tasks sustainable and understandable for all concerned.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 115,
+      "name": "fukami",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

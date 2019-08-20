@@ -1,0 +1,31 @@
+{
+  "id": 3121,
+  "guid": "528874f1-52e0-500c-a5d7-6e714c441c38",
+  "logo": null,
+  "date": "2019-08-22T12:25:00+02:00",
+  "start": "12:25",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "ZDMSRB",
+  "url": "https://c3lt.de/camp2019/talk/ZDMSRB",
+  "title": "Hacking how we see",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "Can people who don't see in 3D hack how they see?  Can we change the world by building a global citizen-science experiment to definitively find out?",
+  "description": "I'll be talking about current progress towards a generally useable and low-cost system to help amateur researchers and interested participants discover what their vision system can do.  There will be a workshop following this (location / time TBA) to discuss how to get from where we are to where want to be :-)",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 117,
+      "name": "Ben Senior",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

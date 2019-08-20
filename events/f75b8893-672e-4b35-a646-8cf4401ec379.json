@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10402.html",
+  "id": 10402,
+  "guid": "f75b8893-672e-4b35-a646-8cf4401ec379",
+  "logo": "/system/events/logos/000/010/402/large/faubel.png?1566137743",
+  "date": "2019-08-21T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "01:00",
+  "room": "Kemistry Lounge",
+  "slug": "camp19lounge-10402-christian_faubel_live",
+  "title": "Christian Faubel live",
+  "subtitle": "electric live drums",
+  "track": "Music",
+  "type": "concert",
+  "language": "en",
+  "abstract": "In Songs from my analogue utopia I explore the self-organizing coordination dynamics of analog oscillators and the Utopian potentials of analogue communication. In analogue communication synchronization results from the mutual interaction of two or more processes, not a single process is dominating the other. It is in the mutuality where I see the Utopian potential of analogue communication. I undertake this exploration on the screen of an overhead projector where I place little motors driven by analogue oscillators. The motors hit on rubber bands which are equipped with piezo-pickups, rendering the rhythmical hitting of the motors into sound and into a shadow play.",
+  "description": "Christian Faubel is an interdisciplinary scholar working in the differing fields of neuroscience,\r\nautonomous systems research and media art & design. He holds a PhD in electrical engineering\r\nand has completed research on autonomous systems at the Institute for Neural Computation from\r\n2002\u20132012. In 2002 he founded derstrudel, a collective for the mediation of a relaxed approach\r\nto electronics robotics. Since 2002 he has taught more than 50 workshops in building simple\r\nanalog robots at international venues and festivals. In his work, Christian Faubel is interested\r\nin what enables complex behavior, and how this may result from the interaction of very simple\r\nunits and their interrelations. In his artworks, installations, workshops & performances he tries to\r\nconvey insights about theoretical concepts such as self-organisation, emergence or embodiment\r\nalong an aesthetic dimension. He considers his artworks, workshops and performances to be in the\r\ntradition of philosophical toys as they combine the mediation of scientific concepts with pleasure\r\nand amusement.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [],
+  "links": [
+    {
+      "url": "https://vimeo.com/christianfaubel",
+      "title": "Videos"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": 3113,
+  "guid": "ac78f32a-89be-5002-ad5a-f8ae7a63053d",
+  "logo": null,
+  "date": "2019-08-22T12:05:00+02:00",
+  "start": "12:05",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "KEPSBB",
+  "url": "https://c3lt.de/camp2019/talk/KEPSBB",
+  "title": "Food Hacking Base 2019",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "Food Hacking Base is moving on, here comes our sunny report.",
+  "description": "We are group of hackers who are into food, drink and bio hacking, nice and relaxed, however sometimes the \"inspiration\" and \"power\" meets and than things happen! I will be giving short overview of what we have been up to recently and what are our plans for the next year or so, inviting everyone to our village of course.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 45,
+      "name": "Franti\u0161ek Algoldor Apfelbeck",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10433.html",
+  "id": 10433,
+  "guid": "bb6567c9-2e2e-4e43-8679-6ce87341d6e2",
+  "logo": null,
+  "date": "2019-08-25T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "02:00",
+  "room": "Kemistry Lounge",
+  "slug": "camp19lounge-10433-nele_cornelius",
+  "title": "nele & cornelius",
+  "subtitle": "",
+  "track": "Music",
+  "type": "djset",
+  "language": "en",
+  "abstract": "",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [],
+  "links": [
+    {
+      "url": "https://soundcloud.com/nele-wittler",
+      "title": "Niki Nebel"
+    },
+    {
+      "url": "https://soundcloud.com/cornelius11",
+      "title": "Cornelius"
+    }
+  ],
+  "attachments": []
+}

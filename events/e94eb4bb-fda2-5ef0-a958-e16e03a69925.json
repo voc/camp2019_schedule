@@ -1,0 +1,31 @@
+{
+  "id": 3128,
+  "guid": "e94eb4bb-fda2-5ef0-a958-e16e03a69925",
+  "logo": null,
+  "date": "2019-08-22T13:30:00+02:00",
+  "start": "13:30",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "JFNXTW",
+  "url": "https://c3lt.de/camp2019/talk/JFNXTW",
+  "title": "Kitspace.org: 1-click orders for open source hardware electronics",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "Kitspace.org is a site that lets you share projects and lets you order complete kits of open source hardware electronics from various distributors",
+  "description": "Kitspace.org and the 1-click BOM browser extension make open source hardware electronics more practical by letting people independently order components and printed circuit boards themselves. We are working hard on making it easier for creators to fully document their projects and for others to re-build them. This is an open source project itself and you can join our developer community [on GitHub](https://github.com/kitspace).",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 12,
+      "name": "Kaspar Emanuel",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

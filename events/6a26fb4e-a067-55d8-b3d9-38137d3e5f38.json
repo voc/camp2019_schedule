@@ -1,0 +1,31 @@
+{
+  "id": 3138,
+  "guid": "6a26fb4e-a067-55d8-b3d9-38137d3e5f38",
+  "logo": null,
+  "date": "2019-08-22T13:40:00+02:00",
+  "start": "13:40",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "9ZXEAM",
+  "url": "https://c3lt.de/camp2019/talk/9ZXEAM",
+  "title": "OpenSCAD - Making 3D objects by code",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "Drawing for people who can not draw, but know how to code. Brief explanation (thru examples) of what OpenSCAD is and showing some example projects.",
+  "description": "If you can not really draw, but do know how to code (like me) and want to make 3D objects OpenSCAD is your best-friend. It is an opensource programming language to design 3D objects that can easily be customized, as it is just code and easily shared.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 132,
+      "name": "Anykey",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

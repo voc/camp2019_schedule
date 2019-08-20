@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10407.html",
+  "id": 10407,
+  "guid": "5c4cc23f-aea8-444b-9803-283b7eaccb3e",
+  "logo": "/system/events/logos/000/010/407/large/42.jpg?1566137242",
+  "date": "2019-08-21T17:00:00+02:00",
+  "start": "17:00",
+  "duration": "03:00",
+  "room": "Rockmore Booth",
+  "slug": "camp19lounge-10407-42",
+  "title": "#42",
+  "subtitle": "",
+  "track": "Music",
+  "type": "djset",
+  "language": "en",
+  "abstract": "",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [],
+  "links": [
+    {
+      "url": "https://soundcloud.com/raute42",
+      "title": "#42 auf Soundcloud"
+    }
+  ],
+  "attachments": []
+}

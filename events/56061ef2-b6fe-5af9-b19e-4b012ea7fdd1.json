@@ -1,0 +1,31 @@
+{
+  "id": 3126,
+  "guid": "56061ef2-b6fe-5af9-b19e-4b012ea7fdd1",
+  "logo": null,
+  "date": "2019-08-22T13:25:00+02:00",
+  "start": "13:25",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "KNF8ZH",
+  "url": "https://c3lt.de/camp2019/talk/KNF8ZH",
+  "title": "Draw the internet!",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "I asked children between 6 and 12 to draw the internet to better understand how future generations think about the internet today.",
+  "description": "To better understand what the internet is \u2013 and could be \u2013 I gave primary school children one simple instruction: \u201cDraw the internet\u201d. No rules, no judging \u2013 anything goes.\r\nOne set of drawings was collected in a local European school in Belgium, and another set in a local African school in Senegal. This talk reports on the differences between both cultures as well as some overall observations.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 120,
+      "name": "Roeckoe",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

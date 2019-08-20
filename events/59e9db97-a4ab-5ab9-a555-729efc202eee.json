@@ -1,0 +1,31 @@
+{
+  "id": 3134,
+  "guid": "59e9db97-a4ab-5ab9-a555-729efc202eee",
+  "logo": null,
+  "date": "2019-08-22T14:15:00+02:00",
+  "start": "14:15",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "8GGT9Y",
+  "url": "https://c3lt.de/camp2019/talk/8GGT9Y",
+  "title": "Ola Bini: unfairly persecuted for working in cryptography, security and privacy",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "Ola Bini, privacy advocate and free software developer, was detained in Ecuador on April 11. Since then, a persecution has occurred against him.",
+  "description": "Ola Bini, privacy advocate and free software developer, was detained in Ecuador on April 11. Since then, an persecution has occurred against him, which still takes place today. Lots of irregularities have happened during this persecution and it seems like this is a politically-motivated one against people working in privacy, cryptography and security.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 127,
+      "name": "Sof\u00eda Celi",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

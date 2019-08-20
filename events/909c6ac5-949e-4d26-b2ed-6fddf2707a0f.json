@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10430.html",
+  "id": 10430,
+  "guid": "909c6ac5-949e-4d26-b2ed-6fddf2707a0f",
+  "logo": "/system/events/logos/000/010/430/large/3raum.jpg?1566154979",
+  "date": "2019-08-25T03:00:00+02:00",
+  "start": "03:00",
+  "duration": "02:00",
+  "room": "Kemistry Lounge",
+  "slug": "camp19lounge-10430-der_dritte_raum",
+  "title": "Der Dritte Raum",
+  "subtitle": "live",
+  "track": "Music",
+  "type": "concert",
+  "language": "en",
+  "abstract": "Der Dritte Raum aka Andreas Kr\u00fcger aka d3R.\r\nProducer / Liveact / Remixer / Studiojunkie since 65 million years...\r\nReleased & Forthcoming music on:\r\nKatermukke, Harthouse, Still Hot, Cocoon, Push, Virgin, d3R Records, EMI, Funken, Save To Disc and many, many more\u2026",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [],
+  "links": [
+    {
+      "url": "https://soundcloud.com/derdritteraum",
+      "title": "Der Dritte Raum on Soundcloud"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": 3135,
+  "guid": "ca49d09c-e2f5-5ef9-800b-e30504a16d39",
+  "logo": null,
+  "date": "2019-08-22T14:25:00+02:00",
+  "start": "14:25",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "HJPLVE",
+  "url": "https://c3lt.de/camp2019/talk/HJPLVE",
+  "title": "Documenting proprietary BMC hardware",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "BMCs historically run proprietary firmware. I have started a project to document the hardware of HP iLO 3/4/5, so that we can write our own firmware.",
+  "description": "<https://gitlab.com/bmcfun/ilo-hw-doc>",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 128,
+      "name": "bmcfun",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

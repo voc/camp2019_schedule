@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10435.html",
+  "id": 10435,
+  "guid": "e7955607-1510-40d8-8fea-47c151be4be4",
+  "logo": "/system/events/logos/000/010/435/large/spock.jpg?1566156578",
+  "date": "2019-08-26T00:00:00+02:00",
+  "start": "00:00",
+  "duration": "02:00",
+  "room": "Kemistry Lounge",
+  "slug": "camp19lounge-10435-dj-spock",
+  "title": "dj-spock",
+  "subtitle": "",
+  "track": "Music",
+  "type": "djset",
+  "language": "en",
+  "abstract": "",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [],
+  "links": [
+    {
+      "url": "https://soundcloud.com/dj-spock-ffm",
+      "title": "dj-spock on Soundcloud"
+    }
+  ],
+  "attachments": []
+}

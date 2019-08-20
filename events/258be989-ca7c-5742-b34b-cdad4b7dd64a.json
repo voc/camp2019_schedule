@@ -1,0 +1,31 @@
+{
+  "id": 3122,
+  "guid": "258be989-ca7c-5742-b34b-cdad4b7dd64a",
+  "logo": null,
+  "date": "2019-08-22T13:05:00+02:00",
+  "start": "13:05",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "9XPMNN",
+  "url": "https://c3lt.de/camp2019/talk/9XPMNN",
+  "title": "SUSI.AI Voice Assistent for Smart Speakers, Web, Mobile, Desktop",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "SUSI.AI is an Open Source voice assistant solution running on all kinds of platforms.",
+  "description": "SUSI.AI is an Open Source voice assistant solution running on all kinds of platforms. In the talk I will cover the following points:\r\n\u2714 How to Build Your Own Assistant\r\n\u2714 Easy Skill Creation\r\n\u2714 Run it at Home\r\n\u2714 Improved Privacy\r\n\u2714 Open Code Can Be Checked by Security Experts\r\n\u2714 No Backdoors\r\n\u2714 Runs on Many Devices\r\n\u2714 Web, Android, iOS, Linux\r\n\r\nLinks: https://susi.ai\r\nGithub: https://github.com/fossasia?utf8=\u2713&q=susi",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 62,
+      "name": "Mario Behling",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

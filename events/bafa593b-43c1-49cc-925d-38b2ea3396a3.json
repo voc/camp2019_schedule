@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10426.html",
+  "id": 10426,
+  "guid": "bafa593b-43c1-49cc-925d-38b2ea3396a3",
+  "logo": "/system/events/logos/000/010/426/large/trummerschlunk_-_pressefoto01.jpg?1566152502",
+  "date": "2019-08-24T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "01:00",
+  "room": "Kemistry Lounge",
+  "slug": "camp19lounge-10426-trummerschlunk",
+  "title": "trummerschlunk",
+  "subtitle": "",
+  "track": "Music",
+  "type": "concert",
+  "language": "en",
+  "abstract": "audiolith, lemme, hold your ground",
+  "description": "Slow techno immerses into a modular synthesizer-driven soundscape and invites to a sci-fi inspired journey toward big questions and amorphous feelings.\r\n",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [],
+  "links": [
+    {
+      "url": "http://www.trummerschlunk.de/",
+      "title": "trummerschlunk Homepage"
+    }
+  ],
+  "attachments": []
+}

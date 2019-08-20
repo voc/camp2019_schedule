@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10416.html",
+  "id": 10416,
+  "guid": "5da09557-9be1-40d8-955d-153c5cb9a9cb",
+  "logo": "/system/events/logos/000/010/416/large/tadata.jpg?1566147158",
+  "date": "2019-08-23T03:00:00+02:00",
+  "start": "03:00",
+  "duration": "02:00",
+  "room": "Kemistry Lounge",
+  "slug": "camp19lounge-10416-t-data",
+  "title": "T-Data",
+  "subtitle": "",
+  "track": "Music",
+  "type": "djset",
+  "language": "en",
+  "abstract": "Clear Memory member, future record store owner and Data Wrangler based in Leipzig. \r\n\r\nTransforming Breaks, UK Bass, Footwork, bossy Electro and Jungle into another format with the intent of making it more appropriate and valuable for a variety of listeners.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [],
+  "links": [
+    {
+      "url": "https://soundcloud.com/tdata",
+      "title": "T-Data on Soundcloud"
+    }
+  ],
+  "attachments": []
+}

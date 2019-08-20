@@ -1,0 +1,31 @@
+{
+  "id": 3116,
+  "guid": "4b6b6432-1eef-5ae4-9f6e-247038a0f061",
+  "logo": null,
+  "date": "2019-08-22T13:00:00+02:00",
+  "start": "13:00",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "FVXXKS",
+  "url": "https://c3lt.de/camp2019/talk/FVXXKS",
+  "title": "Teaching IoT with Open Hardware and GitHub Classroom",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "Lessons learned teaching IoT engineering to bachelor students at FHNW, an applied science university in Switzerland.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 114,
+      "name": "tamberg",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

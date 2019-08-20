@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10424.html",
+  "id": 10424,
+  "guid": "1c1d5ada-8e5d-42ee-87b1-934c1413a8bc",
+  "logo": "/system/events/logos/000/010/424/large/couchsofa.jpg?1566151918",
+  "date": "2019-08-24T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "03:00",
+  "room": "Rockmore Booth",
+  "slug": "camp19lounge-10424-couchsofa",
+  "title": "couchsofa",
+  "subtitle": "",
+  "track": "Music",
+  "type": "djset",
+  "language": "en",
+  "abstract": "is organizing the GPN lounge",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [],
+  "links": [
+    {
+      "url": "https://www.mixcloud.com/couchsofa/",
+      "title": "couchsofa on Mixcloud"
+    }
+  ],
+  "attachments": []
+}

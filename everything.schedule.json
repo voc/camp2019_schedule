@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Deneb Monkey Island 2: LeChuck\u2019s Revenge",
+    "version": "Deneb; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 303; lightning Haldir; wiki 2019-08-20 13:06",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -1063,6 +1063,173 @@
                 "links": [],
                 "attachments": [],
                 "answers": []
+              }
+            ],
+            "Kemistry Lounge": [
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10402.html",
+                "id": 10402,
+                "guid": "f75b8893-672e-4b35-a646-8cf4401ec379",
+                "logo": "/system/events/logos/000/010/402/large/faubel.png?1566137743",
+                "date": "2019-08-21T20:00:00+02:00",
+                "start": "20:00",
+                "duration": "01:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10402-christian_faubel_live",
+                "title": "Christian Faubel live",
+                "subtitle": "electric live drums",
+                "track": "Music",
+                "type": "concert",
+                "language": "en",
+                "abstract": "In Songs from my analogue utopia I explore the self-organizing coordination dynamics of analog oscillators and the Utopian potentials of analogue communication. In analogue communication synchronization results from the mutual interaction of two or more processes, not a single process is dominating the other. It is in the mutuality where I see the Utopian potential of analogue communication. I undertake this exploration on the screen of an overhead projector where I place little motors driven by analogue oscillators. The motors hit on rubber bands which are equipped with piezo-pickups, rendering the rhythmical hitting of the motors into sound and into a shadow play.",
+                "description": "Christian Faubel is an interdisciplinary scholar working in the differing fields of neuroscience,\r\nautonomous systems research and media art & design. He holds a PhD in electrical engineering\r\nand has completed research on autonomous systems at the Institute for Neural Computation from\r\n2002\u20132012. In 2002 he founded derstrudel, a collective for the mediation of a relaxed approach\r\nto electronics robotics. Since 2002 he has taught more than 50 workshops in building simple\r\nanalog robots at international venues and festivals. In his work, Christian Faubel is interested\r\nin what enables complex behavior, and how this may result from the interaction of very simple\r\nunits and their interrelations. In his artworks, installations, workshops & performances he tries to\r\nconvey insights about theoretical concepts such as self-organisation, emergence or embodiment\r\nalong an aesthetic dimension. He considers his artworks, workshops and performances to be in the\r\ntradition of philosophical toys as they combine the mediation of scientific concepts with pleasure\r\nand amusement.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://vimeo.com/christianfaubel",
+                    "title": "Videos"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10403.html",
+                "id": 10403,
+                "guid": "10bdc438-1e73-460b-b1e3-8ff144742cb3",
+                "logo": "/system/events/logos/000/010/403/large/morelle.jpg?1566138200",
+                "date": "2019-08-21T21:00:00+02:00",
+                "start": "21:00",
+                "duration": "02:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10403-marco_morelle",
+                "title": "Marco Morelle",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "Fusion, Garbicz, CCC, Hamburg, Berlin, die Welt, ...",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://www.mixcloud.com/Morelle/",
+                    "title": "Marco Morelle auf Mixcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10404.html",
+                "id": 10404,
+                "guid": "128cdfde-6151-4e02-97e0-f498194901f6",
+                "logo": "/system/events/logos/000/010/404/large/ingoboss.jpg?1565989097",
+                "date": "2019-08-21T23:00:00+02:00",
+                "start": "23:00",
+                "duration": "02:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10404-ingo_boss",
+                "title": "Ingo Boss",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "Ingo Boss (* 1979 in Frankfurt am Main) ist ein deutscher DJ und Techno-Produzent. ",
+                "description": "Ingo Boss begann das Auflegen Ende der 1990er Jahre, gleichzeitig war er im Plattenladen Delirium angestellt. 2002 bis 2004 war er Resident DJ des Frankfurter Clubs U60311. Nach Schlie\u00dfung des Clubs wechselte er zum Cocoon Club. Seit 2007 arbeitet er als A&R bei Cocoon Music Event GmbH. 2010 erschien sein Deb\u00fctalbum 3.652 Tage.\r\n\r\nGr\u00f6\u00dfere Auftritte hatte Ingo Boss bei der Nature One und dem Ruhr in Love sowie bei zahlreichen internationalen Auftritten. ",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/ingoboss",
+                    "title": "Ingo Boss auf Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10405.html",
+                "id": 10405,
+                "guid": "58341c87-7467-4a83-a882-6feda6f24fe1",
+                "logo": null,
+                "date": "2019-08-22T01:00:00+02:00",
+                "start": "01:00",
+                "duration": "02:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10405-loui_beton",
+                "title": "Loui Beton",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10406.html",
+                "id": 10406,
+                "guid": "a3594b9a-f10f-47c9-82da-18e928dfe942",
+                "logo": "/system/events/logos/000/010/406/large/brick.jpg?1566138810",
+                "date": "2019-08-22T03:00:00+02:00",
+                "start": "03:00",
+                "duration": "02:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10406-brick",
+                "title": "Brick",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "brick habe ich schon \u00f6fter auflegen erlebt als alle anderen Techno DJs. Das kommt daher weil ich Techno eigentlich noch nie besonders spannend fand. Zu kalt, zu monoton, zu sehr seiner reinen Funktionalit\u00e4t zugewandt. brick erfindet Techno nicht neu, aber er pr\u00e4sentiert ihn in einem wohl \u00fcberlegten und angenehm temperierten Gewand. (Rudolf Mooshammer 2019 koloriert)",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/brick",
+                    "title": "brick auf soundcloud"
+                  }
+                ],
+                "attachments": []
+              }
+            ],
+            "Rockmore Booth": [
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10407.html",
+                "id": 10407,
+                "guid": "5c4cc23f-aea8-444b-9803-283b7eaccb3e",
+                "logo": "/system/events/logos/000/010/407/large/42.jpg?1566137242",
+                "date": "2019-08-21T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "03:00",
+                "room": "Rockmore Booth",
+                "slug": "camp19lounge-10407-42",
+                "title": "#42",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/raute42",
+                    "title": "#42 auf Soundcloud"
+                  }
+                ],
+                "attachments": []
               }
             ],
             "Village:Haecksen": [
@@ -2681,6 +2848,688 @@
                   }
                 ],
                 "attachments": []
+              },
+              {
+                "id": 3118,
+                "guid": "15e721f6-cd07-5105-b4eb-3bd77c86fe0a",
+                "logo": null,
+                "date": "2019-08-22T12:00:00+02:00",
+                "start": "12:00",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "MTY7UV",
+                "url": "https://c3lt.de/camp2019/talk/MTY7UV",
+                "title": "How to talk lightning",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "A brief introduction to the CCCamp 2019 Lighning Talks session.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 71,
+                    "name": "bigalex",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3113,
+                "guid": "ac78f32a-89be-5002-ad5a-f8ae7a63053d",
+                "logo": null,
+                "date": "2019-08-22T12:05:00+02:00",
+                "start": "12:05",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "KEPSBB",
+                "url": "https://c3lt.de/camp2019/talk/KEPSBB",
+                "title": "Food Hacking Base 2019",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Food Hacking Base is moving on, here comes our sunny report.",
+                "description": "We are group of hackers who are into food, drink and bio hacking, nice and relaxed, however sometimes the \"inspiration\" and \"power\" meets and than things happen! I will be giving short overview of what we have been up to recently and what are our plans for the next year or so, inviting everyone to our village of course.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 45,
+                    "name": "Franti\u0161ek Algoldor Apfelbeck",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3114,
+                "guid": "9ca3a383-85f0-5c81-9d39-c79585786efd",
+                "logo": null,
+                "date": "2019-08-22T12:10:00+02:00",
+                "start": "12:10",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "LERNXL",
+                "url": "https://c3lt.de/camp2019/talk/LERNXL",
+                "title": "Mb2.r5oHf-0t",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "How to help users choose less bad passwords",
+                "description": "While we IT-professionals can only marginally influence the passwords our users choose, we have a certain responsibility to make them choose less badly. Here is how we at the Leibniz Supercomputing Centre do it.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 112,
+                    "name": "Chris K",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3120,
+                "guid": "c2405dc2-6171-53f5-afad-55e7eecd04d3",
+                "logo": null,
+                "date": "2019-08-22T12:15:00+02:00",
+                "start": "12:15",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "TYUD9P",
+                "url": "https://c3lt.de/camp2019/talk/TYUD9P",
+                "title": "Digital Analog TV",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "de",
+                "abstract": "A walk through of how I implemented PAL analog color television using ffmpeg, GNU Radio Companion and the rad1o.",
+                "description": "[Hackaday Project Page](https://hackaday.io/project/14904-analog-tv-broadcast-of-the-new-age)",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 116,
+                    "name": "marble",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3112,
+                "guid": "f5d19855-9a18-5881-9bb1-53f20855e60c",
+                "logo": null,
+                "date": "2019-08-22T12:20:00+02:00",
+                "start": "12:20",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "YDZ9C7",
+                "url": "https://c3lt.de/camp2019/talk/YDZ9C7",
+                "title": "Eine Wende f\u00fcr flexible Verkehrssysteme",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "de",
+                "abstract": "Wie die Welt mit freier Software und offenenen Daten den \u00d6PNV revolutioniert.",
+                "description": "Tats\u00e4chlich erstellen derzeit zum ersten Mal, viele St\u00e4dte auf der Welt, Software-gest\u00fctzte L\u00f6sungen f\u00fcr ihren \u00d6PNV. Die meisten \u00f6ffentlichen Verkehrsnetze folgen eines komplexeren strukturellen Aufbaus als es in Westeuropa gang und gebe ist. Der Datenstandard GTFS-Flex und partizipative M\u00f6glichkeiten von freier Software und speziell dem OpenStreetMap-Projekt bieten eine neue und reale Perspektive die Verkehrsnetze in Eigenregie und -kontrolle zu verbessern.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 110,
+                    "name": "Felix D.",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3121,
+                "guid": "528874f1-52e0-500c-a5d7-6e714c441c38",
+                "logo": null,
+                "date": "2019-08-22T12:25:00+02:00",
+                "start": "12:25",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "ZDMSRB",
+                "url": "https://c3lt.de/camp2019/talk/ZDMSRB",
+                "title": "Hacking how we see",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Can people who don't see in 3D hack how they see?  Can we change the world by building a global citizen-science experiment to definitively find out?",
+                "description": "I'll be talking about current progress towards a generally useable and low-cost system to help amateur researchers and interested participants discover what their vision system can do.  There will be a workshop following this (location / time TBA) to discuss how to get from where we are to where want to be :-)",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 117,
+                    "name": "Ben Senior",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3127,
+                "guid": "3f939ac5-2768-5fc2-80d0-2e64a325d32d",
+                "logo": null,
+                "date": "2019-08-22T12:30:00+02:00",
+                "start": "12:30",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "ZDMWRQ",
+                "url": "https://c3lt.de/camp2019/talk/ZDMWRQ",
+                "title": "7 October 2019 - International Uprising - Movement of Movements - Extinction Rebellion",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Mass participation civil disobedience to shut down the government, to achieve the emergency action needed to tackle the crisis.",
+                "description": "Extinction Rebellion has become a phenomenon. We are growing rapidly every day. Allied movements are now joining our strategy of joyful nonviolent rebellion. This International Rebellion is our best chance yet. We must prepare to win.\r\n\r\nBut the collapse of our climate and ecosystems has begun. \r\nWildfires are ripping across the arctic. Ice is melting at speeds never thought possible. Deadly heatwaves are crippling countries around the world. Scientists express their panic daily. \r\n\r\nTELL THE TRUTH",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 22,
+                    "name": "Mars Robertson",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3139,
+                "guid": "b0681b6b-934b-5450-906b-55fb61a155aa",
+                "logo": null,
+                "date": "2019-08-22T12:35:00+02:00",
+                "start": "12:35",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "G3KNJX",
+                "url": "https://c3lt.de/camp2019/talk/G3KNJX",
+                "title": "distri: a Linux distribution to research fast package management",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Linux package management in larger distributions (apt, rpm, \u2026) is too slow. distri explores a faster approach to package management.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 133,
+                    "name": "Michael Stapelberg",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3116,
+                "guid": "4b6b6432-1eef-5ae4-9f6e-247038a0f061",
+                "logo": null,
+                "date": "2019-08-22T13:00:00+02:00",
+                "start": "13:00",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "FVXXKS",
+                "url": "https://c3lt.de/camp2019/talk/FVXXKS",
+                "title": "Teaching IoT with Open Hardware and GitHub Classroom",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Lessons learned teaching IoT engineering to bachelor students at FHNW, an applied science university in Switzerland.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 114,
+                    "name": "tamberg",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3122,
+                "guid": "258be989-ca7c-5742-b34b-cdad4b7dd64a",
+                "logo": null,
+                "date": "2019-08-22T13:05:00+02:00",
+                "start": "13:05",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "9XPMNN",
+                "url": "https://c3lt.de/camp2019/talk/9XPMNN",
+                "title": "SUSI.AI Voice Assistent for Smart Speakers, Web, Mobile, Desktop",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "SUSI.AI is an Open Source voice assistant solution running on all kinds of platforms.",
+                "description": "SUSI.AI is an Open Source voice assistant solution running on all kinds of platforms. In the talk I will cover the following points:\r\n\u2714 How to Build Your Own Assistant\r\n\u2714 Easy Skill Creation\r\n\u2714 Run it at Home\r\n\u2714 Improved Privacy\r\n\u2714 Open Code Can Be Checked by Security Experts\r\n\u2714 No Backdoors\r\n\u2714 Runs on Many Devices\r\n\u2714 Web, Android, iOS, Linux\r\n\r\nLinks: https://susi.ai\r\nGithub: https://github.com/fossasia?utf8=\u2713&q=susi",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 62,
+                    "name": "Mario Behling",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3124,
+                "guid": "9cc4dfa8-8e3b-5cbc-8b75-d0c5e4d4c0b1",
+                "logo": null,
+                "date": "2019-08-22T13:10:00+02:00",
+                "start": "13:10",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "ATV7FM",
+                "url": "https://c3lt.de/camp2019/talk/ATV7FM",
+                "title": "Badge Magic",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Magically Create Text and Cliparts on LED Name Badges using Bluetooth",
+                "description": "The Badge Magic Android app lets you create scrolling symbols and text on LED name badges through Bluetooth. The app provides options to portray names, clipart and simple animations on LED badges. For the data transfer from the smartphone to the LED badge we use Bluetooth. The project was possible after the transmissions were reverse-engineered. It was then developed by a group of developers from the FOSSASIA community.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 73,
+                    "name": "hpdang",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3129,
+                "guid": "916c4092-f29d-53b9-b02f-e555c5dcfdc6",
+                "logo": null,
+                "date": "2019-08-22T13:15:00+02:00",
+                "start": "13:15",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "HQDURS",
+                "url": "https://c3lt.de/camp2019/talk/HQDURS",
+                "title": "\"Digitalization and cyber are two sides of the same coin.\" A quote and its story",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "I'll tell the story of a confusing statement by Ursula von der Leyen. Be prepared to be surprised.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 121,
+                    "name": "Jens Ohlig",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3119,
+                "guid": "e76e6cf6-8e23-5a6e-8e29-8226d1e64a35",
+                "logo": null,
+                "date": "2019-08-22T13:20:00+02:00",
+                "start": "13:20",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "E3FZXB",
+                "url": "https://c3lt.de/camp2019/talk/E3FZXB",
+                "title": "Introducing DEEP",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "The debate on digital issues in the EU has a structural problem. DEEP is a new player in Brussels to address it.",
+                "description": "DEEP explains the important things behind the buzzwords to political participants in Brussels, but we deliberately do not see ourselves as an activist lobby group that triggers its own campaigns. We are actively working to ensure that the digital world is better regulated and decision-making takes place with a greater understanding of technical interrelationships. European democracy faces major challenges and we help to make these tasks sustainable and understandable for all concerned.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 115,
+                    "name": "fukami",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3126,
+                "guid": "56061ef2-b6fe-5af9-b19e-4b012ea7fdd1",
+                "logo": null,
+                "date": "2019-08-22T13:25:00+02:00",
+                "start": "13:25",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "KNF8ZH",
+                "url": "https://c3lt.de/camp2019/talk/KNF8ZH",
+                "title": "Draw the internet!",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "I asked children between 6 and 12 to draw the internet to better understand how future generations think about the internet today.",
+                "description": "To better understand what the internet is \u2013 and could be \u2013 I gave primary school children one simple instruction: \u201cDraw the internet\u201d. No rules, no judging \u2013 anything goes.\r\nOne set of drawings was collected in a local European school in Belgium, and another set in a local African school in Senegal. This talk reports on the differences between both cultures as well as some overall observations.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 120,
+                    "name": "Roeckoe",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3128,
+                "guid": "e94eb4bb-fda2-5ef0-a958-e16e03a69925",
+                "logo": null,
+                "date": "2019-08-22T13:30:00+02:00",
+                "start": "13:30",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "JFNXTW",
+                "url": "https://c3lt.de/camp2019/talk/JFNXTW",
+                "title": "Kitspace.org: 1-click orders for open source hardware electronics",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Kitspace.org is a site that lets you share projects and lets you order complete kits of open source hardware electronics from various distributors",
+                "description": "Kitspace.org and the 1-click BOM browser extension make open source hardware electronics more practical by letting people independently order components and printed circuit boards themselves. We are working hard on making it easier for creators to fully document their projects and for others to re-build them. This is an open source project itself and you can join our developer community [on GitHub](https://github.com/kitspace).",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 12,
+                    "name": "Kaspar Emanuel",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3133,
+                "guid": "6f88fe30-4e43-53bf-a11b-7eccbcc1754c",
+                "logo": null,
+                "date": "2019-08-22T13:35:00+02:00",
+                "start": "13:35",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "HXMSYP",
+                "url": "https://c3lt.de/camp2019/talk/HXMSYP",
+                "title": "Android! Privacy is not a luxury",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Talk to introduce the problematic nature of preinstalled apps on low cost devices. Briefly covering the primary issues and proposed solutions",
+                "description": "[Privacy International](privacyinternational.org) is currently investigating how the economically disadvantaged are exploited by manufacturers and telecommunications companies through the use of pre-installed apps (Bloatware). These apps often have poor data security practices, use custom permissions and cannot be deleted by users. Privacy International is trying to apply pressure on Google/Alphabet to better protect users, as Google has a controlling influence in the Android ecosystem",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 125,
+                    "name": "Christopher Weatherhead",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3138,
+                "guid": "6a26fb4e-a067-55d8-b3d9-38137d3e5f38",
+                "logo": null,
+                "date": "2019-08-22T13:40:00+02:00",
+                "start": "13:40",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "9ZXEAM",
+                "url": "https://c3lt.de/camp2019/talk/9ZXEAM",
+                "title": "OpenSCAD - Making 3D objects by code",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Drawing for people who can not draw, but know how to code. Brief explanation (thru examples) of what OpenSCAD is and showing some example projects.",
+                "description": "If you can not really draw, but do know how to code (like me) and want to make 3D objects OpenSCAD is your best-friend. It is an opensource programming language to design 3D objects that can easily be customized, as it is just code and easily shared.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 132,
+                    "name": "Anykey",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3130,
+                "guid": "94f96bd3-e6a4-549c-8944-5039069fad57",
+                "logo": null,
+                "date": "2019-08-22T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "J7YXS9",
+                "url": "https://c3lt.de/camp2019/talk/J7YXS9",
+                "title": "Gemeinn\u00fctzig Software Entwickeln",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "de",
+                "abstract": "Kurzvorstellung des Technikkultivierungszentrums, einer gemeinn\u00fctzigen GmbH als Dach f\u00fcr Freie Software-Projekte",
+                "description": "Das \"Center for the Cultivation of Technology\" ist eine 2016 gegr\u00fcndete gemeinn\u00fctzige GmbH, die aus Gespr\u00e4chen mit vielen Akteuren der Freien Softwarelandschaft entstanden ist.\r\n\r\nZiel 1: Beweisen, dass freie Softwareentwicklung in Deutschland gemeinn\u00fctzig sein kann!\r\n\r\nZiel 2: Workflows entwickeln, die Organisationen das Management von vielen Projekten erm\u00f6glicht, die unabh\u00e4ngig von unterschiedlichen Gruppen durchgef\u00fchrt werden.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 122,
+                    "name": "mo",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3132,
+                "guid": "91c0c40c-a5e8-5814-9a13-45648565daa5",
+                "logo": null,
+                "date": "2019-08-22T14:05:00+02:00",
+                "start": "14:05",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "99QZC8",
+                "url": "https://c3lt.de/camp2019/talk/99QZC8",
+                "title": "Announcing \u201cShutdown for Climate\u201d: The internet joins the global climate strike on September 20.",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "This movement tries to get as many websites as possible to show a \u201cgreen out\u201d page on September 20, motivating its users to join demonstration+strikes",
+                "description": "Several organisations are calling for a global climate strike week that starts September 20. \u201cShutdown for Climate\u201d is joining this movement by motivating websites to show a \u201cgreen out\u201d page on September 20, similar to what Wikipedia did earlier this year to support the Article 13 protests. The date September 20 is especially important in Germany, because the government starts discussing climate policies on this day.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 124,
+                    "name": "blipp",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3134,
+                "guid": "59e9db97-a4ab-5ab9-a555-729efc202eee",
+                "logo": null,
+                "date": "2019-08-22T14:15:00+02:00",
+                "start": "14:15",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "8GGT9Y",
+                "url": "https://c3lt.de/camp2019/talk/8GGT9Y",
+                "title": "Ola Bini: unfairly persecuted for working in cryptography, security and privacy",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Ola Bini, privacy advocate and free software developer, was detained in Ecuador on April 11. Since then, a persecution has occurred against him.",
+                "description": "Ola Bini, privacy advocate and free software developer, was detained in Ecuador on April 11. Since then, an persecution has occurred against him, which still takes place today. Lots of irregularities have happened during this persecution and it seems like this is a politically-motivated one against people working in privacy, cryptography and security.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 127,
+                    "name": "Sof\u00eda Celi",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3136,
+                "guid": "fe4e5200-7a44-5ef4-b3a1-6c9186c75a56",
+                "logo": null,
+                "date": "2019-08-22T14:20:00+02:00",
+                "start": "14:20",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "UPSHHV",
+                "url": "https://c3lt.de/camp2019/talk/UPSHHV",
+                "title": "Securing Server-Side Scripting",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Establishing a secure runtime environment for untrusted scripts running on a critical infrastructure server.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 129,
+                    "name": "Daniel Grahl",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3135,
+                "guid": "ca49d09c-e2f5-5ef9-800b-e30504a16d39",
+                "logo": null,
+                "date": "2019-08-22T14:25:00+02:00",
+                "start": "14:25",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "HJPLVE",
+                "url": "https://c3lt.de/camp2019/talk/HJPLVE",
+                "title": "Documenting proprietary BMC hardware",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "BMCs historically run proprietary firmware. I have started a project to document the hardware of HP iLO 3/4/5, so that we can write our own firmware.",
+                "description": "<https://gitlab.com/bmcfun/ilo-hw-doc>",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 128,
+                    "name": "bmcfun",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
               }
             ],
             "Plank": [
@@ -3148,6 +3997,205 @@
                 "links": [],
                 "attachments": [],
                 "answers": []
+              }
+            ],
+            "Kemistry Lounge": [
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10410.html",
+                "id": 10410,
+                "guid": "8cde404d-139e-48a1-a6c9-0924a5c2ef16",
+                "logo": "/system/events/logos/000/010/410/large/piet.jpg?1566144171",
+                "date": "2019-08-22T20:00:00+02:00",
+                "start": "20:00",
+                "duration": "02:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10410-piet",
+                "title": "Piet",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "Hello there, I am Piet 24 years old and hobby DJ.\r\nI like to meet new people and exchange ideas.\r\nBesides, I administrate global DNS servers professionally.\r\nIn my spare time everything revolves around people and music.\r\nIf you want to get to know me, talk to me, I am a very open person.\r\n",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://www.mixcloud.com/pietbear/",
+                    "title": "Piet on Mixcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10411.html",
+                "id": 10411,
+                "guid": "73a0d138-0a2a-4147-8606-1d2c5d71a566",
+                "logo": "/system/events/logos/000/010/411/large/gb_schema_white.gif?1566145861",
+                "date": "2019-08-22T22:00:00+02:00",
+                "start": "22:00",
+                "duration": "01:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10411-irq7_live",
+                "title": "irq7 live",
+                "subtitle": "",
+                "track": "Music",
+                "type": "concert",
+                "language": "en",
+                "abstract": "irq7 is a so called \"chiptune-artist\" who spend a lot of time using old computer-hardware like Gameboys, Commodore-computers and other gadgets to produce a new kind of music.\r\nCheesy melody's and bumping beats are building dance-tracks, which are not only interesting for fans of retro-sounds. \r\nThe songs are somewhere between Electro, Breaks, Drum & Bass and oldschool Chiptunes.",
+                "description": "He is playing regularly live-shows since 2006 at many locations supporting international acts (Vienna, New York, Cologne, Frankfurt...). \r\n\r\nThe first full length album was released in spring 2010 and called \"Revenge of the Calm\". It was produced one with just one Gameboy.\r\nA few month later, the \"It's not me EP\" was released which contains cover-versions of his favorite songs coming from old computers like the Commodore-C64 and the Amiga.\r\nIn 2011 the \"Girls & Gameboys EP\" was released and well received. The latest release is from 2018 and called \"Large Chiptune Collider\" and distributed on audio-tape only.\r\n\r\nBeside Gameboy-music, irq7 is focusing on tiny music-instruments and gadgets. All activities are under the umbrella-term \"Noizebox\", \r\nand can be found at http://irq7.blogspot.com. \"Noizebox\" is not just the name of the blog - in fact it is a battery-powered speaker \r\nbuild from various recycled electronic components. You can simple sit on the Noizebox and play with various electronic devices (e.g. Gameboy, Keyboards, Synth's etc.) \r\n\r\nirq7 is also organizing a annual chiptune-festival in Nuremberg called \"CHIP HITS THE FAN\" featuring international Artist, Workshops and an Open-Stage.\r\n",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "http://soundcloud.com/irq7",
+                    "title": "irq7 auf Soundcloud"
+                  },
+                  {
+                    "url": "http://irq7.blogspot.com",
+                    "title": "irq7 Webseite"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10414.html",
+                "id": 10414,
+                "guid": "74d83a58-5d04-4300-9e60-d8a4ec8cc60b",
+                "logo": "/system/events/logos/000/010/414/large/shroombab.jpg?1566146133",
+                "date": "2019-08-22T23:00:00+02:00",
+                "start": "23:00",
+                "duration": "02:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10414-shroombab",
+                "title": "Shroombab",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "Barbara Wimmer tritt unter dem Namen Shroombab seit 1998 als Drum&Bass-DJ auf. Sie hat in 28 L\u00e4ndern der Welt und mehr als 600 Clubs und auf zahlreichen Festivals gespielt.Zudem hat sie Ver\u00f6ffentlichungen auf mehr als zehn Labels - von ihrem Heimatland \u00d6sterreich, bis hin zu UK, DE und den USA. ",
+                "description": "Shroombab, DJ, producer and founder of High Tension Recordings, is a fixed \u201cinstitution\u201d of Austrias drum&bass-scene. She was born in Upper Austria and moved to Vienna in 1997 \u2013 where she started to change her instruments from flute & guitar to turntables & sequencers. Successfully: Gigs in over 28 countries all over the world and several record releases on quality labels followed.\r\n\r\nShroombabs efforts to create her own music and get perfect at spinning records were strong. But not enough, she combined creativity with her talent to organize things: She set up her own Drum\u2019n\u2019Bass clubnight called \u201cBass Land\u201d (with MC Terra), her own label \u201cHigh Tension Recordings\u201d and founded the \u201cJunglistic Sistaz\u201d \u2013 first a successful girls duo with MC Terra, later a database for women in drum&bass, which got a quality reference for female DJs especially in Eastern Europe.\r\n\r\nApart from numerous national DJ bookings at the best and most established clubs all over Austria, Shroombab got a residency at D.Kay & Raw.fulls weekly clubnight \"Beat It\" at the famous Flex in Vienna which is running since 2004. Her international DJ-gigs brought her to places like Cape Town, Johannesburg, Moscow, St. Petersburg, Talin, Seattle, Paris, London, Barcelona, Berlin, Bukarest, Bratislava and many more cities and festival.\r\n\r\nHer favorite producers are Calyx, Matrix, Ed Rush & Optical, Teebee, Break, Benny Page, Deekline, Ils, Aquasky, DZ, High Rankin, Skream, Marlow.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/shroombab",
+                    "title": "Shroombab auf Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10415.html",
+                "id": 10415,
+                "guid": "ed456981-5e9b-4305-9d53-2235bd49e259",
+                "logo": "/system/events/logos/000/010/415/large/barbnerdy.jpg?1566146674",
+                "date": "2019-08-23T01:00:00+02:00",
+                "start": "01:00",
+                "duration": "02:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10415-barbnerdy",
+                "title": "BarbNerdy",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "My philosophy: Sharing means caring \u2013 knowledge is growing when its shared.",
+                "description": "I started DJ'ing in 1990 in Munich with Garage House, NY Style, changed later to Chicago House and ended up with Detroit Techno (1994) but decided to play \u201cFreestyle\u201d very early (1996) as I got bored of playing the same kind of music all night long. In the 90ies I played a lot of gigs all over Europe along all the big names at this time. Even Tony Humphries, Jeff Mills, Colin Faver, DJ Hell. In Clubs like Tresor Berlin, E-Werk Berlin, Museum of Modern Art in Copenhagen, Flex inVienna, Raves in Italy, small and big Festivals and many many more. \r\n1997 I moved to Hamburg where I started a monthyl club night called Club Neu at Club Tempelhof. There we played a really cool freestyle programm, from Hip-Hop to Djungle, from Electro via Disco to House or Beatz. And the crowd there was really cool. They danced to everything we \"served\". \r\nI also organized there a really cool night with Cheap Records from Vienna meets Clear Records (Matthew Herbert) or the huge DJ Hell at Rote Flora event. Somtimes I had a chance to play the famour Pudel Club which was also big fun!\r\nIn 1999 I moved to Berlin where I started \"Support Your Local Ghetto\" which was the name of my weekly Radio Show on Twen.FM a pirate radio here in Berlin. I had a lot of fun playing my fave tunes plus having guests from all over the world. Mostly my guests where just from the neighborhood. I love my hood. There are so many talented artists which have to be heard. So, lets stay local. But local not only in the meaning of territory, local means also all the friends and people you have in your neighborhood. Will never forget the outstanding show with Blake Baxter and Abe Duque or with the Stones Throw Dudes. Some recordings of this shows must still be in the interwebs. Will try to find and publish them here.\r\nIn 2011 I reactived the \"support your local ghetto\" This time at the lovely Panke in Berlin Wedding as a monthly club night. Every last friday of the month. This event I did for 3 years until April 2014.\r\nWork in Music:\r\nI started working in the music \u2013 biz also very early - in the very early 90ies in Munich where I started the booking agency around the Label Disko B and the Club Ultraschall. (Artists: DJ Hell, Blake Baxter, Abe Duque, Patrick Pulsinger and many more).\r\n\r\nIn \u201996 a major label called and I moved to Hamburg to promote great artists like: Goldie, Roni Size, Money Mark, Portishead etc\u2026 Parallel I had a weekly residency at Club Tempelhof, where I played my \u201cFreestyle\u201d program. Of course way too early, so after 1 year it was done. After my experience with a Major Label I did some freelance jobs till the next milestone in my live started: Press Speaker Assistant of the Loveparade \u201999 in Berlin. I moved to Berlin, worked for the Sonar Kollektiv (Label collective of Jazzanova) until a friend of mine hired me to help him setting up the Software Startup go_Disko*. I was really happy there but one day I received a mail from iTunes, where they offered me the Job as \u201cHead of Editorial\u201d for the German iTunes store. I started working there right after they opened in Germany \u2013 in a team of 2 people \u2013 for the next 3,5 years. Great Time it was!\r\nAfter this great experience I was totally focussed on the topic \u201cfuture of things.. \u201d and changed after some nice little jobs for BPitch Control, Puppetmastaz etc..from the music biz to the online biz. Cause at this time (and most is still) every cool new thing was / is forbidden by law in Germany. I organized the re:publica 09 (started 6 weeks before and put all strings together) and now I\u2019m an Online Project Manager, have my 2 own blogs, still do DJing and diggin music. I\u2019m very curious about new strategies, recommendation systems, apps and have a dream of an aggregated platform with something like a semantic search, where you can find everything about your fave artist, movie etc.. Where you can listen for free, pay for a download or even pay per stream. All in one platform. Since 2 years I\u2019m a paying Spotify customer. Started in Sept. 2007 using Soundcloud for my DJ mixes. All my 23 Mixes where played 15.000 times, downloaded 3.100 times in 107 countries since than. I dig music all through the internet, get recommendations from my social network, share my findings and pay wherever I can pay. I\u2019m a very proud owner of 15.000 Vinyls and have around 160 GB well sorted music on my hard drive.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/barbnerdy/",
+                    "title": "BarbNerdy on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10416.html",
+                "id": 10416,
+                "guid": "5da09557-9be1-40d8-955d-153c5cb9a9cb",
+                "logo": "/system/events/logos/000/010/416/large/tadata.jpg?1566147158",
+                "date": "2019-08-23T03:00:00+02:00",
+                "start": "03:00",
+                "duration": "02:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10416-t-data",
+                "title": "T-Data",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "Clear Memory member, future record store owner and Data Wrangler based in Leipzig. \r\n\r\nTransforming Breaks, UK Bass, Footwork, bossy Electro and Jungle into another format with the intent of making it more appropriate and valuable for a variety of listeners.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/tdata",
+                    "title": "T-Data on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              }
+            ],
+            "Rockmore Booth": [
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10408.html",
+                "id": 10408,
+                "guid": "6c9f102a-0aed-4360-a31b-2bdb777d0cd8",
+                "logo": null,
+                "date": "2019-08-22T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "03:00",
+                "room": "Rockmore Booth",
+                "slug": "camp19lounge-10408-aex",
+                "title": "AEX",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10409.html",
+                "id": 10409,
+                "guid": "4b199723-ca6c-4b84-b100-a6ab18f8412e",
+                "logo": "/system/events/logos/000/010/409/large/kaubl.jpg?1566139203",
+                "date": "2019-08-22T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "03:00",
+                "room": "Rockmore Booth",
+                "slug": "camp19lounge-10409-kaubl",
+                "title": "kAUBL",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "Seinen Freunden ist Marcus Kestner unter vielen Namen bekannt. Einer\r\ndavon ist \u201eDer Schrauber\u201c, der nicht nur von seinen Skills in Sachen Technik\r\nund Handwerk herr\u00fchrt, sondern auch von seiner Art der Musikproduktion.\r\nSeit kurzem ver\u00f6ffentlicht er jedoch unter seinem neuem Pseudonym Kaubl\r\nund spielt auch die ein oder andere Platte aus der Sammlung dem geneigten\r\nPublikum vor.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/kaubl",
+                    "title": "kAUBL on Soundcloud"
+                  }
+                ],
+                "attachments": []
               }
             ],
             "Village:HardwareHackingArea": [
@@ -5549,6 +6597,186 @@
                 "answers": []
               }
             ],
+            "Kemistry Lounge": [
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10419.html",
+                "id": 10419,
+                "guid": "b85045f4-2bd4-4053-98ae-fb3046e2d22b",
+                "logo": null,
+                "date": "2019-08-23T20:00:00+02:00",
+                "start": "20:00",
+                "duration": "02:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10419-latin-danceparty_with_introduction_for_beginners",
+                "title": "Latin-Danceparty with Introduction for Beginners",
+                "subtitle": "learn to dance!",
+                "track": "Music",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "A latin party with music and dancing. Everybody is wellcome to join. If you \"can't dance\" or have never danced before, we can show you how :)",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10420.html",
+                "id": 10420,
+                "guid": "be4922ec-7f31-474c-b5c6-27e2419bbeb5",
+                "logo": "/system/events/logos/000/010/420/large/jake1.jpg?1566150973",
+                "date": "2019-08-23T22:00:00+02:00",
+                "start": "22:00",
+                "duration": "01:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10420-jake_chambers_live",
+                "title": "Jake Chambers live",
+                "subtitle": "",
+                "track": "Music",
+                "type": "concert",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://www.youtube.com/channel/UCMfMMgvx37E_zOShz3xebIA/",
+                    "title": "Jake Chambers on YT"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10421.html",
+                "id": 10421,
+                "guid": "94ab0eb5-7de0-4de6-820a-0119c1d0a66e",
+                "logo": "/system/events/logos/000/010/421/large/tschunkelmusik.png?1566151358",
+                "date": "2019-08-23T23:00:00+02:00",
+                "start": "23:00",
+                "duration": "02:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10421-tschunkelmusic",
+                "title": "tschunkelmusic",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "sind Erna Besen und Rosa Luxus",
+                "description": " Erna Besen studierte zun\u00e4chst Geschichte, Anthropologie und europ\u00e4ische Ethnologie auf Lehramt, blieb jedoch dem bunten Nachtleben der Fernuniversit\u00e4t Hagen verhaftet. Als international erfolgreiche Produzentin von elektronischer Musik ist sie das Mastermind hinter der unverkennbaren Symbiose aus Tschunk und Beats, die Tschunkelmusik zu einem einzigartigen Musik-Projekt macht. Die Bedroom-Producerin verbringt quasi jede Nacht im eigenen Studio und entwickelt so tr\u00e4umerische Klangtexturen.\r\n\r\n Rosa Luxus will die mysogyne Steifheit der europ\u00e4ischen Clubszene von innen heraus mit Tschunk und Tanz aufbohren. Sie ist Resident DJane in der Bielefelder Beatschmiede, wo sie die unverkennbare und \u00fcber die Stadt- und Kreisgrenze hinaus legend\u00e4re Underground-Kultur schon fr\u00fch pr\u00e4gte und stetig weiterentwickelt.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://tschunkelmusik.de/",
+                    "title": "tschunkelmusik Homepage"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10422.html",
+                "id": 10422,
+                "guid": "5da6ca53-2dfb-4a1a-a45f-d50e6bfd24f7",
+                "logo": "/system/events/logos/000/010/422/large/dana.jpg?1566151671",
+                "date": "2019-08-24T01:00:00+02:00",
+                "start": "01:00",
+                "duration": "02:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10422-dana_ruh",
+                "title": "Dana Ruh",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "Dana is a fine DJ who holds down resident duties at top Berlin space, Club der Visionaere.",
+                "description": "Born and raised in Gera in Germany, Dana Ruh soon found her way to the capital city of Berlin. Since then, she ha been on a constantly evolving musical journey. In the early years, her sound was rooted in techno and landed most often on the label Brouqade Records, which she established in 2007. The label is still running too, and celebrated its 10th Year Birthday Celebration entitled 'Past/Present/Future' that emphatically encapsulated all that's great about the label. \r\nAside from Brouqade, Dana's music has also featured on the liked of Autoreply, Work Them Records, Howl and Underground Quality. It was Jus Ed's label where she released her stunning debut album. 'Naturally' in 2014, an LP that introduced Dana to a whole new audience and showcased her pure house sound with some distinctions. In 2017 she started her new Label 'Cave Recordings' that showcased her wide musical range mainly rooted in House with old school flavor.\r\nWhen she isn't busy in the studio crafting textured tracks, Dana is a fine DJ who holds down resident duties at top Berlin space, Club der Visionaere. It is there that she lays down seductive tracks from the worlds of house and techno as well as gems in between. Aside from her beloved CDV, Dana has played in some of the globe's foremost house and techno nightclubs, often alongside some of the scene's prime movers and shakers.\r\nDespite working in such an over saturated and competitive field, Dana Ruh manages to speak louder and more coherently that most, and for that reason she deserves all the love she gets.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/DanaRuh",
+                    "title": "Dana Ruh on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10423.html",
+                "id": 10423,
+                "guid": "ada3bff5-bfc3-41f6-8670-b3d87930291a",
+                "logo": null,
+                "date": "2019-08-24T03:00:00+02:00",
+                "start": "03:00",
+                "duration": "02:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10423-klex",
+                "title": "Klex",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              }
+            ],
+            "Rockmore Booth": [
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10417.html",
+                "id": 10417,
+                "guid": "cb1e3dc7-3d3d-40e5-925a-bd8ef2995c6d",
+                "logo": null,
+                "date": "2019-08-23T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "03:00",
+                "room": "Rockmore Booth",
+                "slug": "camp19lounge-10417-zewski",
+                "title": "Zewski",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10418.html",
+                "id": 10418,
+                "guid": "7af77b50-9cd4-4187-ac6c-f57759130c73",
+                "logo": null,
+                "date": "2019-08-23T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "03:00",
+                "room": "Rockmore Booth",
+                "slug": "camp19lounge-10418-yj_heimi",
+                "title": "YJ Heimi",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "Village:Backspace": [
               {
                 "id": 1029,
@@ -7639,6 +8867,201 @@
                 "answers": []
               }
             ],
+            "Kemistry Lounge": [
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10426.html",
+                "id": 10426,
+                "guid": "bafa593b-43c1-49cc-925d-38b2ea3396a3",
+                "logo": "/system/events/logos/000/010/426/large/trummerschlunk_-_pressefoto01.jpg?1566152502",
+                "date": "2019-08-24T20:00:00+02:00",
+                "start": "20:00",
+                "duration": "01:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10426-trummerschlunk",
+                "title": "trummerschlunk",
+                "subtitle": "",
+                "track": "Music",
+                "type": "concert",
+                "language": "en",
+                "abstract": "audiolith, lemme, hold your ground",
+                "description": "Slow techno immerses into a modular synthesizer-driven soundscape and invites to a sci-fi inspired journey toward big questions and amorphous feelings.\r\n",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "http://www.trummerschlunk.de/",
+                    "title": "trummerschlunk Homepage"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10427.html",
+                "id": 10427,
+                "guid": "397b4da9-cab6-46fb-8f50-7d0bc2fb58c1",
+                "logo": "/system/events/logos/000/010/427/large/argon.jpg?1566154202",
+                "date": "2019-08-24T21:00:00+02:00",
+                "start": "21:00",
+                "duration": "02:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10427-argon",
+                "title": "Argon",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "Seine Vorliebe f\u00fcr elektronische Musik entdeckt Argon im heimatlichen Karlsruhe. Er organisiert verschiedene Live-Projekte und beginnt mit der Produktion von Filmmusik.",
+                "description": "1993 kommt er in Berlin mit Techno in Ber\u00fchrung. Seit 1996 steht er regelm\u00e4\u00dfig hinter den\r\nPlattentellern. Sein Stil entwickelt sich \u00fcber die Jahre zu einer vielseitigen Melange aus Minimal,\r\nHouse, Techno und Elektropop. Dabei erg\u00e4nzt er die verqueren, ironischen Elemente des Minimal\r\nmit geschmeidigen, fie\u00dfenden Grooves des House. Argon verbindet musikalischen Anspruch mit\r\nunbedingter Tanzbarkeit. Das stellt er auch als Mitveranstalter bei Auftritten der \u201cSuess&Sauer\u201d-\r\nPartys unter Beweis.\r\nZu den weiteren Stationen auf seinem Weg durch die Berliner Clubszene geh\u00f6ren unter anderem\r\nAuftritte im Salon zur Wilden Renate, Horst Krzbrg, Suicide Circus, Maria am Ostbahnhof, Golden\r\nGate, Arena Club und Ballhaus Ost.\r\nDiscographie (Auswahl):\r\nTheken EP (12\u2032\u2032) eintakt 2007 | bricks E.P. (MP3) plusplus 2009 | Freihafen EP (12\u2032\u2032) rare 2011 | viel\r\nzu kurz (MP3) clear-cut-records 2012\r\nReferenzen (Auswahl):\r\nHorst Krzbrg, Suicide Circus, Cassiopeia Berlin, Club der Vision\u00e4re, Insel der Jugend, Maria am\r\nOstbahnhof/Ufer, Golden Gate, Arena Club, Pyonen's Feieralam, Hirschbar, M.I.K.Z., Ritter\r\nButzke, Zur M\u00f6belfabrik, Tresor",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/argon",
+                    "title": "Argon on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10428.html",
+                "id": 10428,
+                "guid": "523600c8-0fcf-4a48-818e-4ebe7f26925b",
+                "logo": "/system/events/logos/000/010/428/large/localprophets.jpg?1566154673",
+                "date": "2019-08-24T23:00:00+02:00",
+                "start": "23:00",
+                "duration": "02:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10428-local_prophets",
+                "title": "Local Prophets",
+                "subtitle": "live and DJ",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "http://localprophets.org/",
+                    "title": "Local Prophets Homepage"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10429.html",
+                "id": 10429,
+                "guid": "5546d570-2194-40ce-ade5-8d6183fc16d2",
+                "logo": null,
+                "date": "2019-08-25T01:00:00+02:00",
+                "start": "01:00",
+                "duration": "02:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10429-marcus_carp",
+                "title": "Marcus Carp",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10430.html",
+                "id": 10430,
+                "guid": "909c6ac5-949e-4d26-b2ed-6fddf2707a0f",
+                "logo": "/system/events/logos/000/010/430/large/3raum.jpg?1566154979",
+                "date": "2019-08-25T03:00:00+02:00",
+                "start": "03:00",
+                "duration": "02:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10430-der_dritte_raum",
+                "title": "Der Dritte Raum",
+                "subtitle": "live",
+                "track": "Music",
+                "type": "concert",
+                "language": "en",
+                "abstract": "Der Dritte Raum aka Andreas Kr\u00fcger aka d3R.\r\nProducer / Liveact / Remixer / Studiojunkie since 65 million years...\r\nReleased & Forthcoming music on:\r\nKatermukke, Harthouse, Still Hot, Cocoon, Push, Virgin, d3R Records, EMI, Funken, Save To Disc and many, many more\u2026",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/derdritteraum",
+                    "title": "Der Dritte Raum on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              }
+            ],
+            "Rockmore Booth": [
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10424.html",
+                "id": 10424,
+                "guid": "1c1d5ada-8e5d-42ee-87b1-934c1413a8bc",
+                "logo": "/system/events/logos/000/010/424/large/couchsofa.jpg?1566151918",
+                "date": "2019-08-24T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "03:00",
+                "room": "Rockmore Booth",
+                "slug": "camp19lounge-10424-couchsofa",
+                "title": "couchsofa",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "is organizing the GPN lounge",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://www.mixcloud.com/couchsofa/",
+                    "title": "couchsofa on Mixcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10425.html",
+                "id": 10425,
+                "guid": "87577e9f-468c-40fe-8d9d-fd562e7c397d",
+                "logo": "/system/events/logos/000/010/425/large/jeanette.jpg?1566152243",
+                "date": "2019-08-24T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "03:00",
+                "room": "Rockmore Booth",
+                "slug": "camp19lounge-10425-jeanette_tresbien",
+                "title": "Jeanette Tr\u00e8sbien",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "Part of Hamburgs \"G\u00e4ngeviertel\". Creator of the legendary \"Schneekugel\" witch was on several Congress.  ",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/jeanette-tr-sbien",
+                    "title": "Jeanette Tr\u00e8sbien on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              }
+            ],
             "Village:About:freedom": [
               {
                 "id": 1176,
@@ -9096,6 +10519,177 @@
             "Johnson (Workshop 1)": [],
             "Goldberg (Workshop 2)": [],
             "THM Workshop": [],
+            "Kemistry Lounge": [
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10433.html",
+                "id": 10433,
+                "guid": "bb6567c9-2e2e-4e43-8679-6ce87341d6e2",
+                "logo": null,
+                "date": "2019-08-25T20:00:00+02:00",
+                "start": "20:00",
+                "duration": "02:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10433-nele_cornelius",
+                "title": "nele & cornelius",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/nele-wittler",
+                    "title": "Niki Nebel"
+                  },
+                  {
+                    "url": "https://soundcloud.com/cornelius11",
+                    "title": "Cornelius"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10434.html",
+                "id": 10434,
+                "guid": "0912c0ba-228f-41e2-bac1-1b91ebd40755",
+                "logo": "/system/events/logos/000/010/434/large/sportbrigade.jpg?1566156407",
+                "date": "2019-08-25T22:00:00+02:00",
+                "start": "22:00",
+                "duration": "02:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10434-sportbrigade_sparwasser",
+                "title": "Sportbrigade Sparwasser",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/sportbrigade-sparwasser",
+                    "title": "Sportbrigade Sparwasser on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10435.html",
+                "id": 10435,
+                "guid": "e7955607-1510-40d8-8fea-47c151be4be4",
+                "logo": "/system/events/logos/000/010/435/large/spock.jpg?1566156578",
+                "date": "2019-08-26T00:00:00+02:00",
+                "start": "00:00",
+                "duration": "02:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10435-dj-spock",
+                "title": "dj-spock",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/dj-spock-ffm",
+                    "title": "dj-spock on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10436.html",
+                "id": 10436,
+                "guid": "79e5bbac-adb3-42be-8342-9ca76ab8a5ff",
+                "logo": null,
+                "date": "2019-08-26T02:00:00+02:00",
+                "start": "02:00",
+                "duration": "03:00",
+                "room": "Kemistry Lounge",
+                "slug": "camp19lounge-10436-silvie",
+                "title": "Silvie",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              }
+            ],
+            "Rockmore Booth": [
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10431.html",
+                "id": 10431,
+                "guid": "a04a2a51-c372-4bde-8d99-c3297146fe59",
+                "logo": "/system/events/logos/000/010/431/large/jhns.jpg?1566155221",
+                "date": "2019-08-25T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "03:00",
+                "room": "Rockmore Booth",
+                "slug": "camp19lounge-10431-jhns",
+                "title": "JHNS",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "Czech producer and DJ for more than 14 years. During his career played across the Czech Republic, Slovakia, Ibiza, Orlando (US), Niznij Novgorod (RUS), SHA 2017 (NL), Amsterdam Dance Event 2015, 2016 (NL). Johannes is co-owner of Lisztomania Records and at this time has around 50 releases on respected labels such as DeepWit Recordings, Sole Channel Music, Delve Deeper, SP Recordings. He is also the resident of Ibiza Live Radio and together with Denzik play b2b for over 2 years. From 2017 for his specific house music sound have some releases under name JHNS with release on Blind Vison Records and more to come.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/jhnsmusic",
+                    "title": "JHNS on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10432.html",
+                "id": 10432,
+                "guid": "d380e4bc-55f2-417b-9f37-e14efb1cf8ee",
+                "logo": "/system/events/logos/000/010/432/large/mo.jpg?1566155936",
+                "date": "2019-08-25T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "03:00",
+                "room": "Rockmore Booth",
+                "slug": "camp19lounge-10432-mogreens",
+                "title": "mogreens",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "the maker of the ambient floor at the congress",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "http://mogreens.de/",
+                    "title": "mogreens homepage"
+                  }
+                ],
+                "attachments": []
+              }
+            ],
             "Village:Haecksen": [
               {
                 "id": 1270,

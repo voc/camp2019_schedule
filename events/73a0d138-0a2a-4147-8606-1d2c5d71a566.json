@@ -1,0 +1,32 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10411.html",
+  "id": 10411,
+  "guid": "73a0d138-0a2a-4147-8606-1d2c5d71a566",
+  "logo": "/system/events/logos/000/010/411/large/gb_schema_white.gif?1566145861",
+  "date": "2019-08-22T22:00:00+02:00",
+  "start": "22:00",
+  "duration": "01:00",
+  "room": "Kemistry Lounge",
+  "slug": "camp19lounge-10411-irq7_live",
+  "title": "irq7 live",
+  "subtitle": "",
+  "track": "Music",
+  "type": "concert",
+  "language": "en",
+  "abstract": "irq7 is a so called \"chiptune-artist\" who spend a lot of time using old computer-hardware like Gameboys, Commodore-computers and other gadgets to produce a new kind of music.\r\nCheesy melody's and bumping beats are building dance-tracks, which are not only interesting for fans of retro-sounds. \r\nThe songs are somewhere between Electro, Breaks, Drum & Bass and oldschool Chiptunes.",
+  "description": "He is playing regularly live-shows since 2006 at many locations supporting international acts (Vienna, New York, Cologne, Frankfurt...). \r\n\r\nThe first full length album was released in spring 2010 and called \"Revenge of the Calm\". It was produced one with just one Gameboy.\r\nA few month later, the \"It's not me EP\" was released which contains cover-versions of his favorite songs coming from old computers like the Commodore-C64 and the Amiga.\r\nIn 2011 the \"Girls & Gameboys EP\" was released and well received. The latest release is from 2018 and called \"Large Chiptune Collider\" and distributed on audio-tape only.\r\n\r\nBeside Gameboy-music, irq7 is focusing on tiny music-instruments and gadgets. All activities are under the umbrella-term \"Noizebox\", \r\nand can be found at http://irq7.blogspot.com. \"Noizebox\" is not just the name of the blog - in fact it is a battery-powered speaker \r\nbuild from various recycled electronic components. You can simple sit on the Noizebox and play with various electronic devices (e.g. Gameboy, Keyboards, Synth's etc.) \r\n\r\nirq7 is also organizing a annual chiptune-festival in Nuremberg called \"CHIP HITS THE FAN\" featuring international Artist, Workshops and an Open-Stage.\r\n",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [],
+  "links": [
+    {
+      "url": "http://soundcloud.com/irq7",
+      "title": "irq7 auf Soundcloud"
+    },
+    {
+      "url": "http://irq7.blogspot.com",
+      "title": "irq7 Webseite"
+    }
+  ],
+  "attachments": []
+}

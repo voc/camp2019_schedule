@@ -1,0 +1,31 @@
+{
+  "id": 3139,
+  "guid": "b0681b6b-934b-5450-906b-55fb61a155aa",
+  "logo": null,
+  "date": "2019-08-22T12:35:00+02:00",
+  "start": "12:35",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "G3KNJX",
+  "url": "https://c3lt.de/camp2019/talk/G3KNJX",
+  "title": "distri: a Linux distribution to research fast package management",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "Linux package management in larger distributions (apt, rpm, \u2026) is too slow. distri explores a faster approach to package management.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 133,
+      "name": "Michael Stapelberg",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

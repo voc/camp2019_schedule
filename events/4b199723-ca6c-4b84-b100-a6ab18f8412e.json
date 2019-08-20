@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10409.html",
+  "id": 10409,
+  "guid": "4b199723-ca6c-4b84-b100-a6ab18f8412e",
+  "logo": "/system/events/logos/000/010/409/large/kaubl.jpg?1566139203",
+  "date": "2019-08-22T17:00:00+02:00",
+  "start": "17:00",
+  "duration": "03:00",
+  "room": "Rockmore Booth",
+  "slug": "camp19lounge-10409-kaubl",
+  "title": "kAUBL",
+  "subtitle": "",
+  "track": "Music",
+  "type": "djset",
+  "language": "en",
+  "abstract": "Seinen Freunden ist Marcus Kestner unter vielen Namen bekannt. Einer\r\ndavon ist \u201eDer Schrauber\u201c, der nicht nur von seinen Skills in Sachen Technik\r\nund Handwerk herr\u00fchrt, sondern auch von seiner Art der Musikproduktion.\r\nSeit kurzem ver\u00f6ffentlicht er jedoch unter seinem neuem Pseudonym Kaubl\r\nund spielt auch die ein oder andere Platte aus der Sammlung dem geneigten\r\nPublikum vor.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [],
+  "links": [
+    {
+      "url": "https://soundcloud.com/kaubl",
+      "title": "kAUBL on Soundcloud"
+    }
+  ],
+  "attachments": []
+}

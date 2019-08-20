@@ -1,0 +1,31 @@
+{
+  "id": 3132,
+  "guid": "91c0c40c-a5e8-5814-9a13-45648565daa5",
+  "logo": null,
+  "date": "2019-08-22T14:05:00+02:00",
+  "start": "14:05",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "99QZC8",
+  "url": "https://c3lt.de/camp2019/talk/99QZC8",
+  "title": "Announcing \u201cShutdown for Climate\u201d: The internet joins the global climate strike on September 20.",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "This movement tries to get as many websites as possible to show a \u201cgreen out\u201d page on September 20, motivating its users to join demonstration+strikes",
+  "description": "Several organisations are calling for a global climate strike week that starts September 20. \u201cShutdown for Climate\u201d is joining this movement by motivating websites to show a \u201cgreen out\u201d page on September 20, similar to what Wikipedia did earlier this year to support the Article 13 protests. The date September 20 is especially important in Germany, because the government starts discussing climate policies on this day.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 124,
+      "name": "blipp",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

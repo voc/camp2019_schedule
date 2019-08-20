@@ -1,0 +1,31 @@
+{
+  "id": 3112,
+  "guid": "f5d19855-9a18-5881-9bb1-53f20855e60c",
+  "logo": null,
+  "date": "2019-08-22T12:20:00+02:00",
+  "start": "12:20",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "YDZ9C7",
+  "url": "https://c3lt.de/camp2019/talk/YDZ9C7",
+  "title": "Eine Wende f\u00fcr flexible Verkehrssysteme",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "de",
+  "abstract": "Wie die Welt mit freier Software und offenenen Daten den \u00d6PNV revolutioniert.",
+  "description": "Tats\u00e4chlich erstellen derzeit zum ersten Mal, viele St\u00e4dte auf der Welt, Software-gest\u00fctzte L\u00f6sungen f\u00fcr ihren \u00d6PNV. Die meisten \u00f6ffentlichen Verkehrsnetze folgen eines komplexeren strukturellen Aufbaus als es in Westeuropa gang und gebe ist. Der Datenstandard GTFS-Flex und partizipative M\u00f6glichkeiten von freier Software und speziell dem OpenStreetMap-Projekt bieten eine neue und reale Perspektive die Verkehrsnetze in Eigenregie und -kontrolle zu verbessern.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 110,
+      "name": "Felix D.",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

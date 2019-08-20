@@ -1,0 +1,31 @@
+{
+  "id": 3118,
+  "guid": "15e721f6-cd07-5105-b4eb-3bd77c86fe0a",
+  "logo": null,
+  "date": "2019-08-22T12:00:00+02:00",
+  "start": "12:00",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "MTY7UV",
+  "url": "https://c3lt.de/camp2019/talk/MTY7UV",
+  "title": "How to talk lightning",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "A brief introduction to the CCCamp 2019 Lighning Talks session.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 71,
+      "name": "bigalex",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

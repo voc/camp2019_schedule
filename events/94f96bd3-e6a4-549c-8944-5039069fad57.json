@@ -1,0 +1,31 @@
+{
+  "id": 3130,
+  "guid": "94f96bd3-e6a4-549c-8944-5039069fad57",
+  "logo": null,
+  "date": "2019-08-22T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "J7YXS9",
+  "url": "https://c3lt.de/camp2019/talk/J7YXS9",
+  "title": "Gemeinn\u00fctzig Software Entwickeln",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "de",
+  "abstract": "Kurzvorstellung des Technikkultivierungszentrums, einer gemeinn\u00fctzigen GmbH als Dach f\u00fcr Freie Software-Projekte",
+  "description": "Das \"Center for the Cultivation of Technology\" ist eine 2016 gegr\u00fcndete gemeinn\u00fctzige GmbH, die aus Gespr\u00e4chen mit vielen Akteuren der Freien Softwarelandschaft entstanden ist.\r\n\r\nZiel 1: Beweisen, dass freie Softwareentwicklung in Deutschland gemeinn\u00fctzig sein kann!\r\n\r\nZiel 2: Workflows entwickeln, die Organisationen das Management von vielen Projekten erm\u00f6glicht, die unabh\u00e4ngig von unterschiedlichen Gruppen durchgef\u00fchrt werden.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 122,
+      "name": "mo",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10428.html",
+  "id": 10428,
+  "guid": "523600c8-0fcf-4a48-818e-4ebe7f26925b",
+  "logo": "/system/events/logos/000/010/428/large/localprophets.jpg?1566154673",
+  "date": "2019-08-24T23:00:00+02:00",
+  "start": "23:00",
+  "duration": "02:00",
+  "room": "Kemistry Lounge",
+  "slug": "camp19lounge-10428-local_prophets",
+  "title": "Local Prophets",
+  "subtitle": "live and DJ",
+  "track": "Music",
+  "type": "djset",
+  "language": "en",
+  "abstract": "",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [],
+  "links": [
+    {
+      "url": "http://localprophets.org/",
+      "title": "Local Prophets Homepage"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": 3133,
+  "guid": "6f88fe30-4e43-53bf-a11b-7eccbcc1754c",
+  "logo": null,
+  "date": "2019-08-22T13:35:00+02:00",
+  "start": "13:35",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "HXMSYP",
+  "url": "https://c3lt.de/camp2019/talk/HXMSYP",
+  "title": "Android! Privacy is not a luxury",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "Talk to introduce the problematic nature of preinstalled apps on low cost devices. Briefly covering the primary issues and proposed solutions",
+  "description": "[Privacy International](privacyinternational.org) is currently investigating how the economically disadvantaged are exploited by manufacturers and telecommunications companies through the use of pre-installed apps (Bloatware). These apps often have poor data security practices, use custom permissions and cannot be deleted by users. Privacy International is trying to apply pressure on Google/Alphabet to better protect users, as Google has a controlling influence in the Android ecosystem",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 125,
+      "name": "Christopher Weatherhead",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10410.html",
+  "id": 10410,
+  "guid": "8cde404d-139e-48a1-a6c9-0924a5c2ef16",
+  "logo": "/system/events/logos/000/010/410/large/piet.jpg?1566144171",
+  "date": "2019-08-22T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "02:00",
+  "room": "Kemistry Lounge",
+  "slug": "camp19lounge-10410-piet",
+  "title": "Piet",
+  "subtitle": "",
+  "track": "Music",
+  "type": "djset",
+  "language": "en",
+  "abstract": "Hello there, I am Piet 24 years old and hobby DJ.\r\nI like to meet new people and exchange ideas.\r\nBesides, I administrate global DNS servers professionally.\r\nIn my spare time everything revolves around people and music.\r\nIf you want to get to know me, talk to me, I am a very open person.\r\n",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [],
+  "links": [
+    {
+      "url": "https://www.mixcloud.com/pietbear/",
+      "title": "Piet on Mixcloud"
+    }
+  ],
+  "attachments": []
+}

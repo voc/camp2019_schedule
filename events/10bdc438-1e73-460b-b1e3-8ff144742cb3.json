@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10403.html",
+  "id": 10403,
+  "guid": "10bdc438-1e73-460b-b1e3-8ff144742cb3",
+  "logo": "/system/events/logos/000/010/403/large/morelle.jpg?1566138200",
+  "date": "2019-08-21T21:00:00+02:00",
+  "start": "21:00",
+  "duration": "02:00",
+  "room": "Kemistry Lounge",
+  "slug": "camp19lounge-10403-marco_morelle",
+  "title": "Marco Morelle",
+  "subtitle": "",
+  "track": "Music",
+  "type": "djset",
+  "language": "en",
+  "abstract": "Fusion, Garbicz, CCC, Hamburg, Berlin, die Welt, ...",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [],
+  "links": [
+    {
+      "url": "https://www.mixcloud.com/Morelle/",
+      "title": "Marco Morelle auf Mixcloud"
+    }
+  ],
+  "attachments": []
+}
