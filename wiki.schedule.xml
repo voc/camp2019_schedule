@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-20 13:06</version>
+  <version>2019-08-20 13:20</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -460,7 +460,7 @@
         <subtitle>about:stage</subtitle>
         <track>self organized sessions</track>
         <type>talk</type>
-        <language>en</language>
+        <language>de</language>
         <abstract/>
         <description/>
         <persons>
