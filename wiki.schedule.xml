@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-20 17:30</version>
+  <version>2019-08-20 17:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -332,11 +332,13 @@
         <type>hands-on</type>
         <language>de</language>
         <abstract/>
-        <description/>
+        <description>Building tarps for the Metalab Dome</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Ripper">Ripper</person>
         </persons>
-        <links/>
+        <links>
+          <link>https://metalab.at/wiki/Dome_2.0</link>
+        </links>
       </event>
     </room>
     <room name="Village:Infuanfu">
@@ -2496,6 +2498,26 @@
         <links>
           <link>http://scottishconsulate.org</link>
         </links>
+      </event>
+    </room>
+    <room name="Village:Milliways">
+      <event id="1338" guid="4b982349-7593-41ef-af01-0dc6348d2678">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Blockchain_Interoperability</url>
+        <logo/>
+        <date>2019-08-23T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>Village:Milliways</room>
+        <slug>camp2019-1338-session_blockchain_interoperability</slug>
+        <title>Blockchain Interoperability</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Unidirectional and bidirectional crosschain transfers using NIPoPoWs and Proof-of-Burn</description>
+        <persons/>
+        <links/>
       </event>
     </room>
     <room name="Village:NixOS">

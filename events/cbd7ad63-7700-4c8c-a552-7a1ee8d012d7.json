@@ -14,7 +14,7 @@
   "type": "hands-on",
   "language": "de",
   "abstract": "",
-  "description": "",
+  "description": "Building tarps for the Metalab Dome",
   "persons": [
     {
       "id": 0,
@@ -22,5 +22,7 @@
       "public_name": "Ripper"
     }
   ],
-  "links": []
+  "links": [
+    "https://metalab.at/wiki/Dome_2.0"
+  ]
 }

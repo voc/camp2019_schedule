@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Deneb; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 303; lightning Idril; wiki 2019-08-20 17:30",
+    "version": "Deneb; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 303; lightning Idril; wiki 2019-08-20 17:50",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -1517,7 +1517,7 @@
                 "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "",
+                "description": "Building tarps for the Metalab Dome",
                 "persons": [
                   {
                     "id": 0,
@@ -1525,7 +1525,9 @@
                     "public_name": "Ripper"
                   }
                 ],
-                "links": []
+                "links": [
+                  "https://metalab.at/wiki/Dome_2.0"
+                ]
               }
             ],
             "Village:Infuanfu": [
@@ -7329,6 +7331,28 @@
                 "links": [
                   "http://scottishconsulate.org"
                 ]
+              }
+            ],
+            "Village:Milliways": [
+              {
+                "id": 1338,
+                "guid": "4b982349-7593-41ef-af01-0dc6348d2678",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Blockchain_Interoperability",
+                "logo": null,
+                "date": "2019-08-23T19:00:00+02:00",
+                "start": "19:00",
+                "duration": "1:00",
+                "room": "Village:Milliways",
+                "slug": "camp2019-1338-session_blockchain_interoperability",
+                "title": "Blockchain Interoperability",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Unidirectional and bidirectional crosschain transfers using NIPoPoWs and Proof-of-Burn",
+                "persons": [],
+                "links": []
               }
             ],
             "Village:NixOS": [

@@ -1,0 +1,20 @@
+{
+  "id": 1338,
+  "guid": "4b982349-7593-41ef-af01-0dc6348d2678",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Blockchain_Interoperability",
+  "logo": null,
+  "date": "2019-08-23T19:00:00+02:00",
+  "start": "19:00",
+  "duration": "1:00",
+  "room": "Village:Milliways",
+  "slug": "camp2019-1338-session_blockchain_interoperability",
+  "title": "Blockchain Interoperability",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "Unidirectional and bidirectional crosschain transfers using NIPoPoWs and Proof-of-Burn",
+  "persons": [],
+  "links": []
+}
