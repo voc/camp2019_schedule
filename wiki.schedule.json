@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-20 19:20",
+    "version": "2019-08-20 19:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -681,7 +681,9 @@
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": []
+                "links": [
+                  "https://bits-und-baeume.org/forderungen/"
+                ]
               },
               {
                 "id": 1104,

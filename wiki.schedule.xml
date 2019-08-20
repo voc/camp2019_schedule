@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-20 19:20</version>
+  <version>2019-08-20 19:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -552,7 +552,9 @@
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
         </persons>
-        <links/>
+        <links>
+          <link>https://bits-und-baeume.org/forderungen/</link>
+        </links>
       </event>
       <event id="1104" guid="27e94e6e-74b0-4c58-a221-6c688b72caf6">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Let%27s_go_there_by_land_not_by_air</url>
