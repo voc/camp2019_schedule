@@ -1,5 +1,5 @@
 <schedule>
-  <version>Deneb; thm Monkey Island 2: LeChuck’s Revenge; lounges 303; lightning Idril; wiki 2019-08-20 13:50</version>
+  <version>Deneb; thm Monkey Island 2: LeChuck’s Revenge; lounges 303; lightning Idril; wiki 2019-08-20 16:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -1936,6 +1936,28 @@ Größere Auftritte hatte Ingo Boss bei der Nature One und dem Ruhr in Love sowi
         <description>Bring your Files, we are having a Party!</description>
         <persons/>
         <links/>
+      </event>
+    </room>
+    <room name="Village:1komona">
+      <event id="1329" guid="4dcce96a-fcd9-4ffa-b99b-3bc454b08791">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>
+        <logo/>
+        <date>2019-08-21T17:47:00+02:00</date>
+        <start>17:47</start>
+        <duration>1:01</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1329-session_postapokalyptic_jewellery</slug>
+        <title>Postapokalyptic jewellery</title>
+        <subtitle>scrap tinkering - schrottbasteln</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>living in the postapocalypse and noticing the beauty of relicts of human civilisation, we start to adorn and grace ourselves with it. the workshop offers to create more or less pretty jewellery things out of a big collection of found objects. bring your own nuggets or choose from provided material. there will be a donation box as sad enough the apocalypse didn't make capitalism history.</description>
+        <persons/>
+        <links>
+          <link>https://p0stap0calyptic.wordpress.com/</link>
+        </links>
       </event>
     </room>
     <room name="Village:RoboVillage">
@@ -4738,6 +4760,28 @@ Publikum vor.</abstract>
         </links>
       </event>
     </room>
+    <room name="Village:1komona">
+      <event id="1331" guid="500f0955-5369-5612-bcb0-19da2505a670">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>
+        <logo/>
+        <date>2019-08-22T15:15:00+02:00</date>
+        <start>15:15</start>
+        <duration>2:02</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1331-session_postapokalyptic_jewellery</slug>
+        <title>Postapokalyptic jewellery</title>
+        <subtitle>scrap tinkering - schrottbasteln</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>living in the postapocalypse and noticing the beauty of relicts of human civilisation, we start to adorn and grace ourselves with it. the workshop offers to create more or less pretty jewellery things out of a big collection of found objects. bring your own nuggets or choose from provided material. there will be a donation box as sad enough the apocalypse didn't make capitalism history.</description>
+        <persons/>
+        <links>
+          <link>https://p0stap0calyptic.wordpress.com/</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:Ecohackerfarm">
       <event id="1117" guid="63dc7526-e5ad-4519-a349-f75835c8b5f1">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Powerplant_team_meeting</url>
@@ -6286,6 +6330,26 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
         </persons>
         <links/>
       </event>
+      <event id="1328" guid="517cae14-fb5b-48aa-ae5b-5bfbda3f3f3b">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Beer_Tasting</url>
+        <logo/>
+        <date>2019-08-23T18:15:00+02:00</date>
+        <start>18:15</start>
+        <duration>1:00</duration>
+        <room>Village:Backspace</room>
+        <slug>camp2019-1328-session_beer_tasting</slug>
+        <title>Beer Tasting</title>
+        <subtitle>A biased selection of beers from Franconia</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Taste a variety of beers from Franconia</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Jur">Jur</person>
+        </persons>
+        <links/>
+      </event>
     </room>
     <room name="Village:HardwareHackingArea">
       <event id="1032" guid="8b07d0a4-891f-48d8-833b-694299433d13">
@@ -7094,6 +7158,28 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
         <persons/>
         <links>
           <link>http://pentagame.org</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:1komona">
+      <event id="1333" guid="bbd152a9-b0bb-5b07-b1d2-41fb91d372f2">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>
+        <logo/>
+        <date>2019-08-23T13:13:00+02:00</date>
+        <start>13:13</start>
+        <duration>2:02</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1333-session_postapokalyptic_jewellery</slug>
+        <title>Postapokalyptic jewellery</title>
+        <subtitle>scrap tinkering - schrottbasteln</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>living in the postapocalypse and noticing the beauty of relicts of human civilisation, we start to adorn and grace ourselves with it. the workshop offers to create more or less pretty jewellery things out of a big collection of found objects. bring your own nuggets or choose from provided material. there will be a donation box as sad enough the apocalypse didn't make capitalism history.</description>
+        <persons/>
+        <links>
+          <link>https://p0stap0calyptic.wordpress.com/</link>
         </links>
       </event>
     </room>
@@ -8968,6 +9054,28 @@ Katermukke, Harthouse, Still Hot, Cocoon, Push, Virgin, d3R Records, EMI, Funken
         </links>
       </event>
     </room>
+    <room name="Village:1komona">
+      <event id="1332" guid="c94ee149-84c1-5769-9c14-8eaccbcd4683">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>
+        <logo/>
+        <date>2019-08-24T15:15:00+02:00</date>
+        <start>15:15</start>
+        <duration>3:03</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1332-session_postapokalyptic_jewellery</slug>
+        <title>Postapokalyptic jewellery</title>
+        <subtitle>scrap tinkering - schrottbasteln</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>living in the postapocalypse and noticing the beauty of relicts of human civilisation, we start to adorn and grace ourselves with it. the workshop offers to create more or less pretty jewellery things out of a big collection of found objects. bring your own nuggets or choose from provided material. there will be a donation box as sad enough the apocalypse didn't make capitalism history.</description>
+        <persons/>
+        <links>
+          <link>https://p0stap0calyptic.wordpress.com/</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:RoboVillage">
       <event id="1239" guid="d6de80f2-2bd9-495e-9554-9ee405b854fe">
         <url>https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming</url>
@@ -9805,6 +9913,28 @@ you for many different reasons and would like to talk about that.</description>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Maltman23">Maltman23</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="Village:1komona">
+      <event id="1330" guid="96c09f00-222f-4053-b80a-4fb0ed5ab439">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>
+        <logo/>
+        <date>2019-08-25T15:15:00+02:00</date>
+        <start>15:15</start>
+        <duration>3:03</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1330-session_postapokalyptic_jewellery</slug>
+        <title>Postapokalyptic jewellery</title>
+        <subtitle>scrap tinkering - schrottbasteln</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>living in the postapocalypse and noticing the beauty of relicts of human civilisation, we start to adorn and grace ourselves with it. the workshop offers to create more or less pretty jewellery things out of a big collection of found objects. bring your own nuggets or choose from provided material. there will be a donation box as sad enough the apocalypse didn't make capitalism history.</description>
+        <persons/>
+        <links>
+          <link>https://p0stap0calyptic.wordpress.com/</link>
+        </links>
       </event>
     </room>
     <room name="Village:RoboVillage">

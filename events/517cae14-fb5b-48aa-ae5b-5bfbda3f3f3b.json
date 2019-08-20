@@ -1,0 +1,26 @@
+{
+  "id": 1328,
+  "guid": "517cae14-fb5b-48aa-ae5b-5bfbda3f3f3b",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Beer_Tasting",
+  "logo": null,
+  "date": "2019-08-23T18:15:00+02:00",
+  "start": "18:15",
+  "duration": "1:00",
+  "room": "Village:Backspace",
+  "slug": "camp2019-1328-session_beer_tasting",
+  "title": "Beer Tasting",
+  "subtitle": "A biased selection of beers from Franconia",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "de",
+  "abstract": "",
+  "description": "Taste a variety of beers from Franconia",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Jur",
+      "public_name": "Jur"
+    }
+  ],
+  "links": []
+}
