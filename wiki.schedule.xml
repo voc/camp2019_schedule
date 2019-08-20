@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-20 17:20</version>
+  <version>2019-08-20 17:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -313,6 +313,50 @@
         <description>Meetup for e-longboards and related e-vehicles</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Rnbwdsh">Rnbwdsh</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Village:Metalab Dome">
+      <event id="1336" guid="cbd7ad63-7700-4c8c-a552-7a1ee8d012d7">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Building_dome_tarps_with_PVC_fabric</url>
+        <logo/>
+        <date>2019-08-21T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>3:00</duration>
+        <room>Village:Metalab Dome</room>
+        <slug>camp2019-1336-session_building_dome_tarps_with_pvc_fabric</slug>
+        <title>Building dome tarps with PVC fabric</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Ripper">Ripper</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Village:Infuanfu">
+      <event id="1337" guid="728c0b55-04fb-4937-8e94-c6e1c162e0d7">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Chaos_Microgrid_Working_Group</url>
+        <logo/>
+        <date>2019-08-21T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Village:Infuanfu</room>
+        <slug>camp2019-1337-session_chaos_microgrid_working_group</slug>
+        <title>Chaos Microgrid Working Group</title>
+        <subtitle>Second Meetup</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>We want to meet and discuss the requirements and possibilities of setting up a microgrid solution for future camping events.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Hadez">Hadez</person>
         </persons>
         <links/>
       </event>

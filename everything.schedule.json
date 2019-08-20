@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Deneb; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 303; lightning Idril; wiki 2019-08-20 17:20",
+    "version": "Deneb; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 303; lightning Idril; wiki 2019-08-20 17:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -1495,6 +1495,62 @@
                     "id": 0,
                     "url": "https://events.ccc.de/camp/2019/wiki/User:Rnbwdsh",
                     "public_name": "Rnbwdsh"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Village:Metalab Dome": [
+              {
+                "id": 1336,
+                "guid": "cbd7ad63-7700-4c8c-a552-7a1ee8d012d7",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Building_dome_tarps_with_PVC_fabric",
+                "logo": null,
+                "date": "2019-08-21T11:00:00+02:00",
+                "start": "11:00",
+                "duration": "3:00",
+                "room": "Village:Metalab Dome",
+                "slug": "camp2019-1336-session_building_dome_tarps_with_pvc_fabric",
+                "title": "Building dome tarps with PVC fabric",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ripper",
+                    "public_name": "Ripper"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Village:Infuanfu": [
+              {
+                "id": 1337,
+                "guid": "728c0b55-04fb-4937-8e94-c6e1c162e0d7",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Chaos_Microgrid_Working_Group",
+                "logo": null,
+                "date": "2019-08-21T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "2:00",
+                "room": "Village:Infuanfu",
+                "slug": "camp2019-1337-session_chaos_microgrid_working_group",
+                "title": "Chaos Microgrid Working Group",
+                "subtitle": "Second Meetup",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "de",
+                "abstract": "",
+                "description": "We want to meet and discuss the requirements and possibilities of setting up a microgrid solution for future camping events.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Hadez",
+                    "public_name": "Hadez"
                   }
                 ],
                 "links": []

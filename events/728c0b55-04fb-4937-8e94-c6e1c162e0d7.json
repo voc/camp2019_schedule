@@ -1,0 +1,26 @@
+{
+  "id": 1337,
+  "guid": "728c0b55-04fb-4937-8e94-c6e1c162e0d7",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Chaos_Microgrid_Working_Group",
+  "logo": null,
+  "date": "2019-08-21T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "2:00",
+  "room": "Village:Infuanfu",
+  "slug": "camp2019-1337-session_chaos_microgrid_working_group",
+  "title": "Chaos Microgrid Working Group",
+  "subtitle": "Second Meetup",
+  "track": "self organized sessions",
+  "type": "discussion",
+  "language": "de",
+  "abstract": "",
+  "description": "We want to meet and discuss the requirements and possibilities of setting up a microgrid solution for future camping events.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Hadez",
+      "public_name": "Hadez"
+    }
+  ],
+  "links": []
+}

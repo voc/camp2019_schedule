@@ -1,0 +1,26 @@
+{
+  "id": 1336,
+  "guid": "cbd7ad63-7700-4c8c-a552-7a1ee8d012d7",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Building_dome_tarps_with_PVC_fabric",
+  "logo": null,
+  "date": "2019-08-21T11:00:00+02:00",
+  "start": "11:00",
+  "duration": "3:00",
+  "room": "Village:Metalab Dome",
+  "slug": "camp2019-1336-session_building_dome_tarps_with_pvc_fabric",
+  "title": "Building dome tarps with PVC fabric",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "de",
+  "abstract": "",
+  "description": "",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Ripper",
+      "public_name": "Ripper"
+    }
+  ],
+  "links": []
+}
