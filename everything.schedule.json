@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Deneb; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 303; lightning Haldir; wiki 2019-08-20 13:40",
+    "version": "Deneb; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 303; lightning Idril; wiki 2019-08-20 13:50",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -3439,6 +3439,37 @@
                 "answers": []
               },
               {
+                "id": 3125,
+                "guid": "3b211140-ddf4-5dee-a021-04e4d4a367ca",
+                "logo": null,
+                "date": "2019-08-22T14:10:00+02:00",
+                "start": "14:10",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "RJGYPB",
+                "url": "https://c3lt.de/camp2019/talk/RJGYPB",
+                "title": "Open Science and Open Robotics with Pocket Science Lab",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Pocket Science Lab is an Open Hardware and Open Source software project. We now support desktop PCs and have more instruments and robotic support.",
+                "description": "Pocket Science Lab is an Open Hardware and Open Source software project. Over the last few months we added support for desktop system. It now runs on Linux and Windows. We also added data logging capabilities to all existing instruments like Osciilloscope, Logic Analyzer, Multimeter and Wave Generator. Plus, there are a number of new instruments like Gyroscope and a digital Thermometer. For robotic fans we added support to run robots with up to 4 servors.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 119,
+                    "name": "Wei Tat Chung",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 3134,
                 "guid": "59e9db97-a4ab-5ab9-a555-729efc202eee",
                 "logo": null,
@@ -3523,6 +3554,37 @@
                   {
                     "id": 128,
                     "name": "bmcfun",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3115,
+                "guid": "fdafb943-ac48-5d36-8075-f3d8a1910c21",
+                "logo": null,
+                "date": "2019-08-22T14:30:00+02:00",
+                "start": "14:30",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "QQJJCR",
+                "url": "https://c3lt.de/camp2019/talk/QQJJCR",
+                "title": "Backstage penetration",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "How I got into the backstage of one of the biggest concerts in Italy",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 113,
+                    "name": "Mastro Gippo",
                     "biography": null,
                     "answers": []
                   }

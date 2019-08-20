@@ -1,0 +1,31 @@
+{
+  "id": 3115,
+  "guid": "fdafb943-ac48-5d36-8075-f3d8a1910c21",
+  "logo": null,
+  "date": "2019-08-22T14:30:00+02:00",
+  "start": "14:30",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "QQJJCR",
+  "url": "https://c3lt.de/camp2019/talk/QQJJCR",
+  "title": "Backstage penetration",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "How I got into the backstage of one of the biggest concerts in Italy",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 113,
+      "name": "Mastro Gippo",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

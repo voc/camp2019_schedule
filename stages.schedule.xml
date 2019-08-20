@@ -1,5 +1,5 @@
 <schedule>
-  <version>Deneb; thm Monkey Island 2: LeChuck’s Revenge; lounges 303; lightning Haldir</version>
+  <version>Deneb; thm Monkey Island 2: LeChuck’s Revenge; lounges 303; lightning Idril</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -2187,6 +2187,35 @@ Ziel 2: Workflows entwickeln, die Organisationen das Management von vielen Proje
         <attachments/>
         <answers/>
       </event>
+      <event id="3125" guid="3b211140-ddf4-5dee-a021-04e4d4a367ca">
+        <logo/>
+        <date>2019-08-22T14:10:00+02:00</date>
+        <start>14:10</start>
+        <duration>00:05</duration>
+        <room>Meitner</room>
+        <slug>RJGYPB</slug>
+        <url>https://c3lt.de/camp2019/talk/RJGYPB</url>
+        <title>Open Science and Open Robotics with Pocket Science Lab</title>
+        <subtitle/>
+        <track/>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>Pocket Science Lab is an Open Hardware and Open Source software project. We now support desktop PCs and have more instruments and robotic support.</abstract>
+        <description>Pocket Science Lab is an Open Hardware and Open Source software project. Over the last few months we added support for desktop system. It now runs on Linux and Windows. We also added data logging capabilities to all existing instruments like Osciilloscope, Logic Analyzer, Multimeter and Wave Generator. Plus, there are a number of new instruments like Gyroscope and a digital Thermometer. For robotic fans we added support to run robots with up to 4 servors.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="119">
+            <name>Wei Tat Chung</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="3134" guid="59e9db97-a4ab-5ab9-a555-729efc202eee">
         <logo/>
         <date>2019-08-22T14:15:00+02:00</date>
@@ -2267,6 +2296,35 @@ Ziel 2: Workflows entwickeln, die Organisationen das Management von vielen Proje
         <persons>
           <person id="128">
             <name>bmcfun</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3115" guid="fdafb943-ac48-5d36-8075-f3d8a1910c21">
+        <logo/>
+        <date>2019-08-22T14:30:00+02:00</date>
+        <start>14:30</start>
+        <duration>00:05</duration>
+        <room>Meitner</room>
+        <slug>QQJJCR</slug>
+        <url>https://c3lt.de/camp2019/talk/QQJJCR</url>
+        <title>Backstage penetration</title>
+        <subtitle/>
+        <track/>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>How I got into the backstage of one of the biggest concerts in Italy</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="113">
+            <name>Mastro Gippo</name>
             <biography/>
           </person>
         </persons>
