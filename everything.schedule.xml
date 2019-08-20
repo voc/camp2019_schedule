@@ -1,5 +1,5 @@
 <schedule>
-  <version>Deneb; thm Monkey Island 2: LeChuck’s Revenge; lounges 303; lightning Idril; wiki 2019-08-21 00:40</version>
+  <version>Deneb; thm Monkey Island 2: LeChuck’s Revenge; lounges 303; lightning Idril; wiki 2019-08-21 01:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -4504,6 +4504,48 @@ Publikum vor.</abstract>
         <links/>
       </event>
     </room>
+    <room name="Village:1komona">
+      <event id="1352" guid="a4924a82-9cf2-4f01-ac38-b2fae9f50b45">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:ArtesMobiles_-_SpeculativeAI</url>
+        <logo/>
+        <date>2019-08-22T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>0:15</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1352-session_artesmobiles_speculativeai</slug>
+        <title>ArtesMobiles - SpeculativeAI</title>
+        <subtitle>4pm - 6pm every 15 min</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>en</language>
+        <abstract/>
+        <description>Performance // audiovisual experiment</description>
+        <persons/>
+        <links>
+          <link>http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence</link>
+        </links>
+      </event>
+      <event id="1331" guid="500f0955-5369-5612-bcb0-19da2505a670">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>
+        <logo/>
+        <date>2019-08-22T15:15:00+02:00</date>
+        <start>15:15</start>
+        <duration>2:02</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1331-session_postapokalyptic_jewellery</slug>
+        <title>Postapokalyptic jewellery</title>
+        <subtitle>scrap tinkering - schrottbasteln</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>living in the postapocalypse and noticing the beauty of relicts of human civilisation, we start to adorn and grace ourselves with it. the workshop offers to create more or less pretty jewellery things out of a big collection of found objects. bring your own nuggets or choose from provided material. there will be a donation box as sad enough the apocalypse didn't make capitalism history.</description>
+        <persons/>
+        <links>
+          <link>https://p0stap0calyptic.wordpress.com/</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:Foodhackingbase">
       <event id="1049" guid="9628843e-81b0-4810-b26f-bcd9b8141b66">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Cidre_Flows</url>
@@ -5029,28 +5071,6 @@ Publikum vor.</abstract>
         <persons/>
         <links>
           <link>http://pentagame.org</link>
-        </links>
-      </event>
-    </room>
-    <room name="Village:1komona">
-      <event id="1331" guid="500f0955-5369-5612-bcb0-19da2505a670">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>
-        <logo/>
-        <date>2019-08-22T15:15:00+02:00</date>
-        <start>15:15</start>
-        <duration>2:02</duration>
-        <room>Village:1komona</room>
-        <slug>camp2019-1331-session_postapokalyptic_jewellery</slug>
-        <title>Postapokalyptic jewellery</title>
-        <subtitle>scrap tinkering - schrottbasteln</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>living in the postapocalypse and noticing the beauty of relicts of human civilisation, we start to adorn and grace ourselves with it. the workshop offers to create more or less pretty jewellery things out of a big collection of found objects. bring your own nuggets or choose from provided material. there will be a donation box as sad enough the apocalypse didn't make capitalism history.</description>
-        <persons/>
-        <links>
-          <link>https://p0stap0calyptic.wordpress.com/</link>
         </links>
       </event>
     </room>
@@ -6790,6 +6810,48 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
         <links/>
       </event>
     </room>
+    <room name="Village:1komona">
+      <event id="1353" guid="21eeb908-8ed0-4d8c-b376-b4f628ce20aa">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:ArtesMobiles_-_SpeculativeAI</url>
+        <logo/>
+        <date>2019-08-23T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>0:15</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1353-session_artesmobiles_speculativeai</slug>
+        <title>ArtesMobiles - SpeculativeAI</title>
+        <subtitle>4pm - 6pm every 15 min</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>en</language>
+        <abstract/>
+        <description>Performance // audiovisual experiment</description>
+        <persons/>
+        <links>
+          <link>http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence</link>
+        </links>
+      </event>
+      <event id="1333" guid="bbd152a9-b0bb-5b07-b1d2-41fb91d372f2">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>
+        <logo/>
+        <date>2019-08-23T13:13:00+02:00</date>
+        <start>13:13</start>
+        <duration>2:02</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1333-session_postapokalyptic_jewellery</slug>
+        <title>Postapokalyptic jewellery</title>
+        <subtitle>scrap tinkering - schrottbasteln</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>living in the postapocalypse and noticing the beauty of relicts of human civilisation, we start to adorn and grace ourselves with it. the workshop offers to create more or less pretty jewellery things out of a big collection of found objects. bring your own nuggets or choose from provided material. there will be a donation box as sad enough the apocalypse didn't make capitalism history.</description>
+        <persons/>
+        <links>
+          <link>https://p0stap0calyptic.wordpress.com/</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:Scottish Consulate">
       <event id="1036" guid="31fcf2eb-ad14-47f8-971c-7f06b2d8c178">
         <url>https://events.ccc.de/camp/2019/wiki/Session:BSD_Users_and_Developers_Meetup</url>
@@ -7496,28 +7558,6 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
         </links>
       </event>
     </room>
-    <room name="Village:1komona">
-      <event id="1333" guid="bbd152a9-b0bb-5b07-b1d2-41fb91d372f2">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>
-        <logo/>
-        <date>2019-08-23T13:13:00+02:00</date>
-        <start>13:13</start>
-        <duration>2:02</duration>
-        <room>Village:1komona</room>
-        <slug>camp2019-1333-session_postapokalyptic_jewellery</slug>
-        <title>Postapokalyptic jewellery</title>
-        <subtitle>scrap tinkering - schrottbasteln</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>living in the postapocalypse and noticing the beauty of relicts of human civilisation, we start to adorn and grace ourselves with it. the workshop offers to create more or less pretty jewellery things out of a big collection of found objects. bring your own nuggets or choose from provided material. there will be a donation box as sad enough the apocalypse didn't make capitalism history.</description>
-        <persons/>
-        <links>
-          <link>https://p0stap0calyptic.wordpress.com/</link>
-        </links>
-      </event>
-    </room>
     <room name="Village:Ecohackerfarm">
       <event id="1118" guid="36719604-1c0a-4e1e-b823-734b79283e4d">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Powerplant:_an_opensource_permaculture_garden_planner_for_everyone</url>
@@ -7540,6 +7580,46 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
         <links>
           <link>https://wiki.ecohackerfarm.org/powerplant:start</link>
         </links>
+      </event>
+    </room>
+    <room name="Village:Chaos-West">
+      <event id="1355" guid="ed165662-1de2-482e-9db4-3cd6c1a43d48">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Redhat</url>
+        <logo/>
+        <date>2019-08-23T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>2:00</duration>
+        <room>Village:Chaos-West</room>
+        <slug>camp2019-1355-session_redhat</slug>
+        <title>Redhat</title>
+        <subtitle>Meeting</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>RHEL/CentOS meetup</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Fuero">Fuero</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1339" guid="7b8838c4-ecf1-4875-b647-b2054d817895">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:WoW!_Dancing_like_a_Blood_Elf...</url>
+        <logo/>
+        <date>2019-08-23T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>0:45</duration>
+        <room>Village:Chaos-West</room>
+        <slug>camp2019-1339-session_wow_dancing_like_a_blood_elf_</slug>
+        <title>WoW! Dancing like a Blood Elf...</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Learn how to dance for real like the male blood elf in world of warcraft in 5 steps. Beginner's class. All gender welcome!</description>
+        <persons/>
+        <links/>
       </event>
     </room>
     <room name="Village:RoboVillage">
@@ -7636,26 +7716,6 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
         <links>
           <link>https://www.robokoding.com/kits/sumorobot</link>
         </links>
-      </event>
-    </room>
-    <room name="Village:Chaos-West">
-      <event id="1339" guid="7b8838c4-ecf1-4875-b647-b2054d817895">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:WoW!_Dancing_like_a_Blood_Elf...</url>
-        <logo/>
-        <date>2019-08-23T20:00:00+02:00</date>
-        <start>20:00</start>
-        <duration>0:45</duration>
-        <room>Village:Chaos-West</room>
-        <slug>camp2019-1339-session_wow_dancing_like_a_blood_elf_</slug>
-        <title>WoW! Dancing like a Blood Elf...</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Learn how to dance for real like the male blood elf in world of warcraft in 5 steps. Beginner's class. All gender welcome!</description>
-        <persons/>
-        <links/>
       </event>
     </room>
   </day>
@@ -9082,6 +9142,48 @@ Katermukke, Harthouse, Still Hot, Cocoon, Push, Virgin, d3R Records, EMI, Funken
         <links/>
       </event>
     </room>
+    <room name="Village:1komona">
+      <event id="1354" guid="9ff4afa9-52f2-515a-ac54-ec1448b3016a">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:ArtesMobiles_-_SpeculativeAI</url>
+        <logo/>
+        <date>2019-08-24T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>0:15</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1354-session_artesmobiles_speculativeai</slug>
+        <title>ArtesMobiles - SpeculativeAI</title>
+        <subtitle>4pm - 6pm every 15 min</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>en</language>
+        <abstract/>
+        <description>Performance // audiovisual experiment</description>
+        <persons/>
+        <links>
+          <link>http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence</link>
+        </links>
+      </event>
+      <event id="1332" guid="c94ee149-84c1-5769-9c14-8eaccbcd4683">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>
+        <logo/>
+        <date>2019-08-24T15:15:00+02:00</date>
+        <start>15:15</start>
+        <duration>3:03</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1332-session_postapokalyptic_jewellery</slug>
+        <title>Postapokalyptic jewellery</title>
+        <subtitle>scrap tinkering - schrottbasteln</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>living in the postapocalypse and noticing the beauty of relicts of human civilisation, we start to adorn and grace ourselves with it. the workshop offers to create more or less pretty jewellery things out of a big collection of found objects. bring your own nuggets or choose from provided material. there will be a donation box as sad enough the apocalypse didn't make capitalism history.</description>
+        <persons/>
+        <links>
+          <link>https://p0stap0calyptic.wordpress.com/</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:Backspace">
       <event id="1334" guid="96fd48ac-adb0-4576-9d92-40b6901dc747">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Beer_Tasting</url>
@@ -9469,28 +9571,6 @@ Katermukke, Harthouse, Still Hot, Cocoon, Push, Virgin, d3R Records, EMI, Funken
         <persons/>
         <links>
           <link>https://oscilloscopemusic.com</link>
-        </links>
-      </event>
-    </room>
-    <room name="Village:1komona">
-      <event id="1332" guid="c94ee149-84c1-5769-9c14-8eaccbcd4683">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>
-        <logo/>
-        <date>2019-08-24T15:15:00+02:00</date>
-        <start>15:15</start>
-        <duration>3:03</duration>
-        <room>Village:1komona</room>
-        <slug>camp2019-1332-session_postapokalyptic_jewellery</slug>
-        <title>Postapokalyptic jewellery</title>
-        <subtitle>scrap tinkering - schrottbasteln</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>living in the postapocalypse and noticing the beauty of relicts of human civilisation, we start to adorn and grace ourselves with it. the workshop offers to create more or less pretty jewellery things out of a big collection of found objects. bring your own nuggets or choose from provided material. there will be a donation box as sad enough the apocalypse didn't make capitalism history.</description>
-        <persons/>
-        <links>
-          <link>https://p0stap0calyptic.wordpress.com/</link>
         </links>
       </event>
     </room>

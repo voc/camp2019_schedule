@@ -1,0 +1,22 @@
+{
+  "id": 1352,
+  "guid": "a4924a82-9cf2-4f01-ac38-b2fae9f50b45",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:ArtesMobiles_-_SpeculativeAI",
+  "logo": null,
+  "date": "2019-08-22T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "0:15",
+  "room": "Village:1komona",
+  "slug": "camp2019-1352-session_artesmobiles_speculativeai",
+  "title": "ArtesMobiles - SpeculativeAI",
+  "subtitle": "4pm - 6pm every 15 min",
+  "track": "self organized sessions",
+  "type": "other",
+  "language": "en",
+  "abstract": "",
+  "description": "Performance // audiovisual experiment",
+  "persons": [],
+  "links": [
+    "http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence"
+  ]
+}
