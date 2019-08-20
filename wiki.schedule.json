@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-20 21:00",
+    "version": "2019-08-20 21:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -673,16 +673,22 @@
                 "type": "talk",
                 "language": "de",
                 "abstract": "",
-                "description": "",
+                "description": "Wir stellen die Bits&B\u00e4ume-Konferenz, die -Bewegung und die B&B-Forderungen vor",
                 "persons": [
                   {
                     "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
-                    "public_name": "Gnunicorn"
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Rainer",
+                    "public_name": "Rainer"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Julika",
+                    "public_name": "Julika"
                   }
                 ],
                 "links": [
-                  "https://bits-und-baeume.org/forderungen/"
+                  "https://bits-und-baeume.org/forderungen/",
+                  "https://bits-und-baeume.org/waechst/"
                 ]
               },
               {
@@ -4152,6 +4158,28 @@
                 "links": [
                   "https://www.robokoding.com/kits/sumorobot"
                 ]
+              }
+            ],
+            "Village:Chaos-West": [
+              {
+                "id": 1339,
+                "guid": "7b8838c4-ecf1-4875-b647-b2054d817895",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:WoW!_Dancing_like_a_Blood_Elf...",
+                "logo": null,
+                "date": "2019-08-23T20:00:00+02:00",
+                "start": "20:00",
+                "duration": "0:45",
+                "room": "Village:Chaos-West",
+                "slug": "camp2019-1339-session_wow_dancing_like_a_blood_elf_",
+                "title": "WoW! Dancing like a Blood Elf...",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Learn how to dance for real like the male blood elf in world of warcraft in 5 steps. Beginner's class. All gender welcome!",
+                "persons": [],
+                "links": []
               }
             ]
           }

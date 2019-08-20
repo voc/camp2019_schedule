@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-20 21:00</version>
+  <version>2019-08-20 21:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -548,12 +548,14 @@
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description/>
+        <description>Wir stellen die Bits&amp;Bäume-Konferenz, die -Bewegung und die B&amp;B-Forderungen vor</description>
         <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Rainer">Rainer</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Julika">Julika</person>
         </persons>
         <links>
           <link>https://bits-und-baeume.org/forderungen/</link>
+          <link>https://bits-und-baeume.org/waechst/</link>
         </links>
       </event>
       <event id="1104" guid="27e94e6e-74b0-4c58-a221-6c688b72caf6">
@@ -3259,6 +3261,26 @@
         <links>
           <link>https://www.robokoding.com/kits/sumorobot</link>
         </links>
+      </event>
+    </room>
+    <room name="Village:Chaos-West">
+      <event id="1339" guid="7b8838c4-ecf1-4875-b647-b2054d817895">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:WoW!_Dancing_like_a_Blood_Elf...</url>
+        <logo/>
+        <date>2019-08-23T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>0:45</duration>
+        <room>Village:Chaos-West</room>
+        <slug>camp2019-1339-session_wow_dancing_like_a_blood_elf_</slug>
+        <title>WoW! Dancing like a Blood Elf...</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Learn how to dance for real like the male blood elf in world of warcraft in 5 steps. Beginner's class. All gender welcome!</description>
+        <persons/>
+        <links/>
       </event>
     </room>
   </day>
