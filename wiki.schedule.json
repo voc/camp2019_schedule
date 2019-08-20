@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-20 13:20",
+    "version": "2019-08-20 13:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -535,7 +535,7 @@
                 "subtitle": "about:stage",
                 "track": "self organized sessions",
                 "type": "talk",
-                "language": "en",
+                "language": "de",
                 "abstract": "",
                 "description": "",
                 "persons": [
