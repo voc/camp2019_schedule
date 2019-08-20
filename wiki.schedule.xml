@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-21 00:30</version>
+  <version>2019-08-21 00:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -3757,6 +3757,46 @@
           <link>https://substrate.dev/substrate-collectables-workshop/#/</link>
           <link>https://substrate.dev/en/tutorials</link>
         </links>
+      </event>
+    </room>
+    <room name="Village:Chaoswelle">
+      <event id="1350" guid="2a4d05da-97fd-4e1b-ad80-48a18c8c1d9b">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Aktuelle_Digimodes</url>
+        <logo/>
+        <date>2019-08-24T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>Village:Chaoswelle</room>
+        <slug>camp2019-1350-session_aktuelle_digimodes</slug>
+        <title>Aktuelle Digimodes</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Ein Blick in die Trickkiste der modernen Digimodes JT65/JT9 und FT8/FT4.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Pylon">Pylon</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1351" guid="06a0451f-9d0e-4a59-9126-7de875b8f505">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:SDR-Stick_als_Spektrumskop</url>
+        <logo/>
+        <date>2019-08-24T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>0:30</duration>
+        <room>Village:Chaoswelle</room>
+        <slug>camp2019-1351-session_sdr_stick_als_spektrumskop</slug>
+        <title>SDR-Stick als Spektrumskop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>ZF-Auskopplung als Spektrumskop mit RTL-SDR-Stick und HUP-RF Auskoppelverstärker</description>
+        <persons/>
+        <links/>
       </event>
     </room>
     <room name="Village:HardwareHackingArea">

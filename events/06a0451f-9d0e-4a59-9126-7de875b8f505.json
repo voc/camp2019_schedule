@@ -1,0 +1,20 @@
+{
+  "id": 1351,
+  "guid": "06a0451f-9d0e-4a59-9126-7de875b8f505",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:SDR-Stick_als_Spektrumskop",
+  "logo": null,
+  "date": "2019-08-24T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "0:30",
+  "room": "Village:Chaoswelle",
+  "slug": "camp2019-1351-session_sdr_stick_als_spektrumskop",
+  "title": "SDR-Stick als Spektrumskop",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "ZF-Auskopplung als Spektrumskop mit RTL-SDR-Stick und HUP-RF Auskoppelverst\u00e4rker",
+  "persons": [],
+  "links": []
+}

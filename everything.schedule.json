@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Deneb; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 303; lightning Idril; wiki 2019-08-21 00:30",
+    "version": "Deneb; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 303; lightning Idril; wiki 2019-08-21 00:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -9916,6 +9916,54 @@
                   "https://substrate.dev/substrate-collectables-workshop/#/",
                   "https://substrate.dev/en/tutorials"
                 ]
+              }
+            ],
+            "Village:Chaoswelle": [
+              {
+                "id": 1350,
+                "guid": "2a4d05da-97fd-4e1b-ad80-48a18c8c1d9b",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Aktuelle_Digimodes",
+                "logo": null,
+                "date": "2019-08-24T19:00:00+02:00",
+                "start": "19:00",
+                "duration": "1:00",
+                "room": "Village:Chaoswelle",
+                "slug": "camp2019-1350-session_aktuelle_digimodes",
+                "title": "Aktuelle Digimodes",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Ein Blick in die Trickkiste der modernen Digimodes JT65/JT9 und FT8/FT4.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Pylon",
+                    "public_name": "Pylon"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1351,
+                "guid": "06a0451f-9d0e-4a59-9126-7de875b8f505",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SDR-Stick_als_Spektrumskop",
+                "logo": null,
+                "date": "2019-08-24T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "0:30",
+                "room": "Village:Chaoswelle",
+                "slug": "camp2019-1351-session_sdr_stick_als_spektrumskop",
+                "title": "SDR-Stick als Spektrumskop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "ZF-Auskopplung als Spektrumskop mit RTL-SDR-Stick und HUP-RF Auskoppelverst\u00e4rker",
+                "persons": [],
+                "links": []
               }
             ],
             "Village:HardwareHackingArea": [
