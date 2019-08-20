@@ -1,6 +1,7 @@
 {
   "id": 1062,
   "guid": "56989b98-d3d7-44db-a9c5-db4553adeed2",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:EightOS",
   "logo": null,
   "date": "2019-08-22T14:30:00+02:00",
   "start": "14:30",
@@ -16,7 +17,6 @@
   "description": "A physical practice session: bodymind operating system \u2014 human firmware update",
   "persons": [],
   "links": [
-    "http://www.8os.io",
-    "//events.ccc.de/camp/2019/wiki/Session:EightOS"
+    "http://www.8os.io"
   ]
 }

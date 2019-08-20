@@ -1,6 +1,7 @@
 {
   "id": 1099,
   "guid": "55558acc-348c-44e8-97b1-bbc1187a7407",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Isomer",
   "logo": null,
   "date": "2019-08-21T17:00:00+02:00",
   "start": "17:00",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Riot",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Riot",
       "public_name": "Riot"
     }
   ],
   "links": [
-    "http://isomer.eu",
-    "//events.ccc.de/camp/2019/wiki/Session:Isomer"
+    "http://isomer.eu"
   ]
 }

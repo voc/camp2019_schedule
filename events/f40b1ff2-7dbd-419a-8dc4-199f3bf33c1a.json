@@ -1,6 +1,7 @@
 {
   "id": 1302,
   "guid": "f40b1ff2-7dbd-419a-8dc4-199f3bf33c1a",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour",
   "logo": null,
   "date": "2019-08-23T17:30:00+02:00",
   "start": "17:30",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Ckeen",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Ckeen",
       "public_name": "Ckeen"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour"
-  ]
+  "links": []
 }

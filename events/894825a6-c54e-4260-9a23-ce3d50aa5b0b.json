@@ -1,6 +1,7 @@
 {
   "id": 1113,
   "guid": "894825a6-c54e-4260-9a23-ce3d50aa5b0b",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Packet_Radio_Meetup",
   "logo": null,
   "date": "2019-08-23T15:00:00+02:00",
   "start": "15:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Hibby",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Hibby",
       "public_name": "Hibby"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Packet_Radio_Meetup"
-  ]
+  "links": []
 }

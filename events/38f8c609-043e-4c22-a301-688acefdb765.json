@@ -1,6 +1,7 @@
 {
   "id": 1326,
   "guid": "38f8c609-043e-4c22-a301-688acefdb765",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:HAMNET",
   "logo": null,
   "date": "2019-08-21T21:00:00+02:00",
   "start": "21:00",
@@ -15,7 +16,5 @@
   "abstract": "",
   "description": "Highspeed Amateurradio Multimedia NETwork",
   "persons": [],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:HAMNET"
-  ]
+  "links": []
 }

@@ -1,6 +1,7 @@
 {
   "id": 1116,
   "guid": "878fe989-4298-4518-b7dc-9e1d41edf78b",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Pile_Farty",
   "logo": null,
   "date": "2019-08-21T21:00:00+02:00",
   "start": "21:00",
@@ -15,7 +16,5 @@
   "abstract": "",
   "description": "Bring your Files, we are having a Party!",
   "persons": [],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Pile_Farty"
-  ]
+  "links": []
 }

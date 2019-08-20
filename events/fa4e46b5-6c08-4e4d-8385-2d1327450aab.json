@@ -1,6 +1,7 @@
 {
   "id": 1203,
   "guid": "fa4e46b5-6c08-4e4d-8385-2d1327450aab",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:GOC",
   "logo": null,
   "date": "2019-08-24T11:00:00+02:00",
   "start": "11:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Fraxinas",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Fraxinas",
       "public_name": "Fraxinas"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:GOC"
-  ]
+  "links": []
 }

@@ -1,6 +1,7 @@
 {
   "id": 1254,
   "guid": "ecfcf7e9-5341-4ca3-ab75-f18882f6cb36",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along",
   "logo": null,
   "date": "2019-08-22T19:30:00+02:00",
   "start": "19:30",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Eal",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Eal",
       "public_name": "Eal"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along"
-  ]
+  "links": []
 }

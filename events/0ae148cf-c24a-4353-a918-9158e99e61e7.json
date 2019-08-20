@@ -1,6 +1,7 @@
 {
   "id": 1317,
   "guid": "0ae148cf-c24a-4353-a918-9158e99e61e7",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:RSA_Verschl%C3%BCsselung_selbst_rechnen",
   "logo": null,
   "date": "2019-08-24T17:30:00+02:00",
   "start": "17:30",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Janepie",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Janepie",
       "public_name": "Janepie"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:RSA_Verschl%C3%BCsselung_selbst_rechnen"
-  ]
+  "links": []
 }

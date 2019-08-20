@@ -1,6 +1,7 @@
 {
   "id": 1087,
   "guid": "4e353d1e-6318-4c8a-b00b-0952f6acea94",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacker_Coop_Genossenschaft",
   "logo": null,
   "date": "2019-08-24T13:00:00+02:00",
   "start": "13:00",
@@ -16,7 +17,6 @@
   "description": "Hacker eG Meetup",
   "persons": [],
   "links": [
-    "http://vebit.xyz",
-    "//events.ccc.de/camp/2019/wiki/Session:Hacker_Coop_Genossenschaft"
+    "http://vebit.xyz"
   ]
 }

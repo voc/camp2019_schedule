@@ -1,6 +1,7 @@
 {
   "id": 1229,
   "guid": "d28fed56-ab47-4377-baf2-e4e24cc1065a",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:R5_Meeting_(CCC_working_group)",
   "logo": null,
   "date": "2019-08-23T17:30:00+02:00",
   "start": "17:30",
@@ -17,16 +18,14 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Blipp",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Blipp",
       "public_name": "Blipp"
     },
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Fraxinas",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Fraxinas",
       "public_name": "Fraxinas"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:R5_Meeting_(CCC_working_group)"
-  ]
+  "links": []
 }

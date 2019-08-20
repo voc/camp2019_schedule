@@ -1,6 +1,7 @@
 {
   "id": 1193,
   "guid": "a832c946-31a9-41b2-963b-5ef4cc31b33c",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Digitale_Werkzeuge_zum_Verst%C3%A4ndnis_von_Klima_und_Wetter",
   "logo": null,
   "date": "2019-08-21T14:00:00+02:00",
   "start": "14:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
       "public_name": "Gnunicorn"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Digitale_Werkzeuge_zum_Verst%C3%A4ndnis_von_Klima_und_Wetter"
-  ]
+  "links": []
 }

@@ -1,6 +1,7 @@
 {
   "id": 1240,
   "guid": "d227bcc8-63df-4eea-9385-e420a774f060",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming",
   "logo": null,
   "date": "2019-08-23T12:30:00+02:00",
   "start": "12:30",
@@ -17,22 +18,21 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
       "public_name": "Silbo"
     },
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
       "public_name": "Ivanna"
     },
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Superwallah",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Superwallah",
       "public_name": "Superwallah"
     }
   ],
   "links": [
-    "https://www.robokoding.com/kits/sumorobot",
-    "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming"
+    "https://www.robokoding.com/kits/sumorobot"
   ]
 }

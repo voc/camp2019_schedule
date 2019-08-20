@@ -1,6 +1,7 @@
 {
   "id": 1270,
   "guid": "70d9eabd-198b-4bbb-98bd-1d60a7587bc8",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:B%C3%B6ser_Sprechworkshop",
   "logo": null,
   "date": "2019-08-25T13:00:00+02:00",
   "start": "13:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Piko",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Piko",
       "public_name": "Piko"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:B%C3%B6ser_Sprechworkshop"
-  ]
+  "links": []
 }

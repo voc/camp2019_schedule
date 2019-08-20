@@ -1,6 +1,7 @@
 {
   "id": 1209,
   "guid": "dd824410-5344-458b-a254-3f66f5cc3fb8",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:How_to_get_ordinary_people_using_Jekyll,_LaTeX,_Gitlab_CI_and_other_magic",
   "logo": null,
   "date": "2019-08-24T15:00:00+02:00",
   "start": "15:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Nils",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Nils",
       "public_name": "Nils"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:How_to_get_ordinary_people_using_Jekyll,_LaTeX,_Gitlab_CI_and_other_magic"
-  ]
+  "links": []
 }

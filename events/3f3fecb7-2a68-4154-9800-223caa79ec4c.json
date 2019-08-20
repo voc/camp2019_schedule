@@ -1,6 +1,7 @@
 {
   "id": 1159,
   "guid": "3f3fecb7-2a68-4154-9800-223caa79ec4c",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_in_LaTeX",
   "logo": null,
   "date": "2019-08-23T15:00:00+02:00",
   "start": "15:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Nils",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Nils",
       "public_name": "Nils"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_in_LaTeX"
-  ]
+  "links": []
 }

@@ -1,6 +1,7 @@
 {
   "id": 1251,
   "guid": "c806c61c-521f-4f89-a836-064f5575b3a3",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:C3Sus_Ride_excellent_with_each_other",
   "logo": null,
   "date": "2019-08-23T13:30:00+02:00",
   "start": "13:30",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
       "public_name": "Gnunicorn"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:C3Sus_Ride_excellent_with_each_other"
-  ]
+  "links": []
 }

@@ -1,6 +1,7 @@
 {
   "id": 1166,
   "guid": "9e621cac-08d6-4dd4-bdaf-20307f41fb38",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder",
   "logo": null,
   "date": "2019-08-25T11:00:00+02:00",
   "start": "11:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Maltman23",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Maltman23",
       "public_name": "Maltman23"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder"
-  ]
+  "links": []
 }

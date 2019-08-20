@@ -1,6 +1,7 @@
 {
   "id": 1312,
   "guid": "614078e0-9cf6-42e3-a957-17d77fe10582",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:SocialTech",
   "logo": null,
   "date": "2019-08-24T11:00:00+02:00",
   "start": "11:00",
@@ -17,22 +18,21 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Erdbeerblau",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Erdbeerblau",
       "public_name": "Erdbeerblau"
     },
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Hirnsalat",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Hirnsalat",
       "public_name": "Hirnsalat"
     },
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Vishnee",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Vishnee",
       "public_name": "Vishnee"
     }
   ],
   "links": [
-    "http://angela.is/SocialTech/",
-    "//events.ccc.de/camp/2019/wiki/Session:SocialTech"
+    "http://angela.is/SocialTech/"
   ]
 }

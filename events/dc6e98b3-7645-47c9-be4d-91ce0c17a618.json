@@ -1,6 +1,7 @@
 {
   "id": 1261,
   "guid": "dc6e98b3-7645-47c9-be4d-91ce0c17a618",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:IoT_Meetup",
   "logo": null,
   "date": "2019-08-23T14:00:00+02:00",
   "start": "14:00",
@@ -17,16 +18,14 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Roeckoe",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Roeckoe",
       "public_name": "Roeckoe"
     },
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Tamberg",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Tamberg",
       "public_name": "Tamberg"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:IoT_Meetup"
-  ]
+  "links": []
 }

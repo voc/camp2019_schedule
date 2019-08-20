@@ -1,6 +1,7 @@
 {
   "id": 1147,
   "guid": "14f21912-007c-4238-ad1b-89a1ddb4c70b",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Mechanical_Keyboard_Meetup",
   "logo": null,
   "date": "2019-08-23T12:30:00+02:00",
   "start": "12:30",
@@ -17,17 +18,16 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Roeckoe",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Roeckoe",
       "public_name": "Roeckoe"
     },
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:XTaran",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:XTaran",
       "public_name": "XTaran"
     }
   ],
   "links": [
-    "https://redd.it/ch91ip",
-    "//events.ccc.de/camp/2019/wiki/Session:Mechanical_Keyboard_Meetup"
+    "https://redd.it/ch91ip"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "id": 1313,
   "guid": "7f6c411b-c418-42d5-bc0a-c1514aa2e687",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Board_Meeting",
   "logo": null,
   "date": "2019-08-21T15:00:00+02:00",
   "start": "15:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Rnbwdsh",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Rnbwdsh",
       "public_name": "Rnbwdsh"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Board_Meeting"
-  ]
+  "links": []
 }

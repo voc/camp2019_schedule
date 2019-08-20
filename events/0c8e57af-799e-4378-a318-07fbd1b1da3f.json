@@ -1,6 +1,7 @@
 {
   "id": 1136,
   "guid": "0c8e57af-799e-4378-a318-07fbd1b1da3f",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Terranix",
   "logo": null,
   "date": "2019-08-23T15:00:00+02:00",
   "start": "15:00",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Palo",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Palo",
       "public_name": "Palo"
     }
   ],
   "links": [
-    "https://terranix.org/",
-    "//events.ccc.de/camp/2019/wiki/Session:Terranix"
+    "https://terranix.org/"
   ]
 }

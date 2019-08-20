@@ -1,6 +1,7 @@
 {
   "id": 1040,
   "guid": "6ad28881-1413-46a4-837a-315359e19aeb",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Body/Mind_Hardware/Software",
   "logo": null,
   "date": "2019-08-24T18:00:00+02:00",
   "start": "18:00",
@@ -16,7 +17,6 @@
   "description": "EightOS bodymind operating system",
   "persons": [],
   "links": [
-    "http://www.8os.io",
-    "//events.ccc.de/camp/2019/wiki/Session:Body/Mind_Hardware/Software"
+    "http://www.8os.io"
   ]
 }

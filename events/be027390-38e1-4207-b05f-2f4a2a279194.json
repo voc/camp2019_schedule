@@ -1,6 +1,7 @@
 {
   "id": 1315,
   "guid": "be027390-38e1-4207-b05f-2f4a2a279194",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Feierliche_Verlesung_des_gesammelten_%C3%84rgers",
   "logo": null,
   "date": "2019-08-24T23:00:00+02:00",
   "start": "23:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Piko",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Piko",
       "public_name": "Piko"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Feierliche_Verlesung_des_gesammelten_%C3%84rgers"
-  ]
+  "links": []
 }

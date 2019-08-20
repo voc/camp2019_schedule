@@ -1,6 +1,7 @@
 {
   "id": 1037,
   "guid": "3b8c90c5-464a-4d58-96b6-98808289f738",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Bandwidth_Matters,_Information_controls_in_a_conflict_state_in_India",
   "logo": null,
   "date": "2019-08-24T13:00:00+02:00",
   "start": "13:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
       "public_name": "Gnunicorn"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Bandwidth_Matters,_Information_controls_in_a_conflict_state_in_India"
-  ]
+  "links": []
 }

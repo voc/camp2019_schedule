@@ -1,6 +1,7 @@
 {
   "id": 1118,
   "guid": "36719604-1c0a-4e1e-b823-734b79283e4d",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Powerplant:_an_opensource_permaculture_garden_planner_for_everyone",
   "logo": null,
   "date": "2019-08-23T14:30:00+02:00",
   "start": "14:30",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Aimeejulia",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Aimeejulia",
       "public_name": "Aimeejulia"
     }
   ],
   "links": [
-    "https://wiki.ecohackerfarm.org/powerplant:start",
-    "//events.ccc.de/camp/2019/wiki/Session:Powerplant:_an_opensource_permaculture_garden_planner_for_everyone"
+    "https://wiki.ecohackerfarm.org/powerplant:start"
   ]
 }

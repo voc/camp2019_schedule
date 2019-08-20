@@ -1,6 +1,7 @@
 {
   "id": 1257,
   "guid": "c5d794aa-3b64-4614-a644-528cc379182a",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Geiger_Counter_Workshop",
   "logo": null,
   "date": "2019-08-21T17:00:00+02:00",
   "start": "17:00",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Mightyohm",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Mightyohm",
       "public_name": "Mightyohm"
     }
   ],
   "links": [
-    "http://mightyohm.com/geiger",
-    "//events.ccc.de/camp/2019/wiki/Session:Geiger_Counter_Workshop"
+    "http://mightyohm.com/geiger"
   ]
 }

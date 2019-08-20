@@ -1,6 +1,7 @@
 {
   "id": 1286,
   "guid": "1a818cc0-3415-41f2-be2e-9d485e959ce2",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Global_Climate_Strike:_exchange_of_ideas_and_experiences_about_organizing_strikes_and_demonstrations",
   "logo": null,
   "date": "2019-08-23T12:30:00+02:00",
   "start": "12:30",
@@ -17,16 +18,14 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
       "public_name": "Gnunicorn"
     },
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Karlabyrinth",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Karlabyrinth",
       "public_name": "Karlabyrinth"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Global_Climate_Strike:_exchange_of_ideas_and_experiences_about_organizing_strikes_and_demonstrations"
-  ]
+  "links": []
 }

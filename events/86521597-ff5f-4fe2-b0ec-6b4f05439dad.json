@@ -1,6 +1,7 @@
 {
   "id": 1065,
   "guid": "86521597-ff5f-4fe2-b0ec-6b4f05439dad",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_ins_Podcasting_mit_Reaper/Ultraschall",
   "logo": null,
   "date": "2019-08-22T13:00:00+02:00",
   "start": "13:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Advi",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Advi",
       "public_name": "Advi"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_ins_Podcasting_mit_Reaper/Ultraschall"
-  ]
+  "links": []
 }

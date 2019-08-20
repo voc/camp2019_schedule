@@ -1,6 +1,7 @@
 {
   "id": 1272,
   "guid": "8fc910cd-6336-4b64-ac07-ac56c61cbeda",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Explore_the_botany_of_the_camp_with_plant_identification_apps",
   "logo": null,
   "date": "2019-08-21T11:00:00+02:00",
   "start": "11:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Minoi",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Minoi",
       "public_name": "Minoi"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Explore_the_botany_of_the_camp_with_plant_identification_apps"
-  ]
+  "links": []
 }

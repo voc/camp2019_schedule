@@ -1,6 +1,7 @@
 {
   "id": 1176,
   "guid": "a208d05f-cafd-4680-9f4e-760994a1202d",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Advanced_web_tracking_methods",
   "logo": null,
   "date": "2019-08-24T17:00:00+02:00",
   "start": "17:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Hainish",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Hainish",
       "public_name": "Hainish"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Advanced_web_tracking_methods"
-  ]
+  "links": []
 }

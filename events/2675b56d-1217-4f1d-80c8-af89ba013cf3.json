@@ -1,6 +1,7 @@
 {
   "id": 1282,
   "guid": "2675b56d-1217-4f1d-80c8-af89ba013cf3",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Permaculture_for_hackers",
   "logo": null,
   "date": "2019-08-24T12:00:00+02:00",
   "start": "12:00",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Aimeejulia",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Aimeejulia",
       "public_name": "Aimeejulia"
     }
   ],
   "links": [
-    "https://ecohackerfarm.org/",
-    "//events.ccc.de/camp/2019/wiki/Session:Permaculture_for_hackers"
+    "https://ecohackerfarm.org/"
   ]
 }

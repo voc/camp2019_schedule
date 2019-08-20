@@ -1,6 +1,7 @@
 {
   "id": 1223,
   "guid": "f30f2572-96ca-4d5b-8e7f-ab9fa43cdf20",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Maritime_Hackers_Meetup",
   "logo": null,
   "date": "2019-08-23T18:00:00+02:00",
   "start": "18:00",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Riot",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Riot",
       "public_name": "Riot"
     }
   ],
   "links": [
-    "https://isomer.hackerfleet.eu",
-    "//events.ccc.de/camp/2019/wiki/Session:Maritime_Hackers_Meetup"
+    "https://isomer.hackerfleet.eu"
   ]
 }

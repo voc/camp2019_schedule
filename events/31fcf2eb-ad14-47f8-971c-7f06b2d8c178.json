@@ -1,6 +1,7 @@
 {
   "id": 1036,
   "guid": "31fcf2eb-ad14-47f8-971c-7f06b2d8c178",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:BSD_Users_and_Developers_Meetup",
   "logo": null,
   "date": "2019-08-23T15:00:00+02:00",
   "start": "15:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Adventureloop",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Adventureloop",
       "public_name": "Adventureloop"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:BSD_Users_and_Developers_Meetup"
-  ]
+  "links": []
 }

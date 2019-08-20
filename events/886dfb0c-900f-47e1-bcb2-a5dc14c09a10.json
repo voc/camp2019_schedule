@@ -1,6 +1,7 @@
 {
   "id": 1045,
   "guid": "886dfb0c-900f-47e1-bcb2-a5dc14c09a10",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:CCChoir",
   "logo": null,
   "date": "2019-08-22T17:00:00+02:00",
   "start": "17:00",
@@ -15,7 +16,5 @@
   "abstract": "",
   "description": "Offene Chorprobe und physikalische Grundlagen der Musik",
   "persons": [],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:CCChoir"
-  ]
+  "links": []
 }

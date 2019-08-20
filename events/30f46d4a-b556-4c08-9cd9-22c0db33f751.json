@@ -1,6 +1,7 @@
 {
   "id": 1324,
   "guid": "30f46d4a-b556-4c08-9cd9-22c0db33f751",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Bandpl%C3%A4ne",
   "logo": null,
   "date": "2019-08-21T18:30:00+02:00",
   "start": "18:30",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Pylon",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Pylon",
       "public_name": "Pylon"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Bandpl%C3%A4ne"
-  ]
+  "links": []
 }

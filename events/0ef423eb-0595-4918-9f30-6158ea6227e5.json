@@ -1,6 +1,7 @@
 {
   "id": 1143,
   "guid": "0ef423eb-0595-4918-9f30-6158ea6227e5",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Whiskyleaks",
   "logo": null,
   "date": "2019-08-22T20:00:00+02:00",
   "start": "20:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Adventureloop",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Adventureloop",
       "public_name": "Adventureloop"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Whiskyleaks"
-  ]
+  "links": []
 }

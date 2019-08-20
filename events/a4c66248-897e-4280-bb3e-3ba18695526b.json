@@ -1,6 +1,7 @@
 {
   "id": 1196,
   "guid": "a4c66248-897e-4280-bb3e-3ba18695526b",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:FabScanPi_-_3D_Laser_Scanner_Workshop",
   "logo": null,
   "date": "2019-08-23T14:00:00+02:00",
   "start": "14:00",
@@ -16,7 +17,6 @@
   "description": "Build your own Open Source 3D Laser Scanner.",
   "persons": [],
   "links": [
-    "https://fabscan.org",
-    "//events.ccc.de/camp/2019/wiki/Session:FabScanPi_-_3D_Laser_Scanner_Workshop"
+    "https://fabscan.org"
   ]
 }

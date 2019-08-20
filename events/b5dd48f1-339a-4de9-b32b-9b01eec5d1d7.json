@@ -1,6 +1,7 @@
 {
   "id": 1314,
   "guid": "b5dd48f1-339a-4de9-b32b-9b01eec5d1d7",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Der_Haecksen-Hack",
   "logo": null,
   "date": "2019-08-23T12:30:00+02:00",
   "start": "12:30",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Piko",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Piko",
       "public_name": "Piko"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Der_Haecksen-Hack"
-  ]
+  "links": []
 }

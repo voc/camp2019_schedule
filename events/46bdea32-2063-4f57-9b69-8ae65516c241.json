@@ -1,6 +1,7 @@
 {
   "id": 1052,
   "guid": "46bdea32-2063-4f57-9b69-8ae65516c241",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Contributing_to_nixpkgs_for_Newbies",
   "logo": null,
   "date": "2019-08-23T14:00:00+02:00",
   "start": "14:00",
@@ -15,7 +16,5 @@
   "abstract": "",
   "description": "Learn how you can contribute to the nixpkgs git repo",
   "persons": [],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Contributing_to_nixpkgs_for_Newbies"
-  ]
+  "links": []
 }

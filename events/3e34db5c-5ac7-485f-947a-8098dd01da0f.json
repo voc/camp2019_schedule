@@ -1,6 +1,7 @@
 {
   "id": 1083,
   "guid": "3e34db5c-5ac7-485f-947a-8098dd01da0f",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Graphics_with_LaTeX",
   "logo": null,
   "date": "2019-08-22T17:30:00+02:00",
   "start": "17:30",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Dantetante",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Dantetante",
       "public_name": "Dantetante"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Graphics_with_LaTeX"
-  ]
+  "links": []
 }

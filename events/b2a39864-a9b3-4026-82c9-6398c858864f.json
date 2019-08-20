@@ -1,6 +1,7 @@
 {
   "id": 1278,
   "guid": "b2a39864-a9b3-4026-82c9-6398c858864f",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)",
   "logo": null,
   "date": "2019-08-22T22:00:00+02:00",
   "start": "22:00",
@@ -15,7 +16,5 @@
   "abstract": "",
   "description": "",
   "persons": [],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)"
-  ]
+  "links": []
 }

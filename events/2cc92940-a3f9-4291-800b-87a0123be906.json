@@ -1,6 +1,7 @@
 {
   "id": 1070,
   "guid": "2cc92940-a3f9-4291-800b-87a0123be906",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:FifF-Stammtische_everywhere",
   "logo": null,
   "date": "2019-08-23T16:30:00+02:00",
   "start": "16:30",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
       "public_name": "Gnunicorn"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:FifF-Stammtische_everywhere"
-  ]
+  "links": []
 }

@@ -1,6 +1,7 @@
 {
   "id": 1232,
   "guid": "fe13b901-cc23-4258-91cb-631e29cebe39",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant",
   "logo": null,
   "date": "2019-08-23T16:00:00+02:00",
   "start": "16:00",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:MarioB",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:MarioB",
       "public_name": "MarioB"
     }
   ],
   "links": [
-    "https://susi.ai",
-    "//events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant"
+    "https://susi.ai"
   ]
 }

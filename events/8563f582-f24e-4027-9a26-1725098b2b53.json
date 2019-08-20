@@ -1,6 +1,7 @@
 {
   "id": 1066,
   "guid": "8563f582-f24e-4027-9a26-1725098b2b53",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken",
   "logo": null,
   "date": "2019-08-22T20:00:00+02:00",
   "start": "20:00",
@@ -17,7 +18,6 @@
   "persons": [],
   "links": [
     "https://github.com/johannes-mueller/esperanto-35c3",
-    "https://c3eo.chaotik.de",
-    "//events.ccc.de/camp/2019/wiki/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken"
+    "https://c3eo.chaotik.de"
   ]
 }

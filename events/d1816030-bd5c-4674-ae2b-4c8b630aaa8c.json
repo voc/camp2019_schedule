@@ -1,6 +1,7 @@
 {
   "id": 1242,
   "guid": "d1816030-bd5c-4674-ae2b-4c8b630aaa8c",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
   "logo": null,
   "date": "2019-08-22T10:00:00+02:00",
   "start": "10:00",
@@ -17,17 +18,16 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
       "public_name": "Silbo"
     },
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
       "public_name": "Ivanna"
     }
   ],
   "links": [
-    "https://www.robokoding.com/kits/sumorobot",
-    "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering"
+    "https://www.robokoding.com/kits/sumorobot"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "id": 1110,
   "guid": "7e62224f-d99f-492a-84f9-eee90a2b8365",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:OONI:_Measuring_internet_censorship_around_the_world",
   "logo": null,
   "date": "2019-08-22T12:30:00+02:00",
   "start": "12:30",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
       "public_name": "Gnunicorn"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:OONI:_Measuring_internet_censorship_around_the_world"
-  ]
+  "links": []
 }

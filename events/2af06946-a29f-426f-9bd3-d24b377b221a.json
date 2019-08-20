@@ -1,6 +1,7 @@
 {
   "id": 1038,
   "guid": "2af06946-a29f-426f-9bd3-d24b377b221a",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Befreie_deine_WLAN_Steckdose",
   "logo": null,
   "date": "2019-08-22T14:00:00+02:00",
   "start": "14:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Mischk",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Mischk",
       "public_name": "Mischk"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Befreie_deine_WLAN_Steckdose"
-  ]
+  "links": []
 }

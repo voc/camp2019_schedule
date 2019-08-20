@@ -1,6 +1,7 @@
 {
   "id": 1216,
   "guid": "ad76e911-3536-4b60-81bc-93fb0f2ddc12",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Introduction_to_Tempeh_Making",
   "logo": null,
   "date": "2019-08-21T14:00:00+02:00",
   "start": "14:00",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Algoldor",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Algoldor",
       "public_name": "Algoldor"
     }
   ],
   "links": [
-    "https://foodhackingbase.org/wiki/Tempeh_making_ccccamp2019",
-    "//events.ccc.de/camp/2019/wiki/Session:Introduction_to_Tempeh_Making"
+    "https://foodhackingbase.org/wiki/Tempeh_making_ccccamp2019"
   ]
 }

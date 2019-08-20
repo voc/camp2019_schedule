@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-20 08:30",
+    "version": "2019-08-20 10:14",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -20,6 +20,7 @@
               {
                 "id": 1233,
                 "guid": "f5d15859-c9b5-44c8-8565-cb22daacedc8",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant",
                 "logo": null,
                 "date": "2019-08-21T16:00:00+02:00",
                 "start": "16:00",
@@ -36,13 +37,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:MarioB",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:MarioB",
                     "public_name": "MarioB"
                   }
                 ],
                 "links": [
-                  "https://susi.ai",
-                  "//events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant"
+                  "https://susi.ai"
                 ]
               }
             ],
@@ -50,6 +50,7 @@
               {
                 "id": 1284,
                 "guid": "f4fa97e9-c253-4eb2-8695-83addfc593ea",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices",
                 "logo": null,
                 "date": "2019-08-21T16:00:00+02:00",
                 "start": "16:00",
@@ -66,13 +67,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:PoltoS",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:PoltoS",
                     "public_name": "PoltoS"
                   }
                 ],
                 "links": [
-                  "http://z-uno.z-wave.me",
-                  "//events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices"
+                  "http://z-uno.z-wave.me"
                 ]
               }
             ],
@@ -80,6 +80,7 @@
               {
                 "id": 1180,
                 "guid": "f3ab2794-e73a-4b02-9fc7-07fbf1dbe66c",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Awarenessteam-Vorstellung",
                 "logo": null,
                 "date": "2019-08-21T16:15:00+02:00",
                 "start": "16:15",
@@ -96,18 +97,17 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Sistason",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Sistason",
                     "public_name": "Sistason"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Theresa",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Theresa",
                     "public_name": "Theresa"
                   }
                 ],
                 "links": [
-                  "http://help.ccc.de/awareness",
-                  "//events.ccc.de/camp/2019/wiki/Session:Awarenessteam-Vorstellung"
+                  "http://help.ccc.de/awareness"
                 ]
               }
             ],
@@ -116,6 +116,7 @@
               {
                 "id": 1274,
                 "guid": "cc994b81-832a-4206-aa6b-64d587849cd1",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:A_capella",
                 "logo": null,
                 "date": "2019-08-21T17:30:00+02:00",
                 "start": "17:30",
@@ -130,13 +131,12 @@
                 "abstract": "",
                 "description": "Einsingen, Zusammen singen",
                 "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:A_capella"
-                ]
+                "links": []
               },
               {
                 "id": 1275,
                 "guid": "98f74b6e-66ab-4a99-9310-b9297555ac5d",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Buchclub:_Texte_im_Feminismus",
                 "logo": null,
                 "date": "2019-08-21T21:00:00+02:00",
                 "start": "21:00",
@@ -151,13 +151,12 @@
                 "abstract": "",
                 "description": "was haben wir, ihr gelesen, was lohnt sich zu lesen?",
                 "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Buchclub:_Texte_im_Feminismus"
-                ]
+                "links": []
               },
               {
                 "id": 1279,
                 "guid": "1dcab320-f662-4426-98ac-d07fecf6746e",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)",
                 "logo": null,
                 "date": "2019-08-21T22:00:00+02:00",
                 "start": "22:00",
@@ -172,13 +171,12 @@
                 "abstract": "",
                 "description": "",
                 "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)"
-                ]
+                "links": []
               },
               {
                 "id": 1276,
                 "guid": "5b8af331-9b0d-44be-80a3-040be6bc21db",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Surviving_Calc/Excel",
                 "logo": null,
                 "date": "2019-08-21T14:00:00+02:00",
                 "start": "14:00",
@@ -193,13 +191,12 @@
                 "abstract": "",
                 "description": "basic formulas for sorting data without as much pain as usual",
                 "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Surviving_Calc/Excel"
-                ]
+                "links": []
               },
               {
                 "id": 1273,
                 "guid": "a0eaf4f8-d2d9-4f6e-b8c4-b0b31f8824ec",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Toki_Pona",
                 "logo": null,
                 "date": "2019-08-21T13:30:00+02:00",
                 "start": "13:30",
@@ -216,17 +213,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Piko",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Piko",
                     "public_name": "Piko"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Toki_Pona"
-                ]
+                "links": []
               },
               {
                 "id": 1277,
                 "guid": "fc8fb444-0f23-4b1c-84fa-d36ddf78c50c",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Wie_funktioniert_ein_Sicherheitsgurt",
                 "logo": null,
                 "date": "2019-08-21T20:00:00+02:00",
                 "start": "20:00",
@@ -241,13 +237,12 @@
                 "abstract": "",
                 "description": "How seatbelt retractors work",
                 "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Wie_funktioniert_ein_Sicherheitsgurt"
-                ]
+                "links": []
               },
               {
                 "id": 1320,
                 "guid": "15d059be-acc8-4d88-a350-e7dc94ab2ca4",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Workshop_feminist_library",
                 "logo": null,
                 "date": "2019-08-21T21:00:00+02:00",
                 "start": "21:00",
@@ -263,8 +258,7 @@
                 "description": "Workshop to start the feminist library",
                 "persons": [],
                 "links": [
-                  "http://haecksen.org",
-                  "//events.ccc.de/camp/2019/wiki/Session:Workshop_feminist_library"
+                  "http://haecksen.org"
                 ]
               }
             ],
@@ -272,6 +266,7 @@
               {
                 "id": 1324,
                 "guid": "30f46d4a-b556-4c08-9cd9-22c0db33f751",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bandpl%C3%A4ne",
                 "logo": null,
                 "date": "2019-08-21T18:30:00+02:00",
                 "start": "18:30",
@@ -288,17 +283,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Pylon",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Pylon",
                     "public_name": "Pylon"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Bandpl%C3%A4ne"
-                ]
+                "links": []
               },
               {
                 "id": 1325,
                 "guid": "7cd9bc5f-8b2a-4ced-8062-fdd11e1f5371",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Cloudlog",
                 "logo": null,
                 "date": "2019-08-21T18:00:00+02:00",
                 "start": "18:00",
@@ -314,13 +308,13 @@
                 "description": "Webbasiertes Amateurfunk-Logbuch",
                 "persons": [],
                 "links": [
-                  "https://github.com/magicbug/Cloudlog",
-                  "//events.ccc.de/camp/2019/wiki/Session:Cloudlog"
+                  "https://github.com/magicbug/Cloudlog"
                 ]
               },
               {
                 "id": 1326,
                 "guid": "38f8c609-043e-4c22-a301-688acefdb765",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:HAMNET",
                 "logo": null,
                 "date": "2019-08-21T21:00:00+02:00",
                 "start": "21:00",
@@ -335,13 +329,12 @@
                 "abstract": "",
                 "description": "Highspeed Amateurradio Multimedia NETwork",
                 "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:HAMNET"
-                ]
+                "links": []
               },
               {
                 "id": 1327,
                 "guid": "b2f0e1a6-194c-40d6-8ce4-908200b6fe7b",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Restauration_antiker_Autoradios",
                 "logo": null,
                 "date": "2019-08-21T19:30:00+02:00",
                 "start": "19:30",
@@ -356,15 +349,14 @@
                 "abstract": "",
                 "description": "Technische und optische Restauration antiker Autoradios f\u00fcr Oldtimer",
                 "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Restauration_antiker_Autoradios"
-                ]
+                "links": []
               }
             ],
             "Village:Chaos-West": [
               {
                 "id": 1313,
                 "guid": "7f6c411b-c418-42d5-bc0a-c1514aa2e687",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Board_Meeting",
                 "logo": null,
                 "date": "2019-08-21T15:00:00+02:00",
                 "start": "15:00",
@@ -381,19 +373,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Rnbwdsh",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Rnbwdsh",
                     "public_name": "Rnbwdsh"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Board_Meeting"
-                ]
+                "links": []
               }
             ],
             "Village:Foodhackingbase": [
               {
                 "id": 1186,
                 "guid": "f5538214-33b5-45fd-9c69-a9acef3e322e",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Cheese_Rendezvous",
                 "logo": null,
                 "date": "2019-08-21T20:00:00+02:00",
                 "start": "20:00",
@@ -410,18 +401,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Algoldor",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Algoldor",
                     "public_name": "Algoldor"
                   }
                 ],
                 "links": [
-                  "https://foodhackingbase.org/wiki/Cheesetasting_ccccamp2019",
-                  "//events.ccc.de/camp/2019/wiki/Session:Cheese_Rendezvous"
+                  "https://foodhackingbase.org/wiki/Cheesetasting_ccccamp2019"
                 ]
               },
               {
                 "id": 1216,
                 "guid": "ad76e911-3536-4b60-81bc-93fb0f2ddc12",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Introduction_to_Tempeh_Making",
                 "logo": null,
                 "date": "2019-08-21T14:00:00+02:00",
                 "start": "14:00",
@@ -438,13 +429,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Algoldor",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Algoldor",
                     "public_name": "Algoldor"
                   }
                 ],
                 "links": [
-                  "https://foodhackingbase.org/wiki/Tempeh_making_ccccamp2019",
-                  "//events.ccc.de/camp/2019/wiki/Session:Introduction_to_Tempeh_Making"
+                  "https://foodhackingbase.org/wiki/Tempeh_making_ccccamp2019"
                 ]
               }
             ],
@@ -452,6 +442,7 @@
               {
                 "id": 1050,
                 "guid": "78fe0714-c035-4464-baa9-4a766d058311",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:ConTeXt_f%C3%BCr_Anf%C3%A4nger",
                 "logo": null,
                 "date": "2019-08-21T14:00:00+02:00",
                 "start": "14:00",
@@ -468,18 +459,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Hraban",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Hraban",
                     "public_name": "Hraban"
                   }
                 ],
                 "links": [
-                  "http://wiki.contextgarden.net",
-                  "//events.ccc.de/camp/2019/wiki/Session:ConTeXt_f%C3%BCr_Anf%C3%A4nger"
+                  "http://wiki.contextgarden.net"
                 ]
               },
               {
                 "id": 1064,
                 "guid": "4100c30a-0e78-403d-a5c8-b0d7387b1ef7",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_in_LaTeX",
                 "logo": null,
                 "date": "2019-08-21T15:00:00+02:00",
                 "start": "15:00",
@@ -496,19 +487,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Nils",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Nils",
                     "public_name": "Nils"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_in_LaTeX"
-                ]
+                "links": []
               }
             ],
             "Village:About:freedom": [
               {
                 "id": 1053,
                 "guid": "5c1066ad-c624-437b-b1aa-cd94855def55",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Creative_commons",
                 "logo": null,
                 "date": "2019-08-21T14:30:00+02:00",
                 "start": "14:30",
@@ -525,17 +515,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Tunda",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Tunda",
                     "public_name": "Tunda"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Creative_commons"
-                ]
+                "links": []
               },
               {
                 "id": 1059,
                 "guid": "8fffd29a-b237-48ec-b2cd-4126bff8dd15",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Digitale_Werkzeuge_zum_Verst%C3%A4ndnis_der_Energiewende",
                 "logo": null,
                 "date": "2019-08-21T16:30:00+02:00",
                 "start": "16:30",
@@ -552,17 +541,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Digitale_Werkzeuge_zum_Verst%C3%A4ndnis_der_Energiewende"
-                ]
+                "links": []
               },
               {
                 "id": 1193,
                 "guid": "a832c946-31a9-41b2-963b-5ef4cc31b33c",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Digitale_Werkzeuge_zum_Verst%C3%A4ndnis_von_Klima_und_Wetter",
                 "logo": null,
                 "date": "2019-08-21T14:00:00+02:00",
                 "start": "14:00",
@@ -579,17 +567,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Digitale_Werkzeuge_zum_Verst%C3%A4ndnis_von_Klima_und_Wetter"
-                ]
+                "links": []
               },
               {
                 "id": 1067,
                 "guid": "107bdb89-dabe-4276-9af1-78130e04ef2f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Estimate_and_calculate_carbon_footprints",
                 "logo": null,
                 "date": "2019-08-21T18:00:00+02:00",
                 "start": "18:00",
@@ -606,17 +593,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Estimate_and_calculate_carbon_footprints"
-                ]
+                "links": []
               },
               {
                 "id": 1264,
                 "guid": "fb15c229-c580-4974-bd7c-affaa7002089",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Forderungen_des_B_%26_B",
                 "logo": null,
                 "date": "2019-08-21T15:30:00+02:00",
                 "start": "15:30",
@@ -633,17 +619,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Forderungen_des_B_%26_B"
-                ]
+                "links": []
               },
               {
                 "id": 1104,
                 "guid": "27e94e6e-74b0-4c58-a221-6c688b72caf6",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Let%27s_go_there_by_land_not_by_air",
                 "logo": null,
                 "date": "2019-08-21T17:00:00+02:00",
                 "start": "17:00",
@@ -660,17 +645,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Let%27s_go_there_by_land_not_by_air"
-                ]
+                "links": []
               },
               {
                 "id": 1224,
                 "guid": "bd8cc66c-ae5b-4519-a646-4beff26cb8d7",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Net_Neutrality_updates:_How_5G_is_used_to_water_down_the_protections_of_the_open_internet",
                 "logo": null,
                 "date": "2019-08-21T17:00:00+02:00",
                 "start": "17:00",
@@ -687,17 +671,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Net_Neutrality_updates:_How_5G_is_used_to_water_down_the_protections_of_the_open_internet"
-                ]
+                "links": []
               },
               {
                 "id": 1131,
                 "guid": "25c0bf31-46fb-4cb8-b2c5-2369cf2e4e41",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Substrate_verifiable_credentials_-_build_your_first_infrastructure_blockchain",
                 "logo": null,
                 "date": "2019-08-21T14:00:00+02:00",
                 "start": "14:00",
@@ -714,18 +697,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
                 "links": [
-                  "https://substrate.dev/en/tutorials",
-                  "//events.ccc.de/camp/2019/wiki/Session:Substrate_verifiable_credentials_-_build_your_first_infrastructure_blockchain"
+                  "https://substrate.dev/en/tutorials"
                 ]
               },
               {
                 "id": 1140,
                 "guid": "9c0d9834-b2a4-4a2e-9c15-9e54bac815d0",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Tor_Relay_Operator_Meetup",
                 "logo": null,
                 "date": "2019-08-21T18:00:00+02:00",
                 "start": "18:00",
@@ -742,13 +725,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
                 "links": [
-                  "https://www.torproject.org",
-                  "//events.ccc.de/camp/2019/wiki/Session:Tor_Relay_Operator_Meetup"
+                  "https://www.torproject.org"
                 ]
               }
             ],
@@ -756,6 +738,7 @@
               {
                 "id": 1269,
                 "guid": "01d7adc9-5283-4009-8cc1-55bfe4569c82",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Digital_Self-Defense_Workshop",
                 "logo": null,
                 "date": "2019-08-21T16:00:00+02:00",
                 "start": "16:00",
@@ -772,13 +755,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:CryptGoat",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:CryptGoat",
                     "public_name": "CryptGoat"
                   }
                 ],
                 "links": [
-                  "https://digitalcourage.de/digitale-selbstverteidigung",
-                  "//events.ccc.de/camp/2019/wiki/Session:Digital_Self-Defense_Workshop"
+                  "https://digitalcourage.de/digitale-selbstverteidigung"
                 ]
               }
             ],
@@ -786,6 +768,7 @@
               {
                 "id": 1272,
                 "guid": "8fc910cd-6336-4b64-ac07-ac56c61cbeda",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Explore_the_botany_of_the_camp_with_plant_identification_apps",
                 "logo": null,
                 "date": "2019-08-21T11:00:00+02:00",
                 "start": "11:00",
@@ -802,17 +785,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Minoi",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Minoi",
                     "public_name": "Minoi"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Explore_the_botany_of_the_camp_with_plant_identification_apps"
-                ]
+                "links": []
               },
               {
                 "id": 1304,
                 "guid": "f40b1ff2-7dbd-419a-8dc4-199f3bf33c0e",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour",
                 "logo": null,
                 "date": "2019-08-21T17:30:00+02:00",
                 "start": "17:30",
@@ -829,19 +811,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ckeen",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ckeen",
                     "public_name": "Ckeen"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour"
-                ]
+                "links": []
               }
             ],
             "Village:Free Software Foundation Europe": [
               {
                 "id": 1255,
                 "guid": "e10a5b76-2ca9-4a0d-a1c6-0b3ce24748a8",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along",
                 "logo": null,
                 "date": "2019-08-21T19:30:00+02:00",
                 "start": "19:30",
@@ -858,19 +839,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Eal",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Eal",
                     "public_name": "Eal"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along"
-                ]
+                "links": []
               }
             ],
             "Village:Schaffenburg": [
               {
                 "id": 1079,
                 "guid": "6700ed11-b9cb-46ba-8f25-f68a29dfcc64",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:GOC",
                 "logo": null,
                 "date": "2019-08-21T19:00:00+02:00",
                 "start": "19:00",
@@ -887,19 +867,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Fraxinas",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Fraxinas",
                     "public_name": "Fraxinas"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:GOC"
-                ]
+                "links": []
               }
             ],
             "Village:HardwareHackingArea": [
               {
                 "id": 1257,
                 "guid": "c5d794aa-3b64-4614-a644-528cc379182a",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Geiger_Counter_Workshop",
                 "logo": null,
                 "date": "2019-08-21T17:00:00+02:00",
                 "start": "17:00",
@@ -916,18 +895,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Mightyohm",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Mightyohm",
                     "public_name": "Mightyohm"
                   }
                 ],
                 "links": [
-                  "http://mightyohm.com/geiger",
-                  "//events.ccc.de/camp/2019/wiki/Session:Geiger_Counter_Workshop"
+                  "http://mightyohm.com/geiger"
                 ]
               },
               {
                 "id": 1103,
                 "guid": "2c589187-0e66-45a1-a6ef-4be09eb0d231",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder",
                 "logo": null,
                 "date": "2019-08-21T17:00:00+02:00",
                 "start": "17:00",
@@ -944,17 +923,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Maltman23",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Maltman23",
                     "public_name": "Maltman23"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder"
-                ]
+                "links": []
               },
               {
                 "id": 1294,
                 "guid": "592e8c5b-b23a-4768-8ffc-9d07329ce16f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners_-_electronic_kitten_EXPERIMENTAL_WORKSHOP",
                 "logo": null,
                 "date": "2019-08-21T20:00:00+02:00",
                 "start": "20:00",
@@ -971,19 +949,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Kliment",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Kliment",
                     "public_name": "Kliment"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners_-_electronic_kitten_EXPERIMENTAL_WORKSHOP"
-                ]
+                "links": []
               }
             ],
             "Village:Harbor": [
               {
                 "id": 1086,
                 "guid": "32dfd87c-4f9e-4535-b056-898d41e8f2bc",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:HFOS_-_The_Hackerfleet_Operating_System",
                 "logo": null,
                 "date": "2019-08-21T16:00:00+02:00",
                 "start": "16:00",
@@ -1000,13 +977,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Riot",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Riot",
                     "public_name": "Riot"
                   }
                 ],
                 "links": [
-                  "http://hackerfleet.eu",
-                  "//events.ccc.de/camp/2019/wiki/Session:HFOS_-_The_Hackerfleet_Operating_System"
+                  "http://hackerfleet.eu"
                 ]
               }
             ],
@@ -1014,6 +990,7 @@
               {
                 "id": 1099,
                 "guid": "55558acc-348c-44e8-97b1-bbc1187a7407",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Isomer",
                 "logo": null,
                 "date": "2019-08-21T17:00:00+02:00",
                 "start": "17:00",
@@ -1030,13 +1007,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Riot",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Riot",
                     "public_name": "Riot"
                   }
                 ],
                 "links": [
-                  "http://isomer.eu",
-                  "//events.ccc.de/camp/2019/wiki/Session:Isomer"
+                  "http://isomer.eu"
                 ]
               }
             ],
@@ -1044,6 +1020,7 @@
               {
                 "id": 1116,
                 "guid": "878fe989-4298-4518-b7dc-9e1d41edf78b",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Pile_Farty",
                 "logo": null,
                 "date": "2019-08-21T21:00:00+02:00",
                 "start": "21:00",
@@ -1058,15 +1035,14 @@
                 "abstract": "",
                 "description": "Bring your Files, we are having a Party!",
                 "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Pile_Farty"
-                ]
+                "links": []
               }
             ],
             "Village:RoboVillage": [
               {
                 "id": 1238,
                 "guid": "ff0380fa-659f-4f84-b2c5-2dca4bf145ff",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming",
                 "logo": null,
                 "date": "2019-08-21T17:00:00+02:00",
                 "start": "17:00",
@@ -1083,28 +1059,28 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
                     "public_name": "Silbo"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
                     "public_name": "Ivanna"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Superwallah",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Superwallah",
                     "public_name": "Superwallah"
                   }
                 ],
                 "links": [
-                  "https://www.robokoding.com/kits/sumorobot",
-                  "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming"
+                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               },
               {
                 "id": 1133,
                 "guid": "95c46d31-b366-4ab3-87af-d123f57931d5",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming",
                 "logo": null,
                 "date": "2019-08-21T12:30:00+02:00",
                 "start": "12:30",
@@ -1121,28 +1097,28 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
                     "public_name": "Silbo"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
                     "public_name": "Ivanna"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Superwallah",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Superwallah",
                     "public_name": "Superwallah"
                   }
                 ],
                 "links": [
-                  "https://www.robokoding.com/kits/sumorobot",
-                  "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming"
+                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               },
               {
                 "id": 1135,
                 "guid": "52fca402-211b-41df-953f-daede2a0a68b",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
                 "logo": null,
                 "date": "2019-08-21T10:00:00+02:00",
                 "start": "10:00",
@@ -1159,23 +1135,23 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
                     "public_name": "Silbo"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
                     "public_name": "Ivanna"
                   }
                 ],
                 "links": [
-                  "https://www.robokoding.com/kits/sumorobot",
-                  "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering"
+                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               },
               {
                 "id": 1241,
                 "guid": "d9d1bb33-18ab-4327-b399-d875d9be83ae",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
                 "logo": null,
                 "date": "2019-08-21T14:30:00+02:00",
                 "start": "14:30",
@@ -1192,18 +1168,17 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
                     "public_name": "Silbo"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
                     "public_name": "Ivanna"
                   }
                 ],
                 "links": [
-                  "https://www.robokoding.com/kits/sumorobot",
-                  "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering"
+                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               }
             ]
@@ -1221,6 +1196,7 @@
               {
                 "id": 1045,
                 "guid": "886dfb0c-900f-47e1-bcb2-a5dc14c09a10",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:CCChoir",
                 "logo": null,
                 "date": "2019-08-22T17:00:00+02:00",
                 "start": "17:00",
@@ -1235,13 +1211,12 @@
                 "abstract": "",
                 "description": "Offene Chorprobe und physikalische Grundlagen der Musik",
                 "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:CCChoir"
-                ]
+                "links": []
               },
               {
                 "id": 1283,
                 "guid": "7db3ec84-5dc0-46a3-b30e-8fa3eb9560b6",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices",
                 "logo": null,
                 "date": "2019-08-22T16:00:00+02:00",
                 "start": "16:00",
@@ -1258,18 +1233,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:PoltoS",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:PoltoS",
                     "public_name": "PoltoS"
                   }
                 ],
                 "links": [
-                  "http://z-uno.z-wave.me",
-                  "//events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices"
+                  "http://z-uno.z-wave.me"
                 ]
               },
               {
                 "id": 1066,
                 "guid": "8563f582-f24e-4027-9a26-1725098b2b53",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken",
                 "logo": null,
                 "date": "2019-08-22T20:00:00+02:00",
                 "start": "20:00",
@@ -1286,8 +1261,7 @@
                 "persons": [],
                 "links": [
                   "https://github.com/johannes-mueller/esperanto-35c3",
-                  "https://c3eo.chaotik.de",
-                  "//events.ccc.de/camp/2019/wiki/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken"
+                  "https://c3eo.chaotik.de"
                 ]
               }
             ],
@@ -1295,6 +1269,7 @@
               {
                 "id": 1177,
                 "guid": "f827e2f7-55c1-4f65-b2a4-aa77da48549b",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Arch_Linux_Meetup",
                 "logo": null,
                 "date": "2019-08-22T19:00:00+02:00",
                 "start": "19:00",
@@ -1311,13 +1286,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Foxboron",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Foxboron",
                     "public_name": "Foxboron"
                   }
                 ],
                 "links": [
-                  "https://archlinux.org",
-                  "//events.ccc.de/camp/2019/wiki/Session:Arch_Linux_Meetup"
+                  "https://archlinux.org"
                 ]
               }
             ],
@@ -1326,6 +1300,7 @@
               {
                 "id": 1033,
                 "guid": "0ac837d5-262b-4a1c-afc1-dc7b889b3fa5",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Arduino_For_Total_Newbies",
                 "logo": null,
                 "date": "2019-08-22T13:00:00+02:00",
                 "start": "13:00",
@@ -1342,18 +1317,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Maltman23",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Maltman23",
                     "public_name": "Maltman23"
                   }
                 ],
                 "links": [
-                  "https://tiny.cc/A4TN",
-                  "//events.ccc.de/camp/2019/wiki/Session:Arduino_For_Total_Newbies"
+                  "https://tiny.cc/A4TN"
                 ]
               },
               {
                 "id": 1292,
                 "guid": "979a6e80-7544-470c-b7c3-d2bc7f4bdb39",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bristlebots_for_kids!",
                 "logo": null,
                 "date": "2019-08-22T11:00:00+02:00",
                 "start": "11:00",
@@ -1370,17 +1345,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Kliment",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Kliment",
                     "public_name": "Kliment"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Bristlebots_for_kids!"
-                ]
+                "links": []
               },
               {
                 "id": 1102,
                 "guid": "069ad79f-dd7f-4e2b-92ae-b9eaf484e61f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder",
                 "logo": null,
                 "date": "2019-08-22T11:00:00+02:00",
                 "start": "11:00",
@@ -1397,17 +1371,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Maltman23",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Maltman23",
                     "public_name": "Maltman23"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder"
-                ]
+                "links": []
               },
               {
                 "id": 1127,
                 "guid": "2cc4ad05-81a4-42c1-b702-910416df5a08",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Soft_circuits:_sew_a_tiny_squishy_torch_with_DIY_pressure_sensor",
                 "logo": null,
                 "date": "2019-08-22T20:30:00+02:00",
                 "start": "20:30",
@@ -1423,13 +1396,13 @@
                 "description": "Make a tiny squishy torch with DIY pressure sensor: an introduction to soft circuits",
                 "persons": [],
                 "links": [
-                  "https://twitter.com/helenleigh",
-                  "//events.ccc.de/camp/2019/wiki/Session:Soft_circuits:_sew_a_tiny_squishy_torch_with_DIY_pressure_sensor"
+                  "https://twitter.com/helenleigh"
                 ]
               },
               {
                 "id": 1289,
                 "guid": "61307345-e6a1-4822-8d7a-58082ebf65ce",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners",
                 "logo": null,
                 "date": "2019-08-22T17:30:00+02:00",
                 "start": "17:30",
@@ -1446,17 +1419,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Kliment",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Kliment",
                     "public_name": "Kliment"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners"
-                ]
+                "links": []
               },
               {
                 "id": 1287,
                 "guid": "34ee2023-e2f1-4adf-8715-4a23d5122389",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners",
                 "logo": null,
                 "date": "2019-08-22T20:00:00+02:00",
                 "start": "20:00",
@@ -1473,19 +1445,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Kliment",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Kliment",
                     "public_name": "Kliment"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners"
-                ]
+                "links": []
               }
             ],
             "Village:About:freedom": [
               {
                 "id": 1252,
                 "guid": "b2ad3535-afd1-4e0c-a298-6aceef686375",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Argumentationstraining_Datenschutz",
                 "logo": null,
                 "date": "2019-08-22T12:30:00+02:00",
                 "start": "12:30",
@@ -1502,17 +1473,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Argumentationstraining_Datenschutz"
-                ]
+                "links": []
               },
               {
                 "id": 1038,
                 "guid": "2af06946-a29f-426f-9bd3-d24b377b221a",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Befreie_deine_WLAN_Steckdose",
                 "logo": null,
                 "date": "2019-08-22T14:00:00+02:00",
                 "start": "14:00",
@@ -1529,17 +1499,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Mischk",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Mischk",
                     "public_name": "Mischk"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Befreie_deine_WLAN_Steckdose"
-                ]
+                "links": []
               },
               {
                 "id": 1048,
                 "guid": "0b65610d-cad2-45dd-8814-468f99acd259",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:CiTiZEN_KiNO",
                 "logo": null,
                 "date": "2019-08-22T20:00:00+02:00",
                 "start": "20:00",
@@ -1556,17 +1525,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:CiTiZEN_KiNO"
-                ]
+                "links": []
               },
               {
                 "id": 1189,
                 "guid": "ab428789-489d-4649-8d64-43ad6c072342",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:CryptoParty_Meet_%26_Greet",
                 "logo": null,
                 "date": "2019-08-22T18:00:00+02:00",
                 "start": "18:00",
@@ -1583,17 +1551,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:CryptoParty_Meet_%26_Greet"
-                ]
+                "links": []
               },
               {
                 "id": 1259,
                 "guid": "f9cc11df-dd08-40f4-b7ba-1860455d5147",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:How_to_shape_a_responsible_world%3F",
                 "logo": null,
                 "date": "2019-08-22T15:00:00+02:00",
                 "start": "15:00",
@@ -1610,17 +1577,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:How_to_shape_a_responsible_world%3F"
-                ]
+                "links": []
               },
               {
                 "id": 1213,
                 "guid": "c78b6f1d-ef23-4199-a3f4-127a769c5b9a",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Implementation_of_the_Copyright_Directive:_How_to_prevent_the_worst_in_your_home_country%3F",
                 "logo": null,
                 "date": "2019-08-22T14:00:00+02:00",
                 "start": "14:00",
@@ -1637,17 +1603,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Implementation_of_the_Copyright_Directive:_How_to_prevent_the_worst_in_your_home_country%3F"
-                ]
+                "links": []
               },
               {
                 "id": 1214,
                 "guid": "b611cda2-eeb8-432e-b56b-41266684f84f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Ink!:_Write_Wasm_smart_contracts_with_Rust",
                 "logo": null,
                 "date": "2019-08-22T10:30:00+02:00",
                 "start": "10:30",
@@ -1664,19 +1629,19 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
                 "links": [
                   "https://substrate.dev/substrate-contracts-workshop/#/",
-                  "https://substrate.dev/en/tutorials",
-                  "//events.ccc.de/camp/2019/wiki/Session:Ink!:_Write_Wasm_smart_contracts_with_Rust"
+                  "https://substrate.dev/en/tutorials"
                 ]
               },
               {
                 "id": 1110,
                 "guid": "7e62224f-d99f-492a-84f9-eee90a2b8365",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:OONI:_Measuring_internet_censorship_around_the_world",
                 "logo": null,
                 "date": "2019-08-22T12:30:00+02:00",
                 "start": "12:30",
@@ -1693,17 +1658,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:OONI:_Measuring_internet_censorship_around_the_world"
-                ]
+                "links": []
               },
               {
                 "id": 1235,
                 "guid": "b6837980-853b-42d7-95b8-72c7d1c3ed96",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Substrate_Collectibles_-_Build_your_own_blockchain-backed_asset_exchange",
                 "logo": null,
                 "date": "2019-08-22T15:00:00+02:00",
                 "start": "15:00",
@@ -1720,19 +1684,19 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
                 "links": [
                   "https://substrate.dev/substrate-collectables-workshop/#/",
-                  "https://substrate.dev/en/tutorials",
-                  "//events.ccc.de/camp/2019/wiki/Session:Substrate_Collectibles_-_Build_your_own_blockchain-backed_asset_exchange"
+                  "https://substrate.dev/en/tutorials"
                 ]
               },
               {
                 "id": 1139,
                 "guid": "74735d77-9d77-4c14-b823-81a1c91820ee",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Tor_Project:_running_Tor_trainings_with_human_rights_defenders_in_Global_South",
                 "logo": null,
                 "date": "2019-08-22T14:30:00+02:00",
                 "start": "14:30",
@@ -1749,18 +1713,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
                 "links": [
-                  "https://www.torproject.org",
-                  "//events.ccc.de/camp/2019/wiki/Session:Tor_Project:_running_Tor_trainings_with_human_rights_defenders_in_Global_South"
+                  "https://www.torproject.org"
                 ]
               },
               {
                 "id": 1246,
                 "guid": "a6715135-987f-418c-8dad-d5896ac63695",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Treffen_und_Diskussion_zur_Netzpolitik_in_der_Schweiz",
                 "logo": null,
                 "date": "2019-08-22T10:30:00+02:00",
                 "start": "10:30",
@@ -1777,19 +1741,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Kire",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Kire",
                     "public_name": "Kire"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Treffen_und_Diskussion_zur_Netzpolitik_in_der_Schweiz"
-                ]
+                "links": []
               }
             ],
             "Village:Foodhackingbase": [
               {
                 "id": 1049,
                 "guid": "9628843e-81b0-4810-b26f-bcd9b8141b66",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Cidre_Flows",
                 "logo": null,
                 "date": "2019-08-22T21:00:00+02:00",
                 "start": "21:00",
@@ -1806,13 +1769,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Algoldor",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Algoldor",
                     "public_name": "Algoldor"
                   }
                 ],
                 "links": [
-                  "https://foodhackingbase.org/wiki/Cidre_flows_ccccamp2019",
-                  "//events.ccc.de/camp/2019/wiki/Session:Cidre_Flows"
+                  "https://foodhackingbase.org/wiki/Cidre_flows_ccccamp2019"
                 ]
               }
             ],
@@ -1820,6 +1782,7 @@
               {
                 "id": 1051,
                 "guid": "12375d1f-b599-40a8-be72-7ca856048c10",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:ConTeXt_f%C3%BCr_Anf%C3%A4nger",
                 "logo": null,
                 "date": "2019-08-22T14:00:00+02:00",
                 "start": "14:00",
@@ -1836,18 +1799,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Hraban",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Hraban",
                     "public_name": "Hraban"
                   }
                 ],
                 "links": [
-                  "http://wiki.contextgarden.net",
-                  "//events.ccc.de/camp/2019/wiki/Session:ConTeXt_f%C3%BCr_Anf%C3%A4nger"
+                  "http://wiki.contextgarden.net"
                 ]
               },
               {
                 "id": 1063,
                 "guid": "29607a5e-7c42-4004-b238-31fa1fe9a3c3",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_in_LaTeX",
                 "logo": null,
                 "date": "2019-08-22T15:00:00+02:00",
                 "start": "15:00",
@@ -1864,17 +1827,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Nils",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Nils",
                     "public_name": "Nils"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_in_LaTeX"
-                ]
+                "links": []
               },
               {
                 "id": 1083,
                 "guid": "3e34db5c-5ac7-485f-947a-8098dd01da0f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Graphics_with_LaTeX",
                 "logo": null,
                 "date": "2019-08-22T17:30:00+02:00",
                 "start": "17:30",
@@ -1891,17 +1853,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Dantetante",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Dantetante",
                     "public_name": "Dantetante"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Graphics_with_LaTeX"
-                ]
+                "links": []
               },
               {
                 "id": 1249,
                 "guid": "a3c87f56-9cfa-454b-a6b5-4c2741ebc2c2",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Xspace_%E2%80%93_Solution_to_an_annoying_TeX_quirk",
                 "logo": null,
                 "date": "2019-08-22T13:00:00+02:00",
                 "start": "13:00",
@@ -1918,19 +1879,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Fr%C3%B6belsuppe",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Fr%C3%B6belsuppe",
                     "public_name": "Fr\u00f6belsuppe"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Xspace_%E2%80%93_Solution_to_an_annoying_TeX_quirk"
-                ]
+                "links": []
               }
             ],
             "Village:Digitalcourage": [
               {
                 "id": 1266,
                 "guid": "16bfa5df-7213-49b9-8179-5ad27a218ed6",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Digital_Self-Defense_Workshop",
                 "logo": null,
                 "date": "2019-08-22T16:00:00+02:00",
                 "start": "16:00",
@@ -1947,13 +1907,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:CryptGoat",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:CryptGoat",
                     "public_name": "CryptGoat"
                   }
                 ],
                 "links": [
-                  "https://digitalcourage.de/digitale-selbstverteidigung",
-                  "//events.ccc.de/camp/2019/wiki/Session:Digital_Self-Defense_Workshop"
+                  "https://digitalcourage.de/digitale-selbstverteidigung"
                 ]
               }
             ],
@@ -1961,6 +1920,7 @@
               {
                 "id": 1318,
                 "guid": "4bd515dd-087d-482e-b092-8ae27a3938a6",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Educational_Filk:_Der_Hacker-Song",
                 "logo": null,
                 "date": "2019-08-22T15:00:00+02:00",
                 "start": "15:00",
@@ -1977,17 +1937,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Advi",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Advi",
                     "public_name": "Advi"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Educational_Filk:_Der_Hacker-Song"
-                ]
+                "links": []
               },
               {
                 "id": 1065,
                 "guid": "86521597-ff5f-4fe2-b0ec-6b4f05439dad",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_ins_Podcasting_mit_Reaper/Ultraschall",
                 "logo": null,
                 "date": "2019-08-22T13:00:00+02:00",
                 "start": "13:00",
@@ -2004,19 +1963,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Advi",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Advi",
                     "public_name": "Advi"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_ins_Podcasting_mit_Reaper/Ultraschall"
-                ]
+                "links": []
               }
             ],
             "Hackcenter 1": [
               {
                 "id": 1062,
                 "guid": "56989b98-d3d7-44db-a9c5-db4553adeed2",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:EightOS",
                 "logo": null,
                 "date": "2019-08-22T14:30:00+02:00",
                 "start": "14:30",
@@ -2032,8 +1990,7 @@
                 "description": "A physical practice session: bodymind operating system \u2014 human firmware update",
                 "persons": [],
                 "links": [
-                  "http://www.8os.io",
-                  "//events.ccc.de/camp/2019/wiki/Session:EightOS"
+                  "http://www.8os.io"
                 ]
               }
             ],
@@ -2041,6 +1998,7 @@
               {
                 "id": 1322,
                 "guid": "ae547302-6b4b-4ea9-ade9-51a495ac1b82",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:FNIT_Vernetzungsworkshop",
                 "logo": null,
                 "date": "2019-08-22T20:00:00+02:00",
                 "start": "20:00",
@@ -2057,18 +2015,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Melzai",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Melzai",
                     "public_name": "Melzai"
                   }
                 ],
                 "links": [
-                  "http://haecksen.org",
-                  "//events.ccc.de/camp/2019/wiki/Session:FNIT_Vernetzungsworkshop"
+                  "http://haecksen.org"
                 ]
               },
               {
                 "id": 1278,
                 "guid": "b2a39864-a9b3-4026-82c9-6398c858864f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)",
                 "logo": null,
                 "date": "2019-08-22T22:00:00+02:00",
                 "start": "22:00",
@@ -2083,13 +2041,12 @@
                 "abstract": "",
                 "description": "",
                 "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)"
-                ]
+                "links": []
               },
               {
                 "id": 1271,
                 "guid": "e954fe1b-25f0-4b97-9ec9-d89ef4b1e291",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Pseudo-Yoga",
                 "logo": null,
                 "date": "2019-08-22T10:00:00+02:00",
                 "start": "10:00",
@@ -2106,19 +2063,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Piko",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Piko",
                     "public_name": "Piko"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Pseudo-Yoga"
-                ]
+                "links": []
               }
             ],
             "Village:Free Software Foundation Europe": [
               {
                 "id": 1254,
                 "guid": "ecfcf7e9-5341-4ca3-ab75-f18882f6cb36",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along",
                 "logo": null,
                 "date": "2019-08-22T19:30:00+02:00",
                 "start": "19:30",
@@ -2135,19 +2091,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Eal",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Eal",
                     "public_name": "Eal"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along"
-                ]
+                "links": []
               }
             ],
             "Village:NixOS": [
               {
                 "id": 1262,
                 "guid": "afa80109-3761-4b3f-b2e8-57087d164b0d",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:NixOS_Install_Party",
                 "logo": null,
                 "date": "2019-08-22T12:45:00+02:00",
                 "start": "12:45",
@@ -2163,13 +2118,13 @@
                 "description": "Try NixOS on your laptop or in a VM",
                 "persons": [],
                 "links": [
-                  "https://nixos.org",
-                  "//events.ccc.de/camp/2019/wiki/Session:NixOS_Install_Party"
+                  "https://nixos.org"
                 ]
               },
               {
                 "id": 1109,
                 "guid": "2ec27fbb-3f33-4515-8228-db6205370168",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:NixOS_contribution_discussion",
                 "logo": null,
                 "date": "2019-08-22T16:00:00+02:00",
                 "start": "16:00",
@@ -2186,18 +2141,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Palo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Palo",
                     "public_name": "Palo"
                   }
                 ],
                 "links": [
-                  "https://git.ingolf-wagner.de/palo/nixos-diagrams",
-                  "//events.ccc.de/camp/2019/wiki/Session:NixOS_contribution_discussion"
+                  "https://git.ingolf-wagner.de/palo/nixos-diagrams"
                 ]
               },
               {
                 "id": 1248,
                 "guid": "de5f9fba-3854-4a9d-b3f0-69e409f01b79",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Why_NixOS%3F",
                 "logo": null,
                 "date": "2019-08-22T12:00:00+02:00",
                 "start": "12:00",
@@ -2214,13 +2169,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Palo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Palo",
                     "public_name": "Palo"
                   }
                 ],
                 "links": [
-                  "https://tech.ingolf-wagner.de/slides/why-nixos/",
-                  "//events.ccc.de/camp/2019/wiki/Session:Why_NixOS%3F"
+                  "https://tech.ingolf-wagner.de/slides/why-nixos/"
                 ]
               }
             ],
@@ -2228,6 +2182,7 @@
               {
                 "id": 1265,
                 "guid": "b2e9d704-4531-47b2-80bf-def24c1087fb",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Ottobot_Workshop",
                 "logo": null,
                 "date": "2019-08-22T10:00:00+02:00",
                 "start": "10:00",
@@ -2244,19 +2199,19 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Skyr",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Skyr",
                     "public_name": "Skyr"
                   }
                 ],
                 "links": [
                   "https://www.hackerspace-bamberg.de/Otto_LC",
-                  "https://www.ottodiy.com/",
-                  "//events.ccc.de/camp/2019/wiki/Session:Ottobot_Workshop"
+                  "https://www.ottodiy.com/"
                 ]
               },
               {
                 "id": 1137,
                 "guid": "127c17a7-0a66-49a2-a806-db41c19ebfac",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Tetrapixels",
                 "logo": null,
                 "date": "2019-08-22T13:00:00+02:00",
                 "start": "13:00",
@@ -2273,17 +2228,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Melle",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Melle",
                     "public_name": "Melle"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Tetrapixels"
-                ]
+                "links": []
               },
               {
                 "id": 1303,
                 "guid": "f40b1ff2-7dbd-419a-8dc4-199f3bf33c0f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour",
                 "logo": null,
                 "date": "2019-08-22T17:30:00+02:00",
                 "start": "17:30",
@@ -2300,19 +2254,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ckeen",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ckeen",
                     "public_name": "Ckeen"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour"
-                ]
+                "links": []
               }
             ],
             "Village:C-base": [
               {
                 "id": 1227,
                 "guid": "e8016cbd-7c0f-478b-a7c9-d4b18cbfce70",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Pentagame",
                 "logo": null,
                 "date": "2019-08-22T17:05:00+02:00",
                 "start": "17:05",
@@ -2328,8 +2281,7 @@
                 "description": "New abstract board game explained and played",
                 "persons": [],
                 "links": [
-                  "http://pentagame.org",
-                  "//events.ccc.de/camp/2019/wiki/Session:Pentagame"
+                  "http://pentagame.org"
                 ]
               }
             ],
@@ -2337,6 +2289,7 @@
               {
                 "id": 1117,
                 "guid": "63dc7526-e5ad-4519-a349-f75835c8b5f1",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Powerplant_team_meeting",
                 "logo": null,
                 "date": "2019-08-22T11:00:00+02:00",
                 "start": "11:00",
@@ -2353,13 +2306,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Aimeejulia",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Aimeejulia",
                     "public_name": "Aimeejulia"
                   }
                 ],
                 "links": [
-                  "https://wiki.ecohackerfarm.org/powerplant:start",
-                  "//events.ccc.de/camp/2019/wiki/Session:Powerplant_team_meeting"
+                  "https://wiki.ecohackerfarm.org/powerplant:start"
                 ]
               }
             ],
@@ -2367,6 +2319,7 @@
               {
                 "id": 1126,
                 "guid": "53b7eed2-1de8-4fa7-8816-618cf4eb6c14",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SocialTech",
                 "logo": null,
                 "date": "2019-08-22T16:00:00+02:00",
                 "start": "16:00",
@@ -2383,23 +2336,22 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Erdbeerblau",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Erdbeerblau",
                     "public_name": "Erdbeerblau"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Hirnsalat",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Hirnsalat",
                     "public_name": "Hirnsalat"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Vishnee",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Vishnee",
                     "public_name": "Vishnee"
                   }
                 ],
                 "links": [
-                  "http://angela.is/SocialTech/",
-                  "//events.ccc.de/camp/2019/wiki/Session:SocialTech"
+                  "http://angela.is/SocialTech/"
                 ]
               }
             ],
@@ -2407,6 +2359,7 @@
               {
                 "id": 1148,
                 "guid": "33972c84-2791-45ab-acb9-9bbd497cf8b6",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming",
                 "logo": null,
                 "date": "2019-08-22T12:30:00+02:00",
                 "start": "12:30",
@@ -2423,28 +2376,28 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
                     "public_name": "Silbo"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
                     "public_name": "Ivanna"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Superwallah",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Superwallah",
                     "public_name": "Superwallah"
                   }
                 ],
                 "links": [
-                  "https://www.robokoding.com/kits/sumorobot",
-                  "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming"
+                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               },
               {
                 "id": 1155,
                 "guid": "48f5971c-69ea-416f-a423-9d7de6cb5ed1",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming",
                 "logo": null,
                 "date": "2019-08-22T17:00:00+02:00",
                 "start": "17:00",
@@ -2461,28 +2414,28 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
                     "public_name": "Silbo"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
                     "public_name": "Ivanna"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Superwallah",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Superwallah",
                     "public_name": "Superwallah"
                   }
                 ],
                 "links": [
-                  "https://www.robokoding.com/kits/sumorobot",
-                  "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming"
+                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               },
               {
                 "id": 1169,
                 "guid": "4259313b-6e4c-47dd-9e7d-83798e30d421",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
                 "logo": null,
                 "date": "2019-08-22T14:30:00+02:00",
                 "start": "14:30",
@@ -2499,23 +2452,23 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
                     "public_name": "Silbo"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
                     "public_name": "Ivanna"
                   }
                 ],
                 "links": [
-                  "https://www.robokoding.com/kits/sumorobot",
-                  "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering"
+                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               },
               {
                 "id": 1242,
                 "guid": "d1816030-bd5c-4674-ae2b-4c8b630aaa8c",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
                 "logo": null,
                 "date": "2019-08-22T10:00:00+02:00",
                 "start": "10:00",
@@ -2532,18 +2485,17 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
                     "public_name": "Silbo"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
                     "public_name": "Ivanna"
                   }
                 ],
                 "links": [
-                  "https://www.robokoding.com/kits/sumorobot",
-                  "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering"
+                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               }
             ],
@@ -2551,6 +2503,7 @@
               {
                 "id": 1245,
                 "guid": "b942af59-cc7b-4414-a822-4fa6d4ade0aa",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:The_Future_of_HOPE",
                 "logo": null,
                 "date": "2019-08-22T20:00:00+02:00",
                 "start": "20:00",
@@ -2567,23 +2520,23 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Aestetix",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Aestetix",
                     "public_name": "Aestetix"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Maltman23",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Maltman23",
                     "public_name": "Maltman23"
                   }
                 ],
                 "links": [
-                  "https://www.2600.com/content/future-hope",
-                  "//events.ccc.de/camp/2019/wiki/Session:The_Future_of_HOPE"
+                  "https://www.2600.com/content/future-hope"
                 ]
               },
               {
                 "id": 1143,
                 "guid": "0ef423eb-0595-4918-9f30-6158ea6227e5",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Whiskyleaks",
                 "logo": null,
                 "date": "2019-08-22T20:00:00+02:00",
                 "start": "20:00",
@@ -2600,13 +2553,11 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Adventureloop",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Adventureloop",
                     "public_name": "Adventureloop"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Whiskyleaks"
-                ]
+                "links": []
               }
             ]
           }
@@ -2622,6 +2573,7 @@
               {
                 "id": 1041,
                 "guid": "7976438d-2b1a-4303-96f5-d6846c9f42f6",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bodymind_Operating_System",
                 "logo": null,
                 "date": "2019-08-23T17:30:00+02:00",
                 "start": "17:30",
@@ -2637,13 +2589,13 @@
                 "description": "Physical practice session where we explore the notions of hacking through the human body.",
                 "persons": [],
                 "links": [
-                  "http://www.8os.io",
-                  "//events.ccc.de/camp/2019/wiki/Session:Bodymind_Operating_System"
+                  "http://www.8os.io"
                 ]
               },
               {
                 "id": 1232,
                 "guid": "fe13b901-cc23-4258-91cb-631e29cebe39",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant",
                 "logo": null,
                 "date": "2019-08-23T16:00:00+02:00",
                 "start": "16:00",
@@ -2660,13 +2612,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:MarioB",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:MarioB",
                     "public_name": "MarioB"
                   }
                 ],
                 "links": [
-                  "https://susi.ai",
-                  "//events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant"
+                  "https://susi.ai"
                 ]
               }
             ],
@@ -2675,6 +2626,7 @@
               {
                 "id": 1321,
                 "guid": "1953ae86-7a6b-4a3f-b80f-71490d017842",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen",
                 "logo": null,
                 "date": "2019-08-23T14:00:00+02:00",
                 "start": "14:00",
@@ -2691,18 +2643,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Makefu",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Makefu",
                     "public_name": "Makefu"
                   }
                 ],
                 "links": [
-                  "https://krepel.us",
-                  "//events.ccc.de/camp/2019/wiki/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen"
+                  "https://krepel.us"
                 ]
               },
               {
                 "id": 1316,
                 "guid": "01a0c21a-8b90-4387-9198-8e80cccb18a8",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Extra_Thumb_Workshop",
                 "logo": null,
                 "date": "2019-08-23T14:00:00+02:00",
                 "start": "14:00",
@@ -2717,13 +2669,12 @@
                 "abstract": "",
                 "description": "Make yourself an extra functional thumb, and see if you like it.",
                 "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Extra_Thumb_Workshop"
-                ]
+                "links": []
               },
               {
                 "id": 1296,
                 "guid": "4a5e8ab5-afa7-4bcd-9260-bf4ba79f1814",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Learning_to_see_in_3D",
                 "logo": null,
                 "date": "2019-08-23T10:30:00+02:00",
                 "start": "10:30",
@@ -2738,9 +2689,7 @@
                 "abstract": "",
                 "description": "Can you hack how you see with Virtual RealiTy to rediscover your full sense of 3D?  Try out the new system, meet other interested people, plot and plan.",
                 "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Learning_to_see_in_3D"
-                ]
+                "links": []
               }
             ],
             "THM Workshop": [],
@@ -2748,6 +2697,7 @@
               {
                 "id": 1029,
                 "guid": "0d7d26f7-702d-4311-8e34-a6aa8ef87895",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Advi_Weekly_Aufnahme",
                 "logo": null,
                 "date": "2019-08-23T15:00:00+02:00",
                 "start": "15:00",
@@ -2764,19 +2714,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Advi",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Advi",
                     "public_name": "Advi"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Advi_Weekly_Aufnahme"
-                ]
+                "links": []
               }
             ],
             "Village:HardwareHackingArea": [
               {
                 "id": 1032,
                 "guid": "8b07d0a4-891f-48d8-833b-694299433d13",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Arduino_For_Total_Newbies",
                 "logo": null,
                 "date": "2019-08-23T13:00:00+02:00",
                 "start": "13:00",
@@ -2793,18 +2742,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Maltman23",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Maltman23",
                     "public_name": "Maltman23"
                   }
                 ],
                 "links": [
-                  "https://tiny.cc/A4TN",
-                  "//events.ccc.de/camp/2019/wiki/Session:Arduino_For_Total_Newbies"
+                  "https://tiny.cc/A4TN"
                 ]
               },
               {
                 "id": 1291,
                 "guid": "c71c920f-bd27-4879-9095-78e26d15ed7e",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bristlebots_for_kids!",
                 "logo": null,
                 "date": "2019-08-23T11:00:00+02:00",
                 "start": "11:00",
@@ -2821,17 +2770,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Kliment",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Kliment",
                     "public_name": "Kliment"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Bristlebots_for_kids!"
-                ]
+                "links": []
               },
               {
                 "id": 1256,
                 "guid": "b73c59a0-98af-4012-8e2b-4e1b886e050d",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Geiger_Counter_Workshop",
                 "logo": null,
                 "date": "2019-08-23T20:30:00+02:00",
                 "start": "20:30",
@@ -2848,18 +2796,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Mightyohm",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Mightyohm",
                     "public_name": "Mightyohm"
                   }
                 ],
                 "links": [
-                  "http://mightyohm.com/geiger",
-                  "//events.ccc.de/camp/2019/wiki/Session:Geiger_Counter_Workshop"
+                  "http://mightyohm.com/geiger"
                 ]
               },
               {
                 "id": 1220,
                 "guid": "c760c989-48c2-4772-be52-25db39dea166",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder",
                 "logo": null,
                 "date": "2019-08-23T11:00:00+02:00",
                 "start": "11:00",
@@ -2876,17 +2824,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Maltman23",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Maltman23",
                     "public_name": "Maltman23"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder"
-                ]
+                "links": []
               },
               {
                 "id": 1147,
                 "guid": "14f21912-007c-4238-ad1b-89a1ddb4c70b",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Mechanical_Keyboard_Meetup",
                 "logo": null,
                 "date": "2019-08-23T12:30:00+02:00",
                 "start": "12:30",
@@ -2903,23 +2850,23 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Roeckoe",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Roeckoe",
                     "public_name": "Roeckoe"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:XTaran",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:XTaran",
                     "public_name": "XTaran"
                   }
                 ],
                 "links": [
-                  "https://redd.it/ch91ip",
-                  "//events.ccc.de/camp/2019/wiki/Session:Mechanical_Keyboard_Meetup"
+                  "https://redd.it/ch91ip"
                 ]
               },
               {
                 "id": 1308,
                 "guid": "34ee2023-e2f1-4adf-8715-4a23d512238a",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners",
                 "logo": null,
                 "date": "2019-08-23T17:30:00+02:00",
                 "start": "17:30",
@@ -2936,17 +2883,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Kliment",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Kliment",
                     "public_name": "Kliment"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners"
-                ]
+                "links": []
               },
               {
                 "id": 1309,
                 "guid": "34ee2023-e2f1-4adf-8715-4a23d512238b",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners",
                 "logo": null,
                 "date": "2019-08-23T20:00:00+02:00",
                 "start": "20:00",
@@ -2963,19 +2909,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Kliment",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Kliment",
                     "public_name": "Kliment"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners"
-                ]
+                "links": []
               }
             ],
             "Village:Scottish Consulate": [
               {
                 "id": 1036,
                 "guid": "31fcf2eb-ad14-47f8-971c-7f06b2d8c178",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:BSD_Users_and_Developers_Meetup",
                 "logo": null,
                 "date": "2019-08-23T15:00:00+02:00",
                 "start": "15:00",
@@ -2992,17 +2937,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Adventureloop",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Adventureloop",
                     "public_name": "Adventureloop"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:BSD_Users_and_Developers_Meetup"
-                ]
+                "links": []
               },
               {
                 "id": 1113,
                 "guid": "894825a6-c54e-4260-9a23-ce3d50aa5b0b",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Packet_Radio_Meetup",
                 "logo": null,
                 "date": "2019-08-23T15:00:00+02:00",
                 "start": "15:00",
@@ -3019,17 +2963,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Hibby",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Hibby",
                     "public_name": "Hibby"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Packet_Radio_Meetup"
-                ]
+                "links": []
               },
               {
                 "id": 1125,
                 "guid": "8b5b201f-6a6e-46da-bf71-a4ebc9fb2f49",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Scottish_Drinking_Night",
                 "logo": null,
                 "date": "2019-08-23T20:00:00+02:00",
                 "start": "20:00",
@@ -3046,13 +2989,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Adventureloop",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Adventureloop",
                     "public_name": "Adventureloop"
                   }
                 ],
                 "links": [
-                  "http://scottishconsulate.org",
-                  "//events.ccc.de/camp/2019/wiki/Session:Scottish_Drinking_Night"
+                  "http://scottishconsulate.org"
                 ]
               }
             ],
@@ -3060,6 +3002,7 @@
               {
                 "id": 1042,
                 "guid": "68994b27-2215-45aa-bfa0-b9f3440c7e17",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bootstrapping_NixOS",
                 "logo": null,
                 "date": "2019-08-23T16:00:00+02:00",
                 "start": "16:00",
@@ -3075,13 +3018,13 @@
                 "description": "learn how Nixers bootstrap their hosts",
                 "persons": [],
                 "links": [
-                  "https://krebsco.de",
-                  "//events.ccc.de/camp/2019/wiki/Session:Bootstrapping_NixOS"
+                  "https://krebsco.de"
                 ]
               },
               {
                 "id": 1136,
                 "guid": "0c8e57af-799e-4378-a318-07fbd1b1da3f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Terranix",
                 "logo": null,
                 "date": "2019-08-23T15:00:00+02:00",
                 "start": "15:00",
@@ -3098,13 +3041,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Palo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Palo",
                     "public_name": "Palo"
                   }
                 ],
                 "links": [
-                  "https://terranix.org/",
-                  "//events.ccc.de/camp/2019/wiki/Session:Terranix"
+                  "https://terranix.org/"
                 ]
               }
             ],
@@ -3112,6 +3054,7 @@
               {
                 "id": 1251,
                 "guid": "c806c61c-521f-4f89-a836-064f5575b3a3",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:C3Sus_Ride_excellent_with_each_other",
                 "logo": null,
                 "date": "2019-08-23T13:30:00+02:00",
                 "start": "13:30",
@@ -3128,17 +3071,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:C3Sus_Ride_excellent_with_each_other"
-                ]
+                "links": []
               },
               {
                 "id": 1070,
                 "guid": "2cc92940-a3f9-4291-800b-87a0123be906",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:FifF-Stammtische_everywhere",
                 "logo": null,
                 "date": "2019-08-23T16:30:00+02:00",
                 "start": "16:30",
@@ -3155,17 +3097,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:FifF-Stammtische_everywhere"
-                ]
+                "links": []
               },
               {
                 "id": 1202,
                 "guid": "f6cb5bb4-da9e-4f45-a637-d38f786d1cce",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Freedom_Cruise,_about:GFF",
                 "logo": null,
                 "date": "2019-08-23T15:00:00+02:00",
                 "start": "15:00",
@@ -3180,13 +3121,12 @@
                 "abstract": "",
                 "description": "",
                 "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Freedom_Cruise,_about:GFF"
-                ]
+                "links": []
               },
               {
                 "id": 1078,
                 "guid": "65214aac-aeb9-4e6f-80bf-d427b88d7156",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Freedom_to_go_-_an_interactive_workshop_from_An-_to_F-_to_G-Droid",
                 "logo": null,
                 "date": "2019-08-23T15:00:00+02:00",
                 "start": "15:00",
@@ -3203,17 +3143,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Freedom_to_go_-_an_interactive_workshop_from_An-_to_F-_to_G-Droid"
-                ]
+                "links": []
               },
               {
                 "id": 1286,
                 "guid": "1a818cc0-3415-41f2-be2e-9d485e959ce2",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Global_Climate_Strike:_exchange_of_ideas_and_experiences_about_organizing_strikes_and_demonstrations",
                 "logo": null,
                 "date": "2019-08-23T12:30:00+02:00",
                 "start": "12:30",
@@ -3230,22 +3169,21 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Karlabyrinth",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Karlabyrinth",
                     "public_name": "Karlabyrinth"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Global_Climate_Strike:_exchange_of_ideas_and_experiences_about_organizing_strikes_and_demonstrations"
-                ]
+                "links": []
               },
               {
                 "id": 1258,
                 "guid": "c26c1327-b087-4f31-93d8-394eece62ae5",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:How_to_shape_a_responsible_world%3F",
                 "logo": null,
                 "date": "2019-08-23T10:30:00+02:00",
                 "start": "10:30",
@@ -3262,17 +3200,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:How_to_shape_a_responsible_world%3F"
-                ]
+                "links": []
               },
               {
                 "id": 1229,
                 "guid": "d28fed56-ab47-4377-baf2-e4e24cc1065a",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:R5_Meeting_(CCC_working_group)",
                 "logo": null,
                 "date": "2019-08-23T17:30:00+02:00",
                 "start": "17:30",
@@ -3289,22 +3226,21 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Blipp",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Blipp",
                     "public_name": "Blipp"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Fraxinas",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Fraxinas",
                     "public_name": "Fraxinas"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:R5_Meeting_(CCC_working_group)"
-                ]
+                "links": []
               },
               {
                 "id": 1130,
                 "guid": "204465e5-e23b-4063-b46a-255e9489e3b6",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Substrate_verifiable_credentials_-_build_your_first_infrastructure_blockchain",
                 "logo": null,
                 "date": "2019-08-23T10:30:00+02:00",
                 "start": "10:30",
@@ -3321,13 +3257,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
                 "links": [
-                  "https://substrate.dev/en/tutorials",
-                  "//events.ccc.de/camp/2019/wiki/Session:Substrate_verifiable_credentials_-_build_your_first_infrastructure_blockchain"
+                  "https://substrate.dev/en/tutorials"
                 ]
               }
             ],
@@ -3335,6 +3270,7 @@
               {
                 "id": 1044,
                 "guid": "1bd9757b-7cd5-4355-a82f-e4818e796067",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:CCC-CH_Gettogether",
                 "logo": null,
                 "date": "2019-08-23T15:00:00+02:00",
                 "start": "15:00",
@@ -3350,8 +3286,7 @@
                 "description": "Das Gettogether des CCC-CH am CCCamp19",
                 "persons": [],
                 "links": [
-                  "https://ccc-ch.ch",
-                  "//events.ccc.de/camp/2019/wiki/Session:CCC-CH_Gettogether"
+                  "https://ccc-ch.ch"
                 ]
               }
             ],
@@ -3359,6 +3294,7 @@
               {
                 "id": 1187,
                 "guid": "a29622ff-88ce-4a82-ad06-638b1549d398",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Cheese_Rendezvous",
                 "logo": null,
                 "date": "2019-08-23T20:00:00+02:00",
                 "start": "20:00",
@@ -3375,13 +3311,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Algoldor",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Algoldor",
                     "public_name": "Algoldor"
                   }
                 ],
                 "links": [
-                  "https://foodhackingbase.org/wiki/Cheesetasting_ccccamp2019",
-                  "//events.ccc.de/camp/2019/wiki/Session:Cheese_Rendezvous"
+                  "https://foodhackingbase.org/wiki/Cheesetasting_ccccamp2019"
                 ]
               }
             ],
@@ -3389,6 +3324,7 @@
               {
                 "id": 1319,
                 "guid": "9c204188-b4dd-4509-982f-db08159de482",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Club_culture_against_the_monopoly_of_Facebook",
                 "logo": null,
                 "date": "2019-08-23T15:00:00+02:00",
                 "start": "15:00",
@@ -3404,8 +3340,7 @@
                 "description": "Reclaim Club Culture goes Feediverse, we want to learn about alternatives to facebook: We need a platform that includes social multimedia feeds and most importantly: a calendar for mobilization/invitation. We will prepare a campaign to get institutions of the cultural scene to use that alternative platform.",
                 "persons": [],
                 "links": [
-                  "https://twitter.com/ReclaimYourClub",
-                  "//events.ccc.de/camp/2019/wiki/Session:Club_culture_against_the_monopoly_of_Facebook"
+                  "https://twitter.com/ReclaimYourClub"
                 ]
               }
             ],
@@ -3413,6 +3348,7 @@
               {
                 "id": 1157,
                 "guid": "96a680ca-fbcc-4a6a-9de3-d7d908a7019e",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:ConTeXt_f%C3%BCr_Anf%C3%A4nger",
                 "logo": null,
                 "date": "2019-08-23T14:00:00+02:00",
                 "start": "14:00",
@@ -3429,18 +3365,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Hraban",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Hraban",
                     "public_name": "Hraban"
                   }
                 ],
                 "links": [
-                  "http://wiki.contextgarden.net",
-                  "//events.ccc.de/camp/2019/wiki/Session:ConTeXt_f%C3%BCr_Anf%C3%A4nger"
+                  "http://wiki.contextgarden.net"
                 ]
               },
               {
                 "id": 1159,
                 "guid": "3f3fecb7-2a68-4154-9800-223caa79ec4c",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_in_LaTeX",
                 "logo": null,
                 "date": "2019-08-23T15:00:00+02:00",
                 "start": "15:00",
@@ -3457,17 +3393,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Nils",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Nils",
                     "public_name": "Nils"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_in_LaTeX"
-                ]
+                "links": []
               },
               {
                 "id": 1250,
                 "guid": "ac48ceec-92fe-4bbc-b7aa-6993ec6e5da1",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Xspace_%E2%80%93_Solution_to_an_annoying_TeX_quirk",
                 "logo": null,
                 "date": "2019-08-23T17:00:00+02:00",
                 "start": "17:00",
@@ -3484,19 +3419,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Fr%C3%B6belsuppe",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Fr%C3%B6belsuppe",
                     "public_name": "Fr\u00f6belsuppe"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Xspace_%E2%80%93_Solution_to_an_annoying_TeX_quirk"
-                ]
+                "links": []
               }
             ],
             "Hackcenter 3": [
               {
                 "id": 1052,
                 "guid": "46bdea32-2063-4f57-9b69-8ae65516c241",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Contributing_to_nixpkgs_for_Newbies",
                 "logo": null,
                 "date": "2019-08-23T14:00:00+02:00",
                 "start": "14:00",
@@ -3511,15 +3445,14 @@
                 "abstract": "",
                 "description": "Learn how you can contribute to the nixpkgs git repo",
                 "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Contributing_to_nixpkgs_for_Newbies"
-                ]
+                "links": []
               }
             ],
             "Village:Haecksen": [
               {
                 "id": 1314,
                 "guid": "b5dd48f1-339a-4de9-b32b-9b01eec5d1d7",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Der_Haecksen-Hack",
                 "logo": null,
                 "date": "2019-08-23T12:30:00+02:00",
                 "start": "12:30",
@@ -3536,17 +3469,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Piko",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Piko",
                     "public_name": "Piko"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Der_Haecksen-Hack"
-                ]
+                "links": []
               },
               {
                 "id": 1323,
                 "guid": "771c1caa-1c3f-4f50-bdd6-4133d2a9dd53",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Haeckenfryhstyck",
                 "logo": null,
                 "date": "2019-08-23T11:00:00+02:00",
                 "start": "11:00",
@@ -3563,18 +3495,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Janepie",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Janepie",
                     "public_name": "Janepie"
                   }
                 ],
                 "links": [
-                  "http://haecksen.org",
-                  "//events.ccc.de/camp/2019/wiki/Session:Haeckenfryhstyck"
+                  "http://haecksen.org"
                 ]
               },
               {
                 "id": 1100,
                 "guid": "8668d4a5-c292-49f7-8f16-1e8f9c429a46",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Junges_Chaos_Bildet_Banden",
                 "logo": null,
                 "date": "2019-08-23T16:00:00+02:00",
                 "start": "16:00",
@@ -3591,17 +3523,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Scammo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Scammo",
                     "public_name": "Scammo"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Junges_Chaos_Bildet_Banden"
-                ]
+                "links": []
               },
               {
                 "id": 1310,
                 "guid": "b2a39864-a9b3-4026-82c9-6398c8588650",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)",
                 "logo": null,
                 "date": "2019-08-23T22:00:00+02:00",
                 "start": "22:00",
@@ -3616,15 +3547,14 @@
                 "abstract": "",
                 "description": "",
                 "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)"
-                ]
+                "links": []
               }
             ],
             "Village:Kidspace": [
               {
                 "id": 1196,
                 "guid": "a4c66248-897e-4280-bb3e-3ba18695526b",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:FabScanPi_-_3D_Laser_Scanner_Workshop",
                 "logo": null,
                 "date": "2019-08-23T14:00:00+02:00",
                 "start": "14:00",
@@ -3640,13 +3570,13 @@
                 "description": "Build your own Open Source 3D Laser Scanner.",
                 "persons": [],
                 "links": [
-                  "https://fabscan.org",
-                  "//events.ccc.de/camp/2019/wiki/Session:FabScanPi_-_3D_Laser_Scanner_Workshop"
+                  "https://fabscan.org"
                 ]
               },
               {
                 "id": 1302,
                 "guid": "f40b1ff2-7dbd-419a-8dc4-199f3bf33c1a",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour",
                 "logo": null,
                 "date": "2019-08-23T17:30:00+02:00",
                 "start": "17:30",
@@ -3663,19 +3593,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ckeen",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ckeen",
                     "public_name": "Ckeen"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour"
-                ]
+                "links": []
               }
             ],
             "Village:Free Software Foundation Europe": [
               {
                 "id": 1161,
                 "guid": "151e438c-6527-4f1c-aad5-359e5312110f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along",
                 "logo": null,
                 "date": "2019-08-23T19:30:00+02:00",
                 "start": "19:30",
@@ -3692,19 +3621,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Eal",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Eal",
                     "public_name": "Eal"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along"
-                ]
+                "links": []
               }
             ],
             "Village:Harbor": [
               {
                 "id": 1208,
                 "guid": "dff93c19-0111-4418-855c-ca6dab6237a2",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:HFOS_-_The_Hackerfleet_Operating_System",
                 "logo": null,
                 "date": "2019-08-23T17:30:00+02:00",
                 "start": "17:30",
@@ -3721,18 +3649,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Riot",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Riot",
                     "public_name": "Riot"
                   }
                 ],
                 "links": [
-                  "http://hackerfleet.eu",
-                  "//events.ccc.de/camp/2019/wiki/Session:HFOS_-_The_Hackerfleet_Operating_System"
+                  "http://hackerfleet.eu"
                 ]
               },
               {
                 "id": 1223,
                 "guid": "f30f2572-96ca-4d5b-8e7f-ab9fa43cdf20",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Maritime_Hackers_Meetup",
                 "logo": null,
                 "date": "2019-08-23T18:00:00+02:00",
                 "start": "18:00",
@@ -3749,13 +3677,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Riot",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Riot",
                     "public_name": "Riot"
                   }
                 ],
                 "links": [
-                  "https://isomer.hackerfleet.eu",
-                  "//events.ccc.de/camp/2019/wiki/Session:Maritime_Hackers_Meetup"
+                  "https://isomer.hackerfleet.eu"
                 ]
               }
             ],
@@ -3763,6 +3690,7 @@
               {
                 "id": 1261,
                 "guid": "dc6e98b3-7645-47c9-be4d-91ce0c17a618",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:IoT_Meetup",
                 "logo": null,
                 "date": "2019-08-23T14:00:00+02:00",
                 "start": "14:00",
@@ -3779,24 +3707,23 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Roeckoe",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Roeckoe",
                     "public_name": "Roeckoe"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Tamberg",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Tamberg",
                     "public_name": "Tamberg"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:IoT_Meetup"
-                ]
+                "links": []
               }
             ],
             "Village:C-base": [
               {
                 "id": 1115,
                 "guid": "1c0f9124-a0a8-4de3-bf71-7e9e8918b06c",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Pentagame",
                 "logo": null,
                 "date": "2019-08-23T17:05:00+02:00",
                 "start": "17:05",
@@ -3812,8 +3739,7 @@
                 "description": "New abstract board game explained and played",
                 "persons": [],
                 "links": [
-                  "http://pentagame.org",
-                  "//events.ccc.de/camp/2019/wiki/Session:Pentagame"
+                  "http://pentagame.org"
                 ]
               }
             ],
@@ -3821,6 +3747,7 @@
               {
                 "id": 1118,
                 "guid": "36719604-1c0a-4e1e-b823-734b79283e4d",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Powerplant:_an_opensource_permaculture_garden_planner_for_everyone",
                 "logo": null,
                 "date": "2019-08-23T14:30:00+02:00",
                 "start": "14:30",
@@ -3837,13 +3764,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Aimeejulia",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Aimeejulia",
                     "public_name": "Aimeejulia"
                   }
                 ],
                 "links": [
-                  "https://wiki.ecohackerfarm.org/powerplant:start",
-                  "//events.ccc.de/camp/2019/wiki/Session:Powerplant:_an_opensource_permaculture_garden_planner_for_everyone"
+                  "https://wiki.ecohackerfarm.org/powerplant:start"
                 ]
               }
             ],
@@ -3851,6 +3777,7 @@
               {
                 "id": 1240,
                 "guid": "d227bcc8-63df-4eea-9385-e420a774f060",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming",
                 "logo": null,
                 "date": "2019-08-23T12:30:00+02:00",
                 "start": "12:30",
@@ -3867,28 +3794,28 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
                     "public_name": "Silbo"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
                     "public_name": "Ivanna"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Superwallah",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Superwallah",
                     "public_name": "Superwallah"
                   }
                 ],
                 "links": [
-                  "https://www.robokoding.com/kits/sumorobot",
-                  "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming"
+                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               },
               {
                 "id": 1154,
                 "guid": "39fd64d9-25ee-4606-8f5f-4f12ef5719db",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming",
                 "logo": null,
                 "date": "2019-08-23T17:00:00+02:00",
                 "start": "17:00",
@@ -3905,28 +3832,28 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
                     "public_name": "Silbo"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
                     "public_name": "Ivanna"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Superwallah",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Superwallah",
                     "public_name": "Superwallah"
                   }
                 ],
                 "links": [
-                  "https://www.robokoding.com/kits/sumorobot",
-                  "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming"
+                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               },
               {
                 "id": 1168,
                 "guid": "083d8e09-756d-4565-a484-159cb37945f1",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
                 "logo": null,
                 "date": "2019-08-23T10:00:00+02:00",
                 "start": "10:00",
@@ -3943,23 +3870,23 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
                     "public_name": "Silbo"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
                     "public_name": "Ivanna"
                   }
                 ],
                 "links": [
-                  "https://www.robokoding.com/kits/sumorobot",
-                  "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering"
+                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               },
               {
                 "id": 1171,
                 "guid": "43d790cb-0328-410d-a781-94edc06f6030",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
                 "logo": null,
                 "date": "2019-08-23T14:30:00+02:00",
                 "start": "14:30",
@@ -3976,18 +3903,17 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
                     "public_name": "Silbo"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
                     "public_name": "Ivanna"
                   }
                 ],
                 "links": [
-                  "https://www.robokoding.com/kits/sumorobot",
-                  "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering"
+                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               }
             ]
@@ -4004,6 +3930,7 @@
               {
                 "id": 1040,
                 "guid": "6ad28881-1413-46a4-837a-315359e19aeb",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Body/Mind_Hardware/Software",
                 "logo": null,
                 "date": "2019-08-24T18:00:00+02:00",
                 "start": "18:00",
@@ -4019,8 +3946,7 @@
                 "description": "EightOS bodymind operating system",
                 "persons": [],
                 "links": [
-                  "http://www.8os.io",
-                  "//events.ccc.de/camp/2019/wiki/Session:Body/Mind_Hardware/Software"
+                  "http://www.8os.io"
                 ]
               }
             ],
@@ -4028,6 +3954,7 @@
               {
                 "id": 1197,
                 "guid": "c8804eab-dadd-4307-ab8c-e19f4a5d769f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Fair_Ticket_Sales_on_a_Capitalist_World",
                 "logo": null,
                 "date": "2019-08-24T20:00:00+02:00",
                 "start": "20:00",
@@ -4042,9 +3969,7 @@
                 "abstract": "",
                 "description": "In this open discussion we will discuss solutions taken by organizations to address ticket sales at fair prices when demand significantly outgrows supply",
                 "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Fair_Ticket_Sales_on_a_Capitalist_World"
-                ]
+                "links": []
               }
             ],
             "Goldberg (Workshop 2)": [],
@@ -4053,6 +3978,7 @@
               {
                 "id": 1176,
                 "guid": "a208d05f-cafd-4680-9f4e-760994a1202d",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Advanced_web_tracking_methods",
                 "logo": null,
                 "date": "2019-08-24T17:00:00+02:00",
                 "start": "17:00",
@@ -4069,17 +3995,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Hainish",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Hainish",
                     "public_name": "Hainish"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Advanced_web_tracking_methods"
-                ]
+                "links": []
               },
               {
                 "id": 1037,
                 "guid": "3b8c90c5-464a-4d58-96b6-98808289f738",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bandwidth_Matters,_Information_controls_in_a_conflict_state_in_India",
                 "logo": null,
                 "date": "2019-08-24T13:00:00+02:00",
                 "start": "13:00",
@@ -4096,17 +4021,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Bandwidth_Matters,_Information_controls_in_a_conflict_state_in_India"
-                ]
+                "links": []
               },
               {
                 "id": 1253,
                 "guid": "e71849f7-2f83-487a-b94c-972972ea9805",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Decentrathon",
                 "logo": null,
                 "date": "2019-08-24T19:30:00+02:00",
                 "start": "19:30",
@@ -4123,17 +4047,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Decentrathon"
-                ]
+                "links": []
               },
               {
                 "id": 1058,
                 "guid": "5367da00-4b01-4644-b874-c4f1441b9099",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Decentrathon",
                 "logo": null,
                 "date": "2019-08-24T18:00:00+02:00",
                 "start": "18:00",
@@ -4150,17 +4073,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Decentrathon"
-                ]
+                "links": []
               },
               {
                 "id": 1061,
                 "guid": "7ed87274-4ec1-46e5-a779-ce8fdcc37bb4",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Discussion_on_privacy-friendly_green_policies_in_the_European_Union",
                 "logo": null,
                 "date": "2019-08-24T10:30:00+02:00",
                 "start": "10:30",
@@ -4177,22 +4099,21 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Blipp",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Blipp",
                     "public_name": "Blipp"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Andreea_(EDRi)",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Andreea_(EDRi)",
                     "public_name": "Andreea (EDRi)"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Discussion_on_privacy-friendly_green_policies_in_the_European_Union"
-                ]
+                "links": []
               },
               {
                 "id": 1076,
                 "guid": "4a501043-0b7e-4102-ba2e-6bec3444f017",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Freedom_Cruise,_about:PNR",
                 "logo": null,
                 "date": "2019-08-24T14:00:00+02:00",
                 "start": "14:00",
@@ -4209,17 +4130,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Freedom_Cruise,_about:PNR"
-                ]
+                "links": []
               },
               {
                 "id": 1260,
                 "guid": "c59ab826-e9ec-40d9-b529-b48e9d0b87c6",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:How_to_shape_a_responsible_world%3F",
                 "logo": null,
                 "date": "2019-08-24T10:30:00+02:00",
                 "start": "10:30",
@@ -4236,17 +4156,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:How_to_shape_a_responsible_world%3F"
-                ]
+                "links": []
               },
               {
                 "id": 1093,
                 "guid": "06e65ae5-6f8b-44aa-aa45-74991dd88f6a",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Illegal_content_online_%E2%80%93_Bringing_rights-based_solutions_to_the_EU_table",
                 "logo": null,
                 "date": "2019-08-24T15:30:00+02:00",
                 "start": "15:30",
@@ -4263,17 +4182,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Illegal_content_online_%E2%80%93_Bringing_rights-based_solutions_to_the_EU_table"
-                ]
+                "links": []
               },
               {
                 "id": 1215,
                 "guid": "c3e5bdcf-c37b-40b4-8b96-68c698f77723",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Ink!:_Write_Wasm_smart_contracts_with_Rust",
                 "logo": null,
                 "date": "2019-08-24T15:00:00+02:00",
                 "start": "15:00",
@@ -4290,19 +4208,19 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
                 "links": [
                   "https://substrate.dev/substrate-contracts-workshop/#/",
-                  "https://substrate.dev/en/tutorials",
-                  "//events.ccc.de/camp/2019/wiki/Session:Ink!:_Write_Wasm_smart_contracts_with_Rust"
+                  "https://substrate.dev/en/tutorials"
                 ]
               },
               {
                 "id": 1129,
                 "guid": "7756ef87-bc29-4010-95a6-553075de7f18",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Substrate_Collectibles_-_Build_your_own_blockchain-backed_asset_exchange",
                 "logo": null,
                 "date": "2019-08-24T12:00:00+02:00",
                 "start": "12:00",
@@ -4319,14 +4237,13 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
                 "links": [
                   "https://substrate.dev/substrate-collectables-workshop/#/",
-                  "https://substrate.dev/en/tutorials",
-                  "//events.ccc.de/camp/2019/wiki/Session:Substrate_Collectibles_-_Build_your_own_blockchain-backed_asset_exchange"
+                  "https://substrate.dev/en/tutorials"
                 ]
               }
             ],
@@ -4334,6 +4251,7 @@
               {
                 "id": 1031,
                 "guid": "2a436543-55ef-4f8d-a8c6-955ce870a700",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:ArduTouch_music_synthesizer",
                 "logo": null,
                 "date": "2019-08-24T13:00:00+02:00",
                 "start": "13:00",
@@ -4350,18 +4268,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Maltman23",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Maltman23",
                     "public_name": "Maltman23"
                   }
                 ],
                 "links": [
-                  "https://cornfieldelectronics.com/cfe/projects.php#ardutouch",
-                  "//events.ccc.de/camp/2019/wiki/Session:ArduTouch_music_synthesizer"
+                  "https://cornfieldelectronics.com/cfe/projects.php#ardutouch"
                 ]
               },
               {
                 "id": 1305,
                 "guid": "c71c920f-bd27-4879-9095-78e26d15ed7d",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bristlebots_for_kids!",
                 "logo": null,
                 "date": "2019-08-24T11:00:00+02:00",
                 "start": "11:00",
@@ -4378,17 +4296,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Kliment",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Kliment",
                     "public_name": "Kliment"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Bristlebots_for_kids!"
-                ]
+                "links": []
               },
               {
                 "id": 1212,
                 "guid": "dd6684d6-ee37-4d95-8be4-9fbb29f2cb46",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Icibici",
                 "logo": null,
                 "date": "2019-08-24T10:00:00+02:00",
                 "start": "10:00",
@@ -4405,18 +4322,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Espero",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Espero",
                     "public_name": "Espero"
                   }
                 ],
                 "links": [
-                  "https://icibici.github.io/site/",
-                  "//events.ccc.de/camp/2019/wiki/Session:Icibici"
+                  "https://icibici.github.io/site/"
                 ]
               },
               {
                 "id": 1164,
                 "guid": "8968876e-7990-4b18-a1f9-ebf9050bd11f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder",
                 "logo": null,
                 "date": "2019-08-24T11:00:00+02:00",
                 "start": "11:00",
@@ -4433,17 +4350,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Maltman23",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Maltman23",
                     "public_name": "Maltman23"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder"
-                ]
+                "links": []
               },
               {
                 "id": 1295,
                 "guid": "07c2e0d3-6f4b-462b-9725-5846c7f0dc16",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners_-_electronic_kitten_EXPERIMENTAL_WORKSHOP",
                 "logo": null,
                 "date": "2019-08-24T17:30:00+02:00",
                 "start": "17:30",
@@ -4460,19 +4376,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Kliment",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Kliment",
                     "public_name": "Kliment"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners_-_electronic_kitten_EXPERIMENTAL_WORKSHOP"
-                ]
+                "links": []
               }
             ],
             "Village:C-base": [
               {
                 "id": 1300,
                 "guid": "6dc5eae9-babb-44e7-b2e5-c4308c8f257d",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:CoderDojo",
                 "logo": null,
                 "date": "2019-08-24T10:00:00+02:00",
                 "start": "10:00",
@@ -4488,13 +4403,13 @@
                 "description": "CoderDojo - between 12 and 18 years old yourh people",
                 "persons": [],
                 "links": [
-                  "https://zen.coderdojo.com/dojos/de/berlin/berlin-mitte-c-base",
-                  "//events.ccc.de/camp/2019/wiki/Session:CoderDojo"
+                  "https://zen.coderdojo.com/dojos/de/berlin/berlin-mitte-c-base"
                 ]
               },
               {
                 "id": 1162,
                 "guid": "10b9322e-20b2-4ff3-bd8a-8c132aacc169",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:HFOS_-_The_Hackerfleet_Operating_System",
                 "logo": null,
                 "date": "2019-08-24T16:00:00+02:00",
                 "start": "16:00",
@@ -4511,18 +4426,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Riot",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Riot",
                     "public_name": "Riot"
                   }
                 ],
                 "links": [
-                  "http://hackerfleet.eu",
-                  "//events.ccc.de/camp/2019/wiki/Session:HFOS_-_The_Hackerfleet_Operating_System"
+                  "http://hackerfleet.eu"
                 ]
               },
               {
                 "id": 1167,
                 "guid": "84c6fdd4-0f81-4635-bc62-4973d8e50b55",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Pentagame",
                 "logo": null,
                 "date": "2019-08-24T17:05:00+02:00",
                 "start": "17:05",
@@ -4538,8 +4453,7 @@
                 "description": "New abstract board game explained and played",
                 "persons": [],
                 "links": [
-                  "http://pentagame.org",
-                  "//events.ccc.de/camp/2019/wiki/Session:Pentagame"
+                  "http://pentagame.org"
                 ]
               }
             ],
@@ -4547,6 +4461,7 @@
               {
                 "id": 1307,
                 "guid": "16bfa5df-7213-49b9-8179-5ad27a218ed7",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Digital_Self-Defense_Workshop",
                 "logo": null,
                 "date": "2019-08-24T16:00:00+02:00",
                 "start": "16:00",
@@ -4563,13 +4478,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:CryptGoat",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:CryptGoat",
                     "public_name": "CryptGoat"
                   }
                 ],
                 "links": [
-                  "https://digitalcourage.de/digitale-selbstverteidigung",
-                  "//events.ccc.de/camp/2019/wiki/Session:Digital_Self-Defense_Workshop"
+                  "https://digitalcourage.de/digitale-selbstverteidigung"
                 ]
               }
             ],
@@ -4577,6 +4491,7 @@
               {
                 "id": 1315,
                 "guid": "be027390-38e1-4207-b05f-2f4a2a279194",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Feierliche_Verlesung_des_gesammelten_%C3%84rgers",
                 "logo": null,
                 "date": "2019-08-24T23:00:00+02:00",
                 "start": "23:00",
@@ -4593,17 +4508,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Piko",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Piko",
                     "public_name": "Piko"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Feierliche_Verlesung_des_gesammelten_%C3%84rgers"
-                ]
+                "links": []
               },
               {
                 "id": 1311,
                 "guid": "b2a39864-a9b3-4026-82c9-6398c8588651",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)",
                 "logo": null,
                 "date": "2019-08-24T22:00:00+02:00",
                 "start": "22:00",
@@ -4618,13 +4532,12 @@
                 "abstract": "",
                 "description": "",
                 "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)"
-                ]
+                "links": []
               },
               {
                 "id": 1317,
                 "guid": "0ae148cf-c24a-4353-a918-9158e99e61e7",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:RSA_Verschl%C3%BCsselung_selbst_rechnen",
                 "logo": null,
                 "date": "2019-08-24T17:30:00+02:00",
                 "start": "17:30",
@@ -4641,17 +4554,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Janepie",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Janepie",
                     "public_name": "Janepie"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:RSA_Verschl%C3%BCsselung_selbst_rechnen"
-                ]
+                "links": []
               },
               {
                 "id": 1312,
                 "guid": "614078e0-9cf6-42e3-a957-17d77fe10582",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SocialTech",
                 "logo": null,
                 "date": "2019-08-24T11:00:00+02:00",
                 "start": "11:00",
@@ -4668,23 +4580,22 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Erdbeerblau",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Erdbeerblau",
                     "public_name": "Erdbeerblau"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Hirnsalat",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Hirnsalat",
                     "public_name": "Hirnsalat"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Vishnee",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Vishnee",
                     "public_name": "Vishnee"
                   }
                 ],
                 "links": [
-                  "http://angela.is/SocialTech/",
-                  "//events.ccc.de/camp/2019/wiki/Session:SocialTech"
+                  "http://angela.is/SocialTech/"
                 ]
               }
             ],
@@ -4692,6 +4603,7 @@
               {
                 "id": 1160,
                 "guid": "94927a6d-0607-40eb-9064-2563a6c333ca",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along",
                 "logo": null,
                 "date": "2019-08-24T19:30:00+02:00",
                 "start": "19:30",
@@ -4708,19 +4620,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Eal",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Eal",
                     "public_name": "Eal"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along"
-                ]
+                "links": []
               }
             ],
             "Village:Schaffenburg": [
               {
                 "id": 1203,
                 "guid": "fa4e46b5-6c08-4e4d-8385-2d1327450aab",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:GOC",
                 "logo": null,
                 "date": "2019-08-24T11:00:00+02:00",
                 "start": "11:00",
@@ -4737,19 +4648,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Fraxinas",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Fraxinas",
                     "public_name": "Fraxinas"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:GOC"
-                ]
+                "links": []
               }
             ],
             "Village:LaTeX": [
               {
                 "id": 1084,
                 "guid": "9ab6f91f-65a8-4f5e-9b20-34824f839c43",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Graphics_with_LaTeX",
                 "logo": null,
                 "date": "2019-08-24T17:30:00+02:00",
                 "start": "17:30",
@@ -4766,17 +4676,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Dantetante",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Dantetante",
                     "public_name": "Dantetante"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Graphics_with_LaTeX"
-                ]
+                "links": []
               },
               {
                 "id": 1209,
                 "guid": "dd824410-5344-458b-a254-3f66f5cc3fb8",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:How_to_get_ordinary_people_using_Jekyll,_LaTeX,_Gitlab_CI_and_other_magic",
                 "logo": null,
                 "date": "2019-08-24T15:00:00+02:00",
                 "start": "15:00",
@@ -4793,19 +4702,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Nils",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Nils",
                     "public_name": "Nils"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:How_to_get_ordinary_people_using_Jekyll,_LaTeX,_Gitlab_CI_and_other_magic"
-                ]
+                "links": []
               }
             ],
             "Village:ChaosZone": [
               {
                 "id": 1087,
                 "guid": "4e353d1e-6318-4c8a-b00b-0952f6acea94",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacker_Coop_Genossenschaft",
                 "logo": null,
                 "date": "2019-08-24T13:00:00+02:00",
                 "start": "13:00",
@@ -4821,8 +4729,7 @@
                 "description": "Hacker eG Meetup",
                 "persons": [],
                 "links": [
-                  "http://vebit.xyz",
-                  "//events.ccc.de/camp/2019/wiki/Session:Hacker_Coop_Genossenschaft"
+                  "http://vebit.xyz"
                 ]
               }
             ],
@@ -4830,6 +4737,7 @@
               {
                 "id": 1088,
                 "guid": "26d4b72f-d202-4047-a66e-976290546aa7",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hackerspaces.org_meetup",
                 "logo": null,
                 "date": "2019-08-24T16:00:00+02:00",
                 "start": "16:00",
@@ -4846,18 +4754,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Aimeejulia",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Aimeejulia",
                     "public_name": "Aimeejulia"
                   }
                 ],
                 "links": [
-                  "https://wiki.hackerspaces.org/",
-                  "//events.ccc.de/camp/2019/wiki/Session:Hackerspaces.org_meetup"
+                  "https://wiki.hackerspaces.org/"
                 ]
               },
               {
                 "id": 1282,
                 "guid": "2675b56d-1217-4f1d-80c8-af89ba013cf3",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Permaculture_for_hackers",
                 "logo": null,
                 "date": "2019-08-24T12:00:00+02:00",
                 "start": "12:00",
@@ -4874,13 +4782,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Aimeejulia",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Aimeejulia",
                     "public_name": "Aimeejulia"
                   }
                 ],
                 "links": [
-                  "https://ecohackerfarm.org/",
-                  "//events.ccc.de/camp/2019/wiki/Session:Permaculture_for_hackers"
+                  "https://ecohackerfarm.org/"
                 ]
               }
             ],
@@ -4888,6 +4795,7 @@
               {
                 "id": 1222,
                 "guid": "b7523425-acee-4679-96c6-4382236e43ba",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Let%27s_hack_words!",
                 "logo": null,
                 "date": "2019-08-24T15:00:00+02:00",
                 "start": "15:00",
@@ -4902,15 +4810,14 @@
                 "abstract": "",
                 "description": "Let's hack words is a session for everyone, who wants to explore creative writing, build worlds and lets characters dive into adventures. Or - for a start - just wants to get rid of hacker's block.",
                 "persons": [],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Let%27s_hack_words!"
-                ]
+                "links": []
               }
             ],
             "Village:TEUrCamp": [
               {
                 "id": 1112,
                 "guid": "79236664-3145-40c6-9bb8-fe38fcc00ca0",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Oscilloscope_Music_Workshop",
                 "logo": null,
                 "date": "2019-08-24T17:00:00+02:00",
                 "start": "17:00",
@@ -4926,8 +4833,7 @@
                 "description": "Open lab on how to create music that generates images and animations when graphed in x/y mode",
                 "persons": [],
                 "links": [
-                  "https://oscilloscopemusic.com",
-                  "//events.ccc.de/camp/2019/wiki/Session:Oscilloscope_Music_Workshop"
+                  "https://oscilloscopemusic.com"
                 ]
               }
             ],
@@ -4935,6 +4841,7 @@
               {
                 "id": 1239,
                 "guid": "d6de80f2-2bd9-495e-9554-9ee405b854fe",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming",
                 "logo": null,
                 "date": "2019-08-24T17:00:00+02:00",
                 "start": "17:00",
@@ -4951,28 +4858,28 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
                     "public_name": "Silbo"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
                     "public_name": "Ivanna"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Superwallah",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Superwallah",
                     "public_name": "Superwallah"
                   }
                 ],
                 "links": [
-                  "https://www.robokoding.com/kits/sumorobot",
-                  "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming"
+                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               },
               {
                 "id": 1152,
                 "guid": "65a27edd-963f-4bff-9907-0597b51487d6",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming",
                 "logo": null,
                 "date": "2019-08-24T12:30:00+02:00",
                 "start": "12:30",
@@ -4989,28 +4896,28 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
                     "public_name": "Silbo"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
                     "public_name": "Ivanna"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Superwallah",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Superwallah",
                     "public_name": "Superwallah"
                   }
                 ],
                 "links": [
-                  "https://www.robokoding.com/kits/sumorobot",
-                  "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming"
+                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               },
               {
                 "id": 1172,
                 "guid": "2f9e5999-b655-4c1e-a1e3-79eb6e74ae7b",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
                 "logo": null,
                 "date": "2019-08-24T14:30:00+02:00",
                 "start": "14:30",
@@ -5027,23 +4934,23 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
                     "public_name": "Silbo"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
                     "public_name": "Ivanna"
                   }
                 ],
                 "links": [
-                  "https://www.robokoding.com/kits/sumorobot",
-                  "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering"
+                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               },
               {
                 "id": 1243,
                 "guid": "ab31a912-85f6-4703-8aa2-de2c8906203f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
                 "logo": null,
                 "date": "2019-08-24T10:00:00+02:00",
                 "start": "10:00",
@@ -5060,18 +4967,17 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
                     "public_name": "Silbo"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
                     "public_name": "Ivanna"
                   }
                 ],
                 "links": [
-                  "https://www.robokoding.com/kits/sumorobot",
-                  "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering"
+                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               }
             ]
@@ -5092,6 +4998,7 @@
               {
                 "id": 1270,
                 "guid": "70d9eabd-198b-4bbb-98bd-1d60a7587bc8",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:B%C3%B6ser_Sprechworkshop",
                 "logo": null,
                 "date": "2019-08-25T13:00:00+02:00",
                 "start": "13:00",
@@ -5108,19 +5015,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Piko",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Piko",
                     "public_name": "Piko"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:B%C3%B6ser_Sprechworkshop"
-                ]
+                "links": []
               }
             ],
             "Village:About:freedom": [
               {
                 "id": 1158,
                 "guid": "7ba573f9-56d0-4941-8381-522df2118498",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Decentrathon",
                 "logo": null,
                 "date": "2019-08-25T12:00:00+02:00",
                 "start": "12:00",
@@ -5137,17 +5043,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Decentrathon"
-                ]
+                "links": []
               },
               {
                 "id": 1077,
                 "guid": "61543781-f9af-4428-8999-70c94af52f56",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Freedom_Cruise,_about:policelaws",
                 "logo": null,
                 "date": "2019-08-25T15:00:00+02:00",
                 "start": "15:00",
@@ -5164,17 +5069,16 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Freedom_Cruise,_about:policelaws"
-                ]
+                "links": []
               },
               {
                 "id": 1119,
                 "guid": "7735bc78-26f8-4f7c-82ae-bfa7080816be",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Proof_of_ignorance",
                 "logo": null,
                 "date": "2019-08-25T14:00:00+02:00",
                 "start": "14:00",
@@ -5191,19 +5095,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Proof_of_ignorance"
-                ]
+                "links": []
               }
             ],
             "Village:Digitalcourage": [
               {
                 "id": 1306,
                 "guid": "16bfa5df-7213-49b9-8179-5ad27a218ed8",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Digital_Self-Defense_Workshop",
                 "logo": null,
                 "date": "2019-08-25T16:00:00+02:00",
                 "start": "16:00",
@@ -5220,13 +5123,12 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:CryptGoat",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:CryptGoat",
                     "public_name": "CryptGoat"
                   }
                 ],
                 "links": [
-                  "https://digitalcourage.de/digitale-selbstverteidigung",
-                  "//events.ccc.de/camp/2019/wiki/Session:Digital_Self-Defense_Workshop"
+                  "https://digitalcourage.de/digitale-selbstverteidigung"
                 ]
               }
             ],
@@ -5234,6 +5136,7 @@
               {
                 "id": 1166,
                 "guid": "9e621cac-08d6-4dd4-bdaf-20307f41fb38",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder",
                 "logo": null,
                 "date": "2019-08-25T11:00:00+02:00",
                 "start": "11:00",
@@ -5250,19 +5153,18 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Maltman23",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Maltman23",
                     "public_name": "Maltman23"
                   }
                 ],
-                "links": [
-                  "//events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder"
-                ]
+                "links": []
               }
             ],
             "Village:RoboVillage": [
               {
                 "id": 1149,
                 "guid": "55e871c2-1e5d-42d7-9b42-21aab9fa8ee5",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming",
                 "logo": null,
                 "date": "2019-08-25T17:00:00+02:00",
                 "start": "17:00",
@@ -5279,28 +5181,28 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
                     "public_name": "Silbo"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
                     "public_name": "Ivanna"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Superwallah",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Superwallah",
                     "public_name": "Superwallah"
                   }
                 ],
                 "links": [
-                  "https://www.robokoding.com/kits/sumorobot",
-                  "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming"
+                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               },
               {
                 "id": 1156,
                 "guid": "6f171447-e9cd-42d5-80b4-498bb6fee2ac",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming",
                 "logo": null,
                 "date": "2019-08-25T12:30:00+02:00",
                 "start": "12:30",
@@ -5317,28 +5219,28 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
                     "public_name": "Silbo"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
                     "public_name": "Ivanna"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Superwallah",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Superwallah",
                     "public_name": "Superwallah"
                   }
                 ],
                 "links": [
-                  "https://www.robokoding.com/kits/sumorobot",
-                  "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming"
+                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               },
               {
                 "id": 1170,
                 "guid": "16adbe9f-1e08-452f-9337-bfdf205ea4bc",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
                 "logo": null,
                 "date": "2019-08-25T10:00:00+02:00",
                 "start": "10:00",
@@ -5355,23 +5257,23 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
                     "public_name": "Silbo"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
                     "public_name": "Ivanna"
                   }
                 ],
                 "links": [
-                  "https://www.robokoding.com/kits/sumorobot",
-                  "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering"
+                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               },
               {
                 "id": 1173,
                 "guid": "272b0087-bb81-4bf0-bb15-6c928912fcd2",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
                 "logo": null,
                 "date": "2019-08-25T14:30:00+02:00",
                 "start": "14:30",
@@ -5388,18 +5290,17 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Silbo",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
                     "public_name": "Silbo"
                   },
                   {
                     "id": 0,
-                    "url": "//events.ccc.de/camp/2019/wiki/User:Ivanna",
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
                     "public_name": "Ivanna"
                   }
                 ],
                 "links": [
-                  "https://www.robokoding.com/kits/sumorobot",
-                  "//events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering"
+                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               }
             ]

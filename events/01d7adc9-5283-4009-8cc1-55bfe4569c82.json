@@ -1,6 +1,7 @@
 {
   "id": 1269,
   "guid": "01d7adc9-5283-4009-8cc1-55bfe4569c82",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Digital_Self-Defense_Workshop",
   "logo": null,
   "date": "2019-08-21T16:00:00+02:00",
   "start": "16:00",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:CryptGoat",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:CryptGoat",
       "public_name": "CryptGoat"
     }
   ],
   "links": [
-    "https://digitalcourage.de/digitale-selbstverteidigung",
-    "//events.ccc.de/camp/2019/wiki/Session:Digital_Self-Defense_Workshop"
+    "https://digitalcourage.de/digitale-selbstverteidigung"
   ]
 }

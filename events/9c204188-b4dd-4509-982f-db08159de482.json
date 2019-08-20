@@ -1,6 +1,7 @@
 {
   "id": 1319,
   "guid": "9c204188-b4dd-4509-982f-db08159de482",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Club_culture_against_the_monopoly_of_Facebook",
   "logo": null,
   "date": "2019-08-23T15:00:00+02:00",
   "start": "15:00",
@@ -16,7 +17,6 @@
   "description": "Reclaim Club Culture goes Feediverse, we want to learn about alternatives to facebook: We need a platform that includes social multimedia feeds and most importantly: a calendar for mobilization/invitation. We will prepare a campaign to get institutions of the cultural scene to use that alternative platform.",
   "persons": [],
   "links": [
-    "https://twitter.com/ReclaimYourClub",
-    "//events.ccc.de/camp/2019/wiki/Session:Club_culture_against_the_monopoly_of_Facebook"
+    "https://twitter.com/ReclaimYourClub"
   ]
 }

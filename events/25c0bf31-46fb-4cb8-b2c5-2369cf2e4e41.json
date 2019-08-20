@@ -1,6 +1,7 @@
 {
   "id": 1131,
   "guid": "25c0bf31-46fb-4cb8-b2c5-2369cf2e4e41",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Substrate_verifiable_credentials_-_build_your_first_infrastructure_blockchain",
   "logo": null,
   "date": "2019-08-21T14:00:00+02:00",
   "start": "14:00",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
       "public_name": "Gnunicorn"
     }
   ],
   "links": [
-    "https://substrate.dev/en/tutorials",
-    "//events.ccc.de/camp/2019/wiki/Session:Substrate_verifiable_credentials_-_build_your_first_infrastructure_blockchain"
+    "https://substrate.dev/en/tutorials"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "id": 1180,
   "guid": "f3ab2794-e73a-4b02-9fc7-07fbf1dbe66c",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Awarenessteam-Vorstellung",
   "logo": null,
   "date": "2019-08-21T16:15:00+02:00",
   "start": "16:15",
@@ -17,17 +18,16 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Sistason",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Sistason",
       "public_name": "Sistason"
     },
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Theresa",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Theresa",
       "public_name": "Theresa"
     }
   ],
   "links": [
-    "http://help.ccc.de/awareness",
-    "//events.ccc.de/camp/2019/wiki/Session:Awarenessteam-Vorstellung"
+    "http://help.ccc.de/awareness"
   ]
 }

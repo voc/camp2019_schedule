@@ -1,6 +1,7 @@
 {
   "id": 1053,
   "guid": "5c1066ad-c624-437b-b1aa-cd94855def55",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Creative_commons",
   "logo": null,
   "date": "2019-08-21T14:30:00+02:00",
   "start": "14:30",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Tunda",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Tunda",
       "public_name": "Tunda"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Creative_commons"
-  ]
+  "links": []
 }

@@ -1,6 +1,7 @@
 {
   "id": 1246,
   "guid": "a6715135-987f-418c-8dad-d5896ac63695",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Treffen_und_Diskussion_zur_Netzpolitik_in_der_Schweiz",
   "logo": null,
   "date": "2019-08-22T10:30:00+02:00",
   "start": "10:30",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Kire",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Kire",
       "public_name": "Kire"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Treffen_und_Diskussion_zur_Netzpolitik_in_der_Schweiz"
-  ]
+  "links": []
 }

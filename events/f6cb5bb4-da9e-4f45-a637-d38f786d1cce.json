@@ -1,6 +1,7 @@
 {
   "id": 1202,
   "guid": "f6cb5bb4-da9e-4f45-a637-d38f786d1cce",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Freedom_Cruise,_about:GFF",
   "logo": null,
   "date": "2019-08-23T15:00:00+02:00",
   "start": "15:00",
@@ -15,7 +16,5 @@
   "abstract": "",
   "description": "",
   "persons": [],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Freedom_Cruise,_about:GFF"
-  ]
+  "links": []
 }

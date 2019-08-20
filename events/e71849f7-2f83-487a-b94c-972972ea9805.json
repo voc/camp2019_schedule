@@ -1,6 +1,7 @@
 {
   "id": 1253,
   "guid": "e71849f7-2f83-487a-b94c-972972ea9805",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Decentrathon",
   "logo": null,
   "date": "2019-08-24T19:30:00+02:00",
   "start": "19:30",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
       "public_name": "Gnunicorn"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Decentrathon"
-  ]
+  "links": []
 }

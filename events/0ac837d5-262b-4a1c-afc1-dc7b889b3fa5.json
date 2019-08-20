@@ -1,6 +1,7 @@
 {
   "id": 1033,
   "guid": "0ac837d5-262b-4a1c-afc1-dc7b889b3fa5",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Arduino_For_Total_Newbies",
   "logo": null,
   "date": "2019-08-22T13:00:00+02:00",
   "start": "13:00",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Maltman23",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Maltman23",
       "public_name": "Maltman23"
     }
   ],
   "links": [
-    "https://tiny.cc/A4TN",
-    "//events.ccc.de/camp/2019/wiki/Session:Arduino_For_Total_Newbies"
+    "https://tiny.cc/A4TN"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "id": 1271,
   "guid": "e954fe1b-25f0-4b97-9ec9-d89ef4b1e291",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Pseudo-Yoga",
   "logo": null,
   "date": "2019-08-22T10:00:00+02:00",
   "start": "10:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Piko",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Piko",
       "public_name": "Piko"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Pseudo-Yoga"
-  ]
+  "links": []
 }

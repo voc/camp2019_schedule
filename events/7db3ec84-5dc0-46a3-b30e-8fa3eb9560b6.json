@@ -1,6 +1,7 @@
 {
   "id": 1283,
   "guid": "7db3ec84-5dc0-46a3-b30e-8fa3eb9560b6",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices",
   "logo": null,
   "date": "2019-08-22T16:00:00+02:00",
   "start": "16:00",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:PoltoS",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:PoltoS",
       "public_name": "PoltoS"
     }
   ],
   "links": [
-    "http://z-uno.z-wave.me",
-    "//events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices"
+    "http://z-uno.z-wave.me"
   ]
 }

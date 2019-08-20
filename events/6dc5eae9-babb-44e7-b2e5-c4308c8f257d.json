@@ -1,6 +1,7 @@
 {
   "id": 1300,
   "guid": "6dc5eae9-babb-44e7-b2e5-c4308c8f257d",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:CoderDojo",
   "logo": null,
   "date": "2019-08-24T10:00:00+02:00",
   "start": "10:00",
@@ -16,7 +17,6 @@
   "description": "CoderDojo - between 12 and 18 years old yourh people",
   "persons": [],
   "links": [
-    "https://zen.coderdojo.com/dojos/de/berlin/berlin-mitte-c-base",
-    "//events.ccc.de/camp/2019/wiki/Session:CoderDojo"
+    "https://zen.coderdojo.com/dojos/de/berlin/berlin-mitte-c-base"
   ]
 }

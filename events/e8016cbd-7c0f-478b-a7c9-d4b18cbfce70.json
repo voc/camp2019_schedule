@@ -1,6 +1,7 @@
 {
   "id": 1227,
   "guid": "e8016cbd-7c0f-478b-a7c9-d4b18cbfce70",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Pentagame",
   "logo": null,
   "date": "2019-08-22T17:05:00+02:00",
   "start": "17:05",
@@ -16,7 +17,6 @@
   "description": "New abstract board game explained and played",
   "persons": [],
   "links": [
-    "http://pentagame.org",
-    "//events.ccc.de/camp/2019/wiki/Session:Pentagame"
+    "http://pentagame.org"
   ]
 }

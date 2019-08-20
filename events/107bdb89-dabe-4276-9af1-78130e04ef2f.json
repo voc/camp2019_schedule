@@ -1,6 +1,7 @@
 {
   "id": 1067,
   "guid": "107bdb89-dabe-4276-9af1-78130e04ef2f",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Estimate_and_calculate_carbon_footprints",
   "logo": null,
   "date": "2019-08-21T18:00:00+02:00",
   "start": "18:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
       "public_name": "Gnunicorn"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Estimate_and_calculate_carbon_footprints"
-  ]
+  "links": []
 }

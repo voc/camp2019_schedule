@@ -1,6 +1,7 @@
 {
   "id": 1208,
   "guid": "dff93c19-0111-4418-855c-ca6dab6237a2",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:HFOS_-_The_Hackerfleet_Operating_System",
   "logo": null,
   "date": "2019-08-23T17:30:00+02:00",
   "start": "17:30",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Riot",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Riot",
       "public_name": "Riot"
     }
   ],
   "links": [
-    "http://hackerfleet.eu",
-    "//events.ccc.de/camp/2019/wiki/Session:HFOS_-_The_Hackerfleet_Operating_System"
+    "http://hackerfleet.eu"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "id": 1077,
   "guid": "61543781-f9af-4428-8999-70c94af52f56",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Freedom_Cruise,_about:policelaws",
   "logo": null,
   "date": "2019-08-25T15:00:00+02:00",
   "start": "15:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
       "public_name": "Gnunicorn"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Freedom_Cruise,_about:policelaws"
-  ]
+  "links": []
 }

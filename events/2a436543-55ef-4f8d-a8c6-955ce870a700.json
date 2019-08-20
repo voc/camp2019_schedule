@@ -1,6 +1,7 @@
 {
   "id": 1031,
   "guid": "2a436543-55ef-4f8d-a8c6-955ce870a700",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:ArduTouch_music_synthesizer",
   "logo": null,
   "date": "2019-08-24T13:00:00+02:00",
   "start": "13:00",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Maltman23",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Maltman23",
       "public_name": "Maltman23"
     }
   ],
   "links": [
-    "https://cornfieldelectronics.com/cfe/projects.php#ardutouch",
-    "//events.ccc.de/camp/2019/wiki/Session:ArduTouch_music_synthesizer"
+    "https://cornfieldelectronics.com/cfe/projects.php#ardutouch"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "id": 1316,
   "guid": "01a0c21a-8b90-4387-9198-8e80cccb18a8",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Extra_Thumb_Workshop",
   "logo": null,
   "date": "2019-08-23T14:00:00+02:00",
   "start": "14:00",
@@ -15,7 +16,5 @@
   "abstract": "",
   "description": "Make yourself an extra functional thumb, and see if you like it.",
   "persons": [],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Extra_Thumb_Workshop"
-  ]
+  "links": []
 }

@@ -1,6 +1,7 @@
 {
   "id": 1249,
   "guid": "a3c87f56-9cfa-454b-a6b5-4c2741ebc2c2",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Xspace_%E2%80%93_Solution_to_an_annoying_TeX_quirk",
   "logo": null,
   "date": "2019-08-22T13:00:00+02:00",
   "start": "13:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Fr%C3%B6belsuppe",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Fr%C3%B6belsuppe",
       "public_name": "Fr\u00f6belsuppe"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Xspace_%E2%80%93_Solution_to_an_annoying_TeX_quirk"
-  ]
+  "links": []
 }

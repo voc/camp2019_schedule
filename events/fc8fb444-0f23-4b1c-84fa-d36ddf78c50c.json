@@ -1,6 +1,7 @@
 {
   "id": 1277,
   "guid": "fc8fb444-0f23-4b1c-84fa-d36ddf78c50c",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Wie_funktioniert_ein_Sicherheitsgurt",
   "logo": null,
   "date": "2019-08-21T20:00:00+02:00",
   "start": "20:00",
@@ -15,7 +16,5 @@
   "abstract": "",
   "description": "How seatbelt retractors work",
   "persons": [],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Wie_funktioniert_ein_Sicherheitsgurt"
-  ]
+  "links": []
 }

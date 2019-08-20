@@ -1,6 +1,7 @@
 {
   "id": 1235,
   "guid": "b6837980-853b-42d7-95b8-72c7d1c3ed96",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Substrate_Collectibles_-_Build_your_own_blockchain-backed_asset_exchange",
   "logo": null,
   "date": "2019-08-22T15:00:00+02:00",
   "start": "15:00",
@@ -17,13 +18,12 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
       "public_name": "Gnunicorn"
     }
   ],
   "links": [
     "https://substrate.dev/substrate-collectables-workshop/#/",
-    "https://substrate.dev/en/tutorials",
-    "//events.ccc.de/camp/2019/wiki/Session:Substrate_Collectibles_-_Build_your_own_blockchain-backed_asset_exchange"
+    "https://substrate.dev/en/tutorials"
   ]
 }

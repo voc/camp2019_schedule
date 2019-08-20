@@ -1,6 +1,7 @@
 {
   "id": 1305,
   "guid": "c71c920f-bd27-4879-9095-78e26d15ed7d",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Bristlebots_for_kids!",
   "logo": null,
   "date": "2019-08-24T11:00:00+02:00",
   "start": "11:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Kliment",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Kliment",
       "public_name": "Kliment"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Bristlebots_for_kids!"
-  ]
+  "links": []
 }

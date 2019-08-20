@@ -1,6 +1,7 @@
 {
   "id": 1325,
   "guid": "7cd9bc5f-8b2a-4ced-8062-fdd11e1f5371",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Cloudlog",
   "logo": null,
   "date": "2019-08-21T18:00:00+02:00",
   "start": "18:00",
@@ -16,7 +17,6 @@
   "description": "Webbasiertes Amateurfunk-Logbuch",
   "persons": [],
   "links": [
-    "https://github.com/magicbug/Cloudlog",
-    "//events.ccc.de/camp/2019/wiki/Session:Cloudlog"
+    "https://github.com/magicbug/Cloudlog"
   ]
 }

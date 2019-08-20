@@ -1,6 +1,7 @@
 {
   "id": 1061,
   "guid": "7ed87274-4ec1-46e5-a779-ce8fdcc37bb4",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Discussion_on_privacy-friendly_green_policies_in_the_European_Union",
   "logo": null,
   "date": "2019-08-24T10:30:00+02:00",
   "start": "10:30",
@@ -17,16 +18,14 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Blipp",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Blipp",
       "public_name": "Blipp"
     },
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Andreea_(EDRi)",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Andreea_(EDRi)",
       "public_name": "Andreea (EDRi)"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Discussion_on_privacy-friendly_green_policies_in_the_European_Union"
-  ]
+  "links": []
 }

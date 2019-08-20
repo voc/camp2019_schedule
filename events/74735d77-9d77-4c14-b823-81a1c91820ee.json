@@ -1,6 +1,7 @@
 {
   "id": 1139,
   "guid": "74735d77-9d77-4c14-b823-81a1c91820ee",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Tor_Project:_running_Tor_trainings_with_human_rights_defenders_in_Global_South",
   "logo": null,
   "date": "2019-08-22T14:30:00+02:00",
   "start": "14:30",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
       "public_name": "Gnunicorn"
     }
   ],
   "links": [
-    "https://www.torproject.org",
-    "//events.ccc.de/camp/2019/wiki/Session:Tor_Project:_running_Tor_trainings_with_human_rights_defenders_in_Global_South"
+    "https://www.torproject.org"
   ]
 }

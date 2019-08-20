@@ -1,6 +1,7 @@
 {
   "id": 1051,
   "guid": "12375d1f-b599-40a8-be72-7ca856048c10",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:ConTeXt_f%C3%BCr_Anf%C3%A4nger",
   "logo": null,
   "date": "2019-08-22T14:00:00+02:00",
   "start": "14:00",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Hraban",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Hraban",
       "public_name": "Hraban"
     }
   ],
   "links": [
-    "http://wiki.contextgarden.net",
-    "//events.ccc.de/camp/2019/wiki/Session:ConTeXt_f%C3%BCr_Anf%C3%A4nger"
+    "http://wiki.contextgarden.net"
   ]
 }

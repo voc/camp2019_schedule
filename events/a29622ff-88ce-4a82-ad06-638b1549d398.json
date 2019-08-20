@@ -1,6 +1,7 @@
 {
   "id": 1187,
   "guid": "a29622ff-88ce-4a82-ad06-638b1549d398",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Cheese_Rendezvous",
   "logo": null,
   "date": "2019-08-23T20:00:00+02:00",
   "start": "20:00",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Algoldor",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Algoldor",
       "public_name": "Algoldor"
     }
   ],
   "links": [
-    "https://foodhackingbase.org/wiki/Cheesetasting_ccccamp2019",
-    "//events.ccc.de/camp/2019/wiki/Session:Cheese_Rendezvous"
+    "https://foodhackingbase.org/wiki/Cheesetasting_ccccamp2019"
   ]
 }

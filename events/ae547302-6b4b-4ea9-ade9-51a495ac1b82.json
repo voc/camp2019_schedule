@@ -1,6 +1,7 @@
 {
   "id": 1322,
   "guid": "ae547302-6b4b-4ea9-ade9-51a495ac1b82",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:FNIT_Vernetzungsworkshop",
   "logo": null,
   "date": "2019-08-22T20:00:00+02:00",
   "start": "20:00",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Melzai",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Melzai",
       "public_name": "Melzai"
     }
   ],
   "links": [
-    "http://haecksen.org",
-    "//events.ccc.de/camp/2019/wiki/Session:FNIT_Vernetzungsworkshop"
+    "http://haecksen.org"
   ]
 }

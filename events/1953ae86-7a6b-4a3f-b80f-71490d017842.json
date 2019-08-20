@@ -1,6 +1,7 @@
 {
   "id": 1321,
   "guid": "1953ae86-7a6b-4a3f-b80f-71490d017842",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen",
   "logo": null,
   "date": "2019-08-23T14:00:00+02:00",
   "start": "14:00",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Makefu",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Makefu",
       "public_name": "Makefu"
     }
   ],
   "links": [
-    "https://krepel.us",
-    "//events.ccc.de/camp/2019/wiki/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen"
+    "https://krepel.us"
   ]
 }

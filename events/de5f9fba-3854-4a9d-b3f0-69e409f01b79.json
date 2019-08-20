@@ -1,6 +1,7 @@
 {
   "id": 1248,
   "guid": "de5f9fba-3854-4a9d-b3f0-69e409f01b79",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Why_NixOS%3F",
   "logo": null,
   "date": "2019-08-22T12:00:00+02:00",
   "start": "12:00",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Palo",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Palo",
       "public_name": "Palo"
     }
   ],
   "links": [
-    "https://tech.ingolf-wagner.de/slides/why-nixos/",
-    "//events.ccc.de/camp/2019/wiki/Session:Why_NixOS%3F"
+    "https://tech.ingolf-wagner.de/slides/why-nixos/"
   ]
 }

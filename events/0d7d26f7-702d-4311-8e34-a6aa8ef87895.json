@@ -1,6 +1,7 @@
 {
   "id": 1029,
   "guid": "0d7d26f7-702d-4311-8e34-a6aa8ef87895",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Advi_Weekly_Aufnahme",
   "logo": null,
   "date": "2019-08-23T15:00:00+02:00",
   "start": "15:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Advi",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Advi",
       "public_name": "Advi"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Advi_Weekly_Aufnahme"
-  ]
+  "links": []
 }

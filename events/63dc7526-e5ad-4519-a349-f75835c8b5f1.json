@@ -1,6 +1,7 @@
 {
   "id": 1117,
   "guid": "63dc7526-e5ad-4519-a349-f75835c8b5f1",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Powerplant_team_meeting",
   "logo": null,
   "date": "2019-08-22T11:00:00+02:00",
   "start": "11:00",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Aimeejulia",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Aimeejulia",
       "public_name": "Aimeejulia"
     }
   ],
   "links": [
-    "https://wiki.ecohackerfarm.org/powerplant:start",
-    "//events.ccc.de/camp/2019/wiki/Session:Powerplant_team_meeting"
+    "https://wiki.ecohackerfarm.org/powerplant:start"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "id": 1260,
   "guid": "c59ab826-e9ec-40d9-b529-b48e9d0b87c6",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:How_to_shape_a_responsible_world%3F",
   "logo": null,
   "date": "2019-08-24T10:30:00+02:00",
   "start": "10:30",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
       "public_name": "Gnunicorn"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:How_to_shape_a_responsible_world%3F"
-  ]
+  "links": []
 }

@@ -1,6 +1,7 @@
 {
   "id": 1140,
   "guid": "9c0d9834-b2a4-4a2e-9c15-9e54bac815d0",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Tor_Relay_Operator_Meetup",
   "logo": null,
   "date": "2019-08-21T18:00:00+02:00",
   "start": "18:00",
@@ -17,12 +18,11 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
       "public_name": "Gnunicorn"
     }
   ],
   "links": [
-    "https://www.torproject.org",
-    "//events.ccc.de/camp/2019/wiki/Session:Tor_Relay_Operator_Meetup"
+    "https://www.torproject.org"
   ]
 }

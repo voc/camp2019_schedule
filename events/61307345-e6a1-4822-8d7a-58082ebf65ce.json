@@ -1,6 +1,7 @@
 {
   "id": 1289,
   "guid": "61307345-e6a1-4822-8d7a-58082ebf65ce",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners",
   "logo": null,
   "date": "2019-08-22T17:30:00+02:00",
   "start": "17:30",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Kliment",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Kliment",
       "public_name": "Kliment"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners"
-  ]
+  "links": []
 }

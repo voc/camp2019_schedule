@@ -1,6 +1,7 @@
 {
   "id": 1294,
   "guid": "592e8c5b-b23a-4768-8ffc-9d07329ce16f",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners_-_electronic_kitten_EXPERIMENTAL_WORKSHOP",
   "logo": null,
   "date": "2019-08-21T20:00:00+02:00",
   "start": "20:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Kliment",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Kliment",
       "public_name": "Kliment"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners_-_electronic_kitten_EXPERIMENTAL_WORKSHOP"
-  ]
+  "links": []
 }

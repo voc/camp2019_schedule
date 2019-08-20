@@ -1,6 +1,7 @@
 {
   "id": 1078,
   "guid": "65214aac-aeb9-4e6f-80bf-d427b88d7156",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Freedom_to_go_-_an_interactive_workshop_from_An-_to_F-_to_G-Droid",
   "logo": null,
   "date": "2019-08-23T15:00:00+02:00",
   "start": "15:00",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
       "public_name": "Gnunicorn"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Freedom_to_go_-_an_interactive_workshop_from_An-_to_F-_to_G-Droid"
-  ]
+  "links": []
 }

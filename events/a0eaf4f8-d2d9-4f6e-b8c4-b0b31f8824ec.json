@@ -1,6 +1,7 @@
 {
   "id": 1273,
   "guid": "a0eaf4f8-d2d9-4f6e-b8c4-b0b31f8824ec",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Toki_Pona",
   "logo": null,
   "date": "2019-08-21T13:30:00+02:00",
   "start": "13:30",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Piko",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Piko",
       "public_name": "Piko"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:Toki_Pona"
-  ]
+  "links": []
 }
