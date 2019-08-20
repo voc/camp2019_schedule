@@ -1,0 +1,27 @@
+{
+  "id": 1324,
+  "guid": "30f46d4a-b556-4c08-9cd9-22c0db33f751",
+  "logo": null,
+  "date": "2019-08-21T18:30:00+02:00",
+  "start": "18:30",
+  "duration": "0:30",
+  "room": "Village:Chaoswelle",
+  "slug": "camp2019-1324-session_bandplaene",
+  "title": "Bandpl\u00e4ne",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Bedeutung, Aufbau und Verwendung der Amateurfunk-Bandpl\u00e4ne",
+  "persons": [
+    {
+      "id": 0,
+      "url": "//events.ccc.de/camp/2019/wiki/User:Pylon",
+      "public_name": "Pylon"
+    }
+  ],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Bandpl%C3%A4ne"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1325,
+  "guid": "7cd9bc5f-8b2a-4ced-8062-fdd11e1f5371",
+  "logo": null,
+  "date": "2019-08-21T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "0:30",
+  "room": "Village:Chaoswelle",
+  "slug": "camp2019-1325-session_cloudlog",
+  "title": "Cloudlog",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Webbasiertes Amateurfunk-Logbuch",
+  "persons": [],
+  "links": [
+    "https://github.com/magicbug/Cloudlog",
+    "//events.ccc.de/camp/2019/wiki/Session:Cloudlog"
+  ]
+}

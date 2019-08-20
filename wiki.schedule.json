@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-20 06:30",
+    "version": "2019-08-20 08:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -265,6 +265,99 @@
                 "links": [
                   "http://haecksen.org",
                   "//events.ccc.de/camp/2019/wiki/Session:Workshop_feminist_library"
+                ]
+              }
+            ],
+            "Village:Chaoswelle": [
+              {
+                "id": 1324,
+                "guid": "30f46d4a-b556-4c08-9cd9-22c0db33f751",
+                "logo": null,
+                "date": "2019-08-21T18:30:00+02:00",
+                "start": "18:30",
+                "duration": "0:30",
+                "room": "Village:Chaoswelle",
+                "slug": "camp2019-1324-session_bandplaene",
+                "title": "Bandpl\u00e4ne",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Bedeutung, Aufbau und Verwendung der Amateurfunk-Bandpl\u00e4ne",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "//events.ccc.de/camp/2019/wiki/User:Pylon",
+                    "public_name": "Pylon"
+                  }
+                ],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:Bandpl%C3%A4ne"
+                ]
+              },
+              {
+                "id": 1325,
+                "guid": "7cd9bc5f-8b2a-4ced-8062-fdd11e1f5371",
+                "logo": null,
+                "date": "2019-08-21T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "0:30",
+                "room": "Village:Chaoswelle",
+                "slug": "camp2019-1325-session_cloudlog",
+                "title": "Cloudlog",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Webbasiertes Amateurfunk-Logbuch",
+                "persons": [],
+                "links": [
+                  "https://github.com/magicbug/Cloudlog",
+                  "//events.ccc.de/camp/2019/wiki/Session:Cloudlog"
+                ]
+              },
+              {
+                "id": 1326,
+                "guid": "38f8c609-043e-4c22-a301-688acefdb765",
+                "logo": null,
+                "date": "2019-08-21T21:00:00+02:00",
+                "start": "21:00",
+                "duration": "1:00",
+                "room": "Village:Chaoswelle",
+                "slug": "camp2019-1326-session_hamnet",
+                "title": "HAMNET",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Highspeed Amateurradio Multimedia NETwork",
+                "persons": [],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:HAMNET"
+                ]
+              },
+              {
+                "id": 1327,
+                "guid": "b2f0e1a6-194c-40d6-8ce4-908200b6fe7b",
+                "logo": null,
+                "date": "2019-08-21T19:30:00+02:00",
+                "start": "19:30",
+                "duration": "1:00",
+                "room": "Village:Chaoswelle",
+                "slug": "camp2019-1327-session_restauration_antiker_autoradios",
+                "title": "Restauration antiker Autoradios",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Technische und optische Restauration antiker Autoradios f\u00fcr Oldtimer",
+                "persons": [],
+                "links": [
+                  "//events.ccc.de/camp/2019/wiki/Session:Restauration_antiker_Autoradios"
                 ]
               }
             ],

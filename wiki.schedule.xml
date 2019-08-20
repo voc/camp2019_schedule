@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-20 06:30</version>
+  <version>2019-08-20 08:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -220,6 +220,87 @@
         <links>
           <link>http://haecksen.org</link>
           <link>//events.ccc.de/camp/2019/wiki/Session:Workshop_feminist_library</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Chaoswelle">
+      <event id="1324" guid="30f46d4a-b556-4c08-9cd9-22c0db33f751">
+        <logo/>
+        <date>2019-08-21T18:30:00+02:00</date>
+        <start>18:30</start>
+        <duration>0:30</duration>
+        <room>Village:Chaoswelle</room>
+        <slug>camp2019-1324-session_bandplaene</slug>
+        <title>Bandpläne</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Bedeutung, Aufbau und Verwendung der Amateurfunk-Bandpläne</description>
+        <persons>
+          <person id="0" href="//events.ccc.de/camp/2019/wiki/User:Pylon">Pylon</person>
+        </persons>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Bandpl%C3%A4ne</link>
+        </links>
+      </event>
+      <event id="1325" guid="7cd9bc5f-8b2a-4ced-8062-fdd11e1f5371">
+        <logo/>
+        <date>2019-08-21T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>0:30</duration>
+        <room>Village:Chaoswelle</room>
+        <slug>camp2019-1325-session_cloudlog</slug>
+        <title>Cloudlog</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Webbasiertes Amateurfunk-Logbuch</description>
+        <persons/>
+        <links>
+          <link>https://github.com/magicbug/Cloudlog</link>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Cloudlog</link>
+        </links>
+      </event>
+      <event id="1326" guid="38f8c609-043e-4c22-a301-688acefdb765">
+        <logo/>
+        <date>2019-08-21T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Village:Chaoswelle</room>
+        <slug>camp2019-1326-session_hamnet</slug>
+        <title>HAMNET</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Highspeed Amateurradio Multimedia NETwork</description>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:HAMNET</link>
+        </links>
+      </event>
+      <event id="1327" guid="b2f0e1a6-194c-40d6-8ce4-908200b6fe7b">
+        <logo/>
+        <date>2019-08-21T19:30:00+02:00</date>
+        <start>19:30</start>
+        <duration>1:00</duration>
+        <room>Village:Chaoswelle</room>
+        <slug>camp2019-1327-session_restauration_antiker_autoradios</slug>
+        <title>Restauration antiker Autoradios</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Technische und optische Restauration antiker Autoradios für Oldtimer</description>
+        <persons/>
+        <links>
+          <link>//events.ccc.de/camp/2019/wiki/Session:Restauration_antiker_Autoradios</link>
         </links>
       </event>
     </room>

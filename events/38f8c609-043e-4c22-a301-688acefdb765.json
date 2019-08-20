@@ -1,0 +1,21 @@
+{
+  "id": 1326,
+  "guid": "38f8c609-043e-4c22-a301-688acefdb765",
+  "logo": null,
+  "date": "2019-08-21T21:00:00+02:00",
+  "start": "21:00",
+  "duration": "1:00",
+  "room": "Village:Chaoswelle",
+  "slug": "camp2019-1326-session_hamnet",
+  "title": "HAMNET",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Highspeed Amateurradio Multimedia NETwork",
+  "persons": [],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:HAMNET"
+  ]
+}

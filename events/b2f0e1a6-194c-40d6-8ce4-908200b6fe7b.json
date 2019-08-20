@@ -1,0 +1,21 @@
+{
+  "id": 1327,
+  "guid": "b2f0e1a6-194c-40d6-8ce4-908200b6fe7b",
+  "logo": null,
+  "date": "2019-08-21T19:30:00+02:00",
+  "start": "19:30",
+  "duration": "1:00",
+  "room": "Village:Chaoswelle",
+  "slug": "camp2019-1327-session_restauration_antiker_autoradios",
+  "title": "Restauration antiker Autoradios",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Technische und optische Restauration antiker Autoradios f\u00fcr Oldtimer",
+  "persons": [],
+  "links": [
+    "//events.ccc.de/camp/2019/wiki/Session:Restauration_antiker_Autoradios"
+  ]
+}
