@@ -1,5 +1,5 @@
 <schedule>
-  <version>Deneb; thm Monkey Island 2: LeChuck’s Revenge; lounges 303; lightning Idril; wiki 2019-08-20 17:10</version>
+  <version>Deneb; thm Monkey Island 2: LeChuck’s Revenge; lounges 303; lightning Idril; wiki 2019-08-20 17:20</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -4826,14 +4826,14 @@ Publikum vor.</abstract>
         </links>
       </event>
     </room>
-    <room name="Village:AAAAAAAAAAAA">
+    <room name="Village:Metalab Dome">
       <event id="1230" guid="f28bdd0a-d215-4af6-8c78-9a0ed4e0d758">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Regio_Mediation</url>
         <logo/>
         <date>2019-08-22T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>2:00</duration>
-        <room>Village:AAAAAAAAAAAA</room>
+        <room>Village:Metalab Dome</room>
         <slug>camp2019-1230-session_regio_mediation</slug>
         <title>Regio Mediation</title>
         <subtitle/>

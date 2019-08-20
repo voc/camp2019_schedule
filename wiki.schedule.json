@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-20 17:10",
+    "version": "2019-08-20 17:20",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -2385,7 +2385,7 @@
                 ]
               }
             ],
-            "Village:AAAAAAAAAAAA": [
+            "Village:Metalab Dome": [
               {
                 "id": 1230,
                 "guid": "f28bdd0a-d215-4af6-8c78-9a0ed4e0d758",
@@ -2394,7 +2394,7 @@
                 "date": "2019-08-22T16:00:00+02:00",
                 "start": "16:00",
                 "duration": "2:00",
-                "room": "Village:AAAAAAAAAAAA",
+                "room": "Village:Metalab Dome",
                 "slug": "camp2019-1230-session_regio_mediation",
                 "title": "Regio Mediation",
                 "subtitle": "",
