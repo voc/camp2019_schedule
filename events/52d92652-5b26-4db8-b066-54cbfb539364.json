@@ -1,0 +1,28 @@
+{
+  "id": 1369,
+  "guid": "52d92652-5b26-4db8-b066-54cbfb539364",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Particle_Matter_Sensor_Workshop",
+  "logo": null,
+  "date": "2019-08-22T15:00:00+02:00",
+  "start": "15:00",
+  "duration": "2:00",
+  "room": "Village:Munich Maker Village",
+  "slug": "camp2019-1369-session_particle_matter_sensor_workshop",
+  "title": "Particle Matter Sensor Workshop",
+  "subtitle": "Particulate Matter Sensor Workshop I",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "Build your own particle matter sensor by using COTS electronics components even without soldering (design by OK Lab Stuttgart)",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Ulib",
+      "public_name": "Ulib"
+    }
+  ],
+  "links": [
+    "https://luftdaten.info/feinstaubsensor-bauen/"
+  ]
+}

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Elnath; thm Monkey Island 2: LeChuck’s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 14:30</version>
+  <version>Elnath; thm Monkey Island 2: LeChuck’s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 15:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -926,7 +926,7 @@ Check out my mixes on [Soundcloud] (https://soundcloud.com/barbnerdy)</descripti
         <type>hands-on</type>
         <language>en</language>
         <abstract/>
-        <description>how to create a wallet, backup and to transact</description>
+        <description>basics : how to create a crypto wallet, backup and to transact</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Polto">Polto</person>
         </persons>
@@ -5024,6 +5024,28 @@ Publikum vor.</abstract>
         </persons>
         <links/>
       </event>
+      <event id="1369" guid="52d92652-5b26-4db8-b066-54cbfb539364">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Particle_Matter_Sensor_Workshop</url>
+        <logo/>
+        <date>2019-08-22T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Village:Munich Maker Village</room>
+        <slug>camp2019-1369-session_particle_matter_sensor_workshop</slug>
+        <title>Particle Matter Sensor Workshop</title>
+        <subtitle>Particulate Matter Sensor Workshop I</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Build your own particle matter sensor by using COTS electronics components even without soldering (design by OK Lab Stuttgart)</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Ulib">Ulib</person>
+        </persons>
+        <links>
+          <link>https://luftdaten.info/feinstaubsensor-bauen/</link>
+        </links>
+      </event>
     </room>
     <room name="Village:Milliways">
       <event id="1341" guid="76a758fd-23da-4aa7-8d94-124a28e14e1d">
@@ -7772,6 +7794,28 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Tiefpunkt">Tiefpunkt</person>
         </persons>
         <links/>
+      </event>
+      <event id="1370" guid="d1f774f9-a5c8-4b18-b6d8-60876632b98a">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Particle_Matter_Sensor_Workshop</url>
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Village:Munich Maker Village</room>
+        <slug>camp2019-1370-session_particle_matter_sensor_workshop</slug>
+        <title>Particle Matter Sensor Workshop</title>
+        <subtitle>Particulate Matter Sensor Workshop II</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Build your own particle matter sensor by using COTS electronics components even without soldering (design by OK Lab Stuttgart)</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Ulib">Ulib</person>
+        </persons>
+        <links>
+          <link>https://luftdaten.info/feinstaubsensor-bauen/</link>
+        </links>
       </event>
     </room>
     <room name="Village:Fri3d Camp">
