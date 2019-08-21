@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-21 15:20",
+    "version": "2019-08-21 15:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -1522,6 +1522,34 @@
                   "https://github.com/johannes-mueller/esperanto-35c3",
                   "https://c3eo.chaotik.de"
                 ]
+              },
+              {
+                "id": 1248,
+                "guid": "de5f9fba-3854-4a9d-b3f0-69e409f01b79",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Why_NixOS%3F",
+                "logo": null,
+                "date": "2019-08-22T12:00:00+02:00",
+                "start": "12:00",
+                "duration": "0:45",
+                "room": "Johnson (Workshop 1)",
+                "slug": "camp2019-1248-session_why_nixos_",
+                "title": "Why NixOS?",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "A Presentation about NixOS for newcomers.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Palo",
+                    "public_name": "Palo"
+                  }
+                ],
+                "links": [
+                  "https://tech.ingolf-wagner.de/slides/why-nixos/"
+                ]
               }
             ],
             "Goldberg (Workshop 2)": [
@@ -2831,34 +2859,6 @@
                 ],
                 "links": [
                   "https://git.ingolf-wagner.de/palo/nixos-diagrams"
-                ]
-              },
-              {
-                "id": 1248,
-                "guid": "de5f9fba-3854-4a9d-b3f0-69e409f01b79",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Why_NixOS%3F",
-                "logo": null,
-                "date": "2019-08-22T12:00:00+02:00",
-                "start": "12:00",
-                "duration": "0:45",
-                "room": "Village:NixOS",
-                "slug": "camp2019-1248-session_why_nixos_",
-                "title": "Why NixOS?",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "A Presentation about NixOS for newcomers.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Palo",
-                    "public_name": "Palo"
-                  }
-                ],
-                "links": [
-                  "https://tech.ingolf-wagner.de/slides/why-nixos/"
                 ]
               }
             ],

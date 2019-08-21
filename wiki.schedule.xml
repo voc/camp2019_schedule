@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-21 15:20</version>
+  <version>2019-08-21 15:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -1216,6 +1216,28 @@
           <link>https://c3eo.chaotik.de</link>
         </links>
       </event>
+      <event id="1248" guid="de5f9fba-3854-4a9d-b3f0-69e409f01b79">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Why_NixOS%3F</url>
+        <logo/>
+        <date>2019-08-22T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>0:45</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1248-session_why_nixos_</slug>
+        <title>Why NixOS?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>A Presentation about NixOS for newcomers.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Palo">Palo</person>
+        </persons>
+        <links>
+          <link>https://tech.ingolf-wagner.de/slides/why-nixos/</link>
+        </links>
+      </event>
     </room>
     <room name="Goldberg (Workshop 2)">
       <event id="1177" guid="f827e2f7-55c1-4f65-b2a4-aa77da48549b">
@@ -2266,28 +2288,6 @@
         </persons>
         <links>
           <link>https://git.ingolf-wagner.de/palo/nixos-diagrams</link>
-        </links>
-      </event>
-      <event id="1248" guid="de5f9fba-3854-4a9d-b3f0-69e409f01b79">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Why_NixOS%3F</url>
-        <logo/>
-        <date>2019-08-22T12:00:00+02:00</date>
-        <start>12:00</start>
-        <duration>0:45</duration>
-        <room>Village:NixOS</room>
-        <slug>camp2019-1248-session_why_nixos_</slug>
-        <title>Why NixOS?</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>A Presentation about NixOS for newcomers.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Palo">Palo</person>
-        </persons>
-        <links>
-          <link>https://tech.ingolf-wagner.de/slides/why-nixos/</link>
         </links>
       </event>
     </room>
