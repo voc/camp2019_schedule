@@ -5668,13 +5668,13 @@
                 "room": "Plank",
                 "slug": "QHMZQM",
                 "url": "http://talx.thm.cloud/thms/talk/QHMZQM/",
-                "title": "Zentrum f\u00fcr politische Sch\u00f6nheit - Bildung einer kriminellen Vereinigung",
+                "title": "ZpS - Bildung einer kriminellen Vereinigung",
                 "subtitle": "",
                 "track": "Talk",
                 "type": "Short Talk",
                 "language": "de",
                 "abstract": "Zentrum f\u00fcr politische Sch\u00f6nheit",
-                "description": "tba",
+                "description": "Das Holocaustmahnmal Bornhagen des Zentrums f\u00fcr Politische Sch\u00f6nheit veranlasste den Kaisertreuen Staatsanwalt Martin Zsch\u00e4chner gegen jene Gruppe als \"kriminelle Vereinigung\" zu ermitteln - bzw: nicht zu ermitteln. Wie kam das Zentrum auf eine Liste mit der Al-Nusra-Front und was macht Zsch\u00e4chner heute? Eine reise in den tiefen rechten Sumpf der Th\u00fcringer Justiz.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -5683,6 +5683,13 @@
                     "code": "YLWWL9",
                     "public_name": "Stefan",
                     "biography": "",
+                    "answers": []
+                  },
+                  {
+                    "id": 72,
+                    "code": "Q8YDS9",
+                    "public_name": "Jasser Almaamoun",
+                    "biography": null,
                     "answers": []
                   }
                 ],

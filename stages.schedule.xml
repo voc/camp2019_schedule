@@ -5652,13 +5652,13 @@ EOF</description>
         <room>Plank</room>
         <slug>QHMZQM</slug>
         <url>http://talx.thm.cloud/thms/talk/QHMZQM/</url>
-        <title>Zentrum für politische Schönheit - Bildung einer kriminellen Vereinigung</title>
+        <title>ZpS - Bildung einer kriminellen Vereinigung</title>
         <subtitle/>
         <track>Talk</track>
         <type>Short Talk</type>
         <language>de</language>
         <abstract>Zentrum für politische Schönheit</abstract>
-        <description>tba</description>
+        <description>Das Holocaustmahnmal Bornhagen des Zentrums für Politische Schönheit veranlasste den Kaisertreuen Staatsanwalt Martin Zschächner gegen jene Gruppe als "kriminelle Vereinigung" zu ermitteln - bzw: nicht zu ermitteln. Wie kam das Zentrum auf eine Liste mit der Al-Nusra-Front und was macht Zschächner heute? Eine reise in den tiefen rechten Sumpf der Thüringer Justiz.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -5667,6 +5667,11 @@ EOF</description>
           <person id="50">
             <code>YLWWL9</code>
             <public_name>Stefan</public_name>
+            <biography/>
+          </person>
+          <person id="72">
+            <code>Q8YDS9</code>
+            <public_name>Jasser Almaamoun</public_name>
             <biography/>
           </person>
         </persons>

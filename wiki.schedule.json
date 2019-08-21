@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-21 12:50",
+    "version": "2019-08-21 13:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -1508,7 +1508,7 @@
                 "type": "talk",
                 "language": "en",
                 "abstract": "",
-                "description": "Our little journey to understand how to save the human species. We will offer some green smokables to the attendants.",
+                "description": "Our \"little\" journey to understand how to save the human species and presentation of our project to save us all.",
                 "persons": [],
                 "links": []
               }
