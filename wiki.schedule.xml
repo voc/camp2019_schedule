@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-21 19:50</version>
+  <version>2019-08-21 20:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -1469,6 +1469,168 @@
       </event>
     </room>
     <room name="THM Workshop"/>
+    <room name="Village:Three Headed Monkey">
+      <event id="1393" guid="cb80ca4e-2fda-4e16-bef8-a7226174b91f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:15_Jahre_netzpolitik.org</url>
+        <logo/>
+        <date>2019-08-22T21:30:00+02:00</date>
+        <start>21:30</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1393-session_15_jahre_netzpolitik_org</slug>
+        <title>15 Jahre netzpolitik.org</title>
+        <subtitle>Location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Im Sommer 2004 erschienen die erste Artikel auf netzpolitik.org. Was als Seitenprojekt begann, entwickelte sich in 15 Jahren zu einer der schlagkräftigsten Organisationen zur Verteidigung von digitalen Grundrechten in Deutschland.</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/9P8DR9/</link>
+        </links>
+      </event>
+      <event id="1386" guid="543676ca-8d19-480e-ba7a-5cb5e4749256">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Als_Netzaktivistin_im_Bundestag_%E2%80%93_Insider_Einblicke_und_Mitmachm%C3%B6glichkeiten</url>
+        <logo/>
+        <date>2019-08-22T18:15:00+02:00</date>
+        <start>18:15</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1386-session_als_netzaktivistin_im_bundestag_insider_einblicke_und_mitmachmoeglichkeiten</slug>
+        <title>Als Netzaktivistin im Bundestag – Insider Einblicke und Mitmachmöglichkeiten</title>
+        <subtitle>Location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language/>
+        <abstract/>
+        <description>Der Bundestag ist anders als man denkt.</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/GRRQTX/</link>
+        </links>
+      </event>
+      <event id="1394" guid="6da859fb-8ee5-4688-8415-5a34dc032e36">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Analoge_neuronale_oszillatoren</url>
+        <logo/>
+        <date>2019-08-22T18:30:00+02:00</date>
+        <start>18:30</start>
+        <duration>2:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1394-session_analoge_neuronale_oszillatoren</slug>
+        <title>Analoge neuronale oszillatoren</title>
+        <subtitle>location: Lagerfeuer (Workshop)</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>in dem workshop bauen teilnehmer*innen analoge neuronale schaltungen mit denen ein netzwerkmodell, wie es shun-ichi amari in den 70 er jahren entwickelt hat, realisiert wird.</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/GHNDP7/</link>
+        </links>
+      </event>
+      <event id="1387" guid="25a15dc4-b039-4187-9162-e48116f54924">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Blockchain:_Proof_of_ignorance</url>
+        <logo/>
+        <date>2019-08-22T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1387-session_blockchain_proof_of_ignorance</slug>
+        <title>Blockchain: Proof of ignorance</title>
+        <subtitle>Location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>A rant about liberty and autonomy for some!</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/WCSCAX/</link>
+        </links>
+      </event>
+      <event id="1396" guid="32227f86-6b84-44d7-a4f2-adf19dc7a41f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Denn_so_wissen_wir,_was_sie_tun:_Das_Berliner_Transparenzgesetz</url>
+        <logo/>
+        <date>2019-08-22T19:30:00+02:00</date>
+        <start>19:30</start>
+        <duration>0:30</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1396-session_denn_so_wissen_wir_was_sie_tun_das_berliner_transparenzgesetz</slug>
+        <title>Denn so wissen wir, was sie tun: Das Berliner Transparenzgesetz</title>
+        <subtitle>location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Ein Hoch auf Volksentscheide! Wir erzählen vom Berliner Volksentscheid für ein Transparenzgesetz, das wir ins Leben gerufen haben. Hier könnt ihr unterschreiben. Und wir zeigen, wie ihr mitmachen könnt.</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/MRJQ7S/</link>
+        </links>
+      </event>
+      <event id="1388" guid="d8fc3e31-950d-4be2-945e-a598ef384d2c">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Dissecting_the_AMD_Platform_Security_Processor</url>
+        <logo/>
+        <date>2019-08-22T16:15:00+02:00</date>
+        <start>16:15</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1388-session_dissecting_the_amd_platform_security_processor</slug>
+        <title>Dissecting the AMD Platform Security Processor</title>
+        <subtitle>location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>The AMD Platform Security Processor (PSP) is a security subsystem in AMD CPUs comparable to the Intel ME and was introduced in 2013. It is essential for system startup – in fact, in runs before the main processor is even started – and offers runtime services to the main processor. For this, it has full access to the system memory space (inlcuding MMIO).  The PSP runs undocumented, proprietary firmware. This talk presents efforts of investigating what the PSP does and if it's secure. For the first time, it documents the PSP firmware's proprietary filesystem and provides insights into reverse-engineering such a deeply embedded system as the PSP. The talk further sheds light on how we might regain trust in AMD CPUs despite the delicate nature of the PSP.</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/LEA7LY/</link>
+        </links>
+      </event>
+      <event id="1398" guid="31a91893-7b03-490b-9057-c55a49443789">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Logbuch:Netzpolitik</url>
+        <logo/>
+        <date>2019-08-22T20:15:00+02:00</date>
+        <start>20:15</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1398-session_logbuch_netzpolitik</slug>
+        <title>Logbuch:Netzpolitik</title>
+        <subtitle>Location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Live-Podcast</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/LJQNKC/</link>
+        </links>
+      </event>
+      <event id="1391" guid="9508b1c9-0297-41e8-a116-38ae2642948f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Werdeteildesgesamtwiderstandes</url>
+        <logo/>
+        <date>2019-08-22T15:15:00+02:00</date>
+        <start>15:15</start>
+        <duration>2:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1391-session_werdeteildesgesamtwiderstandes</slug>
+        <title>Werdeteildesgesamtwiderstandes</title>
+        <subtitle>location: Lagerfeuer (Workshop)</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>werdeteildesgesamtwiderstandes ist eine Objekt gewordene Handlungsanweisung die dazu anregt sich mit anderen menschen zu verbinden. Im Workshop bauen wir diesen analogen synthesizer, jeder kann mitmachen, vorkenntnisse sind nicht erforderlich, für menschen ab 8.</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/ZMERMD/</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:Social Dist0rtion Protocol">
       <event id="1360" guid="0363f99a-6c55-48d3-a77e-9cb0beb9f27a">
         <url>https://events.ccc.de/camp/2019/wiki/Session:2050:_A_Co2_Odissey</url>
@@ -1544,88 +1706,6 @@
         <persons/>
         <links>
           <link>https://hackaday.io/project/164092-npr-new-packet-radio</link>
-        </links>
-      </event>
-    </room>
-    <room name="Village:Three Headed Monkey">
-      <event id="1386" guid="543676ca-8d19-480e-ba7a-5cb5e4749256">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Als_Netzaktivistin_im_Bundestag_%E2%80%93_Insider_Einblicke_und_Mitmachm%C3%B6glichkeiten</url>
-        <logo/>
-        <date>2019-08-22T18:15:00+02:00</date>
-        <start>18:15</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1386-session_als_netzaktivistin_im_bundestag_insider_einblicke_und_mitmachmoeglichkeiten</slug>
-        <title>Als Netzaktivistin im Bundestag – Insider Einblicke und Mitmachmöglichkeiten</title>
-        <subtitle>Location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language/>
-        <abstract/>
-        <description>Der Bundestag ist anders als man denkt.</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/GRRQTX/</link>
-        </links>
-      </event>
-      <event id="1387" guid="25a15dc4-b039-4187-9162-e48116f54924">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Blockchain:_Proof_of_ignorance</url>
-        <logo/>
-        <date>2019-08-22T15:00:00+02:00</date>
-        <start>15:00</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1387-session_blockchain_proof_of_ignorance</slug>
-        <title>Blockchain: Proof of ignorance</title>
-        <subtitle>Location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>A rant about liberty and autonomy for some!</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/WCSCAX/</link>
-        </links>
-      </event>
-      <event id="1388" guid="d8fc3e31-950d-4be2-945e-a598ef384d2c">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Dissecting_the_AMD_Platform_Security_Processor</url>
-        <logo/>
-        <date>2019-08-22T16:15:00+02:00</date>
-        <start>16:15</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1388-session_dissecting_the_amd_platform_security_processor</slug>
-        <title>Dissecting the AMD Platform Security Processor</title>
-        <subtitle>location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>The AMD Platform Security Processor (PSP) is a security subsystem in AMD CPUs comparable to the Intel ME and was introduced in 2013. It is essential for system startup – in fact, in runs before the main processor is even started – and offers runtime services to the main processor. For this, it has full access to the system memory space (inlcuding MMIO).  The PSP runs undocumented, proprietary firmware. This talk presents efforts of investigating what the PSP does and if it's secure. For the first time, it documents the PSP firmware's proprietary filesystem and provides insights into reverse-engineering such a deeply embedded system as the PSP. The talk further sheds light on how we might regain trust in AMD CPUs despite the delicate nature of the PSP.</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/LEA7LY/</link>
-        </links>
-      </event>
-      <event id="1391" guid="9508b1c9-0297-41e8-a116-38ae2642948f">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Werdeteildesgesamtwiderstandes</url>
-        <logo/>
-        <date>2019-08-22T15:15:00+02:00</date>
-        <start>15:15</start>
-        <duration>2:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1391-session_werdeteildesgesamtwiderstandes</slug>
-        <title>Werdeteildesgesamtwiderstandes</title>
-        <subtitle>location: Lagerfeuer (Workshop)</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>werdeteildesgesamtwiderstandes ist eine Objekt gewordene Handlungsanweisung die dazu anregt sich mit anderen menschen zu verbinden. Im Workshop bauen wir diesen analogen synthesizer, jeder kann mitmachen, vorkenntnisse sind nicht erforderlich, für menschen ab 8.</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/ZMERMD/</link>
         </links>
       </event>
     </room>
@@ -2088,6 +2168,26 @@
         <persons/>
         <links>
           <link>https://p0stap0calyptic.wordpress.com/</link>
+        </links>
+      </event>
+      <event id="1400" guid="f4b1cb32-414a-46cc-881c-16e6c35b72a1">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Trickmisch_-_Trickfilme_erstellen</url>
+        <logo/>
+        <date>2019-08-22T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1400-session_trickmisch_trickfilme_erstellen</slug>
+        <title>Trickmisch - Trickfilme erstellen</title>
+        <subtitle>Trickfilmworkshop</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>http://trixmix.tv</link>
         </links>
       </event>
     </room>
@@ -3858,6 +3958,68 @@
         <description>Learn how you can contribute to the nixpkgs git repo</description>
         <persons/>
         <links/>
+      </event>
+    </room>
+    <room name="Village:Three Headed Monkey">
+      <event id="1395" guid="f43ae881-619f-4f35-90d4-472100ef18d2">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Cryptography_of_Killing_Proof-of-Work</url>
+        <logo/>
+        <date>2019-08-23T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>0:30</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1395-session_cryptography_of_killing_proof_of_work</slug>
+        <title>Cryptography of Killing Proof-of-Work</title>
+        <subtitle>Location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>We briefly discuss the range of cryptographic primitives being used by protocols that seek to make proof-of-work protocols obsolete. We shall focus primarily on these cryptographic building blocks themselves, not overly on the different protocols built form them.</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/Z3VR8P/</link>
+        </links>
+      </event>
+      <event id="1397" guid="3e47244d-4edd-40a4-9fc1-ca9902e2dffc">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Emulate,_fuzz,_break_kernels</url>
+        <logo/>
+        <date>2019-08-23T16:15:00+02:00</date>
+        <start>16:15</start>
+        <duration>0:30</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1397-session_emulate_fuzz_break_kernels</slug>
+        <title>Emulate, fuzz, break kernels</title>
+        <subtitle>location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>This talk will give an introduction to kernel fuzzing using unicorefuzz.</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/QULQKV/</link>
+        </links>
+      </event>
+      <event id="1399" guid="926e7afc-2e87-4ff8-bb9c-def9b7241870">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Sinn_von_Unsinn_unterscheiden_-_Glaub_ich%27s_oder_glaub_ich%27s_nicht%3F</url>
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1399-session_sinn_von_unsinn_unterscheiden_glaub_ich_s_oder_glaub_ich_s_nicht_</slug>
+        <title>Sinn von Unsinn unterscheiden - Glaub ich's oder glaub ich's nicht?</title>
+        <subtitle>location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Pyramiden wurden von Außerirdischen gebaut! Impfen macht Autismus! Gott hat die Welt geschaffen!</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/ARDC3J/</link>
+        </links>
       </event>
     </room>
     <room name="Village:Haecksen">

@@ -1,0 +1,22 @@
+{
+  "id": 1397,
+  "guid": "3e47244d-4edd-40a4-9fc1-ca9902e2dffc",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Emulate,_fuzz,_break_kernels",
+  "logo": null,
+  "date": "2019-08-23T16:15:00+02:00",
+  "start": "16:15",
+  "duration": "0:30",
+  "room": "Village:Three Headed Monkey",
+  "slug": "camp2019-1397-session_emulate_fuzz_break_kernels",
+  "title": "Emulate, fuzz, break kernels",
+  "subtitle": "location: Planke (B\u00fchne)",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "This talk will give an introduction to kernel fuzzing using unicorefuzz.",
+  "persons": [],
+  "links": [
+    "https://talx.thm.cloud/thms/talk/QULQKV/"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1394,
+  "guid": "6da859fb-8ee5-4688-8415-5a34dc032e36",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Analoge_neuronale_oszillatoren",
+  "logo": null,
+  "date": "2019-08-22T18:30:00+02:00",
+  "start": "18:30",
+  "duration": "2:00",
+  "room": "Village:Three Headed Monkey",
+  "slug": "camp2019-1394-session_analoge_neuronale_oszillatoren",
+  "title": "Analoge neuronale oszillatoren",
+  "subtitle": "location: Lagerfeuer (Workshop)",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "in dem workshop bauen teilnehmer*innen analoge neuronale schaltungen mit denen ein netzwerkmodell, wie es shun-ichi amari in den 70 er jahren entwickelt hat, realisiert wird.",
+  "persons": [],
+  "links": [
+    "https://talx.thm.cloud/thms/talk/GHNDP7/"
+  ]
+}

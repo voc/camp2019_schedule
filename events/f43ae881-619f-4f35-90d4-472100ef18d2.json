@@ -1,0 +1,22 @@
+{
+  "id": 1395,
+  "guid": "f43ae881-619f-4f35-90d4-472100ef18d2",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Cryptography_of_Killing_Proof-of-Work",
+  "logo": null,
+  "date": "2019-08-23T17:00:00+02:00",
+  "start": "17:00",
+  "duration": "0:30",
+  "room": "Village:Three Headed Monkey",
+  "slug": "camp2019-1395-session_cryptography_of_killing_proof_of_work",
+  "title": "Cryptography of Killing Proof-of-Work",
+  "subtitle": "Location: Planke (B\u00fchne)",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "We briefly discuss the range of cryptographic primitives being used by protocols that seek to make proof-of-work protocols obsolete. We shall focus primarily on these cryptographic building blocks themselves, not overly on the different protocols built form them.",
+  "persons": [],
+  "links": [
+    "https://talx.thm.cloud/thms/talk/Z3VR8P/"
+  ]
+}

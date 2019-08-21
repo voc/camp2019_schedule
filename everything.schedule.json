@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 19:50",
+    "version": "Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 20:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -4968,6 +4968,184 @@
                 "attachments": []
               }
             ],
+            "Village:Three Headed Monkey": [
+              {
+                "id": 1393,
+                "guid": "cb80ca4e-2fda-4e16-bef8-a7226174b91f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:15_Jahre_netzpolitik.org",
+                "logo": null,
+                "date": "2019-08-22T21:30:00+02:00",
+                "start": "21:30",
+                "duration": "1:00",
+                "room": "Village:Three Headed Monkey",
+                "slug": "camp2019-1393-session_15_jahre_netzpolitik_org",
+                "title": "15 Jahre netzpolitik.org",
+                "subtitle": "Location: Planke (B\u00fchne)",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Im Sommer 2004 erschienen die erste Artikel auf netzpolitik.org. Was als Seitenprojekt begann, entwickelte sich in 15 Jahren zu einer der schlagkr\u00e4ftigsten Organisationen zur Verteidigung von digitalen Grundrechten in Deutschland.",
+                "persons": [],
+                "links": [
+                  "https://talx.thm.cloud/thms/talk/9P8DR9/"
+                ]
+              },
+              {
+                "id": 1386,
+                "guid": "543676ca-8d19-480e-ba7a-5cb5e4749256",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Als_Netzaktivistin_im_Bundestag_%E2%80%93_Insider_Einblicke_und_Mitmachm%C3%B6glichkeiten",
+                "logo": null,
+                "date": "2019-08-22T18:15:00+02:00",
+                "start": "18:15",
+                "duration": "1:00",
+                "room": "Village:Three Headed Monkey",
+                "slug": "camp2019-1386-session_als_netzaktivistin_im_bundestag_insider_einblicke_und_mitmachmoeglichkeiten",
+                "title": "Als Netzaktivistin im Bundestag \u2013 Insider Einblicke und Mitmachm\u00f6glichkeiten",
+                "subtitle": "Location: Planke (B\u00fchne)",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "",
+                "abstract": "",
+                "description": "Der Bundestag ist anders als man denkt.",
+                "persons": [],
+                "links": [
+                  "https://talx.thm.cloud/thms/talk/GRRQTX/"
+                ]
+              },
+              {
+                "id": 1394,
+                "guid": "6da859fb-8ee5-4688-8415-5a34dc032e36",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Analoge_neuronale_oszillatoren",
+                "logo": null,
+                "date": "2019-08-22T18:30:00+02:00",
+                "start": "18:30",
+                "duration": "2:00",
+                "room": "Village:Three Headed Monkey",
+                "slug": "camp2019-1394-session_analoge_neuronale_oszillatoren",
+                "title": "Analoge neuronale oszillatoren",
+                "subtitle": "location: Lagerfeuer (Workshop)",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "in dem workshop bauen teilnehmer*innen analoge neuronale schaltungen mit denen ein netzwerkmodell, wie es shun-ichi amari in den 70 er jahren entwickelt hat, realisiert wird.",
+                "persons": [],
+                "links": [
+                  "https://talx.thm.cloud/thms/talk/GHNDP7/"
+                ]
+              },
+              {
+                "id": 1387,
+                "guid": "25a15dc4-b039-4187-9162-e48116f54924",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Blockchain:_Proof_of_ignorance",
+                "logo": null,
+                "date": "2019-08-22T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "1:00",
+                "room": "Village:Three Headed Monkey",
+                "slug": "camp2019-1387-session_blockchain_proof_of_ignorance",
+                "title": "Blockchain: Proof of ignorance",
+                "subtitle": "Location: Planke (B\u00fchne)",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "A rant about liberty and autonomy for some!",
+                "persons": [],
+                "links": [
+                  "https://talx.thm.cloud/thms/talk/WCSCAX/"
+                ]
+              },
+              {
+                "id": 1396,
+                "guid": "32227f86-6b84-44d7-a4f2-adf19dc7a41f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Denn_so_wissen_wir,_was_sie_tun:_Das_Berliner_Transparenzgesetz",
+                "logo": null,
+                "date": "2019-08-22T19:30:00+02:00",
+                "start": "19:30",
+                "duration": "0:30",
+                "room": "Village:Three Headed Monkey",
+                "slug": "camp2019-1396-session_denn_so_wissen_wir_was_sie_tun_das_berliner_transparenzgesetz",
+                "title": "Denn so wissen wir, was sie tun: Das Berliner Transparenzgesetz",
+                "subtitle": "location: Planke (B\u00fchne)",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Ein Hoch auf Volksentscheide! Wir erz\u00e4hlen vom Berliner Volksentscheid f\u00fcr ein Transparenzgesetz, das wir ins Leben gerufen haben. Hier k\u00f6nnt ihr unterschreiben. Und wir zeigen, wie ihr mitmachen k\u00f6nnt.",
+                "persons": [],
+                "links": [
+                  "https://talx.thm.cloud/thms/talk/MRJQ7S/"
+                ]
+              },
+              {
+                "id": 1388,
+                "guid": "d8fc3e31-950d-4be2-945e-a598ef384d2c",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Dissecting_the_AMD_Platform_Security_Processor",
+                "logo": null,
+                "date": "2019-08-22T16:15:00+02:00",
+                "start": "16:15",
+                "duration": "1:00",
+                "room": "Village:Three Headed Monkey",
+                "slug": "camp2019-1388-session_dissecting_the_amd_platform_security_processor",
+                "title": "Dissecting the AMD Platform Security Processor",
+                "subtitle": "location: Planke (B\u00fchne)",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "The AMD Platform Security Processor (PSP) is a security subsystem in AMD CPUs comparable to the Intel ME and was introduced in 2013. It is essential for system startup \u2013 in fact, in runs before the main processor is even started \u2013 and offers runtime services to the main processor. For this, it has full access to the system memory space (inlcuding MMIO).  The PSP runs undocumented, proprietary firmware. This talk presents efforts of investigating what the PSP does and if it's secure. For the first time, it documents the PSP firmware's proprietary filesystem and provides insights into reverse-engineering such a deeply embedded system as the PSP. The talk further sheds light on how we might regain trust in AMD CPUs despite the delicate nature of the PSP.",
+                "persons": [],
+                "links": [
+                  "https://talx.thm.cloud/thms/talk/LEA7LY/"
+                ]
+              },
+              {
+                "id": 1398,
+                "guid": "31a91893-7b03-490b-9057-c55a49443789",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Logbuch:Netzpolitik",
+                "logo": null,
+                "date": "2019-08-22T20:15:00+02:00",
+                "start": "20:15",
+                "duration": "1:00",
+                "room": "Village:Three Headed Monkey",
+                "slug": "camp2019-1398-session_logbuch_netzpolitik",
+                "title": "Logbuch:Netzpolitik",
+                "subtitle": "Location: Planke (B\u00fchne)",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Live-Podcast",
+                "persons": [],
+                "links": [
+                  "https://talx.thm.cloud/thms/talk/LJQNKC/"
+                ]
+              },
+              {
+                "id": 1391,
+                "guid": "9508b1c9-0297-41e8-a116-38ae2642948f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Werdeteildesgesamtwiderstandes",
+                "logo": null,
+                "date": "2019-08-22T15:15:00+02:00",
+                "start": "15:15",
+                "duration": "2:00",
+                "room": "Village:Three Headed Monkey",
+                "slug": "camp2019-1391-session_werdeteildesgesamtwiderstandes",
+                "title": "Werdeteildesgesamtwiderstandes",
+                "subtitle": "location: Lagerfeuer (Workshop)",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "werdeteildesgesamtwiderstandes ist eine Objekt gewordene Handlungsanweisung die dazu anregt sich mit anderen menschen zu verbinden. Im Workshop bauen wir diesen analogen synthesizer, jeder kann mitmachen, vorkenntnisse sind nicht erforderlich, f\u00fcr menschen ab 8.",
+                "persons": [],
+                "links": [
+                  "https://talx.thm.cloud/thms/talk/ZMERMD/"
+                ]
+              }
+            ],
             "Village:Social Dist0rtion Protocol": [
               {
                 "id": 1360,
@@ -5051,96 +5229,6 @@
                 "persons": [],
                 "links": [
                   "https://hackaday.io/project/164092-npr-new-packet-radio"
-                ]
-              }
-            ],
-            "Village:Three Headed Monkey": [
-              {
-                "id": 1386,
-                "guid": "543676ca-8d19-480e-ba7a-5cb5e4749256",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Als_Netzaktivistin_im_Bundestag_%E2%80%93_Insider_Einblicke_und_Mitmachm%C3%B6glichkeiten",
-                "logo": null,
-                "date": "2019-08-22T18:15:00+02:00",
-                "start": "18:15",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1386-session_als_netzaktivistin_im_bundestag_insider_einblicke_und_mitmachmoeglichkeiten",
-                "title": "Als Netzaktivistin im Bundestag \u2013 Insider Einblicke und Mitmachm\u00f6glichkeiten",
-                "subtitle": "Location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "",
-                "abstract": "",
-                "description": "Der Bundestag ist anders als man denkt.",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/GRRQTX/"
-                ]
-              },
-              {
-                "id": 1387,
-                "guid": "25a15dc4-b039-4187-9162-e48116f54924",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Blockchain:_Proof_of_ignorance",
-                "logo": null,
-                "date": "2019-08-22T15:00:00+02:00",
-                "start": "15:00",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1387-session_blockchain_proof_of_ignorance",
-                "title": "Blockchain: Proof of ignorance",
-                "subtitle": "Location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "A rant about liberty and autonomy for some!",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/WCSCAX/"
-                ]
-              },
-              {
-                "id": 1388,
-                "guid": "d8fc3e31-950d-4be2-945e-a598ef384d2c",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Dissecting_the_AMD_Platform_Security_Processor",
-                "logo": null,
-                "date": "2019-08-22T16:15:00+02:00",
-                "start": "16:15",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1388-session_dissecting_the_amd_platform_security_processor",
-                "title": "Dissecting the AMD Platform Security Processor",
-                "subtitle": "location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "The AMD Platform Security Processor (PSP) is a security subsystem in AMD CPUs comparable to the Intel ME and was introduced in 2013. It is essential for system startup \u2013 in fact, in runs before the main processor is even started \u2013 and offers runtime services to the main processor. For this, it has full access to the system memory space (inlcuding MMIO).  The PSP runs undocumented, proprietary firmware. This talk presents efforts of investigating what the PSP does and if it's secure. For the first time, it documents the PSP firmware's proprietary filesystem and provides insights into reverse-engineering such a deeply embedded system as the PSP. The talk further sheds light on how we might regain trust in AMD CPUs despite the delicate nature of the PSP.",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/LEA7LY/"
-                ]
-              },
-              {
-                "id": 1391,
-                "guid": "9508b1c9-0297-41e8-a116-38ae2642948f",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Werdeteildesgesamtwiderstandes",
-                "logo": null,
-                "date": "2019-08-22T15:15:00+02:00",
-                "start": "15:15",
-                "duration": "2:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1391-session_werdeteildesgesamtwiderstandes",
-                "title": "Werdeteildesgesamtwiderstandes",
-                "subtitle": "location: Lagerfeuer (Workshop)",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "werdeteildesgesamtwiderstandes ist eine Objekt gewordene Handlungsanweisung die dazu anregt sich mit anderen menschen zu verbinden. Im Workshop bauen wir diesen analogen synthesizer, jeder kann mitmachen, vorkenntnisse sind nicht erforderlich, f\u00fcr menschen ab 8.",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/ZMERMD/"
                 ]
               }
             ],
@@ -5723,6 +5811,28 @@
                 "persons": [],
                 "links": [
                   "https://p0stap0calyptic.wordpress.com/"
+                ]
+              },
+              {
+                "id": 1400,
+                "guid": "f4b1cb32-414a-46cc-881c-16e6c35b72a1",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Trickmisch_-_Trickfilme_erstellen",
+                "logo": null,
+                "date": "2019-08-22T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "2:00",
+                "room": "Village:1komona",
+                "slug": "camp2019-1400-session_trickmisch_trickfilme_erstellen",
+                "title": "Trickmisch - Trickfilme erstellen",
+                "subtitle": "Trickfilmworkshop",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "",
+                "abstract": "",
+                "description": "",
+                "persons": [],
+                "links": [
+                  "http://trixmix.tv"
                 ]
               }
             ],
@@ -9194,6 +9304,74 @@
                 "description": "Learn how you can contribute to the nixpkgs git repo",
                 "persons": [],
                 "links": []
+              }
+            ],
+            "Village:Three Headed Monkey": [
+              {
+                "id": 1395,
+                "guid": "f43ae881-619f-4f35-90d4-472100ef18d2",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Cryptography_of_Killing_Proof-of-Work",
+                "logo": null,
+                "date": "2019-08-23T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "0:30",
+                "room": "Village:Three Headed Monkey",
+                "slug": "camp2019-1395-session_cryptography_of_killing_proof_of_work",
+                "title": "Cryptography of Killing Proof-of-Work",
+                "subtitle": "Location: Planke (B\u00fchne)",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "We briefly discuss the range of cryptographic primitives being used by protocols that seek to make proof-of-work protocols obsolete. We shall focus primarily on these cryptographic building blocks themselves, not overly on the different protocols built form them.",
+                "persons": [],
+                "links": [
+                  "https://talx.thm.cloud/thms/talk/Z3VR8P/"
+                ]
+              },
+              {
+                "id": 1397,
+                "guid": "3e47244d-4edd-40a4-9fc1-ca9902e2dffc",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Emulate,_fuzz,_break_kernels",
+                "logo": null,
+                "date": "2019-08-23T16:15:00+02:00",
+                "start": "16:15",
+                "duration": "0:30",
+                "room": "Village:Three Headed Monkey",
+                "slug": "camp2019-1397-session_emulate_fuzz_break_kernels",
+                "title": "Emulate, fuzz, break kernels",
+                "subtitle": "location: Planke (B\u00fchne)",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "This talk will give an introduction to kernel fuzzing using unicorefuzz.",
+                "persons": [],
+                "links": [
+                  "https://talx.thm.cloud/thms/talk/QULQKV/"
+                ]
+              },
+              {
+                "id": 1399,
+                "guid": "926e7afc-2e87-4ff8-bb9c-def9b7241870",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Sinn_von_Unsinn_unterscheiden_-_Glaub_ich%27s_oder_glaub_ich%27s_nicht%3F",
+                "logo": null,
+                "date": "2019-08-23T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "1:00",
+                "room": "Village:Three Headed Monkey",
+                "slug": "camp2019-1399-session_sinn_von_unsinn_unterscheiden_glaub_ich_s_oder_glaub_ich_s_nicht_",
+                "title": "Sinn von Unsinn unterscheiden - Glaub ich's oder glaub ich's nicht?",
+                "subtitle": "location: Planke (B\u00fchne)",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Pyramiden wurden von Au\u00dferirdischen gebaut! Impfen macht Autismus! Gott hat die Welt geschaffen!",
+                "persons": [],
+                "links": [
+                  "https://talx.thm.cloud/thms/talk/ARDC3J/"
+                ]
               }
             ],
             "Village:Haecksen": [
