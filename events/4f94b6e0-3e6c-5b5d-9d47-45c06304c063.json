@@ -5,7 +5,7 @@
   "date": "2019-08-23T16:15:00+02:00",
   "start": "16:15",
   "duration": "00:30",
-  "room": "Plank",
+  "room": "Plank (Stage)",
   "slug": "QULQKV",
   "url": "http://talx.thm.cloud/thms/talk/QULQKV/",
   "title": "(emulate|fuzz|break) kernels",
