@@ -5,7 +5,7 @@
   "date": "2019-08-23T15:15:00+02:00",
   "start": "15:15",
   "duration": "02:00",
-  "room": "Fireplace (Workshop)",
+  "room": "Fireplace (Workshop THM)",
   "slug": "QX7DQP",
   "url": "http://talx.thm.cloud/thms/talk/QX7DQP/",
   "title": "Finding insecure third-party librarys in dependencies, containers, APIs (OWASP Top10 - A9)",

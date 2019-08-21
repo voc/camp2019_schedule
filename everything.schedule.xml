@@ -1,5 +1,5 @@
 <schedule>
-  <version>Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Manwë; wiki 2019-08-22 00:40</version>
+  <version>Gacrux; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 01:06</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -548,6 +548,172 @@ We will use software methods (rooting) and hardware methods (flash dumping). Usi
         <attachments/>
       </event>
     </room>
+    <room name="Rockmore Booth">
+      <event id="10407" guid="5c4cc23f-aea8-444b-9803-283b7eaccb3e">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10407.html</url>
+        <logo>/system/events/logos/000/010/407/large/42.jpg?1566137242</logo>
+        <date>2019-08-21T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>03:00</duration>
+        <room>Rockmore Booth</room>
+        <slug>camp19lounge-10407-42</slug>
+        <title>#42</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/raute42">#42 auf Soundcloud</link>
+        </links>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Kemistry Lounge">
+      <event id="10402" guid="f75b8893-672e-4b35-a646-8cf4401ec379">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10402.html</url>
+        <logo>/system/events/logos/000/010/402/large/faubel.png?1566137743</logo>
+        <date>2019-08-21T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10402-christian_faubel_live</slug>
+        <title>Christian Faubel live</title>
+        <subtitle>electric live drums</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>In Songs from my analogue utopia I explore the self-organizing coordination dynamics of analog oscillators and the Utopian potentials of analogue communication. In analogue communication synchronization results from the mutual interaction of two or more processes, not a single process is dominating the other. It is in the mutuality where I see the Utopian potential of analogue communication. I undertake this exploration on the screen of an overhead projector where I place little motors driven by analogue oscillators. The motors hit on rubber bands which are equipped with piezo-pickups, rendering the rhythmical hitting of the motors into sound and into a shadow play.</abstract>
+        <description>Christian Faubel is an interdisciplinary scholar working in the differing fields of neuroscience,&#13;
+autonomous systems research and media art &amp; design. He holds a PhD in electrical engineering&#13;
+and has completed research on autonomous systems at the Institute for Neural Computation from&#13;
+2002–2012. In 2002 he founded derstrudel, a collective for the mediation of a relaxed approach&#13;
+to electronics robotics. Since 2002 he has taught more than 50 workshops in building simple&#13;
+analog robots at international venues and festivals. In his work, Christian Faubel is interested&#13;
+in what enables complex behavior, and how this may result from the interaction of very simple&#13;
+units and their interrelations. In his artworks, installations, workshops &amp; performances he tries to&#13;
+convey insights about theoretical concepts such as self-organisation, emergence or embodiment&#13;
+along an aesthetic dimension. He considers his artworks, workshops and performances to be in the&#13;
+tradition of philosophical toys as they combine the mediation of scientific concepts with pleasure&#13;
+and amusement.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://vimeo.com/christianfaubel">Videos</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10403" guid="10bdc438-1e73-460b-b1e3-8ff144742cb3">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10403.html</url>
+        <logo>/system/events/logos/000/010/403/large/morelle.jpg?1566138200</logo>
+        <date>2019-08-21T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>02:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10403-marco_morelle</slug>
+        <title>Marco Morelle</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Fusion, Garbicz, CCC, Hamburg, Berlin, die Welt, ...</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://www.mixcloud.com/Morelle/">Marco Morelle auf Mixcloud</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10404" guid="128cdfde-6151-4e02-97e0-f498194901f6">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10404.html</url>
+        <logo>/system/events/logos/000/010/404/large/bosch.jpg?1566334778</logo>
+        <date>2019-08-21T23:00:00+02:00</date>
+        <start>23:00</start>
+        <duration>02:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10404-dj_bosch</slug>
+        <title>DJ Bosch</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>DJ Bosch aka Tobias is resident DJ at Multisex party happening at Ohm/Berlin. The Multisex party promotes clarity on the dance floor along with diverse music. Depending on the booking, they create different dancing moods with classy tunes that craft a pure and effective house, disco and techno sound. Multisex is an attempt to encourage non-verbal communication on the dance floor. The goal is to get people together while dancing free. Besides that Tobias is doing the lights here at the CCC Lounge and is a regular light operator at Berghain/Panoramabar in Berlin.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/ingoboss">Ingo Boss auf Soundcloud</link>
+          <link href="https://soundcloud.com/strobotobia">DJ Bosch auf Soundcloud</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10405" guid="58341c87-7467-4a83-a882-6feda6f24fe1">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10405.html</url>
+        <logo>/system/events/logos/000/010/405/large/beton-500x500.jpg?1566203043</logo>
+        <date>2019-08-22T01:00:00+02:00</date>
+        <start>01:00</start>
+        <duration>02:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10405-loui_beton</slug>
+        <title>Loui Beton</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>This newborn monniker allows a Berlin-based devil of a fellow to appear cleared from what he is usually known for. Therefore we will keep the secret, suffice it to say: he is happily exploring the harder, darker domains rather than ruling the sunset floors as we have seen him doing in places as Garbicz festival. Experts of the scene may a find a hint in the URL below.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/klangsucht/lui-beton-landuca-maluca">Lui Beton on Soundcloud</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10406" guid="a3594b9a-f10f-47c9-82da-18e928dfe942">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10406.html</url>
+        <logo>/system/events/logos/000/010/406/large/brick.jpg?1566138810</logo>
+        <date>2019-08-22T03:00:00+02:00</date>
+        <start>03:00</start>
+        <duration>02:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10406-brick</slug>
+        <title>Brick</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>brick habe ich schon öfter auflegen erlebt als alle anderen Techno DJs. Das kommt daher weil ich Techno eigentlich noch nie besonders spannend fand. Zu kalt, zu monoton, zu sehr seiner reinen Funktionalität zugewandt. brick erfindet Techno nicht neu, aber er präsentiert ihn in einem wohl überlegten und angenehm temperierten Gewand. (Rudolf Mooshammer 2019 koloriert)</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/brick">brick auf soundcloud</link>
+        </links>
+        <attachments/>
+      </event>
+    </room>
     <room name="Plank">
       <event id="141" guid="74ebea5d-e24e-55a0-99a4-f13879394f48">
         <logo/>
@@ -871,235 +1037,6 @@ Check out my mixes on [Soundcloud] (https://soundcloud.com/barbnerdy)</descripti
         <answers/>
       </event>
     </room>
-    <room name="Fireplace (Workshop)">
-      <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
-        <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
-        <date>2019-08-21T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>01:00</duration>
-        <room>Fireplace (Workshop)</room>
-        <slug>VT87DH</slug>
-        <url>http://talx.thm.cloud/thms/talk/VT87DH/</url>
-        <title>Meet CADUS! Humanitarian Aid goes Open Source</title>
-        <subtitle/>
-        <track>Workshop</track>
-        <type>Talk</type>
-        <language>en</language>
-        <abstract>Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the "consultation hours" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.</abstract>
-        <description>During this particular format of "consultation hours" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).&#13;
-Consultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="43">
-            <code>ZUGZGF</code>
-            <public_name>Corinna Cadus</public_name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="116" guid="0d5c9c41-398c-5f2b-aeec-34f1ea5ac454">
-        <logo>/media/thms/images/A879ZK/cccamp19_3.png</logo>
-        <date>2019-08-21T15:15:00+02:00</date>
-        <start>15:15</start>
-        <duration>02:00</duration>
-        <room>Fireplace (Workshop)</room>
-        <slug>A879ZK</slug>
-        <url>http://talx.thm.cloud/thms/talk/A879ZK/</url>
-        <title>Einblicke in die Wettervorhersage</title>
-        <subtitle/>
-        <track>Workshop</track>
-        <type>Workshop</type>
-        <language>de</language>
-        <abstract>Ist das Wetter immer so unberechenbar wie es scheint? Was passiert in der Atmosphäre? Und wie könnt ihr selbst besser das Wetter vorhersagen?</abstract>
-        <description>Täglich betrifft uns alle das Wetter. Aber was passiert eigentlich in der Atmosphäre? Um das zu verstehen wird in der synoptischen Meteorologie die Analyse *Wie ist das Wetter?* , die Diagnose *Warum ist das Wetter so?* und schlussendlich die Prognose *Wie wird das Wetter?* des Wetters betrachtet. Damit auch ihr das Wetter besser einschätzen könnt und nicht nur auf die Symbole in den Wetterapps angewiesen seid, möchte ich euch erste Einblicke in die Wettervorhersage geben. Dazu gucken wir uns gemeinsam Wetterkarten an und geben einen Tipp (z.B. Temperatur, Luftdruck, Regenmenge) für den nächsten Tag ab.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="27">
-            <code>Z8VADQ</code>
-            <public_name>Daniela Schoster</public_name>
-            <biography>Studentin MA Meteorologie</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="Kemistry Lounge">
-      <event id="10402" guid="f75b8893-672e-4b35-a646-8cf4401ec379">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10402.html</url>
-        <logo>/system/events/logos/000/010/402/large/faubel.png?1566137743</logo>
-        <date>2019-08-21T20:00:00+02:00</date>
-        <start>20:00</start>
-        <duration>01:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10402-christian_faubel_live</slug>
-        <title>Christian Faubel live</title>
-        <subtitle>electric live drums</subtitle>
-        <track>Music</track>
-        <type>concert</type>
-        <language>en</language>
-        <abstract>In Songs from my analogue utopia I explore the self-organizing coordination dynamics of analog oscillators and the Utopian potentials of analogue communication. In analogue communication synchronization results from the mutual interaction of two or more processes, not a single process is dominating the other. It is in the mutuality where I see the Utopian potential of analogue communication. I undertake this exploration on the screen of an overhead projector where I place little motors driven by analogue oscillators. The motors hit on rubber bands which are equipped with piezo-pickups, rendering the rhythmical hitting of the motors into sound and into a shadow play.</abstract>
-        <description>Christian Faubel is an interdisciplinary scholar working in the differing fields of neuroscience,&#13;
-autonomous systems research and media art &amp; design. He holds a PhD in electrical engineering&#13;
-and has completed research on autonomous systems at the Institute for Neural Computation from&#13;
-2002–2012. In 2002 he founded derstrudel, a collective for the mediation of a relaxed approach&#13;
-to electronics robotics. Since 2002 he has taught more than 50 workshops in building simple&#13;
-analog robots at international venues and festivals. In his work, Christian Faubel is interested&#13;
-in what enables complex behavior, and how this may result from the interaction of very simple&#13;
-units and their interrelations. In his artworks, installations, workshops &amp; performances he tries to&#13;
-convey insights about theoretical concepts such as self-organisation, emergence or embodiment&#13;
-along an aesthetic dimension. He considers his artworks, workshops and performances to be in the&#13;
-tradition of philosophical toys as they combine the mediation of scientific concepts with pleasure&#13;
-and amusement.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://vimeo.com/christianfaubel">Videos</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10403" guid="10bdc438-1e73-460b-b1e3-8ff144742cb3">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10403.html</url>
-        <logo>/system/events/logos/000/010/403/large/morelle.jpg?1566138200</logo>
-        <date>2019-08-21T21:00:00+02:00</date>
-        <start>21:00</start>
-        <duration>02:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10403-marco_morelle</slug>
-        <title>Marco Morelle</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>Fusion, Garbicz, CCC, Hamburg, Berlin, die Welt, ...</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://www.mixcloud.com/Morelle/">Marco Morelle auf Mixcloud</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10404" guid="128cdfde-6151-4e02-97e0-f498194901f6">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10404.html</url>
-        <logo>/system/events/logos/000/010/404/large/bosch.jpg?1566334778</logo>
-        <date>2019-08-21T23:00:00+02:00</date>
-        <start>23:00</start>
-        <duration>02:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10404-dj_bosch</slug>
-        <title>DJ Bosch</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>DJ Bosch aka Tobias is resident DJ at Multisex party happening at Ohm/Berlin. The Multisex party promotes clarity on the dance floor along with diverse music. Depending on the booking, they create different dancing moods with classy tunes that craft a pure and effective house, disco and techno sound. Multisex is an attempt to encourage non-verbal communication on the dance floor. The goal is to get people together while dancing free. Besides that Tobias is doing the lights here at the CCC Lounge and is a regular light operator at Berghain/Panoramabar in Berlin.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://soundcloud.com/ingoboss">Ingo Boss auf Soundcloud</link>
-          <link href="https://soundcloud.com/strobotobia">DJ Bosch auf Soundcloud</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10405" guid="58341c87-7467-4a83-a882-6feda6f24fe1">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10405.html</url>
-        <logo>/system/events/logos/000/010/405/large/beton-500x500.jpg?1566203043</logo>
-        <date>2019-08-22T01:00:00+02:00</date>
-        <start>01:00</start>
-        <duration>02:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10405-loui_beton</slug>
-        <title>Loui Beton</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>This newborn monniker allows a Berlin-based devil of a fellow to appear cleared from what he is usually known for. Therefore we will keep the secret, suffice it to say: he is happily exploring the harder, darker domains rather than ruling the sunset floors as we have seen him doing in places as Garbicz festival. Experts of the scene may a find a hint in the URL below.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://soundcloud.com/klangsucht/lui-beton-landuca-maluca">Lui Beton on Soundcloud</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10406" guid="a3594b9a-f10f-47c9-82da-18e928dfe942">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10406.html</url>
-        <logo>/system/events/logos/000/010/406/large/brick.jpg?1566138810</logo>
-        <date>2019-08-22T03:00:00+02:00</date>
-        <start>03:00</start>
-        <duration>02:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10406-brick</slug>
-        <title>Brick</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>brick habe ich schon öfter auflegen erlebt als alle anderen Techno DJs. Das kommt daher weil ich Techno eigentlich noch nie besonders spannend fand. Zu kalt, zu monoton, zu sehr seiner reinen Funktionalität zugewandt. brick erfindet Techno nicht neu, aber er präsentiert ihn in einem wohl überlegten und angenehm temperierten Gewand. (Rudolf Mooshammer 2019 koloriert)</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://soundcloud.com/brick">brick auf soundcloud</link>
-        </links>
-        <attachments/>
-      </event>
-    </room>
-    <room name="Rockmore Booth">
-      <event id="10407" guid="5c4cc23f-aea8-444b-9803-283b7eaccb3e">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10407.html</url>
-        <logo>/system/events/logos/000/010/407/large/42.jpg?1566137242</logo>
-        <date>2019-08-21T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>03:00</duration>
-        <room>Rockmore Booth</room>
-        <slug>camp19lounge-10407-42</slug>
-        <title>#42</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://soundcloud.com/raute42">#42 auf Soundcloud</link>
-        </links>
-        <attachments/>
-      </event>
-    </room>
     <room name="Hackcenter">
       <event id="1233" guid="f5d15859-c9b5-44c8-8565-cb22daacedc8">
         <url>https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant</url>
@@ -1191,6 +1128,69 @@ and amusement.</description>
         <links>
           <link>http://help.ccc.de/awareness</link>
         </links>
+      </event>
+    </room>
+    <room name="Fireplace (Workshop THM)">
+      <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
+        <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
+        <date>2019-08-21T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>VT87DH</slug>
+        <url>http://talx.thm.cloud/thms/talk/VT87DH/</url>
+        <title>Meet CADUS! Humanitarian Aid goes Open Source</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the "consultation hours" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.</abstract>
+        <description>During this particular format of "consultation hours" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).&#13;
+Consultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="43">
+            <code>ZUGZGF</code>
+            <public_name>Corinna Cadus</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="116" guid="0d5c9c41-398c-5f2b-aeec-34f1ea5ac454">
+        <logo>/media/thms/images/A879ZK/cccamp19_3.png</logo>
+        <date>2019-08-21T15:15:00+02:00</date>
+        <start>15:15</start>
+        <duration>02:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>A879ZK</slug>
+        <url>http://talx.thm.cloud/thms/talk/A879ZK/</url>
+        <title>Einblicke in die Wettervorhersage</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Ist das Wetter immer so unberechenbar wie es scheint? Was passiert in der Atmosphäre? Und wie könnt ihr selbst besser das Wetter vorhersagen?</abstract>
+        <description>Täglich betrifft uns alle das Wetter. Aber was passiert eigentlich in der Atmosphäre? Um das zu verstehen wird in der synoptischen Meteorologie die Analyse *Wie ist das Wetter?* , die Diagnose *Warum ist das Wetter so?* und schlussendlich die Prognose *Wie wird das Wetter?* des Wetters betrachtet. Damit auch ihr das Wetter besser einschätzen könnt und nicht nur auf die Symbole in den Wetterapps angewiesen seid, möchte ich euch erste Einblicke in die Wettervorhersage geben. Dazu gucken wir uns gemeinsam Wetterkarten an und geben einen Tipp (z.B. Temperatur, Luftdruck, Regenmenge) für den nächsten Tag ab.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="27">
+            <code>Z8VADQ</code>
+            <public_name>Daniela Schoster</public_name>
+            <biography>Studentin MA Meteorologie</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
       </event>
     </room>
     <room name="Village:Haecksen">
@@ -2041,88 +2041,6 @@ and amusement.</description>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Eal">Eal</person>
         </persons>
         <links/>
-      </event>
-    </room>
-    <room name="Village:Three Headed Monkey">
-      <event id="1389" guid="520aa887-cb13-4374-82df-40ec2e9e105f">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:FridaysForFuture_was,_wie,_warum%3F</url>
-        <logo/>
-        <date>2019-08-21T19:15:00+02:00</date>
-        <start>19:15</start>
-        <duration>0:30</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1389-session_fridaysforfuture_was_wie_warum_</slug>
-        <title>FridaysForFuture was, wie, warum?</title>
-        <subtitle>Location: Feuerstelle (Workshop)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>“Wir sind nicht nur verantwortlich für das, was wir tun, sondern auch für das was wir nicht tun”</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/KXW3SP/</link>
-        </links>
-      </event>
-      <event id="1413" guid="f1a9efce-258f-4f74-ac6b-9550ca0d82c1">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_CADUS!_Humanitarian_Aid_goes_Open_Source</url>
-        <logo/>
-        <date>2019-08-21T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1413-session_meet_cadus_humanitarian_aid_goes_open_source</slug>
-        <title>Meet CADUS! Humanitarian Aid goes Open Source</title>
-        <subtitle>Location: Feuerstelle (Workshop)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the "consultation hours" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/VT87DH/</link>
-        </links>
-      </event>
-      <event id="1390" guid="15ad1046-6240-4f7b-8e84-fa94fbe1c6fa">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Nice_View_Reporter</url>
-        <logo/>
-        <date>2019-08-21T20:00:00+02:00</date>
-        <start>20:00</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1390-session_nice_view_reporter</slug>
-        <title>Nice View Reporter</title>
-        <subtitle>location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Projektwoche an einer Schule in Msambweni, Kenia</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/PEXUEM/</link>
-        </links>
-      </event>
-      <event id="1392" guid="8e26af52-718f-4fa8-99fe-12111959400d">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:%C3%9Cber_die_Nachhaltigkeit_von_Software</url>
-        <logo/>
-        <date>2019-08-21T21:10:00+02:00</date>
-        <start>21:10</start>
-        <duration>0:30</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1392-session_ueber_die_nachhaltigkeit_von_software</slug>
-        <title>Über die Nachhaltigkeit von Software</title>
-        <subtitle>location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Software ist essenzieller Bestandteil und Ressource unserer Dienstleistungs- und Wissensgesellschaft sowie unserer Infrastrukturen. Als Ressource betrachtet verhält sich der Konsum und Erhalt von Software jedoch in vielen Dingen konträr zu natürlichen Ressourcen. Eine Reflektion über die besonderen Eigenschaften der "Ressource Software" und wie wir diese nutzen können um Software nachhaltig zu gestalten und damit auch für die Zukunft zu erhalten.</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/NWNHJ3/</link>
-        </links>
       </event>
     </room>
     <room name="Village:Schaffenburg">
@@ -3961,6 +3879,226 @@ We made https://janitor.technology to help newcomers and developers experiment, 
         <answers/>
       </event>
     </room>
+    <room name="Rockmore Booth">
+      <event id="10408" guid="6c9f102a-0aed-4360-a31b-2bdb777d0cd8">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10408.html</url>
+        <logo>/system/events/logos/000/010/408/large/AEX-500x500.jpg?1566203160</logo>
+        <date>2019-08-22T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>03:00</duration>
+        <room>Rockmore Booth</room>
+        <slug>camp19lounge-10408-aex</slug>
+        <title>AEX</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Berlin-based artist AEX delivers complex and catching ambient spheres. From warm and melodic explorations via a rather technical approach to darker layers of machine music, occasionally enriched by her voice, this young live act blends a dense weave of soundscapes, beats and repetitive bleeps. She has quite a special connection to the CCC: at the age of 15, her father took her to the congress in Hamburg, where she discovered her passion for technical informatics in which she dived deeply hereafter.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/aaeexx">AEX on Soundcloud</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10409" guid="4b199723-ca6c-4b84-b100-a6ab18f8412e">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10409.html</url>
+        <logo>/system/events/logos/000/010/409/large/kaubl.jpg?1566139203</logo>
+        <date>2019-08-22T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>03:00</duration>
+        <room>Rockmore Booth</room>
+        <slug>camp19lounge-10409-kaubl</slug>
+        <title>kAUBL</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Seinen Freunden ist Marcus Kestner unter vielen Namen bekannt. Einer&#13;
+davon ist „Der Schrauber“, der nicht nur von seinen Skills in Sachen Technik&#13;
+und Handwerk herrührt, sondern auch von seiner Art der Musikproduktion.&#13;
+Seit kurzem veröffentlicht er jedoch unter seinem neuem Pseudonym Kaubl&#13;
+und spielt auch die ein oder andere Platte aus der Sammlung dem geneigten&#13;
+Publikum vor.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/kaubl">kAUBL on Soundcloud</link>
+        </links>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Kemistry Lounge">
+      <event id="10410" guid="8cde404d-139e-48a1-a6c9-0924a5c2ef16">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10410.html</url>
+        <logo>/system/events/logos/000/010/410/large/piet.jpg?1566144171</logo>
+        <date>2019-08-22T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>02:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10410-piet</slug>
+        <title>Piet</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Hello there, I am Piet 24 years old and hobby DJ.&#13;
+I like to meet new people and exchange ideas.&#13;
+Besides, I administrate global DNS servers professionally.&#13;
+In my spare time everything revolves around people and music.&#13;
+If you want to get to know me, talk to me, I am a very open person.&#13;
+</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://www.mixcloud.com/pietbear/">Piet on Mixcloud</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10411" guid="73a0d138-0a2a-4147-8606-1d2c5d71a566">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10411.html</url>
+        <logo>/system/events/logos/000/010/411/large/gb_schema_white.gif?1566145861</logo>
+        <date>2019-08-22T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>01:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10411-irq7</slug>
+        <title>irq7</title>
+        <subtitle>live 8bit</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>irq7 is a so called "chiptune-artist" who spend a lot of time using old computer-hardware like Gameboys, Commodore-computers and other gadgets to produce a new kind of music.&#13;
+Cheesy melody's and bumping beats are building dance-tracks, which are not only interesting for fans of retro-sounds. &#13;
+The songs are somewhere between Electro, Breaks, Drum &amp; Bass and oldschool Chiptunes.</abstract>
+        <description>He is playing regularly live-shows since 2006 at many locations supporting international acts (Vienna, New York, Cologne, Frankfurt...). &#13;
+&#13;
+The first full length album was released in spring 2010 and called "Revenge of the Calm". It was produced one with just one Gameboy.&#13;
+A few month later, the "It's not me EP" was released which contains cover-versions of his favorite songs coming from old computers like the Commodore-C64 and the Amiga.&#13;
+In 2011 the "Girls &amp; Gameboys EP" was released and well received. The latest release is from 2018 and called "Large Chiptune Collider" and distributed on audio-tape only.&#13;
+&#13;
+Beside Gameboy-music, irq7 is focusing on tiny music-instruments and gadgets. All activities are under the umbrella-term "Noizebox", &#13;
+and can be found at http://irq7.blogspot.com. "Noizebox" is not just the name of the blog - in fact it is a battery-powered speaker &#13;
+build from various recycled electronic components. You can simple sit on the Noizebox and play with various electronic devices (e.g. Gameboy, Keyboards, Synth's etc.) &#13;
+&#13;
+irq7 is also organizing a annual chiptune-festival in Nuremberg called "CHIP HITS THE FAN" featuring international Artist, Workshops and an Open-Stage.&#13;
+</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="http://soundcloud.com/irq7">irq7 auf Soundcloud</link>
+          <link href="http://irq7.blogspot.com">irq7 Webseite</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10414" guid="74d83a58-5d04-4300-9e60-d8a4ec8cc60b">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10414.html</url>
+        <logo>/system/events/logos/000/010/414/large/shroombab.jpg?1566146133</logo>
+        <date>2019-08-22T23:00:00+02:00</date>
+        <start>23:00</start>
+        <duration>02:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10414-shroombab</slug>
+        <title>Shroombab</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Barbara Wimmer tritt unter dem Namen Shroombab seit 1998 als Drum&amp;Bass-DJ auf. Sie hat in 28 Ländern der Welt und mehr als 600 Clubs und auf zahlreichen Festivals gespielt.Zudem hat sie Veröffentlichungen auf mehr als zehn Labels - von ihrem Heimatland Österreich, bis hin zu UK, DE und den USA. </abstract>
+        <description>Shroombab, DJ, producer and founder of High Tension Recordings, is a fixed “institution” of Austrias drum&amp;bass-scene. She was born in Upper Austria and moved to Vienna in 1997 – where she started to change her instruments from flute &amp; guitar to turntables &amp; sequencers. Successfully: Gigs in over 28 countries all over the world and several record releases on quality labels followed.&#13;
+&#13;
+Shroombabs efforts to create her own music and get perfect at spinning records were strong. But not enough, she combined creativity with her talent to organize things: She set up her own Drum’n’Bass clubnight called “Bass Land” (with MC Terra), her own label “High Tension Recordings” and founded the “Junglistic Sistaz” – first a successful girls duo with MC Terra, later a database for women in drum&amp;bass, which got a quality reference for female DJs especially in Eastern Europe.&#13;
+&#13;
+Apart from numerous national DJ bookings at the best and most established clubs all over Austria, Shroombab got a residency at D.Kay &amp; Raw.fulls weekly clubnight "Beat It" at the famous Flex in Vienna which is running since 2004. Her international DJ-gigs brought her to places like Cape Town, Johannesburg, Moscow, St. Petersburg, Talin, Seattle, Paris, London, Barcelona, Berlin, Bukarest, Bratislava and many more cities and festival.&#13;
+&#13;
+Her favorite producers are Calyx, Matrix, Ed Rush &amp; Optical, Teebee, Break, Benny Page, Deekline, Ils, Aquasky, DZ, High Rankin, Skream, Marlow.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/shroombab">Shroombab auf Soundcloud</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10415" guid="ed456981-5e9b-4305-9d53-2235bd49e259">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10415.html</url>
+        <logo>/system/events/logos/000/010/415/large/barbnerdy.jpg?1566146674</logo>
+        <date>2019-08-23T01:00:00+02:00</date>
+        <start>01:00</start>
+        <duration>02:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10415-barbnerdy</slug>
+        <title>BarbNerdy</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>My philosophy: Sharing means caring – knowledge is growing when its shared.</abstract>
+        <description>I started DJ'ing in 1990 in Munich with Garage House, NY Style, changed later to Chicago House and ended up with Detroit Techno (1994) but decided to play “Freestyle” very early (1996) as I got bored of playing the same kind of music all night long. In the 90ies I played a lot of gigs all over Europe along all the big names at this time. Even Tony Humphries, Jeff Mills, Colin Faver, DJ Hell. In Clubs like Tresor Berlin, E-Werk Berlin, Museum of Modern Art in Copenhagen, Flex inVienna, Raves in Italy, small and big Festivals and many many more. &#13;
+1997 I moved to Hamburg where I started a monthyl club night called Club Neu at Club Tempelhof. There we played a really cool freestyle programm, from Hip-Hop to Djungle, from Electro via Disco to House or Beatz. And the crowd there was really cool. They danced to everything we "served". &#13;
+I also organized there a really cool night with Cheap Records from Vienna meets Clear Records (Matthew Herbert) or the huge DJ Hell at Rote Flora event. Somtimes I had a chance to play the famour Pudel Club which was also big fun!&#13;
+In 1999 I moved to Berlin where I started "Support Your Local Ghetto" which was the name of my weekly Radio Show on Twen.FM a pirate radio here in Berlin. I had a lot of fun playing my fave tunes plus having guests from all over the world. Mostly my guests where just from the neighborhood. I love my hood. There are so many talented artists which have to be heard. So, lets stay local. But local not only in the meaning of territory, local means also all the friends and people you have in your neighborhood. Will never forget the outstanding show with Blake Baxter and Abe Duque or with the Stones Throw Dudes. Some recordings of this shows must still be in the interwebs. Will try to find and publish them here.&#13;
+In 2011 I reactived the "support your local ghetto" This time at the lovely Panke in Berlin Wedding as a monthly club night. Every last friday of the month. This event I did for 3 years until April 2014.&#13;
+Work in Music:&#13;
+I started working in the music – biz also very early - in the very early 90ies in Munich where I started the booking agency around the Label Disko B and the Club Ultraschall. (Artists: DJ Hell, Blake Baxter, Abe Duque, Patrick Pulsinger and many more).&#13;
+&#13;
+In ’96 a major label called and I moved to Hamburg to promote great artists like: Goldie, Roni Size, Money Mark, Portishead etc… Parallel I had a weekly residency at Club Tempelhof, where I played my “Freestyle” program. Of course way too early, so after 1 year it was done. After my experience with a Major Label I did some freelance jobs till the next milestone in my live started: Press Speaker Assistant of the Loveparade ’99 in Berlin. I moved to Berlin, worked for the Sonar Kollektiv (Label collective of Jazzanova) until a friend of mine hired me to help him setting up the Software Startup go_Disko*. I was really happy there but one day I received a mail from iTunes, where they offered me the Job as “Head of Editorial” for the German iTunes store. I started working there right after they opened in Germany – in a team of 2 people – for the next 3,5 years. Great Time it was!&#13;
+After this great experience I was totally focussed on the topic “future of things.. ” and changed after some nice little jobs for BPitch Control, Puppetmastaz etc..from the music biz to the online biz. Cause at this time (and most is still) every cool new thing was / is forbidden by law in Germany. I organized the re:publica 09 (started 6 weeks before and put all strings together) and now I’m an Online Project Manager, have my 2 own blogs, still do DJing and diggin music. I’m very curious about new strategies, recommendation systems, apps and have a dream of an aggregated platform with something like a semantic search, where you can find everything about your fave artist, movie etc.. Where you can listen for free, pay for a download or even pay per stream. All in one platform. Since 2 years I’m a paying Spotify customer. Started in Sept. 2007 using Soundcloud for my DJ mixes. All my 23 Mixes where played 15.000 times, downloaded 3.100 times in 107 countries since than. I dig music all through the internet, get recommendations from my social network, share my findings and pay wherever I can pay. I’m a very proud owner of 15.000 Vinyls and have around 160 GB well sorted music on my hard drive.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/barbnerdy/">BarbNerdy on Soundcloud</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10416" guid="5da09557-9be1-40d8-955d-153c5cb9a9cb">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10416.html</url>
+        <logo>/system/events/logos/000/010/416/large/tadata.jpg?1566147158</logo>
+        <date>2019-08-23T03:00:00+02:00</date>
+        <start>03:00</start>
+        <duration>02:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10416-t-data</slug>
+        <title>T-Data</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Clear Memory member, future record store owner and Data Wrangler based in Leipzig. &#13;
+&#13;
+Transforming Breaks, UK Bass, Footwork, bossy Electro and Jungle into another format with the intent of making it more appropriate and valuable for a variety of listeners.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/tdata">T-Data on Soundcloud</link>
+        </links>
+        <attachments/>
+      </event>
+    </room>
     <room name="Plank">
       <event id="139" guid="0ef9486d-7f7a-5298-9042-3e55c19768d2">
         <logo/>
@@ -4267,325 +4405,7 @@ Mit Bildern, Screenshots und vielleicht auch dem einen oder anderen kurzen Video
         <answers/>
       </event>
     </room>
-    <room name="Fireplace (Workshop)">
-      <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
-        <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
-        <date>2019-08-22T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>01:00</duration>
-        <room>Fireplace (Workshop)</room>
-        <slug>VT87DH</slug>
-        <url>http://talx.thm.cloud/thms/talk/VT87DH/</url>
-        <title>Meet CADUS! Humanitarian Aid goes Open Source</title>
-        <subtitle/>
-        <track>Workshop</track>
-        <type>Talk</type>
-        <language>en</language>
-        <abstract>Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the "consultation hours" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.</abstract>
-        <description>During this particular format of "consultation hours" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).&#13;
-Consultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="43">
-            <code>ZUGZGF</code>
-            <public_name>Corinna Cadus</public_name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="120" guid="3690343b-b02c-57a6-8c37-d82113a0843b">
-        <logo>/media/thms/images/ZMERMD/photo_2019-07-18_18-58-45.jpg</logo>
-        <date>2019-08-22T15:15:00+02:00</date>
-        <start>15:15</start>
-        <duration>02:00</duration>
-        <room>Fireplace (Workshop)</room>
-        <slug>ZMERMD</slug>
-        <url>http://talx.thm.cloud/thms/talk/ZMERMD/</url>
-        <title>werdeteildesgesamtwiderstandes</title>
-        <subtitle/>
-        <track>Workshop</track>
-        <type>Workshop</type>
-        <language>de</language>
-        <abstract>werdeteildesgesamtwiderstandes ist eine Objekt gewordene Handlungsanweisung die dazu anregt sich mit anderen menschen zu verbinden. Im Workshop bauen wir diesen analogen synthesizer, jeder kann mitmachen, vorkenntnisse sind nicht erforderlich, für menschen ab 8.</abstract>
-        <description>werdeteildesgesamtwiderstandes ist eine Objekt gewordene Handlungsanweisung die dazu anregt sich mit anderen menschen zu verbinden. &#13;
-werdeteildesgesamtwiderstandes ist ein analoger Synthesizer bei dem du selber teil der Schaltung wirst,&#13;
-sobald seine beiden enden über einen Körperkontakt geschlossen werden, tönt der gesamtwiderstand. die Tonhöhe hängt dabei von der Anzahl der beteiligten Menschen ab. je mehr Teilnehmer*innen desto tiefer wird der Ton. du kannst den Gesamtwiderstand wie ein Instrument spielen, ein einfacher Rhythmus entsteht durch wiederholtes anfassen und loslassen. gleichzeitig bildet sich beim spielen ein kleines soziales Netzwerk mit der Besonderheit dass dieses Netzwerk ganz physisch ist und nicht virtuell. nur die haut leitet den Strom und nur durch anfassen entsteht der ton. dies ist in Zeiten virtueller sozialer Netzwerke ein erfrischendes Erlebnis das großen spaß macht.&#13;
-maximal 8 teilnehmer*innen, alter ab 8</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="29">
-            <code>3TMUJD</code>
-            <public_name>christian faubel</public_name>
-            <biography>Christian Faubel ist ein interdisziplinärer Wissenschaftler und Künstler. Er ist promovierter Elektroingenieur und hat von 2002-2012 am Institut für Neuroinformatik zu autonomen Systemen geforscht. Von 2012 bis 2018 war er Dozent an der Kunsthochschule für Medien Köln im Bereich experimentelle Informatik. 2002 hat er das Kollektiv derstrudel, zur Vermittlung eines entspannten Zugangs zu Elektronik und Robotik, gegründet. Mit derstrudel hat er mehr als 50 Workshops zum Bau einfacher analoger Roboter im Rahmen internationaler Festivals durchgeführt. In seiner künstlerischen Arbeit interessiert ihn was autonomes Verhalten ermöglicht und wie komplexes Verhalten aus dem Zusammenspiel und den Interaktionsdynamiken einfacher Elemente entstehen kann. Mit seinen Arbeiten macht er theoretische Konzepte wie Selbstorganisation, Emergenz oder Embodiment ästhetisch erfahrbar und sieht seine Arbeiten in der Tradition philosophischer Spielzeuge.</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="123" guid="30f4400a-23d9-5b81-9beb-875217813515">
-        <logo/>
-        <date>2019-08-22T18:30:00+02:00</date>
-        <start>18:30</start>
-        <duration>02:00</duration>
-        <room>Fireplace (Workshop)</room>
-        <slug>GHNDP7</slug>
-        <url>http://talx.thm.cloud/thms/talk/GHNDP7/</url>
-        <title>analoge neuronale oszillatoren</title>
-        <subtitle/>
-        <track>Workshop</track>
-        <type>Workshop</type>
-        <language>en</language>
-        <abstract>in dem workshop bauen teilnehmer*innen analoge neuronale schaltungen mit denen ein netzwerkmodell, wie es shun-ichi amari in den 70 er jahren entwickelt hat, realisiert wird.</abstract>
-        <description>in dem workshop bauen teilnehmer*innen analoge neuronale schaltungen mit denen ein netzwerkmodell, wie es shun-ichi amari in den 70 er jahren entwickelt hat, realisiert wird.  Im workshop geht es darum ein gespür für die neuronalen netzen intrinsischen schwingungen zu entwickeln und mit diesen zu spielen und krach oder musik zu machen.&#13;
-grundlage für den workshop sind sogenannte pop-neuronen schaltungen, die ich gemeinsam mit wolfgang&#13;
-spahn für eine künstlerische installation, symbolic grounding, entwickelt habe. hier ein kurzes video von einem früherem workshop https://vimeo.com/273578536, pop-neurone&#13;
-https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="29">
-            <code>3TMUJD</code>
-            <public_name>christian faubel</public_name>
-            <biography>Christian Faubel ist ein interdisziplinärer Wissenschaftler und Künstler. Er ist promovierter Elektroingenieur und hat von 2002-2012 am Institut für Neuroinformatik zu autonomen Systemen geforscht. Von 2012 bis 2018 war er Dozent an der Kunsthochschule für Medien Köln im Bereich experimentelle Informatik. 2002 hat er das Kollektiv derstrudel, zur Vermittlung eines entspannten Zugangs zu Elektronik und Robotik, gegründet. Mit derstrudel hat er mehr als 50 Workshops zum Bau einfacher analoger Roboter im Rahmen internationaler Festivals durchgeführt. In seiner künstlerischen Arbeit interessiert ihn was autonomes Verhalten ermöglicht und wie komplexes Verhalten aus dem Zusammenspiel und den Interaktionsdynamiken einfacher Elemente entstehen kann. Mit seinen Arbeiten macht er theoretische Konzepte wie Selbstorganisation, Emergenz oder Embodiment ästhetisch erfahrbar und sieht seine Arbeiten in der Tradition philosophischer Spielzeuge.</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="Kemistry Lounge">
-      <event id="10410" guid="8cde404d-139e-48a1-a6c9-0924a5c2ef16">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10410.html</url>
-        <logo>/system/events/logos/000/010/410/large/piet.jpg?1566144171</logo>
-        <date>2019-08-22T20:00:00+02:00</date>
-        <start>20:00</start>
-        <duration>02:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10410-piet</slug>
-        <title>Piet</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>Hello there, I am Piet 24 years old and hobby DJ.&#13;
-I like to meet new people and exchange ideas.&#13;
-Besides, I administrate global DNS servers professionally.&#13;
-In my spare time everything revolves around people and music.&#13;
-If you want to get to know me, talk to me, I am a very open person.&#13;
-</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://www.mixcloud.com/pietbear/">Piet on Mixcloud</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10411" guid="73a0d138-0a2a-4147-8606-1d2c5d71a566">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10411.html</url>
-        <logo>/system/events/logos/000/010/411/large/gb_schema_white.gif?1566145861</logo>
-        <date>2019-08-22T22:00:00+02:00</date>
-        <start>22:00</start>
-        <duration>01:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10411-irq7</slug>
-        <title>irq7</title>
-        <subtitle>live 8bit</subtitle>
-        <track>Music</track>
-        <type>concert</type>
-        <language>en</language>
-        <abstract>irq7 is a so called "chiptune-artist" who spend a lot of time using old computer-hardware like Gameboys, Commodore-computers and other gadgets to produce a new kind of music.&#13;
-Cheesy melody's and bumping beats are building dance-tracks, which are not only interesting for fans of retro-sounds. &#13;
-The songs are somewhere between Electro, Breaks, Drum &amp; Bass and oldschool Chiptunes.</abstract>
-        <description>He is playing regularly live-shows since 2006 at many locations supporting international acts (Vienna, New York, Cologne, Frankfurt...). &#13;
-&#13;
-The first full length album was released in spring 2010 and called "Revenge of the Calm". It was produced one with just one Gameboy.&#13;
-A few month later, the "It's not me EP" was released which contains cover-versions of his favorite songs coming from old computers like the Commodore-C64 and the Amiga.&#13;
-In 2011 the "Girls &amp; Gameboys EP" was released and well received. The latest release is from 2018 and called "Large Chiptune Collider" and distributed on audio-tape only.&#13;
-&#13;
-Beside Gameboy-music, irq7 is focusing on tiny music-instruments and gadgets. All activities are under the umbrella-term "Noizebox", &#13;
-and can be found at http://irq7.blogspot.com. "Noizebox" is not just the name of the blog - in fact it is a battery-powered speaker &#13;
-build from various recycled electronic components. You can simple sit on the Noizebox and play with various electronic devices (e.g. Gameboy, Keyboards, Synth's etc.) &#13;
-&#13;
-irq7 is also organizing a annual chiptune-festival in Nuremberg called "CHIP HITS THE FAN" featuring international Artist, Workshops and an Open-Stage.&#13;
-</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="http://soundcloud.com/irq7">irq7 auf Soundcloud</link>
-          <link href="http://irq7.blogspot.com">irq7 Webseite</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10414" guid="74d83a58-5d04-4300-9e60-d8a4ec8cc60b">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10414.html</url>
-        <logo>/system/events/logos/000/010/414/large/shroombab.jpg?1566146133</logo>
-        <date>2019-08-22T23:00:00+02:00</date>
-        <start>23:00</start>
-        <duration>02:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10414-shroombab</slug>
-        <title>Shroombab</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>Barbara Wimmer tritt unter dem Namen Shroombab seit 1998 als Drum&amp;Bass-DJ auf. Sie hat in 28 Ländern der Welt und mehr als 600 Clubs und auf zahlreichen Festivals gespielt.Zudem hat sie Veröffentlichungen auf mehr als zehn Labels - von ihrem Heimatland Österreich, bis hin zu UK, DE und den USA. </abstract>
-        <description>Shroombab, DJ, producer and founder of High Tension Recordings, is a fixed “institution” of Austrias drum&amp;bass-scene. She was born in Upper Austria and moved to Vienna in 1997 – where she started to change her instruments from flute &amp; guitar to turntables &amp; sequencers. Successfully: Gigs in over 28 countries all over the world and several record releases on quality labels followed.&#13;
-&#13;
-Shroombabs efforts to create her own music and get perfect at spinning records were strong. But not enough, she combined creativity with her talent to organize things: She set up her own Drum’n’Bass clubnight called “Bass Land” (with MC Terra), her own label “High Tension Recordings” and founded the “Junglistic Sistaz” – first a successful girls duo with MC Terra, later a database for women in drum&amp;bass, which got a quality reference for female DJs especially in Eastern Europe.&#13;
-&#13;
-Apart from numerous national DJ bookings at the best and most established clubs all over Austria, Shroombab got a residency at D.Kay &amp; Raw.fulls weekly clubnight "Beat It" at the famous Flex in Vienna which is running since 2004. Her international DJ-gigs brought her to places like Cape Town, Johannesburg, Moscow, St. Petersburg, Talin, Seattle, Paris, London, Barcelona, Berlin, Bukarest, Bratislava and many more cities and festival.&#13;
-&#13;
-Her favorite producers are Calyx, Matrix, Ed Rush &amp; Optical, Teebee, Break, Benny Page, Deekline, Ils, Aquasky, DZ, High Rankin, Skream, Marlow.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://soundcloud.com/shroombab">Shroombab auf Soundcloud</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10415" guid="ed456981-5e9b-4305-9d53-2235bd49e259">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10415.html</url>
-        <logo>/system/events/logos/000/010/415/large/barbnerdy.jpg?1566146674</logo>
-        <date>2019-08-23T01:00:00+02:00</date>
-        <start>01:00</start>
-        <duration>02:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10415-barbnerdy</slug>
-        <title>BarbNerdy</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>My philosophy: Sharing means caring – knowledge is growing when its shared.</abstract>
-        <description>I started DJ'ing in 1990 in Munich with Garage House, NY Style, changed later to Chicago House and ended up with Detroit Techno (1994) but decided to play “Freestyle” very early (1996) as I got bored of playing the same kind of music all night long. In the 90ies I played a lot of gigs all over Europe along all the big names at this time. Even Tony Humphries, Jeff Mills, Colin Faver, DJ Hell. In Clubs like Tresor Berlin, E-Werk Berlin, Museum of Modern Art in Copenhagen, Flex inVienna, Raves in Italy, small and big Festivals and many many more. &#13;
-1997 I moved to Hamburg where I started a monthyl club night called Club Neu at Club Tempelhof. There we played a really cool freestyle programm, from Hip-Hop to Djungle, from Electro via Disco to House or Beatz. And the crowd there was really cool. They danced to everything we "served". &#13;
-I also organized there a really cool night with Cheap Records from Vienna meets Clear Records (Matthew Herbert) or the huge DJ Hell at Rote Flora event. Somtimes I had a chance to play the famour Pudel Club which was also big fun!&#13;
-In 1999 I moved to Berlin where I started "Support Your Local Ghetto" which was the name of my weekly Radio Show on Twen.FM a pirate radio here in Berlin. I had a lot of fun playing my fave tunes plus having guests from all over the world. Mostly my guests where just from the neighborhood. I love my hood. There are so many talented artists which have to be heard. So, lets stay local. But local not only in the meaning of territory, local means also all the friends and people you have in your neighborhood. Will never forget the outstanding show with Blake Baxter and Abe Duque or with the Stones Throw Dudes. Some recordings of this shows must still be in the interwebs. Will try to find and publish them here.&#13;
-In 2011 I reactived the "support your local ghetto" This time at the lovely Panke in Berlin Wedding as a monthly club night. Every last friday of the month. This event I did for 3 years until April 2014.&#13;
-Work in Music:&#13;
-I started working in the music – biz also very early - in the very early 90ies in Munich where I started the booking agency around the Label Disko B and the Club Ultraschall. (Artists: DJ Hell, Blake Baxter, Abe Duque, Patrick Pulsinger and many more).&#13;
-&#13;
-In ’96 a major label called and I moved to Hamburg to promote great artists like: Goldie, Roni Size, Money Mark, Portishead etc… Parallel I had a weekly residency at Club Tempelhof, where I played my “Freestyle” program. Of course way too early, so after 1 year it was done. After my experience with a Major Label I did some freelance jobs till the next milestone in my live started: Press Speaker Assistant of the Loveparade ’99 in Berlin. I moved to Berlin, worked for the Sonar Kollektiv (Label collective of Jazzanova) until a friend of mine hired me to help him setting up the Software Startup go_Disko*. I was really happy there but one day I received a mail from iTunes, where they offered me the Job as “Head of Editorial” for the German iTunes store. I started working there right after they opened in Germany – in a team of 2 people – for the next 3,5 years. Great Time it was!&#13;
-After this great experience I was totally focussed on the topic “future of things.. ” and changed after some nice little jobs for BPitch Control, Puppetmastaz etc..from the music biz to the online biz. Cause at this time (and most is still) every cool new thing was / is forbidden by law in Germany. I organized the re:publica 09 (started 6 weeks before and put all strings together) and now I’m an Online Project Manager, have my 2 own blogs, still do DJing and diggin music. I’m very curious about new strategies, recommendation systems, apps and have a dream of an aggregated platform with something like a semantic search, where you can find everything about your fave artist, movie etc.. Where you can listen for free, pay for a download or even pay per stream. All in one platform. Since 2 years I’m a paying Spotify customer. Started in Sept. 2007 using Soundcloud for my DJ mixes. All my 23 Mixes where played 15.000 times, downloaded 3.100 times in 107 countries since than. I dig music all through the internet, get recommendations from my social network, share my findings and pay wherever I can pay. I’m a very proud owner of 15.000 Vinyls and have around 160 GB well sorted music on my hard drive.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://soundcloud.com/barbnerdy/">BarbNerdy on Soundcloud</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10416" guid="5da09557-9be1-40d8-955d-153c5cb9a9cb">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10416.html</url>
-        <logo>/system/events/logos/000/010/416/large/tadata.jpg?1566147158</logo>
-        <date>2019-08-23T03:00:00+02:00</date>
-        <start>03:00</start>
-        <duration>02:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10416-t-data</slug>
-        <title>T-Data</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>Clear Memory member, future record store owner and Data Wrangler based in Leipzig. &#13;
-&#13;
-Transforming Breaks, UK Bass, Footwork, bossy Electro and Jungle into another format with the intent of making it more appropriate and valuable for a variety of listeners.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://soundcloud.com/tdata">T-Data on Soundcloud</link>
-        </links>
-        <attachments/>
-      </event>
-    </room>
-    <room name="Rockmore Booth">
-      <event id="10408" guid="6c9f102a-0aed-4360-a31b-2bdb777d0cd8">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10408.html</url>
-        <logo>/system/events/logos/000/010/408/large/AEX-500x500.jpg?1566203160</logo>
-        <date>2019-08-22T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>03:00</duration>
-        <room>Rockmore Booth</room>
-        <slug>camp19lounge-10408-aex</slug>
-        <title>AEX</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>Berlin-based artist AEX delivers complex and catching ambient spheres. From warm and melodic explorations via a rather technical approach to darker layers of machine music, occasionally enriched by her voice, this young live act blends a dense weave of soundscapes, beats and repetitive bleeps. She has quite a special connection to the CCC: at the age of 15, her father took her to the congress in Hamburg, where she discovered her passion for technical informatics in which she dived deeply hereafter.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://soundcloud.com/aaeexx">AEX on Soundcloud</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10409" guid="4b199723-ca6c-4b84-b100-a6ab18f8412e">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10409.html</url>
-        <logo>/system/events/logos/000/010/409/large/kaubl.jpg?1566139203</logo>
-        <date>2019-08-22T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>03:00</duration>
-        <room>Rockmore Booth</room>
-        <slug>camp19lounge-10409-kaubl</slug>
-        <title>kAUBL</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>Seinen Freunden ist Marcus Kestner unter vielen Namen bekannt. Einer&#13;
-davon ist „Der Schrauber“, der nicht nur von seinen Skills in Sachen Technik&#13;
-und Handwerk herrührt, sondern auch von seiner Art der Musikproduktion.&#13;
-Seit kurzem veröffentlicht er jedoch unter seinem neuem Pseudonym Kaubl&#13;
-und spielt auch die ein oder andere Platte aus der Sammlung dem geneigten&#13;
-Publikum vor.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://soundcloud.com/kaubl">kAUBL on Soundcloud</link>
-        </links>
-        <attachments/>
-      </event>
-    </room>
+    <room name="Hackcenter"/>
     <room name="Johnson (Workshop 1)">
       <event id="1045" guid="886dfb0c-900f-47e1-bcb2-a5dc14c09a10">
         <url>https://events.ccc.de/camp/2019/wiki/Session:CCChoir</url>
@@ -4760,186 +4580,103 @@ Publikum vor.</abstract>
         </links>
       </event>
     </room>
-    <room name="Village:Three Headed Monkey">
-      <event id="1393" guid="cb80ca4e-2fda-4e16-bef8-a7226174b91f">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:15_Jahre_netzpolitik.org</url>
-        <logo/>
-        <date>2019-08-22T21:30:00+02:00</date>
-        <start>21:30</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1393-session_15_jahre_netzpolitik_org</slug>
-        <title>15 Jahre netzpolitik.org</title>
-        <subtitle>Location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
+    <room name="Fireplace (Workshop THM)">
+      <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
+        <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
+        <date>2019-08-22T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>VT87DH</slug>
+        <url>http://talx.thm.cloud/thms/talk/VT87DH/</url>
+        <title>Meet CADUS! Humanitarian Aid goes Open Source</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the "consultation hours" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.</abstract>
+        <description>During this particular format of "consultation hours" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).&#13;
+Consultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="43">
+            <code>ZUGZGF</code>
+            <public_name>Corinna Cadus</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="120" guid="3690343b-b02c-57a6-8c37-d82113a0843b">
+        <logo>/media/thms/images/ZMERMD/photo_2019-07-18_18-58-45.jpg</logo>
+        <date>2019-08-22T15:15:00+02:00</date>
+        <start>15:15</start>
+        <duration>02:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>ZMERMD</slug>
+        <url>http://talx.thm.cloud/thms/talk/ZMERMD/</url>
+        <title>werdeteildesgesamtwiderstandes</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Workshop</type>
         <language>de</language>
-        <abstract/>
-        <description>Im Sommer 2004 erschienen die erste Artikel auf netzpolitik.org. Was als Seitenprojekt begann, entwickelte sich in 15 Jahren zu einer der schlagkräftigsten Organisationen zur Verteidigung von digitalen Grundrechten in Deutschland.</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/9P8DR9/</link>
-        </links>
+        <abstract>werdeteildesgesamtwiderstandes ist eine Objekt gewordene Handlungsanweisung die dazu anregt sich mit anderen menschen zu verbinden. Im Workshop bauen wir diesen analogen synthesizer, jeder kann mitmachen, vorkenntnisse sind nicht erforderlich, für menschen ab 8.</abstract>
+        <description>werdeteildesgesamtwiderstandes ist eine Objekt gewordene Handlungsanweisung die dazu anregt sich mit anderen menschen zu verbinden. &#13;
+werdeteildesgesamtwiderstandes ist ein analoger Synthesizer bei dem du selber teil der Schaltung wirst,&#13;
+sobald seine beiden enden über einen Körperkontakt geschlossen werden, tönt der gesamtwiderstand. die Tonhöhe hängt dabei von der Anzahl der beteiligten Menschen ab. je mehr Teilnehmer*innen desto tiefer wird der Ton. du kannst den Gesamtwiderstand wie ein Instrument spielen, ein einfacher Rhythmus entsteht durch wiederholtes anfassen und loslassen. gleichzeitig bildet sich beim spielen ein kleines soziales Netzwerk mit der Besonderheit dass dieses Netzwerk ganz physisch ist und nicht virtuell. nur die haut leitet den Strom und nur durch anfassen entsteht der ton. dies ist in Zeiten virtueller sozialer Netzwerke ein erfrischendes Erlebnis das großen spaß macht.&#13;
+maximal 8 teilnehmer*innen, alter ab 8</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="29">
+            <code>3TMUJD</code>
+            <public_name>christian faubel</public_name>
+            <biography>Christian Faubel ist ein interdisziplinärer Wissenschaftler und Künstler. Er ist promovierter Elektroingenieur und hat von 2002-2012 am Institut für Neuroinformatik zu autonomen Systemen geforscht. Von 2012 bis 2018 war er Dozent an der Kunsthochschule für Medien Köln im Bereich experimentelle Informatik. 2002 hat er das Kollektiv derstrudel, zur Vermittlung eines entspannten Zugangs zu Elektronik und Robotik, gegründet. Mit derstrudel hat er mehr als 50 Workshops zum Bau einfacher analoger Roboter im Rahmen internationaler Festivals durchgeführt. In seiner künstlerischen Arbeit interessiert ihn was autonomes Verhalten ermöglicht und wie komplexes Verhalten aus dem Zusammenspiel und den Interaktionsdynamiken einfacher Elemente entstehen kann. Mit seinen Arbeiten macht er theoretische Konzepte wie Selbstorganisation, Emergenz oder Embodiment ästhetisch erfahrbar und sieht seine Arbeiten in der Tradition philosophischer Spielzeuge.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
       </event>
-      <event id="1386" guid="543676ca-8d19-480e-ba7a-5cb5e4749256">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Als_Netzaktivistin_im_Bundestag_%E2%80%93_Insider_Einblicke_und_Mitmachm%C3%B6glichkeiten</url>
-        <logo/>
-        <date>2019-08-22T18:15:00+02:00</date>
-        <start>18:15</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1386-session_als_netzaktivistin_im_bundestag_insider_einblicke_und_mitmachmoeglichkeiten</slug>
-        <title>Als Netzaktivistin im Bundestag – Insider Einblicke und Mitmachmöglichkeiten</title>
-        <subtitle>Location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language/>
-        <abstract/>
-        <description>Der Bundestag ist anders als man denkt.</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/GRRQTX/</link>
-        </links>
-      </event>
-      <event id="1394" guid="6da859fb-8ee5-4688-8415-5a34dc032e36">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Analoge_neuronale_oszillatoren</url>
+      <event id="123" guid="30f4400a-23d9-5b81-9beb-875217813515">
         <logo/>
         <date>2019-08-22T18:30:00+02:00</date>
         <start>18:30</start>
-        <duration>2:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1394-session_analoge_neuronale_oszillatoren</slug>
-        <title>Analoge neuronale oszillatoren</title>
-        <subtitle>location: Lagerfeuer (Workshop)</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>in dem workshop bauen teilnehmer*innen analoge neuronale schaltungen mit denen ein netzwerkmodell, wie es shun-ichi amari in den 70 er jahren entwickelt hat, realisiert wird.</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/GHNDP7/</link>
-        </links>
-      </event>
-      <event id="1387" guid="25a15dc4-b039-4187-9162-e48116f54924">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Blockchain:_Proof_of_ignorance</url>
-        <logo/>
-        <date>2019-08-22T15:00:00+02:00</date>
-        <start>15:00</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1387-session_blockchain_proof_of_ignorance</slug>
-        <title>Blockchain: Proof of ignorance</title>
-        <subtitle>Location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
+        <duration>02:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>GHNDP7</slug>
+        <url>http://talx.thm.cloud/thms/talk/GHNDP7/</url>
+        <title>analoge neuronale oszillatoren</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Workshop</type>
         <language>en</language>
-        <abstract/>
-        <description>A rant about liberty and autonomy for some!</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/WCSCAX/</link>
-        </links>
-      </event>
-      <event id="1396" guid="32227f86-6b84-44d7-a4f2-adf19dc7a41f">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Denn_so_wissen_wir,_was_sie_tun:_Das_Berliner_Transparenzgesetz</url>
-        <logo/>
-        <date>2019-08-22T19:30:00+02:00</date>
-        <start>19:30</start>
-        <duration>0:30</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1396-session_denn_so_wissen_wir_was_sie_tun_das_berliner_transparenzgesetz</slug>
-        <title>Denn so wissen wir, was sie tun: Das Berliner Transparenzgesetz</title>
-        <subtitle>location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Ein Hoch auf Volksentscheide! Wir erzählen vom Berliner Volksentscheid für ein Transparenzgesetz, das wir ins Leben gerufen haben. Hier könnt ihr unterschreiben. Und wir zeigen, wie ihr mitmachen könnt.</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/MRJQ7S/</link>
-        </links>
-      </event>
-      <event id="1388" guid="d8fc3e31-950d-4be2-945e-a598ef384d2c">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Dissecting_the_AMD_Platform_Security_Processor</url>
-        <logo/>
-        <date>2019-08-22T16:15:00+02:00</date>
-        <start>16:15</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1388-session_dissecting_the_amd_platform_security_processor</slug>
-        <title>Dissecting the AMD Platform Security Processor</title>
-        <subtitle>location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>The AMD Platform Security Processor (PSP) is a security subsystem in AMD CPUs comparable to the Intel ME and was introduced in 2013. It is essential for system startup – in fact, in runs before the main processor is even started – and offers runtime services to the main processor. For this, it has full access to the system memory space (inlcuding MMIO).  The PSP runs undocumented, proprietary firmware. This talk presents efforts of investigating what the PSP does and if it's secure. For the first time, it documents the PSP firmware's proprietary filesystem and provides insights into reverse-engineering such a deeply embedded system as the PSP. The talk further sheds light on how we might regain trust in AMD CPUs despite the delicate nature of the PSP.</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/LEA7LY/</link>
-        </links>
-      </event>
-      <event id="1398" guid="31a91893-7b03-490b-9057-c55a49443789">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Logbuch:Netzpolitik</url>
-        <logo/>
-        <date>2019-08-22T20:15:00+02:00</date>
-        <start>20:15</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1398-session_logbuch_netzpolitik</slug>
-        <title>Logbuch:Netzpolitik</title>
-        <subtitle>Location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Live-Podcast</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/LJQNKC/</link>
-        </links>
-      </event>
-      <event id="1410" guid="ff23ea91-72ac-4688-882e-d593b6b851be">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_CADUS!_Humanitarian_Aid_goes_Open_Source</url>
-        <logo/>
-        <date>2019-08-22T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1410-session_meet_cadus_humanitarian_aid_goes_open_source</slug>
-        <title>Meet CADUS! Humanitarian Aid goes Open Source</title>
-        <subtitle>Location: Feuerstelle (Workshop)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the "consultation hours" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/VT87DH/</link>
-        </links>
-      </event>
-      <event id="1391" guid="9508b1c9-0297-41e8-a116-38ae2642948f">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Werdeteildesgesamtwiderstandes</url>
-        <logo/>
-        <date>2019-08-22T15:15:00+02:00</date>
-        <start>15:15</start>
-        <duration>2:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1391-session_werdeteildesgesamtwiderstandes</slug>
-        <title>Werdeteildesgesamtwiderstandes</title>
-        <subtitle>location: Lagerfeuer (Workshop)</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>werdeteildesgesamtwiderstandes ist eine Objekt gewordene Handlungsanweisung die dazu anregt sich mit anderen menschen zu verbinden. Im Workshop bauen wir diesen analogen synthesizer, jeder kann mitmachen, vorkenntnisse sind nicht erforderlich, für menschen ab 8.</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/ZMERMD/</link>
-        </links>
+        <abstract>in dem workshop bauen teilnehmer*innen analoge neuronale schaltungen mit denen ein netzwerkmodell, wie es shun-ichi amari in den 70 er jahren entwickelt hat, realisiert wird.</abstract>
+        <description>in dem workshop bauen teilnehmer*innen analoge neuronale schaltungen mit denen ein netzwerkmodell, wie es shun-ichi amari in den 70 er jahren entwickelt hat, realisiert wird.  Im workshop geht es darum ein gespür für die neuronalen netzen intrinsischen schwingungen zu entwickeln und mit diesen zu spielen und krach oder musik zu machen.&#13;
+grundlage für den workshop sind sogenannte pop-neuronen schaltungen, die ich gemeinsam mit wolfgang&#13;
+spahn für eine künstlerische installation, symbolic grounding, entwickelt habe. hier ein kurzes video von einem früherem workshop https://vimeo.com/273578536, pop-neurone&#13;
+https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="29">
+            <code>3TMUJD</code>
+            <public_name>christian faubel</public_name>
+            <biography>Christian Faubel ist ein interdisziplinärer Wissenschaftler und Künstler. Er ist promovierter Elektroingenieur und hat von 2002-2012 am Institut für Neuroinformatik zu autonomen Systemen geforscht. Von 2012 bis 2018 war er Dozent an der Kunsthochschule für Medien Köln im Bereich experimentelle Informatik. 2002 hat er das Kollektiv derstrudel, zur Vermittlung eines entspannten Zugangs zu Elektronik und Robotik, gegründet. Mit derstrudel hat er mehr als 50 Workshops zum Bau einfacher analoger Roboter im Rahmen internationaler Festivals durchgeführt. In seiner künstlerischen Arbeit interessiert ihn was autonomes Verhalten ermöglicht und wie komplexes Verhalten aus dem Zusammenspiel und den Interaktionsdynamiken einfacher Elemente entstehen kann. Mit seinen Arbeiten macht er theoretische Konzepte wie Selbstorganisation, Emergenz oder Embodiment ästhetisch erfahrbar und sieht seine Arbeiten in der Tradition philosophischer Spielzeuge.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
       </event>
     </room>
     <room name="Village:Social Dist0rtion Protocol">
@@ -7058,6 +6795,184 @@ These tools, called Dreams and Realities are run alongside a customized version 
         <attachments/>
       </event>
     </room>
+    <room name="Rockmore Booth">
+      <event id="10417" guid="cb1e3dc7-3d3d-40e5-925a-bd8ef2995c6d">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10417.html</url>
+        <logo>/system/events/logos/000/010/417/large/heimi.png?1566334602</logo>
+        <date>2019-08-23T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>03:00</duration>
+        <room>Rockmore Booth</room>
+        <slug>camp19lounge-10417-yj_heimi_zwetschki</slug>
+        <title>YJ HEIMI &amp; ZWETSCHKI</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>YJ-Heimi ist YouTube-Jockey und Heimleiter der Restrealitaet, Zwetschki einer der beiden Macher der Nation Of Gondwana . Spielen die beiden im Duett, kommen so technische Anforderungen wie Luftschlangentröte und Kinderrassel. Und weil auch ein Mikro auf dem Tech Rider steht, wird nicht nur musikalisch kein Auge trocken bleiben. Im Spannungsfeld zwischen gutem und schlechtem Geschmack treten Joy Division gegen Juliane Werding an, Slime und die Scorpions verbrüdern sich, Johnny Rotten zerlegt Harald Juhnke und am Ende ist jede Zelle Deines Körpers glücklich.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="10418" guid="7af77b50-9cd4-4187-ac6c-f57759130c73">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10418.html</url>
+        <logo>/system/events/logos/000/010/418/large/zwetschki.jpg?1566334651</logo>
+        <date>2019-08-23T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>03:00</duration>
+        <room>Rockmore Booth</room>
+        <slug>camp19lounge-10418-yj_heimi_zwetschki</slug>
+        <title>YJ HEIMI &amp; ZWETSCHKI</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>YJ-Heimi ist YouTube-Jockey und Heimleiter der Restrealitaet, Zwetschki einer der beiden Macher der Nation Of Gondwana . Spielen die beiden im Duett, kommen so technische Anforderungen wie Luftschlangentröte und Kinderrassel. Und weil auch ein Mikro auf dem Tech Rider steht, wird nicht nur musikalisch kein Auge trocken bleiben. Im Spannungsfeld zwischen gutem und schlechtem Geschmack treten Joy Division gegen Juliane Werding an, Slime und die Scorpions verbrüdern sich, Johnny Rotten zerlegt Harald Juhnke und am Ende ist jede Zelle Deines Körpers glücklich.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Kemistry Lounge">
+      <event id="10419" guid="b85045f4-2bd4-4053-98ae-fb3046e2d22b">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10419.html</url>
+        <logo/>
+        <date>2019-08-23T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>02:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10419-latin-danceparty_with_introduction_for_beginners</slug>
+        <title>Latin-Danceparty with Introduction for Beginners</title>
+        <subtitle>learn to dance!</subtitle>
+        <track>Music</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>A latin party with music and dancing. Everybody is wellcome to join. If you "can't dance" or have never danced before, we can show you how :)</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="10420" guid="be4922ec-7f31-474c-b5c6-27e2419bbeb5">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10420.html</url>
+        <logo>/system/events/logos/000/010/420/large/jake1.jpg?1566150973</logo>
+        <date>2019-08-23T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>01:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10420-jake_chambers</slug>
+        <title>Jake Chambers</title>
+        <subtitle>live</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://www.youtube.com/channel/UCMfMMgvx37E_zOShz3xebIA/">Jake Chambers on YT</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10421" guid="94ab0eb5-7de0-4de6-820a-0119c1d0a66e">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10421.html</url>
+        <logo>/system/events/logos/000/010/421/large/tschunkelmusik.png?1566151358</logo>
+        <date>2019-08-23T23:00:00+02:00</date>
+        <start>23:00</start>
+        <duration>02:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10421-tschunkelmusic</slug>
+        <title>tschunkelmusic</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>sind Erna Besen und Rosa Luxus</abstract>
+        <description> Erna Besen studierte zunächst Geschichte, Anthropologie und europäische Ethnologie auf Lehramt, blieb jedoch dem bunten Nachtleben der Fernuniversität Hagen verhaftet. Als international erfolgreiche Produzentin von elektronischer Musik ist sie das Mastermind hinter der unverkennbaren Symbiose aus Tschunk und Beats, die Tschunkelmusik zu einem einzigartigen Musik-Projekt macht. Die Bedroom-Producerin verbringt quasi jede Nacht im eigenen Studio und entwickelt so träumerische Klangtexturen.&#13;
+&#13;
+ Rosa Luxus will die mysogyne Steifheit der europäischen Clubszene von innen heraus mit Tschunk und Tanz aufbohren. Sie ist Resident DJane in der Bielefelder Beatschmiede, wo sie die unverkennbare und über die Stadt- und Kreisgrenze hinaus legendäre Underground-Kultur schon früh prägte und stetig weiterentwickelt.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://tschunkelmusik.de/">tschunkelmusik Homepage</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10422" guid="5da6ca53-2dfb-4a1a-a45f-d50e6bfd24f7">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10422.html</url>
+        <logo>/system/events/logos/000/010/422/large/dana.jpg?1566151671</logo>
+        <date>2019-08-24T01:00:00+02:00</date>
+        <start>01:00</start>
+        <duration>02:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10422-dana_ruh</slug>
+        <title>Dana Ruh</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Dana is a fine DJ who holds down resident duties at top Berlin space, Club der Visionaere.</abstract>
+        <description>Born and raised in Gera in Germany, Dana Ruh soon found her way to the capital city of Berlin. Since then, she ha been on a constantly evolving musical journey. In the early years, her sound was rooted in techno and landed most often on the label Brouqade Records, which she established in 2007. The label is still running too, and celebrated its 10th Year Birthday Celebration entitled 'Past/Present/Future' that emphatically encapsulated all that's great about the label. &#13;
+Aside from Brouqade, Dana's music has also featured on the liked of Autoreply, Work Them Records, Howl and Underground Quality. It was Jus Ed's label where she released her stunning debut album. 'Naturally' in 2014, an LP that introduced Dana to a whole new audience and showcased her pure house sound with some distinctions. In 2017 she started her new Label 'Cave Recordings' that showcased her wide musical range mainly rooted in House with old school flavor.&#13;
+When she isn't busy in the studio crafting textured tracks, Dana is a fine DJ who holds down resident duties at top Berlin space, Club der Visionaere. It is there that she lays down seductive tracks from the worlds of house and techno as well as gems in between. Aside from her beloved CDV, Dana has played in some of the globe's foremost house and techno nightclubs, often alongside some of the scene's prime movers and shakers.&#13;
+Despite working in such an over saturated and competitive field, Dana Ruh manages to speak louder and more coherently that most, and for that reason she deserves all the love she gets.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/DanaRuh">Dana Ruh on Soundcloud</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10423" guid="ada3bff5-bfc3-41f6-8670-b3d87930291a">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10423.html</url>
+        <logo>/system/events/logos/000/010/423/large/klex.jpg?1566203248</logo>
+        <date>2019-08-24T03:00:00+02:00</date>
+        <start>03:00</start>
+        <duration>02:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10423-klex</slug>
+        <title>Klex</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>„deep music is deep“ - this self-attribution of bustling DJ, label owner and promoter Xelk goes beyond tautology. House, electro, techno: all these containers offer a lot of room for exceptional deepness, and Xelk is well recognized as an expert in this domain. With regular appearances in clubs as Griessmühle, ://about blank as well as steady international gigs especially in eastern europe, he yields his own signature in today‘s electronics.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/klex">Klex on Soundcloud</link>
+        </links>
+        <attachments/>
+      </event>
+    </room>
     <room name="Plank">
       <event id="152" guid="e960e678-a20b-53bf-8b93-11161b0248b6">
         <logo/>
@@ -7389,306 +7304,6 @@ Bass ahoi</description>
         <answers/>
       </event>
     </room>
-    <room name="Fireplace (Workshop)">
-      <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
-        <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
-        <date>2019-08-23T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>01:00</duration>
-        <room>Fireplace (Workshop)</room>
-        <slug>VT87DH</slug>
-        <url>http://talx.thm.cloud/thms/talk/VT87DH/</url>
-        <title>Meet CADUS! Humanitarian Aid goes Open Source</title>
-        <subtitle/>
-        <track>Workshop</track>
-        <type>Talk</type>
-        <language>en</language>
-        <abstract>Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the "consultation hours" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.</abstract>
-        <description>During this particular format of "consultation hours" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).&#13;
-Consultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="43">
-            <code>ZUGZGF</code>
-            <public_name>Corinna Cadus</public_name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="131" guid="8437e8a0-e99a-5e16-81d6-81a1cab2fc59">
-        <logo>/media/thms/images/QX7DQP/Screenshot_2019-08-17_at_21.30.45.png</logo>
-        <date>2019-08-23T15:15:00+02:00</date>
-        <start>15:15</start>
-        <duration>02:00</duration>
-        <room>Fireplace (Workshop)</room>
-        <slug>QX7DQP</slug>
-        <url>http://talx.thm.cloud/thms/talk/QX7DQP/</url>
-        <title>Finding insecure third-party librarys in dependencies, containers, APIs (OWASP Top10 - A9)</title>
-        <subtitle/>
-        <track>Workshop</track>
-        <type>Workshop</type>
-        <language>en</language>
-        <abstract>The OWASP Top Ten project lists the top 10 (web) application security risks. In this Workshop we will take a close look at number 9: "Using Components With Known Vulnerabilities".&#13;
-&#13;
-we will try to use (open source) tooling to find known vulnerabilities in 3rd party libraries, containers and APIs, then take a look at how we can automate those tools in our ci/cd pipelines&#13;
-you don't need to know about security or vulnerability management to do the workshop, we will cover the basics and you can a lot on the way</abstract>
-        <description>workshop will feature the following Tools:&#13;
-- OWASP dependency-check (workshop will focus on java/maven/gradle, but feel free bring your own languages and dependencies so i can learn something too:) )&#13;
-- CoreOS Clair for container scanning&#13;
-- OWASP Zap for API scanning (technically not A9, but many the others;) )&#13;
-&#13;
-if we have time (or if you're interested after the actual workshop) we can further discuss how we can shape the process of fixing said vulnerabilities in our daily dev/ops/x jobs (or we can just rant about security over some beers)&#13;
-&#13;
-we speak english and german, so dont be scared if your english is not too good. we will get along :-)&#13;
-&#13;
-this workshop will be the hands-on counterpart to my talk on Thursday, 14:00 in Curie (Tent 1)&#13;
-https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10181.html</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="35">
-            <code>YYBHKY</code>
-            <public_name>cy</public_name>
-            <biography>system developer, i love cloud, automation, testing, security&#13;
-&#13;
-i will camp here: https://events.ccc.de/camp/2019/wiki/Village:Faken_bis_es_rult&#13;
-i might be reachable on eventphone: -CY4N (-2946)</biography>
-          </person>
-          <person id="46">
-            <code>UY8TSA</code>
-            <public_name>honnel</public_name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="121" guid="54e38754-23b1-5d62-8554-77c9aea7180a">
-        <logo/>
-        <date>2019-08-23T18:45:00+02:00</date>
-        <start>18:45</start>
-        <duration>01:00</duration>
-        <room>Fireplace (Workshop)</room>
-        <slug>PGL9WK</slug>
-        <url>http://talx.thm.cloud/thms/talk/PGL9WK/</url>
-        <title>Introduction to Lindy Hop / Swing Dance</title>
-        <subtitle/>
-        <track>Entertainment</track>
-        <type>Entertainment</type>
-        <language>en</language>
-        <abstract>A brief introduction to Lindy Hop dancing for beginners.</abstract>
-        <description>We want to teach you a little bit of Lindy Hop. It is a couple dance that originates in the 1920s in New York, today there's a world-wide scene of Lindy Hop dancers. We'll teach you some basic moves.&#13;
-&#13;
-No dance partner and no previous dancing experience is required. Everyone will learn to dance both roles - following and leading.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="30">
-            <code>XHVTCZ</code>
-            <public_name>zitro</public_name>
-            <biography/>
-          </person>
-          <person id="31">
-            <code>3AZWLV</code>
-            <public_name>hanno</public_name>
-            <biography>Hanno Böck is a hacker and freelance journalist.&#13;
-He is a regular writer for the German online IT magazine Golem.de and writes the monthly Bulletproof TLS Newsletter.</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="Kemistry Lounge">
-      <event id="10419" guid="b85045f4-2bd4-4053-98ae-fb3046e2d22b">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10419.html</url>
-        <logo/>
-        <date>2019-08-23T20:00:00+02:00</date>
-        <start>20:00</start>
-        <duration>02:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10419-latin-danceparty_with_introduction_for_beginners</slug>
-        <title>Latin-Danceparty with Introduction for Beginners</title>
-        <subtitle>learn to dance!</subtitle>
-        <track>Music</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract>A latin party with music and dancing. Everybody is wellcome to join. If you "can't dance" or have never danced before, we can show you how :)</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="10420" guid="be4922ec-7f31-474c-b5c6-27e2419bbeb5">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10420.html</url>
-        <logo>/system/events/logos/000/010/420/large/jake1.jpg?1566150973</logo>
-        <date>2019-08-23T22:00:00+02:00</date>
-        <start>22:00</start>
-        <duration>01:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10420-jake_chambers</slug>
-        <title>Jake Chambers</title>
-        <subtitle>live</subtitle>
-        <track>Music</track>
-        <type>concert</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://www.youtube.com/channel/UCMfMMgvx37E_zOShz3xebIA/">Jake Chambers on YT</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10421" guid="94ab0eb5-7de0-4de6-820a-0119c1d0a66e">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10421.html</url>
-        <logo>/system/events/logos/000/010/421/large/tschunkelmusik.png?1566151358</logo>
-        <date>2019-08-23T23:00:00+02:00</date>
-        <start>23:00</start>
-        <duration>02:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10421-tschunkelmusic</slug>
-        <title>tschunkelmusic</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>sind Erna Besen und Rosa Luxus</abstract>
-        <description> Erna Besen studierte zunächst Geschichte, Anthropologie und europäische Ethnologie auf Lehramt, blieb jedoch dem bunten Nachtleben der Fernuniversität Hagen verhaftet. Als international erfolgreiche Produzentin von elektronischer Musik ist sie das Mastermind hinter der unverkennbaren Symbiose aus Tschunk und Beats, die Tschunkelmusik zu einem einzigartigen Musik-Projekt macht. Die Bedroom-Producerin verbringt quasi jede Nacht im eigenen Studio und entwickelt so träumerische Klangtexturen.&#13;
-&#13;
- Rosa Luxus will die mysogyne Steifheit der europäischen Clubszene von innen heraus mit Tschunk und Tanz aufbohren. Sie ist Resident DJane in der Bielefelder Beatschmiede, wo sie die unverkennbare und über die Stadt- und Kreisgrenze hinaus legendäre Underground-Kultur schon früh prägte und stetig weiterentwickelt.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://tschunkelmusik.de/">tschunkelmusik Homepage</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10422" guid="5da6ca53-2dfb-4a1a-a45f-d50e6bfd24f7">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10422.html</url>
-        <logo>/system/events/logos/000/010/422/large/dana.jpg?1566151671</logo>
-        <date>2019-08-24T01:00:00+02:00</date>
-        <start>01:00</start>
-        <duration>02:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10422-dana_ruh</slug>
-        <title>Dana Ruh</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>Dana is a fine DJ who holds down resident duties at top Berlin space, Club der Visionaere.</abstract>
-        <description>Born and raised in Gera in Germany, Dana Ruh soon found her way to the capital city of Berlin. Since then, she ha been on a constantly evolving musical journey. In the early years, her sound was rooted in techno and landed most often on the label Brouqade Records, which she established in 2007. The label is still running too, and celebrated its 10th Year Birthday Celebration entitled 'Past/Present/Future' that emphatically encapsulated all that's great about the label. &#13;
-Aside from Brouqade, Dana's music has also featured on the liked of Autoreply, Work Them Records, Howl and Underground Quality. It was Jus Ed's label where she released her stunning debut album. 'Naturally' in 2014, an LP that introduced Dana to a whole new audience and showcased her pure house sound with some distinctions. In 2017 she started her new Label 'Cave Recordings' that showcased her wide musical range mainly rooted in House with old school flavor.&#13;
-When she isn't busy in the studio crafting textured tracks, Dana is a fine DJ who holds down resident duties at top Berlin space, Club der Visionaere. It is there that she lays down seductive tracks from the worlds of house and techno as well as gems in between. Aside from her beloved CDV, Dana has played in some of the globe's foremost house and techno nightclubs, often alongside some of the scene's prime movers and shakers.&#13;
-Despite working in such an over saturated and competitive field, Dana Ruh manages to speak louder and more coherently that most, and for that reason she deserves all the love she gets.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://soundcloud.com/DanaRuh">Dana Ruh on Soundcloud</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10423" guid="ada3bff5-bfc3-41f6-8670-b3d87930291a">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10423.html</url>
-        <logo>/system/events/logos/000/010/423/large/klex.jpg?1566203248</logo>
-        <date>2019-08-24T03:00:00+02:00</date>
-        <start>03:00</start>
-        <duration>02:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10423-klex</slug>
-        <title>Klex</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>„deep music is deep“ - this self-attribution of bustling DJ, label owner and promoter Xelk goes beyond tautology. House, electro, techno: all these containers offer a lot of room for exceptional deepness, and Xelk is well recognized as an expert in this domain. With regular appearances in clubs as Griessmühle, ://about blank as well as steady international gigs especially in eastern europe, he yields his own signature in today‘s electronics.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://soundcloud.com/klex">Klex on Soundcloud</link>
-        </links>
-        <attachments/>
-      </event>
-    </room>
-    <room name="Rockmore Booth">
-      <event id="10417" guid="cb1e3dc7-3d3d-40e5-925a-bd8ef2995c6d">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10417.html</url>
-        <logo>/system/events/logos/000/010/417/large/heimi.png?1566334602</logo>
-        <date>2019-08-23T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>03:00</duration>
-        <room>Rockmore Booth</room>
-        <slug>camp19lounge-10417-yj_heimi_zwetschki</slug>
-        <title>YJ HEIMI &amp; ZWETSCHKI</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>YJ-Heimi ist YouTube-Jockey und Heimleiter der Restrealitaet, Zwetschki einer der beiden Macher der Nation Of Gondwana . Spielen die beiden im Duett, kommen so technische Anforderungen wie Luftschlangentröte und Kinderrassel. Und weil auch ein Mikro auf dem Tech Rider steht, wird nicht nur musikalisch kein Auge trocken bleiben. Im Spannungsfeld zwischen gutem und schlechtem Geschmack treten Joy Division gegen Juliane Werding an, Slime und die Scorpions verbrüdern sich, Johnny Rotten zerlegt Harald Juhnke und am Ende ist jede Zelle Deines Körpers glücklich.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="10418" guid="7af77b50-9cd4-4187-ac6c-f57759130c73">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10418.html</url>
-        <logo>/system/events/logos/000/010/418/large/zwetschki.jpg?1566334651</logo>
-        <date>2019-08-23T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>03:00</duration>
-        <room>Rockmore Booth</room>
-        <slug>camp19lounge-10418-yj_heimi_zwetschki</slug>
-        <title>YJ HEIMI &amp; ZWETSCHKI</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>YJ-Heimi ist YouTube-Jockey und Heimleiter der Restrealitaet, Zwetschki einer der beiden Macher der Nation Of Gondwana . Spielen die beiden im Duett, kommen so technische Anforderungen wie Luftschlangentröte und Kinderrassel. Und weil auch ein Mikro auf dem Tech Rider steht, wird nicht nur musikalisch kein Auge trocken bleiben. Im Spannungsfeld zwischen gutem und schlechtem Geschmack treten Joy Division gegen Juliane Werding an, Slime und die Scorpions verbrüdern sich, Johnny Rotten zerlegt Harald Juhnke und am Ende ist jede Zelle Deines Körpers glücklich.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
     <room name="Hackcenter">
       <event id="1041" guid="7976438d-2b1a-4303-96f5-d6846c9f42f6">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Bodymind_Operating_System</url>
@@ -7815,6 +7430,128 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
         <description>Can you hack how you see with Virtual RealiTy to rediscover your full sense of 3D?  Try out the new system, meet other interested people, plot and plan.</description>
         <persons/>
         <links/>
+      </event>
+    </room>
+    <room name="Fireplace (Workshop THM)">
+      <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
+        <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
+        <date>2019-08-23T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>VT87DH</slug>
+        <url>http://talx.thm.cloud/thms/talk/VT87DH/</url>
+        <title>Meet CADUS! Humanitarian Aid goes Open Source</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the "consultation hours" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.</abstract>
+        <description>During this particular format of "consultation hours" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).&#13;
+Consultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="43">
+            <code>ZUGZGF</code>
+            <public_name>Corinna Cadus</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="131" guid="8437e8a0-e99a-5e16-81d6-81a1cab2fc59">
+        <logo>/media/thms/images/QX7DQP/Screenshot_2019-08-17_at_21.30.45.png</logo>
+        <date>2019-08-23T15:15:00+02:00</date>
+        <start>15:15</start>
+        <duration>02:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>QX7DQP</slug>
+        <url>http://talx.thm.cloud/thms/talk/QX7DQP/</url>
+        <title>Finding insecure third-party librarys in dependencies, containers, APIs (OWASP Top10 - A9)</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Workshop</type>
+        <language>en</language>
+        <abstract>The OWASP Top Ten project lists the top 10 (web) application security risks. In this Workshop we will take a close look at number 9: "Using Components With Known Vulnerabilities".&#13;
+&#13;
+we will try to use (open source) tooling to find known vulnerabilities in 3rd party libraries, containers and APIs, then take a look at how we can automate those tools in our ci/cd pipelines&#13;
+you don't need to know about security or vulnerability management to do the workshop, we will cover the basics and you can a lot on the way</abstract>
+        <description>workshop will feature the following Tools:&#13;
+- OWASP dependency-check (workshop will focus on java/maven/gradle, but feel free bring your own languages and dependencies so i can learn something too:) )&#13;
+- CoreOS Clair for container scanning&#13;
+- OWASP Zap for API scanning (technically not A9, but many the others;) )&#13;
+&#13;
+if we have time (or if you're interested after the actual workshop) we can further discuss how we can shape the process of fixing said vulnerabilities in our daily dev/ops/x jobs (or we can just rant about security over some beers)&#13;
+&#13;
+we speak english and german, so dont be scared if your english is not too good. we will get along :-)&#13;
+&#13;
+this workshop will be the hands-on counterpart to my talk on Thursday, 14:00 in Curie (Tent 1)&#13;
+https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10181.html</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="35">
+            <code>YYBHKY</code>
+            <public_name>cy</public_name>
+            <biography>system developer, i love cloud, automation, testing, security&#13;
+&#13;
+i will camp here: https://events.ccc.de/camp/2019/wiki/Village:Faken_bis_es_rult&#13;
+i might be reachable on eventphone: -CY4N (-2946)</biography>
+          </person>
+          <person id="46">
+            <code>UY8TSA</code>
+            <public_name>honnel</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="121" guid="54e38754-23b1-5d62-8554-77c9aea7180a">
+        <logo/>
+        <date>2019-08-23T18:45:00+02:00</date>
+        <start>18:45</start>
+        <duration>01:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>PGL9WK</slug>
+        <url>http://talx.thm.cloud/thms/talk/PGL9WK/</url>
+        <title>Introduction to Lindy Hop / Swing Dance</title>
+        <subtitle/>
+        <track>Entertainment</track>
+        <type>Entertainment</type>
+        <language>en</language>
+        <abstract>A brief introduction to Lindy Hop dancing for beginners.</abstract>
+        <description>We want to teach you a little bit of Lindy Hop. It is a couple dance that originates in the 1920s in New York, today there's a world-wide scene of Lindy Hop dancers. We'll teach you some basic moves.&#13;
+&#13;
+No dance partner and no previous dancing experience is required. Everyone will learn to dance both roles - following and leading.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="30">
+            <code>XHVTCZ</code>
+            <public_name>zitro</public_name>
+            <biography/>
+          </person>
+          <person id="31">
+            <code>3AZWLV</code>
+            <public_name>hanno</public_name>
+            <biography>Hanno Böck is a hacker and freelance journalist.&#13;
+He is a regular writer for the German online IT magazine Golem.de and writes the monthly Bulletproof TLS Newsletter.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
       </event>
     </room>
     <room name="Village:Backspace">
@@ -8701,146 +8438,6 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
         <description>Learn how you can contribute to the nixpkgs git repo</description>
         <persons/>
         <links/>
-      </event>
-    </room>
-    <room name="Village:Three Headed Monkey">
-      <event id="1395" guid="f43ae881-619f-4f35-90d4-472100ef18d2">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Cryptography_of_Killing_Proof-of-Work</url>
-        <logo/>
-        <date>2019-08-23T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>0:30</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1395-session_cryptography_of_killing_proof_of_work</slug>
-        <title>Cryptography of Killing Proof-of-Work</title>
-        <subtitle>Location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>We briefly discuss the range of cryptographic primitives being used by protocols that seek to make proof-of-work protocols obsolete. We shall focus primarily on these cryptographic building blocks themselves, not overly on the different protocols built form them.</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/Z3VR8P/</link>
-        </links>
-      </event>
-      <event id="1404" guid="901b3777-4810-476f-9298-c94028f0f017">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:E-Mail-Privatheit_und_Mailbox-Verschl%C3%BCsselung</url>
-        <logo/>
-        <date>2019-08-23T18:30:00+02:00</date>
-        <start>18:30</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1404-session_e_mail_privatheit_und_mailbox_verschluesselung</slug>
-        <title>E-Mail-Privatheit und Mailbox-Verschlüsselung</title>
-        <subtitle>Location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Überblick über den aktuellen Stand der Privatheit von E-Mails und Präsentation von Userli, einer Webapplikation um E-Mailboxen zu verschlüsseln.</description>
-        <persons/>
-        <links/>
-      </event>
-      <event id="1405" guid="d1188c39-054d-43f9-bb95-70503e5639db">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Elektroschrott_-_Welchen_letzten_Weg_geht_mein_PC%3F</url>
-        <logo/>
-        <date>2019-08-23T19:45:00+02:00</date>
-        <start>19:45</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1405-session_elektroschrott_welchen_letzten_weg_geht_mein_pc_</slug>
-        <title>Elektroschrott - Welchen letzten Weg geht mein PC?</title>
-        <subtitle>location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Elektronikschrott ist eine Handelsware. Schrott wird zu Gold. Geräte werden überall in der Welt mal gut, mal nicht so gut zerlegt. Wer verdient daran? Und was können wir tun, dass sich der Export nicht mehr lohnt?</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/GYWNQP/</link>
-        </links>
-      </event>
-      <event id="1397" guid="3e47244d-4edd-40a4-9fc1-ca9902e2dffc">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Emulate,_fuzz,_break_kernels</url>
-        <logo/>
-        <date>2019-08-23T16:15:00+02:00</date>
-        <start>16:15</start>
-        <duration>0:30</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1397-session_emulate_fuzz_break_kernels</slug>
-        <title>Emulate, fuzz, break kernels</title>
-        <subtitle>location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>This talk will give an introduction to kernel fuzzing using unicorefuzz.</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/QULQKV/</link>
-        </links>
-      </event>
-      <event id="1409" guid="69625296-43ca-4248-a6e9-ed678afe4d26">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Introduction_to_Lindy_Hop_/_Swing_Dance</url>
-        <logo/>
-        <date>2019-08-23T18:45:00+02:00</date>
-        <start>18:45</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1409-session_introduction_to_lindy_hop_swing_dance</slug>
-        <title>Introduction to Lindy Hop / Swing Dance</title>
-        <subtitle>location: Lagerfeuer (Workshop)</subtitle>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>en</language>
-        <abstract/>
-        <description>A brief introduction to Lindy Hop dancing for beginners.</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/PGL9WK/</link>
-        </links>
-      </event>
-      <event id="1412" guid="76a31e93-5998-5887-aabb-015c3e5dcbb7">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_CADUS!_Humanitarian_Aid_goes_Open_Source</url>
-        <logo/>
-        <date>2019-08-23T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1412-session_meet_cadus_humanitarian_aid_goes_open_source</slug>
-        <title>Meet CADUS! Humanitarian Aid goes Open Source</title>
-        <subtitle>Location: Feuerstelle (Workshop)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the "consultation hours" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/VT87DH/</link>
-        </links>
-      </event>
-      <event id="1399" guid="926e7afc-2e87-4ff8-bb9c-def9b7241870">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Sinn_von_Unsinn_unterscheiden_-_Glaub_ich%27s_oder_glaub_ich%27s_nicht%3F</url>
-        <logo/>
-        <date>2019-08-23T15:00:00+02:00</date>
-        <start>15:00</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1399-session_sinn_von_unsinn_unterscheiden_glaub_ich_s_oder_glaub_ich_s_nicht_</slug>
-        <title>Sinn von Unsinn unterscheiden - Glaub ich's oder glaub ich's nicht?</title>
-        <subtitle>location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Pyramiden wurden von Außerirdischen gebaut! Impfen macht Autismus! Gott hat die Welt geschaffen!</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/ARDC3J/</link>
-        </links>
       </event>
     </room>
     <room name="Village:Haecksen">
@@ -9827,6 +9424,202 @@ I am currently doing my PhD at a research institute that focuses on embedded sec
         <attachments/>
       </event>
     </room>
+    <room name="Rockmore Booth">
+      <event id="10424" guid="1c1d5ada-8e5d-42ee-87b1-934c1413a8bc">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10424.html</url>
+        <logo>/system/events/logos/000/010/424/large/couchsofa.jpg?1566151918</logo>
+        <date>2019-08-24T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>03:00</duration>
+        <room>Rockmore Booth</room>
+        <slug>camp19lounge-10424-couchsofa</slug>
+        <title>couchsofa</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>is organizing the GPN lounge</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://www.mixcloud.com/couchsofa/">couchsofa on Mixcloud</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10425" guid="87577e9f-468c-40fe-8d9d-fd562e7c397d">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10425.html</url>
+        <logo>/system/events/logos/000/010/425/large/jeanette.jpg?1566152243</logo>
+        <date>2019-08-24T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>03:00</duration>
+        <room>Rockmore Booth</room>
+        <slug>camp19lounge-10425-jeanette_tresbien</slug>
+        <title>Jeanette Trèsbien</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Part of Hamburgs "Gängeviertel". Creator of the legendary "Schneekugel" witch was on several Congress.  </abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/jeanette-tr-sbien">Jeanette Trèsbien on Soundcloud</link>
+        </links>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Kemistry Lounge">
+      <event id="10426" guid="bafa593b-43c1-49cc-925d-38b2ea3396a3">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10426.html</url>
+        <logo>/system/events/logos/000/010/426/large/trummerschlunk_-_pressefoto01.jpg?1566152502</logo>
+        <date>2019-08-24T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10426-trummerschlunk</slug>
+        <title>trummerschlunk</title>
+        <subtitle>live</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>audiolith, lemme, hold your ground</abstract>
+        <description>Slow techno immerses into a modular synthesizer-driven soundscape and invites to a sci-fi inspired journey toward big questions and amorphous feelings.&#13;
+</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="http://www.trummerschlunk.de/">trummerschlunk Homepage</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10427" guid="397b4da9-cab6-46fb-8f50-7d0bc2fb58c1">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10427.html</url>
+        <logo>/system/events/logos/000/010/427/large/argon.jpg?1566154202</logo>
+        <date>2019-08-24T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>02:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10427-argon</slug>
+        <title>Argon</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Seine Vorliebe für elektronische Musik entdeckt Argon im heimatlichen Karlsruhe. Er organisiert verschiedene Live-Projekte und beginnt mit der Produktion von Filmmusik.</abstract>
+        <description>1993 kommt er in Berlin mit Techno in Berührung. Seit 1996 steht er regelmäßig hinter den&#13;
+Plattentellern. Sein Stil entwickelt sich über die Jahre zu einer vielseitigen Melange aus Minimal,&#13;
+House, Techno und Elektropop. Dabei ergänzt er die verqueren, ironischen Elemente des Minimal&#13;
+mit geschmeidigen, fießenden Grooves des House. Argon verbindet musikalischen Anspruch mit&#13;
+unbedingter Tanzbarkeit. Das stellt er auch als Mitveranstalter bei Auftritten der “Suess&amp;Sauer”-&#13;
+Partys unter Beweis.&#13;
+Zu den weiteren Stationen auf seinem Weg durch die Berliner Clubszene gehören unter anderem&#13;
+Auftritte im Salon zur Wilden Renate, Horst Krzbrg, Suicide Circus, Maria am Ostbahnhof, Golden&#13;
+Gate, Arena Club und Ballhaus Ost.&#13;
+Discographie (Auswahl):&#13;
+Theken EP (12′′) eintakt 2007 | bricks E.P. (MP3) plusplus 2009 | Freihafen EP (12′′) rare 2011 | viel&#13;
+zu kurz (MP3) clear-cut-records 2012&#13;
+Referenzen (Auswahl):&#13;
+Horst Krzbrg, Suicide Circus, Cassiopeia Berlin, Club der Visionäre, Insel der Jugend, Maria am&#13;
+Ostbahnhof/Ufer, Golden Gate, Arena Club, Pyonen's Feieralam, Hirschbar, M.I.K.Z., Ritter&#13;
+Butzke, Zur Möbelfabrik, Tresor</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/argon">Argon on Soundcloud</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10428" guid="523600c8-0fcf-4a48-818e-4ebe7f26925b">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10428.html</url>
+        <logo>/system/events/logos/000/010/428/large/localprophets.jpg?1566154673</logo>
+        <date>2019-08-24T23:00:00+02:00</date>
+        <start>23:00</start>
+        <duration>02:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10428-local_prophets</slug>
+        <title>Local Prophets</title>
+        <subtitle>live and DJ</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Local Prophets is a moving collective of the musicians and artists who develop their work through the collaborative open-source improvisation practice.</abstract>
+        <description>For this set the two representatives of the collective, NSDOS and Aerodynamika, will apply the principles of their daily physical practice — EightOS Body-Mind Operating System — to creating a live music set, where nonequilibrium stability and chaotic variability serve as the founding principles for the music-making and movement.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="http://localprophets.org/">Local Prophets Homepage</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10429" guid="5546d570-2194-40ce-ade5-8d6183fc16d2">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10429.html</url>
+        <logo>/system/events/logos/000/010/429/large/marcus-carp-500x500.jpg?1566203350</logo>
+        <date>2019-08-25T01:00:00+02:00</date>
+        <start>01:00</start>
+        <duration>02:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10429-marcus_carp</slug>
+        <title>Marcus Carp</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>One of the founders of the Fusion Festival who had sold all his records and equipment before he sailed around the world. Luckily, the person who stepped ashore after 2 years of travel was not an entirely different one, so he returned to the decks in order to make people scream while dancing. His energetic approach to house &amp; dance music takes the floor as a storm, all arms in the air and sweat from the wall.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="10430" guid="909c6ac5-949e-4d26-b2ed-6fddf2707a0f">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10430.html</url>
+        <logo>/system/events/logos/000/010/430/large/3raum.jpg?1566154979</logo>
+        <date>2019-08-25T03:00:00+02:00</date>
+        <start>03:00</start>
+        <duration>02:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10430-der_dritte_raum</slug>
+        <title>Der Dritte Raum</title>
+        <subtitle>live</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>Der Dritte Raum aka Andreas Krüger aka d3R.&#13;
+Producer / Liveact / Remixer / Studiojunkie since 65 million years...&#13;
+Released &amp; Forthcoming music on:&#13;
+Katermukke, Harthouse, Still Hot, Cocoon, Push, Virgin, d3R Records, EMI, Funken, Save To Disc and many, many more…</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/derdritteraum">Der Dritte Raum on Soundcloud</link>
+        </links>
+        <attachments/>
+      </event>
+    </room>
     <room name="Plank">
       <event id="111" guid="93312758-6925-5e84-85b5-3b80f92a0faa">
         <logo>/media/thms/images/P9JCSV/Im_Eis_Ronja_Reese.png</logo>
@@ -10015,355 +9808,6 @@ https://freakshow.fm</description>
         <answers/>
       </event>
     </room>
-    <room name="Fireplace (Workshop)">
-      <event id="155" guid="0be7b345-e2aa-5d94-ba3e-674f3b9b0aea">
-        <logo/>
-        <date>2019-08-24T11:00:00+02:00</date>
-        <start>11:00</start>
-        <duration>01:00</duration>
-        <room>Fireplace (Workshop)</room>
-        <slug>ARNTML</slug>
-        <url>http://talx.thm.cloud/thms/talk/ARNTML/</url>
-        <title>Re-boot yourself!</title>
-        <subtitle/>
-        <track>Workshop</track>
-        <type>Entertainment</type>
-        <language>de</language>
-        <abstract>Yoga für diejenigen, die bisher hauptsächlich die Computer-Asana praktizieren. Auf deutsch, bei Bedarf auch Englisch. (Asana= (sitzende) Körperstellung im Yoga)&#13;
-Yoga for people who practice Computer Asana most of the time. In German, english as needed. (asana = (sitting) body posture in Yoga)</abstract>
-        <description>Ich zeige euch ein paar schlichte und sanfte Bewegungen, die dem Körper nach langem Sitzen guttun - kein esoterisches Kunstturnen, versprochen! Wenn ihr eigentlich keine Lust auf Sport, aber öfter mal Verspannungen habt, kommt vorbei!&#13;
-&#13;
-Ihr braucht: eine Matte oder Decke. Wer eh immer ein Handtuch dabei hat, nimmt einfach das!&#13;
-Wichtig: bequeme Kleidung tragen.&#13;
-Bei gutem Wetter im Freien; bei schlechtem im Zelt.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="63">
-            <code>KGEVE9</code>
-            <public_name>Neelke</public_name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
-        <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
-        <date>2019-08-24T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>01:00</duration>
-        <room>Fireplace (Workshop)</room>
-        <slug>VT87DH</slug>
-        <url>http://talx.thm.cloud/thms/talk/VT87DH/</url>
-        <title>Meet CADUS! Humanitarian Aid goes Open Source</title>
-        <subtitle/>
-        <track>Workshop</track>
-        <type>Talk</type>
-        <language>en</language>
-        <abstract>Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the "consultation hours" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.</abstract>
-        <description>During this particular format of "consultation hours" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).&#13;
-Consultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="43">
-            <code>ZUGZGF</code>
-            <public_name>Corinna Cadus</public_name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="125" guid="730b9a78-233a-5fc2-bd47-a64a582e8466">
-        <logo>/media/thms/images/8NG8AA/Gameboy_Music_Workshop_2011_a.JPG</logo>
-        <date>2019-08-24T15:15:00+02:00</date>
-        <start>15:15</start>
-        <duration>02:00</duration>
-        <room>Fireplace (Workshop)</room>
-        <slug>8NG8AA</slug>
-        <url>http://talx.thm.cloud/thms/talk/8NG8AA/</url>
-        <title>Gameboy Musik Workshop</title>
-        <subtitle/>
-        <track>Workshop</track>
-        <type>Workshop</type>
-        <language>de</language>
-        <abstract>Ein Einsteiger-Workshop für alle die schon immer mal Musik mit Gameboys machen wollten.</abstract>
-        <description>Chiptune - oder Musik erzeugt von Soundchips alter Computer, Konsolen und Handhelds benötigt heute keine detaillierten Kenntnisse mehr von Hardware und Assemblersprache. Der Liveact irq7 zeigt wie man einem Gameboy Sounds entlockt und erste Loops damit komponiert. Dafür sind keine Vorkenntnisse nötig - alles was ihr braucht gibt's beim Workshop. Gerne darf man natürlich Kopfhörer und den eigenen Gameboy mitbringen.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="32">
-            <code>U8GPQ7</code>
-            <public_name>Hannes Fertala</public_name>
-            <biography>Hannes Fertala ist seit mehreren Jahren in der Chiptune-Szene als Gameboy-Liveact 'irq7' aktiv. Der erste Kontakt zu dieser Art von Musik kam 2003 durch ein Konzert des Gameboymusicclub's in Graz zustande. Daraufhin folgt der Kauf den ersten Gameboys und dann schließlich das erste Konzert im Jahr 2006. Davor ein überzeugter Fan des Commodore 64 – Sounds und sammeln erster Erfahrungen mit Tracker-Software am Amiga.&#13;
-Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys selbst zu modifizieren und erweitern. Alle Aktivitäten werden seither auf seinem Blog (http://irq7.blogspot.com) veröffentlicht. Des Weiteren ist er seit 2010 Mitorganisator des jährlichen Chiptune-Festivals CHIP HITS THE FAN (http://chiphitsthefan.de) in Nürnberg.</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="Kemistry Lounge">
-      <event id="10426" guid="bafa593b-43c1-49cc-925d-38b2ea3396a3">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10426.html</url>
-        <logo>/system/events/logos/000/010/426/large/trummerschlunk_-_pressefoto01.jpg?1566152502</logo>
-        <date>2019-08-24T20:00:00+02:00</date>
-        <start>20:00</start>
-        <duration>01:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10426-trummerschlunk</slug>
-        <title>trummerschlunk</title>
-        <subtitle>live</subtitle>
-        <track>Music</track>
-        <type>concert</type>
-        <language>en</language>
-        <abstract>audiolith, lemme, hold your ground</abstract>
-        <description>Slow techno immerses into a modular synthesizer-driven soundscape and invites to a sci-fi inspired journey toward big questions and amorphous feelings.&#13;
-</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="http://www.trummerschlunk.de/">trummerschlunk Homepage</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10427" guid="397b4da9-cab6-46fb-8f50-7d0bc2fb58c1">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10427.html</url>
-        <logo>/system/events/logos/000/010/427/large/argon.jpg?1566154202</logo>
-        <date>2019-08-24T21:00:00+02:00</date>
-        <start>21:00</start>
-        <duration>02:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10427-argon</slug>
-        <title>Argon</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>Seine Vorliebe für elektronische Musik entdeckt Argon im heimatlichen Karlsruhe. Er organisiert verschiedene Live-Projekte und beginnt mit der Produktion von Filmmusik.</abstract>
-        <description>1993 kommt er in Berlin mit Techno in Berührung. Seit 1996 steht er regelmäßig hinter den&#13;
-Plattentellern. Sein Stil entwickelt sich über die Jahre zu einer vielseitigen Melange aus Minimal,&#13;
-House, Techno und Elektropop. Dabei ergänzt er die verqueren, ironischen Elemente des Minimal&#13;
-mit geschmeidigen, fießenden Grooves des House. Argon verbindet musikalischen Anspruch mit&#13;
-unbedingter Tanzbarkeit. Das stellt er auch als Mitveranstalter bei Auftritten der “Suess&amp;Sauer”-&#13;
-Partys unter Beweis.&#13;
-Zu den weiteren Stationen auf seinem Weg durch die Berliner Clubszene gehören unter anderem&#13;
-Auftritte im Salon zur Wilden Renate, Horst Krzbrg, Suicide Circus, Maria am Ostbahnhof, Golden&#13;
-Gate, Arena Club und Ballhaus Ost.&#13;
-Discographie (Auswahl):&#13;
-Theken EP (12′′) eintakt 2007 | bricks E.P. (MP3) plusplus 2009 | Freihafen EP (12′′) rare 2011 | viel&#13;
-zu kurz (MP3) clear-cut-records 2012&#13;
-Referenzen (Auswahl):&#13;
-Horst Krzbrg, Suicide Circus, Cassiopeia Berlin, Club der Visionäre, Insel der Jugend, Maria am&#13;
-Ostbahnhof/Ufer, Golden Gate, Arena Club, Pyonen's Feieralam, Hirschbar, M.I.K.Z., Ritter&#13;
-Butzke, Zur Möbelfabrik, Tresor</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://soundcloud.com/argon">Argon on Soundcloud</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10428" guid="523600c8-0fcf-4a48-818e-4ebe7f26925b">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10428.html</url>
-        <logo>/system/events/logos/000/010/428/large/localprophets.jpg?1566154673</logo>
-        <date>2019-08-24T23:00:00+02:00</date>
-        <start>23:00</start>
-        <duration>02:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10428-local_prophets</slug>
-        <title>Local Prophets</title>
-        <subtitle>live and DJ</subtitle>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>Local Prophets is a moving collective of the musicians and artists who develop their work through the collaborative open-source improvisation practice.</abstract>
-        <description>For this set the two representatives of the collective, NSDOS and Aerodynamika, will apply the principles of their daily physical practice — EightOS Body-Mind Operating System — to creating a live music set, where nonequilibrium stability and chaotic variability serve as the founding principles for the music-making and movement.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="http://localprophets.org/">Local Prophets Homepage</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10429" guid="5546d570-2194-40ce-ade5-8d6183fc16d2">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10429.html</url>
-        <logo>/system/events/logos/000/010/429/large/marcus-carp-500x500.jpg?1566203350</logo>
-        <date>2019-08-25T01:00:00+02:00</date>
-        <start>01:00</start>
-        <duration>02:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10429-marcus_carp</slug>
-        <title>Marcus Carp</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>One of the founders of the Fusion Festival who had sold all his records and equipment before he sailed around the world. Luckily, the person who stepped ashore after 2 years of travel was not an entirely different one, so he returned to the decks in order to make people scream while dancing. His energetic approach to house &amp; dance music takes the floor as a storm, all arms in the air and sweat from the wall.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="10430" guid="909c6ac5-949e-4d26-b2ed-6fddf2707a0f">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10430.html</url>
-        <logo>/system/events/logos/000/010/430/large/3raum.jpg?1566154979</logo>
-        <date>2019-08-25T03:00:00+02:00</date>
-        <start>03:00</start>
-        <duration>02:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10430-der_dritte_raum</slug>
-        <title>Der Dritte Raum</title>
-        <subtitle>live</subtitle>
-        <track>Music</track>
-        <type>concert</type>
-        <language>en</language>
-        <abstract>Der Dritte Raum aka Andreas Krüger aka d3R.&#13;
-Producer / Liveact / Remixer / Studiojunkie since 65 million years...&#13;
-Released &amp; Forthcoming music on:&#13;
-Katermukke, Harthouse, Still Hot, Cocoon, Push, Virgin, d3R Records, EMI, Funken, Save To Disc and many, many more…</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://soundcloud.com/derdritteraum">Der Dritte Raum on Soundcloud</link>
-        </links>
-        <attachments/>
-      </event>
-    </room>
-    <room name="Rockmore Booth">
-      <event id="10424" guid="1c1d5ada-8e5d-42ee-87b1-934c1413a8bc">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10424.html</url>
-        <logo>/system/events/logos/000/010/424/large/couchsofa.jpg?1566151918</logo>
-        <date>2019-08-24T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>03:00</duration>
-        <room>Rockmore Booth</room>
-        <slug>camp19lounge-10424-couchsofa</slug>
-        <title>couchsofa</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>is organizing the GPN lounge</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://www.mixcloud.com/couchsofa/">couchsofa on Mixcloud</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10425" guid="87577e9f-468c-40fe-8d9d-fd562e7c397d">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10425.html</url>
-        <logo>/system/events/logos/000/010/425/large/jeanette.jpg?1566152243</logo>
-        <date>2019-08-24T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>03:00</duration>
-        <room>Rockmore Booth</room>
-        <slug>camp19lounge-10425-jeanette_tresbien</slug>
-        <title>Jeanette Trèsbien</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>Part of Hamburgs "Gängeviertel". Creator of the legendary "Schneekugel" witch was on several Congress.  </abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://soundcloud.com/jeanette-tr-sbien">Jeanette Trèsbien on Soundcloud</link>
-        </links>
-        <attachments/>
-      </event>
-    </room>
-    <room name="Kids Stage">
-      <event id="10439" guid="a2c1d0dc-b447-45a9-b0ce-26511c9645ea">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10439.html</url>
-        <logo>/system/events/logos/000/010/439/large/suli.jpg?1566335725</logo>
-        <date>2019-08-24T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>01:00</duration>
-        <room>Kids Stage</room>
-        <slug>camp19lounge-10439-suli_puschban</slug>
-        <title>SULI PUSCHBAN</title>
-        <subtitle>live for kids</subtitle>
-        <track>Music</track>
-        <type>concert</type>
-        <language>en</language>
-        <abstract>Sie ist ein Phänomen. Ein Unikat in der Musiklandschaft, das sich jeder Einordnung widersetzt: Liedermacherin, Kinderliedermacherin, Kabarettistin. Charmant, witzig, tiefgründig.</abstract>
-        <description>"Kinderlieder sind kein Kinderspiel!", sagt Suli Puschban und schreibt über das Kind-sein in Berlin, wo sie seit vielen Jahren lebt. Ihre eigenen Wiener Wurzeln finden sich in allem als Zuckerspuren wieder. Konzerte, Komposition und Umsetzung von Liedern für Theaterstücke, Workshops, Singen in der Schule, all das hat Suli zu bieten. Sie hat für die Rosa-Parks-Grundschule in Berlin, Kreuzberg das Schul-Lied ROSA PARKS BIST DU geschrieben und als Video produziert</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="10440" guid="61ded819-2144-40f8-b137-04e6cb7928a3">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10440.html</url>
-        <logo>/system/events/logos/000/010/440/large/Muckemacher_Pressefoto_01_2019.jpg?1566335939</logo>
-        <date>2019-08-24T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>01:00</duration>
-        <room>Kids Stage</room>
-        <slug>camp19lounge-10440-muckemacher</slug>
-        <title>MUCKEMACHER</title>
-        <subtitle>live for kids</subtitle>
-        <track>Music</track>
-        <type>concert</type>
-        <language>en</language>
-        <abstract>Die Muckemacher sind Verena Roth und Florian Erlbeck, sie wohnen seit 2007 in Berlin. Schon viele Jahre arbeiten sie als Musiker und Komponisten.</abstract>
-        <description>Mit ihrer ehemaligen Band „Les Babacools“ aus München haben sie zwischen 1991 und 2006 unzählige Konzerte gespielt und waren u.a. Djs und Clubveranstalter.&#13;
-Florian schreibt Filmmusik (www.florianerlbeck.de) und hat u.a. musikalische Früherziehung für Kinder unterrichtet. Seine Instrumente sind: Saxophon, Klarinette, Akkordeon, Gitarre, Percussion und noch einige mehr. Verena spielt Klavier, Synthesizer und singt.&#13;
-&#13;
-Ihre große Plattensammlung aus Dj-Zeiten hat ihre Kinder schnell begeistert. So haben die beiden Muckemacher beschlossen, ihre eigene Musik für Kinder so aufzunehmen, daß sie nicht unbedingt nach Kindermusik klingt, sondern auch den Eltern gefällt und die ganze Familie tanzen und mitgrooven lässt.&#13;
-&#13;
-Live spielen die Muckemacher in voller Bandbesetzung mit Schlagzeug, Bass, Gitarre, Keyboards, Saxophon, Akkordeon u.a., damit die Kinder die volle Bandbreite der musikalischen Vielfalt miterleben können.&#13;
-</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
     <room name="Hackcenter">
       <event id="1040" guid="6ad28881-1413-46a4-837a-315359e19aeb">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Body/Mind_Hardware/Software</url>
@@ -10424,6 +9868,160 @@ Live spielen die Muckemacher in voller Bandbesetzung mit Schlagzeug, Bass, Gitar
         <links>
           <link>https://gnunet.org</link>
         </links>
+      </event>
+    </room>
+    <room name="Goldberg (Workshop 2)"/>
+    <room name="Fireplace (Workshop THM)">
+      <event id="155" guid="0be7b345-e2aa-5d94-ba3e-674f3b9b0aea">
+        <logo/>
+        <date>2019-08-24T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>ARNTML</slug>
+        <url>http://talx.thm.cloud/thms/talk/ARNTML/</url>
+        <title>Re-boot yourself!</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Entertainment</type>
+        <language>de</language>
+        <abstract>Yoga für diejenigen, die bisher hauptsächlich die Computer-Asana praktizieren. Auf deutsch, bei Bedarf auch Englisch. (Asana= (sitzende) Körperstellung im Yoga)&#13;
+Yoga for people who practice Computer Asana most of the time. In German, english as needed. (asana = (sitting) body posture in Yoga)</abstract>
+        <description>Ich zeige euch ein paar schlichte und sanfte Bewegungen, die dem Körper nach langem Sitzen guttun - kein esoterisches Kunstturnen, versprochen! Wenn ihr eigentlich keine Lust auf Sport, aber öfter mal Verspannungen habt, kommt vorbei!&#13;
+&#13;
+Ihr braucht: eine Matte oder Decke. Wer eh immer ein Handtuch dabei hat, nimmt einfach das!&#13;
+Wichtig: bequeme Kleidung tragen.&#13;
+Bei gutem Wetter im Freien; bei schlechtem im Zelt.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="63">
+            <code>KGEVE9</code>
+            <public_name>Neelke</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
+        <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
+        <date>2019-08-24T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>VT87DH</slug>
+        <url>http://talx.thm.cloud/thms/talk/VT87DH/</url>
+        <title>Meet CADUS! Humanitarian Aid goes Open Source</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the "consultation hours" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.</abstract>
+        <description>During this particular format of "consultation hours" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).&#13;
+Consultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="43">
+            <code>ZUGZGF</code>
+            <public_name>Corinna Cadus</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="125" guid="730b9a78-233a-5fc2-bd47-a64a582e8466">
+        <logo>/media/thms/images/8NG8AA/Gameboy_Music_Workshop_2011_a.JPG</logo>
+        <date>2019-08-24T15:15:00+02:00</date>
+        <start>15:15</start>
+        <duration>02:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>8NG8AA</slug>
+        <url>http://talx.thm.cloud/thms/talk/8NG8AA/</url>
+        <title>Gameboy Musik Workshop</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Ein Einsteiger-Workshop für alle die schon immer mal Musik mit Gameboys machen wollten.</abstract>
+        <description>Chiptune - oder Musik erzeugt von Soundchips alter Computer, Konsolen und Handhelds benötigt heute keine detaillierten Kenntnisse mehr von Hardware und Assemblersprache. Der Liveact irq7 zeigt wie man einem Gameboy Sounds entlockt und erste Loops damit komponiert. Dafür sind keine Vorkenntnisse nötig - alles was ihr braucht gibt's beim Workshop. Gerne darf man natürlich Kopfhörer und den eigenen Gameboy mitbringen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="32">
+            <code>U8GPQ7</code>
+            <public_name>Hannes Fertala</public_name>
+            <biography>Hannes Fertala ist seit mehreren Jahren in der Chiptune-Szene als Gameboy-Liveact 'irq7' aktiv. Der erste Kontakt zu dieser Art von Musik kam 2003 durch ein Konzert des Gameboymusicclub's in Graz zustande. Daraufhin folgt der Kauf den ersten Gameboys und dann schließlich das erste Konzert im Jahr 2006. Davor ein überzeugter Fan des Commodore 64 – Sounds und sammeln erster Erfahrungen mit Tracker-Software am Amiga.&#13;
+Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys selbst zu modifizieren und erweitern. Alle Aktivitäten werden seither auf seinem Blog (http://irq7.blogspot.com) veröffentlicht. Des Weiteren ist er seit 2010 Mitorganisator des jährlichen Chiptune-Festivals CHIP HITS THE FAN (http://chiphitsthefan.de) in Nürnberg.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="Kids Stage">
+      <event id="10439" guid="a2c1d0dc-b447-45a9-b0ce-26511c9645ea">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10439.html</url>
+        <logo>/system/events/logos/000/010/439/large/suli.jpg?1566335725</logo>
+        <date>2019-08-24T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Kids Stage</room>
+        <slug>camp19lounge-10439-suli_puschban</slug>
+        <title>SULI PUSCHBAN</title>
+        <subtitle>live for kids</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>Sie ist ein Phänomen. Ein Unikat in der Musiklandschaft, das sich jeder Einordnung widersetzt: Liedermacherin, Kinderliedermacherin, Kabarettistin. Charmant, witzig, tiefgründig.</abstract>
+        <description>"Kinderlieder sind kein Kinderspiel!", sagt Suli Puschban und schreibt über das Kind-sein in Berlin, wo sie seit vielen Jahren lebt. Ihre eigenen Wiener Wurzeln finden sich in allem als Zuckerspuren wieder. Konzerte, Komposition und Umsetzung von Liedern für Theaterstücke, Workshops, Singen in der Schule, all das hat Suli zu bieten. Sie hat für die Rosa-Parks-Grundschule in Berlin, Kreuzberg das Schul-Lied ROSA PARKS BIST DU geschrieben und als Video produziert</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="10440" guid="61ded819-2144-40f8-b137-04e6cb7928a3">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10440.html</url>
+        <logo>/system/events/logos/000/010/440/large/Muckemacher_Pressefoto_01_2019.jpg?1566335939</logo>
+        <date>2019-08-24T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>Kids Stage</room>
+        <slug>camp19lounge-10440-muckemacher</slug>
+        <title>MUCKEMACHER</title>
+        <subtitle>live for kids</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>Die Muckemacher sind Verena Roth und Florian Erlbeck, sie wohnen seit 2007 in Berlin. Schon viele Jahre arbeiten sie als Musiker und Komponisten.</abstract>
+        <description>Mit ihrer ehemaligen Band „Les Babacools“ aus München haben sie zwischen 1991 und 2006 unzählige Konzerte gespielt und waren u.a. Djs und Clubveranstalter.&#13;
+Florian schreibt Filmmusik (www.florianerlbeck.de) und hat u.a. musikalische Früherziehung für Kinder unterrichtet. Seine Instrumente sind: Saxophon, Klarinette, Akkordeon, Gitarre, Percussion und noch einige mehr. Verena spielt Klavier, Synthesizer und singt.&#13;
+&#13;
+Ihre große Plattensammlung aus Dj-Zeiten hat ihre Kinder schnell begeistert. So haben die beiden Muckemacher beschlossen, ihre eigene Musik für Kinder so aufzunehmen, daß sie nicht unbedingt nach Kindermusik klingt, sondern auch den Eltern gefällt und die ganze Familie tanzen und mitgrooven lässt.&#13;
+&#13;
+Live spielen die Muckemacher in voller Bandbesetzung mit Schlagzeug, Bass, Gitarre, Keyboards, Saxophon, Akkordeon u.a., damit die Kinder die volle Bandbreite der musikalischen Vielfalt miterleben können.&#13;
+</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
       </event>
     </room>
     <room name="Village:About:freedom">
@@ -10905,148 +10503,6 @@ Live spielen die Muckemacher in voller Bandbesetzung mit Schlagzeug, Bass, Gitar
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Jur">Jur</person>
         </persons>
         <links/>
-      </event>
-    </room>
-    <room name="Village:Three Headed Monkey">
-      <event id="1402" guid="04bea69e-ef61-4294-8fb8-11aec47afd40">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Chaosradio_254</url>
-        <logo/>
-        <date>2019-08-24T18:30:00+02:00</date>
-        <start>18:30</start>
-        <duration>2:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1402-session_chaosradio_254</slug>
-        <title>Chaosradio 254</title>
-        <subtitle>Location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Chaosradio 254 live von der THM-Stage auf dem Chaos Communication Congress 2019. Die erste Folge nach der Pause!</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/FMQ3UN/</link>
-        </links>
-      </event>
-      <event id="1403" guid="21457a04-47f8-4af4-987b-88e83d1b1c6f">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Climate_breakdown_%E2%80%93_the_bleak_reality</url>
-        <logo/>
-        <date>2019-08-24T16:15:00+02:00</date>
-        <start>16:15</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1403-session_climate_breakdown_the_bleak_reality</slug>
-        <title>Climate breakdown – the bleak reality</title>
-        <subtitle>Location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>Heat waves, wildfires and new movements like Fridays for Future and Extinction Rebellion have brought the climate crisis back into the news. However, meaningful political action is still not happening and the world is on track to three to four degrees of warming. Where are we heading and why did humanity fail so badly at tackling the problem?</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/FLXJRA/</link>
-        </links>
-      </event>
-      <event id="1406" guid="00beec1c-2897-4250-b799-70c2237bd46b">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Freak_Show</url>
-        <logo/>
-        <date>2019-08-24T20:45:00+02:00</date>
-        <start>20:45</start>
-        <duration>2:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1406-session_freak_show</slug>
-        <title>Freak Show</title>
-        <subtitle>Location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Der Freak Show Podcast live on stage</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/ULS83P/</link>
-        </links>
-      </event>
-      <event id="1407" guid="d03d319c-d7a6-46ba-830c-3c69b36f6d28">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Gameboy_Musik_Workshop</url>
-        <logo/>
-        <date>2019-08-24T15:15:00+02:00</date>
-        <start>15:15</start>
-        <duration>2:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1407-session_gameboy_musik_workshop</slug>
-        <title>Gameboy Musik Workshop</title>
-        <subtitle>location: Lagerfeuer (Workshop)</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Ein Einsteiger-Workshop für alle die schon immer mal Musik mit Gameboys machen wollten.</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/8NG8AA/</link>
-        </links>
-      </event>
-      <event id="1408" guid="71e9ffcb-4dcb-4d5a-8abf-8246fc01087c">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Global_Warming_Sucks!</url>
-        <logo/>
-        <date>2019-08-24T15:00:00+02:00</date>
-        <start>15:00</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1408-session_global_warming_sucks_</slug>
-        <title>Global Warming Sucks!</title>
-        <subtitle>location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Alle reden vom Klimawandel, doch niemand erklärt was da gerade passiert. Wird es in Zukunft einfach nur schön warm oder wird die Veränderung der Umwelt die Menschheit in die Knie zwingen? Warum der Temperaturanstieg der Atmosphäre einzigartig ist und welche Folgen dies für Land, Meer und Gletscher hat, erklärt die angehende Polarforscherin Maria-Elena Vorrath.</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/P9JCSV/</link>
-        </links>
-      </event>
-      <event id="1411" guid="9e097e30-fd31-5996-97d8-4c734188716c">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_CADUS!_Humanitarian_Aid_goes_Open_Source</url>
-        <logo/>
-        <date>2019-08-24T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1411-session_meet_cadus_humanitarian_aid_goes_open_source</slug>
-        <title>Meet CADUS! Humanitarian Aid goes Open Source</title>
-        <subtitle>Location: Feuerstelle (Workshop)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the "consultation hours" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/VT87DH/</link>
-        </links>
-      </event>
-      <event id="1414" guid="a8332fb3-4b7d-42c8-96d4-9eaf1250148a">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Re-boot_yourself!</url>
-        <logo/>
-        <date>2019-08-24T11:00:00+02:00</date>
-        <start>11:00</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1414-session_re_boot_yourself_</slug>
-        <title>Re-boot yourself!</title>
-        <subtitle>location: Lagerfeuer (Workshop)</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Yoga für diejenigen, die bisher hauptsächlich die Computer-Asana praktizieren. Auf deutsch, bei Bedarf auch Englisch. (Asana= (sitzende) Körperstellung im Yoga) Yoga for people who practice Computer Asana most of the time. In German, english as needed. (asana = (sitting) body posture in Yoga)</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/ARNTML/</link>
-        </links>
       </event>
     </room>
     <room name="Village:C-base">
@@ -11786,6 +11242,160 @@ The laws of physics inherently contain dynamics capable of creating aestheticall
         <attachments/>
       </event>
     </room>
+    <room name="Rockmore Booth">
+      <event id="10431" guid="a04a2a51-c372-4bde-8d99-c3297146fe59">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10431.html</url>
+        <logo>/system/events/logos/000/010/431/large/jhns.jpg?1566155221</logo>
+        <date>2019-08-25T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>03:00</duration>
+        <room>Rockmore Booth</room>
+        <slug>camp19lounge-10431-jhns</slug>
+        <title>JHNS</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Czech producer and DJ for more than 14 years. During his career played across the Czech Republic, Slovakia, Ibiza, Orlando (US), Niznij Novgorod (RUS), SHA 2017 (NL), Amsterdam Dance Event 2015, 2016 (NL). Johannes is co-owner of Lisztomania Records and at this time has around 50 releases on respected labels such as DeepWit Recordings, Sole Channel Music, Delve Deeper, SP Recordings. He is also the resident of Ibiza Live Radio and together with Denzik play b2b for over 2 years. From 2017 for his specific house music sound have some releases under name JHNS with release on Blind Vison Records and more to come.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/jhnsmusic">JHNS on Soundcloud</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10432" guid="d380e4bc-55f2-417b-9f37-e14efb1cf8ee">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10432.html</url>
+        <logo>/system/events/logos/000/010/432/large/mo.jpg?1566155936</logo>
+        <date>2019-08-25T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>03:00</duration>
+        <room>Rockmore Booth</room>
+        <slug>camp19lounge-10432-mogreens</slug>
+        <title>mogreens</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>the maker of the ambient floor at the congress</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="http://mogreens.de/">mogreens homepage</link>
+        </links>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Kemistry Lounge">
+      <event id="10433" guid="bb6567c9-2e2e-4e43-8679-6ce87341d6e2">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10433.html</url>
+        <logo/>
+        <date>2019-08-25T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>02:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10433-nele_cornelius</slug>
+        <title>nele &amp; cornelius</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/nele-wittler">Niki Nebel</link>
+          <link href="https://soundcloud.com/cornelius11">Cornelius</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10434" guid="0912c0ba-228f-41e2-bac1-1b91ebd40755">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10434.html</url>
+        <logo>/system/events/logos/000/010/434/large/marc_pano.jpeg?1566335260</logo>
+        <date>2019-08-25T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>02:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10434-pale_lynx</slug>
+        <title>Pale Lynx</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Zur Volljährigkeit der Sportbrigade Sparwasser debütiert ein weiteres&#13;
+Seitenprojekt des Berliner DJ Duetts: Pale Lynx mixt die sportbrigade-typischen tiefen Bässe und schweren Beats mit vielschichtigem knittersound. eckig und warm. weich und luchsig.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/sportbrigade-sparwasser">Sportbrigade Sparwasser on Soundcloud</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10435" guid="e7955607-1510-40d8-8fea-47c151be4be4">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10435.html</url>
+        <logo>/system/events/logos/000/010/435/large/spock.jpg?1566156578</logo>
+        <date>2019-08-26T00:00:00+02:00</date>
+        <start>00:00</start>
+        <duration>02:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10435-dj-spock</slug>
+        <title>dj-spock</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>to boldly go...</abstract>
+        <description>music for a long and prosper life</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/dj-spock-ffm">dj-spock on Soundcloud</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10436" guid="79e5bbac-adb3-42be-8342-9ca76ab8a5ff">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10436.html</url>
+        <logo/>
+        <date>2019-08-26T02:00:00+02:00</date>
+        <start>02:00</start>
+        <duration>03:00</duration>
+        <room>Kemistry Lounge</room>
+        <slug>camp19lounge-10436-silvie</slug>
+        <title>Silvie</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>from out of space into the rabbit hole…</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
     <room name="Plank">
       <event id="166" guid="85f449be-d06e-5ab8-bb06-a45f9d1347fa">
         <logo/>
@@ -11972,160 +11582,10 @@ you for many different reasons and would like to talk about that.</description>
         <answers/>
       </event>
     </room>
-    <room name="Kemistry Lounge">
-      <event id="10433" guid="bb6567c9-2e2e-4e43-8679-6ce87341d6e2">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10433.html</url>
-        <logo/>
-        <date>2019-08-25T20:00:00+02:00</date>
-        <start>20:00</start>
-        <duration>02:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10433-nele_cornelius</slug>
-        <title>nele &amp; cornelius</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://soundcloud.com/nele-wittler">Niki Nebel</link>
-          <link href="https://soundcloud.com/cornelius11">Cornelius</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10434" guid="0912c0ba-228f-41e2-bac1-1b91ebd40755">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10434.html</url>
-        <logo>/system/events/logos/000/010/434/large/marc_pano.jpeg?1566335260</logo>
-        <date>2019-08-25T22:00:00+02:00</date>
-        <start>22:00</start>
-        <duration>02:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10434-pale_lynx</slug>
-        <title>Pale Lynx</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>Zur Volljährigkeit der Sportbrigade Sparwasser debütiert ein weiteres&#13;
-Seitenprojekt des Berliner DJ Duetts: Pale Lynx mixt die sportbrigade-typischen tiefen Bässe und schweren Beats mit vielschichtigem knittersound. eckig und warm. weich und luchsig.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://soundcloud.com/sportbrigade-sparwasser">Sportbrigade Sparwasser on Soundcloud</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10435" guid="e7955607-1510-40d8-8fea-47c151be4be4">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10435.html</url>
-        <logo>/system/events/logos/000/010/435/large/spock.jpg?1566156578</logo>
-        <date>2019-08-26T00:00:00+02:00</date>
-        <start>00:00</start>
-        <duration>02:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10435-dj-spock</slug>
-        <title>dj-spock</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>to boldly go...</abstract>
-        <description>music for a long and prosper life</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://soundcloud.com/dj-spock-ffm">dj-spock on Soundcloud</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10436" guid="79e5bbac-adb3-42be-8342-9ca76ab8a5ff">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10436.html</url>
-        <logo/>
-        <date>2019-08-26T02:00:00+02:00</date>
-        <start>02:00</start>
-        <duration>03:00</duration>
-        <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10436-silvie</slug>
-        <title>Silvie</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>from out of space into the rabbit hole…</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
-    <room name="Rockmore Booth">
-      <event id="10431" guid="a04a2a51-c372-4bde-8d99-c3297146fe59">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10431.html</url>
-        <logo>/system/events/logos/000/010/431/large/jhns.jpg?1566155221</logo>
-        <date>2019-08-25T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>03:00</duration>
-        <room>Rockmore Booth</room>
-        <slug>camp19lounge-10431-jhns</slug>
-        <title>JHNS</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>Czech producer and DJ for more than 14 years. During his career played across the Czech Republic, Slovakia, Ibiza, Orlando (US), Niznij Novgorod (RUS), SHA 2017 (NL), Amsterdam Dance Event 2015, 2016 (NL). Johannes is co-owner of Lisztomania Records and at this time has around 50 releases on respected labels such as DeepWit Recordings, Sole Channel Music, Delve Deeper, SP Recordings. He is also the resident of Ibiza Live Radio and together with Denzik play b2b for over 2 years. From 2017 for his specific house music sound have some releases under name JHNS with release on Blind Vison Records and more to come.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://soundcloud.com/jhnsmusic">JHNS on Soundcloud</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10432" guid="d380e4bc-55f2-417b-9f37-e14efb1cf8ee">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10432.html</url>
-        <logo>/system/events/logos/000/010/432/large/mo.jpg?1566155936</logo>
-        <date>2019-08-25T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>03:00</duration>
-        <room>Rockmore Booth</room>
-        <slug>camp19lounge-10432-mogreens</slug>
-        <title>mogreens</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>djset</type>
-        <language>en</language>
-        <abstract>the maker of the ambient floor at the congress</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="http://mogreens.de/">mogreens homepage</link>
-        </links>
-        <attachments/>
-      </event>
-    </room>
+    <room name="Hackcenter"/>
+    <room name="Johnson (Workshop 1)"/>
+    <room name="Goldberg (Workshop 2)"/>
+    <room name="Fireplace (Workshop THM)"/>
     <room name="Village:Haecksen">
       <event id="1270" guid="70d9eabd-198b-4bbb-98bd-1d60a7587bc8">
         <url>https://events.ccc.de/camp/2019/wiki/Session:B%C3%B6ser_Sprechworkshop</url>
@@ -12146,68 +11606,6 @@ Seitenprojekt des Berliner DJ Duetts: Pale Lynx mixt die sportbrigade-typischen 
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
         </persons>
         <links/>
-      </event>
-    </room>
-    <room name="Village:Three Headed Monkey">
-      <event id="1401" guid="7fa2f608-b079-49b4-aa1c-761e37e76fe7">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Capitana_vs._Benito_Salvini_-_%C3%BCber_die_Erosion_von_Grundrechten_und_was_wir_dagegen_tun_k%C3%B6nnen</url>
-        <logo/>
-        <date>2019-08-25T15:00:00+02:00</date>
-        <start>15:00</start>
-        <duration>0:30</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1401-session_capitana_vs_benito_salvini_ueber_die_erosion_von_grundrechten_und_was_wir_dagegen_tun_koennen</slug>
-        <title>Capitana vs. Benito Salvini - über die Erosion von Grundrechten und was wir dagegen tun können</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/TX3WKW/</link>
-        </links>
-      </event>
-      <event id="1415" guid="6bcb76d0-3176-43f6-9e14-e4a2c3ec3a3e">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Verstehbahnhof_and_beyond_--_building_the_ultimate_digital_playground</url>
-        <logo/>
-        <date>2019-08-25T16:30:00+02:00</date>
-        <start>16:30</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1415-session_verstehbahnhof_and_beyond_building_the_ultimate_digital_playground</slug>
-        <title>Verstehbahnhof and beyond -- building the ultimate digital playground</title>
-        <subtitle>location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>Less than two years ago, we set out to create a hacker-and makerspace in the rural countryside of Brandenburg, twenty something minutes north-west of camp, in Fuerstenberg/Havel. Dubbed "Verstehbahnhof", as it is located in the local (and still operating) trainstation, the space was setup as an open educational space for the up- and coming and a shared workshop and space for like-minded grown-ups. This project, by now, has grown into much more than that. And we think it is time for you to know about a few things.</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/7QKPYA/</link>
-        </links>
-      </event>
-      <event id="1416" guid="79f2d637-cb7a-4b28-9ed3-3c428a83d265">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:ZpS_-_Bildung_einer_kriminellen_Vereinigung</url>
-        <logo/>
-        <date>2019-08-25T15:45:00+02:00</date>
-        <start>15:45</start>
-        <duration>1:00</duration>
-        <room>Village:Three Headed Monkey</room>
-        <slug>camp2019-1416-session_zps_bildung_einer_kriminellen_vereinigung</slug>
-        <title>ZpS - Bildung einer kriminellen Vereinigung</title>
-        <subtitle>location: Planke (Bühne)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Zentrum für politische Schönheit</description>
-        <persons/>
-        <links>
-          <link>https://talx.thm.cloud/thms/talk/QHMZQM/</link>
-        </links>
       </event>
     </room>
     <room name="Village:About:freedom">

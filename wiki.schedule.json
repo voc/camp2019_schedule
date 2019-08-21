@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-22 00:40",
+    "version": "2019-08-22 01:06",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -15,6 +15,8 @@
           "day_start": "2019-08-21T09:00:00+02:00",
           "day_end": "2019-08-22T04:00:00+02:00",
           "rooms": {
+            "Rockmore Booth": [],
+            "Kemistry Lounge": [],
             "Plank": [],
             "Hackcenter": [
               {
@@ -137,7 +139,7 @@
                 ]
               }
             ],
-            "THM Workshop": [],
+            "Fireplace (Workshop THM)": [],
             "Village:Haecksen": [
               {
                 "id": 1274,
@@ -1665,6 +1667,8 @@
           "day_start": "2019-08-22T09:00:00+02:00",
           "day_end": "2019-08-23T04:00:00+02:00",
           "rooms": {
+            "Rockmore Booth": [],
+            "Kemistry Lounge": [],
             "Plank": [],
             "Hackcenter": [],
             "Johnson (Workshop 1)": [
@@ -1881,7 +1885,7 @@
                 ]
               }
             ],
-            "THM Workshop": [],
+            "Fireplace (Workshop THM)": [],
             "Village:Three Headed Monkey": [
               {
                 "id": 1393,
@@ -3951,6 +3955,8 @@
           "day_start": "2019-08-23T09:00:00+02:00",
           "day_end": "2019-08-24T04:00:00+02:00",
           "rooms": {
+            "Rockmore Booth": [],
+            "Kemistry Lounge": [],
             "Plank": [],
             "Hackcenter": [
               {
@@ -4104,7 +4110,7 @@
                 "links": []
               }
             ],
-            "THM Workshop": [],
+            "Fireplace (Workshop THM)": [],
             "Village:Backspace": [
               {
                 "id": 1029,
@@ -5950,6 +5956,8 @@
           "day_start": "2019-08-24T09:00:00+02:00",
           "day_end": "2019-08-25T04:00:00+02:00",
           "rooms": {
+            "Rockmore Booth": [],
+            "Kemistry Lounge": [],
             "Plank": [],
             "Hackcenter": [
               {
@@ -6020,7 +6028,7 @@
               }
             ],
             "Goldberg (Workshop 2)": [],
-            "THM Workshop": [],
+            "Fireplace (Workshop THM)": [],
             "Village:About:freedom": [
               {
                 "id": 1176,
@@ -7388,11 +7396,13 @@
           "day_start": "2019-08-25T09:00:00+02:00",
           "day_end": "2019-08-26T04:00:00+02:00",
           "rooms": {
+            "Rockmore Booth": [],
+            "Kemistry Lounge": [],
             "Plank": [],
             "Hackcenter": [],
             "Johnson (Workshop 1)": [],
             "Goldberg (Workshop 2)": [],
-            "THM Workshop": [],
+            "Fireplace (Workshop THM)": [],
             "Village:Haecksen": [
               {
                 "id": 1270,

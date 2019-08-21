@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-22 00:40</version>
+  <version>2019-08-22 01:06</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -10,6 +10,8 @@
     <base_url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/</base_url>
   </conference>
   <day index="1" date="2019-08-21" start="2019-08-21T09:00:00+02:00" end="2019-08-22T04:00:00+02:00">
+    <room name="Rockmore Booth"/>
+    <room name="Kemistry Lounge"/>
     <room name="Plank"/>
     <room name="Hackcenter">
       <event id="1233" guid="f5d15859-c9b5-44c8-8565-cb22daacedc8">
@@ -104,7 +106,7 @@
         </links>
       </event>
     </room>
-    <room name="THM Workshop"/>
+    <room name="Fireplace (Workshop THM)"/>
     <room name="Village:Haecksen">
       <event id="1274" guid="cc994b81-832a-4206-aa6b-64d587849cd1">
         <url>https://events.ccc.de/camp/2019/wiki/Session:A_capella</url>
@@ -1334,6 +1336,8 @@
     </room>
   </day>
   <day index="2" date="2019-08-22" start="2019-08-22T09:00:00+02:00" end="2019-08-23T04:00:00+02:00">
+    <room name="Rockmore Booth"/>
+    <room name="Kemistry Lounge"/>
     <room name="Plank"/>
     <room name="Hackcenter"/>
     <room name="Johnson (Workshop 1)">
@@ -1510,7 +1514,7 @@
         </links>
       </event>
     </room>
-    <room name="THM Workshop"/>
+    <room name="Fireplace (Workshop THM)"/>
     <room name="Village:Three Headed Monkey">
       <event id="1393" guid="cb80ca4e-2fda-4e16-bef8-a7226174b91f">
         <url>https://events.ccc.de/camp/2019/wiki/Session:15_Jahre_netzpolitik.org</url>
@@ -3154,6 +3158,8 @@
     </room>
   </day>
   <day index="3" date="2019-08-23" start="2019-08-23T09:00:00+02:00" end="2019-08-24T04:00:00+02:00">
+    <room name="Rockmore Booth"/>
+    <room name="Kemistry Lounge"/>
     <room name="Plank"/>
     <room name="Hackcenter">
       <event id="1041" guid="7976438d-2b1a-4303-96f5-d6846c9f42f6">
@@ -3283,7 +3289,7 @@
         <links/>
       </event>
     </room>
-    <room name="THM Workshop"/>
+    <room name="Fireplace (Workshop THM)"/>
     <room name="Village:Backspace">
       <event id="1029" guid="0d7d26f7-702d-4311-8e34-a6aa8ef87895">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Advi_Weekly_Aufnahme</url>
@@ -4753,6 +4759,8 @@
     </room>
   </day>
   <day index="4" date="2019-08-24" start="2019-08-24T09:00:00+02:00" end="2019-08-25T04:00:00+02:00">
+    <room name="Rockmore Booth"/>
+    <room name="Kemistry Lounge"/>
     <room name="Plank"/>
     <room name="Hackcenter">
       <event id="1040" guid="6ad28881-1413-46a4-837a-315359e19aeb">
@@ -4817,7 +4825,7 @@
       </event>
     </room>
     <room name="Goldberg (Workshop 2)"/>
-    <room name="THM Workshop"/>
+    <room name="Fireplace (Workshop THM)"/>
     <room name="Village:About:freedom">
       <event id="1176" guid="a208d05f-cafd-4680-9f4e-760994a1202d">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Advanced_web_tracking_methods</url>
@@ -5905,11 +5913,13 @@
     </room>
   </day>
   <day index="5" date="2019-08-25" start="2019-08-25T09:00:00+02:00" end="2019-08-26T04:00:00+02:00">
+    <room name="Rockmore Booth"/>
+    <room name="Kemistry Lounge"/>
     <room name="Plank"/>
     <room name="Hackcenter"/>
     <room name="Johnson (Workshop 1)"/>
     <room name="Goldberg (Workshop 2)"/>
-    <room name="THM Workshop"/>
+    <room name="Fireplace (Workshop THM)"/>
     <room name="Village:Haecksen">
       <event id="1270" guid="70d9eabd-198b-4bbb-98bd-1d60a7587bc8">
         <url>https://events.ccc.de/camp/2019/wiki/Session:B%C3%B6ser_Sprechworkshop</url>
