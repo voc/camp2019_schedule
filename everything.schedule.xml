@@ -1,5 +1,5 @@
 <schedule>
-  <version>Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Idril; wiki 2019-08-21 18:10</version>
+  <version>Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Idril; wiki 2019-08-21 18:20</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -1765,15 +1765,35 @@ and amusement.</description>
           <link>https://substrate.dev/en/tutorials</link>
         </links>
       </event>
-      <event id="1378" guid="8fa99d26-d9d3-5bd2-864e-315a698e0985">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Systemabsturz_konzert</url>
+      <event id="1380" guid="e869af6c-ef08-50f0-8fbe-ab08753d6fe7">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Systemabsturz_-_Datenschutzelektropunkstrash_Konzert</url>
         <logo/>
         <date>2019-08-21T22:00:00+02:00</date>
         <start>22:00</start>
         <duration>1:00</duration>
         <room>Village:About:freedom</room>
-        <slug>camp2019-1378-session_systemabsturz_konzert</slug>
-        <title>Systemabsturz konzert</title>
+        <slug>camp2019-1380-session_systemabsturz_datenschutzelektropunkstrash_konzert</slug>
+        <title>Systemabsturz - Datenschutzelektropunkstrash Konzert</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Datenschutz-Elektropunktrash</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Benks">Benks</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1381" guid="4e3dbbb5-edd9-5150-91e9-d49d30a1d5b6">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Systemabsturz_-_Konzertvorgl%C3%BChen</url>
+        <logo/>
+        <date>2019-08-21T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1381-session_systemabsturz_konzertvorgluehen</slug>
+        <title>Systemabsturz - Konzertvorglühen</title>
         <subtitle/>
         <track>self organized sessions</track>
         <type>other</type>
@@ -7517,6 +7537,7 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
         <description/>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Benks">Benks</person>
         </persons>
         <links/>
       </event>

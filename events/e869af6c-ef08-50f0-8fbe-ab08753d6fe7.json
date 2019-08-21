@@ -1,0 +1,26 @@
+{
+  "id": 1380,
+  "guid": "e869af6c-ef08-50f0-8fbe-ab08753d6fe7",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Systemabsturz_-_Datenschutzelektropunkstrash_Konzert",
+  "logo": null,
+  "date": "2019-08-21T22:00:00+02:00",
+  "start": "22:00",
+  "duration": "1:00",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1380-session_systemabsturz_datenschutzelektropunkstrash_konzert",
+  "title": "Systemabsturz - Datenschutzelektropunkstrash Konzert",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "other",
+  "language": "de",
+  "abstract": "",
+  "description": "Datenschutz-Elektropunktrash",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Benks",
+      "public_name": "Benks"
+    }
+  ],
+  "links": []
+}
