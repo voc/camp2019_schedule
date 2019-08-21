@@ -1,5 +1,5 @@
 <schedule>
-  <version>Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 20:10</version>
+  <version>Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 21:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -5623,6 +5623,49 @@ Publikum vor.</abstract>
         </links>
       </event>
     </room>
+    <room name="Village:Metalab Dome">
+      <event id="1417" guid="cf044024-4111-4e64-9c4a-11c6f1dd12d2">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Gameboy_Tetris_Tournament</url>
+        <logo/>
+        <date>2019-08-22T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Village:Metalab Dome</room>
+        <slug>camp2019-1417-session_gameboy_tetris_tournament</slug>
+        <title>Gameboy Tetris Tournament</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Gameboys! Link Cables! Tetris! Competition!</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1230" guid="f28bdd0a-d215-4af6-8c78-9a0ed4e0d758">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Regio_Mediation</url>
+        <logo/>
+        <date>2019-08-22T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Village:Metalab Dome</room>
+        <slug>camp2019-1230-session_regio_mediation</slug>
+        <title>Regio Mediation</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Streitigkeiten, die sich schon tiefer in einen Verein eingetreten haben oder sogar mit Machtgefällen behaftet sind, sind nicht einfach aus der Welt zu schaffen und können eine gute Vereinsarbeit über lange Zeit lähmen.  Wir glauben, um diese Probleme zu lösen, könnenn uns die Techniken der Mediation weiterhelfen.  Wir vermuten außerdem, dass schon viel Erfahrung im CCC und seinen Mitgliedern schlummert und wollen euch einladen mit uns Idee noch weiter auszuarbeiten.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Susi">Susi</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Dkl">Dkl</person>
+        </persons>
+        <links>
+          <link>https://doku.ccc.de/Regiowochenende_2019</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:Ecohackerfarm">
       <event id="1358" guid="e4fe9aff-1b9e-4c51-8ca1-fd87cd9a4984">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Get_to_know_Eco_Hacker_Farm</url>
@@ -5963,31 +6006,6 @@ Publikum vor.</abstract>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Binbash">Binbash</person>
         </persons>
         <links/>
-      </event>
-    </room>
-    <room name="Village:Metalab Dome">
-      <event id="1230" guid="f28bdd0a-d215-4af6-8c78-9a0ed4e0d758">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Regio_Mediation</url>
-        <logo/>
-        <date>2019-08-22T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>2:00</duration>
-        <room>Village:Metalab Dome</room>
-        <slug>camp2019-1230-session_regio_mediation</slug>
-        <title>Regio Mediation</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>Streitigkeiten, die sich schon tiefer in einen Verein eingetreten haben oder sogar mit Machtgefällen behaftet sind, sind nicht einfach aus der Welt zu schaffen und können eine gute Vereinsarbeit über lange Zeit lähmen.  Wir glauben, um diese Probleme zu lösen, könnenn uns die Techniken der Mediation weiterhelfen.  Wir vermuten außerdem, dass schon viel Erfahrung im CCC und seinen Mitgliedern schlummert und wollen euch einladen mit uns Idee noch weiter auszuarbeiten.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Susi">Susi</person>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Dkl">Dkl</person>
-        </persons>
-        <links>
-          <link>https://doku.ccc.de/Regiowochenende_2019</link>
-        </links>
       </event>
     </room>
     <room name="Village:Harbor">

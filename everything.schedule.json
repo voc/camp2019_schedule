@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 20:10",
+    "version": "Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 21:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -6288,6 +6288,61 @@
                 ]
               }
             ],
+            "Village:Metalab Dome": [
+              {
+                "id": 1417,
+                "guid": "cf044024-4111-4e64-9c4a-11c6f1dd12d2",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Gameboy_Tetris_Tournament",
+                "logo": null,
+                "date": "2019-08-22T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "Village:Metalab Dome",
+                "slug": "camp2019-1417-session_gameboy_tetris_tournament",
+                "title": "Gameboy Tetris Tournament",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Gameboys! Link Cables! Tetris! Competition!",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1230,
+                "guid": "f28bdd0a-d215-4af6-8c78-9a0ed4e0d758",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Regio_Mediation",
+                "logo": null,
+                "date": "2019-08-22T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "2:00",
+                "room": "Village:Metalab Dome",
+                "slug": "camp2019-1230-session_regio_mediation",
+                "title": "Regio Mediation",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Streitigkeiten, die sich schon tiefer in einen Verein eingetreten haben oder sogar mit Machtgef\u00e4llen behaftet sind, sind nicht einfach aus der Welt zu schaffen und k\u00f6nnen eine gute Vereinsarbeit \u00fcber lange Zeit l\u00e4hmen.  Wir glauben, um diese Probleme zu l\u00f6sen, k\u00f6nnenn uns die Techniken der Mediation weiterhelfen.  Wir vermuten au\u00dferdem, dass schon viel Erfahrung im CCC und seinen Mitgliedern schlummert und wollen euch einladen mit uns Idee noch weiter auszuarbeiten.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Susi",
+                    "public_name": "Susi"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Dkl",
+                    "public_name": "Dkl"
+                  }
+                ],
+                "links": [
+                  "https://doku.ccc.de/Regiowochenende_2019"
+                ]
+              }
+            ],
             "Village:Ecohackerfarm": [
               {
                 "id": 1358,
@@ -6718,41 +6773,6 @@
                   }
                 ],
                 "links": []
-              }
-            ],
-            "Village:Metalab Dome": [
-              {
-                "id": 1230,
-                "guid": "f28bdd0a-d215-4af6-8c78-9a0ed4e0d758",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Regio_Mediation",
-                "logo": null,
-                "date": "2019-08-22T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "2:00",
-                "room": "Village:Metalab Dome",
-                "slug": "camp2019-1230-session_regio_mediation",
-                "title": "Regio Mediation",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "de",
-                "abstract": "",
-                "description": "Streitigkeiten, die sich schon tiefer in einen Verein eingetreten haben oder sogar mit Machtgef\u00e4llen behaftet sind, sind nicht einfach aus der Welt zu schaffen und k\u00f6nnen eine gute Vereinsarbeit \u00fcber lange Zeit l\u00e4hmen.  Wir glauben, um diese Probleme zu l\u00f6sen, k\u00f6nnenn uns die Techniken der Mediation weiterhelfen.  Wir vermuten au\u00dferdem, dass schon viel Erfahrung im CCC und seinen Mitgliedern schlummert und wollen euch einladen mit uns Idee noch weiter auszuarbeiten.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Susi",
-                    "public_name": "Susi"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Dkl",
-                    "public_name": "Dkl"
-                  }
-                ],
-                "links": [
-                  "https://doku.ccc.de/Regiowochenende_2019"
-                ]
               }
             ],
             "Village:Harbor": [
