@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-21 15:10</version>
+  <version>2019-08-21 15:20</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -945,6 +945,24 @@
         <links>
           <link>http://isomer.eu</link>
         </links>
+      </event>
+      <event id="1101" guid="8ee75b4c-727a-44d8-ae76-3da535871523">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Kubernetes_Security_Overview</url>
+        <logo/>
+        <date>2019-08-21T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Village:C-base</room>
+        <slug>camp2019-1101-session_kubernetes_security_overview</slug>
+        <title>Kubernetes Security Overview</title>
+        <subtitle>Kubernetes Security Basics</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Kubernetes makes it easy to deploy microservices. However, the price is a huge amount of complexity. If you use Kubernetes, it is high time to learn the basics of container and Kubernetes security.  Handson workshop on selected topics of Kubernetes security.</description>
+        <persons/>
+        <links/>
       </event>
     </room>
     <room name="Village:Milliways">

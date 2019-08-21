@@ -1,5 +1,5 @@
 <schedule>
-  <version>Elnath; thm Monkey Island 2: LeChuck’s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 15:10</version>
+  <version>Fomalhaut ; thm Monkey Island 2: LeChuck’s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 15:20</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -97,33 +97,6 @@ Finally, it is shown, how Istio has handled the bug report and how future versio
           <person id="1382">Thomas Fricke</person>
         </persons>
         <links/>
-        <attachments/>
-      </event>
-      <event id="10389" guid="d178f21d-4837-4a49-ae27-0f6abf703465">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10389.html</url>
-        <logo>/system/events/logos/000/010/389/large/baumhaus.jpg?1565954270</logo>
-        <date>2019-08-21T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>00:45</duration>
-        <room>Curie</room>
-        <slug>Camp2019-10389-hambacher_forst_hambibleibt</slug>
-        <title>Hambacher Forst #hambibleibt </title>
-        <subtitle>Vom Widerstand gegen Braunkohletagebaue, die Klimakatastrophe und über das Leben in einer Waldbesetzung</subtitle>
-        <track>Ethics, Society &amp; Politics</track>
-        <type>lecture</type>
-        <language>de</language>
-        <abstract>Seit 2012 ist der Hambacher Wald besetzt. </abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="9147">mynameisnotimportant / hambacher forst</person>
-        </persons>
-        <links>
-          <link href="https://hambacherforst.org">Hambacher Forst Waldbesetzung</link>
-        </links>
         <attachments/>
       </event>
       <event id="10309" guid="0a99f1db-dfad-4534-888c-bd98acc576b3">
@@ -248,8 +221,12 @@ There's only one way to find out. See you at the talk!</description>
         <links>
           <link href="https://rebellion.earth/">rebellion.earth</link>
           <link href="https://extinctionrebellion.de/">extinctionrebellion.de</link>
+          <link href="https://twitter.com/xrberlin">twitter.com/xrberlin</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/786/original/XR_CCC_2019_Praese_03.pdf?1566384611">XR_CCCamp19_AufstandOderAussterben_Presentation</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/787/original/XR_CCC_2019_Talk_03.pdf?1566384611">XR_CCCamp19_AufstandOderAussterben_Text</attachment>
+        </attachments>
       </event>
       <event id="10248" guid="4965ee72-6d7b-4e68-85f7-4d6c4f0c9041">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10248.html</url>
@@ -458,7 +435,9 @@ While DoT was initially mostly ignored by OS vendors, ISPs and users alike, DoH 
           <person id="8952">Egor</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/789/original/Intro_to_network_security.pdf?1566391211">Intro to network security - slides</attachment>
+        </attachments>
       </event>
       <event id="10324" guid="7c043172-6fbe-4a23-a990-69c5bcab8f5d">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10324.html</url>
@@ -485,7 +464,9 @@ While DoT was initially mostly ignored by OS vendors, ISPs and users alike, DoH 
         <links>
           <link href="http://jarkman.co.uk/catalog/robots/worldotechno.htm">World'o'Techno</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/788/original/Jarkman_CCCamp19_talk_-_On_bendy_inflatables_and_travelling_techno.pdf?1566390436">Jarkman_CCCamp19_talk_-_On_bendy_inflatables_and_travelling_techno.pdf</attachment>
+        </attachments>
       </event>
       <event id="10286" guid="a4e27089-dc12-4e83-93c9-8ac5cb8bad6e">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10286.html</url>
@@ -2050,6 +2031,24 @@ and amusement.</description>
           <link>http://isomer.eu</link>
         </links>
       </event>
+      <event id="1101" guid="8ee75b4c-727a-44d8-ae76-3da535871523">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Kubernetes_Security_Overview</url>
+        <logo/>
+        <date>2019-08-21T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Village:C-base</room>
+        <slug>camp2019-1101-session_kubernetes_security_overview</slug>
+        <title>Kubernetes Security Overview</title>
+        <subtitle>Kubernetes Security Basics</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Kubernetes makes it easy to deploy microservices. However, the price is a huge amount of complexity. If you use Kubernetes, it is high time to learn the basics of container and Kubernetes security.  Handson workshop on selected topics of Kubernetes security.</description>
+        <persons/>
+        <links/>
+      </event>
     </room>
     <room name="Village:Milliways">
       <event id="1343" guid="010a82f9-f773-4784-8536-cd7009cdefce">
@@ -2478,6 +2477,33 @@ problems of extremism in modern society is a mistake. </description>
       </event>
     </room>
     <room name="Meitner">
+      <event id="10389" guid="d178f21d-4837-4a49-ae27-0f6abf703465">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10389.html</url>
+        <logo>/system/events/logos/000/010/389/large/baumhaus.jpg?1565954270</logo>
+        <date>2019-08-22T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>00:45</duration>
+        <room>Meitner</room>
+        <slug>Camp2019-10389-hambacher_forst_hambibleibt</slug>
+        <title>Hambacher Forst #hambibleibt </title>
+        <subtitle>Vom Widerstand gegen Braunkohletagebaue, die Klimakatastrophe und über das Leben in einer Waldbesetzung</subtitle>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Seit 2012 ist der Hambacher Wald besetzt. </abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="9147">mynameisnotimportant / hambacher forst</person>
+        </persons>
+        <links>
+          <link href="https://hambacherforst.org">Hambacher Forst Waldbesetzung</link>
+        </links>
+        <attachments/>
+      </event>
       <event id="10380" guid="117f530f-a20b-4071-b208-39e989a42408">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10380.html</url>
         <logo/>

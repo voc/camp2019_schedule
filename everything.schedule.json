@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Elnath; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 15:10",
+    "version": "Fomalhaut ; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 15:20",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -102,39 +102,6 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
-              },
-              {
-                "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10389.html",
-                "id": 10389,
-                "guid": "d178f21d-4837-4a49-ae27-0f6abf703465",
-                "logo": "/system/events/logos/000/010/389/large/baumhaus.jpg?1565954270",
-                "date": "2019-08-21T14:00:00+02:00",
-                "start": "14:00",
-                "duration": "00:45",
-                "room": "Curie",
-                "slug": "Camp2019-10389-hambacher_forst_hambibleibt",
-                "title": "Hambacher Forst #hambibleibt ",
-                "subtitle": "Vom Widerstand gegen Braunkohletagebaue, die Klimakatastrophe und \u00fcber das Leben in einer Waldbesetzung",
-                "track": "Ethics, Society & Politics",
-                "type": "lecture",
-                "language": "de",
-                "abstract": "Seit 2012 ist der Hambacher Wald besetzt. ",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 9147,
-                    "public_name": "mynameisnotimportant / hambacher forst"
-                  }
-                ],
-                "links": [
-                  {
-                    "url": "https://hambacherforst.org",
-                    "title": "Hambacher Forst Waldbesetzung"
-                  }
-                ],
                 "attachments": []
               },
               {
@@ -284,9 +251,22 @@
                   {
                     "url": "https://extinctionrebellion.de/",
                     "title": "extinctionrebellion.de"
+                  },
+                  {
+                    "url": "https://twitter.com/xrberlin",
+                    "title": "twitter.com/xrberlin"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/786/original/XR_CCC_2019_Praese_03.pdf?1566384611",
+                    "title": "XR_CCCamp19_AufstandOderAussterben_Presentation"
+                  },
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/787/original/XR_CCC_2019_Talk_03.pdf?1566384611",
+                    "title": "XR_CCCamp19_AufstandOderAussterben_Text"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10248.html",
@@ -510,7 +490,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/789/original/Intro_to_network_security.pdf?1566391211",
+                    "title": "Intro to network security - slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10324.html",
@@ -543,7 +528,12 @@
                     "title": "World'o'Techno"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/788/original/Jarkman_CCCamp19_talk_-_On_bendy_inflatables_and_travelling_techno.pdf?1566390436",
+                    "title": "Jarkman_CCCamp19_talk_-_On_bendy_inflatables_and_travelling_techno.pdf"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10286.html",
@@ -2299,6 +2289,26 @@
                 "links": [
                   "http://isomer.eu"
                 ]
+              },
+              {
+                "id": 1101,
+                "guid": "8ee75b4c-727a-44d8-ae76-3da535871523",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Kubernetes_Security_Overview",
+                "logo": null,
+                "date": "2019-08-21T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "1:30",
+                "room": "Village:C-base",
+                "slug": "camp2019-1101-session_kubernetes_security_overview",
+                "title": "Kubernetes Security Overview",
+                "subtitle": "Kubernetes Security Basics",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Kubernetes makes it easy to deploy microservices. However, the price is a huge amount of complexity. If you use Kubernetes, it is high time to learn the basics of container and Kubernetes security.  Handson workshop on selected topics of Kubernetes security.",
+                "persons": [],
+                "links": []
               }
             ],
             "Village:Milliways": [
@@ -2813,6 +2823,39 @@
               }
             ],
             "Meitner": [
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10389.html",
+                "id": 10389,
+                "guid": "d178f21d-4837-4a49-ae27-0f6abf703465",
+                "logo": "/system/events/logos/000/010/389/large/baumhaus.jpg?1565954270",
+                "date": "2019-08-22T11:00:00+02:00",
+                "start": "11:00",
+                "duration": "00:45",
+                "room": "Meitner",
+                "slug": "Camp2019-10389-hambacher_forst_hambibleibt",
+                "title": "Hambacher Forst #hambibleibt ",
+                "subtitle": "Vom Widerstand gegen Braunkohletagebaue, die Klimakatastrophe und \u00fcber das Leben in einer Waldbesetzung",
+                "track": "Ethics, Society & Politics",
+                "type": "lecture",
+                "language": "de",
+                "abstract": "Seit 2012 ist der Hambacher Wald besetzt. ",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 9147,
+                    "public_name": "mynameisnotimportant / hambacher forst"
+                  }
+                ],
+                "links": [
+                  {
+                    "url": "https://hambacherforst.org",
+                    "title": "Hambacher Forst Waldbesetzung"
+                  }
+                ],
+                "attachments": []
+              },
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10380.html",
                 "id": 10380,
