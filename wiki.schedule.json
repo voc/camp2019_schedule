@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-21 17:00",
+    "version": "2019-08-21 17:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -4273,7 +4273,9 @@
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": []
+                "links": [
+                  "https://zenodo.org/record/3236807#.XV1aVOgzbIU"
+                ]
               }
             ],
             "Village:CCC-CH": [

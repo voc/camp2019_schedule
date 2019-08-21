@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-21 17:00</version>
+  <version>2019-08-21 17:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -3390,7 +3390,9 @@
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
         </persons>
-        <links/>
+        <links>
+          <link>https://zenodo.org/record/3236807#.XV1aVOgzbIU</link>
+        </links>
       </event>
     </room>
     <room name="Village:CCC-CH">

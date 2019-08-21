@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Fomalhaut ; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 17:00",
+    "version": "Fomalhaut ; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 17:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -8461,7 +8461,9 @@
                     "public_name": "Gnunicorn"
                   }
                 ],
-                "links": []
+                "links": [
+                  "https://zenodo.org/record/3236807#.XV1aVOgzbIU"
+                ]
               }
             ],
             "Village:CCC-CH": [

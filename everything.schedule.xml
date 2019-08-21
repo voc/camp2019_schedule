@@ -1,5 +1,5 @@
 <schedule>
-  <version>Fomalhaut ; thm Monkey Island 2: LeChuck’s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 17:00</version>
+  <version>Fomalhaut ; thm Monkey Island 2: LeChuck’s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 17:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -7562,7 +7562,9 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
         </persons>
-        <links/>
+        <links>
+          <link>https://zenodo.org/record/3236807#.XV1aVOgzbIU</link>
+        </links>
       </event>
     </room>
     <room name="Village:CCC-CH">
