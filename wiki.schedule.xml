@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-22 01:06</version>
+  <version>2019-08-22 01:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -5661,6 +5661,30 @@
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Fraxinas">Fraxinas</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="Village:HackLeman">
+      <event id="1285" guid="ada6ca92-709b-4574-b783-ea647d6ee9f3">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Gigatron_TTL_Computer</url>
+        <logo/>
+        <date>2019-08-24T14:30:00+02:00</date>
+        <start>14:30</start>
+        <duration>1:30</duration>
+        <room>Village:HackLeman</room>
+        <slug>camp2019-1285-session_gigatron_ttl_computer</slug>
+        <title>Gigatron TTL Computer</title>
+        <subtitle>Introduction, Hands-On</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Gigatron TTL computer introduction and workshop</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Kerouanton">Kerouanton</person>
+        </persons>
+        <links>
+          <link>https://gigatron.io</link>
+        </links>
       </event>
     </room>
     <room name="Village:LaTeX">

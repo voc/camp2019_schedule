@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-22 01:06",
+    "version": "2019-08-22 01:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -7060,6 +7060,36 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Village:HackLeman": [
+              {
+                "id": 1285,
+                "guid": "ada6ca92-709b-4574-b783-ea647d6ee9f3",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Gigatron_TTL_Computer",
+                "logo": null,
+                "date": "2019-08-24T14:30:00+02:00",
+                "start": "14:30",
+                "duration": "1:30",
+                "room": "Village:HackLeman",
+                "slug": "camp2019-1285-session_gigatron_ttl_computer",
+                "title": "Gigatron TTL Computer",
+                "subtitle": "Introduction, Hands-On",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Gigatron TTL computer introduction and workshop",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Kerouanton",
+                    "public_name": "Kerouanton"
+                  }
+                ],
+                "links": [
+                  "https://gigatron.io"
+                ]
               }
             ],
             "Village:LaTeX": [
