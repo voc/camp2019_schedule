@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-21 13:50</version>
+  <version>2019-08-21 14:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -2028,6 +2028,28 @@
         </links>
       </event>
     </room>
+    <room name="Village:Munich Maker Village">
+      <event id="1365" guid="2719e8e2-6c6f-4267-92b9-a699b82f5c64">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Introduction_to_LoRaWAN</url>
+        <logo/>
+        <date>2019-08-22T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Village:Munich Maker Village</room>
+        <slug>camp2019-1365-session_introduction_to_lorawan</slug>
+        <title>Introduction to LoRaWAN</title>
+        <subtitle>LoRaWAN Basics &amp; Building your own sensor node</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>An introduction to building IoT sensors and applications using the LoRaWAN standard The Things Network as free network provider</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Tiefpunkt">Tiefpunkt</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Village:Milliways">
       <event id="1341" guid="76a758fd-23da-4aa7-8d94-124a28e14e1d">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Modding_Milliways_-_Low-poly_Whiskyleaks</url>
@@ -3506,6 +3528,28 @@
         </links>
       </event>
     </room>
+    <room name="Village:Munich Maker Village">
+      <event id="1364" guid="46fd0666-6a0a-44df-935b-05aa3e45a248">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Introduction_to_LoRaWAN</url>
+        <logo/>
+        <date>2019-08-23T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Village:Munich Maker Village</room>
+        <slug>camp2019-1364-session_introduction_to_lorawan</slug>
+        <title>Introduction to LoRaWAN</title>
+        <subtitle>Building an application that consumes your sensor data</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>An introduction to building IoT sensors and applications using the LoRaWAN standard The Things Network as free network provider</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Tiefpunkt">Tiefpunkt</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Village:Fri3d Camp">
       <event id="1261" guid="dc6e98b3-7645-47c9-be4d-91ce0c17a618">
         <url>https://events.ccc.de/camp/2019/wiki/Session:IoT_Meetup</url>
@@ -4302,26 +4346,6 @@
         <abstract/>
         <description/>
         <persons/>
-        <links/>
-      </event>
-      <event id="1317" guid="0ae148cf-c24a-4353-a918-9158e99e61e7">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:RSA_Verschl%C3%BCsselung_selbst_rechnen</url>
-        <logo/>
-        <date>2019-08-24T17:30:00+02:00</date>
-        <start>17:30</start>
-        <duration>1:00</duration>
-        <room>Village:Haecksen</room>
-        <slug>camp2019-1317-session_rsa_verschluesselung_selbst_rechnen</slug>
-        <title>RSA Verschlüsselung selbst rechnen</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>de</language>
-        <abstract/>
-        <description>Die (gar nicht so schwere) Mathematik hinter RSA</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Janepie">Janepie</person>
-        </persons>
         <links/>
       </event>
       <event id="1312" guid="614078e0-9cf6-42e3-a957-17d77fe10582">

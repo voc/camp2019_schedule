@@ -1,0 +1,26 @@
+{
+  "id": 1364,
+  "guid": "46fd0666-6a0a-44df-935b-05aa3e45a248",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Introduction_to_LoRaWAN",
+  "logo": null,
+  "date": "2019-08-23T11:00:00+02:00",
+  "start": "11:00",
+  "duration": "2:00",
+  "room": "Village:Munich Maker Village",
+  "slug": "camp2019-1364-session_introduction_to_lorawan",
+  "title": "Introduction to LoRaWAN",
+  "subtitle": "Building an application that consumes your sensor data",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "An introduction to building IoT sensors and applications using the LoRaWAN standard The Things Network as free network provider",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Tiefpunkt",
+      "public_name": "Tiefpunkt"
+    }
+  ],
+  "links": []
+}
