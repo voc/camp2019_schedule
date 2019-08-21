@@ -1,0 +1,31 @@
+{
+  "id": 3143,
+  "guid": "a7184fea-36a5-5dc5-a98a-e9792836fbd0",
+  "logo": null,
+  "date": "2019-08-22T12:40:00+02:00",
+  "start": "12:40",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "FAQDBT",
+  "url": "https://c3lt.de/camp2019/talk/FAQDBT",
+  "title": "25 Jahre Internet f\u00fcr alle - und dann? - Der PING e.V.",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "de",
+  "abstract": "Das Internet war mal exotisch und ist nun allerorten. Wie \u00fcbersteht man als gemeinn\u00fctziger Internet-Verein diesen Wandel und was macht PING heute?",
+  "description": "PING wurde 1994 als gemeinn\u00fctziger Verein gegr\u00fcndet, um die damals noch exotischen Internetzug\u00e4nge f\u00fcr alle zu erm\u00f6glichen. Das geht nicht ohne technisches Wissen, und so war die Weiterbildung von Anfang an wichtiger Teil des Vereins. Aber alle wurden \u00e4lter, arbeiteten Vollzeit, gr\u00fcndeten zum Teil Familien, Zeit wurde knapp. Internet ist heute allerorten. Wie geht PING damit um und wie geht es weiter?",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 137,
+      "name": "Bettina",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

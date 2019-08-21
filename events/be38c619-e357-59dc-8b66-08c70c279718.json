@@ -1,0 +1,31 @@
+{
+  "id": 3142,
+  "guid": "be38c619-e357-59dc-8b66-08c70c279718",
+  "logo": null,
+  "date": "2019-08-22T12:50:00+02:00",
+  "start": "12:50",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "SLV9ZG",
+  "url": "https://c3lt.de/camp2019/talk/SLV9ZG",
+  "title": "Unified Alpha",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "Unifying capabilities of premultiplied- and straight alpha pixel encodings by dodging asymptotic and undefined behavior.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 136,
+      "name": "pippin",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

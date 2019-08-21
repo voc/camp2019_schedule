@@ -1,0 +1,31 @@
+{
+  "id": 3141,
+  "guid": "b7ec7f60-93df-57be-8c63-aed9b8b301c8",
+  "logo": null,
+  "date": "2019-08-22T13:45:00+02:00",
+  "start": "13:45",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "XL39BD",
+  "url": "https://c3lt.de/camp2019/talk/XL39BD",
+  "title": "Introducing Neurodiversity",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "A quick introduction of the concept of Neurodiversity and how it has been impacted by the internet and especially social media.",
+  "description": "Neurodiversity is the concept that there is a natural variance in the neurological makeup of humans and therefore some neurological provfiles which our society and science is currently classifying as (mental) illnesses or disorders are actually naturally occurring variations and should be treated as such instead of attempted to cure.Many Neurodiverse people have experienced the rise of social media platforms as liberating and opening new ways for them to communicate and participate in society.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 135,
+      "name": "Jontje",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

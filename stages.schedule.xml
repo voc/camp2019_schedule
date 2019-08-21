@@ -1,5 +1,5 @@
 <schedule>
-  <version>Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Idril</version>
+  <version>Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -1859,6 +1859,93 @@ TELL THE TRUTH</description>
         <attachments/>
         <answers/>
       </event>
+      <event id="3143" guid="a7184fea-36a5-5dc5-a98a-e9792836fbd0">
+        <logo/>
+        <date>2019-08-22T12:40:00+02:00</date>
+        <start>12:40</start>
+        <duration>00:05</duration>
+        <room>Meitner</room>
+        <slug>FAQDBT</slug>
+        <url>https://c3lt.de/camp2019/talk/FAQDBT</url>
+        <title>25 Jahre Internet für alle - und dann? - Der PING e.V.</title>
+        <subtitle/>
+        <track/>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>Das Internet war mal exotisch und ist nun allerorten. Wie übersteht man als gemeinnütziger Internet-Verein diesen Wandel und was macht PING heute?</abstract>
+        <description>PING wurde 1994 als gemeinnütziger Verein gegründet, um die damals noch exotischen Internetzugänge für alle zu ermöglichen. Das geht nicht ohne technisches Wissen, und so war die Weiterbildung von Anfang an wichtiger Teil des Vereins. Aber alle wurden älter, arbeiteten Vollzeit, gründeten zum Teil Familien, Zeit wurde knapp. Internet ist heute allerorten. Wie geht PING damit um und wie geht es weiter?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="137">
+            <name>Bettina</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3145" guid="6423c206-8e56-5cc0-9760-b28fd59df670">
+        <logo/>
+        <date>2019-08-22T12:45:00+02:00</date>
+        <start>12:45</start>
+        <duration>00:05</duration>
+        <room>Meitner</room>
+        <slug>B9KAHU</slug>
+        <url>https://c3lt.de/camp2019/talk/B9KAHU</url>
+        <title>Automated Ground Control Points for Drones</title>
+        <subtitle/>
+        <track/>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>We use QR-Codes to create Ground Control Points for drone photogrammetry. Just lay them down, take photos and our software will find them.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="140">
+            <name>quanten</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3142" guid="be38c619-e357-59dc-8b66-08c70c279718">
+        <logo/>
+        <date>2019-08-22T12:50:00+02:00</date>
+        <start>12:50</start>
+        <duration>00:05</duration>
+        <room>Meitner</room>
+        <slug>SLV9ZG</slug>
+        <url>https://c3lt.de/camp2019/talk/SLV9ZG</url>
+        <title>Unified Alpha</title>
+        <subtitle/>
+        <track/>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>Unifying capabilities of premultiplied- and straight alpha pixel encodings by dodging asymptotic and undefined behavior.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="136">
+            <name>pippin</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="3116" guid="4b6b6432-1eef-5ae4-9f6e-247038a0f061">
         <logo/>
         <date>2019-08-22T13:00:00+02:00</date>
@@ -2125,6 +2212,35 @@ One set of drawings was collected in a local European school in Belgium, and ano
         <persons>
           <person id="132">
             <name>Anykey</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3141" guid="b7ec7f60-93df-57be-8c63-aed9b8b301c8">
+        <logo/>
+        <date>2019-08-22T13:45:00+02:00</date>
+        <start>13:45</start>
+        <duration>00:05</duration>
+        <room>Meitner</room>
+        <slug>XL39BD</slug>
+        <url>https://c3lt.de/camp2019/talk/XL39BD</url>
+        <title>Introducing Neurodiversity</title>
+        <subtitle/>
+        <track/>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>A quick introduction of the concept of Neurodiversity and how it has been impacted by the internet and especially social media.</abstract>
+        <description>Neurodiversity is the concept that there is a natural variance in the neurological makeup of humans and therefore some neurological provfiles which our society and science is currently classifying as (mental) illnesses or disorders are actually naturally occurring variations and should be treated as such instead of attempted to cure.Many Neurodiverse people have experienced the rise of social media platforms as liberating and opening new ways for them to communicate and participate in society.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="135">
+            <name>Jontje</name>
             <biography/>
           </person>
         </persons>

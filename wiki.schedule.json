@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-21 18:20",
+    "version": "2019-08-21 18:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -406,6 +406,26 @@
                 "language": "de",
                 "abstract": "",
                 "description": "Highspeed Amateurradio Multimedia NETwork",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1382,
+                "guid": "66935ea8-fbe0-4536-a193-f8ec87c8a41a",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Knoten_f%C3%BCr_Anf%C3%A4nger",
+                "logo": null,
+                "date": "2019-08-21T19:00:00+02:00",
+                "start": "19:00",
+                "duration": "0:30",
+                "room": "Village:Chaoswelle",
+                "slug": "camp2019-1382-session_knoten_fuer_anfaenger",
+                "title": "Knoten f\u00fcr Anf\u00e4nger",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Hands-on Workshop begleitend oder alternativ zum Vortrag Knoten 101.",
                 "persons": [],
                 "links": []
               },
@@ -3478,7 +3498,36 @@
                 ]
               }
             ],
-            "Johnson (Workshop 1)": [],
+            "Johnson (Workshop 1)": [
+              {
+                "id": 1383,
+                "guid": "3baf0897-ca98-4031-a4ae-aa29e47248b6",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Numerical_Weather_Prediction_tutorial",
+                "logo": null,
+                "date": "2019-08-23T13:00:00+02:00",
+                "start": "13:00",
+                "duration": "3:00",
+                "room": "Johnson (Workshop 1)",
+                "slug": "camp2019-1383-session_numerical_weather_prediction_tutorial",
+                "title": "Numerical Weather Prediction tutorial",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Run your own weather model",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Tecer",
+                    "public_name": "Tecer"
+                  }
+                ],
+                "links": [
+                  "https://git.hacknology.de/projekte/wrftut"
+                ]
+              }
+            ],
             "Goldberg (Workshop 2)": [
               {
                 "id": 1321,

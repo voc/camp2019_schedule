@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-21 18:20</version>
+  <version>2019-08-21 18:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -337,6 +337,24 @@
         <language>de</language>
         <abstract/>
         <description>Highspeed Amateurradio Multimedia NETwork</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1382" guid="66935ea8-fbe0-4536-a193-f8ec87c8a41a">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Knoten_f%C3%BCr_Anf%C3%A4nger</url>
+        <logo/>
+        <date>2019-08-21T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>0:30</duration>
+        <room>Village:Chaoswelle</room>
+        <slug>camp2019-1382-session_knoten_fuer_anfaenger</slug>
+        <title>Knoten für Anfänger</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Hands-on Workshop begleitend oder alternativ zum Vortrag Knoten 101.</description>
         <persons/>
         <links/>
       </event>
@@ -2749,7 +2767,30 @@
         </links>
       </event>
     </room>
-    <room name="Johnson (Workshop 1)"/>
+    <room name="Johnson (Workshop 1)">
+      <event id="1383" guid="3baf0897-ca98-4031-a4ae-aa29e47248b6">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Numerical_Weather_Prediction_tutorial</url>
+        <logo/>
+        <date>2019-08-23T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>3:00</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1383-session_numerical_weather_prediction_tutorial</slug>
+        <title>Numerical Weather Prediction tutorial</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Run your own weather model</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Tecer">Tecer</person>
+        </persons>
+        <links>
+          <link>https://git.hacknology.de/projekte/wrftut</link>
+        </links>
+      </event>
+    </room>
     <room name="Goldberg (Workshop 2)">
       <event id="1321" guid="1953ae86-7a6b-4a3f-b80f-71490d017842">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen</url>

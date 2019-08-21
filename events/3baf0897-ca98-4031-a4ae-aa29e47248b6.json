@@ -1,0 +1,28 @@
+{
+  "id": 1383,
+  "guid": "3baf0897-ca98-4031-a4ae-aa29e47248b6",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Numerical_Weather_Prediction_tutorial",
+  "logo": null,
+  "date": "2019-08-23T13:00:00+02:00",
+  "start": "13:00",
+  "duration": "3:00",
+  "room": "Johnson (Workshop 1)",
+  "slug": "camp2019-1383-session_numerical_weather_prediction_tutorial",
+  "title": "Numerical Weather Prediction tutorial",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "Run your own weather model",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Tecer",
+      "public_name": "Tecer"
+    }
+  ],
+  "links": [
+    "https://git.hacknology.de/projekte/wrftut"
+  ]
+}
