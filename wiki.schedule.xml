@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-21 16:10</version>
+  <version>2019-08-21 16:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -2311,6 +2311,30 @@
         </persons>
         <links>
           <link>https://git.ingolf-wagner.de/palo/nixos-diagrams</link>
+        </links>
+      </event>
+    </room>
+    <room name="Seating area south of Milliways (S9 on map)">
+      <event id="1226" guid="eb23d0dc-2d2f-49c8-98a2-b96cf3d78782">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:OctoPrint_User_Meetup</url>
+        <logo/>
+        <date>2019-08-22T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Seating area south of Milliways (S9 on map)</room>
+        <slug>camp2019-1226-session_octoprint_user_meetup</slug>
+        <title>OctoPrint User Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Meet and greet of OctoPrint users at the camp. foosel will also be there and bring stickers!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Foosel">Foosel</person>
+        </persons>
+        <links>
+          <link>https://community.octoprint.org/t/octoprint-meetup-at-chaos-communication-camp-2019/11078</link>
         </links>
       </event>
     </room>
