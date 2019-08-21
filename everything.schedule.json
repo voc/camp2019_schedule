@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Manw\u00eb; wiki 2019-08-22 00:00",
+    "version": "Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Manw\u00eb; wiki 2019-08-22 00:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -2204,7 +2204,7 @@
                 "type": "hands-on",
                 "language": "en",
                 "abstract": "",
-                "description": "Come get an FPGA dev board in your USB port and start hacking!<br> Get toolchain setup and you can get <b>free</b> hardware!<br><br> ''(This is one of many cool things happening throughout CCCamp 2019 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given multiple times (all identical):<br> &nbsp;&nbsp;&nbsp;Day 1: 21-Aug, 10:00pm - 11:30pm<br> &nbsp;&nbsp;&nbsp;Day 2: 22-Aug, 2:30pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 4: 24-Aug, 3:30pm - 5:00pm<br></span>",
+                "description": "Come get an FPGA dev board in your USB port and start hacking!<br> Get toolchain setup and you can get <b>free</b> hardware!<br><br> ''(This is one of many cool things happening throughout CCCamp 2019 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given multiple times (all identical):<br> &nbsp;&nbsp;&nbsp;Day 1: 21-Aug, 10:00pm - 11:30pm<br> &nbsp;&nbsp;&nbsp;Day 2: 22-Aug, 2:30pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 3: 23-Aug, 5:30pm - 7:00pm<br> &nbsp;&nbsp;&nbsp;Day 4: 24-Aug, 3:30pm - 5:00pm<br></span>",
                 "persons": [],
                 "links": [
                   "http://fomu.im"
@@ -5576,7 +5576,7 @@
                 "type": "hands-on",
                 "language": "en",
                 "abstract": "",
-                "description": "Come get an FPGA dev board in your USB port and start hacking!<br> Get toolchain setup and you can get <b>free</b> hardware!<br><br> ''(This is one of many cool things happening throughout CCCamp 2019 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given multiple times (all identical):<br> &nbsp;&nbsp;&nbsp;Day 1: 21-Aug, 10:00pm - 11:30pm<br> &nbsp;&nbsp;&nbsp;Day 2: 22-Aug, 2:30pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 4: 24-Aug, 3:30pm - 5:00pm<br></span>",
+                "description": "Come get an FPGA dev board in your USB port and start hacking!<br> Get toolchain setup and you can get <b>free</b> hardware!<br><br> ''(This is one of many cool things happening throughout CCCamp 2019 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given multiple times (all identical):<br> &nbsp;&nbsp;&nbsp;Day 1: 21-Aug, 10:00pm - 11:30pm<br> &nbsp;&nbsp;&nbsp;Day 2: 22-Aug, 2:30pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 3: 23-Aug, 5:30pm - 7:00pm<br> &nbsp;&nbsp;&nbsp;Day 4: 24-Aug, 3:30pm - 5:00pm<br></span>",
                 "persons": [],
                 "links": [
                   "http://fomu.im"
@@ -8883,6 +8883,28 @@
                 "links": []
               },
               {
+                "id": 1426,
+                "guid": "f81b0dc4-73dc-5f89-bbb1-5e3e4aea2bdb",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Fomu,_the_FPGA_in_your_USB_Port",
+                "logo": null,
+                "date": "2019-08-23T17:30:00+02:00",
+                "start": "17:30",
+                "duration": "1:30",
+                "room": "Village:HardwareHackingArea",
+                "slug": "camp2019-1426-session_fomu_the_fpga_in_your_usb_port",
+                "title": "Fomu, the FPGA in your USB Port",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "en",
+                "abstract": "",
+                "description": "Come get an FPGA dev board in your USB port and start hacking!<br> Get toolchain setup and you can get <b>free</b> hardware!<br><br> ''(This is one of many cool things happening throughout CCCamp 2019 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given multiple times (all identical):<br> &nbsp;&nbsp;&nbsp;Day 1: 21-Aug, 10:00pm - 11:30pm<br> &nbsp;&nbsp;&nbsp;Day 2: 22-Aug, 2:30pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 3: 23-Aug, 5:30pm - 7:00pm<br> &nbsp;&nbsp;&nbsp;Day 4: 24-Aug, 3:30pm - 5:00pm<br></span>",
+                "persons": [],
+                "links": [
+                  "http://fomu.im"
+                ]
+              },
+              {
                 "id": 1256,
                 "guid": "b73c59a0-98af-4012-8e2b-4e1b886e050d",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Geiger_Counter_Workshop",
@@ -12009,6 +12031,28 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1425,
+                "guid": "7d1f4481-3c54-4e88-9a91-e3770be3bc41",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Fomu,_the_FPGA_in_your_USB_Port",
+                "logo": null,
+                "date": "2019-08-24T15:30:00+02:00",
+                "start": "15:30",
+                "duration": "1:30",
+                "room": "Village:HardwareHackingArea",
+                "slug": "camp2019-1425-session_fomu_the_fpga_in_your_usb_port",
+                "title": "Fomu, the FPGA in your USB Port",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "en",
+                "abstract": "",
+                "description": "Come get an FPGA dev board in your USB port and start hacking!<br> Get toolchain setup and you can get <b>free</b> hardware!<br><br> ''(This is one of many cool things happening throughout CCCamp 2019 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given multiple times (all identical):<br> &nbsp;&nbsp;&nbsp;Day 1: 21-Aug, 10:00pm - 11:30pm<br> &nbsp;&nbsp;&nbsp;Day 2: 22-Aug, 2:30pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 3: 23-Aug, 5:30pm - 7:00pm<br> &nbsp;&nbsp;&nbsp;Day 4: 24-Aug, 3:30pm - 5:00pm<br></span>",
+                "persons": [],
+                "links": [
+                  "http://fomu.im"
+                ]
               },
               {
                 "id": 1212,

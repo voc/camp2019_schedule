@@ -1,5 +1,5 @@
 <schedule>
-  <version>Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Manwë; wiki 2019-08-22 00:00</version>
+  <version>Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Manwë; wiki 2019-08-22 00:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -1952,7 +1952,7 @@ and amusement.</description>
         <type>hands-on</type>
         <language>en</language>
         <abstract/>
-        <description>Come get an FPGA dev board in your USB port and start hacking!&lt;br&gt; Get toolchain setup and you can get &lt;b&gt;free&lt;/b&gt; hardware!&lt;br&gt;&lt;br&gt; ''(This is one of many cool things happening throughout CCCamp 2019 in the huge '''Hardware Hacking Area!)'''''&lt;br&gt; &lt;br&gt; This workshop will be given multiple times (all identical):&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 1: 21-Aug, 10:00pm - 11:30pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 2: 22-Aug, 2:30pm - 4:30pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 4: 24-Aug, 3:30pm - 5:00pm&lt;br&gt;&lt;/span&gt;</description>
+        <description>Come get an FPGA dev board in your USB port and start hacking!&lt;br&gt; Get toolchain setup and you can get &lt;b&gt;free&lt;/b&gt; hardware!&lt;br&gt;&lt;br&gt; ''(This is one of many cool things happening throughout CCCamp 2019 in the huge '''Hardware Hacking Area!)'''''&lt;br&gt; &lt;br&gt; This workshop will be given multiple times (all identical):&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 1: 21-Aug, 10:00pm - 11:30pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 2: 22-Aug, 2:30pm - 4:30pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 3: 23-Aug, 5:30pm - 7:00pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 4: 24-Aug, 3:30pm - 5:00pm&lt;br&gt;&lt;/span&gt;</description>
         <persons/>
         <links>
           <link>http://fomu.im</link>
@@ -5077,7 +5077,7 @@ Publikum vor.</abstract>
         <type>hands-on</type>
         <language>en</language>
         <abstract/>
-        <description>Come get an FPGA dev board in your USB port and start hacking!&lt;br&gt; Get toolchain setup and you can get &lt;b&gt;free&lt;/b&gt; hardware!&lt;br&gt;&lt;br&gt; ''(This is one of many cool things happening throughout CCCamp 2019 in the huge '''Hardware Hacking Area!)'''''&lt;br&gt; &lt;br&gt; This workshop will be given multiple times (all identical):&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 1: 21-Aug, 10:00pm - 11:30pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 2: 22-Aug, 2:30pm - 4:30pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 4: 24-Aug, 3:30pm - 5:00pm&lt;br&gt;&lt;/span&gt;</description>
+        <description>Come get an FPGA dev board in your USB port and start hacking!&lt;br&gt; Get toolchain setup and you can get &lt;b&gt;free&lt;/b&gt; hardware!&lt;br&gt;&lt;br&gt; ''(This is one of many cool things happening throughout CCCamp 2019 in the huge '''Hardware Hacking Area!)'''''&lt;br&gt; &lt;br&gt; This workshop will be given multiple times (all identical):&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 1: 21-Aug, 10:00pm - 11:30pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 2: 22-Aug, 2:30pm - 4:30pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 3: 23-Aug, 5:30pm - 7:00pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 4: 24-Aug, 3:30pm - 5:00pm&lt;br&gt;&lt;/span&gt;</description>
         <persons/>
         <links>
           <link>http://fomu.im</link>
@@ -7978,6 +7978,26 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
         </persons>
         <links/>
       </event>
+      <event id="1426" guid="f81b0dc4-73dc-5f89-bbb1-5e3e4aea2bdb">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Fomu,_the_FPGA_in_your_USB_Port</url>
+        <logo/>
+        <date>2019-08-23T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>1:30</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1426-session_fomu_the_fpga_in_your_usb_port</slug>
+        <title>Fomu, the FPGA in your USB Port</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Come get an FPGA dev board in your USB port and start hacking!&lt;br&gt; Get toolchain setup and you can get &lt;b&gt;free&lt;/b&gt; hardware!&lt;br&gt;&lt;br&gt; ''(This is one of many cool things happening throughout CCCamp 2019 in the huge '''Hardware Hacking Area!)'''''&lt;br&gt; &lt;br&gt; This workshop will be given multiple times (all identical):&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 1: 21-Aug, 10:00pm - 11:30pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 2: 22-Aug, 2:30pm - 4:30pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 3: 23-Aug, 5:30pm - 7:00pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 4: 24-Aug, 3:30pm - 5:00pm&lt;br&gt;&lt;/span&gt;</description>
+        <persons/>
+        <links>
+          <link>http://fomu.im</link>
+        </links>
+      </event>
       <event id="1256" guid="b73c59a0-98af-4012-8e2b-4e1b886e050d">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Geiger_Counter_Workshop</url>
         <logo/>
@@ -10697,6 +10717,26 @@ Live spielen die Muckemacher in voller Bandbesetzung mit Schlagzeug, Bass, Gitar
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Kliment">Kliment</person>
         </persons>
         <links/>
+      </event>
+      <event id="1425" guid="7d1f4481-3c54-4e88-9a91-e3770be3bc41">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Fomu,_the_FPGA_in_your_USB_Port</url>
+        <logo/>
+        <date>2019-08-24T15:30:00+02:00</date>
+        <start>15:30</start>
+        <duration>1:30</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1425-session_fomu_the_fpga_in_your_usb_port</slug>
+        <title>Fomu, the FPGA in your USB Port</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Come get an FPGA dev board in your USB port and start hacking!&lt;br&gt; Get toolchain setup and you can get &lt;b&gt;free&lt;/b&gt; hardware!&lt;br&gt;&lt;br&gt; ''(This is one of many cool things happening throughout CCCamp 2019 in the huge '''Hardware Hacking Area!)'''''&lt;br&gt; &lt;br&gt; This workshop will be given multiple times (all identical):&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 1: 21-Aug, 10:00pm - 11:30pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 2: 22-Aug, 2:30pm - 4:30pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 3: 23-Aug, 5:30pm - 7:00pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 4: 24-Aug, 3:30pm - 5:00pm&lt;br&gt;&lt;/span&gt;</description>
+        <persons/>
+        <links>
+          <link>http://fomu.im</link>
+        </links>
       </event>
       <event id="1212" guid="dd6684d6-ee37-4d95-8be4-9fbb29f2cb46">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Icibici</url>
