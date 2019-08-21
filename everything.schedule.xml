@@ -1,5 +1,5 @@
 <schedule>
-  <version>Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 23:10</version>
+  <version>Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 23:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -5321,6 +5321,28 @@ Publikum vor.</abstract>
         <links>
           <link>http://trixmix.tv</link>
         </links>
+      </event>
+    </room>
+    <room name="Village:Infuanfu">
+      <event id="1421" guid="def30019-b984-4830-865d-c3ce6a3da3f3">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Chaos_Microgrid_Working_Group</url>
+        <logo/>
+        <date>2019-08-22T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Village:Infuanfu</room>
+        <slug>camp2019-1421-session_chaos_microgrid_working_group</slug>
+        <title>Chaos Microgrid Working Group</title>
+        <subtitle>Third Meetup - Desigining a power usage survey</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>We want to meet and discuss the requirements and possibilities of setting up a microgrid solution for future camping events.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Hadez">Hadez</person>
+        </persons>
+        <links/>
       </event>
     </room>
     <room name="Village:Foodhackingbase">
