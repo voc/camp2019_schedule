@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Fomalhaut ; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 15:40",
+    "version": "Fomalhaut ; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 16:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -4224,6 +4224,28 @@
                 ]
               },
               {
+                "id": 1262,
+                "guid": "afa80109-3761-4b3f-b2e8-57087d164b0d",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:NixOS_Install_Party",
+                "logo": null,
+                "date": "2019-08-22T12:45:00+02:00",
+                "start": "12:45",
+                "duration": "1:15",
+                "room": "Johnson (Workshop 1)",
+                "slug": "camp2019-1262-session_nixos_install_party",
+                "title": "NixOS Install Party",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Try NixOS on your laptop or in a VM",
+                "persons": [],
+                "links": [
+                  "https://nixos.org"
+                ]
+              },
+              {
                 "id": 1248,
                 "guid": "de5f9fba-3854-4a9d-b3f0-69e409f01b79",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Why_NixOS%3F",
@@ -4279,6 +4301,39 @@
                 ],
                 "links": [
                   "https://archlinux.org"
+                ]
+              },
+              {
+                "id": 1231,
+                "guid": "ca75968c-338d-4a45-a41b-594c83b34d70",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Reproducible_Builds_Meetup",
+                "logo": null,
+                "date": "2019-08-22T13:30:00+02:00",
+                "start": "13:30",
+                "duration": "1:00",
+                "room": "Goldberg (Workshop 2)",
+                "slug": "camp2019-1231-session_reproducible_builds_meetup",
+                "title": "Reproducible Builds Meetup",
+                "subtitle": "Reproducible build introduction and discussion",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "Meeting and discussion about the Reproducible Builds project.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Foxboron",
+                    "public_name": "Foxboron"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Jelly",
+                    "public_name": "Jelly"
+                  }
+                ],
+                "links": [
+                  "https://reproducible-builds.org/"
                 ]
               }
             ],
@@ -5812,28 +5867,6 @@
               }
             ],
             "Village:NixOS": [
-              {
-                "id": 1262,
-                "guid": "afa80109-3761-4b3f-b2e8-57087d164b0d",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:NixOS_Install_Party",
-                "logo": null,
-                "date": "2019-08-22T12:45:00+02:00",
-                "start": "12:45",
-                "duration": "1:15",
-                "room": "Village:NixOS",
-                "slug": "camp2019-1262-session_nixos_install_party",
-                "title": "NixOS Install Party",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "de",
-                "abstract": "",
-                "description": "Try NixOS on your laptop or in a VM",
-                "persons": [],
-                "links": [
-                  "https://nixos.org"
-                ]
-              },
               {
                 "id": 1109,
                 "guid": "2ec27fbb-3f33-4515-8228-db6205370168",
