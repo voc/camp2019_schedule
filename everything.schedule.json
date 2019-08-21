@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 21:30",
+    "version": "Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 21:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -102,7 +102,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/792/original/Hacking_Containers_and_Kubernetes.pdf?1566398735",
+                    "title": "Slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10309.html",
@@ -462,7 +467,12 @@
                     "title": "DOH/DOT Server and Information"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/790/original/DoH-or-Dont.pdf?1566397329",
+                    "title": "Doh or Don't slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10225.html",
@@ -558,6 +568,10 @@
                   {
                     "id": 1545,
                     "public_name": "ruedi"
+                  },
+                  {
+                    "id": 9158,
+                    "public_name": "RND"
                   }
                 ],
                 "links": [],
@@ -3174,11 +3188,11 @@
                 "logo": "/system/events/logos/000/010/293/large/Robotron-a_tech_opera.gif?1560260229",
                 "date": "2019-08-22T18:00:00+02:00",
                 "start": "18:00",
-                "duration": "00:30",
+                "duration": "00:45",
                 "room": "Meitner",
-                "slug": "Camp2019-10293-robotron",
-                "title": "Robotron ",
-                "subtitle": "a tech opera",
+                "slug": "Camp2019-10293-robotron_-_a_tech_opera",
+                "title": "Robotron - a tech opera",
+                "subtitle": "Die erste Seifenoper die in der Computerindustrie der DDR spielt. ",
                 "track": "Art & Culture",
                 "type": "lecture",
                 "language": "de",
@@ -7276,6 +7290,34 @@
               }
             ],
             "Meitner": [
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10438.html",
+                "id": 10438,
+                "guid": "b4e3314b-cab3-4eb4-b69a-49c461bcc30c",
+                "logo": null,
+                "date": "2019-08-23T12:00:00+02:00",
+                "start": "12:00",
+                "duration": "00:45",
+                "room": "Meitner",
+                "slug": "Camp2019-10438-fusionbleibt",
+                "title": "#Fusionbleibt",
+                "subtitle": "Wie das Fusion Festival sich erfolgreich gegen anlasslose Polizeipr\u00e4senz wehren konnte.",
+                "track": "Ethics, Society & Politics",
+                "type": "lecture",
+                "language": "de",
+                "abstract": "Polizeiwache mitten auf dem Festival? Wasserwerfer? R\u00e4umpanzer? WTF?? dachte sich da auch das Fusion Festival. Der Kampf gegen die absurden Pl\u00e4ne von Polizeipr\u00e4sident Nils Hoffmann-Ritterbusch konnte zum Gl\u00fcck gewonnen werden. Und ist ein Lehrst\u00fcck daf\u00fcr, dass zivilgesellschaftlicher Druck eben doch Berge versetzen kann. Wir lassen Drohungen, Protest und Absurdit\u00e4ten aus diesem Lehrst\u00fccks gemeinsam Revue passieren. Und ja: es darf gelacht werden.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 5261,
+                    "public_name": "Stefan Pelzer"
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10207.html",
                 "id": 10207,

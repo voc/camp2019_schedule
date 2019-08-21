@@ -1,5 +1,5 @@
 <schedule>
-  <version>Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 21:30</version>
+  <version>Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 21:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -97,7 +97,9 @@ Finally, it is shown, how Istio has handled the bug report and how future versio
           <person id="1382">Thomas Fricke</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/792/original/Hacking_Containers_and_Kubernetes.pdf?1566398735">Slides</attachment>
+        </attachments>
       </event>
       <event id="10309" guid="0a99f1db-dfad-4534-888c-bd98acc576b3">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10309.html</url>
@@ -410,7 +412,9 @@ While DoT was initially mostly ignored by OS vendors, ISPs and users alike, DoH 
         <links>
           <link href="https://doh.defaultroutes.de">DOH/DOT Server and Information</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/790/original/DoH-or-Dont.pdf?1566397329">Doh or Don't slides</attachment>
+        </attachments>
       </event>
       <event id="10225" guid="e1b56229-fb1e-480c-9691-c137ec11ee51">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10225.html</url>
@@ -505,6 +509,7 @@ years ago are not covered by patents any more.&#13;
         </recording>
         <persons>
           <person id="1545">ruedi</person>
+          <person id="9158">RND</person>
         </persons>
         <links/>
         <attachments>
@@ -2775,11 +2780,11 @@ You won’t become a China expert after the talk but your will definitely know a
         <logo>/system/events/logos/000/010/293/large/Robotron-a_tech_opera.gif?1560260229</logo>
         <date>2019-08-22T18:00:00+02:00</date>
         <start>18:00</start>
-        <duration>00:30</duration>
+        <duration>00:45</duration>
         <room>Meitner</room>
-        <slug>Camp2019-10293-robotron</slug>
-        <title>Robotron </title>
-        <subtitle>a tech opera</subtitle>
+        <slug>Camp2019-10293-robotron_-_a_tech_opera</slug>
+        <title>Robotron - a tech opera</title>
+        <subtitle>Die erste Seifenoper die in der Computerindustrie der DDR spielt. </subtitle>
         <track>Art &amp; Culture</track>
         <type>lecture</type>
         <language>de</language>
@@ -6455,6 +6460,31 @@ Wasser, Ernährung, Gesundheit, IT und TK, Transport und Verkehr. Deren durch IT
       </event>
     </room>
     <room name="Meitner">
+      <event id="10438" guid="b4e3314b-cab3-4eb4-b69a-49c461bcc30c">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10438.html</url>
+        <logo/>
+        <date>2019-08-23T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>00:45</duration>
+        <room>Meitner</room>
+        <slug>Camp2019-10438-fusionbleibt</slug>
+        <title>#Fusionbleibt</title>
+        <subtitle>Wie das Fusion Festival sich erfolgreich gegen anlasslose Polizeipräsenz wehren konnte.</subtitle>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Polizeiwache mitten auf dem Festival? Wasserwerfer? Räumpanzer? WTF?? dachte sich da auch das Fusion Festival. Der Kampf gegen die absurden Pläne von Polizeipräsident Nils Hoffmann-Ritterbusch konnte zum Glück gewonnen werden. Und ist ein Lehrstück dafür, dass zivilgesellschaftlicher Druck eben doch Berge versetzen kann. Wir lassen Drohungen, Protest und Absurditäten aus diesem Lehrstücks gemeinsam Revue passieren. Und ja: es darf gelacht werden.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="5261">Stefan Pelzer</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="10207" guid="7d8aff66-f15e-4fdd-b5aa-af555f7a626f">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10207.html</url>
         <logo/>
