@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 21:50",
+    "version": "Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 22:20",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -4108,6 +4108,12 @@
                   {
                     "id": 119,
                     "name": "Wei Tat Chung",
+                    "biography": null,
+                    "answers": []
+                  },
+                  {
+                    "id": 62,
+                    "name": "Mario Behling",
                     "biography": null,
                     "answers": []
                   }

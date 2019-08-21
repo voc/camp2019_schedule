@@ -1,5 +1,5 @@
 <schedule>
-  <version>Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 21:50</version>
+  <version>Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 22:20</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -3656,6 +3656,10 @@ Ziel 2: Workflows entwickeln, die Organisationen das Management von vielen Proje
         <persons>
           <person id="119">
             <name>Wei Tat Chung</name>
+            <biography/>
+          </person>
+          <person id="62">
+            <name>Mario Behling</name>
             <biography/>
           </person>
         </persons>
