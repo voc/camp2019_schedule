@@ -1,0 +1,34 @@
+{
+  "id": 1357,
+  "guid": "a17a2adb-49c5-4c5b-92c4-28402b1a1c25",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Bits%26B%C3%A4ume_w%C3%A4chst:_Forderungen_und_eine_neue_Bewegung",
+  "logo": null,
+  "date": "2019-08-21T15:30:00+02:00",
+  "start": "15:30",
+  "duration": "0:45",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1357-session_bits_baeume_waechst_forderungen_und_eine_neue_bewegung",
+  "title": "Bits&B\u00e4ume w\u00e4chst: Forderungen und eine neue Bewegung",
+  "subtitle": "about:stage",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Wir stellen die Bits&B\u00e4ume-Konferenz, die -Bewegung und die B&B-Forderungen vor",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Rainer",
+      "public_name": "Rainer"
+    },
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Julika",
+      "public_name": "Julika"
+    }
+  ],
+  "links": [
+    "https://bits-und-baeume.org/forderungen/",
+    "https://bits-und-baeume.org/waechst/"
+  ]
+}
