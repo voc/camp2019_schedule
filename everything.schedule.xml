@@ -1,5 +1,5 @@
 <schedule>
-  <version>Deneb; thm Monkey Island 2: LeChuck’s Revenge; lounges 303; lightning Idril; wiki 2019-08-21 01:50</version>
+  <version>Deneb; thm Monkey Island 2: LeChuck’s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 02:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -1087,21 +1087,19 @@ and amusement.</description>
       </event>
       <event id="10404" guid="128cdfde-6151-4e02-97e0-f498194901f6">
         <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10404.html</url>
-        <logo>/system/events/logos/000/010/404/large/ingoboss.jpg?1565989097</logo>
+        <logo>/system/events/logos/000/010/404/large/bosch.jpg?1566334778</logo>
         <date>2019-08-21T23:00:00+02:00</date>
         <start>23:00</start>
         <duration>02:00</duration>
         <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10404-ingo_boss</slug>
-        <title>Ingo Boss</title>
+        <slug>camp19lounge-10404-dj_bosch</slug>
+        <title>DJ Bosch</title>
         <subtitle/>
         <track>Music</track>
         <type>djset</type>
         <language>en</language>
-        <abstract>Ingo Boss (* 1979 in Frankfurt am Main) ist ein deutscher DJ und Techno-Produzent. </abstract>
-        <description>Ingo Boss begann das Auflegen Ende der 1990er Jahre, gleichzeitig war er im Plattenladen Delirium angestellt. 2002 bis 2004 war er Resident DJ des Frankfurter Clubs U60311. Nach Schließung des Clubs wechselte er zum Cocoon Club. Seit 2007 arbeitet er als A&amp;R bei Cocoon Music Event GmbH. 2010 erschien sein Debütalbum 3.652 Tage.&#13;
-&#13;
-Größere Auftritte hatte Ingo Boss bei der Nature One und dem Ruhr in Love sowie bei zahlreichen internationalen Auftritten. </description>
+        <abstract>DJ Bosch aka Tobias is resident DJ at Multisex party happening at Ohm/Berlin. The Multisex party promotes clarity on the dance floor along with diverse music. Depending on the booking, they create different dancing moods with classy tunes that craft a pure and effective house, disco and techno sound. Multisex is an attempt to encourage non-verbal communication on the dance floor. The goal is to get people together while dancing free. Besides that Tobias is doing the lights here at the CCC Lounge and is a regular light operator at Berghain/Panoramabar in Berlin.</abstract>
+        <description/>
         <recording>
           <license/>
           <optout>false</optout>
@@ -1109,12 +1107,13 @@ Größere Auftritte hatte Ingo Boss bei der Nature One und dem Ruhr in Love sowi
         <persons/>
         <links>
           <link href="https://soundcloud.com/ingoboss">Ingo Boss auf Soundcloud</link>
+          <link href="https://soundcloud.com/strobotobia">DJ Bosch auf Soundcloud</link>
         </links>
         <attachments/>
       </event>
       <event id="10405" guid="58341c87-7467-4a83-a882-6feda6f24fe1">
         <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10405.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/405/large/beton-500x500.jpg?1566203043</logo>
         <date>2019-08-22T01:00:00+02:00</date>
         <start>01:00</start>
         <duration>02:00</duration>
@@ -1125,14 +1124,16 @@ Größere Auftritte hatte Ingo Boss bei der Nature One und dem Ruhr in Love sowi
         <track>Music</track>
         <type>djset</type>
         <language>en</language>
-        <abstract/>
+        <abstract>This newborn monniker allows a Berlin-based devil of a fellow to appear cleared from what he is usually known for. Therefore we will keep the secret, suffice it to say: he is happily exploring the harder, darker domains rather than ruling the sunset floors as we have seen him doing in places as Garbicz festival. Experts of the scene may a find a hint in the URL below.</abstract>
         <description/>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons/>
-        <links/>
+        <links>
+          <link href="https://soundcloud.com/klangsucht/lui-beton-landuca-maluca">Lui Beton on Soundcloud</link>
+        </links>
         <attachments/>
       </event>
       <event id="10406" guid="a3594b9a-f10f-47c9-82da-18e928dfe942">
@@ -3912,9 +3913,9 @@ If you want to get to know me, talk to me, I am a very open person.&#13;
         <start>22:00</start>
         <duration>01:00</duration>
         <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10411-irq7_live</slug>
-        <title>irq7 live</title>
-        <subtitle/>
+        <slug>camp19lounge-10411-irq7</slug>
+        <title>irq7</title>
+        <subtitle>live 8bit</subtitle>
         <track>Music</track>
         <type>concert</type>
         <language>en</language>
@@ -4040,7 +4041,7 @@ Transforming Breaks, UK Bass, Footwork, bossy Electro and Jungle into another fo
     <room name="Rockmore Booth">
       <event id="10408" guid="6c9f102a-0aed-4360-a31b-2bdb777d0cd8">
         <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10408.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/408/large/AEX-500x500.jpg?1566203160</logo>
         <date>2019-08-22T14:00:00+02:00</date>
         <start>14:00</start>
         <duration>03:00</duration>
@@ -4051,14 +4052,16 @@ Transforming Breaks, UK Bass, Footwork, bossy Electro and Jungle into another fo
         <track>Music</track>
         <type>djset</type>
         <language>en</language>
-        <abstract/>
+        <abstract>Berlin-based artist AEX delivers complex and catching ambient spheres. From warm and melodic explorations via a rather technical approach to darker layers of machine music, occasionally enriched by her voice, this young live act blends a dense weave of soundscapes, beats and repetitive bleeps. She has quite a special connection to the CCC: at the age of 15, her father took her to the congress in Hamburg, where she discovered her passion for technical informatics in which she dived deeply hereafter.</abstract>
         <description/>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons/>
-        <links/>
+        <links>
+          <link href="https://soundcloud.com/aaeexx">AEX on Soundcloud</link>
+        </links>
         <attachments/>
       </event>
       <event id="10409" guid="4b199723-ca6c-4b84-b100-a6ab18f8412e">
@@ -6436,9 +6439,9 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <start>22:00</start>
         <duration>01:00</duration>
         <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10420-jake_chambers_live</slug>
-        <title>Jake Chambers live</title>
-        <subtitle/>
+        <slug>camp19lounge-10420-jake_chambers</slug>
+        <title>Jake Chambers</title>
+        <subtitle>live</subtitle>
         <track>Music</track>
         <type>concert</type>
         <language>en</language>
@@ -6511,7 +6514,7 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
       </event>
       <event id="10423" guid="ada3bff5-bfc3-41f6-8670-b3d87930291a">
         <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10423.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/423/large/klex.jpg?1566203248</logo>
         <date>2019-08-24T03:00:00+02:00</date>
         <start>03:00</start>
         <duration>02:00</duration>
@@ -6522,32 +6525,34 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
         <track>Music</track>
         <type>djset</type>
         <language>en</language>
-        <abstract/>
+        <abstract>„deep music is deep“ - this self-attribution of bustling DJ, label owner and promoter Xelk goes beyond tautology. House, electro, techno: all these containers offer a lot of room for exceptional deepness, and Xelk is well recognized as an expert in this domain. With regular appearances in clubs as Griessmühle, ://about blank as well as steady international gigs especially in eastern europe, he yields his own signature in today‘s electronics.</abstract>
         <description/>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons/>
-        <links/>
+        <links>
+          <link href="https://soundcloud.com/klex">Klex on Soundcloud</link>
+        </links>
         <attachments/>
       </event>
     </room>
     <room name="Rockmore Booth">
       <event id="10417" guid="cb1e3dc7-3d3d-40e5-925a-bd8ef2995c6d">
         <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10417.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/417/large/heimi.png?1566334602</logo>
         <date>2019-08-23T14:00:00+02:00</date>
         <start>14:00</start>
         <duration>03:00</duration>
         <room>Rockmore Booth</room>
-        <slug>camp19lounge-10417-zewski</slug>
-        <title>Zewski</title>
+        <slug>camp19lounge-10417-yj_heimi_zwetschki</slug>
+        <title>YJ HEIMI &amp; ZWETSCHKI</title>
         <subtitle/>
         <track>Music</track>
         <type>djset</type>
         <language>en</language>
-        <abstract/>
+        <abstract>YJ-Heimi ist YouTube-Jockey und Heimleiter der Restrealitaet, Zwetschki einer der beiden Macher der Nation Of Gondwana . Spielen die beiden im Duett, kommen so technische Anforderungen wie Luftschlangentröte und Kinderrassel. Und weil auch ein Mikro auf dem Tech Rider steht, wird nicht nur musikalisch kein Auge trocken bleiben. Im Spannungsfeld zwischen gutem und schlechtem Geschmack treten Joy Division gegen Juliane Werding an, Slime und die Scorpions verbrüdern sich, Johnny Rotten zerlegt Harald Juhnke und am Ende ist jede Zelle Deines Körpers glücklich.</abstract>
         <description/>
         <recording>
           <license/>
@@ -6559,18 +6564,18 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
       </event>
       <event id="10418" guid="7af77b50-9cd4-4187-ac6c-f57759130c73">
         <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10418.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/418/large/zwetschki.jpg?1566334651</logo>
         <date>2019-08-23T17:00:00+02:00</date>
         <start>17:00</start>
         <duration>03:00</duration>
         <room>Rockmore Booth</room>
-        <slug>camp19lounge-10418-yj_heimi</slug>
-        <title>YJ Heimi</title>
+        <slug>camp19lounge-10418-yj_heimi_zwetschki</slug>
+        <title>YJ HEIMI &amp; ZWETSCHKI</title>
         <subtitle/>
         <track>Music</track>
         <type>djset</type>
         <language>en</language>
-        <abstract/>
+        <abstract>YJ-Heimi ist YouTube-Jockey und Heimleiter der Restrealitaet, Zwetschki einer der beiden Macher der Nation Of Gondwana . Spielen die beiden im Duett, kommen so technische Anforderungen wie Luftschlangentröte und Kinderrassel. Und weil auch ein Mikro auf dem Tech Rider steht, wird nicht nur musikalisch kein Auge trocken bleiben. Im Spannungsfeld zwischen gutem und schlechtem Geschmack treten Joy Division gegen Juliane Werding an, Slime und die Scorpions verbrüdern sich, Johnny Rotten zerlegt Harald Juhnke und am Ende ist jede Zelle Deines Körpers glücklich.</abstract>
         <description/>
         <recording>
           <license/>
@@ -8601,7 +8606,7 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <room>Kemistry Lounge</room>
         <slug>camp19lounge-10426-trummerschlunk</slug>
         <title>trummerschlunk</title>
-        <subtitle/>
+        <subtitle>live</subtitle>
         <track>Music</track>
         <type>concert</type>
         <language>en</language>
@@ -8671,8 +8676,8 @@ Butzke, Zur Möbelfabrik, Tresor</description>
         <track>Music</track>
         <type>djset</type>
         <language>en</language>
-        <abstract/>
-        <description/>
+        <abstract>Local Prophets is a moving collective of the musicians and artists who develop their work through the collaborative open-source improvisation practice.</abstract>
+        <description>For this set the two representatives of the collective, NSDOS and Aerodynamika, will apply the principles of their daily physical practice — EightOS Body-Mind Operating System — to creating a live music set, where nonequilibrium stability and chaotic variability serve as the founding principles for the music-making and movement.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -8685,7 +8690,7 @@ Butzke, Zur Möbelfabrik, Tresor</description>
       </event>
       <event id="10429" guid="5546d570-2194-40ce-ade5-8d6183fc16d2">
         <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10429.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/429/large/marcus-carp-500x500.jpg?1566203350</logo>
         <date>2019-08-25T01:00:00+02:00</date>
         <start>01:00</start>
         <duration>02:00</duration>
@@ -8696,7 +8701,7 @@ Butzke, Zur Möbelfabrik, Tresor</description>
         <track>Music</track>
         <type>djset</type>
         <language>en</language>
-        <abstract/>
+        <abstract>One of the founders of the Fusion Festival who had sold all his records and equipment before he sailed around the world. Luckily, the person who stepped ashore after 2 years of travel was not an entirely different one, so he returned to the decks in order to make people scream while dancing. His energetic approach to house &amp; dance music takes the floor as a storm, all arms in the air and sweat from the wall.</abstract>
         <description/>
         <recording>
           <license/>
@@ -8784,6 +8789,60 @@ Katermukke, Harthouse, Still Hot, Cocoon, Push, Virgin, d3R Records, EMI, Funken
         <links>
           <link href="https://soundcloud.com/jeanette-tr-sbien">Jeanette Trèsbien on Soundcloud</link>
         </links>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Kids Stage">
+      <event id="10439" guid="a2c1d0dc-b447-45a9-b0ce-26511c9645ea">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10439.html</url>
+        <logo>/system/events/logos/000/010/439/large/suli.jpg?1566335725</logo>
+        <date>2019-08-24T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Kids Stage</room>
+        <slug>camp19lounge-10439-suli_puschban</slug>
+        <title>SULI PUSCHBAN</title>
+        <subtitle>live for kids</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>Sie ist ein Phänomen. Ein Unikat in der Musiklandschaft, das sich jeder Einordnung widersetzt: Liedermacherin, Kinderliedermacherin, Kabarettistin. Charmant, witzig, tiefgründig.</abstract>
+        <description>"Kinderlieder sind kein Kinderspiel!", sagt Suli Puschban und schreibt über das Kind-sein in Berlin, wo sie seit vielen Jahren lebt. Ihre eigenen Wiener Wurzeln finden sich in allem als Zuckerspuren wieder. Konzerte, Komposition und Umsetzung von Liedern für Theaterstücke, Workshops, Singen in der Schule, all das hat Suli zu bieten. Sie hat für die Rosa-Parks-Grundschule in Berlin, Kreuzberg das Schul-Lied ROSA PARKS BIST DU geschrieben und als Video produziert</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="10440" guid="61ded819-2144-40f8-b137-04e6cb7928a3">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10440.html</url>
+        <logo>/system/events/logos/000/010/440/large/Muckemacher_Pressefoto_01_2019.jpg?1566335939</logo>
+        <date>2019-08-24T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>Kids Stage</room>
+        <slug>camp19lounge-10440-muckemacher</slug>
+        <title>MUCKEMACHER</title>
+        <subtitle>live for kids</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>Die Muckemacher sind Verena Roth und Florian Erlbeck, sie wohnen seit 2007 in Berlin. Schon viele Jahre arbeiten sie als Musiker und Komponisten.</abstract>
+        <description>Mit ihrer ehemaligen Band „Les Babacools“ aus München haben sie zwischen 1991 und 2006 unzählige Konzerte gespielt und waren u.a. Djs und Clubveranstalter.&#13;
+Florian schreibt Filmmusik (www.florianerlbeck.de) und hat u.a. musikalische Früherziehung für Kinder unterrichtet. Seine Instrumente sind: Saxophon, Klarinette, Akkordeon, Gitarre, Percussion und noch einige mehr. Verena spielt Klavier, Synthesizer und singt.&#13;
+&#13;
+Ihre große Plattensammlung aus Dj-Zeiten hat ihre Kinder schnell begeistert. So haben die beiden Muckemacher beschlossen, ihre eigene Musik für Kinder so aufzunehmen, daß sie nicht unbedingt nach Kindermusik klingt, sondern auch den Eltern gefällt und die ganze Familie tanzen und mitgrooven lässt.&#13;
+&#13;
+Live spielen die Muckemacher in voller Bandbesetzung mit Schlagzeug, Bass, Gitarre, Keyboards, Saxophon, Akkordeon u.a., damit die Kinder die volle Bandbreite der musikalischen Vielfalt miterleben können.&#13;
+</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
         <attachments/>
       </event>
     </room>
@@ -10159,18 +10218,19 @@ you for many different reasons and would like to talk about that.</description>
       </event>
       <event id="10434" guid="0912c0ba-228f-41e2-bac1-1b91ebd40755">
         <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10434.html</url>
-        <logo>/system/events/logos/000/010/434/large/sportbrigade.jpg?1566156407</logo>
+        <logo>/system/events/logos/000/010/434/large/marc_pano.jpeg?1566335260</logo>
         <date>2019-08-25T22:00:00+02:00</date>
         <start>22:00</start>
         <duration>02:00</duration>
         <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10434-sportbrigade_sparwasser</slug>
-        <title>Sportbrigade Sparwasser</title>
+        <slug>camp19lounge-10434-pale_lynx</slug>
+        <title>Pale Lynx</title>
         <subtitle/>
         <track>Music</track>
         <type>djset</type>
         <language>en</language>
-        <abstract/>
+        <abstract>Zur Volljährigkeit der Sportbrigade Sparwasser debütiert ein weiteres&#13;
+Seitenprojekt des Berliner DJ Duetts: Pale Lynx mixt die sportbrigade-typischen tiefen Bässe und schweren Beats mit vielschichtigem knittersound. eckig und warm. weich und luchsig.</abstract>
         <description/>
         <recording>
           <license/>
@@ -10195,8 +10255,8 @@ you for many different reasons and would like to talk about that.</description>
         <track>Music</track>
         <type>djset</type>
         <language>en</language>
-        <abstract/>
-        <description/>
+        <abstract>to boldly go...</abstract>
+        <description>music for a long and prosper life</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -10220,7 +10280,7 @@ you for many different reasons and would like to talk about that.</description>
         <track>Music</track>
         <type>djset</type>
         <language>en</language>
-        <abstract/>
+        <abstract>from out of space into the rabbit hole…</abstract>
         <description/>
         <recording>
           <license/>

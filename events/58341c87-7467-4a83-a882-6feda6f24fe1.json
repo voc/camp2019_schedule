@@ -2,7 +2,7 @@
   "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10405.html",
   "id": 10405,
   "guid": "58341c87-7467-4a83-a882-6feda6f24fe1",
-  "logo": null,
+  "logo": "/system/events/logos/000/010/405/large/beton-500x500.jpg?1566203043",
   "date": "2019-08-22T01:00:00+02:00",
   "start": "01:00",
   "duration": "02:00",
@@ -13,11 +13,16 @@
   "track": "Music",
   "type": "djset",
   "language": "en",
-  "abstract": "",
+  "abstract": "This newborn monniker allows a Berlin-based devil of a fellow to appear cleared from what he is usually known for. Therefore we will keep the secret, suffice it to say: he is happily exploring the harder, darker domains rather than ruling the sunset floors as we have seen him doing in places as Garbicz festival. Experts of the scene may a find a hint in the URL below.",
   "description": "",
   "recording_license": "",
   "do_not_record": false,
   "persons": [],
-  "links": [],
+  "links": [
+    {
+      "url": "https://soundcloud.com/klangsucht/lui-beton-landuca-maluca",
+      "title": "Lui Beton on Soundcloud"
+    }
+  ],
   "attachments": []
 }
