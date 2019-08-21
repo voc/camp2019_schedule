@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-21 17:30</version>
+  <version>2019-08-21 17:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -681,6 +681,26 @@
         <links>
           <link>https://substrate.dev/en/tutorials</link>
         </links>
+      </event>
+      <event id="1378" guid="8fa99d26-d9d3-5bd2-864e-315a698e0985">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Systemabsturz_konzert</url>
+        <logo/>
+        <date>2019-08-21T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>1:00</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1378-session_systemabsturz_konzert</slug>
+        <title>Systemabsturz konzert</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Datenschutz-Elektropunktrash</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Benks">Benks</person>
+        </persons>
+        <links/>
       </event>
       <event id="1140" guid="9c0d9834-b2a4-4a2e-9c15-9e54bac815d0">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Tor_Relay_Operator_Meetup</url>
@@ -2149,6 +2169,30 @@
         <links/>
       </event>
     </room>
+    <room name="Village:AFRA">
+      <event id="1375" guid="c0c61577-a515-4216-902b-ffa7fc34119c">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Freifunk_Drink-Up</url>
+        <logo/>
+        <date>2019-08-22T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>2:00</duration>
+        <room>Village:AFRA</room>
+        <slug>camp2019-1375-session_freifunk_drink_up</slug>
+        <title>Freifunk Drink-Up</title>
+        <subtitle>Social gathering, meet, talk, celebrate</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>ab</language>
+        <abstract/>
+        <description>Social gathering for the Freifunk community and everybody interested in community networks.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Math">Math</person>
+        </persons>
+        <links>
+          <link>https://freifunk.net</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:Ecohackerfarm">
       <event id="1358" guid="e4fe9aff-1b9e-4c51-8ca1-fd87cd9a4984">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Get_to_know_Eco_Hacker_Farm</url>
@@ -3038,8 +3082,8 @@
       <event id="1374" guid="8f1f9a69-e055-49fd-a557-d013c7b325ed">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Networking_Basics_on_the_Command_Line</url>
         <logo/>
-        <date>2019-08-23T18:30:00+02:00</date>
-        <start>18:30</start>
+        <date>2019-08-23T18:00:00+02:00</date>
+        <start>18:00</start>
         <duration>1:30</duration>
         <room>Village:1komona</room>
         <slug>camp2019-1374-session_networking_basics_on_the_command_line</slug>
@@ -3049,7 +3093,7 @@
         <type>workshop</type>
         <language>en</language>
         <abstract/>
-        <description>@Heart of code-dome! What's an IP address and how do you get it? How does your computer manage to reach the whole world? How can you check what part of it went wrong? This hands-on workshop will give a basic overview of some networking concepts and tools, such as ip, ping, and traceroute. Then you will have time to try out the tools for yourself. Please bring a laptop.</description>
+        <description>@Heart of code-dome, by Theresa! What's an IP address and how do you get it? How does your computer manage to reach the whole world? How can you check what part of it went wrong? This hands-on workshop will give a basic overview of some networking concepts and tools, such as ip, ping, and traceroute. Then you will have time to try out the tools for yourself. Please bring a laptop.</description>
         <persons/>
         <links/>
       </event>
@@ -4050,6 +4094,26 @@
         <persons/>
         <links/>
       </event>
+      <event id="1379" guid="0c0709ed-6fba-4013-aa75-fcfc4f07e1c7">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:You_broke_the_internet,_let_us_build_a_GNU_one</url>
+        <logo/>
+        <date>2019-08-24T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>1:30</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1379-session_you_broke_the_internet_let_us_build_a_gnu_one</slug>
+        <title>You broke the internet, let us build a GNU one</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>GNUnet meetup for the community</description>
+        <persons/>
+        <links>
+          <link>https://gnunet.org</link>
+        </links>
+      </event>
     </room>
     <room name="Goldberg (Workshop 2)"/>
     <room name="THM Workshop"/>
@@ -4429,6 +4493,24 @@
           <link>http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence</link>
         </links>
       </event>
+      <event id="1377" guid="c89e556c-382d-4a2d-8935-296d5f545cc6">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Patterns_for_Decentralization</url>
+        <logo/>
+        <date>2019-08-24T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1377-session_patterns_for_decentralization</slug>
+        <title>Patterns for Decentralization</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>@Heart of Code dome, by Eileen! Discussion and hands-on workshop on UX patterns we want to see in decentralization. Open to all, prior knowledge on decentralization required (you should be familiar with at least one decentralization protocol/app/platform, such as dat, XMPP, Mastodon, Tor, ...). We'll bring sharpies!</description>
+        <persons/>
+        <links/>
+      </event>
       <event id="1332" guid="c94ee149-84c1-5769-9c14-8eaccbcd4683">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>
         <logo/>
@@ -4579,6 +4661,24 @@
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
         </persons>
+        <links/>
+      </event>
+      <event id="1376" guid="d9699a25-4ed4-4181-9bcf-48136a212cfc">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Improvisation_f%C3%BCr_Einsteiger</url>
+        <logo/>
+        <date>2019-08-24T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>1:00</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1376-session_improvisation_fuer_einsteiger</slug>
+        <title>Improvisation für Einsteiger</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description>Ein praktischer Einstieg in die Improvisation</description>
+        <persons/>
         <links/>
       </event>
       <event id="1311" guid="b2a39864-a9b3-4026-82c9-6398c8588651">

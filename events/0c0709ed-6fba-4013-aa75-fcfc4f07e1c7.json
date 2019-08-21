@@ -1,0 +1,22 @@
+{
+  "id": 1379,
+  "guid": "0c0709ed-6fba-4013-aa75-fcfc4f07e1c7",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:You_broke_the_internet,_let_us_build_a_GNU_one",
+  "logo": null,
+  "date": "2019-08-24T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "1:30",
+  "room": "Johnson (Workshop 1)",
+  "slug": "camp2019-1379-session_you_broke_the_internet_let_us_build_a_gnu_one",
+  "title": "You broke the internet, let us build a GNU one",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "discussion",
+  "language": "en",
+  "abstract": "",
+  "description": "GNUnet meetup for the community",
+  "persons": [],
+  "links": [
+    "https://gnunet.org"
+  ]
+}

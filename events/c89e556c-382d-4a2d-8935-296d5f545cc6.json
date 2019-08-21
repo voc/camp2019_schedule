@@ -1,0 +1,20 @@
+{
+  "id": 1377,
+  "guid": "c89e556c-382d-4a2d-8935-296d5f545cc6",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Patterns_for_Decentralization",
+  "logo": null,
+  "date": "2019-08-24T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "1:00",
+  "room": "Village:1komona",
+  "slug": "camp2019-1377-session_patterns_for_decentralization",
+  "title": "Patterns for Decentralization",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "@Heart of Code dome, by Eileen! Discussion and hands-on workshop on UX patterns we want to see in decentralization. Open to all, prior knowledge on decentralization required (you should be familiar with at least one decentralization protocol/app/platform, such as dat, XMPP, Mastodon, Tor, ...). We'll bring sharpies!",
+  "persons": [],
+  "links": []
+}

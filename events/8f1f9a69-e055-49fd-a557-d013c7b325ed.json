@@ -3,8 +3,8 @@
   "guid": "8f1f9a69-e055-49fd-a557-d013c7b325ed",
   "url": "https://events.ccc.de/camp/2019/wiki/Session:Networking_Basics_on_the_Command_Line",
   "logo": null,
-  "date": "2019-08-23T18:30:00+02:00",
-  "start": "18:30",
+  "date": "2019-08-23T18:00:00+02:00",
+  "start": "18:00",
   "duration": "1:30",
   "room": "Village:1komona",
   "slug": "camp2019-1374-session_networking_basics_on_the_command_line",
@@ -14,7 +14,7 @@
   "type": "workshop",
   "language": "en",
   "abstract": "",
-  "description": "@Heart of code-dome! What's an IP address and how do you get it? How does your computer manage to reach the whole world? How can you check what part of it went wrong? This hands-on workshop will give a basic overview of some networking concepts and tools, such as ip, ping, and traceroute. Then you will have time to try out the tools for yourself. Please bring a laptop.",
+  "description": "@Heart of code-dome, by Theresa! What's an IP address and how do you get it? How does your computer manage to reach the whole world? How can you check what part of it went wrong? This hands-on workshop will give a basic overview of some networking concepts and tools, such as ip, ping, and traceroute. Then you will have time to try out the tools for yourself. Please bring a laptop.",
   "persons": [],
   "links": []
 }

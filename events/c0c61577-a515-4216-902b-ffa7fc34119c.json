@@ -1,0 +1,28 @@
+{
+  "id": 1375,
+  "guid": "c0c61577-a515-4216-902b-ffa7fc34119c",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Freifunk_Drink-Up",
+  "logo": null,
+  "date": "2019-08-22T21:00:00+02:00",
+  "start": "21:00",
+  "duration": "2:00",
+  "room": "Village:AFRA",
+  "slug": "camp2019-1375-session_freifunk_drink_up",
+  "title": "Freifunk Drink-Up",
+  "subtitle": "Social gathering, meet, talk, celebrate",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "ab",
+  "abstract": "",
+  "description": "Social gathering for the Freifunk community and everybody interested in community networks.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Math",
+      "public_name": "Math"
+    }
+  ],
+  "links": [
+    "https://freifunk.net"
+  ]
+}

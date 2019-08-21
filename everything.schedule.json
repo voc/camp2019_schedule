@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Idril; wiki 2019-08-21 17:30",
+    "version": "Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Idril; wiki 2019-08-21 17:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -1961,6 +1961,32 @@
                 "links": [
                   "https://substrate.dev/en/tutorials"
                 ]
+              },
+              {
+                "id": 1378,
+                "guid": "8fa99d26-d9d3-5bd2-864e-315a698e0985",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Systemabsturz_konzert",
+                "logo": null,
+                "date": "2019-08-21T22:00:00+02:00",
+                "start": "22:00",
+                "duration": "1:00",
+                "room": "Village:About:freedom",
+                "slug": "camp2019-1378-session_systemabsturz_konzert",
+                "title": "Systemabsturz konzert",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "de",
+                "abstract": "",
+                "description": "Datenschutz-Elektropunktrash",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Benks",
+                    "public_name": "Benks"
+                  }
+                ],
+                "links": []
               },
               {
                 "id": 1140,
@@ -5692,6 +5718,36 @@
                 "links": []
               }
             ],
+            "Village:AFRA": [
+              {
+                "id": 1375,
+                "guid": "c0c61577-a515-4216-902b-ffa7fc34119c",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Freifunk_Drink-Up",
+                "logo": null,
+                "date": "2019-08-22T21:00:00+02:00",
+                "start": "21:00",
+                "duration": "2:00",
+                "room": "Village:AFRA",
+                "slug": "camp2019-1375-session_freifunk_drink_up",
+                "title": "Freifunk Drink-Up",
+                "subtitle": "Social gathering, meet, talk, celebrate",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "ab",
+                "abstract": "",
+                "description": "Social gathering for the Freifunk community and everybody interested in community networks.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Math",
+                    "public_name": "Math"
+                  }
+                ],
+                "links": [
+                  "https://freifunk.net"
+                ]
+              }
+            ],
             "Village:Ecohackerfarm": [
               {
                 "id": 1358,
@@ -8056,8 +8112,8 @@
                 "guid": "8f1f9a69-e055-49fd-a557-d013c7b325ed",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Networking_Basics_on_the_Command_Line",
                 "logo": null,
-                "date": "2019-08-23T18:30:00+02:00",
-                "start": "18:30",
+                "date": "2019-08-23T18:00:00+02:00",
+                "start": "18:00",
                 "duration": "1:30",
                 "room": "Village:1komona",
                 "slug": "camp2019-1374-session_networking_basics_on_the_command_line",
@@ -8067,7 +8123,7 @@
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "@Heart of code-dome! What's an IP address and how do you get it? How does your computer manage to reach the whole world? How can you check what part of it went wrong? This hands-on workshop will give a basic overview of some networking concepts and tools, such as ip, ping, and traceroute. Then you will have time to try out the tools for yourself. Please bring a laptop.",
+                "description": "@Heart of code-dome, by Theresa! What's an IP address and how do you get it? How does your computer manage to reach the whole world? How can you check what part of it went wrong? This hands-on workshop will give a basic overview of some networking concepts and tools, such as ip, ping, and traceroute. Then you will have time to try out the tools for yourself. Please bring a laptop.",
                 "persons": [],
                 "links": []
               },
@@ -10045,6 +10101,28 @@
                 "description": "In this open discussion we will discuss solutions taken by organizations to address ticket sales at fair prices when demand significantly outgrows supply",
                 "persons": [],
                 "links": []
+              },
+              {
+                "id": 1379,
+                "guid": "0c0709ed-6fba-4013-aa75-fcfc4f07e1c7",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:You_broke_the_internet,_let_us_build_a_GNU_one",
+                "logo": null,
+                "date": "2019-08-24T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "1:30",
+                "room": "Johnson (Workshop 1)",
+                "slug": "camp2019-1379-session_you_broke_the_internet_let_us_build_a_gnu_one",
+                "title": "You broke the internet, let us build a GNU one",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "GNUnet meetup for the community",
+                "persons": [],
+                "links": [
+                  "https://gnunet.org"
+                ]
               }
             ],
             "Goldberg (Workshop 2)": [],
@@ -10870,6 +10948,26 @@
                 ]
               },
               {
+                "id": 1377,
+                "guid": "c89e556c-382d-4a2d-8935-296d5f545cc6",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Patterns_for_Decentralization",
+                "logo": null,
+                "date": "2019-08-24T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "1:00",
+                "room": "Village:1komona",
+                "slug": "camp2019-1377-session_patterns_for_decentralization",
+                "title": "Patterns for Decentralization",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "@Heart of Code dome, by Eileen! Discussion and hands-on workshop on UX patterns we want to see in decentralization. Open to all, prior knowledge on decentralization required (you should be familiar with at least one decentralization protocol/app/platform, such as dat, XMPP, Mastodon, Tor, ...). We'll bring sharpies!",
+                "persons": [],
+                "links": []
+              },
+              {
                 "id": 1332,
                 "guid": "c94ee149-84c1-5769-9c14-8eaccbcd4683",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery",
@@ -11049,6 +11147,26 @@
                     "public_name": "Piko"
                   }
                 ],
+                "links": []
+              },
+              {
+                "id": 1376,
+                "guid": "d9699a25-4ed4-4181-9bcf-48136a212cfc",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Improvisation_f%C3%BCr_Einsteiger",
+                "logo": null,
+                "date": "2019-08-24T17:30:00+02:00",
+                "start": "17:30",
+                "duration": "1:00",
+                "room": "Village:Haecksen",
+                "slug": "camp2019-1376-session_improvisation_fuer_einsteiger",
+                "title": "Improvisation f\u00fcr Einsteiger",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "",
+                "abstract": "",
+                "description": "Ein praktischer Einstieg in die Improvisation",
+                "persons": [],
                 "links": []
               },
               {
