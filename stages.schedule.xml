@@ -1,5 +1,5 @@
 <schedule>
-  <version>Fomalhaut ; thm Monkey Island 2: LeChuck’s Revenge; lounges 606; lightning Idril</version>
+  <version>Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Idril</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -774,42 +774,10 @@ die Zukunft zu erhalten</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="144" guid="c1dbaff1-600d-5496-9de7-2ee0b55ee993">
-        <logo/>
-        <date>2019-08-21T22:30:00+02:00</date>
-        <start>22:30</start>
-        <duration>02:00</duration>
-        <room>Plank</room>
-        <slug>DBZNBY</slug>
-        <url>http://talx.thm.cloud/thms/talk/DBZNBY/</url>
-        <title>Muzkat Soundsystem - FUNK</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>DJ Set</type>
-        <language>en</language>
-        <abstract>Jazzy Sprint</abstract>
-        <description>camp FUNK&#13;
-&#13;
-DJ/Liveset - Soul, Jazz, Funk</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="48">
-            <code>9E8RNQ</code>
-            <public_name>muzkat soundsystem</public_name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="105" guid="8b56bef8-edb3-519a-9a48-6a80f4bb9566">
         <logo>/media/thms/images/DLS83T/Dc8jzhwW0AA1KDn_1.jpg</logo>
-        <date>2019-08-22T00:30:00+02:00</date>
-        <start>00:30</start>
+        <date>2019-08-21T22:00:00+02:00</date>
+        <start>22:00</start>
         <duration>02:00</duration>
         <room>Plank</room>
         <slug>DLS83T</slug>
@@ -838,8 +806,8 @@ DJ/Liveset - Soul, Jazz, Funk</description>
       </event>
       <event id="106" guid="bffe36f4-428d-57ba-bcab-01b681292b55">
         <logo>/media/thms/images/FASSF7/Eat_The_Bass_2.jpg</logo>
-        <date>2019-08-22T02:30:00+02:00</date>
-        <start>02:30</start>
+        <date>2019-08-22T00:00:00+02:00</date>
+        <start>00:00</start>
         <duration>02:00</duration>
         <room>Plank</room>
         <slug>FASSF7</slug>
@@ -860,6 +828,36 @@ Check out my mixes on [Soundcloud] (https://soundcloud.com/barbnerdy)</descripti
           <person id="16">
             <code>PJF8MV</code>
             <public_name>BarbNerdy</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="117" guid="ea450a4c-8372-51f3-974d-879ce4083976">
+        <logo/>
+        <date>2019-08-22T02:00:00+02:00</date>
+        <start>02:00</start>
+        <duration>02:00</duration>
+        <room>Plank</room>
+        <slug>PHGYF8</slug>
+        <url>http://talx.thm.cloud/thms/talk/PHGYF8/</url>
+        <title>Beh</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>DJ Set</type>
+        <language>de</language>
+        <abstract>Bass/Chill</abstract>
+        <description>DJ-Set Bass/Chill</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="28">
+            <code>TQKQFD</code>
+            <public_name>Beh</public_name>
             <biography/>
           </person>
         </persons>
@@ -2343,36 +2341,6 @@ Ziel 2: Workflows entwickeln, die Organisationen das Management von vielen Proje
       </event>
     </room>
     <room name="Plank">
-      <event id="117" guid="ea450a4c-8372-51f3-974d-879ce4083976">
-        <logo/>
-        <date>2019-08-22T04:30:00+02:00</date>
-        <start>04:30</start>
-        <duration>02:00</duration>
-        <room>Plank</room>
-        <slug>PHGYF8</slug>
-        <url>http://talx.thm.cloud/thms/talk/PHGYF8/</url>
-        <title>Beh</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>DJ Set</type>
-        <language>de</language>
-        <abstract>Bass/Chill</abstract>
-        <description>DJ-Set Bass/Chill</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="28">
-            <code>TQKQFD</code>
-            <public_name>Beh</public_name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="139" guid="0ef9486d-7f7a-5298-9042-3e55c19768d2">
         <logo/>
         <date>2019-08-22T15:00:00+02:00</date>
@@ -2544,6 +2512,41 @@ wissen, was sie tun.</description>
             <code>SZJWJZ</code>
             <public_name>Arne</public_name>
             <biography>Arne ist Projektleiter von FragDenStaat.de</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="107" guid="49498e74-3b88-599b-9fb5-f28663b3c8bc">
+        <logo/>
+        <date>2019-08-22T20:15:00+02:00</date>
+        <start>20:15</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>LJQNKC</slug>
+        <url>http://talx.thm.cloud/thms/talk/LJQNKC/</url>
+        <title>Logbuch:Netzpolitik</title>
+        <subtitle/>
+        <track>Entertainment</track>
+        <type>Entertainment</type>
+        <language>de</language>
+        <abstract>Live-Podcast</abstract>
+        <description>Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="17">
+            <code>YQRFRN</code>
+            <public_name>Linus Neumann</public_name>
+            <biography/>
+          </person>
+          <person id="18">
+            <code>N9XJ77</code>
+            <public_name>Tim Pritlove</public_name>
+            <biography>Diskordischer Evangelist</biography>
           </person>
         </persons>
         <links/>
@@ -3621,6 +3624,36 @@ These tools, called Dreams and Realities are run alongside a customized version 
           <person id="62">
             <code>VAEBV7</code>
             <public_name>THM Lounge</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="165" guid="f86ec299-33c8-52ec-a207-62a444e8acbf">
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>ARDC3J</slug>
+        <url>http://talx.thm.cloud/thms/talk/ARDC3J/</url>
+        <title>Sinn von Unsinn unterscheiden - Glaub ich's oder glaub ich's nicht?</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Pyramiden wurden von Außerirdischen gebaut! Impfen macht Autismus! Gott hat die Welt geschaffen!</abstract>
+        <description>Kornkreise, Handystrahlung, Chemtrails, Homöopathie, Astrologie, Wasserkristallbilder, Aurafotografie, Quantenheilung...</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="70">
+            <code>N3M87D</code>
+            <public_name>Steini</public_name>
             <biography/>
           </person>
         </persons>

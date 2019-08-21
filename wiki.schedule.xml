@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-21 17:10</version>
+  <version>2019-08-21 17:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -1217,27 +1217,6 @@
           <link>http://z-uno.z-wave.me</link>
         </links>
       </event>
-      <event id="1066" guid="8563f582-f24e-4027-9a26-1725098b2b53">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken</url>
-        <logo/>
-        <date>2019-08-22T20:00:00+02:00</date>
-        <start>20:00</start>
-        <duration>2:00</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1066-session_esperanto_a_planned_nerd_language_actually_spoken</slug>
-        <title>Esperanto – a planned nerd language actually spoken</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>A short introduction into the international language Esperanto. A planned language actually spoken by nerds all over the world</description>
-        <persons/>
-        <links>
-          <link>https://github.com/johannes-mueller/esperanto-35c3</link>
-          <link>https://c3eo.chaotik.de</link>
-        </links>
-      </event>
       <event id="1262" guid="afa80109-3761-4b3f-b2e8-57087d164b0d">
         <url>https://events.ccc.de/camp/2019/wiki/Session:NixOS_Install_Party</url>
         <logo/>
@@ -1302,6 +1281,27 @@
         </persons>
         <links>
           <link>https://archlinux.org</link>
+        </links>
+      </event>
+      <event id="1066" guid="8563f582-f24e-4027-9a26-1725098b2b53">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken</url>
+        <logo/>
+        <date>2019-08-22T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>2:00</duration>
+        <room>Goldberg (Workshop 2)</room>
+        <slug>camp2019-1066-session_esperanto_a_planned_nerd_language_actually_spoken</slug>
+        <title>Esperanto – a planned nerd language actually spoken</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>A short introduction into the international language Esperanto. A planned language actually spoken by nerds all over the world</description>
+        <persons/>
+        <links>
+          <link>https://github.com/johannes-mueller/esperanto-35c3</link>
+          <link>https://c3eo.chaotik.de</link>
         </links>
       </event>
       <event id="1231" guid="ca75968c-338d-4a45-a41b-594c83b34d70">
@@ -3034,6 +3034,24 @@
         <links>
           <link>http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence</link>
         </links>
+      </event>
+      <event id="1374" guid="8f1f9a69-e055-49fd-a557-d013c7b325ed">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Networking_Basics_on_the_Command_Line</url>
+        <logo/>
+        <date>2019-08-23T18:30:00+02:00</date>
+        <start>18:30</start>
+        <duration>1:30</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1374-session_networking_basics_on_the_command_line</slug>
+        <title>Networking Basics on the Command Line</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>@Heart of code-dome! What's an IP address and how do you get it? How does your computer manage to reach the whole world? How can you check what part of it went wrong? This hands-on workshop will give a basic overview of some networking concepts and tools, such as ip, ping, and traceroute. Then you will have time to try out the tools for yourself. Please bring a laptop.</description>
+        <persons/>
+        <links/>
       </event>
       <event id="1333" guid="bbd152a9-b0bb-5b07-b1d2-41fb91d372f2">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>

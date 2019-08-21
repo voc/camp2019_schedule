@@ -1,5 +1,5 @@
 <schedule>
-  <version>Fomalhaut ; thm Monkey Island 2: LeChuck’s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 17:10</version>
+  <version>Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Idril; wiki 2019-08-21 17:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -774,42 +774,10 @@ die Zukunft zu erhalten</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="144" guid="c1dbaff1-600d-5496-9de7-2ee0b55ee993">
-        <logo/>
-        <date>2019-08-21T22:30:00+02:00</date>
-        <start>22:30</start>
-        <duration>02:00</duration>
-        <room>Plank</room>
-        <slug>DBZNBY</slug>
-        <url>http://talx.thm.cloud/thms/talk/DBZNBY/</url>
-        <title>Muzkat Soundsystem - FUNK</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>DJ Set</type>
-        <language>en</language>
-        <abstract>Jazzy Sprint</abstract>
-        <description>camp FUNK&#13;
-&#13;
-DJ/Liveset - Soul, Jazz, Funk</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="48">
-            <code>9E8RNQ</code>
-            <public_name>muzkat soundsystem</public_name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="105" guid="8b56bef8-edb3-519a-9a48-6a80f4bb9566">
         <logo>/media/thms/images/DLS83T/Dc8jzhwW0AA1KDn_1.jpg</logo>
-        <date>2019-08-22T00:30:00+02:00</date>
-        <start>00:30</start>
+        <date>2019-08-21T22:00:00+02:00</date>
+        <start>22:00</start>
         <duration>02:00</duration>
         <room>Plank</room>
         <slug>DLS83T</slug>
@@ -838,8 +806,8 @@ DJ/Liveset - Soul, Jazz, Funk</description>
       </event>
       <event id="106" guid="bffe36f4-428d-57ba-bcab-01b681292b55">
         <logo>/media/thms/images/FASSF7/Eat_The_Bass_2.jpg</logo>
-        <date>2019-08-22T02:30:00+02:00</date>
-        <start>02:30</start>
+        <date>2019-08-22T00:00:00+02:00</date>
+        <start>00:00</start>
         <duration>02:00</duration>
         <room>Plank</room>
         <slug>FASSF7</slug>
@@ -860,6 +828,36 @@ Check out my mixes on [Soundcloud] (https://soundcloud.com/barbnerdy)</descripti
           <person id="16">
             <code>PJF8MV</code>
             <public_name>BarbNerdy</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="117" guid="ea450a4c-8372-51f3-974d-879ce4083976">
+        <logo/>
+        <date>2019-08-22T02:00:00+02:00</date>
+        <start>02:00</start>
+        <duration>02:00</duration>
+        <room>Plank</room>
+        <slug>PHGYF8</slug>
+        <url>http://talx.thm.cloud/thms/talk/PHGYF8/</url>
+        <title>Beh</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>DJ Set</type>
+        <language>de</language>
+        <abstract>Bass/Chill</abstract>
+        <description>DJ-Set Bass/Chill</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="28">
+            <code>TQKQFD</code>
+            <public_name>Beh</public_name>
             <biography/>
           </person>
         </persons>
@@ -3500,36 +3498,6 @@ Ziel 2: Workflows entwickeln, die Organisationen das Management von vielen Proje
       </event>
     </room>
     <room name="Plank">
-      <event id="117" guid="ea450a4c-8372-51f3-974d-879ce4083976">
-        <logo/>
-        <date>2019-08-22T04:30:00+02:00</date>
-        <start>04:30</start>
-        <duration>02:00</duration>
-        <room>Plank</room>
-        <slug>PHGYF8</slug>
-        <url>http://talx.thm.cloud/thms/talk/PHGYF8/</url>
-        <title>Beh</title>
-        <subtitle/>
-        <track>Music</track>
-        <type>DJ Set</type>
-        <language>de</language>
-        <abstract>Bass/Chill</abstract>
-        <description>DJ-Set Bass/Chill</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="28">
-            <code>TQKQFD</code>
-            <public_name>Beh</public_name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="139" guid="0ef9486d-7f7a-5298-9042-3e55c19768d2">
         <logo/>
         <date>2019-08-22T15:00:00+02:00</date>
@@ -3707,6 +3675,41 @@ wissen, was sie tun.</description>
         <attachments/>
         <answers/>
       </event>
+      <event id="107" guid="49498e74-3b88-599b-9fb5-f28663b3c8bc">
+        <logo/>
+        <date>2019-08-22T20:15:00+02:00</date>
+        <start>20:15</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>LJQNKC</slug>
+        <url>http://talx.thm.cloud/thms/talk/LJQNKC/</url>
+        <title>Logbuch:Netzpolitik</title>
+        <subtitle/>
+        <track>Entertainment</track>
+        <type>Entertainment</type>
+        <language>de</language>
+        <abstract>Live-Podcast</abstract>
+        <description>Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="17">
+            <code>YQRFRN</code>
+            <public_name>Linus Neumann</public_name>
+            <biography/>
+          </person>
+          <person id="18">
+            <code>N9XJ77</code>
+            <public_name>Tim Pritlove</public_name>
+            <biography>Diskordischer Evangelist</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="108" guid="da999f3a-edf0-590a-85f8-37cb00cf21d9">
         <logo/>
         <date>2019-08-22T21:30:00+02:00</date>
@@ -3842,27 +3845,6 @@ Mit Bildern, Screenshots und vielleicht auch dem einen oder anderen kurzen Video
           <link>http://z-uno.z-wave.me</link>
         </links>
       </event>
-      <event id="1066" guid="8563f582-f24e-4027-9a26-1725098b2b53">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken</url>
-        <logo/>
-        <date>2019-08-22T20:00:00+02:00</date>
-        <start>20:00</start>
-        <duration>2:00</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1066-session_esperanto_a_planned_nerd_language_actually_spoken</slug>
-        <title>Esperanto – a planned nerd language actually spoken</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>A short introduction into the international language Esperanto. A planned language actually spoken by nerds all over the world</description>
-        <persons/>
-        <links>
-          <link>https://github.com/johannes-mueller/esperanto-35c3</link>
-          <link>https://c3eo.chaotik.de</link>
-        </links>
-      </event>
       <event id="1262" guid="afa80109-3761-4b3f-b2e8-57087d164b0d">
         <url>https://events.ccc.de/camp/2019/wiki/Session:NixOS_Install_Party</url>
         <logo/>
@@ -3927,6 +3909,27 @@ Mit Bildern, Screenshots und vielleicht auch dem einen oder anderen kurzen Video
         </persons>
         <links>
           <link>https://archlinux.org</link>
+        </links>
+      </event>
+      <event id="1066" guid="8563f582-f24e-4027-9a26-1725098b2b53">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken</url>
+        <logo/>
+        <date>2019-08-22T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>2:00</duration>
+        <room>Goldberg (Workshop 2)</room>
+        <slug>camp2019-1066-session_esperanto_a_planned_nerd_language_actually_spoken</slug>
+        <title>Esperanto – a planned nerd language actually spoken</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>A short introduction into the international language Esperanto. A planned language actually spoken by nerds all over the world</description>
+        <persons/>
+        <links>
+          <link>https://github.com/johannes-mueller/esperanto-35c3</link>
+          <link>https://c3eo.chaotik.de</link>
         </links>
       </event>
       <event id="1231" guid="ca75968c-338d-4a45-a41b-594c83b34d70">
@@ -6244,6 +6247,36 @@ These tools, called Dreams and Realities are run alongside a customized version 
         <attachments/>
         <answers/>
       </event>
+      <event id="165" guid="f86ec299-33c8-52ec-a207-62a444e8acbf">
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>ARDC3J</slug>
+        <url>http://talx.thm.cloud/thms/talk/ARDC3J/</url>
+        <title>Sinn von Unsinn unterscheiden - Glaub ich's oder glaub ich's nicht?</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Pyramiden wurden von Außerirdischen gebaut! Impfen macht Autismus! Gott hat die Welt geschaffen!</abstract>
+        <description>Kornkreise, Handystrahlung, Chemtrails, Homöopathie, Astrologie, Wasserkristallbilder, Aurafotografie, Quantenheilung...</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="70">
+            <code>N3M87D</code>
+            <public_name>Steini</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="132" guid="4f94b6e0-3e6c-5b5d-9d47-45c06304c063">
         <logo/>
         <date>2019-08-23T16:15:00+02:00</date>
@@ -7206,6 +7239,24 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
         <links>
           <link>http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence</link>
         </links>
+      </event>
+      <event id="1374" guid="8f1f9a69-e055-49fd-a557-d013c7b325ed">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Networking_Basics_on_the_Command_Line</url>
+        <logo/>
+        <date>2019-08-23T18:30:00+02:00</date>
+        <start>18:30</start>
+        <duration>1:30</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1374-session_networking_basics_on_the_command_line</slug>
+        <title>Networking Basics on the Command Line</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>@Heart of code-dome! What's an IP address and how do you get it? How does your computer manage to reach the whole world? How can you check what part of it went wrong? This hands-on workshop will give a basic overview of some networking concepts and tools, such as ip, ping, and traceroute. Then you will have time to try out the tools for yourself. Please bring a laptop.</description>
+        <persons/>
+        <links/>
       </event>
       <event id="1333" guid="bbd152a9-b0bb-5b07-b1d2-41fb91d372f2">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>

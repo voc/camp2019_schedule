@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Fomalhaut ; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 17:10",
+    "version": "Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Idril; wiki 2019-08-21 17:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -798,43 +798,11 @@
                 "answers": []
               },
               {
-                "id": 144,
-                "guid": "c1dbaff1-600d-5496-9de7-2ee0b55ee993",
-                "logo": "",
-                "date": "2019-08-21T22:30:00+02:00",
-                "start": "22:30",
-                "duration": "02:00",
-                "room": "Plank",
-                "slug": "DBZNBY",
-                "url": "http://talx.thm.cloud/thms/talk/DBZNBY/",
-                "title": "Muzkat Soundsystem - FUNK",
-                "subtitle": "",
-                "track": "Music",
-                "type": "DJ Set",
-                "language": "en",
-                "abstract": "Jazzy Sprint",
-                "description": "camp FUNK\r\n\r\nDJ/Liveset - Soul, Jazz, Funk",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 48,
-                    "code": "9E8RNQ",
-                    "public_name": "muzkat soundsystem",
-                    "biography": "",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
                 "id": 105,
                 "guid": "8b56bef8-edb3-519a-9a48-6a80f4bb9566",
                 "logo": "/media/thms/images/DLS83T/Dc8jzhwW0AA1KDn_1.jpg",
-                "date": "2019-08-22T00:30:00+02:00",
-                "start": "00:30",
+                "date": "2019-08-21T22:00:00+02:00",
+                "start": "22:00",
                 "duration": "02:00",
                 "room": "Plank",
                 "slug": "DLS83T",
@@ -865,8 +833,8 @@
                 "id": 106,
                 "guid": "bffe36f4-428d-57ba-bcab-01b681292b55",
                 "logo": "/media/thms/images/FASSF7/Eat_The_Bass_2.jpg",
-                "date": "2019-08-22T02:30:00+02:00",
-                "start": "02:30",
+                "date": "2019-08-22T00:00:00+02:00",
+                "start": "00:00",
                 "duration": "02:00",
                 "room": "Plank",
                 "slug": "FASSF7",
@@ -885,6 +853,38 @@
                     "id": 16,
                     "code": "PJF8MV",
                     "public_name": "BarbNerdy",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 117,
+                "guid": "ea450a4c-8372-51f3-974d-879ce4083976",
+                "logo": "",
+                "date": "2019-08-22T02:00:00+02:00",
+                "start": "02:00",
+                "duration": "02:00",
+                "room": "Plank",
+                "slug": "PHGYF8",
+                "url": "http://talx.thm.cloud/thms/talk/PHGYF8/",
+                "title": "Beh",
+                "subtitle": "",
+                "track": "Music",
+                "type": "DJ Set",
+                "language": "de",
+                "abstract": "Bass/Chill",
+                "description": "DJ-Set Bass/Chill",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 28,
+                    "code": "TQKQFD",
+                    "public_name": "Beh",
                     "biography": "",
                     "answers": []
                   }
@@ -3915,38 +3915,6 @@
             ],
             "Plank": [
               {
-                "id": 117,
-                "guid": "ea450a4c-8372-51f3-974d-879ce4083976",
-                "logo": "",
-                "date": "2019-08-22T04:30:00+02:00",
-                "start": "04:30",
-                "duration": "02:00",
-                "room": "Plank",
-                "slug": "PHGYF8",
-                "url": "http://talx.thm.cloud/thms/talk/PHGYF8/",
-                "title": "Beh",
-                "subtitle": "",
-                "track": "Music",
-                "type": "DJ Set",
-                "language": "de",
-                "abstract": "Bass/Chill",
-                "description": "DJ-Set Bass/Chill",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 28,
-                    "code": "TQKQFD",
-                    "public_name": "Beh",
-                    "biography": "",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
                 "id": 139,
                 "guid": "0ef9486d-7f7a-5298-9042-3e55c19768d2",
                 "logo": "",
@@ -4074,6 +4042,45 @@
                     "code": "SZJWJZ",
                     "public_name": "Arne",
                     "biography": "Arne ist Projektleiter von FragDenStaat.de",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 107,
+                "guid": "49498e74-3b88-599b-9fb5-f28663b3c8bc",
+                "logo": "",
+                "date": "2019-08-22T20:15:00+02:00",
+                "start": "20:15",
+                "duration": "01:00",
+                "room": "Plank",
+                "slug": "LJQNKC",
+                "url": "http://talx.thm.cloud/thms/talk/LJQNKC/",
+                "title": "Logbuch:Netzpolitik",
+                "subtitle": "",
+                "track": "Entertainment",
+                "type": "Entertainment",
+                "language": "de",
+                "abstract": "Live-Podcast",
+                "description": "Logbuch:Netzpolitik ist ein in der Regel w\u00f6chentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 17,
+                    "code": "YQRFRN",
+                    "public_name": "Linus Neumann",
+                    "biography": "",
+                    "answers": []
+                  },
+                  {
+                    "id": 18,
+                    "code": "N9XJ77",
+                    "public_name": "Tim Pritlove",
+                    "biography": "Diskordischer Evangelist",
                     "answers": []
                   }
                 ],
@@ -4229,29 +4236,6 @@
                 ]
               },
               {
-                "id": 1066,
-                "guid": "8563f582-f24e-4027-9a26-1725098b2b53",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken",
-                "logo": null,
-                "date": "2019-08-22T20:00:00+02:00",
-                "start": "20:00",
-                "duration": "2:00",
-                "room": "Johnson (Workshop 1)",
-                "slug": "camp2019-1066-session_esperanto_a_planned_nerd_language_actually_spoken",
-                "title": "Esperanto \u2013 a planned nerd language actually spoken",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "A short introduction into the international language Esperanto. A planned language actually spoken by nerds all over the world",
-                "persons": [],
-                "links": [
-                  "https://github.com/johannes-mueller/esperanto-35c3",
-                  "https://c3eo.chaotik.de"
-                ]
-              },
-              {
                 "id": 1262,
                 "guid": "afa80109-3761-4b3f-b2e8-57087d164b0d",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:NixOS_Install_Party",
@@ -4329,6 +4313,29 @@
                 ],
                 "links": [
                   "https://archlinux.org"
+                ]
+              },
+              {
+                "id": 1066,
+                "guid": "8563f582-f24e-4027-9a26-1725098b2b53",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken",
+                "logo": null,
+                "date": "2019-08-22T21:00:00+02:00",
+                "start": "21:00",
+                "duration": "2:00",
+                "room": "Goldberg (Workshop 2)",
+                "slug": "camp2019-1066-session_esperanto_a_planned_nerd_language_actually_spoken",
+                "title": "Esperanto \u2013 a planned nerd language actually spoken",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "A short introduction into the international language Esperanto. A planned language actually spoken by nerds all over the world",
+                "persons": [],
+                "links": [
+                  "https://github.com/johannes-mueller/esperanto-35c3",
+                  "https://c3eo.chaotik.de"
                 ]
               },
               {
@@ -6980,6 +6987,38 @@
                 "answers": []
               },
               {
+                "id": 165,
+                "guid": "f86ec299-33c8-52ec-a207-62a444e8acbf",
+                "logo": "",
+                "date": "2019-08-23T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "01:00",
+                "room": "Plank",
+                "slug": "ARDC3J",
+                "url": "http://talx.thm.cloud/thms/talk/ARDC3J/",
+                "title": "Sinn von Unsinn unterscheiden - Glaub ich's oder glaub ich's nicht?",
+                "subtitle": "",
+                "track": "Talk",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Pyramiden wurden von Au\u00dferirdischen gebaut! Impfen macht Autismus! Gott hat die Welt geschaffen!",
+                "description": "Kornkreise, Handystrahlung, Chemtrails, Hom\u00f6opathie, Astrologie, Wasserkristallbilder, Aurafotografie, Quantenheilung...",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 70,
+                    "code": "N3M87D",
+                    "public_name": "Steini",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 132,
                 "guid": "4f94b6e0-3e6c-5b5d-9d47-45c06304c063",
                 "logo": "",
@@ -8011,6 +8050,26 @@
                 "links": [
                   "http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence"
                 ]
+              },
+              {
+                "id": 1374,
+                "guid": "8f1f9a69-e055-49fd-a557-d013c7b325ed",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Networking_Basics_on_the_Command_Line",
+                "logo": null,
+                "date": "2019-08-23T18:30:00+02:00",
+                "start": "18:30",
+                "duration": "1:30",
+                "room": "Village:1komona",
+                "slug": "camp2019-1374-session_networking_basics_on_the_command_line",
+                "title": "Networking Basics on the Command Line",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "@Heart of code-dome! What's an IP address and how do you get it? How does your computer manage to reach the whole world? How can you check what part of it went wrong? This hands-on workshop will give a basic overview of some networking concepts and tools, such as ip, ping, and traceroute. Then you will have time to try out the tools for yourself. Please bring a laptop.",
+                "persons": [],
+                "links": []
               },
               {
                 "id": 1333,
