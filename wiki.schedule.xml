@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-21 21:40</version>
+  <version>2019-08-21 21:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -1395,6 +1395,28 @@
         <persons/>
         <links>
           <link>https://nixos.org</link>
+        </links>
+      </event>
+      <event id="1418" guid="878b10d1-38ae-447d-bba8-6e5aea951592">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Rust_l0dables_on_the_card10_badge</url>
+        <logo/>
+        <date>2019-08-22T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>0:45</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1418-session_rust_l0dables_on_the_card10_badge</slug>
+        <title>Rust l0dables on the card10 badge</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Write applications for the card10 in the Rust programming language</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Astro">Astro</person>
+        </persons>
+        <links>
+          <link>https://git.card10.badge.events.ccc.de/astro/rust-card10</link>
         </links>
       </event>
       <event id="1248" guid="de5f9fba-3854-4a9d-b3f0-69e409f01b79">
