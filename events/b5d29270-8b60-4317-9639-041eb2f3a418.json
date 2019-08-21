@@ -1,0 +1,28 @@
+{
+  "id": 1373,
+  "guid": "b5d29270-8b60-4317-9639-041eb2f3a418",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Whiskey_tasting",
+  "logo": null,
+  "date": "2019-08-21T22:00:00+02:00",
+  "start": "22:00",
+  "duration": "1:30",
+  "room": "Village:Foodhackingbase",
+  "slug": "camp2019-1373-session_whiskey_tasting",
+  "title": "Whiskey tasting",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "Tasting different whiskeys",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Algoldor",
+      "public_name": "Algoldor"
+    }
+  ],
+  "links": [
+    "https://foodhackingbase.org/wiki/Whiskytasting_ccccamp2019"
+  ]
+}

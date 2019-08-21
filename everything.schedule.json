@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Fomalhaut ; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 16:30",
+    "version": "Fomalhaut ; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 16:50",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -1690,6 +1690,34 @@
                 ],
                 "links": [
                   "https://foodhackingbase.org/wiki/Tempeh_making_ccccamp2019"
+                ]
+              },
+              {
+                "id": 1373,
+                "guid": "b5d29270-8b60-4317-9639-041eb2f3a418",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Whiskey_tasting",
+                "logo": null,
+                "date": "2019-08-21T22:00:00+02:00",
+                "start": "22:00",
+                "duration": "1:30",
+                "room": "Village:Foodhackingbase",
+                "slug": "camp2019-1373-session_whiskey_tasting",
+                "title": "Whiskey tasting",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Tasting different whiskeys",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Algoldor",
+                    "public_name": "Algoldor"
+                  }
+                ],
+                "links": [
+                  "https://foodhackingbase.org/wiki/Whiskytasting_ccccamp2019"
                 ]
               }
             ],
@@ -5307,6 +5335,34 @@
                 "links": [
                   "https://foodhackingbase.org/wiki/Cidre_flows_ccccamp2019"
                 ]
+              },
+              {
+                "id": 1372,
+                "guid": "b0e60a06-11a7-4d26-9fbe-3c980f74c6a4",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Home_made_syrups",
+                "logo": null,
+                "date": "2019-08-22T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "2:00",
+                "room": "Village:Foodhackingbase",
+                "slug": "camp2019-1372-session_home_made_syrups",
+                "title": "Home made syrups",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "en",
+                "abstract": "",
+                "description": "You will be learning about syrups and make some yourself.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Algoldor",
+                    "public_name": "Algoldor"
+                  }
+                ],
+                "links": [
+                  "https://foodhackingbase.org/wiki/Fhb_ccc2019"
+                ]
               }
             ],
             "Village:LaTeX": [
@@ -7692,6 +7748,26 @@
                 "language": "de",
                 "abstract": "",
                 "description": "",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1371,
+                "guid": "ee1a2594-4589-489f-a5e1-ce3bc0760549",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Customizing_Bluetooth_and_Wi-Fi_Firmware",
+                "logo": null,
+                "date": "2019-08-23T19:30:00+02:00",
+                "start": "19:30",
+                "duration": "0:30",
+                "room": "Village:Chaoswelle",
+                "slug": "camp2019-1371-session_customizing_bluetooth_and_wi_fi_firmware",
+                "title": "Customizing Bluetooth and Wi-Fi Firmware",
+                "subtitle": "Binary patching for Broadcom Wi-Fi/Bluetooth combo chips",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Introduction talk to binary patching with Nexmon for Wi-Fi and Bluetooth. Followed by a practical part with a focus on patching Bluetooth on off-the-shelf smartphones and laptops with a Broadcom Bluetooth chip.",
                 "persons": [],
                 "links": []
               }

@@ -1,0 +1,20 @@
+{
+  "id": 1371,
+  "guid": "ee1a2594-4589-489f-a5e1-ce3bc0760549",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Customizing_Bluetooth_and_Wi-Fi_Firmware",
+  "logo": null,
+  "date": "2019-08-23T19:30:00+02:00",
+  "start": "19:30",
+  "duration": "0:30",
+  "room": "Village:Chaoswelle",
+  "slug": "camp2019-1371-session_customizing_bluetooth_and_wi_fi_firmware",
+  "title": "Customizing Bluetooth and Wi-Fi Firmware",
+  "subtitle": "Binary patching for Broadcom Wi-Fi/Bluetooth combo chips",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "Introduction talk to binary patching with Nexmon for Wi-Fi and Bluetooth. Followed by a practical part with a focus on patching Bluetooth on off-the-shelf smartphones and laptops with a Broadcom Bluetooth chip.",
+  "persons": [],
+  "links": []
+}

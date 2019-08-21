@@ -1,0 +1,28 @@
+{
+  "id": 1372,
+  "guid": "b0e60a06-11a7-4d26-9fbe-3c980f74c6a4",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Home_made_syrups",
+  "logo": null,
+  "date": "2019-08-22T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "2:00",
+  "room": "Village:Foodhackingbase",
+  "slug": "camp2019-1372-session_home_made_syrups",
+  "title": "Home made syrups",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "en",
+  "abstract": "",
+  "description": "You will be learning about syrups and make some yourself.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Algoldor",
+      "public_name": "Algoldor"
+    }
+  ],
+  "links": [
+    "https://foodhackingbase.org/wiki/Fhb_ccc2019"
+  ]
+}

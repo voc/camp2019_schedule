@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-21 16:30</version>
+  <version>2019-08-21 16:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -470,6 +470,28 @@
         </persons>
         <links>
           <link>https://foodhackingbase.org/wiki/Tempeh_making_ccccamp2019</link>
+        </links>
+      </event>
+      <event id="1373" guid="b5d29270-8b60-4317-9639-041eb2f3a418">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Whiskey_tasting</url>
+        <logo/>
+        <date>2019-08-21T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>1:30</duration>
+        <room>Village:Foodhackingbase</room>
+        <slug>camp2019-1373-session_whiskey_tasting</slug>
+        <title>Whiskey tasting</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Tasting different whiskeys</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Algoldor">Algoldor</person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Whiskytasting_ccccamp2019</link>
         </links>
       </event>
     </room>
@@ -1848,6 +1870,28 @@
           <link>https://foodhackingbase.org/wiki/Cidre_flows_ccccamp2019</link>
         </links>
       </event>
+      <event id="1372" guid="b0e60a06-11a7-4d26-9fbe-3c980f74c6a4">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Home_made_syrups</url>
+        <logo/>
+        <date>2019-08-22T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Village:Foodhackingbase</room>
+        <slug>camp2019-1372-session_home_made_syrups</slug>
+        <title>Home made syrups</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>You will be learning about syrups and make some yourself.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Algoldor">Algoldor</person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Fhb_ccc2019</link>
+        </links>
+      </event>
     </room>
     <room name="Village:LaTeX">
       <event id="1051" guid="12375d1f-b599-40a8-be72-7ca856048c10">
@@ -2779,6 +2823,24 @@
         <language>de</language>
         <abstract/>
         <description/>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1371" guid="ee1a2594-4589-489f-a5e1-ce3bc0760549">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Customizing_Bluetooth_and_Wi-Fi_Firmware</url>
+        <logo/>
+        <date>2019-08-23T19:30:00+02:00</date>
+        <start>19:30</start>
+        <duration>0:30</duration>
+        <room>Village:Chaoswelle</room>
+        <slug>camp2019-1371-session_customizing_bluetooth_and_wi_fi_firmware</slug>
+        <title>Customizing Bluetooth and Wi-Fi Firmware</title>
+        <subtitle>Binary patching for Broadcom Wi-Fi/Bluetooth combo chips</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Introduction talk to binary patching with Nexmon for Wi-Fi and Bluetooth. Followed by a practical part with a focus on patching Bluetooth on off-the-shelf smartphones and laptops with a Broadcom Bluetooth chip.</description>
         <persons/>
         <links/>
       </event>
