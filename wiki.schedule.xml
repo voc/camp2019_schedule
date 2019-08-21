@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-21 23:40</version>
+  <version>2019-08-22 00:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -2212,6 +2212,30 @@
           <link>http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence</link>
         </links>
       </event>
+      <event id="1424" guid="6c478d36-40e3-4625-82d4-ce27dbcfed4b">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters</url>
+        <logo/>
+        <date>2019-08-22T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>0:30</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1424-session_meet_librehosters</slug>
+        <title>Meet librehosters</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>A daily timeslot to meet existing librehosters members and an open invitation to join  the discussion of the directions of the network.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Agnez">Agnez</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Realitygaps">Realitygaps</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gust">Gust</person>
+        </persons>
+        <links>
+          <link>https://libreho.st/</link>
+        </links>
+      </event>
       <event id="1331" guid="500f0955-5369-5612-bcb0-19da2505a670">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>
         <logo/>
@@ -3546,6 +3570,30 @@
         <persons/>
         <links>
           <link>http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence</link>
+        </links>
+      </event>
+      <event id="1423" guid="f2c6d956-6000-5efe-a11f-bd9650dbe06f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters</url>
+        <logo/>
+        <date>2019-08-23T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>0:30</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1423-session_meet_librehosters</slug>
+        <title>Meet librehosters</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>A daily timeslot to meet existing librehosters members and an open invitation to join  the discussion of the directions of the network.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Agnez">Agnez</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Realitygaps">Realitygaps</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gust">Gust</person>
+        </persons>
+        <links>
+          <link>https://libreho.st/</link>
         </links>
       </event>
       <event id="1374" guid="8f1f9a69-e055-49fd-a557-d013c7b325ed">
@@ -5124,6 +5172,30 @@
         <persons/>
         <links>
           <link>http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence</link>
+        </links>
+      </event>
+      <event id="1422" guid="59eba6c8-b345-4555-abba-adc984b5dfba">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters</url>
+        <logo/>
+        <date>2019-08-24T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>0:30</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1422-session_meet_librehosters</slug>
+        <title>Meet librehosters</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>A daily timeslot to meet existing librehosters members and an open invitation to join  the discussion of the directions of the network.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Agnez">Agnez</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Realitygaps">Realitygaps</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gust">Gust</person>
+        </persons>
+        <links>
+          <link>https://libreho.st/</link>
         </links>
       </event>
       <event id="1377" guid="c89e556c-382d-4a2d-8935-296d5f545cc6">

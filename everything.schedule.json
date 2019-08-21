@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Manw\u00eb; wiki 2019-08-21 23:40",
+    "version": "Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Manw\u00eb; wiki 2019-08-22 00:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -6065,6 +6065,44 @@
                 ]
               },
               {
+                "id": 1424,
+                "guid": "6c478d36-40e3-4625-82d4-ce27dbcfed4b",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters",
+                "logo": null,
+                "date": "2019-08-22T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "0:30",
+                "room": "Village:1komona",
+                "slug": "camp2019-1424-session_meet_librehosters",
+                "title": "Meet librehosters",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "A daily timeslot to meet existing librehosters members and an open invitation to join  the discussion of the directions of the network.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Agnez",
+                    "public_name": "Agnez"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Realitygaps",
+                    "public_name": "Realitygaps"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gust",
+                    "public_name": "Gust"
+                  }
+                ],
+                "links": [
+                  "https://libreho.st/"
+                ]
+              },
+              {
                 "id": 1331,
                 "guid": "500f0955-5369-5612-bcb0-19da2505a670",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery",
@@ -9005,6 +9043,44 @@
                 "persons": [],
                 "links": [
                   "http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence"
+                ]
+              },
+              {
+                "id": 1423,
+                "guid": "f2c6d956-6000-5efe-a11f-bd9650dbe06f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters",
+                "logo": null,
+                "date": "2019-08-23T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "0:30",
+                "room": "Village:1komona",
+                "slug": "camp2019-1423-session_meet_librehosters",
+                "title": "Meet librehosters",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "A daily timeslot to meet existing librehosters members and an open invitation to join  the discussion of the directions of the network.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Agnez",
+                    "public_name": "Agnez"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Realitygaps",
+                    "public_name": "Realitygaps"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gust",
+                    "public_name": "Gust"
+                  }
+                ],
+                "links": [
+                  "https://libreho.st/"
                 ]
               },
               {
@@ -12036,6 +12112,44 @@
                 "persons": [],
                 "links": [
                   "http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence"
+                ]
+              },
+              {
+                "id": 1422,
+                "guid": "59eba6c8-b345-4555-abba-adc984b5dfba",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters",
+                "logo": null,
+                "date": "2019-08-24T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "0:30",
+                "room": "Village:1komona",
+                "slug": "camp2019-1422-session_meet_librehosters",
+                "title": "Meet librehosters",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "A daily timeslot to meet existing librehosters members and an open invitation to join  the discussion of the directions of the network.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Agnez",
+                    "public_name": "Agnez"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Realitygaps",
+                    "public_name": "Realitygaps"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gust",
+                    "public_name": "Gust"
+                  }
+                ],
+                "links": [
+                  "https://libreho.st/"
                 ]
               },
               {
