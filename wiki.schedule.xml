@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-21 19:00</version>
+  <version>2019-08-21 19:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -259,6 +259,26 @@
         <links>
           <link>https://discordleaks.unicornriot.ninja/discord/</link>
         </links>
+      </event>
+      <event id="1385" guid="c9785fdb-311e-4c8f-a02b-0e9d28aec7bb">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Camp_Pride_Orga_Meeting,_1st_(open_for_all)</url>
+        <logo/>
+        <date>2019-08-21T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>1:15</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1385-session_camp_pride_orga_meeting_1st_open_for_all_</slug>
+        <title>Camp Pride Orga Meeting, 1st (open for all)</title>
+        <subtitle>Bring your ideas for the Pride</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Planning the Camp Pride. Come along and make this Pride nice.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Jou">Jou</person>
+        </persons>
+        <links/>
       </event>
       <event id="1329" guid="4dcce96a-fcd9-4ffa-b99b-3bc454b08791">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>

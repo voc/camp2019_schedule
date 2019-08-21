@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 19:00",
+    "version": "Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 19:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -1435,6 +1435,32 @@
                 "links": [
                   "https://discordleaks.unicornriot.ninja/discord/"
                 ]
+              },
+              {
+                "id": 1385,
+                "guid": "c9785fdb-311e-4c8f-a02b-0e9d28aec7bb",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Camp_Pride_Orga_Meeting,_1st_(open_for_all)",
+                "logo": null,
+                "date": "2019-08-21T19:00:00+02:00",
+                "start": "19:00",
+                "duration": "1:15",
+                "room": "Village:1komona",
+                "slug": "camp2019-1385-session_camp_pride_orga_meeting_1st_open_for_all_",
+                "title": "Camp Pride Orga Meeting, 1st (open for all)",
+                "subtitle": "Bring your ideas for the Pride",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Planning the Camp Pride. Come along and make this Pride nice.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Jou",
+                    "public_name": "Jou"
+                  }
+                ],
+                "links": []
               },
               {
                 "id": 1329,
