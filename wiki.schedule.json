@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-21 02:00",
+    "version": "2019-08-21 09:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -364,7 +364,7 @@
                 "room": "Village:Chaos-West",
                 "slug": "camp2019-1313-session_board_meeting",
                 "title": "Board Meeting",
-                "subtitle": "",
+                "subtitle": "Meetup for e-longboards and related e-vehicles",
                 "track": "self organized sessions",
                 "type": "meeting",
                 "language": "",
