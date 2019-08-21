@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Elnath; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 14:10",
+    "version": "Elnath; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 14:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -2074,7 +2074,7 @@
                 "type": "hands-on",
                 "language": "en",
                 "abstract": "",
-                "description": "Come get an FPGA dev board in your USB port and start hacking!",
+                "description": "Come get an FPGA dev board in your USB port and start hacking!<br> Get toolchain setup and you can get <b>free</b> hardware!<br><br> ''(This is one of many cool things happening throughout CCCamp 2019 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given multiple times (all identical):<br> &nbsp;&nbsp;&nbsp;Day 1: 21-Aug, 10:00pm - 11:30pm<br> &nbsp;&nbsp;&nbsp;Day 2: 22-Aug, 2:30pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 4: 24-Aug, 3:30pm - 5:00pm<br></span>",
                 "persons": [],
                 "links": [
                   "http://fomu.im"
@@ -4670,7 +4670,7 @@
                 "type": "hands-on",
                 "language": "en",
                 "abstract": "",
-                "description": "Come get an FPGA dev board in your USB port and start hacking!",
+                "description": "Come get an FPGA dev board in your USB port and start hacking!<br> Get toolchain setup and you can get <b>free</b> hardware!<br><br> ''(This is one of many cool things happening throughout CCCamp 2019 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given multiple times (all identical):<br> &nbsp;&nbsp;&nbsp;Day 1: 21-Aug, 10:00pm - 11:30pm<br> &nbsp;&nbsp;&nbsp;Day 2: 22-Aug, 2:30pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 4: 24-Aug, 3:30pm - 5:00pm<br></span>",
                 "persons": [],
                 "links": [
                   "http://fomu.im"
@@ -7558,6 +7558,28 @@
                 "language": "de",
                 "abstract": "",
                 "description": "",
+                "persons": [],
+                "links": []
+              }
+            ],
+            "Village:ChaosZone": [
+              {
+                "id": 1368,
+                "guid": "ed8d4c06-6cdd-4308-8eba-d5a4f0586fe9",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:An_introduction_to_the_post-apocalyptic_skill_of_spinning_yarn",
+                "logo": null,
+                "date": "2019-08-23T11:30:00+02:00",
+                "start": "11:30",
+                "duration": "2:00",
+                "room": "Village:ChaosZone",
+                "slug": "camp2019-1368-session_an_introduction_to_the_post_apocalyptic_skill_of_spinning_yarn",
+                "title": "An introduction to the post-apocalyptic skill of spinning yarn",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "en",
+                "abstract": "",
+                "description": "We will show you and explain how to make your own yarn from wool and other fibres.",
                 "persons": [],
                 "links": []
               }
