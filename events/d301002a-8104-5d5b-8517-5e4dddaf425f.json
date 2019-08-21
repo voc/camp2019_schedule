@@ -1,0 +1,31 @@
+{
+  "id": 3147,
+  "guid": "d301002a-8104-5d5b-8517-5e4dddaf425f",
+  "logo": null,
+  "date": "2019-08-22T13:50:00+02:00",
+  "start": "13:50",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "CUZEVZ",
+  "url": "https://c3lt.de/camp2019/talk/CUZEVZ",
+  "title": "AI-powered Robots in Real Life",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "What's the state-of-the-art in AI and Robotics, and how they get to be applied in real-life.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 138,
+      "name": "Hao",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

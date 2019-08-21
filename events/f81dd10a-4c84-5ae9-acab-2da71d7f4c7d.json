@@ -1,0 +1,31 @@
+{
+  "id": 3146,
+  "guid": "f81dd10a-4c84-5ae9-acab-2da71d7f4c7d",
+  "logo": null,
+  "date": "2019-08-22T12:55:00+02:00",
+  "start": "12:55",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "C78S8H",
+  "url": "https://c3lt.de/camp2019/talk/C78S8H",
+  "title": "Let's talk about suffering",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "What are educated ways to make the world better? Effective Altruism wants to find the answers.",
+  "description": "A glimpse into cause areas and the approach of the Effective Altruism movement.\r\n\r\nwww.effectivealtruism.org\r\n80000hours.org\r\nLocal groups: https://eahub.org/groups/",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 142,
+      "name": "Dorota",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": 3148,
+  "guid": "78c86d7d-d7c2-516f-b94f-19fb377b0113",
+  "logo": null,
+  "date": "2019-08-22T14:40:00+02:00",
+  "start": "14:40",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "YLNDT9",
+  "url": "https://c3lt.de/camp2019/talk/YLNDT9",
+  "title": "Open Laser Tag",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "de",
+  "abstract": "Wir m\u00f6chten ein Open Hardware/Source Lasertagsystem bauen. In diesem Talk gebe ich einen kurzen \u00dcberblick \u00fcber unseren Ansatz und Entwicklungsstand.",
+  "description": "Lasertag ist ein Spiel in dem man sich mit kleinen Ger\u00e4ten in der Hand gegenseitig mit Licht abschie\u00dfen kann. Unser Prototyp besteht aus einem Geh\u00e4use aus PVC Ablfussrohre, einem ESP-32 Mikrocontroller, einer power bank, einem Infrarotempf\u00e4nger und einem Infrarotsendemodul. Au\u00dferdem geh\u00f6rt zu dem System eine native Android App und ein nodejs Server. Es ist bereits m\u00f6glich zu treffen und getroffen zu werden. Mach gerne mit! https://github.com/open-laser-tag/",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 141,
+      "name": "gldhnchn",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

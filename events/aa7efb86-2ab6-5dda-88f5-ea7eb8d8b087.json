@@ -1,0 +1,31 @@
+{
+  "id": 3144,
+  "guid": "aa7efb86-2ab6-5dda-88f5-ea7eb8d8b087",
+  "logo": null,
+  "date": "2019-08-22T14:45:00+02:00",
+  "start": "14:45",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "HLAAER",
+  "url": "https://c3lt.de/camp2019/talk/HLAAER",
+  "title": "Janitor - From working on Firefox to bootstrapping development environments",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "A platform to bootstrap development environments to work on big open-source projects such as Firefox, Chromium... and the list is growing !",
+  "description": "Years ago with a friend, we realized working on well-known open-source projects such as Firefox is harder than it seems : you need to clone repositories (which can take a lot of time on a slow connection), set up dependencies and toolchains, compile for the first time, install optional tools to help you on your workflow...\r\nWe made https://janitor.technology to help newcomers and developers experiment, hack, work, submit patches to these projects and not worry about this stuff !",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 139,
+      "name": "Etienne Wan",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

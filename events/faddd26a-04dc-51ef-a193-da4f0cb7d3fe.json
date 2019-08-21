@@ -1,0 +1,31 @@
+{
+  "id": 3149,
+  "guid": "faddd26a-04dc-51ef-a193-da4f0cb7d3fe",
+  "logo": null,
+  "date": "2019-08-22T13:55:00+02:00",
+  "start": "13:55",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "F8K9Z8",
+  "url": "https://c3lt.de/camp2019/talk/F8K9Z8",
+  "title": "10 Jahre dudle an der TU Dresden - ein R\u00e9sum\u00e9",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "de",
+  "abstract": "Kurze Geschichten \u00fcber den 10-j\u00e4hrigen Betrieb der Web-Event-Scheduling Software an der TU Dresden",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 143,
+      "name": "Ben",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

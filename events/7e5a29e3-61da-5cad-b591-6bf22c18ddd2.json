@@ -1,0 +1,31 @@
+{
+  "id": 3140,
+  "guid": "7e5a29e3-61da-5cad-b591-6bf22c18ddd2",
+  "logo": null,
+  "date": "2019-08-22T14:35:00+02:00",
+  "start": "14:35",
+  "duration": "00:05",
+  "room": "Meitner",
+  "slug": "ECPXBJ",
+  "url": "https://c3lt.de/camp2019/talk/ECPXBJ",
+  "title": "Make RustFest.eu more environmentally friendly",
+  "subtitle": "",
+  "track": null,
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "Climate change is happening. How can we as organizers lessen the impact we have with our events? Here are some ideas ...",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 134,
+      "name": "Stefan Schindler (@dns2utf8)",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

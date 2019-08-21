@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith",
+    "version": "Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Manw\u00eb",
     "base_url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/",
     "conference": {
       "acronym": "Camp2019",
@@ -2073,6 +2073,37 @@
                 "answers": []
               },
               {
+                "id": 3146,
+                "guid": "f81dd10a-4c84-5ae9-acab-2da71d7f4c7d",
+                "logo": null,
+                "date": "2019-08-22T12:55:00+02:00",
+                "start": "12:55",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "C78S8H",
+                "url": "https://c3lt.de/camp2019/talk/C78S8H",
+                "title": "Let's talk about suffering",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "What are educated ways to make the world better? Effective Altruism wants to find the answers.",
+                "description": "A glimpse into cause areas and the approach of the Effective Altruism movement.\r\n\r\nwww.effectivealtruism.org\r\n80000hours.org\r\nLocal groups: https://eahub.org/groups/",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 142,
+                    "name": "Dorota",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 3116,
                 "guid": "4b6b6432-1eef-5ae4-9f6e-247038a0f061",
                 "logo": null,
@@ -2383,6 +2414,68 @@
                 "answers": []
               },
               {
+                "id": 3147,
+                "guid": "d301002a-8104-5d5b-8517-5e4dddaf425f",
+                "logo": null,
+                "date": "2019-08-22T13:50:00+02:00",
+                "start": "13:50",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "CUZEVZ",
+                "url": "https://c3lt.de/camp2019/talk/CUZEVZ",
+                "title": "AI-powered Robots in Real Life",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "What's the state-of-the-art in AI and Robotics, and how they get to be applied in real-life.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 138,
+                    "name": "Hao",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3149,
+                "guid": "faddd26a-04dc-51ef-a193-da4f0cb7d3fe",
+                "logo": null,
+                "date": "2019-08-22T13:55:00+02:00",
+                "start": "13:55",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "F8K9Z8",
+                "url": "https://c3lt.de/camp2019/talk/F8K9Z8",
+                "title": "10 Jahre dudle an der TU Dresden - ein R\u00e9sum\u00e9",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "de",
+                "abstract": "Kurze Geschichten \u00fcber den 10-j\u00e4hrigen Betrieb der Web-Event-Scheduling Software an der TU Dresden",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 143,
+                    "name": "Ben",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 3130,
                 "guid": "94f96bd3-e6a4-549c-8944-5039069fad57",
                 "logo": null,
@@ -2597,6 +2690,99 @@
                   {
                     "id": 113,
                     "name": "Mastro Gippo",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3140,
+                "guid": "7e5a29e3-61da-5cad-b591-6bf22c18ddd2",
+                "logo": null,
+                "date": "2019-08-22T14:35:00+02:00",
+                "start": "14:35",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "ECPXBJ",
+                "url": "https://c3lt.de/camp2019/talk/ECPXBJ",
+                "title": "Make RustFest.eu more environmentally friendly",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Climate change is happening. How can we as organizers lessen the impact we have with our events? Here are some ideas ...",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 134,
+                    "name": "Stefan Schindler (@dns2utf8)",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3148,
+                "guid": "78c86d7d-d7c2-516f-b94f-19fb377b0113",
+                "logo": null,
+                "date": "2019-08-22T14:40:00+02:00",
+                "start": "14:40",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "YLNDT9",
+                "url": "https://c3lt.de/camp2019/talk/YLNDT9",
+                "title": "Open Laser Tag",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "de",
+                "abstract": "Wir m\u00f6chten ein Open Hardware/Source Lasertagsystem bauen. In diesem Talk gebe ich einen kurzen \u00dcberblick \u00fcber unseren Ansatz und Entwicklungsstand.",
+                "description": "Lasertag ist ein Spiel in dem man sich mit kleinen Ger\u00e4ten in der Hand gegenseitig mit Licht abschie\u00dfen kann. Unser Prototyp besteht aus einem Geh\u00e4use aus PVC Ablfussrohre, einem ESP-32 Mikrocontroller, einer power bank, einem Infrarotempf\u00e4nger und einem Infrarotsendemodul. Au\u00dferdem geh\u00f6rt zu dem System eine native Android App und ein nodejs Server. Es ist bereits m\u00f6glich zu treffen und getroffen zu werden. Mach gerne mit! https://github.com/open-laser-tag/",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "name": "gldhnchn",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3144,
+                "guid": "aa7efb86-2ab6-5dda-88f5-ea7eb8d8b087",
+                "logo": null,
+                "date": "2019-08-22T14:45:00+02:00",
+                "start": "14:45",
+                "duration": "00:05",
+                "room": "Meitner",
+                "slug": "HLAAER",
+                "url": "https://c3lt.de/camp2019/talk/HLAAER",
+                "title": "Janitor - From working on Firefox to bootstrapping development environments",
+                "subtitle": "",
+                "track": null,
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "A platform to bootstrap development environments to work on big open-source projects such as Firefox, Chromium... and the list is growing !",
+                "description": "Years ago with a friend, we realized working on well-known open-source projects such as Firefox is harder than it seems : you need to clone repositories (which can take a lot of time on a slow connection), set up dependencies and toolchains, compile for the first time, install optional tools to help you on your workflow...\r\nWe made https://janitor.technology to help newcomers and developers experiment, hack, work, submit patches to these projects and not worry about this stuff !",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 139,
+                    "name": "Etienne Wan",
                     "biography": null,
                     "answers": []
                   }

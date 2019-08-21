@@ -1,5 +1,5 @@
 <schedule>
-  <version>Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith</version>
+  <version>Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Manwë</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -1948,6 +1948,39 @@ TELL THE TRUTH</description>
         <attachments/>
         <answers/>
       </event>
+      <event id="3146" guid="f81dd10a-4c84-5ae9-acab-2da71d7f4c7d">
+        <logo/>
+        <date>2019-08-22T12:55:00+02:00</date>
+        <start>12:55</start>
+        <duration>00:05</duration>
+        <room>Meitner</room>
+        <slug>C78S8H</slug>
+        <url>https://c3lt.de/camp2019/talk/C78S8H</url>
+        <title>Let's talk about suffering</title>
+        <subtitle/>
+        <track/>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>What are educated ways to make the world better? Effective Altruism wants to find the answers.</abstract>
+        <description>A glimpse into cause areas and the approach of the Effective Altruism movement.&#13;
+&#13;
+www.effectivealtruism.org&#13;
+80000hours.org&#13;
+Local groups: https://eahub.org/groups/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="142">
+            <name>Dorota</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="3116" guid="4b6b6432-1eef-5ae4-9f6e-247038a0f061">
         <logo/>
         <date>2019-08-22T13:00:00+02:00</date>
@@ -2250,6 +2283,64 @@ One set of drawings was collected in a local European school in Belgium, and ano
         <attachments/>
         <answers/>
       </event>
+      <event id="3147" guid="d301002a-8104-5d5b-8517-5e4dddaf425f">
+        <logo/>
+        <date>2019-08-22T13:50:00+02:00</date>
+        <start>13:50</start>
+        <duration>00:05</duration>
+        <room>Meitner</room>
+        <slug>CUZEVZ</slug>
+        <url>https://c3lt.de/camp2019/talk/CUZEVZ</url>
+        <title>AI-powered Robots in Real Life</title>
+        <subtitle/>
+        <track/>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>What's the state-of-the-art in AI and Robotics, and how they get to be applied in real-life.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="138">
+            <name>Hao</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3149" guid="faddd26a-04dc-51ef-a193-da4f0cb7d3fe">
+        <logo/>
+        <date>2019-08-22T13:55:00+02:00</date>
+        <start>13:55</start>
+        <duration>00:05</duration>
+        <room>Meitner</room>
+        <slug>F8K9Z8</slug>
+        <url>https://c3lt.de/camp2019/talk/F8K9Z8</url>
+        <title>10 Jahre dudle an der TU Dresden - ein Résumé</title>
+        <subtitle/>
+        <track/>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>Kurze Geschichten über den 10-jährigen Betrieb der Web-Event-Scheduling Software an der TU Dresden</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="143">
+            <name>Ben</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="3130" guid="94f96bd3-e6a4-549c-8944-5039069fad57">
         <logo/>
         <date>2019-08-22T14:00:00+02:00</date>
@@ -2454,6 +2545,94 @@ Ziel 2: Workflows entwickeln, die Organisationen das Management von vielen Proje
         <persons>
           <person id="113">
             <name>Mastro Gippo</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3140" guid="7e5a29e3-61da-5cad-b591-6bf22c18ddd2">
+        <logo/>
+        <date>2019-08-22T14:35:00+02:00</date>
+        <start>14:35</start>
+        <duration>00:05</duration>
+        <room>Meitner</room>
+        <slug>ECPXBJ</slug>
+        <url>https://c3lt.de/camp2019/talk/ECPXBJ</url>
+        <title>Make RustFest.eu more environmentally friendly</title>
+        <subtitle/>
+        <track/>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>Climate change is happening. How can we as organizers lessen the impact we have with our events? Here are some ideas ...</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="134">
+            <name>Stefan Schindler (@dns2utf8)</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3148" guid="78c86d7d-d7c2-516f-b94f-19fb377b0113">
+        <logo/>
+        <date>2019-08-22T14:40:00+02:00</date>
+        <start>14:40</start>
+        <duration>00:05</duration>
+        <room>Meitner</room>
+        <slug>YLNDT9</slug>
+        <url>https://c3lt.de/camp2019/talk/YLNDT9</url>
+        <title>Open Laser Tag</title>
+        <subtitle/>
+        <track/>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>Wir möchten ein Open Hardware/Source Lasertagsystem bauen. In diesem Talk gebe ich einen kurzen Überblick über unseren Ansatz und Entwicklungsstand.</abstract>
+        <description>Lasertag ist ein Spiel in dem man sich mit kleinen Geräten in der Hand gegenseitig mit Licht abschießen kann. Unser Prototyp besteht aus einem Gehäuse aus PVC Ablfussrohre, einem ESP-32 Mikrocontroller, einer power bank, einem Infrarotempfänger und einem Infrarotsendemodul. Außerdem gehört zu dem System eine native Android App und ein nodejs Server. Es ist bereits möglich zu treffen und getroffen zu werden. Mach gerne mit! https://github.com/open-laser-tag/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="141">
+            <name>gldhnchn</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3144" guid="aa7efb86-2ab6-5dda-88f5-ea7eb8d8b087">
+        <logo/>
+        <date>2019-08-22T14:45:00+02:00</date>
+        <start>14:45</start>
+        <duration>00:05</duration>
+        <room>Meitner</room>
+        <slug>HLAAER</slug>
+        <url>https://c3lt.de/camp2019/talk/HLAAER</url>
+        <title>Janitor - From working on Firefox to bootstrapping development environments</title>
+        <subtitle/>
+        <track/>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>A platform to bootstrap development environments to work on big open-source projects such as Firefox, Chromium... and the list is growing !</abstract>
+        <description>Years ago with a friend, we realized working on well-known open-source projects such as Firefox is harder than it seems : you need to clone repositories (which can take a lot of time on a slow connection), set up dependencies and toolchains, compile for the first time, install optional tools to help you on your workflow...&#13;
+We made https://janitor.technology to help newcomers and developers experiment, hack, work, submit patches to these projects and not worry about this stuff !</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="139">
+            <name>Etienne Wan</name>
             <biography/>
           </person>
         </persons>
