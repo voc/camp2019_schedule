@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Elnath; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 12:10",
+    "version": "Elnath; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 12:50",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -4467,6 +4467,28 @@
                   }
                 ],
                 "attachments": []
+              }
+            ],
+            "Village:Social Dist0rtion Protocol": [
+              {
+                "id": 1360,
+                "guid": "0363f99a-6c55-48d3-a77e-9cb0beb9f27a",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:2050:_A_Co2_Odissey",
+                "logo": null,
+                "date": "2019-08-22T17:30:00+02:00",
+                "start": "17:30",
+                "duration": "0:45",
+                "room": "Village:Social Dist0rtion Protocol",
+                "slug": "camp2019-1360-session_2050_a_co2_odissey",
+                "title": "2050: A Co2 Odissey",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "Our little journey to understand how to save the human species. We will offer some green smokables to the attendants.",
+                "persons": [],
+                "links": []
               }
             ],
             "Village:Chaoswelle": [
