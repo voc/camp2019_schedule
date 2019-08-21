@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Elnath; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 13:10",
+    "version": "Elnath; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 13:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -1559,41 +1559,207 @@
                 "links": []
               }
             ],
-            "Village:About:freedom": [
+            "Village:Chaos-West": [
               {
-                "id": 1357,
-                "guid": "a17a2adb-49c5-4c5b-92c4-28402b1a1c25",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bits%26B%C3%A4ume_w%C3%A4chst:_Forderungen_und_eine_neue_Bewegung",
+                "id": 1313,
+                "guid": "7f6c411b-c418-42d5-bc0a-c1514aa2e687",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Board_Meeting",
                 "logo": null,
-                "date": "2019-08-21T15:30:00+02:00",
-                "start": "15:30",
-                "duration": "0:45",
-                "room": "Village:About:freedom",
-                "slug": "camp2019-1357-session_bits_baeume_waechst_forderungen_und_eine_neue_bewegung",
-                "title": "Bits&B\u00e4ume w\u00e4chst: Forderungen und eine neue Bewegung",
-                "subtitle": "about:stage",
+                "date": "2019-08-21T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "2:00",
+                "room": "Village:Chaos-West",
+                "slug": "camp2019-1313-session_board_meeting",
+                "title": "Board Meeting",
+                "subtitle": "Meetup for e-longboards and related e-vehicles",
                 "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
+                "type": "meeting",
+                "language": "",
                 "abstract": "",
-                "description": "Wir stellen die Bits&B\u00e4ume-Konferenz, die -Bewegung und die B&B-Forderungen vor",
+                "description": "Meetup for e-longboards and related e-vehicles",
                 "persons": [
                   {
                     "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Rainer",
-                    "public_name": "Rainer"
-                  },
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Rnbwdsh",
+                    "public_name": "Rnbwdsh"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Village:Metalab Dome": [
+              {
+                "id": 1336,
+                "guid": "cbd7ad63-7700-4c8c-a552-7a1ee8d012d7",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Building_dome_tarps_with_PVC_fabric",
+                "logo": null,
+                "date": "2019-08-21T11:00:00+02:00",
+                "start": "11:00",
+                "duration": "3:00",
+                "room": "Village:Metalab Dome",
+                "slug": "camp2019-1336-session_building_dome_tarps_with_pvc_fabric",
+                "title": "Building dome tarps with PVC fabric",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Building tarps for the Metalab Dome",
+                "persons": [
                   {
                     "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Julika",
-                    "public_name": "Julika"
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ripper",
+                    "public_name": "Ripper"
                   }
                 ],
                 "links": [
-                  "https://bits-und-baeume.org/forderungen/",
-                  "https://bits-und-baeume.org/waechst/"
+                  "https://metalab.at/wiki/Dome_2.0"
+                ]
+              }
+            ],
+            "Village:Infuanfu": [
+              {
+                "id": 1337,
+                "guid": "728c0b55-04fb-4937-8e94-c6e1c162e0d7",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Chaos_Microgrid_Working_Group",
+                "logo": null,
+                "date": "2019-08-21T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "2:00",
+                "room": "Village:Infuanfu",
+                "slug": "camp2019-1337-session_chaos_microgrid_working_group",
+                "title": "Chaos Microgrid Working Group",
+                "subtitle": "Second Meetup",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "de",
+                "abstract": "",
+                "description": "We want to meet and discuss the requirements and possibilities of setting up a microgrid solution for future camping events.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Hadez",
+                    "public_name": "Hadez"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Village:Foodhackingbase": [
+              {
+                "id": 1186,
+                "guid": "f5538214-33b5-45fd-9c69-a9acef3e322e",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Cheese_Rendezvous",
+                "logo": null,
+                "date": "2019-08-21T20:00:00+02:00",
+                "start": "20:00",
+                "duration": "2:00",
+                "room": "Village:Foodhackingbase",
+                "slug": "camp2019-1186-session_cheese_rendezvous",
+                "title": "Cheese Rendezvous",
+                "subtitle": "Session I.",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Selection of delicious cheeses and condiments for you!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Algoldor",
+                    "public_name": "Algoldor"
+                  }
+                ],
+                "links": [
+                  "https://foodhackingbase.org/wiki/Cheesetasting_ccccamp2019"
                 ]
               },
+              {
+                "id": 1216,
+                "guid": "ad76e911-3536-4b60-81bc-93fb0f2ddc12",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Introduction_to_Tempeh_Making",
+                "logo": null,
+                "date": "2019-08-21T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "2:00",
+                "room": "Village:Foodhackingbase",
+                "slug": "camp2019-1216-session_introduction_to_tempeh_making",
+                "title": "Introduction to Tempeh Making",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "en",
+                "abstract": "",
+                "description": "You will learn how to make your own tempeh.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Algoldor",
+                    "public_name": "Algoldor"
+                  }
+                ],
+                "links": [
+                  "https://foodhackingbase.org/wiki/Tempeh_making_ccccamp2019"
+                ]
+              }
+            ],
+            "Village:LaTeX": [
+              {
+                "id": 1050,
+                "guid": "78fe0714-c035-4464-baa9-4a766d058311",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:ConTeXt_f%C3%BCr_Anf%C3%A4nger",
+                "logo": null,
+                "date": "2019-08-21T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "1:00",
+                "room": "Village:LaTeX",
+                "slug": "camp2019-1050-session_context_fuer_anfaenger",
+                "title": "ConTeXt f\u00fcr Anf\u00e4nger",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Introduction into ConTeXt",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Hraban",
+                    "public_name": "Hraban"
+                  }
+                ],
+                "links": [
+                  "http://wiki.contextgarden.net"
+                ]
+              },
+              {
+                "id": 1064,
+                "guid": "4100c30a-0e78-403d-a5c8-b0d7387b1ef7",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_in_LaTeX",
+                "logo": null,
+                "date": "2019-08-21T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "1:00",
+                "room": "Village:LaTeX",
+                "slug": "camp2019-1064-session_einfuehrung_in_latex",
+                "title": "Einf\u00fchrung in LaTeX",
+                "subtitle": "(Individual 1h events, not a series - you can come to any of those)",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Short introduction into typesetting with LaTeX for complete beginners",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Nils",
+                    "public_name": "Nils"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Village:About:freedom": [
               {
                 "id": 1053,
                 "guid": "5c1066ad-c624-437b-b1aa-cd94855def55",
@@ -1805,206 +1971,6 @@
                 "links": [
                   "https://www.torproject.org"
                 ]
-              }
-            ],
-            "Village:Chaos-West": [
-              {
-                "id": 1313,
-                "guid": "7f6c411b-c418-42d5-bc0a-c1514aa2e687",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Board_Meeting",
-                "logo": null,
-                "date": "2019-08-21T15:00:00+02:00",
-                "start": "15:00",
-                "duration": "2:00",
-                "room": "Village:Chaos-West",
-                "slug": "camp2019-1313-session_board_meeting",
-                "title": "Board Meeting",
-                "subtitle": "Meetup for e-longboards and related e-vehicles",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "",
-                "abstract": "",
-                "description": "Meetup for e-longboards and related e-vehicles",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Rnbwdsh",
-                    "public_name": "Rnbwdsh"
-                  }
-                ],
-                "links": []
-              }
-            ],
-            "Village:Metalab Dome": [
-              {
-                "id": 1336,
-                "guid": "cbd7ad63-7700-4c8c-a552-7a1ee8d012d7",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Building_dome_tarps_with_PVC_fabric",
-                "logo": null,
-                "date": "2019-08-21T11:00:00+02:00",
-                "start": "11:00",
-                "duration": "3:00",
-                "room": "Village:Metalab Dome",
-                "slug": "camp2019-1336-session_building_dome_tarps_with_pvc_fabric",
-                "title": "Building dome tarps with PVC fabric",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "de",
-                "abstract": "",
-                "description": "Building tarps for the Metalab Dome",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ripper",
-                    "public_name": "Ripper"
-                  }
-                ],
-                "links": [
-                  "https://metalab.at/wiki/Dome_2.0"
-                ]
-              }
-            ],
-            "Village:Infuanfu": [
-              {
-                "id": 1337,
-                "guid": "728c0b55-04fb-4937-8e94-c6e1c162e0d7",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Chaos_Microgrid_Working_Group",
-                "logo": null,
-                "date": "2019-08-21T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "2:00",
-                "room": "Village:Infuanfu",
-                "slug": "camp2019-1337-session_chaos_microgrid_working_group",
-                "title": "Chaos Microgrid Working Group",
-                "subtitle": "Second Meetup",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "de",
-                "abstract": "",
-                "description": "We want to meet and discuss the requirements and possibilities of setting up a microgrid solution for future camping events.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Hadez",
-                    "public_name": "Hadez"
-                  }
-                ],
-                "links": []
-              }
-            ],
-            "Village:Foodhackingbase": [
-              {
-                "id": 1186,
-                "guid": "f5538214-33b5-45fd-9c69-a9acef3e322e",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Cheese_Rendezvous",
-                "logo": null,
-                "date": "2019-08-21T20:00:00+02:00",
-                "start": "20:00",
-                "duration": "2:00",
-                "room": "Village:Foodhackingbase",
-                "slug": "camp2019-1186-session_cheese_rendezvous",
-                "title": "Cheese Rendezvous",
-                "subtitle": "Session I.",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Selection of delicious cheeses and condiments for you!",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Algoldor",
-                    "public_name": "Algoldor"
-                  }
-                ],
-                "links": [
-                  "https://foodhackingbase.org/wiki/Cheesetasting_ccccamp2019"
-                ]
-              },
-              {
-                "id": 1216,
-                "guid": "ad76e911-3536-4b60-81bc-93fb0f2ddc12",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Introduction_to_Tempeh_Making",
-                "logo": null,
-                "date": "2019-08-21T14:00:00+02:00",
-                "start": "14:00",
-                "duration": "2:00",
-                "room": "Village:Foodhackingbase",
-                "slug": "camp2019-1216-session_introduction_to_tempeh_making",
-                "title": "Introduction to Tempeh Making",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "en",
-                "abstract": "",
-                "description": "You will learn how to make your own tempeh.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Algoldor",
-                    "public_name": "Algoldor"
-                  }
-                ],
-                "links": [
-                  "https://foodhackingbase.org/wiki/Tempeh_making_ccccamp2019"
-                ]
-              }
-            ],
-            "Village:LaTeX": [
-              {
-                "id": 1050,
-                "guid": "78fe0714-c035-4464-baa9-4a766d058311",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:ConTeXt_f%C3%BCr_Anf%C3%A4nger",
-                "logo": null,
-                "date": "2019-08-21T14:00:00+02:00",
-                "start": "14:00",
-                "duration": "1:00",
-                "room": "Village:LaTeX",
-                "slug": "camp2019-1050-session_context_fuer_anfaenger",
-                "title": "ConTeXt f\u00fcr Anf\u00e4nger",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Introduction into ConTeXt",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Hraban",
-                    "public_name": "Hraban"
-                  }
-                ],
-                "links": [
-                  "http://wiki.contextgarden.net"
-                ]
-              },
-              {
-                "id": 1064,
-                "guid": "4100c30a-0e78-403d-a5c8-b0d7387b1ef7",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Einf%C3%BChrung_in_LaTeX",
-                "logo": null,
-                "date": "2019-08-21T15:00:00+02:00",
-                "start": "15:00",
-                "duration": "1:00",
-                "room": "Village:LaTeX",
-                "slug": "camp2019-1064-session_einfuehrung_in_latex",
-                "title": "Einf\u00fchrung in LaTeX",
-                "subtitle": "(Individual 1h events, not a series - you can come to any of those)",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Short introduction into typesetting with LaTeX for complete beginners",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Nils",
-                    "public_name": "Nils"
-                  }
-                ],
-                "links": []
               }
             ],
             "Village:Digitalcourage": [
@@ -4821,6 +4787,40 @@
                 "links": []
               },
               {
+                "id": 1357,
+                "guid": "a17a2adb-49c5-4c5b-92c4-28402b1a1c25",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bits%26B%C3%A4ume_w%C3%A4chst:_Forderungen_und_eine_neue_Bewegung",
+                "logo": null,
+                "date": "2019-08-22T18:45:00+02:00",
+                "start": "18:45",
+                "duration": "0:45",
+                "room": "Village:About:freedom",
+                "slug": "camp2019-1357-session_bits_baeume_waechst_forderungen_und_eine_neue_bewegung",
+                "title": "Bits&B\u00e4ume w\u00e4chst: Forderungen und eine neue Bewegung",
+                "subtitle": "about:stage",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Wir stellen die Bits&B\u00e4ume-Konferenz, die -Bewegung und die B&B-Forderungen vor",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Rainer",
+                    "public_name": "Rainer"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Julika",
+                    "public_name": "Julika"
+                  }
+                ],
+                "links": [
+                  "https://bits-und-baeume.org/forderungen/",
+                  "https://bits-und-baeume.org/waechst/"
+                ]
+              },
+              {
                 "id": 1048,
                 "guid": "0b65610d-cad2-45dd-8814-468f99acd259",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:CiTiZEN_KiNO",
@@ -4877,9 +4877,9 @@
                 "guid": "f9cc11df-dd08-40f4-b7ba-1860455d5147",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:How_to_shape_a_responsible_world%3F",
                 "logo": null,
-                "date": "2019-08-22T15:00:00+02:00",
-                "start": "15:00",
-                "duration": "6:00",
+                "date": "2019-08-22T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "2:00",
                 "room": "Village:About:freedom",
                 "slug": "camp2019-1259-session_how_to_shape_a_responsible_world_",
                 "title": "How to shape a responsible world?",
@@ -5337,9 +5337,9 @@
                 "guid": "56989b98-d3d7-44db-a9c5-db4553adeed2",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:EightOS",
                 "logo": null,
-                "date": "2019-08-22T14:30:00+02:00",
-                "start": "14:30",
-                "duration": "2:30",
+                "date": "2019-08-22T20:00:00+02:00",
+                "start": "20:00",
+                "duration": "1:00",
                 "room": "Hackcenter 1",
                 "slug": "camp2019-1062-session_eightos",
                 "title": "EightOS",
@@ -5348,7 +5348,7 @@
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "A physical practice session: bodymind operating system \u2014 human firmware update",
+                "description": "!!! Time change !!! A physical practice session: bodymind operating system \u2014 human firmware update. Hackcenter is the meeting point. We will do the session at a space outside.",
                 "persons": [],
                 "links": [
                   "http://www.8os.io"

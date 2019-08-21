@@ -3,9 +3,9 @@
   "guid": "56989b98-d3d7-44db-a9c5-db4553adeed2",
   "url": "https://events.ccc.de/camp/2019/wiki/Session:EightOS",
   "logo": null,
-  "date": "2019-08-22T14:30:00+02:00",
-  "start": "14:30",
-  "duration": "2:30",
+  "date": "2019-08-22T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "1:00",
   "room": "Hackcenter 1",
   "slug": "camp2019-1062-session_eightos",
   "title": "EightOS",
@@ -14,7 +14,7 @@
   "type": "workshop",
   "language": "en",
   "abstract": "",
-  "description": "A physical practice session: bodymind operating system \u2014 human firmware update",
+  "description": "!!! Time change !!! A physical practice session: bodymind operating system \u2014 human firmware update. Hackcenter is the meeting point. We will do the session at a space outside.",
   "persons": [],
   "links": [
     "http://www.8os.io"
