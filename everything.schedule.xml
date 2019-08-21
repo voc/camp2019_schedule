@@ -1,5 +1,5 @@
 <schedule>
-  <version>Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 22:20</version>
+  <version>Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 22:43</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -548,108 +548,13 @@ We will use software methods (rooting) and hardware methods (flash dumping). Usi
         <attachments/>
       </event>
     </room>
-    <room name="Plank"/>
-    <room name="Hackcenter">
-      <event id="1233" guid="f5d15859-c9b5-44c8-8565-cb22daacedc8">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant</url>
-        <logo/>
-        <date>2019-08-21T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Hackcenter</room>
-        <slug>camp2019-1233-session_susi_ai_open_source_voice_assistant</slug>
-        <title>SUSI.AI Open Source Voice Assistant</title>
-        <subtitle>Learn about SUSI.AI and how to build your own smart speaker</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:MarioB">MarioB</person>
-        </persons>
-        <links>
-          <link>https://susi.ai</link>
-        </links>
-      </event>
-    </room>
-    <room name="Johnson (Workshop 1)">
-      <event id="1359" guid="f38ff36c-3a0a-47e4-8969-091845b6c0a0">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Bitcoin,_Lightning_Network,_Ethereum_for_newbs</url>
-        <logo/>
-        <date>2019-08-21T21:00:00+02:00</date>
-        <start>21:00</start>
-        <duration>1:00</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1359-session_bitcoin_lightning_network_ethereum_for_newbs</slug>
-        <title>Bitcoin, Lightning Network, Ethereum for newbs</title>
-        <subtitle>Hands-on crypto-currency wallet</subtitle>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>en</language>
-        <abstract/>
-        <description>basics : how to create a crypto wallet, backup and to transact</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Polto">Polto</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1284" guid="f4fa97e9-c253-4eb2-8695-83addfc593ea">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</url>
-        <logo/>
-        <date>2019-08-21T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1284-session_creating_z_wave_controllers_and_devices</slug>
-        <title>Creating Z-Wave controllers and devices</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Hacking around Z-Wave smart home protocol</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:PoltoS">PoltoS</person>
-        </persons>
-        <links>
-          <link>http://z-uno.z-wave.me</link>
-        </links>
-      </event>
-    </room>
-    <room name="Goldberg (Workshop 2)">
-      <event id="1180" guid="f3ab2794-e73a-4b02-9fc7-07fbf1dbe66c">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Awarenessteam-Vorstellung</url>
-        <logo/>
-        <date>2019-08-21T16:15:00+02:00</date>
-        <start>16:15</start>
-        <duration>1:30</duration>
-        <room>Goldberg (Workshop 2)</room>
-        <slug>camp2019-1180-session_awarenessteam_vorstellung</slug>
-        <title>Awarenessteam-Vorstellung</title>
-        <subtitle>Vorstellung</subtitle>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>de</language>
-        <abstract/>
-        <description>Vorstellung des Awarenessteams und dessen Konzept</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Sistason">Sistason</person>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Theresa">Theresa</person>
-        </persons>
-        <links>
-          <link>http://help.ccc.de/awareness</link>
-        </links>
-      </event>
-    </room>
-    <room name="THM Workshop"/>
-    <room name="Plank (Stage)">
+    <room name="Plank">
       <event id="141" guid="74ebea5d-e24e-55a0-99a4-f13879394f48">
         <logo/>
         <date>2019-08-21T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>VFBKTL</slug>
         <url>http://talx.thm.cloud/thms/talk/VFBKTL/</url>
         <title>Sozial-ökologische Dimensionen von Digitalisierung</title>
@@ -680,7 +585,7 @@ Anhand von Beispielen wird gezeigt, welche Rebound-Effekte in dem Zusammenhang b
         <date>2019-08-21T16:15:00+02:00</date>
         <start>16:15</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>ET9CFU</slug>
         <url>http://talx.thm.cloud/thms/talk/ET9CFU/</url>
         <title>Konviviale Software vor und jenseits des digitalen Kapitalismus</title>
@@ -710,7 +615,7 @@ Anhand von Beispielen wird gezeigt, welche Rebound-Effekte in dem Zusammenhang b
         <date>2019-08-21T18:30:00+02:00</date>
         <start>18:30</start>
         <duration>00:30</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>ASYLJ8</slug>
         <url>http://talx.thm.cloud/thms/talk/ASYLJ8/</url>
         <title>Wo lässt Du zwecklose Widerstände?</title>
@@ -746,7 +651,7 @@ Der Kurzvortrag gibt einen Einstieg ins Thema und erklärt, was ich vorhabe, wen
         <date>2019-08-21T19:15:00+02:00</date>
         <start>19:15</start>
         <duration>00:30</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>KXW3SP</slug>
         <url>http://talx.thm.cloud/thms/talk/KXW3SP/</url>
         <title>FridaysForFuture was, wie, warum?</title>
@@ -780,7 +685,7 @@ FridaysForFuture - die größte SchülerInnenbewegung aller Zeiten weltweit. Wie
         <date>2019-08-21T20:00:00+02:00</date>
         <start>20:00</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>PEXUEM</slug>
         <url>http://talx.thm.cloud/thms/talk/PEXUEM/</url>
         <title>Nice View Reporter</title>
@@ -822,7 +727,7 @@ Seit 2003 Mitgründer und Heimleiter der &amp;bdquo;Restrealitaet&amp;ldquo;, ei
         <date>2019-08-21T21:10:00+02:00</date>
         <start>21:10</start>
         <duration>00:30</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>NWNHJ3</slug>
         <url>http://talx.thm.cloud/thms/talk/NWNHJ3/</url>
         <title>Über die Nachhaltigkeit von Software</title>
@@ -879,7 +784,7 @@ die Zukunft zu erhalten</description>
         <date>2019-08-21T22:00:00+02:00</date>
         <start>22:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>DLS83T</slug>
         <url>http://talx.thm.cloud/thms/talk/DLS83T/</url>
         <title>live set</title>
@@ -909,7 +814,7 @@ die Zukunft zu erhalten</description>
         <date>2019-08-22T00:00:00+02:00</date>
         <start>00:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>FASSF7</slug>
         <url>http://talx.thm.cloud/thms/talk/FASSF7/</url>
         <title>Music Music Music (DJ-Set)</title>
@@ -940,7 +845,7 @@ Check out my mixes on [Soundcloud] (https://soundcloud.com/barbnerdy)</descripti
         <date>2019-08-22T02:00:00+02:00</date>
         <start>02:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>PHGYF8</slug>
         <url>http://talx.thm.cloud/thms/talk/PHGYF8/</url>
         <title>Beh</title>
@@ -1193,6 +1098,99 @@ and amusement.</description>
           <link href="https://soundcloud.com/raute42">#42 auf Soundcloud</link>
         </links>
         <attachments/>
+      </event>
+    </room>
+    <room name="Hackcenter">
+      <event id="1233" guid="f5d15859-c9b5-44c8-8565-cb22daacedc8">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant</url>
+        <logo/>
+        <date>2019-08-21T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1233-session_susi_ai_open_source_voice_assistant</slug>
+        <title>SUSI.AI Open Source Voice Assistant</title>
+        <subtitle>Learn about SUSI.AI and how to build your own smart speaker</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:MarioB">MarioB</person>
+        </persons>
+        <links>
+          <link>https://susi.ai</link>
+        </links>
+      </event>
+    </room>
+    <room name="Johnson (Workshop 1)">
+      <event id="1359" guid="f38ff36c-3a0a-47e4-8969-091845b6c0a0">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Bitcoin,_Lightning_Network,_Ethereum_for_newbs</url>
+        <logo/>
+        <date>2019-08-21T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1359-session_bitcoin_lightning_network_ethereum_for_newbs</slug>
+        <title>Bitcoin, Lightning Network, Ethereum for newbs</title>
+        <subtitle>Hands-on crypto-currency wallet</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>basics : how to create a crypto wallet, backup and to transact</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Polto">Polto</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1284" guid="f4fa97e9-c253-4eb2-8695-83addfc593ea">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</url>
+        <logo/>
+        <date>2019-08-21T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1284-session_creating_z_wave_controllers_and_devices</slug>
+        <title>Creating Z-Wave controllers and devices</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hacking around Z-Wave smart home protocol</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:PoltoS">PoltoS</person>
+        </persons>
+        <links>
+          <link>http://z-uno.z-wave.me</link>
+        </links>
+      </event>
+    </room>
+    <room name="Goldberg (Workshop 2)">
+      <event id="1180" guid="f3ab2794-e73a-4b02-9fc7-07fbf1dbe66c">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Awarenessteam-Vorstellung</url>
+        <logo/>
+        <date>2019-08-21T16:15:00+02:00</date>
+        <start>16:15</start>
+        <duration>1:30</duration>
+        <room>Goldberg (Workshop 2)</room>
+        <slug>camp2019-1180-session_awarenessteam_vorstellung</slug>
+        <title>Awarenessteam-Vorstellung</title>
+        <subtitle>Vorstellung</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Vorstellung des Awarenessteams und dessen Konzept</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Sistason">Sistason</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Theresa">Theresa</person>
+        </persons>
+        <links>
+          <link>http://help.ccc.de/awareness</link>
+        </links>
       </event>
     </room>
     <room name="Village:Haecksen">
@@ -3784,190 +3782,13 @@ Ziel 2: Workflows entwickeln, die Organisationen das Management von vielen Proje
         <answers/>
       </event>
     </room>
-    <room name="Plank"/>
-    <room name="Hackcenter"/>
-    <room name="Johnson (Workshop 1)">
-      <event id="1045" guid="886dfb0c-900f-47e1-bcb2-a5dc14c09a10">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:CCChoir</url>
-        <logo/>
-        <date>2019-08-22T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>1:30</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1045-session_ccchoir</slug>
-        <title>CCChoir</title>
-        <subtitle>Bach vs Pythagoras, Runde 1</subtitle>
-        <track>self organized sessions</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description>Offene Chorprobe und physikalische Grundlagen der Musik</description>
-        <persons/>
-        <links/>
-      </event>
-      <event id="1283" guid="7db3ec84-5dc0-46a3-b30e-8fa3eb9560b6">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</url>
-        <logo/>
-        <date>2019-08-22T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1283-session_creating_z_wave_controllers_and_devices</slug>
-        <title>Creating Z-Wave controllers and devices</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Hacking around Z-Wave smart home protocol</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:PoltoS">PoltoS</person>
-        </persons>
-        <links>
-          <link>http://z-uno.z-wave.me</link>
-        </links>
-      </event>
-      <event id="1262" guid="afa80109-3761-4b3f-b2e8-57087d164b0d">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:NixOS_Install_Party</url>
-        <logo/>
-        <date>2019-08-22T12:45:00+02:00</date>
-        <start>12:45</start>
-        <duration>1:15</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1262-session_nixos_install_party</slug>
-        <title>NixOS Install Party</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>de</language>
-        <abstract/>
-        <description>Try NixOS on your laptop or in a VM</description>
-        <persons/>
-        <links>
-          <link>https://nixos.org</link>
-        </links>
-      </event>
-      <event id="1418" guid="878b10d1-38ae-447d-bba8-6e5aea951592">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Rust_l0dables_on_the_card10_badge</url>
-        <logo/>
-        <date>2019-08-22T19:00:00+02:00</date>
-        <start>19:00</start>
-        <duration>0:45</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1418-session_rust_l0dables_on_the_card10_badge</slug>
-        <title>Rust l0dables on the card10 badge</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Write applications for the card10 in the Rust programming language</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Astro">Astro</person>
-        </persons>
-        <links>
-          <link>https://git.card10.badge.events.ccc.de/astro/rust-card10</link>
-        </links>
-      </event>
-      <event id="1248" guid="de5f9fba-3854-4a9d-b3f0-69e409f01b79">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Why_NixOS%3F</url>
-        <logo/>
-        <date>2019-08-22T12:00:00+02:00</date>
-        <start>12:00</start>
-        <duration>0:45</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1248-session_why_nixos_</slug>
-        <title>Why NixOS?</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>A Presentation about NixOS for newcomers.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Palo">Palo</person>
-        </persons>
-        <links>
-          <link>https://tech.ingolf-wagner.de/slides/why-nixos/</link>
-        </links>
-      </event>
-    </room>
-    <room name="Goldberg (Workshop 2)">
-      <event id="1177" guid="f827e2f7-55c1-4f65-b2a4-aa77da48549b">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Arch_Linux_Meetup</url>
-        <logo/>
-        <date>2019-08-22T19:00:00+02:00</date>
-        <start>19:00</start>
-        <duration>2:00</duration>
-        <room>Goldberg (Workshop 2)</room>
-        <slug>camp2019-1177-session_arch_linux_meetup</slug>
-        <title>Arch Linux Meetup</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>en</language>
-        <abstract/>
-        <description>Arch Linux user meetup</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Foxboron">Foxboron</person>
-        </persons>
-        <links>
-          <link>https://archlinux.org</link>
-        </links>
-      </event>
-      <event id="1066" guid="8563f582-f24e-4027-9a26-1725098b2b53">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken</url>
-        <logo/>
-        <date>2019-08-22T21:00:00+02:00</date>
-        <start>21:00</start>
-        <duration>2:00</duration>
-        <room>Goldberg (Workshop 2)</room>
-        <slug>camp2019-1066-session_esperanto_a_planned_nerd_language_actually_spoken</slug>
-        <title>Esperanto – a planned nerd language actually spoken</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>A short introduction into the international language Esperanto. A planned language actually spoken by nerds all over the world</description>
-        <persons/>
-        <links>
-          <link>https://github.com/johannes-mueller/esperanto-35c3</link>
-          <link>https://c3eo.chaotik.de</link>
-        </links>
-      </event>
-      <event id="1231" guid="ca75968c-338d-4a45-a41b-594c83b34d70">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Reproducible_Builds_Meetup</url>
-        <logo/>
-        <date>2019-08-22T13:30:00+02:00</date>
-        <start>13:30</start>
-        <duration>1:00</duration>
-        <room>Goldberg (Workshop 2)</room>
-        <slug>camp2019-1231-session_reproducible_builds_meetup</slug>
-        <title>Reproducible Builds Meetup</title>
-        <subtitle>Reproducible build introduction and discussion</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>Meeting and discussion about the Reproducible Builds project.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Foxboron">Foxboron</person>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Jelly">Jelly</person>
-        </persons>
-        <links>
-          <link>https://reproducible-builds.org/</link>
-        </links>
-      </event>
-    </room>
-    <room name="THM Workshop"/>
-    <room name="Plank (Stage)">
+    <room name="Plank">
       <event id="139" guid="0ef9486d-7f7a-5298-9042-3e55c19768d2">
         <logo/>
         <date>2019-08-22T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>WCSCAX</slug>
         <url>http://talx.thm.cloud/thms/talk/WCSCAX/</url>
         <title>Blockchain: Proof of ignorance</title>
@@ -4001,7 +3822,7 @@ So, why does blockchain does not solve any problem and only grants liberty and a
         <date>2019-08-22T16:15:00+02:00</date>
         <start>16:15</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>LEA7LY</slug>
         <url>http://talx.thm.cloud/thms/talk/LEA7LY/</url>
         <title>Dissecting the AMD Platform Security Processor</title>
@@ -4040,7 +3861,7 @@ AMD introduced the AMD Secure Processor to provide a trusted execution environme
         <date>2019-08-22T18:15:00+02:00</date>
         <start>18:15</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>GRRQTX</slug>
         <url>http://talx.thm.cloud/thms/talk/GRRQTX/</url>
         <title>Als Netzaktivistin im Bundestag – Insider Einblicke und Mitmachmöglichkeiten</title>
@@ -4114,7 +3935,7 @@ wissen, was sie tun.</description>
         <date>2019-08-22T19:30:00+02:00</date>
         <start>19:30</start>
         <duration>00:30</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>MRJQ7S</slug>
         <url>http://talx.thm.cloud/thms/talk/MRJQ7S/</url>
         <title>Denn so wissen wir, was sie tun: Das Berliner Transparenzgesetz</title>
@@ -4144,7 +3965,7 @@ wissen, was sie tun.</description>
         <date>2019-08-22T20:15:00+02:00</date>
         <start>20:15</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>LJQNKC</slug>
         <url>http://talx.thm.cloud/thms/talk/LJQNKC/</url>
         <title>Logbuch:Netzpolitik</title>
@@ -4179,7 +4000,7 @@ wissen, was sie tun.</description>
         <date>2019-08-22T21:30:00+02:00</date>
         <start>21:30</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>9P8DR9</slug>
         <url>http://talx.thm.cloud/thms/talk/9P8DR9/</url>
         <title>15 Jahre netzpolitik.org</title>
@@ -4211,7 +4032,7 @@ Mit Bildern, Screenshots und vielleicht auch dem einen oder anderen kurzen Video
         <date>2019-08-22T23:00:00+02:00</date>
         <start>23:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>QTLVBH</slug>
         <url>http://talx.thm.cloud/thms/talk/QTLVBH/</url>
         <title>Trummerschlunk</title>
@@ -4241,7 +4062,7 @@ Mit Bildern, Screenshots und vielleicht auch dem einen oder anderen kurzen Video
         <date>2019-08-23T01:00:00+02:00</date>
         <start>01:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>UPTJXZ</slug>
         <url>http://talx.thm.cloud/thms/talk/UPTJXZ/</url>
         <title>Meta Meta Cloud Beats</title>
@@ -4584,6 +4405,180 @@ Publikum vor.</abstract>
           <link href="https://soundcloud.com/kaubl">kAUBL on Soundcloud</link>
         </links>
         <attachments/>
+      </event>
+    </room>
+    <room name="Johnson (Workshop 1)">
+      <event id="1045" guid="886dfb0c-900f-47e1-bcb2-a5dc14c09a10">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:CCChoir</url>
+        <logo/>
+        <date>2019-08-22T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1045-session_ccchoir</slug>
+        <title>CCChoir</title>
+        <subtitle>Bach vs Pythagoras, Runde 1</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Offene Chorprobe und physikalische Grundlagen der Musik</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1283" guid="7db3ec84-5dc0-46a3-b30e-8fa3eb9560b6">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</url>
+        <logo/>
+        <date>2019-08-22T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1283-session_creating_z_wave_controllers_and_devices</slug>
+        <title>Creating Z-Wave controllers and devices</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hacking around Z-Wave smart home protocol</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:PoltoS">PoltoS</person>
+        </persons>
+        <links>
+          <link>http://z-uno.z-wave.me</link>
+        </links>
+      </event>
+      <event id="1262" guid="afa80109-3761-4b3f-b2e8-57087d164b0d">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:NixOS_Install_Party</url>
+        <logo/>
+        <date>2019-08-22T12:45:00+02:00</date>
+        <start>12:45</start>
+        <duration>1:15</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1262-session_nixos_install_party</slug>
+        <title>NixOS Install Party</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Try NixOS on your laptop or in a VM</description>
+        <persons/>
+        <links>
+          <link>https://nixos.org</link>
+        </links>
+      </event>
+      <event id="1418" guid="878b10d1-38ae-447d-bba8-6e5aea951592">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Rust_l0dables_on_the_card10_badge</url>
+        <logo/>
+        <date>2019-08-22T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>0:45</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1418-session_rust_l0dables_on_the_card10_badge</slug>
+        <title>Rust l0dables on the card10 badge</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Write applications for the card10 in the Rust programming language</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Astro">Astro</person>
+        </persons>
+        <links>
+          <link>https://git.card10.badge.events.ccc.de/astro/rust-card10</link>
+        </links>
+      </event>
+      <event id="1248" guid="de5f9fba-3854-4a9d-b3f0-69e409f01b79">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Why_NixOS%3F</url>
+        <logo/>
+        <date>2019-08-22T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>0:45</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1248-session_why_nixos_</slug>
+        <title>Why NixOS?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>A Presentation about NixOS for newcomers.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Palo">Palo</person>
+        </persons>
+        <links>
+          <link>https://tech.ingolf-wagner.de/slides/why-nixos/</link>
+        </links>
+      </event>
+    </room>
+    <room name="Goldberg (Workshop 2)">
+      <event id="1177" guid="f827e2f7-55c1-4f65-b2a4-aa77da48549b">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Arch_Linux_Meetup</url>
+        <logo/>
+        <date>2019-08-22T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>2:00</duration>
+        <room>Goldberg (Workshop 2)</room>
+        <slug>camp2019-1177-session_arch_linux_meetup</slug>
+        <title>Arch Linux Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Arch Linux user meetup</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Foxboron">Foxboron</person>
+        </persons>
+        <links>
+          <link>https://archlinux.org</link>
+        </links>
+      </event>
+      <event id="1066" guid="8563f582-f24e-4027-9a26-1725098b2b53">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken</url>
+        <logo/>
+        <date>2019-08-22T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>2:00</duration>
+        <room>Goldberg (Workshop 2)</room>
+        <slug>camp2019-1066-session_esperanto_a_planned_nerd_language_actually_spoken</slug>
+        <title>Esperanto – a planned nerd language actually spoken</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>A short introduction into the international language Esperanto. A planned language actually spoken by nerds all over the world</description>
+        <persons/>
+        <links>
+          <link>https://github.com/johannes-mueller/esperanto-35c3</link>
+          <link>https://c3eo.chaotik.de</link>
+        </links>
+      </event>
+      <event id="1231" guid="ca75968c-338d-4a45-a41b-594c83b34d70">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Reproducible_Builds_Meetup</url>
+        <logo/>
+        <date>2019-08-22T13:30:00+02:00</date>
+        <start>13:30</start>
+        <duration>1:00</duration>
+        <room>Goldberg (Workshop 2)</room>
+        <slug>camp2019-1231-session_reproducible_builds_meetup</slug>
+        <title>Reproducible Builds Meetup</title>
+        <subtitle>Reproducible build introduction and discussion</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Meeting and discussion about the Reproducible Builds project.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Foxboron">Foxboron</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Jelly">Jelly</person>
+        </persons>
+        <links>
+          <link>https://reproducible-builds.org/</link>
+        </links>
       </event>
     </room>
     <room name="Village:Three Headed Monkey">
@@ -6818,143 +6813,13 @@ These tools, called Dreams and Realities are run alongside a customized version 
         <attachments/>
       </event>
     </room>
-    <room name="Plank"/>
-    <room name="Hackcenter">
-      <event id="1041" guid="7976438d-2b1a-4303-96f5-d6846c9f42f6">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Bodymind_Operating_System</url>
-        <logo/>
-        <date>2019-08-23T17:30:00+02:00</date>
-        <start>17:30</start>
-        <duration>2:00</duration>
-        <room>Hackcenter</room>
-        <slug>camp2019-1041-session_bodymind_operating_system</slug>
-        <title>Bodymind Operating System</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Physical practice session where we explore the notions of hacking through the human body.</description>
-        <persons/>
-        <links>
-          <link>http://www.8os.io</link>
-        </links>
-      </event>
-      <event id="1232" guid="fe13b901-cc23-4258-91cb-631e29cebe39">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant</url>
-        <logo/>
-        <date>2019-08-23T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Hackcenter</room>
-        <slug>camp2019-1232-session_susi_ai_open_source_voice_assistant</slug>
-        <title>SUSI.AI Open Source Voice Assistant</title>
-        <subtitle>Learn about SUSI.AI and how to build your own smart speaker</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:MarioB">MarioB</person>
-        </persons>
-        <links>
-          <link>https://susi.ai</link>
-        </links>
-      </event>
-    </room>
-    <room name="Johnson (Workshop 1)">
-      <event id="1383" guid="3baf0897-ca98-4031-a4ae-aa29e47248b6">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Numerical_Weather_Prediction_tutorial</url>
-        <logo/>
-        <date>2019-08-23T13:00:00+02:00</date>
-        <start>13:00</start>
-        <duration>3:00</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1383-session_numerical_weather_prediction_tutorial</slug>
-        <title>Numerical Weather Prediction tutorial</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Run your own weather model</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Tecer">Tecer</person>
-        </persons>
-        <links>
-          <link>https://git.hacknology.de/projekte/wrftut</link>
-        </links>
-      </event>
-    </room>
-    <room name="Goldberg (Workshop 2)">
-      <event id="1321" guid="1953ae86-7a6b-4a3f-b80f-71490d017842">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen</url>
-        <logo/>
-        <date>2019-08-23T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>1:00</duration>
-        <room>Goldberg (Workshop 2)</room>
-        <slug>camp2019-1321-session_binaergewitter_hoerertreffen</slug>
-        <title>Binärgewitter Hörertreffen</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>Hörertreffen des Binärgewitter Podcasts</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Makefu">Makefu</person>
-        </persons>
-        <links>
-          <link>https://krepel.us</link>
-        </links>
-      </event>
-      <event id="1316" guid="01a0c21a-8b90-4387-9198-8e80cccb18a8">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Extra_Thumb_Workshop</url>
-        <logo/>
-        <date>2019-08-23T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>3:00</duration>
-        <room>Goldberg (Workshop 2)</room>
-        <slug>camp2019-1316-session_extra_thumb_workshop</slug>
-        <title>Extra Thumb Workshop</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Make yourself an extra functional thumb, and see if you like it.</description>
-        <persons/>
-        <links/>
-      </event>
-      <event id="1296" guid="4a5e8ab5-afa7-4bcd-9260-bf4ba79f1814">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Learning_to_see_in_3D</url>
-        <logo/>
-        <date>2019-08-23T10:30:00+02:00</date>
-        <start>10:30</start>
-        <duration>1:00</duration>
-        <room>Goldberg (Workshop 2)</room>
-        <slug>camp2019-1296-session_learning_to_see_in_3d</slug>
-        <title>Learning to see in 3D</title>
-        <subtitle>Introduction, Hands-On</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Can you hack how you see with Virtual RealiTy to rediscover your full sense of 3D?  Try out the new system, meet other interested people, plot and plan.</description>
-        <persons/>
-        <links/>
-      </event>
-    </room>
-    <room name="THM Workshop"/>
-    <room name="Plank (Stage)">
+    <room name="Plank">
       <event id="152" guid="e960e678-a20b-53bf-8b93-11161b0248b6">
         <logo/>
         <date>2019-08-23T03:00:00+02:00</date>
         <start>03:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>9MFGLW</slug>
         <url>http://talx.thm.cloud/thms/talk/9MFGLW/</url>
         <title>Piet</title>
@@ -6984,7 +6849,7 @@ These tools, called Dreams and Realities are run alongside a customized version 
         <date>2019-08-23T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>ARDC3J</slug>
         <url>http://talx.thm.cloud/thms/talk/ARDC3J/</url>
         <title>Sinn von Unsinn unterscheiden - Glaub ich's oder glaub ich's nicht?</title>
@@ -7014,7 +6879,7 @@ These tools, called Dreams and Realities are run alongside a customized version 
         <date>2019-08-23T16:15:00+02:00</date>
         <start>16:15</start>
         <duration>00:30</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>QULQKV</slug>
         <url>http://talx.thm.cloud/thms/talk/QULQKV/</url>
         <title>(emulate|fuzz|break) kernels</title>
@@ -7051,7 +6916,7 @@ To stay on the punny side of things, we shall call this method *unicorefuzz*.</d
         <date>2019-08-23T17:00:00+02:00</date>
         <start>17:00</start>
         <duration>00:30</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>Z3VR8P</slug>
         <url>http://talx.thm.cloud/thms/talk/Z3VR8P/</url>
         <title>Cryptography of Killing Proof-of-Work</title>
@@ -7087,7 +6952,7 @@ I've worked with most, and carefully implemented several, of the primitives bein
         <date>2019-08-23T18:30:00+02:00</date>
         <start>18:30</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>ACSFZ7</slug>
         <url>http://talx.thm.cloud/thms/talk/ACSFZ7/</url>
         <title>E-Mail-Privatheit und Mailbox-Verschlüsselung</title>
@@ -7121,7 +6986,7 @@ Userli verwendet das Dovecot MailCrypt Plugin und libsodium um Postfächer zu ve
         <date>2019-08-23T19:45:00+02:00</date>
         <start>19:45</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>GYWNQP</slug>
         <url>http://talx.thm.cloud/thms/talk/GYWNQP/</url>
         <title>Elektroschrott - Welchen letzten Weg geht mein PC?</title>
@@ -7151,7 +7016,7 @@ Userli verwendet das Dovecot MailCrypt Plugin und libsodium um Postfächer zu ve
         <date>2019-08-23T21:30:00+02:00</date>
         <start>21:30</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>3UBEUB</slug>
         <url>http://talx.thm.cloud/thms/talk/3UBEUB/</url>
         <title>Systemabsturz</title>
@@ -7185,7 +7050,7 @@ einen weiteren Abbau der Freiheitsrechte und noch mehr Überwachung.</abstract>
         <date>2019-08-23T23:00:00+02:00</date>
         <start>23:00</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>DKGDLN</slug>
         <url>http://talx.thm.cloud/thms/talk/DKGDLN/</url>
         <title>Digitale Freiheit</title>
@@ -7215,7 +7080,7 @@ einen weiteren Abbau der Freiheitsrechte und noch mehr Überwachung.</abstract>
         <date>2019-08-24T00:00:00+02:00</date>
         <start>00:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>QWFLJN</slug>
         <url>http://talx.thm.cloud/thms/talk/QWFLJN/</url>
         <title>Drum&amp;Bass</title>
@@ -7251,7 +7116,7 @@ Her favorite producers are Calyx, Matrix, Ed Rush &amp; Optical, Teebee, Break, 
         <date>2019-08-24T02:00:00+02:00</date>
         <start>02:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>8GEREV</slug>
         <url>http://talx.thm.cloud/thms/talk/8GEREV/</url>
         <title>Delaydi and Saetchmo bassploring space</title>
@@ -7577,6 +7442,134 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
         <persons/>
         <links/>
         <attachments/>
+      </event>
+    </room>
+    <room name="Hackcenter">
+      <event id="1041" guid="7976438d-2b1a-4303-96f5-d6846c9f42f6">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Bodymind_Operating_System</url>
+        <logo/>
+        <date>2019-08-23T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>2:00</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1041-session_bodymind_operating_system</slug>
+        <title>Bodymind Operating System</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Physical practice session where we explore the notions of hacking through the human body.</description>
+        <persons/>
+        <links>
+          <link>http://www.8os.io</link>
+        </links>
+      </event>
+      <event id="1232" guid="fe13b901-cc23-4258-91cb-631e29cebe39">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant</url>
+        <logo/>
+        <date>2019-08-23T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1232-session_susi_ai_open_source_voice_assistant</slug>
+        <title>SUSI.AI Open Source Voice Assistant</title>
+        <subtitle>Learn about SUSI.AI and how to build your own smart speaker</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:MarioB">MarioB</person>
+        </persons>
+        <links>
+          <link>https://susi.ai</link>
+        </links>
+      </event>
+    </room>
+    <room name="Johnson (Workshop 1)">
+      <event id="1383" guid="3baf0897-ca98-4031-a4ae-aa29e47248b6">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Numerical_Weather_Prediction_tutorial</url>
+        <logo/>
+        <date>2019-08-23T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>3:00</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1383-session_numerical_weather_prediction_tutorial</slug>
+        <title>Numerical Weather Prediction tutorial</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Run your own weather model</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Tecer">Tecer</person>
+        </persons>
+        <links>
+          <link>https://git.hacknology.de/projekte/wrftut</link>
+        </links>
+      </event>
+    </room>
+    <room name="Goldberg (Workshop 2)">
+      <event id="1321" guid="1953ae86-7a6b-4a3f-b80f-71490d017842">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen</url>
+        <logo/>
+        <date>2019-08-23T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Goldberg (Workshop 2)</room>
+        <slug>camp2019-1321-session_binaergewitter_hoerertreffen</slug>
+        <title>Binärgewitter Hörertreffen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Hörertreffen des Binärgewitter Podcasts</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Makefu">Makefu</person>
+        </persons>
+        <links>
+          <link>https://krepel.us</link>
+        </links>
+      </event>
+      <event id="1316" guid="01a0c21a-8b90-4387-9198-8e80cccb18a8">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Extra_Thumb_Workshop</url>
+        <logo/>
+        <date>2019-08-23T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>3:00</duration>
+        <room>Goldberg (Workshop 2)</room>
+        <slug>camp2019-1316-session_extra_thumb_workshop</slug>
+        <title>Extra Thumb Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Make yourself an extra functional thumb, and see if you like it.</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1296" guid="4a5e8ab5-afa7-4bcd-9260-bf4ba79f1814">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Learning_to_see_in_3D</url>
+        <logo/>
+        <date>2019-08-23T10:30:00+02:00</date>
+        <start>10:30</start>
+        <duration>1:00</duration>
+        <room>Goldberg (Workshop 2)</room>
+        <slug>camp2019-1296-session_learning_to_see_in_3d</slug>
+        <title>Learning to see in 3D</title>
+        <subtitle>Introduction, Hands-On</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Can you hack how you see with Virtual RealiTy to rediscover your full sense of 3D?  Try out the new system, meet other interested people, plot and plan.</description>
+        <persons/>
+        <links/>
       </event>
     </room>
     <room name="Village:Backspace">
@@ -9525,78 +9518,13 @@ I am currently doing my PhD at a research institute that focuses on embedded sec
         <attachments/>
       </event>
     </room>
-    <room name="Plank"/>
-    <room name="Hackcenter">
-      <event id="1040" guid="6ad28881-1413-46a4-837a-315359e19aeb">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Body/Mind_Hardware/Software</url>
-        <logo/>
-        <date>2019-08-24T18:00:00+02:00</date>
-        <start>18:00</start>
-        <duration>2:00</duration>
-        <room>Hackcenter</room>
-        <slug>camp2019-1040-session_body_mind_hardware_software</slug>
-        <title>Body/Mind Hardware/Software</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>EightOS bodymind operating system</description>
-        <persons/>
-        <links>
-          <link>http://www.8os.io</link>
-        </links>
-      </event>
-    </room>
-    <room name="Johnson (Workshop 1)">
-      <event id="1197" guid="c8804eab-dadd-4307-ab8c-e19f4a5d769f">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Fair_Ticket_Sales_on_a_Capitalist_World</url>
-        <logo/>
-        <date>2019-08-24T20:00:00+02:00</date>
-        <start>20:00</start>
-        <duration>1:00</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1197-session_fair_ticket_sales_on_a_capitalist_world</slug>
-        <title>Fair Ticket Sales on a Capitalist World</title>
-        <subtitle>Welcome to capitalism where prices regulate the differences between deman and supply, or do they?</subtitle>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>en</language>
-        <abstract/>
-        <description>In this open discussion we will discuss solutions taken by organizations to address ticket sales at fair prices when demand significantly outgrows supply</description>
-        <persons/>
-        <links/>
-      </event>
-      <event id="1379" guid="0c0709ed-6fba-4013-aa75-fcfc4f07e1c7">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:You_broke_the_internet,_let_us_build_a_GNU_one</url>
-        <logo/>
-        <date>2019-08-24T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>1:30</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1379-session_you_broke_the_internet_let_us_build_a_gnu_one</slug>
-        <title>You broke the internet, let us build a GNU one</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>en</language>
-        <abstract/>
-        <description>GNUnet meetup for the community</description>
-        <persons/>
-        <links>
-          <link>https://gnunet.org</link>
-        </links>
-      </event>
-    </room>
-    <room name="Goldberg (Workshop 2)"/>
-    <room name="THM Workshop"/>
-    <room name="Plank (Stage)">
+    <room name="Plank">
       <event id="111" guid="93312758-6925-5e84-85b5-3b80f92a0faa">
         <logo>/media/thms/images/P9JCSV/Im_Eis_Ronja_Reese.png</logo>
         <date>2019-08-24T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>P9JCSV</slug>
         <url>http://talx.thm.cloud/thms/talk/P9JCSV/</url>
         <title>Global Warming Sucks!</title>
@@ -9626,7 +9554,7 @@ I am currently doing my PhD at a research institute that focuses on embedded sec
         <date>2019-08-24T16:15:00+02:00</date>
         <start>16:15</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>FLXJRA</slug>
         <url>http://talx.thm.cloud/thms/talk/FLXJRA/</url>
         <title>Climate breakdown – the bleak reality</title>
@@ -9665,7 +9593,7 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <date>2019-08-24T18:30:00+02:00</date>
         <start>18:30</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>FMQ3UN</slug>
         <url>http://talx.thm.cloud/thms/talk/FMQ3UN/</url>
         <title>Chaosradio 254</title>
@@ -9695,7 +9623,7 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <date>2019-08-24T20:45:00+02:00</date>
         <start>20:45</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>ULS83P</slug>
         <url>http://talx.thm.cloud/thms/talk/ULS83P/</url>
         <title>Freak Show</title>
@@ -9752,7 +9680,7 @@ https://freakshow.fm</description>
         <date>2019-08-24T23:00:00+02:00</date>
         <start>23:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>HSZXE7</slug>
         <url>http://talx.thm.cloud/thms/talk/HSZXE7/</url>
         <title>Tschunkelmusik</title>
@@ -10125,6 +10053,68 @@ Live spielen die Muckemacher in voller Bandbesetzung mit Schlagzeug, Bass, Gitar
         <persons/>
         <links/>
         <attachments/>
+      </event>
+    </room>
+    <room name="Hackcenter">
+      <event id="1040" guid="6ad28881-1413-46a4-837a-315359e19aeb">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Body/Mind_Hardware/Software</url>
+        <logo/>
+        <date>2019-08-24T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>2:00</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1040-session_body_mind_hardware_software</slug>
+        <title>Body/Mind Hardware/Software</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>EightOS bodymind operating system</description>
+        <persons/>
+        <links>
+          <link>http://www.8os.io</link>
+        </links>
+      </event>
+    </room>
+    <room name="Johnson (Workshop 1)">
+      <event id="1197" guid="c8804eab-dadd-4307-ab8c-e19f4a5d769f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Fair_Ticket_Sales_on_a_Capitalist_World</url>
+        <logo/>
+        <date>2019-08-24T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1197-session_fair_ticket_sales_on_a_capitalist_world</slug>
+        <title>Fair Ticket Sales on a Capitalist World</title>
+        <subtitle>Welcome to capitalism where prices regulate the differences between deman and supply, or do they?</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>In this open discussion we will discuss solutions taken by organizations to address ticket sales at fair prices when demand significantly outgrows supply</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1379" guid="0c0709ed-6fba-4013-aa75-fcfc4f07e1c7">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:You_broke_the_internet,_let_us_build_a_GNU_one</url>
+        <logo/>
+        <date>2019-08-24T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>1:30</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1379-session_you_broke_the_internet_let_us_build_a_gnu_one</slug>
+        <title>You broke the internet, let us build a GNU one</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>GNUnet meetup for the community</description>
+        <persons/>
+        <links>
+          <link>https://gnunet.org</link>
+        </links>
       </event>
     </room>
     <room name="Village:About:freedom">
@@ -11443,18 +11433,13 @@ The laws of physics inherently contain dynamics capable of creating aestheticall
         <attachments/>
       </event>
     </room>
-    <room name="Plank"/>
-    <room name="Hackcenter"/>
-    <room name="Johnson (Workshop 1)"/>
-    <room name="Goldberg (Workshop 2)"/>
-    <room name="THM Workshop"/>
-    <room name="Plank (Stage)">
+    <room name="Plank">
       <event id="166" guid="85f449be-d06e-5ab8-bb06-a45f9d1347fa">
         <logo/>
         <date>2019-08-25T03:00:00+02:00</date>
         <start>03:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>NKSSZ8</slug>
         <url>http://talx.thm.cloud/thms/talk/NKSSZ8/</url>
         <title>We &lt;3 Techno</title>
@@ -11490,7 +11475,7 @@ EOF</description>
         <date>2019-08-25T05:00:00+02:00</date>
         <start>05:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>CNDUXW</slug>
         <url>http://talx.thm.cloud/thms/talk/CNDUXW/</url>
         <title>.merlin</title>
@@ -11520,7 +11505,7 @@ EOF</description>
         <date>2019-08-25T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>TX3WKW</slug>
         <url>http://talx.thm.cloud/thms/talk/TX3WKW/</url>
         <title>Capitana vs. Benito Salvini - über die Erosion von Grundrechten und was wir dagegen tun können</title>
@@ -11550,7 +11535,7 @@ EOF</description>
         <date>2019-08-25T15:45:00+02:00</date>
         <start>15:45</start>
         <duration>00:30</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>QHMZQM</slug>
         <url>http://talx.thm.cloud/thms/talk/QHMZQM/</url>
         <title>ZpS - Bildung einer kriminellen Vereinigung</title>
@@ -11585,7 +11570,7 @@ EOF</description>
         <date>2019-08-25T16:30:00+02:00</date>
         <start>16:30</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>7QKPYA</slug>
         <url>http://talx.thm.cloud/thms/talk/7QKPYA/</url>
         <title>Verstehbahnhof and beyond -- building the ultimate digital playground</title>

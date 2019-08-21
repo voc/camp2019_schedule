@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 22:20",
+    "version": "Gacrux; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 22:43",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -611,130 +611,7 @@
                 "attachments": []
               }
             ],
-            "Plank": [],
-            "Hackcenter": [
-              {
-                "id": 1233,
-                "guid": "f5d15859-c9b5-44c8-8565-cb22daacedc8",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant",
-                "logo": null,
-                "date": "2019-08-21T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "1:30",
-                "room": "Hackcenter",
-                "slug": "camp2019-1233-session_susi_ai_open_source_voice_assistant",
-                "title": "SUSI.AI Open Source Voice Assistant",
-                "subtitle": "Learn about SUSI.AI and how to build your own smart speaker",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:MarioB",
-                    "public_name": "MarioB"
-                  }
-                ],
-                "links": [
-                  "https://susi.ai"
-                ]
-              }
-            ],
-            "Johnson (Workshop 1)": [
-              {
-                "id": 1359,
-                "guid": "f38ff36c-3a0a-47e4-8969-091845b6c0a0",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bitcoin,_Lightning_Network,_Ethereum_for_newbs",
-                "logo": null,
-                "date": "2019-08-21T21:00:00+02:00",
-                "start": "21:00",
-                "duration": "1:00",
-                "room": "Johnson (Workshop 1)",
-                "slug": "camp2019-1359-session_bitcoin_lightning_network_ethereum_for_newbs",
-                "title": "Bitcoin, Lightning Network, Ethereum for newbs",
-                "subtitle": "Hands-on crypto-currency wallet",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "en",
-                "abstract": "",
-                "description": "basics : how to create a crypto wallet, backup and to transact",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Polto",
-                    "public_name": "Polto"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1284,
-                "guid": "f4fa97e9-c253-4eb2-8695-83addfc593ea",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices",
-                "logo": null,
-                "date": "2019-08-21T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "1:30",
-                "room": "Johnson (Workshop 1)",
-                "slug": "camp2019-1284-session_creating_z_wave_controllers_and_devices",
-                "title": "Creating Z-Wave controllers and devices",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Hacking around Z-Wave smart home protocol",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:PoltoS",
-                    "public_name": "PoltoS"
-                  }
-                ],
-                "links": [
-                  "http://z-uno.z-wave.me"
-                ]
-              }
-            ],
-            "Goldberg (Workshop 2)": [
-              {
-                "id": 1180,
-                "guid": "f3ab2794-e73a-4b02-9fc7-07fbf1dbe66c",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Awarenessteam-Vorstellung",
-                "logo": null,
-                "date": "2019-08-21T16:15:00+02:00",
-                "start": "16:15",
-                "duration": "1:30",
-                "room": "Goldberg (Workshop 2)",
-                "slug": "camp2019-1180-session_awarenessteam_vorstellung",
-                "title": "Awarenessteam-Vorstellung",
-                "subtitle": "Vorstellung",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "de",
-                "abstract": "",
-                "description": "Vorstellung des Awarenessteams und dessen Konzept",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Sistason",
-                    "public_name": "Sistason"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Theresa",
-                    "public_name": "Theresa"
-                  }
-                ],
-                "links": [
-                  "http://help.ccc.de/awareness"
-                ]
-              }
-            ],
-            "THM Workshop": [],
-            "Plank (Stage)": [
+            "Plank": [
               {
                 "id": 141,
                 "guid": "74ebea5d-e24e-55a0-99a4-f13879394f48",
@@ -742,7 +619,7 @@
                 "date": "2019-08-21T15:00:00+02:00",
                 "start": "15:00",
                 "duration": "01:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "VFBKTL",
                 "url": "http://talx.thm.cloud/thms/talk/VFBKTL/",
                 "title": "Sozial-\u00f6kologische Dimensionen von Digitalisierung",
@@ -774,7 +651,7 @@
                 "date": "2019-08-21T16:15:00+02:00",
                 "start": "16:15",
                 "duration": "01:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "ET9CFU",
                 "url": "http://talx.thm.cloud/thms/talk/ET9CFU/",
                 "title": "Konviviale Software vor und jenseits des digitalen Kapitalismus",
@@ -806,7 +683,7 @@
                 "date": "2019-08-21T18:30:00+02:00",
                 "start": "18:30",
                 "duration": "00:30",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "ASYLJ8",
                 "url": "http://talx.thm.cloud/thms/talk/ASYLJ8/",
                 "title": "Wo l\u00e4sst Du zwecklose Widerst\u00e4nde?",
@@ -838,7 +715,7 @@
                 "date": "2019-08-21T19:15:00+02:00",
                 "start": "19:15",
                 "duration": "00:30",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "KXW3SP",
                 "url": "http://talx.thm.cloud/thms/talk/KXW3SP/",
                 "title": "FridaysForFuture was, wie, warum?",
@@ -870,7 +747,7 @@
                 "date": "2019-08-21T20:00:00+02:00",
                 "start": "20:00",
                 "duration": "01:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "PEXUEM",
                 "url": "http://talx.thm.cloud/thms/talk/PEXUEM/",
                 "title": "Nice View Reporter",
@@ -909,7 +786,7 @@
                 "date": "2019-08-21T21:10:00+02:00",
                 "start": "21:10",
                 "duration": "00:30",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "NWNHJ3",
                 "url": "http://talx.thm.cloud/thms/talk/NWNHJ3/",
                 "title": "\u00dcber die Nachhaltigkeit von Software",
@@ -941,7 +818,7 @@
                 "date": "2019-08-21T22:00:00+02:00",
                 "start": "22:00",
                 "duration": "02:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "DLS83T",
                 "url": "http://talx.thm.cloud/thms/talk/DLS83T/",
                 "title": "live set",
@@ -973,7 +850,7 @@
                 "date": "2019-08-22T00:00:00+02:00",
                 "start": "00:00",
                 "duration": "02:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "FASSF7",
                 "url": "http://talx.thm.cloud/thms/talk/FASSF7/",
                 "title": "Music Music Music (DJ-Set)",
@@ -1005,7 +882,7 @@
                 "date": "2019-08-22T02:00:00+02:00",
                 "start": "02:00",
                 "duration": "02:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "PHGYF8",
                 "url": "http://talx.thm.cloud/thms/talk/PHGYF8/",
                 "title": "Beh",
@@ -1271,6 +1148,127 @@
                   }
                 ],
                 "attachments": []
+              }
+            ],
+            "Hackcenter": [
+              {
+                "id": 1233,
+                "guid": "f5d15859-c9b5-44c8-8565-cb22daacedc8",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant",
+                "logo": null,
+                "date": "2019-08-21T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:30",
+                "room": "Hackcenter",
+                "slug": "camp2019-1233-session_susi_ai_open_source_voice_assistant",
+                "title": "SUSI.AI Open Source Voice Assistant",
+                "subtitle": "Learn about SUSI.AI and how to build your own smart speaker",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:MarioB",
+                    "public_name": "MarioB"
+                  }
+                ],
+                "links": [
+                  "https://susi.ai"
+                ]
+              }
+            ],
+            "Johnson (Workshop 1)": [
+              {
+                "id": 1359,
+                "guid": "f38ff36c-3a0a-47e4-8969-091845b6c0a0",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bitcoin,_Lightning_Network,_Ethereum_for_newbs",
+                "logo": null,
+                "date": "2019-08-21T21:00:00+02:00",
+                "start": "21:00",
+                "duration": "1:00",
+                "room": "Johnson (Workshop 1)",
+                "slug": "camp2019-1359-session_bitcoin_lightning_network_ethereum_for_newbs",
+                "title": "Bitcoin, Lightning Network, Ethereum for newbs",
+                "subtitle": "Hands-on crypto-currency wallet",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "en",
+                "abstract": "",
+                "description": "basics : how to create a crypto wallet, backup and to transact",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Polto",
+                    "public_name": "Polto"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1284,
+                "guid": "f4fa97e9-c253-4eb2-8695-83addfc593ea",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices",
+                "logo": null,
+                "date": "2019-08-21T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:30",
+                "room": "Johnson (Workshop 1)",
+                "slug": "camp2019-1284-session_creating_z_wave_controllers_and_devices",
+                "title": "Creating Z-Wave controllers and devices",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Hacking around Z-Wave smart home protocol",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:PoltoS",
+                    "public_name": "PoltoS"
+                  }
+                ],
+                "links": [
+                  "http://z-uno.z-wave.me"
+                ]
+              }
+            ],
+            "Goldberg (Workshop 2)": [
+              {
+                "id": 1180,
+                "guid": "f3ab2794-e73a-4b02-9fc7-07fbf1dbe66c",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Awarenessteam-Vorstellung",
+                "logo": null,
+                "date": "2019-08-21T16:15:00+02:00",
+                "start": "16:15",
+                "duration": "1:30",
+                "room": "Goldberg (Workshop 2)",
+                "slug": "camp2019-1180-session_awarenessteam_vorstellung",
+                "title": "Awarenessteam-Vorstellung",
+                "subtitle": "Vorstellung",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "de",
+                "abstract": "",
+                "description": "Vorstellung des Awarenessteams und dessen Konzept",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Sistason",
+                    "public_name": "Sistason"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Theresa",
+                    "public_name": "Theresa"
+                  }
+                ],
+                "links": [
+                  "http://help.ccc.de/awareness"
+                ]
               }
             ],
             "Village:Haecksen": [
@@ -4247,224 +4245,7 @@
                 "answers": []
               }
             ],
-            "Plank": [],
-            "Hackcenter": [],
-            "Johnson (Workshop 1)": [
-              {
-                "id": 1045,
-                "guid": "886dfb0c-900f-47e1-bcb2-a5dc14c09a10",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:CCChoir",
-                "logo": null,
-                "date": "2019-08-22T17:00:00+02:00",
-                "start": "17:00",
-                "duration": "1:30",
-                "room": "Johnson (Workshop 1)",
-                "slug": "camp2019-1045-session_ccchoir",
-                "title": "CCChoir",
-                "subtitle": "Bach vs Pythagoras, Runde 1",
-                "track": "self organized sessions",
-                "type": "other",
-                "language": "de",
-                "abstract": "",
-                "description": "Offene Chorprobe und physikalische Grundlagen der Musik",
-                "persons": [],
-                "links": []
-              },
-              {
-                "id": 1283,
-                "guid": "7db3ec84-5dc0-46a3-b30e-8fa3eb9560b6",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices",
-                "logo": null,
-                "date": "2019-08-22T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "1:30",
-                "room": "Johnson (Workshop 1)",
-                "slug": "camp2019-1283-session_creating_z_wave_controllers_and_devices",
-                "title": "Creating Z-Wave controllers and devices",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Hacking around Z-Wave smart home protocol",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:PoltoS",
-                    "public_name": "PoltoS"
-                  }
-                ],
-                "links": [
-                  "http://z-uno.z-wave.me"
-                ]
-              },
-              {
-                "id": 1262,
-                "guid": "afa80109-3761-4b3f-b2e8-57087d164b0d",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:NixOS_Install_Party",
-                "logo": null,
-                "date": "2019-08-22T12:45:00+02:00",
-                "start": "12:45",
-                "duration": "1:15",
-                "room": "Johnson (Workshop 1)",
-                "slug": "camp2019-1262-session_nixos_install_party",
-                "title": "NixOS Install Party",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "de",
-                "abstract": "",
-                "description": "Try NixOS on your laptop or in a VM",
-                "persons": [],
-                "links": [
-                  "https://nixos.org"
-                ]
-              },
-              {
-                "id": 1418,
-                "guid": "878b10d1-38ae-447d-bba8-6e5aea951592",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Rust_l0dables_on_the_card10_badge",
-                "logo": null,
-                "date": "2019-08-22T19:00:00+02:00",
-                "start": "19:00",
-                "duration": "0:45",
-                "room": "Johnson (Workshop 1)",
-                "slug": "camp2019-1418-session_rust_l0dables_on_the_card10_badge",
-                "title": "Rust l0dables on the card10 badge",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Write applications for the card10 in the Rust programming language",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Astro",
-                    "public_name": "Astro"
-                  }
-                ],
-                "links": [
-                  "https://git.card10.badge.events.ccc.de/astro/rust-card10"
-                ]
-              },
-              {
-                "id": 1248,
-                "guid": "de5f9fba-3854-4a9d-b3f0-69e409f01b79",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Why_NixOS%3F",
-                "logo": null,
-                "date": "2019-08-22T12:00:00+02:00",
-                "start": "12:00",
-                "duration": "0:45",
-                "room": "Johnson (Workshop 1)",
-                "slug": "camp2019-1248-session_why_nixos_",
-                "title": "Why NixOS?",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "A Presentation about NixOS for newcomers.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Palo",
-                    "public_name": "Palo"
-                  }
-                ],
-                "links": [
-                  "https://tech.ingolf-wagner.de/slides/why-nixos/"
-                ]
-              }
-            ],
-            "Goldberg (Workshop 2)": [
-              {
-                "id": 1177,
-                "guid": "f827e2f7-55c1-4f65-b2a4-aa77da48549b",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Arch_Linux_Meetup",
-                "logo": null,
-                "date": "2019-08-22T19:00:00+02:00",
-                "start": "19:00",
-                "duration": "2:00",
-                "room": "Goldberg (Workshop 2)",
-                "slug": "camp2019-1177-session_arch_linux_meetup",
-                "title": "Arch Linux Meetup",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "en",
-                "abstract": "",
-                "description": "Arch Linux user meetup",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Foxboron",
-                    "public_name": "Foxboron"
-                  }
-                ],
-                "links": [
-                  "https://archlinux.org"
-                ]
-              },
-              {
-                "id": 1066,
-                "guid": "8563f582-f24e-4027-9a26-1725098b2b53",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken",
-                "logo": null,
-                "date": "2019-08-22T21:00:00+02:00",
-                "start": "21:00",
-                "duration": "2:00",
-                "room": "Goldberg (Workshop 2)",
-                "slug": "camp2019-1066-session_esperanto_a_planned_nerd_language_actually_spoken",
-                "title": "Esperanto \u2013 a planned nerd language actually spoken",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "A short introduction into the international language Esperanto. A planned language actually spoken by nerds all over the world",
-                "persons": [],
-                "links": [
-                  "https://github.com/johannes-mueller/esperanto-35c3",
-                  "https://c3eo.chaotik.de"
-                ]
-              },
-              {
-                "id": 1231,
-                "guid": "ca75968c-338d-4a45-a41b-594c83b34d70",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Reproducible_Builds_Meetup",
-                "logo": null,
-                "date": "2019-08-22T13:30:00+02:00",
-                "start": "13:30",
-                "duration": "1:00",
-                "room": "Goldberg (Workshop 2)",
-                "slug": "camp2019-1231-session_reproducible_builds_meetup",
-                "title": "Reproducible Builds Meetup",
-                "subtitle": "Reproducible build introduction and discussion",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "Meeting and discussion about the Reproducible Builds project.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Foxboron",
-                    "public_name": "Foxboron"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Jelly",
-                    "public_name": "Jelly"
-                  }
-                ],
-                "links": [
-                  "https://reproducible-builds.org/"
-                ]
-              }
-            ],
-            "THM Workshop": [],
-            "Plank (Stage)": [
+            "Plank": [
               {
                 "id": 139,
                 "guid": "0ef9486d-7f7a-5298-9042-3e55c19768d2",
@@ -4472,7 +4253,7 @@
                 "date": "2019-08-22T15:00:00+02:00",
                 "start": "15:00",
                 "duration": "01:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "WCSCAX",
                 "url": "http://talx.thm.cloud/thms/talk/WCSCAX/",
                 "title": "Blockchain: Proof of ignorance",
@@ -4504,7 +4285,7 @@
                 "date": "2019-08-22T16:15:00+02:00",
                 "start": "16:15",
                 "duration": "01:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "LEA7LY",
                 "url": "http://talx.thm.cloud/thms/talk/LEA7LY/",
                 "title": "Dissecting the AMD Platform Security Processor",
@@ -4543,7 +4324,7 @@
                 "date": "2019-08-22T18:15:00+02:00",
                 "start": "18:15",
                 "duration": "01:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "GRRQTX",
                 "url": "http://talx.thm.cloud/thms/talk/GRRQTX/",
                 "title": "Als Netzaktivistin im Bundestag \u2013 Insider Einblicke und Mitmachm\u00f6glichkeiten",
@@ -4575,7 +4356,7 @@
                 "date": "2019-08-22T19:30:00+02:00",
                 "start": "19:30",
                 "duration": "00:30",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "MRJQ7S",
                 "url": "http://talx.thm.cloud/thms/talk/MRJQ7S/",
                 "title": "Denn so wissen wir, was sie tun: Das Berliner Transparenzgesetz",
@@ -4607,7 +4388,7 @@
                 "date": "2019-08-22T20:15:00+02:00",
                 "start": "20:15",
                 "duration": "01:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "LJQNKC",
                 "url": "http://talx.thm.cloud/thms/talk/LJQNKC/",
                 "title": "Logbuch:Netzpolitik",
@@ -4646,7 +4427,7 @@
                 "date": "2019-08-22T21:30:00+02:00",
                 "start": "21:30",
                 "duration": "01:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "9P8DR9",
                 "url": "http://talx.thm.cloud/thms/talk/9P8DR9/",
                 "title": "15 Jahre netzpolitik.org",
@@ -4678,7 +4459,7 @@
                 "date": "2019-08-22T23:00:00+02:00",
                 "start": "23:00",
                 "duration": "02:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "QTLVBH",
                 "url": "http://talx.thm.cloud/thms/talk/QTLVBH/",
                 "title": "Trummerschlunk",
@@ -4710,7 +4491,7 @@
                 "date": "2019-08-23T01:00:00+02:00",
                 "start": "01:00",
                 "duration": "02:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "UPTJXZ",
                 "url": "http://talx.thm.cloud/thms/talk/UPTJXZ/",
                 "title": "Meta Meta Cloud Beats",
@@ -5036,6 +4817,220 @@
                   }
                 ],
                 "attachments": []
+              }
+            ],
+            "Johnson (Workshop 1)": [
+              {
+                "id": 1045,
+                "guid": "886dfb0c-900f-47e1-bcb2-a5dc14c09a10",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:CCChoir",
+                "logo": null,
+                "date": "2019-08-22T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "1:30",
+                "room": "Johnson (Workshop 1)",
+                "slug": "camp2019-1045-session_ccchoir",
+                "title": "CCChoir",
+                "subtitle": "Bach vs Pythagoras, Runde 1",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "de",
+                "abstract": "",
+                "description": "Offene Chorprobe und physikalische Grundlagen der Musik",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1283,
+                "guid": "7db3ec84-5dc0-46a3-b30e-8fa3eb9560b6",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices",
+                "logo": null,
+                "date": "2019-08-22T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:30",
+                "room": "Johnson (Workshop 1)",
+                "slug": "camp2019-1283-session_creating_z_wave_controllers_and_devices",
+                "title": "Creating Z-Wave controllers and devices",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Hacking around Z-Wave smart home protocol",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:PoltoS",
+                    "public_name": "PoltoS"
+                  }
+                ],
+                "links": [
+                  "http://z-uno.z-wave.me"
+                ]
+              },
+              {
+                "id": 1262,
+                "guid": "afa80109-3761-4b3f-b2e8-57087d164b0d",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:NixOS_Install_Party",
+                "logo": null,
+                "date": "2019-08-22T12:45:00+02:00",
+                "start": "12:45",
+                "duration": "1:15",
+                "room": "Johnson (Workshop 1)",
+                "slug": "camp2019-1262-session_nixos_install_party",
+                "title": "NixOS Install Party",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Try NixOS on your laptop or in a VM",
+                "persons": [],
+                "links": [
+                  "https://nixos.org"
+                ]
+              },
+              {
+                "id": 1418,
+                "guid": "878b10d1-38ae-447d-bba8-6e5aea951592",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Rust_l0dables_on_the_card10_badge",
+                "logo": null,
+                "date": "2019-08-22T19:00:00+02:00",
+                "start": "19:00",
+                "duration": "0:45",
+                "room": "Johnson (Workshop 1)",
+                "slug": "camp2019-1418-session_rust_l0dables_on_the_card10_badge",
+                "title": "Rust l0dables on the card10 badge",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Write applications for the card10 in the Rust programming language",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Astro",
+                    "public_name": "Astro"
+                  }
+                ],
+                "links": [
+                  "https://git.card10.badge.events.ccc.de/astro/rust-card10"
+                ]
+              },
+              {
+                "id": 1248,
+                "guid": "de5f9fba-3854-4a9d-b3f0-69e409f01b79",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Why_NixOS%3F",
+                "logo": null,
+                "date": "2019-08-22T12:00:00+02:00",
+                "start": "12:00",
+                "duration": "0:45",
+                "room": "Johnson (Workshop 1)",
+                "slug": "camp2019-1248-session_why_nixos_",
+                "title": "Why NixOS?",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "A Presentation about NixOS for newcomers.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Palo",
+                    "public_name": "Palo"
+                  }
+                ],
+                "links": [
+                  "https://tech.ingolf-wagner.de/slides/why-nixos/"
+                ]
+              }
+            ],
+            "Goldberg (Workshop 2)": [
+              {
+                "id": 1177,
+                "guid": "f827e2f7-55c1-4f65-b2a4-aa77da48549b",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Arch_Linux_Meetup",
+                "logo": null,
+                "date": "2019-08-22T19:00:00+02:00",
+                "start": "19:00",
+                "duration": "2:00",
+                "room": "Goldberg (Workshop 2)",
+                "slug": "camp2019-1177-session_arch_linux_meetup",
+                "title": "Arch Linux Meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "Arch Linux user meetup",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Foxboron",
+                    "public_name": "Foxboron"
+                  }
+                ],
+                "links": [
+                  "https://archlinux.org"
+                ]
+              },
+              {
+                "id": 1066,
+                "guid": "8563f582-f24e-4027-9a26-1725098b2b53",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken",
+                "logo": null,
+                "date": "2019-08-22T21:00:00+02:00",
+                "start": "21:00",
+                "duration": "2:00",
+                "room": "Goldberg (Workshop 2)",
+                "slug": "camp2019-1066-session_esperanto_a_planned_nerd_language_actually_spoken",
+                "title": "Esperanto \u2013 a planned nerd language actually spoken",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "A short introduction into the international language Esperanto. A planned language actually spoken by nerds all over the world",
+                "persons": [],
+                "links": [
+                  "https://github.com/johannes-mueller/esperanto-35c3",
+                  "https://c3eo.chaotik.de"
+                ]
+              },
+              {
+                "id": 1231,
+                "guid": "ca75968c-338d-4a45-a41b-594c83b34d70",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Reproducible_Builds_Meetup",
+                "logo": null,
+                "date": "2019-08-22T13:30:00+02:00",
+                "start": "13:30",
+                "duration": "1:00",
+                "room": "Goldberg (Workshop 2)",
+                "slug": "camp2019-1231-session_reproducible_builds_meetup",
+                "title": "Reproducible Builds Meetup",
+                "subtitle": "Reproducible build introduction and discussion",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "Meeting and discussion about the Reproducible Builds project.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Foxboron",
+                    "public_name": "Foxboron"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Jelly",
+                    "public_name": "Jelly"
+                  }
+                ],
+                "links": [
+                  "https://reproducible-builds.org/"
+                ]
               }
             ],
             "Village:Three Headed Monkey": [
@@ -7645,161 +7640,7 @@
                 "attachments": []
               }
             ],
-            "Plank": [],
-            "Hackcenter": [
-              {
-                "id": 1041,
-                "guid": "7976438d-2b1a-4303-96f5-d6846c9f42f6",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bodymind_Operating_System",
-                "logo": null,
-                "date": "2019-08-23T17:30:00+02:00",
-                "start": "17:30",
-                "duration": "2:00",
-                "room": "Hackcenter",
-                "slug": "camp2019-1041-session_bodymind_operating_system",
-                "title": "Bodymind Operating System",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Physical practice session where we explore the notions of hacking through the human body.",
-                "persons": [],
-                "links": [
-                  "http://www.8os.io"
-                ]
-              },
-              {
-                "id": 1232,
-                "guid": "fe13b901-cc23-4258-91cb-631e29cebe39",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant",
-                "logo": null,
-                "date": "2019-08-23T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "1:30",
-                "room": "Hackcenter",
-                "slug": "camp2019-1232-session_susi_ai_open_source_voice_assistant",
-                "title": "SUSI.AI Open Source Voice Assistant",
-                "subtitle": "Learn about SUSI.AI and how to build your own smart speaker",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:MarioB",
-                    "public_name": "MarioB"
-                  }
-                ],
-                "links": [
-                  "https://susi.ai"
-                ]
-              }
-            ],
-            "Johnson (Workshop 1)": [
-              {
-                "id": 1383,
-                "guid": "3baf0897-ca98-4031-a4ae-aa29e47248b6",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Numerical_Weather_Prediction_tutorial",
-                "logo": null,
-                "date": "2019-08-23T13:00:00+02:00",
-                "start": "13:00",
-                "duration": "3:00",
-                "room": "Johnson (Workshop 1)",
-                "slug": "camp2019-1383-session_numerical_weather_prediction_tutorial",
-                "title": "Numerical Weather Prediction tutorial",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Run your own weather model",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Tecer",
-                    "public_name": "Tecer"
-                  }
-                ],
-                "links": [
-                  "https://git.hacknology.de/projekte/wrftut"
-                ]
-              }
-            ],
-            "Goldberg (Workshop 2)": [
-              {
-                "id": 1321,
-                "guid": "1953ae86-7a6b-4a3f-b80f-71490d017842",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen",
-                "logo": null,
-                "date": "2019-08-23T14:00:00+02:00",
-                "start": "14:00",
-                "duration": "1:00",
-                "room": "Goldberg (Workshop 2)",
-                "slug": "camp2019-1321-session_binaergewitter_hoerertreffen",
-                "title": "Bin\u00e4rgewitter H\u00f6rertreffen",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "de",
-                "abstract": "",
-                "description": "H\u00f6rertreffen des Bin\u00e4rgewitter Podcasts",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Makefu",
-                    "public_name": "Makefu"
-                  }
-                ],
-                "links": [
-                  "https://krepel.us"
-                ]
-              },
-              {
-                "id": 1316,
-                "guid": "01a0c21a-8b90-4387-9198-8e80cccb18a8",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Extra_Thumb_Workshop",
-                "logo": null,
-                "date": "2019-08-23T14:00:00+02:00",
-                "start": "14:00",
-                "duration": "3:00",
-                "room": "Goldberg (Workshop 2)",
-                "slug": "camp2019-1316-session_extra_thumb_workshop",
-                "title": "Extra Thumb Workshop",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Make yourself an extra functional thumb, and see if you like it.",
-                "persons": [],
-                "links": []
-              },
-              {
-                "id": 1296,
-                "guid": "4a5e8ab5-afa7-4bcd-9260-bf4ba79f1814",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Learning_to_see_in_3D",
-                "logo": null,
-                "date": "2019-08-23T10:30:00+02:00",
-                "start": "10:30",
-                "duration": "1:00",
-                "room": "Goldberg (Workshop 2)",
-                "slug": "camp2019-1296-session_learning_to_see_in_3d",
-                "title": "Learning to see in 3D",
-                "subtitle": "Introduction, Hands-On",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Can you hack how you see with Virtual RealiTy to rediscover your full sense of 3D?  Try out the new system, meet other interested people, plot and plan.",
-                "persons": [],
-                "links": []
-              }
-            ],
-            "THM Workshop": [],
-            "Plank (Stage)": [
+            "Plank": [
               {
                 "id": 152,
                 "guid": "e960e678-a20b-53bf-8b93-11161b0248b6",
@@ -7807,7 +7648,7 @@
                 "date": "2019-08-23T03:00:00+02:00",
                 "start": "03:00",
                 "duration": "02:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "9MFGLW",
                 "url": "http://talx.thm.cloud/thms/talk/9MFGLW/",
                 "title": "Piet",
@@ -7839,7 +7680,7 @@
                 "date": "2019-08-23T15:00:00+02:00",
                 "start": "15:00",
                 "duration": "01:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "ARDC3J",
                 "url": "http://talx.thm.cloud/thms/talk/ARDC3J/",
                 "title": "Sinn von Unsinn unterscheiden - Glaub ich's oder glaub ich's nicht?",
@@ -7871,7 +7712,7 @@
                 "date": "2019-08-23T16:15:00+02:00",
                 "start": "16:15",
                 "duration": "00:30",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "QULQKV",
                 "url": "http://talx.thm.cloud/thms/talk/QULQKV/",
                 "title": "(emulate|fuzz|break) kernels",
@@ -7903,7 +7744,7 @@
                 "date": "2019-08-23T17:00:00+02:00",
                 "start": "17:00",
                 "duration": "00:30",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "Z3VR8P",
                 "url": "http://talx.thm.cloud/thms/talk/Z3VR8P/",
                 "title": "Cryptography of Killing Proof-of-Work",
@@ -7935,7 +7776,7 @@
                 "date": "2019-08-23T18:30:00+02:00",
                 "start": "18:30",
                 "duration": "01:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "ACSFZ7",
                 "url": "http://talx.thm.cloud/thms/talk/ACSFZ7/",
                 "title": "E-Mail-Privatheit und Mailbox-Verschl\u00fcsselung",
@@ -7967,7 +7808,7 @@
                 "date": "2019-08-23T19:45:00+02:00",
                 "start": "19:45",
                 "duration": "01:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "GYWNQP",
                 "url": "http://talx.thm.cloud/thms/talk/GYWNQP/",
                 "title": "Elektroschrott - Welchen letzten Weg geht mein PC?",
@@ -7999,7 +7840,7 @@
                 "date": "2019-08-23T21:30:00+02:00",
                 "start": "21:30",
                 "duration": "01:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "3UBEUB",
                 "url": "http://talx.thm.cloud/thms/talk/3UBEUB/",
                 "title": "Systemabsturz",
@@ -8031,7 +7872,7 @@
                 "date": "2019-08-23T23:00:00+02:00",
                 "start": "23:00",
                 "duration": "01:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "DKGDLN",
                 "url": "http://talx.thm.cloud/thms/talk/DKGDLN/",
                 "title": "Digitale Freiheit",
@@ -8063,7 +7904,7 @@
                 "date": "2019-08-24T00:00:00+02:00",
                 "start": "00:00",
                 "duration": "02:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "QWFLJN",
                 "url": "http://talx.thm.cloud/thms/talk/QWFLJN/",
                 "title": "Drum&Bass",
@@ -8095,7 +7936,7 @@
                 "date": "2019-08-24T02:00:00+02:00",
                 "start": "02:00",
                 "duration": "02:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "8GEREV",
                 "url": "http://talx.thm.cloud/thms/talk/8GEREV/",
                 "title": "Delaydi and Saetchmo bassploring space",
@@ -8416,6 +8257,158 @@
                 "persons": [],
                 "links": [],
                 "attachments": []
+              }
+            ],
+            "Hackcenter": [
+              {
+                "id": 1041,
+                "guid": "7976438d-2b1a-4303-96f5-d6846c9f42f6",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bodymind_Operating_System",
+                "logo": null,
+                "date": "2019-08-23T17:30:00+02:00",
+                "start": "17:30",
+                "duration": "2:00",
+                "room": "Hackcenter",
+                "slug": "camp2019-1041-session_bodymind_operating_system",
+                "title": "Bodymind Operating System",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Physical practice session where we explore the notions of hacking through the human body.",
+                "persons": [],
+                "links": [
+                  "http://www.8os.io"
+                ]
+              },
+              {
+                "id": 1232,
+                "guid": "fe13b901-cc23-4258-91cb-631e29cebe39",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant",
+                "logo": null,
+                "date": "2019-08-23T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:30",
+                "room": "Hackcenter",
+                "slug": "camp2019-1232-session_susi_ai_open_source_voice_assistant",
+                "title": "SUSI.AI Open Source Voice Assistant",
+                "subtitle": "Learn about SUSI.AI and how to build your own smart speaker",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:MarioB",
+                    "public_name": "MarioB"
+                  }
+                ],
+                "links": [
+                  "https://susi.ai"
+                ]
+              }
+            ],
+            "Johnson (Workshop 1)": [
+              {
+                "id": 1383,
+                "guid": "3baf0897-ca98-4031-a4ae-aa29e47248b6",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Numerical_Weather_Prediction_tutorial",
+                "logo": null,
+                "date": "2019-08-23T13:00:00+02:00",
+                "start": "13:00",
+                "duration": "3:00",
+                "room": "Johnson (Workshop 1)",
+                "slug": "camp2019-1383-session_numerical_weather_prediction_tutorial",
+                "title": "Numerical Weather Prediction tutorial",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Run your own weather model",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Tecer",
+                    "public_name": "Tecer"
+                  }
+                ],
+                "links": [
+                  "https://git.hacknology.de/projekte/wrftut"
+                ]
+              }
+            ],
+            "Goldberg (Workshop 2)": [
+              {
+                "id": 1321,
+                "guid": "1953ae86-7a6b-4a3f-b80f-71490d017842",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen",
+                "logo": null,
+                "date": "2019-08-23T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "1:00",
+                "room": "Goldberg (Workshop 2)",
+                "slug": "camp2019-1321-session_binaergewitter_hoerertreffen",
+                "title": "Bin\u00e4rgewitter H\u00f6rertreffen",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "H\u00f6rertreffen des Bin\u00e4rgewitter Podcasts",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Makefu",
+                    "public_name": "Makefu"
+                  }
+                ],
+                "links": [
+                  "https://krepel.us"
+                ]
+              },
+              {
+                "id": 1316,
+                "guid": "01a0c21a-8b90-4387-9198-8e80cccb18a8",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Extra_Thumb_Workshop",
+                "logo": null,
+                "date": "2019-08-23T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "3:00",
+                "room": "Goldberg (Workshop 2)",
+                "slug": "camp2019-1316-session_extra_thumb_workshop",
+                "title": "Extra Thumb Workshop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Make yourself an extra functional thumb, and see if you like it.",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1296,
+                "guid": "4a5e8ab5-afa7-4bcd-9260-bf4ba79f1814",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Learning_to_see_in_3D",
+                "logo": null,
+                "date": "2019-08-23T10:30:00+02:00",
+                "start": "10:30",
+                "duration": "1:00",
+                "room": "Goldberg (Workshop 2)",
+                "slug": "camp2019-1296-session_learning_to_see_in_3d",
+                "title": "Learning to see in 3D",
+                "subtitle": "Introduction, Hands-On",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Can you hack how you see with Virtual RealiTy to rediscover your full sense of 3D?  Try out the new system, meet other interested people, plot and plan.",
+                "persons": [],
+                "links": []
               }
             ],
             "Village:Backspace": [
@@ -10697,78 +10690,7 @@
                 "attachments": []
               }
             ],
-            "Plank": [],
-            "Hackcenter": [
-              {
-                "id": 1040,
-                "guid": "6ad28881-1413-46a4-837a-315359e19aeb",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Body/Mind_Hardware/Software",
-                "logo": null,
-                "date": "2019-08-24T18:00:00+02:00",
-                "start": "18:00",
-                "duration": "2:00",
-                "room": "Hackcenter",
-                "slug": "camp2019-1040-session_body_mind_hardware_software",
-                "title": "Body/Mind Hardware/Software",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "EightOS bodymind operating system",
-                "persons": [],
-                "links": [
-                  "http://www.8os.io"
-                ]
-              }
-            ],
-            "Johnson (Workshop 1)": [
-              {
-                "id": 1197,
-                "guid": "c8804eab-dadd-4307-ab8c-e19f4a5d769f",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Fair_Ticket_Sales_on_a_Capitalist_World",
-                "logo": null,
-                "date": "2019-08-24T20:00:00+02:00",
-                "start": "20:00",
-                "duration": "1:00",
-                "room": "Johnson (Workshop 1)",
-                "slug": "camp2019-1197-session_fair_ticket_sales_on_a_capitalist_world",
-                "title": "Fair Ticket Sales on a Capitalist World",
-                "subtitle": "Welcome to capitalism where prices regulate the differences between deman and supply, or do they?",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "en",
-                "abstract": "",
-                "description": "In this open discussion we will discuss solutions taken by organizations to address ticket sales at fair prices when demand significantly outgrows supply",
-                "persons": [],
-                "links": []
-              },
-              {
-                "id": 1379,
-                "guid": "0c0709ed-6fba-4013-aa75-fcfc4f07e1c7",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:You_broke_the_internet,_let_us_build_a_GNU_one",
-                "logo": null,
-                "date": "2019-08-24T14:00:00+02:00",
-                "start": "14:00",
-                "duration": "1:30",
-                "room": "Johnson (Workshop 1)",
-                "slug": "camp2019-1379-session_you_broke_the_internet_let_us_build_a_gnu_one",
-                "title": "You broke the internet, let us build a GNU one",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "en",
-                "abstract": "",
-                "description": "GNUnet meetup for the community",
-                "persons": [],
-                "links": [
-                  "https://gnunet.org"
-                ]
-              }
-            ],
-            "Goldberg (Workshop 2)": [],
-            "THM Workshop": [],
-            "Plank (Stage)": [
+            "Plank": [
               {
                 "id": 111,
                 "guid": "93312758-6925-5e84-85b5-3b80f92a0faa",
@@ -10776,7 +10698,7 @@
                 "date": "2019-08-24T15:00:00+02:00",
                 "start": "15:00",
                 "duration": "01:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "P9JCSV",
                 "url": "http://talx.thm.cloud/thms/talk/P9JCSV/",
                 "title": "Global Warming Sucks!",
@@ -10808,7 +10730,7 @@
                 "date": "2019-08-24T16:15:00+02:00",
                 "start": "16:15",
                 "duration": "01:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "FLXJRA",
                 "url": "http://talx.thm.cloud/thms/talk/FLXJRA/",
                 "title": "Climate breakdown \u2013 the bleak reality",
@@ -10840,7 +10762,7 @@
                 "date": "2019-08-24T18:30:00+02:00",
                 "start": "18:30",
                 "duration": "02:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "FMQ3UN",
                 "url": "http://talx.thm.cloud/thms/talk/FMQ3UN/",
                 "title": "Chaosradio 254",
@@ -10872,7 +10794,7 @@
                 "date": "2019-08-24T20:45:00+02:00",
                 "start": "20:45",
                 "duration": "02:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "ULS83P",
                 "url": "http://talx.thm.cloud/thms/talk/ULS83P/",
                 "title": "Freak Show",
@@ -10939,7 +10861,7 @@
                 "date": "2019-08-24T23:00:00+02:00",
                 "start": "23:00",
                 "duration": "02:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "HSZXE7",
                 "url": "http://talx.thm.cloud/thms/talk/HSZXE7/",
                 "title": "Tschunkelmusik",
@@ -11304,6 +11226,74 @@
                 "persons": [],
                 "links": [],
                 "attachments": []
+              }
+            ],
+            "Hackcenter": [
+              {
+                "id": 1040,
+                "guid": "6ad28881-1413-46a4-837a-315359e19aeb",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Body/Mind_Hardware/Software",
+                "logo": null,
+                "date": "2019-08-24T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "2:00",
+                "room": "Hackcenter",
+                "slug": "camp2019-1040-session_body_mind_hardware_software",
+                "title": "Body/Mind Hardware/Software",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "EightOS bodymind operating system",
+                "persons": [],
+                "links": [
+                  "http://www.8os.io"
+                ]
+              }
+            ],
+            "Johnson (Workshop 1)": [
+              {
+                "id": 1197,
+                "guid": "c8804eab-dadd-4307-ab8c-e19f4a5d769f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Fair_Ticket_Sales_on_a_Capitalist_World",
+                "logo": null,
+                "date": "2019-08-24T20:00:00+02:00",
+                "start": "20:00",
+                "duration": "1:00",
+                "room": "Johnson (Workshop 1)",
+                "slug": "camp2019-1197-session_fair_ticket_sales_on_a_capitalist_world",
+                "title": "Fair Ticket Sales on a Capitalist World",
+                "subtitle": "Welcome to capitalism where prices regulate the differences between deman and supply, or do they?",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "In this open discussion we will discuss solutions taken by organizations to address ticket sales at fair prices when demand significantly outgrows supply",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1379,
+                "guid": "0c0709ed-6fba-4013-aa75-fcfc4f07e1c7",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:You_broke_the_internet,_let_us_build_a_GNU_one",
+                "logo": null,
+                "date": "2019-08-24T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "1:30",
+                "room": "Johnson (Workshop 1)",
+                "slug": "camp2019-1379-session_you_broke_the_internet_let_us_build_a_gnu_one",
+                "title": "You broke the internet, let us build a GNU one",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "GNUnet meetup for the community",
+                "persons": [],
+                "links": [
+                  "https://gnunet.org"
+                ]
               }
             ],
             "Village:About:freedom": [
@@ -12889,12 +12879,7 @@
                 "attachments": []
               }
             ],
-            "Plank": [],
-            "Hackcenter": [],
-            "Johnson (Workshop 1)": [],
-            "Goldberg (Workshop 2)": [],
-            "THM Workshop": [],
-            "Plank (Stage)": [
+            "Plank": [
               {
                 "id": 166,
                 "guid": "85f449be-d06e-5ab8-bb06-a45f9d1347fa",
@@ -12902,7 +12887,7 @@
                 "date": "2019-08-25T03:00:00+02:00",
                 "start": "03:00",
                 "duration": "02:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "NKSSZ8",
                 "url": "http://talx.thm.cloud/thms/talk/NKSSZ8/",
                 "title": "We <3 Techno",
@@ -12934,7 +12919,7 @@
                 "date": "2019-08-25T05:00:00+02:00",
                 "start": "05:00",
                 "duration": "02:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "CNDUXW",
                 "url": "http://talx.thm.cloud/thms/talk/CNDUXW/",
                 "title": ".merlin",
@@ -12966,7 +12951,7 @@
                 "date": "2019-08-25T15:00:00+02:00",
                 "start": "15:00",
                 "duration": "00:30",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "TX3WKW",
                 "url": "http://talx.thm.cloud/thms/talk/TX3WKW/",
                 "title": "Capitana vs. Benito Salvini - \u00fcber die Erosion von Grundrechten und was wir dagegen tun k\u00f6nnen",
@@ -12998,7 +12983,7 @@
                 "date": "2019-08-25T15:45:00+02:00",
                 "start": "15:45",
                 "duration": "00:30",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "QHMZQM",
                 "url": "http://talx.thm.cloud/thms/talk/QHMZQM/",
                 "title": "ZpS - Bildung einer kriminellen Vereinigung",
@@ -13037,7 +13022,7 @@
                 "date": "2019-08-25T16:30:00+02:00",
                 "start": "16:30",
                 "duration": "01:00",
-                "room": "Plank (Stage)",
+                "room": "Plank",
                 "slug": "7QKPYA",
                 "url": "http://talx.thm.cloud/thms/talk/7QKPYA/",
                 "title": "Verstehbahnhof and beyond -- building the ultimate digital playground",

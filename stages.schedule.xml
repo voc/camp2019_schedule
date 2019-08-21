@@ -548,18 +548,13 @@ We will use software methods (rooting) and hardware methods (flash dumping). Usi
         <attachments/>
       </event>
     </room>
-    <room name="Plank"/>
-    <room name="Hackcenter"/>
-    <room name="Johnson (Workshop 1)"/>
-    <room name="Goldberg (Workshop 2)"/>
-    <room name="THM Workshop"/>
-    <room name="Plank (Stage)">
+    <room name="Plank">
       <event id="141" guid="74ebea5d-e24e-55a0-99a4-f13879394f48">
         <logo/>
         <date>2019-08-21T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>VFBKTL</slug>
         <url>http://talx.thm.cloud/thms/talk/VFBKTL/</url>
         <title>Sozial-ökologische Dimensionen von Digitalisierung</title>
@@ -590,7 +585,7 @@ Anhand von Beispielen wird gezeigt, welche Rebound-Effekte in dem Zusammenhang b
         <date>2019-08-21T16:15:00+02:00</date>
         <start>16:15</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>ET9CFU</slug>
         <url>http://talx.thm.cloud/thms/talk/ET9CFU/</url>
         <title>Konviviale Software vor und jenseits des digitalen Kapitalismus</title>
@@ -620,7 +615,7 @@ Anhand von Beispielen wird gezeigt, welche Rebound-Effekte in dem Zusammenhang b
         <date>2019-08-21T18:30:00+02:00</date>
         <start>18:30</start>
         <duration>00:30</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>ASYLJ8</slug>
         <url>http://talx.thm.cloud/thms/talk/ASYLJ8/</url>
         <title>Wo lässt Du zwecklose Widerstände?</title>
@@ -656,7 +651,7 @@ Der Kurzvortrag gibt einen Einstieg ins Thema und erklärt, was ich vorhabe, wen
         <date>2019-08-21T19:15:00+02:00</date>
         <start>19:15</start>
         <duration>00:30</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>KXW3SP</slug>
         <url>http://talx.thm.cloud/thms/talk/KXW3SP/</url>
         <title>FridaysForFuture was, wie, warum?</title>
@@ -690,7 +685,7 @@ FridaysForFuture - die größte SchülerInnenbewegung aller Zeiten weltweit. Wie
         <date>2019-08-21T20:00:00+02:00</date>
         <start>20:00</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>PEXUEM</slug>
         <url>http://talx.thm.cloud/thms/talk/PEXUEM/</url>
         <title>Nice View Reporter</title>
@@ -732,7 +727,7 @@ Seit 2003 Mitgründer und Heimleiter der &amp;bdquo;Restrealitaet&amp;ldquo;, ei
         <date>2019-08-21T21:10:00+02:00</date>
         <start>21:10</start>
         <duration>00:30</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>NWNHJ3</slug>
         <url>http://talx.thm.cloud/thms/talk/NWNHJ3/</url>
         <title>Über die Nachhaltigkeit von Software</title>
@@ -789,7 +784,7 @@ die Zukunft zu erhalten</description>
         <date>2019-08-21T22:00:00+02:00</date>
         <start>22:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>DLS83T</slug>
         <url>http://talx.thm.cloud/thms/talk/DLS83T/</url>
         <title>live set</title>
@@ -819,7 +814,7 @@ die Zukunft zu erhalten</description>
         <date>2019-08-22T00:00:00+02:00</date>
         <start>00:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>FASSF7</slug>
         <url>http://talx.thm.cloud/thms/talk/FASSF7/</url>
         <title>Music Music Music (DJ-Set)</title>
@@ -850,7 +845,7 @@ Check out my mixes on [Soundcloud] (https://soundcloud.com/barbnerdy)</descripti
         <date>2019-08-22T02:00:00+02:00</date>
         <start>02:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>PHGYF8</slug>
         <url>http://talx.thm.cloud/thms/talk/PHGYF8/</url>
         <title>Beh</title>
@@ -2467,18 +2462,13 @@ Ziel 2: Workflows entwickeln, die Organisationen das Management von vielen Proje
         <answers/>
       </event>
     </room>
-    <room name="Plank"/>
-    <room name="Hackcenter"/>
-    <room name="Johnson (Workshop 1)"/>
-    <room name="Goldberg (Workshop 2)"/>
-    <room name="THM Workshop"/>
-    <room name="Plank (Stage)">
+    <room name="Plank">
       <event id="139" guid="0ef9486d-7f7a-5298-9042-3e55c19768d2">
         <logo/>
         <date>2019-08-22T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>WCSCAX</slug>
         <url>http://talx.thm.cloud/thms/talk/WCSCAX/</url>
         <title>Blockchain: Proof of ignorance</title>
@@ -2512,7 +2502,7 @@ So, why does blockchain does not solve any problem and only grants liberty and a
         <date>2019-08-22T16:15:00+02:00</date>
         <start>16:15</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>LEA7LY</slug>
         <url>http://talx.thm.cloud/thms/talk/LEA7LY/</url>
         <title>Dissecting the AMD Platform Security Processor</title>
@@ -2551,7 +2541,7 @@ AMD introduced the AMD Secure Processor to provide a trusted execution environme
         <date>2019-08-22T18:15:00+02:00</date>
         <start>18:15</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>GRRQTX</slug>
         <url>http://talx.thm.cloud/thms/talk/GRRQTX/</url>
         <title>Als Netzaktivistin im Bundestag – Insider Einblicke und Mitmachmöglichkeiten</title>
@@ -2625,7 +2615,7 @@ wissen, was sie tun.</description>
         <date>2019-08-22T19:30:00+02:00</date>
         <start>19:30</start>
         <duration>00:30</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>MRJQ7S</slug>
         <url>http://talx.thm.cloud/thms/talk/MRJQ7S/</url>
         <title>Denn so wissen wir, was sie tun: Das Berliner Transparenzgesetz</title>
@@ -2655,7 +2645,7 @@ wissen, was sie tun.</description>
         <date>2019-08-22T20:15:00+02:00</date>
         <start>20:15</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>LJQNKC</slug>
         <url>http://talx.thm.cloud/thms/talk/LJQNKC/</url>
         <title>Logbuch:Netzpolitik</title>
@@ -2690,7 +2680,7 @@ wissen, was sie tun.</description>
         <date>2019-08-22T21:30:00+02:00</date>
         <start>21:30</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>9P8DR9</slug>
         <url>http://talx.thm.cloud/thms/talk/9P8DR9/</url>
         <title>15 Jahre netzpolitik.org</title>
@@ -2722,7 +2712,7 @@ Mit Bildern, Screenshots und vielleicht auch dem einen oder anderen kurzen Video
         <date>2019-08-22T23:00:00+02:00</date>
         <start>23:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>QTLVBH</slug>
         <url>http://talx.thm.cloud/thms/talk/QTLVBH/</url>
         <title>Trummerschlunk</title>
@@ -2752,7 +2742,7 @@ Mit Bildern, Screenshots und vielleicht auch dem einen oder anderen kurzen Video
         <date>2019-08-23T01:00:00+02:00</date>
         <start>01:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>UPTJXZ</slug>
         <url>http://talx.thm.cloud/thms/talk/UPTJXZ/</url>
         <title>Meta Meta Cloud Beats</title>
@@ -3754,18 +3744,13 @@ These tools, called Dreams and Realities are run alongside a customized version 
         <attachments/>
       </event>
     </room>
-    <room name="Plank"/>
-    <room name="Hackcenter"/>
-    <room name="Johnson (Workshop 1)"/>
-    <room name="Goldberg (Workshop 2)"/>
-    <room name="THM Workshop"/>
-    <room name="Plank (Stage)">
+    <room name="Plank">
       <event id="152" guid="e960e678-a20b-53bf-8b93-11161b0248b6">
         <logo/>
         <date>2019-08-23T03:00:00+02:00</date>
         <start>03:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>9MFGLW</slug>
         <url>http://talx.thm.cloud/thms/talk/9MFGLW/</url>
         <title>Piet</title>
@@ -3795,7 +3780,7 @@ These tools, called Dreams and Realities are run alongside a customized version 
         <date>2019-08-23T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>ARDC3J</slug>
         <url>http://talx.thm.cloud/thms/talk/ARDC3J/</url>
         <title>Sinn von Unsinn unterscheiden - Glaub ich's oder glaub ich's nicht?</title>
@@ -3825,7 +3810,7 @@ These tools, called Dreams and Realities are run alongside a customized version 
         <date>2019-08-23T16:15:00+02:00</date>
         <start>16:15</start>
         <duration>00:30</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>QULQKV</slug>
         <url>http://talx.thm.cloud/thms/talk/QULQKV/</url>
         <title>(emulate|fuzz|break) kernels</title>
@@ -3862,7 +3847,7 @@ To stay on the punny side of things, we shall call this method *unicorefuzz*.</d
         <date>2019-08-23T17:00:00+02:00</date>
         <start>17:00</start>
         <duration>00:30</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>Z3VR8P</slug>
         <url>http://talx.thm.cloud/thms/talk/Z3VR8P/</url>
         <title>Cryptography of Killing Proof-of-Work</title>
@@ -3898,7 +3883,7 @@ I've worked with most, and carefully implemented several, of the primitives bein
         <date>2019-08-23T18:30:00+02:00</date>
         <start>18:30</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>ACSFZ7</slug>
         <url>http://talx.thm.cloud/thms/talk/ACSFZ7/</url>
         <title>E-Mail-Privatheit und Mailbox-Verschlüsselung</title>
@@ -3932,7 +3917,7 @@ Userli verwendet das Dovecot MailCrypt Plugin und libsodium um Postfächer zu ve
         <date>2019-08-23T19:45:00+02:00</date>
         <start>19:45</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>GYWNQP</slug>
         <url>http://talx.thm.cloud/thms/talk/GYWNQP/</url>
         <title>Elektroschrott - Welchen letzten Weg geht mein PC?</title>
@@ -3962,7 +3947,7 @@ Userli verwendet das Dovecot MailCrypt Plugin und libsodium um Postfächer zu ve
         <date>2019-08-23T21:30:00+02:00</date>
         <start>21:30</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>3UBEUB</slug>
         <url>http://talx.thm.cloud/thms/talk/3UBEUB/</url>
         <title>Systemabsturz</title>
@@ -3996,7 +3981,7 @@ einen weiteren Abbau der Freiheitsrechte und noch mehr Überwachung.</abstract>
         <date>2019-08-23T23:00:00+02:00</date>
         <start>23:00</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>DKGDLN</slug>
         <url>http://talx.thm.cloud/thms/talk/DKGDLN/</url>
         <title>Digitale Freiheit</title>
@@ -4026,7 +4011,7 @@ einen weiteren Abbau der Freiheitsrechte und noch mehr Überwachung.</abstract>
         <date>2019-08-24T00:00:00+02:00</date>
         <start>00:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>QWFLJN</slug>
         <url>http://talx.thm.cloud/thms/talk/QWFLJN/</url>
         <title>Drum&amp;Bass</title>
@@ -4062,7 +4047,7 @@ Her favorite producers are Calyx, Matrix, Ed Rush &amp; Optical, Teebee, Break, 
         <date>2019-08-24T02:00:00+02:00</date>
         <start>02:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>8GEREV</slug>
         <url>http://talx.thm.cloud/thms/talk/8GEREV/</url>
         <title>Delaydi and Saetchmo bassploring space</title>
@@ -4933,18 +4918,13 @@ I am currently doing my PhD at a research institute that focuses on embedded sec
         <attachments/>
       </event>
     </room>
-    <room name="Plank"/>
-    <room name="Hackcenter"/>
-    <room name="Johnson (Workshop 1)"/>
-    <room name="Goldberg (Workshop 2)"/>
-    <room name="THM Workshop"/>
-    <room name="Plank (Stage)">
+    <room name="Plank">
       <event id="111" guid="93312758-6925-5e84-85b5-3b80f92a0faa">
         <logo>/media/thms/images/P9JCSV/Im_Eis_Ronja_Reese.png</logo>
         <date>2019-08-24T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>P9JCSV</slug>
         <url>http://talx.thm.cloud/thms/talk/P9JCSV/</url>
         <title>Global Warming Sucks!</title>
@@ -4974,7 +4954,7 @@ I am currently doing my PhD at a research institute that focuses on embedded sec
         <date>2019-08-24T16:15:00+02:00</date>
         <start>16:15</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>FLXJRA</slug>
         <url>http://talx.thm.cloud/thms/talk/FLXJRA/</url>
         <title>Climate breakdown – the bleak reality</title>
@@ -5013,7 +4993,7 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <date>2019-08-24T18:30:00+02:00</date>
         <start>18:30</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>FMQ3UN</slug>
         <url>http://talx.thm.cloud/thms/talk/FMQ3UN/</url>
         <title>Chaosradio 254</title>
@@ -5043,7 +5023,7 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <date>2019-08-24T20:45:00+02:00</date>
         <start>20:45</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>ULS83P</slug>
         <url>http://talx.thm.cloud/thms/talk/ULS83P/</url>
         <title>Freak Show</title>
@@ -5100,7 +5080,7 @@ https://freakshow.fm</description>
         <date>2019-08-24T23:00:00+02:00</date>
         <start>23:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>HSZXE7</slug>
         <url>http://talx.thm.cloud/thms/talk/HSZXE7/</url>
         <title>Tschunkelmusik</title>
@@ -5750,18 +5730,13 @@ The laws of physics inherently contain dynamics capable of creating aestheticall
         <attachments/>
       </event>
     </room>
-    <room name="Plank"/>
-    <room name="Hackcenter"/>
-    <room name="Johnson (Workshop 1)"/>
-    <room name="Goldberg (Workshop 2)"/>
-    <room name="THM Workshop"/>
-    <room name="Plank (Stage)">
+    <room name="Plank">
       <event id="166" guid="85f449be-d06e-5ab8-bb06-a45f9d1347fa">
         <logo/>
         <date>2019-08-25T03:00:00+02:00</date>
         <start>03:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>NKSSZ8</slug>
         <url>http://talx.thm.cloud/thms/talk/NKSSZ8/</url>
         <title>We &lt;3 Techno</title>
@@ -5797,7 +5772,7 @@ EOF</description>
         <date>2019-08-25T05:00:00+02:00</date>
         <start>05:00</start>
         <duration>02:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>CNDUXW</slug>
         <url>http://talx.thm.cloud/thms/talk/CNDUXW/</url>
         <title>.merlin</title>
@@ -5827,7 +5802,7 @@ EOF</description>
         <date>2019-08-25T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>TX3WKW</slug>
         <url>http://talx.thm.cloud/thms/talk/TX3WKW/</url>
         <title>Capitana vs. Benito Salvini - über die Erosion von Grundrechten und was wir dagegen tun können</title>
@@ -5857,7 +5832,7 @@ EOF</description>
         <date>2019-08-25T15:45:00+02:00</date>
         <start>15:45</start>
         <duration>00:30</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>QHMZQM</slug>
         <url>http://talx.thm.cloud/thms/talk/QHMZQM/</url>
         <title>ZpS - Bildung einer kriminellen Vereinigung</title>
@@ -5892,7 +5867,7 @@ EOF</description>
         <date>2019-08-25T16:30:00+02:00</date>
         <start>16:30</start>
         <duration>01:00</duration>
-        <room>Plank (Stage)</room>
+        <room>Plank</room>
         <slug>7QKPYA</slug>
         <url>http://talx.thm.cloud/thms/talk/7QKPYA/</url>
         <title>Verstehbahnhof and beyond -- building the ultimate digital playground</title>
