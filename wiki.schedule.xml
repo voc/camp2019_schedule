@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-21 22:50</version>
+  <version>2019-08-21 23:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -3562,6 +3562,26 @@
         <persons/>
         <links>
           <link>https://p0stap0calyptic.wordpress.com/</link>
+        </links>
+      </event>
+      <event id="1420" guid="4b72c9b7-1fe5-4f4b-9a31-21c0de7e9303">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:YunoHost_workshop:_install_your_own!</url>
+        <logo/>
+        <date>2019-08-23T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1420-session_yunohost_workshop_install_your_own_</slug>
+        <title>YunoHost workshop: install your own!</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Self-hosting apps for your friends and organization should be easy!</description>
+        <persons/>
+        <links>
+          <link>https://yunohost.org</link>
         </links>
       </event>
     </room>
