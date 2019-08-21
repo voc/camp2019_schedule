@@ -1,5 +1,5 @@
 <schedule>
-  <version>Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Idril; wiki 2019-08-21 17:40</version>
+  <version>Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Idril; wiki 2019-08-21 18:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -7403,7 +7403,10 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
         <language>en</language>
         <abstract/>
         <description>Unidirectional and bidirectional crosschain transfers using NIPoPoWs and Proof-of-Burn</description>
-        <persons/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gtklocker">Gtklocker</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Dionyziz">Dionyziz</person>
+        </persons>
         <links/>
       </event>
       <event id="1342" guid="dff8659b-3e7a-5769-9704-b7555b16d525">

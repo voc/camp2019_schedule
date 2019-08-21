@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Idril; wiki 2019-08-21 17:40",
+    "version": "Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Idril; wiki 2019-08-21 18:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -8250,7 +8250,18 @@
                 "language": "en",
                 "abstract": "",
                 "description": "Unidirectional and bidirectional crosschain transfers using NIPoPoWs and Proof-of-Burn",
-                "persons": [],
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gtklocker",
+                    "public_name": "Gtklocker"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Dionyziz",
+                    "public_name": "Dionyziz"
+                  }
+                ],
                 "links": []
               },
               {
