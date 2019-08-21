@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Deneb; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril",
+    "version": "Elnath; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril",
     "base_url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/",
     "conference": {
       "acronym": "Camp2019",
@@ -1208,7 +1208,7 @@
                 "type": "lecture",
                 "language": "en",
                 "abstract": "This case study of NoScript\u2019s UX redesign showcases tried and true design principles that make security tools usable to a wider range of audiences. \r\n",
-                "description": "Open source security tools are often associated with customizability and transparency: users are given many options (configurations, self-hosting), and system states are more often than not visible to users (detailed connection info, logs). Sometimes, that means bulky user interfaces and technical language, making an otherwise useful and recommended tool less usable for non-technical audiences. This presents a distinct design challenge: is it possible to build tools that are more usable without compromising on customizability and transparency?\r\n\r\nIn this talk, we will present some UX design principles based on our work with NoScript, a browser extension that allows users to fine-tune their script blocking in Firefox and Chrome/Chromium. We will focus on 1) building the minimally viable mental model, 2) choosing sensible default options, and 3) updating interface language for a wider audience.\r\n\r\nIn the course of that, we will also present our process of human-centered design for improving security tools. (Outlined here: https://simplysecure.org/what-we-do/usable-security-audit/ )\r\n",
+                "description": "Open source security tools are often associated with customizability and transparency: users are given many options (configurations, self-hosting), and system states are more often than not visible to users (detailed connection info, logs). Sometimes, that means bulky user interfaces and technical language, making an otherwise useful and recommended tool less usable for non-technical audiences. This presents a distinct design challenge: is it possible to build tools that are more usable without compromising on customizability and transparency?\r\n\r\nIn this talk, we will present some UX design principles based on our work with NoScript, a browser extension that allows users to fine-tune their script blocking in Firefox and Chrome/Chromium. We will focus on 1) understanding the value you add for your users, 2) choosing sensible default options, and 3) updating interface language for a wider audience.\r\n\r\nIn the course of that, we will also present our process of human-centered design for improving security tools. (Outlined here: https://simplysecure.org/what-we-do/usable-security-audit/ )\r\n",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -1324,7 +1324,7 @@
                 "room": "Curie",
                 "slug": "Camp2019-10357-fangespielen_mit_imsi-catchern",
                 "title": "Fangespielen mit IMSI-Catchern",
-                "subtitle": "Warum IMSI Catcher schlecht \"Verstecken\" spielen k\u00f6nnen",
+                "subtitle": "Warum IMSI Catcher schlecht \"Verstecken\" spielen",
                 "track": "Hardware & Making",
                 "type": "lecture",
                 "language": "de",

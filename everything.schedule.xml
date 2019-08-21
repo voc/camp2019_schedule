@@ -1,5 +1,5 @@
 <schedule>
-  <version>Deneb; thm Monkey Island 2: LeChuck’s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 11:20</version>
+  <version>Elnath; thm Monkey Island 2: LeChuck’s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 12:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -912,6 +912,26 @@ Check out my mixes on [Soundcloud] (https://soundcloud.com/barbnerdy)</descripti
       </event>
     </room>
     <room name="Johnson (Workshop 1)">
+      <event id="1359" guid="f38ff36c-3a0a-47e4-8969-091845b6c0a0">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Bitcoin,_Lightning_Network,_Ethereum_for_newbs</url>
+        <logo/>
+        <date>2019-08-21T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1359-session_bitcoin_lightning_network_ethereum_for_newbs</slug>
+        <title>Bitcoin, Lightning Network, Ethereum for newbs</title>
+        <subtitle>Hands-on crypto-currency wallet</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>how to create a wallet, backup and to transact</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Polto">Polto</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1284" guid="f4fa97e9-c253-4eb2-8695-83addfc593ea">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</url>
         <logo/>
@@ -2229,7 +2249,7 @@ Der Vortrag verfolgt den gesamten Weg der letzten drei Jahre: von der ersten Kon
 </abstract>
         <description>Open source security tools are often associated with customizability and transparency: users are given many options (configurations, self-hosting), and system states are more often than not visible to users (detailed connection info, logs). Sometimes, that means bulky user interfaces and technical language, making an otherwise useful and recommended tool less usable for non-technical audiences. This presents a distinct design challenge: is it possible to build tools that are more usable without compromising on customizability and transparency?&#13;
 &#13;
-In this talk, we will present some UX design principles based on our work with NoScript, a browser extension that allows users to fine-tune their script blocking in Firefox and Chrome/Chromium. We will focus on 1) building the minimally viable mental model, 2) choosing sensible default options, and 3) updating interface language for a wider audience.&#13;
+In this talk, we will present some UX design principles based on our work with NoScript, a browser extension that allows users to fine-tune their script blocking in Firefox and Chrome/Chromium. We will focus on 1) understanding the value you add for your users, 2) choosing sensible default options, and 3) updating interface language for a wider audience.&#13;
 &#13;
 In the course of that, we will also present our process of human-centered design for improving security tools. (Outlined here: https://simplysecure.org/what-we-do/usable-security-audit/ )&#13;
 </description>
@@ -2338,7 +2358,7 @@ This talk will present the experiences we had and have in this industry creating
         <room>Curie</room>
         <slug>Camp2019-10357-fangespielen_mit_imsi-catchern</slug>
         <title>Fangespielen mit IMSI-Catchern</title>
-        <subtitle>Warum IMSI Catcher schlecht "Verstecken" spielen können</subtitle>
+        <subtitle>Warum IMSI Catcher schlecht "Verstecken" spielen</subtitle>
         <track>Hardware &amp; Making</track>
         <type>lecture</type>
         <language>de</language>
@@ -4522,7 +4542,7 @@ Publikum vor.</abstract>
         <type>other</type>
         <language>en</language>
         <abstract/>
-        <description>Performance // audiovisual experiment</description>
+        <description>&lt;b&gt;Performance&lt;/b&gt; // audiovisual experiment</description>
         <persons/>
         <links>
           <link>http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence</link>
@@ -6852,7 +6872,7 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
         <type>other</type>
         <language>en</language>
         <abstract/>
-        <description>Performance // audiovisual experiment</description>
+        <description>&lt;b&gt;Performance&lt;/b&gt; // audiovisual experiment</description>
         <persons/>
         <links>
           <link>http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence</link>
@@ -9258,7 +9278,7 @@ Live spielen die Muckemacher in voller Bandbesetzung mit Schlagzeug, Bass, Gitar
         <type>other</type>
         <language>en</language>
         <abstract/>
-        <description>Performance // audiovisual experiment</description>
+        <description>&lt;b&gt;Performance&lt;/b&gt; // audiovisual experiment</description>
         <persons/>
         <links>
           <link>http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence</link>

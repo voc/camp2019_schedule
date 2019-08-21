@@ -1,0 +1,26 @@
+{
+  "id": 1359,
+  "guid": "f38ff36c-3a0a-47e4-8969-091845b6c0a0",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Bitcoin,_Lightning_Network,_Ethereum_for_newbs",
+  "logo": null,
+  "date": "2019-08-21T21:00:00+02:00",
+  "start": "21:00",
+  "duration": "1:00",
+  "room": "Johnson (Workshop 1)",
+  "slug": "camp2019-1359-session_bitcoin_lightning_network_ethereum_for_newbs",
+  "title": "Bitcoin, Lightning Network, Ethereum for newbs",
+  "subtitle": "Hands-on crypto-currency wallet",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "en",
+  "abstract": "",
+  "description": "how to create a wallet, backup and to transact",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Polto",
+      "public_name": "Polto"
+    }
+  ],
+  "links": []
+}

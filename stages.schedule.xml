@@ -1,5 +1,5 @@
 <schedule>
-  <version>Deneb; thm Monkey Island 2: LeChuck’s Revenge; lounges 606; lightning Idril</version>
+  <version>Elnath; thm Monkey Island 2: LeChuck’s Revenge; lounges 606; lightning Idril</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -1172,7 +1172,7 @@ Der Vortrag verfolgt den gesamten Weg der letzten drei Jahre: von der ersten Kon
 </abstract>
         <description>Open source security tools are often associated with customizability and transparency: users are given many options (configurations, self-hosting), and system states are more often than not visible to users (detailed connection info, logs). Sometimes, that means bulky user interfaces and technical language, making an otherwise useful and recommended tool less usable for non-technical audiences. This presents a distinct design challenge: is it possible to build tools that are more usable without compromising on customizability and transparency?&#13;
 &#13;
-In this talk, we will present some UX design principles based on our work with NoScript, a browser extension that allows users to fine-tune their script blocking in Firefox and Chrome/Chromium. We will focus on 1) building the minimally viable mental model, 2) choosing sensible default options, and 3) updating interface language for a wider audience.&#13;
+In this talk, we will present some UX design principles based on our work with NoScript, a browser extension that allows users to fine-tune their script blocking in Firefox and Chrome/Chromium. We will focus on 1) understanding the value you add for your users, 2) choosing sensible default options, and 3) updating interface language for a wider audience.&#13;
 &#13;
 In the course of that, we will also present our process of human-centered design for improving security tools. (Outlined here: https://simplysecure.org/what-we-do/usable-security-audit/ )&#13;
 </description>
@@ -1281,7 +1281,7 @@ This talk will present the experiences we had and have in this industry creating
         <room>Curie</room>
         <slug>Camp2019-10357-fangespielen_mit_imsi-catchern</slug>
         <title>Fangespielen mit IMSI-Catchern</title>
-        <subtitle>Warum IMSI Catcher schlecht "Verstecken" spielen können</subtitle>
+        <subtitle>Warum IMSI Catcher schlecht "Verstecken" spielen</subtitle>
         <track>Hardware &amp; Making</track>
         <type>lecture</type>
         <language>de</language>

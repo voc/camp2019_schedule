@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Deneb; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 11:20",
+    "version": "Elnath; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 12:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -935,6 +935,32 @@
               }
             ],
             "Johnson (Workshop 1)": [
+              {
+                "id": 1359,
+                "guid": "f38ff36c-3a0a-47e4-8969-091845b6c0a0",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bitcoin,_Lightning_Network,_Ethereum_for_newbs",
+                "logo": null,
+                "date": "2019-08-21T21:00:00+02:00",
+                "start": "21:00",
+                "duration": "1:00",
+                "room": "Johnson (Workshop 1)",
+                "slug": "camp2019-1359-session_bitcoin_lightning_network_ethereum_for_newbs",
+                "title": "Bitcoin, Lightning Network, Ethereum for newbs",
+                "subtitle": "Hands-on crypto-currency wallet",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "en",
+                "abstract": "",
+                "description": "how to create a wallet, backup and to transact",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Polto",
+                    "public_name": "Polto"
+                  }
+                ],
+                "links": []
+              },
               {
                 "id": 1284,
                 "guid": "f4fa97e9-c253-4eb2-8695-83addfc593ea",
@@ -2538,7 +2564,7 @@
                 "type": "lecture",
                 "language": "en",
                 "abstract": "This case study of NoScript\u2019s UX redesign showcases tried and true design principles that make security tools usable to a wider range of audiences. \r\n",
-                "description": "Open source security tools are often associated with customizability and transparency: users are given many options (configurations, self-hosting), and system states are more often than not visible to users (detailed connection info, logs). Sometimes, that means bulky user interfaces and technical language, making an otherwise useful and recommended tool less usable for non-technical audiences. This presents a distinct design challenge: is it possible to build tools that are more usable without compromising on customizability and transparency?\r\n\r\nIn this talk, we will present some UX design principles based on our work with NoScript, a browser extension that allows users to fine-tune their script blocking in Firefox and Chrome/Chromium. We will focus on 1) building the minimally viable mental model, 2) choosing sensible default options, and 3) updating interface language for a wider audience.\r\n\r\nIn the course of that, we will also present our process of human-centered design for improving security tools. (Outlined here: https://simplysecure.org/what-we-do/usable-security-audit/ )\r\n",
+                "description": "Open source security tools are often associated with customizability and transparency: users are given many options (configurations, self-hosting), and system states are more often than not visible to users (detailed connection info, logs). Sometimes, that means bulky user interfaces and technical language, making an otherwise useful and recommended tool less usable for non-technical audiences. This presents a distinct design challenge: is it possible to build tools that are more usable without compromising on customizability and transparency?\r\n\r\nIn this talk, we will present some UX design principles based on our work with NoScript, a browser extension that allows users to fine-tune their script blocking in Firefox and Chrome/Chromium. We will focus on 1) understanding the value you add for your users, 2) choosing sensible default options, and 3) updating interface language for a wider audience.\r\n\r\nIn the course of that, we will also present our process of human-centered design for improving security tools. (Outlined here: https://simplysecure.org/what-we-do/usable-security-audit/ )\r\n",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -2654,7 +2680,7 @@
                 "room": "Curie",
                 "slug": "Camp2019-10357-fangespielen_mit_imsi-catchern",
                 "title": "Fangespielen mit IMSI-Catchern",
-                "subtitle": "Warum IMSI Catcher schlecht \"Verstecken\" spielen k\u00f6nnen",
+                "subtitle": "Warum IMSI Catcher schlecht \"Verstecken\" spielen",
                 "track": "Hardware & Making",
                 "type": "lecture",
                 "language": "de",
@@ -4976,7 +5002,7 @@
                 "type": "other",
                 "language": "en",
                 "abstract": "",
-                "description": "Performance // audiovisual experiment",
+                "description": "<b>Performance</b> // audiovisual experiment",
                 "persons": [],
                 "links": [
                   "http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence"
@@ -7570,7 +7596,7 @@
                 "type": "other",
                 "language": "en",
                 "abstract": "",
-                "description": "Performance // audiovisual experiment",
+                "description": "<b>Performance</b> // audiovisual experiment",
                 "persons": [],
                 "links": [
                   "http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence"
@@ -10310,7 +10336,7 @@
                 "type": "other",
                 "language": "en",
                 "abstract": "",
-                "description": "Performance // audiovisual experiment",
+                "description": "<b>Performance</b> // audiovisual experiment",
                 "persons": [],
                 "links": [
                   "http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence"
