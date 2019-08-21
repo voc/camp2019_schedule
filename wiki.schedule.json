@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-21 22:43",
+    "version": "2019-08-21 22:50",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -3662,6 +3662,32 @@
                     "id": 0,
                     "url": "https://events.ccc.de/camp/2019/wiki/User:Binbash",
                     "public_name": "Binbash"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1419,
+                "guid": "9555ad1c-f359-4714-9a6f-97e89855f78b",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Singerunde",
+                "logo": null,
+                "date": "2019-08-22T22:00:00+02:00",
+                "start": "22:00",
+                "duration": "4:00",
+                "room": "Village:ZSH - Zelt Stadt Hessen",
+                "slug": "camp2019-1419-session_singerunde",
+                "title": "Singerunde",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "de",
+                "abstract": "",
+                "description": "We are singing using analog instruments and",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Hoechst",
+                    "public_name": "Hoechst"
                   }
                 ],
                 "links": []

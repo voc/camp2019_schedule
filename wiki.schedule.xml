@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-21 22:43</version>
+  <version>2019-08-21 22:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -2960,6 +2960,26 @@
         <description>Let's hang around, talk about concepts of interpersonal relationships</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Binbash">Binbash</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1419" guid="9555ad1c-f359-4714-9a6f-97e89855f78b">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Singerunde</url>
+        <logo/>
+        <date>2019-08-22T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>4:00</duration>
+        <room>Village:ZSH - Zelt Stadt Hessen</room>
+        <slug>camp2019-1419-session_singerunde</slug>
+        <title>Singerunde</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>We are singing using analog instruments and</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Hoechst">Hoechst</person>
         </persons>
         <links/>
       </event>
