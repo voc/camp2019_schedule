@@ -1,0 +1,22 @@
+{
+  "id": 1390,
+  "guid": "15ad1046-6240-4f7b-8e84-fa94fbe1c6fa",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Nice_View_Reporter",
+  "logo": null,
+  "date": "2019-08-21T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "1:00",
+  "room": "Village:Three Headed Monkey",
+  "slug": "camp2019-1390-session_nice_view_reporter",
+  "title": "Nice View Reporter",
+  "subtitle": "location: Planke (B\u00fchne)",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Projektwoche an einer Schule in Msambweni, Kenia",
+  "persons": [],
+  "links": [
+    "https://talx.thm.cloud/thms/talk/PEXUEM/"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1388,
+  "guid": "d8fc3e31-950d-4be2-945e-a598ef384d2c",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Dissecting_the_AMD_Platform_Security_Processor",
+  "logo": null,
+  "date": "2019-08-22T16:15:00+02:00",
+  "start": "16:15",
+  "duration": "1:00",
+  "room": "Village:Three Headed Monkey",
+  "slug": "camp2019-1388-session_dissecting_the_amd_platform_security_processor",
+  "title": "Dissecting the AMD Platform Security Processor",
+  "subtitle": "location: Planke (B\u00fchne)",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "The AMD Platform Security Processor (PSP) is a security subsystem in AMD CPUs comparable to the Intel ME and was introduced in 2013. It is essential for system startup \u2013 in fact, in runs before the main processor is even started \u2013 and offers runtime services to the main processor. For this, it has full access to the system memory space (inlcuding MMIO).  The PSP runs undocumented, proprietary firmware. This talk presents efforts of investigating what the PSP does and if it's secure. For the first time, it documents the PSP firmware's proprietary filesystem and provides insights into reverse-engineering such a deeply embedded system as the PSP. The talk further sheds light on how we might regain trust in AMD CPUs despite the delicate nature of the PSP.",
+  "persons": [],
+  "links": [
+    "https://talx.thm.cloud/thms/talk/LEA7LY/"
+  ]
+}

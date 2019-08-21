@@ -1,5 +1,5 @@
 <schedule>
-  <version>Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 19:30</version>
+  <version>Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 19:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -2038,6 +2038,68 @@ and amusement.</description>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Eal">Eal</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="Village:Three Headed Monkey">
+      <event id="1389" guid="520aa887-cb13-4374-82df-40ec2e9e105f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:FridaysForFuture_was,_wie,_warum%3F</url>
+        <logo/>
+        <date>2019-08-21T19:15:00+02:00</date>
+        <start>19:15</start>
+        <duration>0:30</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1389-session_fridaysforfuture_was_wie_warum_</slug>
+        <title>FridaysForFuture was, wie, warum?</title>
+        <subtitle>Location: Feuerstelle (Workshop)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>“Wir sind nicht nur verantwortlich für das, was wir tun, sondern auch für das was wir nicht tun”</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/KXW3SP/</link>
+        </links>
+      </event>
+      <event id="1390" guid="15ad1046-6240-4f7b-8e84-fa94fbe1c6fa">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Nice_View_Reporter</url>
+        <logo/>
+        <date>2019-08-21T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1390-session_nice_view_reporter</slug>
+        <title>Nice View Reporter</title>
+        <subtitle>location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Projektwoche an einer Schule in Msambweni, Kenia</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/PEXUEM/</link>
+        </links>
+      </event>
+      <event id="1392" guid="8e26af52-718f-4fa8-99fe-12111959400d">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:%C3%9Cber_die_Nachhaltigkeit_von_Software</url>
+        <logo/>
+        <date>2019-08-21T21:10:00+02:00</date>
+        <start>21:10</start>
+        <duration>0:30</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1392-session_ueber_die_nachhaltigkeit_von_software</slug>
+        <title>Über die Nachhaltigkeit von Software</title>
+        <subtitle>location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Software ist essenzieller Bestandteil und Ressource unserer Dienstleistungs- und Wissensgesellschaft sowie unserer Infrastrukturen. Als Ressource betrachtet verhält sich der Konsum und Erhalt von Software jedoch in vielen Dingen konträr zu natürlichen Ressourcen. Eine Reflektion über die besonderen Eigenschaften der "Ressource Software" und wie wir diese nutzen können um Software nachhaltig zu gestalten und damit auch für die Zukunft zu erhalten.</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/NWNHJ3/</link>
+        </links>
       </event>
     </room>
     <room name="Village:Schaffenburg">
@@ -4548,6 +4610,88 @@ Publikum vor.</abstract>
         <persons/>
         <links>
           <link>https://hackaday.io/project/164092-npr-new-packet-radio</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Three Headed Monkey">
+      <event id="1386" guid="543676ca-8d19-480e-ba7a-5cb5e4749256">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Als_Netzaktivistin_im_Bundestag_%E2%80%93_Insider_Einblicke_und_Mitmachm%C3%B6glichkeiten</url>
+        <logo/>
+        <date>2019-08-22T18:15:00+02:00</date>
+        <start>18:15</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1386-session_als_netzaktivistin_im_bundestag_insider_einblicke_und_mitmachmoeglichkeiten</slug>
+        <title>Als Netzaktivistin im Bundestag – Insider Einblicke und Mitmachmöglichkeiten</title>
+        <subtitle>Location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language/>
+        <abstract/>
+        <description>Der Bundestag ist anders als man denkt.</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/GRRQTX/</link>
+        </links>
+      </event>
+      <event id="1387" guid="25a15dc4-b039-4187-9162-e48116f54924">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Blockchain:_Proof_of_ignorance</url>
+        <logo/>
+        <date>2019-08-22T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1387-session_blockchain_proof_of_ignorance</slug>
+        <title>Blockchain: Proof of ignorance</title>
+        <subtitle>Location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>A rant about liberty and autonomy for some!</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/WCSCAX/</link>
+        </links>
+      </event>
+      <event id="1388" guid="d8fc3e31-950d-4be2-945e-a598ef384d2c">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Dissecting_the_AMD_Platform_Security_Processor</url>
+        <logo/>
+        <date>2019-08-22T16:15:00+02:00</date>
+        <start>16:15</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1388-session_dissecting_the_amd_platform_security_processor</slug>
+        <title>Dissecting the AMD Platform Security Processor</title>
+        <subtitle>location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>The AMD Platform Security Processor (PSP) is a security subsystem in AMD CPUs comparable to the Intel ME and was introduced in 2013. It is essential for system startup – in fact, in runs before the main processor is even started – and offers runtime services to the main processor. For this, it has full access to the system memory space (inlcuding MMIO).  The PSP runs undocumented, proprietary firmware. This talk presents efforts of investigating what the PSP does and if it's secure. For the first time, it documents the PSP firmware's proprietary filesystem and provides insights into reverse-engineering such a deeply embedded system as the PSP. The talk further sheds light on how we might regain trust in AMD CPUs despite the delicate nature of the PSP.</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/LEA7LY/</link>
+        </links>
+      </event>
+      <event id="1391" guid="9508b1c9-0297-41e8-a116-38ae2642948f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Werdeteildesgesamtwiderstandes</url>
+        <logo/>
+        <date>2019-08-22T15:15:00+02:00</date>
+        <start>15:15</start>
+        <duration>2:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1391-session_werdeteildesgesamtwiderstandes</slug>
+        <title>Werdeteildesgesamtwiderstandes</title>
+        <subtitle>location: Lagerfeuer (Workshop)</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>werdeteildesgesamtwiderstandes ist eine Objekt gewordene Handlungsanweisung die dazu anregt sich mit anderen menschen zu verbinden. Im Workshop bauen wir diesen analogen synthesizer, jeder kann mitmachen, vorkenntnisse sind nicht erforderlich, für menschen ab 8.</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/ZMERMD/</link>
         </links>
       </event>
     </room>

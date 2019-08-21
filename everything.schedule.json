@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 19:30",
+    "version": "Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 19:50",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -2305,6 +2305,74 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Village:Three Headed Monkey": [
+              {
+                "id": 1389,
+                "guid": "520aa887-cb13-4374-82df-40ec2e9e105f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:FridaysForFuture_was,_wie,_warum%3F",
+                "logo": null,
+                "date": "2019-08-21T19:15:00+02:00",
+                "start": "19:15",
+                "duration": "0:30",
+                "room": "Village:Three Headed Monkey",
+                "slug": "camp2019-1389-session_fridaysforfuture_was_wie_warum_",
+                "title": "FridaysForFuture was, wie, warum?",
+                "subtitle": "Location: Feuerstelle (Workshop)",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "\u201cWir sind nicht nur verantwortlich f\u00fcr das, was wir tun, sondern auch f\u00fcr das was wir nicht tun\u201d",
+                "persons": [],
+                "links": [
+                  "https://talx.thm.cloud/thms/talk/KXW3SP/"
+                ]
+              },
+              {
+                "id": 1390,
+                "guid": "15ad1046-6240-4f7b-8e84-fa94fbe1c6fa",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Nice_View_Reporter",
+                "logo": null,
+                "date": "2019-08-21T20:00:00+02:00",
+                "start": "20:00",
+                "duration": "1:00",
+                "room": "Village:Three Headed Monkey",
+                "slug": "camp2019-1390-session_nice_view_reporter",
+                "title": "Nice View Reporter",
+                "subtitle": "location: Planke (B\u00fchne)",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Projektwoche an einer Schule in Msambweni, Kenia",
+                "persons": [],
+                "links": [
+                  "https://talx.thm.cloud/thms/talk/PEXUEM/"
+                ]
+              },
+              {
+                "id": 1392,
+                "guid": "8e26af52-718f-4fa8-99fe-12111959400d",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:%C3%9Cber_die_Nachhaltigkeit_von_Software",
+                "logo": null,
+                "date": "2019-08-21T21:10:00+02:00",
+                "start": "21:10",
+                "duration": "0:30",
+                "room": "Village:Three Headed Monkey",
+                "slug": "camp2019-1392-session_ueber_die_nachhaltigkeit_von_software",
+                "title": "\u00dcber die Nachhaltigkeit von Software",
+                "subtitle": "location: Planke (B\u00fchne)",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Software ist essenzieller Bestandteil und Ressource unserer Dienstleistungs- und Wissensgesellschaft sowie unserer Infrastrukturen. Als Ressource betrachtet verh\u00e4lt sich der Konsum und Erhalt von Software jedoch in vielen Dingen kontr\u00e4r zu nat\u00fcrlichen Ressourcen. Eine Reflektion \u00fcber die besonderen Eigenschaften der \"Ressource Software\" und wie wir diese nutzen k\u00f6nnen um Software nachhaltig zu gestalten und damit auch f\u00fcr die Zukunft zu erhalten.",
+                "persons": [],
+                "links": [
+                  "https://talx.thm.cloud/thms/talk/NWNHJ3/"
+                ]
               }
             ],
             "Village:Schaffenburg": [
@@ -4983,6 +5051,96 @@
                 "persons": [],
                 "links": [
                   "https://hackaday.io/project/164092-npr-new-packet-radio"
+                ]
+              }
+            ],
+            "Village:Three Headed Monkey": [
+              {
+                "id": 1386,
+                "guid": "543676ca-8d19-480e-ba7a-5cb5e4749256",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Als_Netzaktivistin_im_Bundestag_%E2%80%93_Insider_Einblicke_und_Mitmachm%C3%B6glichkeiten",
+                "logo": null,
+                "date": "2019-08-22T18:15:00+02:00",
+                "start": "18:15",
+                "duration": "1:00",
+                "room": "Village:Three Headed Monkey",
+                "slug": "camp2019-1386-session_als_netzaktivistin_im_bundestag_insider_einblicke_und_mitmachmoeglichkeiten",
+                "title": "Als Netzaktivistin im Bundestag \u2013 Insider Einblicke und Mitmachm\u00f6glichkeiten",
+                "subtitle": "Location: Planke (B\u00fchne)",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "",
+                "abstract": "",
+                "description": "Der Bundestag ist anders als man denkt.",
+                "persons": [],
+                "links": [
+                  "https://talx.thm.cloud/thms/talk/GRRQTX/"
+                ]
+              },
+              {
+                "id": 1387,
+                "guid": "25a15dc4-b039-4187-9162-e48116f54924",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Blockchain:_Proof_of_ignorance",
+                "logo": null,
+                "date": "2019-08-22T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "1:00",
+                "room": "Village:Three Headed Monkey",
+                "slug": "camp2019-1387-session_blockchain_proof_of_ignorance",
+                "title": "Blockchain: Proof of ignorance",
+                "subtitle": "Location: Planke (B\u00fchne)",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "A rant about liberty and autonomy for some!",
+                "persons": [],
+                "links": [
+                  "https://talx.thm.cloud/thms/talk/WCSCAX/"
+                ]
+              },
+              {
+                "id": 1388,
+                "guid": "d8fc3e31-950d-4be2-945e-a598ef384d2c",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Dissecting_the_AMD_Platform_Security_Processor",
+                "logo": null,
+                "date": "2019-08-22T16:15:00+02:00",
+                "start": "16:15",
+                "duration": "1:00",
+                "room": "Village:Three Headed Monkey",
+                "slug": "camp2019-1388-session_dissecting_the_amd_platform_security_processor",
+                "title": "Dissecting the AMD Platform Security Processor",
+                "subtitle": "location: Planke (B\u00fchne)",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "The AMD Platform Security Processor (PSP) is a security subsystem in AMD CPUs comparable to the Intel ME and was introduced in 2013. It is essential for system startup \u2013 in fact, in runs before the main processor is even started \u2013 and offers runtime services to the main processor. For this, it has full access to the system memory space (inlcuding MMIO).  The PSP runs undocumented, proprietary firmware. This talk presents efforts of investigating what the PSP does and if it's secure. For the first time, it documents the PSP firmware's proprietary filesystem and provides insights into reverse-engineering such a deeply embedded system as the PSP. The talk further sheds light on how we might regain trust in AMD CPUs despite the delicate nature of the PSP.",
+                "persons": [],
+                "links": [
+                  "https://talx.thm.cloud/thms/talk/LEA7LY/"
+                ]
+              },
+              {
+                "id": 1391,
+                "guid": "9508b1c9-0297-41e8-a116-38ae2642948f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Werdeteildesgesamtwiderstandes",
+                "logo": null,
+                "date": "2019-08-22T15:15:00+02:00",
+                "start": "15:15",
+                "duration": "2:00",
+                "room": "Village:Three Headed Monkey",
+                "slug": "camp2019-1391-session_werdeteildesgesamtwiderstandes",
+                "title": "Werdeteildesgesamtwiderstandes",
+                "subtitle": "location: Lagerfeuer (Workshop)",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "werdeteildesgesamtwiderstandes ist eine Objekt gewordene Handlungsanweisung die dazu anregt sich mit anderen menschen zu verbinden. Im Workshop bauen wir diesen analogen synthesizer, jeder kann mitmachen, vorkenntnisse sind nicht erforderlich, f\u00fcr menschen ab 8.",
+                "persons": [],
+                "links": [
+                  "https://talx.thm.cloud/thms/talk/ZMERMD/"
                 ]
               }
             ],

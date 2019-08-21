@@ -1,0 +1,22 @@
+{
+  "id": 1387,
+  "guid": "25a15dc4-b039-4187-9162-e48116f54924",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Blockchain:_Proof_of_ignorance",
+  "logo": null,
+  "date": "2019-08-22T15:00:00+02:00",
+  "start": "15:00",
+  "duration": "1:00",
+  "room": "Village:Three Headed Monkey",
+  "slug": "camp2019-1387-session_blockchain_proof_of_ignorance",
+  "title": "Blockchain: Proof of ignorance",
+  "subtitle": "Location: Planke (B\u00fchne)",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "A rant about liberty and autonomy for some!",
+  "persons": [],
+  "links": [
+    "https://talx.thm.cloud/thms/talk/WCSCAX/"
+  ]
+}
