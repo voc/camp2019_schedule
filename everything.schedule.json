@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Fomalhaut ; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 16:50",
+    "version": "Fomalhaut ; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 17:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -5352,7 +5352,7 @@
                 "type": "hands-on",
                 "language": "en",
                 "abstract": "",
-                "description": "You will be learning about syrups and make some yourself.",
+                "description": "You will learn about fruit syrups and make some for yourself to keep.",
                 "persons": [
                   {
                     "id": 0,
