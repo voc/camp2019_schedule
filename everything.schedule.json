@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 18:40",
+    "version": "Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 19:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -5034,6 +5034,34 @@
                 ]
               },
               {
+                "id": 1384,
+                "guid": "3d92fce3-606a-4a90-aa49-313cf54d014e",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hello_Badge_Workshop",
+                "logo": null,
+                "date": "2019-08-22T17:30:00+02:00",
+                "start": "17:30",
+                "duration": "0:30",
+                "room": "Village:HardwareHackingArea",
+                "slug": "camp2019-1384-session_hello_badge_workshop",
+                "title": "Hello Badge Workshop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Solder a hello badge (only four easy solder joints)",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Underhand",
+                    "public_name": "Underhand"
+                  }
+                ],
+                "links": [
+                  "http://www.coolfactor.org/project/hello/"
+                ]
+              },
+              {
                 "id": 1102,
                 "guid": "069ad79f-dd7f-4e2b-92ae-b9eaf484e61f",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder",
@@ -8072,8 +8100,8 @@
                 "guid": "ed8d4c06-6cdd-4308-8eba-d5a4f0586fe9",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:An_introduction_to_the_post-apocalyptic_skill_of_spinning_yarn",
                 "logo": null,
-                "date": "2019-08-23T11:30:00+02:00",
-                "start": "11:30",
+                "date": "2019-08-23T14:00:00+02:00",
+                "start": "14:00",
                 "duration": "2:00",
                 "room": "Village:ChaosZone",
                 "slug": "camp2019-1368-session_an_introduction_to_the_post_apocalyptic_skill_of_spinning_yarn",

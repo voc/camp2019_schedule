@@ -1,5 +1,5 @@
 <schedule>
-  <version>Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 18:40</version>
+  <version>Fomalhaut ; thm Monkey Island 3: The Curse of Monkey Island; lounges 606; lightning Lalaith; wiki 2019-08-21 19:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -4590,6 +4590,28 @@ Publikum vor.</abstract>
           <link>http://fomu.im</link>
         </links>
       </event>
+      <event id="1384" guid="3d92fce3-606a-4a90-aa49-313cf54d014e">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hello_Badge_Workshop</url>
+        <logo/>
+        <date>2019-08-22T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>0:30</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1384-session_hello_badge_workshop</slug>
+        <title>Hello Badge Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Solder a hello badge (only four easy solder joints)</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Underhand">Underhand</person>
+        </persons>
+        <links>
+          <link>http://www.coolfactor.org/project/hello/</link>
+        </links>
+      </event>
       <event id="1102" guid="069ad79f-dd7f-4e2b-92ae-b9eaf484e61f">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder</url>
         <logo/>
@@ -7275,8 +7297,8 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
       <event id="1368" guid="ed8d4c06-6cdd-4308-8eba-d5a4f0586fe9">
         <url>https://events.ccc.de/camp/2019/wiki/Session:An_introduction_to_the_post-apocalyptic_skill_of_spinning_yarn</url>
         <logo/>
-        <date>2019-08-23T11:30:00+02:00</date>
-        <start>11:30</start>
+        <date>2019-08-23T14:00:00+02:00</date>
+        <start>14:00</start>
         <duration>2:00</duration>
         <room>Village:ChaosZone</room>
         <slug>camp2019-1368-session_an_introduction_to_the_post_apocalyptic_skill_of_spinning_yarn</slug>

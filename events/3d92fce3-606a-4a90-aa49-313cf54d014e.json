@@ -1,0 +1,28 @@
+{
+  "id": 1384,
+  "guid": "3d92fce3-606a-4a90-aa49-313cf54d014e",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Hello_Badge_Workshop",
+  "logo": null,
+  "date": "2019-08-22T17:30:00+02:00",
+  "start": "17:30",
+  "duration": "0:30",
+  "room": "Village:HardwareHackingArea",
+  "slug": "camp2019-1384-session_hello_badge_workshop",
+  "title": "Hello Badge Workshop",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "Solder a hello badge (only four easy solder joints)",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Underhand",
+      "public_name": "Underhand"
+    }
+  ],
+  "links": [
+    "http://www.coolfactor.org/project/hello/"
+  ]
+}
