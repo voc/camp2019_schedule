@@ -1,0 +1,20 @@
+{
+  "id": 1404,
+  "guid": "901b3777-4810-476f-9298-c94028f0f017",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:E-Mail-Privatheit_und_Mailbox-Verschl%C3%BCsselung",
+  "logo": null,
+  "date": "2019-08-23T18:30:00+02:00",
+  "start": "18:30",
+  "duration": "1:00",
+  "room": "Village:Three Headed Monkey",
+  "slug": "camp2019-1404-session_e_mail_privatheit_und_mailbox_verschluesselung",
+  "title": "E-Mail-Privatheit und Mailbox-Verschl\u00fcsselung",
+  "subtitle": "Location: Planke (B\u00fchne)",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "\u00dcberblick \u00fcber den aktuellen Stand der Privatheit von E-Mails und Pr\u00e4sentation von Userli, einer Webapplikation um E-Mailboxen zu verschl\u00fcsseln.",
+  "persons": [],
+  "links": []
+}

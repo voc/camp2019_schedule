@@ -1,0 +1,22 @@
+{
+  "id": 1407,
+  "guid": "d03d319c-d7a6-46ba-830c-3c69b36f6d28",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Gameboy_Musik_Workshop",
+  "logo": null,
+  "date": "2019-08-24T15:15:00+02:00",
+  "start": "15:15",
+  "duration": "2:00",
+  "room": "Village:Three Headed Monkey",
+  "slug": "camp2019-1407-session_gameboy_musik_workshop",
+  "title": "Gameboy Musik Workshop",
+  "subtitle": "location: Lagerfeuer (Workshop)",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "Ein Einsteiger-Workshop f\u00fcr alle die schon immer mal Musik mit Gameboys machen wollten.",
+  "persons": [],
+  "links": [
+    "https://talx.thm.cloud/thms/talk/8NG8AA/"
+  ]
+}

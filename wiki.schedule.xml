@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-21 20:00</version>
+  <version>2019-08-21 20:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -976,6 +976,26 @@
           <link>https://talx.thm.cloud/thms/talk/KXW3SP/</link>
         </links>
       </event>
+      <event id="1413" guid="f1a9efce-258f-4f74-ac6b-9550ca0d82c1">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_CADUS!_Humanitarian_Aid_goes_Open_Source</url>
+        <logo/>
+        <date>2019-08-21T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1413-session_meet_cadus_humanitarian_aid_goes_open_source</slug>
+        <title>Meet CADUS! Humanitarian Aid goes Open Source</title>
+        <subtitle>Location: Feuerstelle (Workshop)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the "consultation hours" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/VT87DH/</link>
+        </links>
+      </event>
       <event id="1390" guid="15ad1046-6240-4f7b-8e84-fa94fbe1c6fa">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Nice_View_Reporter</url>
         <logo/>
@@ -1608,6 +1628,26 @@
         <persons/>
         <links>
           <link>https://talx.thm.cloud/thms/talk/LJQNKC/</link>
+        </links>
+      </event>
+      <event id="1410" guid="ff23ea91-72ac-4688-882e-d593b6b851be">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_CADUS!_Humanitarian_Aid_goes_Open_Source</url>
+        <logo/>
+        <date>2019-08-22T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1410-session_meet_cadus_humanitarian_aid_goes_open_source</slug>
+        <title>Meet CADUS! Humanitarian Aid goes Open Source</title>
+        <subtitle>Location: Feuerstelle (Workshop)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the "consultation hours" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/VT87DH/</link>
         </links>
       </event>
       <event id="1391" guid="9508b1c9-0297-41e8-a116-38ae2642948f">
@@ -3981,6 +4021,44 @@
           <link>https://talx.thm.cloud/thms/talk/Z3VR8P/</link>
         </links>
       </event>
+      <event id="1404" guid="901b3777-4810-476f-9298-c94028f0f017">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:E-Mail-Privatheit_und_Mailbox-Verschl%C3%BCsselung</url>
+        <logo/>
+        <date>2019-08-23T18:30:00+02:00</date>
+        <start>18:30</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1404-session_e_mail_privatheit_und_mailbox_verschluesselung</slug>
+        <title>E-Mail-Privatheit und Mailbox-Verschlüsselung</title>
+        <subtitle>Location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Überblick über den aktuellen Stand der Privatheit von E-Mails und Präsentation von Userli, einer Webapplikation um E-Mailboxen zu verschlüsseln.</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1405" guid="d1188c39-054d-43f9-bb95-70503e5639db">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Elektroschrott_-_Welchen_letzten_Weg_geht_mein_PC%3F</url>
+        <logo/>
+        <date>2019-08-23T19:45:00+02:00</date>
+        <start>19:45</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1405-session_elektroschrott_welchen_letzten_weg_geht_mein_pc_</slug>
+        <title>Elektroschrott - Welchen letzten Weg geht mein PC?</title>
+        <subtitle>location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Elektronikschrott ist eine Handelsware. Schrott wird zu Gold. Geräte werden überall in der Welt mal gut, mal nicht so gut zerlegt. Wer verdient daran? Und was können wir tun, dass sich der Export nicht mehr lohnt?</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/GYWNQP/</link>
+        </links>
+      </event>
       <event id="1397" guid="3e47244d-4edd-40a4-9fc1-ca9902e2dffc">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Emulate,_fuzz,_break_kernels</url>
         <logo/>
@@ -3999,6 +4077,46 @@
         <persons/>
         <links>
           <link>https://talx.thm.cloud/thms/talk/QULQKV/</link>
+        </links>
+      </event>
+      <event id="1409" guid="69625296-43ca-4248-a6e9-ed678afe4d26">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Introduction_to_Lindy_Hop_/_Swing_Dance</url>
+        <logo/>
+        <date>2019-08-23T18:45:00+02:00</date>
+        <start>18:45</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1409-session_introduction_to_lindy_hop_swing_dance</slug>
+        <title>Introduction to Lindy Hop / Swing Dance</title>
+        <subtitle>location: Lagerfeuer (Workshop)</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>A brief introduction to Lindy Hop dancing for beginners.</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/PGL9WK/</link>
+        </links>
+      </event>
+      <event id="1412" guid="76a31e93-5998-5887-aabb-015c3e5dcbb7">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_CADUS!_Humanitarian_Aid_goes_Open_Source</url>
+        <logo/>
+        <date>2019-08-23T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1412-session_meet_cadus_humanitarian_aid_goes_open_source</slug>
+        <title>Meet CADUS! Humanitarian Aid goes Open Source</title>
+        <subtitle>Location: Feuerstelle (Workshop)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the "consultation hours" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/VT87DH/</link>
         </links>
       </event>
       <event id="1399" guid="926e7afc-2e87-4ff8-bb9c-def9b7241870">
@@ -4967,6 +5085,148 @@
         <links/>
       </event>
     </room>
+    <room name="Village:Three Headed Monkey">
+      <event id="1402" guid="04bea69e-ef61-4294-8fb8-11aec47afd40">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Chaosradio_254</url>
+        <logo/>
+        <date>2019-08-24T18:30:00+02:00</date>
+        <start>18:30</start>
+        <duration>2:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1402-session_chaosradio_254</slug>
+        <title>Chaosradio 254</title>
+        <subtitle>Location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Chaosradio 254 live von der THM-Stage auf dem Chaos Communication Congress 2019. Die erste Folge nach der Pause!</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/FMQ3UN/</link>
+        </links>
+      </event>
+      <event id="1403" guid="21457a04-47f8-4af4-987b-88e83d1b1c6f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Climate_breakdown_%E2%80%93_the_bleak_reality</url>
+        <logo/>
+        <date>2019-08-24T16:15:00+02:00</date>
+        <start>16:15</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1403-session_climate_breakdown_the_bleak_reality</slug>
+        <title>Climate breakdown – the bleak reality</title>
+        <subtitle>Location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Heat waves, wildfires and new movements like Fridays for Future and Extinction Rebellion have brought the climate crisis back into the news. However, meaningful political action is still not happening and the world is on track to three to four degrees of warming. Where are we heading and why did humanity fail so badly at tackling the problem?</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/FLXJRA/</link>
+        </links>
+      </event>
+      <event id="1406" guid="00beec1c-2897-4250-b799-70c2237bd46b">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Freak_Show</url>
+        <logo/>
+        <date>2019-08-24T20:45:00+02:00</date>
+        <start>20:45</start>
+        <duration>2:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1406-session_freak_show</slug>
+        <title>Freak Show</title>
+        <subtitle>Location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Der Freak Show Podcast live on stage</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/ULS83P/</link>
+        </links>
+      </event>
+      <event id="1407" guid="d03d319c-d7a6-46ba-830c-3c69b36f6d28">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Gameboy_Musik_Workshop</url>
+        <logo/>
+        <date>2019-08-24T15:15:00+02:00</date>
+        <start>15:15</start>
+        <duration>2:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1407-session_gameboy_musik_workshop</slug>
+        <title>Gameboy Musik Workshop</title>
+        <subtitle>location: Lagerfeuer (Workshop)</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Ein Einsteiger-Workshop für alle die schon immer mal Musik mit Gameboys machen wollten.</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/8NG8AA/</link>
+        </links>
+      </event>
+      <event id="1408" guid="71e9ffcb-4dcb-4d5a-8abf-8246fc01087c">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Global_Warming_Sucks!</url>
+        <logo/>
+        <date>2019-08-24T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1408-session_global_warming_sucks_</slug>
+        <title>Global Warming Sucks!</title>
+        <subtitle>location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Alle reden vom Klimawandel, doch niemand erklärt was da gerade passiert. Wird es in Zukunft einfach nur schön warm oder wird die Veränderung der Umwelt die Menschheit in die Knie zwingen? Warum der Temperaturanstieg der Atmosphäre einzigartig ist und welche Folgen dies für Land, Meer und Gletscher hat, erklärt die angehende Polarforscherin Maria-Elena Vorrath.</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/P9JCSV/</link>
+        </links>
+      </event>
+      <event id="1411" guid="9e097e30-fd31-5996-97d8-4c734188716c">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_CADUS!_Humanitarian_Aid_goes_Open_Source</url>
+        <logo/>
+        <date>2019-08-24T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1411-session_meet_cadus_humanitarian_aid_goes_open_source</slug>
+        <title>Meet CADUS! Humanitarian Aid goes Open Source</title>
+        <subtitle>Location: Feuerstelle (Workshop)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the "consultation hours" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/VT87DH/</link>
+        </links>
+      </event>
+      <event id="1414" guid="a8332fb3-4b7d-42c8-96d4-9eaf1250148a">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Re-boot_yourself!</url>
+        <logo/>
+        <date>2019-08-24T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1414-session_re_boot_yourself_</slug>
+        <title>Re-boot yourself!</title>
+        <subtitle>location: Lagerfeuer (Workshop)</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Yoga für diejenigen, die bisher hauptsächlich die Computer-Asana praktizieren. Auf deutsch, bei Bedarf auch Englisch. (Asana= (sitzende) Körperstellung im Yoga) Yoga for people who practice Computer Asana most of the time. In German, english as needed. (asana = (sitting) body posture in Yoga)</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/ARNTML/</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:C-base">
       <event id="1300" guid="6dc5eae9-babb-44e7-b2e5-c4308c8f257d">
         <url>https://events.ccc.de/camp/2019/wiki/Session:CoderDojo</url>
@@ -5456,6 +5716,68 @@
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="Village:Three Headed Monkey">
+      <event id="1401" guid="7fa2f608-b079-49b4-aa1c-761e37e76fe7">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Capitana_vs._Benito_Salvini_-_%C3%BCber_die_Erosion_von_Grundrechten_und_was_wir_dagegen_tun_k%C3%B6nnen</url>
+        <logo/>
+        <date>2019-08-25T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>0:30</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1401-session_capitana_vs_benito_salvini_ueber_die_erosion_von_grundrechten_und_was_wir_dagegen_tun_koennen</slug>
+        <title>Capitana vs. Benito Salvini - über die Erosion von Grundrechten und was wir dagegen tun können</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/TX3WKW/</link>
+        </links>
+      </event>
+      <event id="1415" guid="6bcb76d0-3176-43f6-9e14-e4a2c3ec3a3e">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Verstehbahnhof_and_beyond_--_building_the_ultimate_digital_playground</url>
+        <logo/>
+        <date>2019-08-25T16:30:00+02:00</date>
+        <start>16:30</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1415-session_verstehbahnhof_and_beyond_building_the_ultimate_digital_playground</slug>
+        <title>Verstehbahnhof and beyond -- building the ultimate digital playground</title>
+        <subtitle>location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Less than two years ago, we set out to create a hacker-and makerspace in the rural countryside of Brandenburg, twenty something minutes north-west of camp, in Fuerstenberg/Havel. Dubbed "Verstehbahnhof", as it is located in the local (and still operating) trainstation, the space was setup as an open educational space for the up- and coming and a shared workshop and space for like-minded grown-ups. This project, by now, has grown into much more than that. And we think it is time for you to know about a few things.</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/7QKPYA/</link>
+        </links>
+      </event>
+      <event id="1416" guid="79f2d637-cb7a-4b28-9ed3-3c428a83d265">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:ZpS_-_Bildung_einer_kriminellen_Vereinigung</url>
+        <logo/>
+        <date>2019-08-25T15:45:00+02:00</date>
+        <start>15:45</start>
+        <duration>1:00</duration>
+        <room>Village:Three Headed Monkey</room>
+        <slug>camp2019-1416-session_zps_bildung_einer_kriminellen_vereinigung</slug>
+        <title>ZpS - Bildung einer kriminellen Vereinigung</title>
+        <subtitle>location: Planke (Bühne)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Zentrum für politische Schönheit</description>
+        <persons/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/QHMZQM/</link>
+        </links>
       </event>
     </room>
     <room name="Village:About:freedom">

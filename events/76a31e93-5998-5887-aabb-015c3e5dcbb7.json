@@ -1,0 +1,22 @@
+{
+  "id": 1412,
+  "guid": "76a31e93-5998-5887-aabb-015c3e5dcbb7",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Meet_CADUS!_Humanitarian_Aid_goes_Open_Source",
+  "logo": null,
+  "date": "2019-08-23T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "1:00",
+  "room": "Village:Three Headed Monkey",
+  "slug": "camp2019-1412-session_meet_cadus_humanitarian_aid_goes_open_source",
+  "title": "Meet CADUS! Humanitarian Aid goes Open Source",
+  "subtitle": "Location: Feuerstelle (Workshop)",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the \"consultation hours\" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.",
+  "persons": [],
+  "links": [
+    "https://talx.thm.cloud/thms/talk/VT87DH/"
+  ]
+}

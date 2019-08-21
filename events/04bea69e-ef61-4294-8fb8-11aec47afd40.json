@@ -1,0 +1,22 @@
+{
+  "id": 1402,
+  "guid": "04bea69e-ef61-4294-8fb8-11aec47afd40",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Chaosradio_254",
+  "logo": null,
+  "date": "2019-08-24T18:30:00+02:00",
+  "start": "18:30",
+  "duration": "2:00",
+  "room": "Village:Three Headed Monkey",
+  "slug": "camp2019-1402-session_chaosradio_254",
+  "title": "Chaosradio 254",
+  "subtitle": "Location: Planke (B\u00fchne)",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Chaosradio 254 live von der THM-Stage auf dem Chaos Communication Congress 2019. Die erste Folge nach der Pause!",
+  "persons": [],
+  "links": [
+    "https://talx.thm.cloud/thms/talk/FMQ3UN/"
+  ]
+}

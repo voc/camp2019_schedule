@@ -1,0 +1,22 @@
+{
+  "id": 1406,
+  "guid": "00beec1c-2897-4250-b799-70c2237bd46b",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Freak_Show",
+  "logo": null,
+  "date": "2019-08-24T20:45:00+02:00",
+  "start": "20:45",
+  "duration": "2:00",
+  "room": "Village:Three Headed Monkey",
+  "slug": "camp2019-1406-session_freak_show",
+  "title": "Freak Show",
+  "subtitle": "Location: Planke (B\u00fchne)",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Der Freak Show Podcast live on stage",
+  "persons": [],
+  "links": [
+    "https://talx.thm.cloud/thms/talk/ULS83P/"
+  ]
+}
