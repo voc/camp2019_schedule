@@ -1,0 +1,28 @@
+{
+  "id": 1358,
+  "guid": "e4fe9aff-1b9e-4c51-8ca1-fd87cd9a4984",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Get_to_know_Eco_Hacker_Farm",
+  "logo": null,
+  "date": "2019-08-22T13:00:00+02:00",
+  "start": "13:00",
+  "duration": "1:00",
+  "room": "Village:Ecohackerfarm",
+  "slug": "camp2019-1358-session_get_to_know_eco_hacker_farm",
+  "title": "Get to know Eco Hacker Farm",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "en",
+  "abstract": "",
+  "description": "come and get to us know what ecohackerfarm is all about",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Aimeejulia",
+      "public_name": "Aimeejulia"
+    }
+  ],
+  "links": [
+    "https://ecohackerfarm.org/"
+  ]
+}

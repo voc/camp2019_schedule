@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-21 11:10</version>
+  <version>2019-08-21 11:20</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -1898,6 +1898,52 @@
         <links/>
       </event>
     </room>
+    <room name="Village:Ecohackerfarm">
+      <event id="1358" guid="e4fe9aff-1b9e-4c51-8ca1-fd87cd9a4984">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Get_to_know_Eco_Hacker_Farm</url>
+        <logo/>
+        <date>2019-08-22T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
+        <room>Village:Ecohackerfarm</room>
+        <slug>camp2019-1358-session_get_to_know_eco_hacker_farm</slug>
+        <title>Get to know Eco Hacker Farm</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>come and get to us know what ecohackerfarm is all about</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Aimeejulia">Aimeejulia</person>
+        </persons>
+        <links>
+          <link>https://ecohackerfarm.org/</link>
+        </links>
+      </event>
+      <event id="1117" guid="63dc7526-e5ad-4519-a349-f75835c8b5f1">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Powerplant_team_meeting</url>
+        <logo/>
+        <date>2019-08-22T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>1:30</duration>
+        <room>Village:Ecohackerfarm</room>
+        <slug>camp2019-1117-session_powerplant_team_meeting</slug>
+        <title>Powerplant team meeting</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>an opportunity for the powerplant team to meet and discuss progress in person</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Aimeejulia">Aimeejulia</person>
+        </persons>
+        <links>
+          <link>https://wiki.ecohackerfarm.org/powerplant:start</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:Milliways">
       <event id="1341" guid="76a758fd-23da-4aa7-8d94-124a28e14e1d">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Modding_Milliways_-_Low-poly_Whiskyleaks</url>
@@ -2143,30 +2189,6 @@
         <persons/>
         <links>
           <link>http://pentagame.org</link>
-        </links>
-      </event>
-    </room>
-    <room name="Village:Ecohackerfarm">
-      <event id="1117" guid="63dc7526-e5ad-4519-a349-f75835c8b5f1">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Powerplant_team_meeting</url>
-        <logo/>
-        <date>2019-08-22T11:00:00+02:00</date>
-        <start>11:00</start>
-        <duration>1:30</duration>
-        <room>Village:Ecohackerfarm</room>
-        <slug>camp2019-1117-session_powerplant_team_meeting</slug>
-        <title>Powerplant team meeting</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>an opportunity for the powerplant team to meet and discuss progress in person</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Aimeejulia">Aimeejulia</person>
-        </persons>
-        <links>
-          <link>https://wiki.ecohackerfarm.org/powerplant:start</link>
         </links>
       </event>
     </room>
