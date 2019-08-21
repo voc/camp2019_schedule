@@ -1,0 +1,22 @@
+{
+  "id": 1367,
+  "guid": "468d9123-d7ea-4647-935e-ae4a3f6e581f",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Fomu,_the_FPGA_in_your_USB_Port",
+  "logo": null,
+  "date": "2019-08-22T14:30:00+02:00",
+  "start": "14:30",
+  "duration": "1:30",
+  "room": "Village:HardwareHackingArea",
+  "slug": "camp2019-1367-session_fomu_the_fpga_in_your_usb_port",
+  "title": "Fomu, the FPGA in your USB Port",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "en",
+  "abstract": "",
+  "description": "Come get an FPGA dev board in your USB port and start hacking!",
+  "persons": [],
+  "links": [
+    "http://fomu.im"
+  ]
+}

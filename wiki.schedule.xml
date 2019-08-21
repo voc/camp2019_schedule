@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-21 14:00</version>
+  <version>2019-08-21 14:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -749,51 +749,27 @@
         <links/>
       </event>
     </room>
-    <room name="Village:Free Software Foundation Europe">
-      <event id="1255" guid="e10a5b76-2ca9-4a0d-a1c6-0b3ce24748a8">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along</url>
+    <room name="Village:HardwareHackingArea">
+      <event id="1366" guid="9f9bb0a0-596f-4ff4-9e7a-d8b9a6b08827">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Fomu,_the_FPGA_in_your_USB_Port</url>
         <logo/>
-        <date>2019-08-21T19:30:00+02:00</date>
-        <start>19:30</start>
-        <duration>0:10</duration>
-        <room>Village:Free Software Foundation Europe</room>
-        <slug>camp2019-1255-session_free_software_song_sing_along</slug>
-        <title>Free Software Song sing-along</title>
-        <subtitle>ad-hoc choir</subtitle>
+        <date>2019-08-21T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>1:30</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1366-session_fomu_the_fpga_in_your_usb_port</slug>
+        <title>Fomu, the FPGA in your USB Port</title>
+        <subtitle/>
         <track>self organized sessions</track>
-        <type>other</type>
+        <type>hands-on</type>
         <language>en</language>
         <abstract/>
-        <description>Everyday at 19:30 in the Cluster about:freedom we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Eal">Eal</person>
-        </persons>
-        <links/>
+        <description>Come get an FPGA dev board in your USB port and start hacking!</description>
+        <persons/>
+        <links>
+          <link>http://fomu.im</link>
+        </links>
       </event>
-    </room>
-    <room name="Village:Schaffenburg">
-      <event id="1079" guid="6700ed11-b9cb-46ba-8f25-f68a29dfcc64">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:GOC</url>
-        <logo/>
-        <date>2019-08-21T19:00:00+02:00</date>
-        <start>19:00</start>
-        <duration>1:30</duration>
-        <room>Village:Schaffenburg</room>
-        <slug>camp2019-1079-session_goc</slug>
-        <title>GOC</title>
-        <subtitle>Introduction &amp; Selection of Botanicals</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Gin Operation Center</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Fraxinas">Fraxinas</person>
-        </persons>
-        <links/>
-      </event>
-    </room>
-    <room name="Village:HardwareHackingArea">
       <event id="1257" guid="c5d794aa-3b64-4614-a644-528cc379182a">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Geiger_Counter_Workshop</url>
         <logo/>
@@ -853,6 +829,50 @@
         <description>Experimental new workshop - Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building an electronic touch-activated purring kitten. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 5 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Kliment">Kliment</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Village:Free Software Foundation Europe">
+      <event id="1255" guid="e10a5b76-2ca9-4a0d-a1c6-0b3ce24748a8">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along</url>
+        <logo/>
+        <date>2019-08-21T19:30:00+02:00</date>
+        <start>19:30</start>
+        <duration>0:10</duration>
+        <room>Village:Free Software Foundation Europe</room>
+        <slug>camp2019-1255-session_free_software_song_sing_along</slug>
+        <title>Free Software Song sing-along</title>
+        <subtitle>ad-hoc choir</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>en</language>
+        <abstract/>
+        <description>Everyday at 19:30 in the Cluster about:freedom we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Eal">Eal</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Village:Schaffenburg">
+      <event id="1079" guid="6700ed11-b9cb-46ba-8f25-f68a29dfcc64">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:GOC</url>
+        <logo/>
+        <date>2019-08-21T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>1:30</duration>
+        <room>Village:Schaffenburg</room>
+        <slug>camp2019-1079-session_goc</slug>
+        <title>GOC</title>
+        <subtitle>Introduction &amp; Selection of Botanicals</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Gin Operation Center</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Fraxinas">Fraxinas</person>
         </persons>
         <links/>
       </event>
@@ -1324,6 +1344,26 @@
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Kliment">Kliment</person>
         </persons>
         <links/>
+      </event>
+      <event id="1367" guid="468d9123-d7ea-4647-935e-ae4a3f6e581f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Fomu,_the_FPGA_in_your_USB_Port</url>
+        <logo/>
+        <date>2019-08-22T14:30:00+02:00</date>
+        <start>14:30</start>
+        <duration>1:30</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1367-session_fomu_the_fpga_in_your_usb_port</slug>
+        <title>Fomu, the FPGA in your USB Port</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Come get an FPGA dev board in your USB port and start hacking!</description>
+        <persons/>
+        <links>
+          <link>http://fomu.im</link>
+        </links>
       </event>
       <event id="1102" guid="069ad79f-dd7f-4e2b-92ae-b9eaf484e61f">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder</url>

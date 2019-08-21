@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-21 14:00",
+    "version": "2019-08-21 14:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -928,63 +928,29 @@
                 "links": []
               }
             ],
-            "Village:Free Software Foundation Europe": [
+            "Village:HardwareHackingArea": [
               {
-                "id": 1255,
-                "guid": "e10a5b76-2ca9-4a0d-a1c6-0b3ce24748a8",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along",
+                "id": 1366,
+                "guid": "9f9bb0a0-596f-4ff4-9e7a-d8b9a6b08827",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Fomu,_the_FPGA_in_your_USB_Port",
                 "logo": null,
-                "date": "2019-08-21T19:30:00+02:00",
-                "start": "19:30",
-                "duration": "0:10",
-                "room": "Village:Free Software Foundation Europe",
-                "slug": "camp2019-1255-session_free_software_song_sing_along",
-                "title": "Free Software Song sing-along",
-                "subtitle": "ad-hoc choir",
+                "date": "2019-08-21T22:00:00+02:00",
+                "start": "22:00",
+                "duration": "1:30",
+                "room": "Village:HardwareHackingArea",
+                "slug": "camp2019-1366-session_fomu_the_fpga_in_your_usb_port",
+                "title": "Fomu, the FPGA in your USB Port",
+                "subtitle": "",
                 "track": "self organized sessions",
-                "type": "other",
+                "type": "hands-on",
                 "language": "en",
                 "abstract": "",
-                "description": "Everyday at 19:30 in the Cluster about:freedom we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Eal",
-                    "public_name": "Eal"
-                  }
-                ],
-                "links": []
-              }
-            ],
-            "Village:Schaffenburg": [
-              {
-                "id": 1079,
-                "guid": "6700ed11-b9cb-46ba-8f25-f68a29dfcc64",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:GOC",
-                "logo": null,
-                "date": "2019-08-21T19:00:00+02:00",
-                "start": "19:00",
-                "duration": "1:30",
-                "room": "Village:Schaffenburg",
-                "slug": "camp2019-1079-session_goc",
-                "title": "GOC",
-                "subtitle": "Introduction & Selection of Botanicals",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Gin Operation Center",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Fraxinas",
-                    "public_name": "Fraxinas"
-                  }
-                ],
-                "links": []
-              }
-            ],
-            "Village:HardwareHackingArea": [
+                "description": "Come get an FPGA dev board in your USB port and start hacking!",
+                "persons": [],
+                "links": [
+                  "http://fomu.im"
+                ]
+              },
               {
                 "id": 1257,
                 "guid": "c5d794aa-3b64-4614-a644-528cc379182a",
@@ -1061,6 +1027,62 @@
                     "id": 0,
                     "url": "https://events.ccc.de/camp/2019/wiki/User:Kliment",
                     "public_name": "Kliment"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Village:Free Software Foundation Europe": [
+              {
+                "id": 1255,
+                "guid": "e10a5b76-2ca9-4a0d-a1c6-0b3ce24748a8",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along",
+                "logo": null,
+                "date": "2019-08-21T19:30:00+02:00",
+                "start": "19:30",
+                "duration": "0:10",
+                "room": "Village:Free Software Foundation Europe",
+                "slug": "camp2019-1255-session_free_software_song_sing_along",
+                "title": "Free Software Song sing-along",
+                "subtitle": "ad-hoc choir",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "en",
+                "abstract": "",
+                "description": "Everyday at 19:30 in the Cluster about:freedom we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Eal",
+                    "public_name": "Eal"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Village:Schaffenburg": [
+              {
+                "id": 1079,
+                "guid": "6700ed11-b9cb-46ba-8f25-f68a29dfcc64",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:GOC",
+                "logo": null,
+                "date": "2019-08-21T19:00:00+02:00",
+                "start": "19:00",
+                "duration": "1:30",
+                "room": "Village:Schaffenburg",
+                "slug": "camp2019-1079-session_goc",
+                "title": "GOC",
+                "subtitle": "Introduction & Selection of Botanicals",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Gin Operation Center",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Fraxinas",
+                    "public_name": "Fraxinas"
                   }
                 ],
                 "links": []
@@ -1653,6 +1675,28 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1367,
+                "guid": "468d9123-d7ea-4647-935e-ae4a3f6e581f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Fomu,_the_FPGA_in_your_USB_Port",
+                "logo": null,
+                "date": "2019-08-22T14:30:00+02:00",
+                "start": "14:30",
+                "duration": "1:30",
+                "room": "Village:HardwareHackingArea",
+                "slug": "camp2019-1367-session_fomu_the_fpga_in_your_usb_port",
+                "title": "Fomu, the FPGA in your USB Port",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "en",
+                "abstract": "",
+                "description": "Come get an FPGA dev board in your USB port and start hacking!",
+                "persons": [],
+                "links": [
+                  "http://fomu.im"
+                ]
               },
               {
                 "id": 1102,
