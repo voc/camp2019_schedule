@@ -1,0 +1,26 @@
+{
+  "id": 1362,
+  "guid": "1e5e1add-8b9d-4f3d-887d-04fc4faf5731",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Poly*-/RA-Meetup",
+  "logo": null,
+  "date": "2019-08-22T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "2:00",
+  "room": "Village:ZSH - Zelt Stadt Hessen",
+  "slug": "camp2019-1362-session_poly_ra_meetup",
+  "title": "Poly*-/RA-Meetup",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "de",
+  "abstract": "",
+  "description": "Let's hang around, talk about concepts of interpersonal relationships",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Binbash",
+      "public_name": "Binbash"
+    }
+  ],
+  "links": []
+}

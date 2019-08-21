@@ -1,0 +1,28 @@
+{
+  "id": 1361,
+  "guid": "0d8f7404-43e2-44d2-8de0-0fe29a1a4a40",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Anti_Capitalist_CTF",
+  "logo": null,
+  "date": "2019-08-21T23:59:00+02:00",
+  "start": "23:59",
+  "duration": "4:00",
+  "room": "Village:1komona",
+  "slug": "camp2019-1361-session_anti_capitalist_ctf",
+  "title": "Anti Capitalist CTF",
+  "subtitle": "NO BORDERS NO FLAGS  ANON ANARCHIST ACTION a(A)a",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "en",
+  "abstract": "",
+  "description": "We are tired of this oppressive capitalist system",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:AK47",
+      "public_name": "AK47"
+    }
+  ],
+  "links": [
+    "https://discordleaks.unicornriot.ninja/discord/"
+  ]
+}

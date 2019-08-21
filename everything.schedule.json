@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Elnath; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 13:00",
+    "version": "Elnath; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 13:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -1417,6 +1417,58 @@
                 ]
               }
             ],
+            "Village:1komona": [
+              {
+                "id": 1361,
+                "guid": "0d8f7404-43e2-44d2-8de0-0fe29a1a4a40",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Anti_Capitalist_CTF",
+                "logo": null,
+                "date": "2019-08-21T23:59:00+02:00",
+                "start": "23:59",
+                "duration": "4:00",
+                "room": "Village:1komona",
+                "slug": "camp2019-1361-session_anti_capitalist_ctf",
+                "title": "Anti Capitalist CTF",
+                "subtitle": "NO BORDERS NO FLAGS  ANON ANARCHIST ACTION a(A)a",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "en",
+                "abstract": "",
+                "description": "We are tired of this oppressive capitalist system",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:AK47",
+                    "public_name": "AK47"
+                  }
+                ],
+                "links": [
+                  "https://discordleaks.unicornriot.ninja/discord/"
+                ]
+              },
+              {
+                "id": 1329,
+                "guid": "4dcce96a-fcd9-4ffa-b99b-3bc454b08791",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery",
+                "logo": null,
+                "date": "2019-08-21T17:47:00+02:00",
+                "start": "17:47",
+                "duration": "1:01",
+                "room": "Village:1komona",
+                "slug": "camp2019-1329-session_postapokalyptic_jewellery",
+                "title": "Postapokalyptic jewellery",
+                "subtitle": "scrap tinkering - schrottbasteln",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "living in the postapocalypse and noticing the beauty of relicts of human civilisation, we start to adorn and grace ourselves with it. the workshop offers to create more or less pretty jewellery things out of a big collection of found objects. bring your own nuggets or choose from provided material. there will be a donation box as sad enough the apocalypse didn't make capitalism history.",
+                "persons": [],
+                "links": [
+                  "https://p0stap0calyptic.wordpress.com/"
+                ]
+              }
+            ],
             "Village:Chaoswelle": [
               {
                 "id": 1324,
@@ -2316,28 +2368,32 @@
                 "links": []
               }
             ],
-            "Village:1komona": [
+            "Village:ZSH - Zelt Stadt Hessen": [
               {
-                "id": 1329,
-                "guid": "4dcce96a-fcd9-4ffa-b99b-3bc454b08791",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery",
+                "id": 1363,
+                "guid": "ee27082b-8d58-4dcf-8d05-b28ff3b32e47",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Poly*-/RA-Meetup",
                 "logo": null,
-                "date": "2019-08-21T17:47:00+02:00",
-                "start": "17:47",
-                "duration": "1:01",
-                "room": "Village:1komona",
-                "slug": "camp2019-1329-session_postapokalyptic_jewellery",
-                "title": "Postapokalyptic jewellery",
-                "subtitle": "scrap tinkering - schrottbasteln",
+                "date": "2019-08-21T19:00:00+02:00",
+                "start": "19:00",
+                "duration": "2:00",
+                "room": "Village:ZSH - Zelt Stadt Hessen",
+                "slug": "camp2019-1363-session_poly_ra_meetup",
+                "title": "Poly*-/RA-Meetup",
+                "subtitle": "",
                 "track": "self organized sessions",
-                "type": "workshop",
+                "type": "meeting",
                 "language": "de",
                 "abstract": "",
-                "description": "living in the postapocalypse and noticing the beauty of relicts of human civilisation, we start to adorn and grace ourselves with it. the workshop offers to create more or less pretty jewellery things out of a big collection of found objects. bring your own nuggets or choose from provided material. there will be a donation box as sad enough the apocalypse didn't make capitalism history.",
-                "persons": [],
-                "links": [
-                  "https://p0stap0calyptic.wordpress.com/"
-                ]
+                "description": "Let's hang around, talk about concepts of interpersonal relationships",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Binbash",
+                    "public_name": "Binbash"
+                  }
+                ],
+                "links": []
               }
             ],
             "Village:Sft / pwnda village\u2122": [
@@ -5769,6 +5825,34 @@
                 "links": [
                   "http://pentagame.org"
                 ]
+              }
+            ],
+            "Village:ZSH - Zelt Stadt Hessen": [
+              {
+                "id": 1362,
+                "guid": "1e5e1add-8b9d-4f3d-887d-04fc4faf5731",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Poly*-/RA-Meetup",
+                "logo": null,
+                "date": "2019-08-22T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "2:00",
+                "room": "Village:ZSH - Zelt Stadt Hessen",
+                "slug": "camp2019-1362-session_poly_ra_meetup",
+                "title": "Poly*-/RA-Meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Let's hang around, talk about concepts of interpersonal relationships",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Binbash",
+                    "public_name": "Binbash"
+                  }
+                ],
+                "links": []
               }
             ],
             "Village:Metalab Dome": [
