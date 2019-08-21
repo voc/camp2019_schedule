@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-21 13:30",
+    "version": "2019-08-21 13:50",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -662,8 +662,8 @@
                 "guid": "8fffd29a-b237-48ec-b2cd-4126bff8dd15",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Digitale_Werkzeuge_zum_Verst%C3%A4ndnis_der_Energiewende",
                 "logo": null,
-                "date": "2019-08-21T16:30:00+02:00",
-                "start": "16:30",
+                "date": "2019-08-21T15:30:00+02:00",
+                "start": "15:30",
                 "duration": "0:30",
                 "room": "Village:About:freedom",
                 "slug": "camp2019-1059-session_digitale_werkzeuge_zum_verstaendnis_der_energiewende",
@@ -1819,7 +1819,7 @@
                 "room": "Village:About:freedom",
                 "slug": "camp2019-1357-session_bits_baeume_waechst_forderungen_und_eine_neue_bewegung",
                 "title": "Bits&B\u00e4ume w\u00e4chst: Forderungen und eine neue Bewegung",
-                "subtitle": "about:stage",
+                "subtitle": "about:sessions",
                 "track": "self organized sessions",
                 "type": "talk",
                 "language": "de",

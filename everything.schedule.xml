@@ -1,5 +1,5 @@
 <schedule>
-  <version>Elnath; thm Monkey Island 2: LeChuck’s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 13:30</version>
+  <version>Elnath; thm Monkey Island 2: LeChuck’s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 13:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -1645,8 +1645,8 @@ and amusement.</description>
       <event id="1059" guid="8fffd29a-b237-48ec-b2cd-4126bff8dd15">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Digitale_Werkzeuge_zum_Verst%C3%A4ndnis_der_Energiewende</url>
         <logo/>
-        <date>2019-08-21T16:30:00+02:00</date>
-        <start>16:30</start>
+        <date>2019-08-21T15:30:00+02:00</date>
+        <start>15:30</start>
         <duration>0:30</duration>
         <room>Village:About:freedom</room>
         <slug>camp2019-1059-session_digitale_werkzeuge_zum_verstaendnis_der_energiewende</slug>
@@ -3475,8 +3475,12 @@ Ziel 2: Workflows entwickeln, die Organisationen das Management von vielen Proje
         <track>Talk</track>
         <type>Talk</type>
         <language>en</language>
-        <abstract>With liberty and autonomy for some!</abstract>
-        <description>With liberty and autonomy for some – the techies.</description>
+        <abstract>A rant about liberty and autonomy for some!</abstract>
+        <description>The Blockchain is celebrated for solving all the hard questions, trusted third-parties? Done! Supply-chain-control? Easy! Deliberation of the individual? Complete!&#13;
+&#13;
+But how come, that so many users move to Exchanges (Bitcoin), lawyers consider smart contracts not contracts (Etherium) and most other actually used Blockchains are either permissioned or private (read: databases).&#13;
+&#13;
+So, why does blockchain does not solve any problem and only grants liberty and autonomy for some – the techies themselves? Come hear my take on this and let's debate the present misunderstanding of what the blockchain technology actually can deliver.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -4387,7 +4391,7 @@ Publikum vor.</abstract>
         <room>Village:About:freedom</room>
         <slug>camp2019-1357-session_bits_baeume_waechst_forderungen_und_eine_neue_bewegung</slug>
         <title>Bits&amp;Bäume wächst: Forderungen und eine neue Bewegung</title>
-        <subtitle>about:stage</subtitle>
+        <subtitle>about:sessions</subtitle>
         <track>self organized sessions</track>
         <type>talk</type>
         <language>de</language>

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Elnath; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 13:30",
+    "version": "Elnath; thm Monkey Island 2: LeChuck\u2019s Revenge; lounges 606; lightning Idril; wiki 2019-08-21 13:50",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -1791,8 +1791,8 @@
                 "guid": "8fffd29a-b237-48ec-b2cd-4126bff8dd15",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Digitale_Werkzeuge_zum_Verst%C3%A4ndnis_der_Energiewende",
                 "logo": null,
-                "date": "2019-08-21T16:30:00+02:00",
-                "start": "16:30",
+                "date": "2019-08-21T15:30:00+02:00",
+                "start": "15:30",
                 "duration": "0:30",
                 "room": "Village:About:freedom",
                 "slug": "camp2019-1059-session_digitale_werkzeuge_zum_verstaendnis_der_energiewende",
@@ -3868,8 +3868,8 @@
                 "track": "Talk",
                 "type": "Talk",
                 "language": "en",
-                "abstract": "With liberty and autonomy for some!",
-                "description": "With liberty and autonomy for some \u2013 the techies.",
+                "abstract": "A rant about liberty and autonomy for some!",
+                "description": "The Blockchain is celebrated for solving all the hard questions, trusted third-parties? Done! Supply-chain-control? Easy! Deliberation of the individual? Complete!\r\n\r\nBut how come, that so many users move to Exchanges (Bitcoin), lawyers consider smart contracts not contracts (Etherium) and most other actually used Blockchains are either permissioned or private (read: databases).\r\n\r\nSo, why does blockchain does not solve any problem and only grants liberty and autonomy for some \u2013 the techies themselves? Come hear my take on this and let's debate the present misunderstanding of what the blockchain technology actually can deliver.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -4797,7 +4797,7 @@
                 "room": "Village:About:freedom",
                 "slug": "camp2019-1357-session_bits_baeume_waechst_forderungen_und_eine_neue_bewegung",
                 "title": "Bits&B\u00e4ume w\u00e4chst: Forderungen und eine neue Bewegung",
-                "subtitle": "about:stage",
+                "subtitle": "about:sessions",
                 "track": "self organized sessions",
                 "type": "talk",
                 "language": "de",
