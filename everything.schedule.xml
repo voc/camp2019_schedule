@@ -1,5 +1,5 @@
 <schedule>
-  <version>Gacrux; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 01:30</version>
+  <version>Gacrux; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 07:20</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -1071,7 +1071,7 @@ Check out my mixes on [Soundcloud] (https://soundcloud.com/barbnerdy)</descripti
         <room>Johnson (Workshop 1)</room>
         <slug>camp2019-1359-session_bitcoin_lightning_network_ethereum_for_newbs</slug>
         <title>Bitcoin, Lightning Network, Ethereum for newbs</title>
-        <subtitle>Hands-on crypto-currency wallet</subtitle>
+        <subtitle>Hands-on cryptocurrency wallet</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
         <language>en</language>
@@ -4407,6 +4407,26 @@ Mit Bildern, Screenshots und vielleicht auch dem einen oder anderen kurzen Video
     </room>
     <room name="Hackcenter"/>
     <room name="Johnson (Workshop 1)">
+      <event id="1427" guid="7d83d79e-9969-4eab-b3d8-f3dea3643f63">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Bitcoin,_Lightning_Network,_Ethereum_for_newbs</url>
+        <logo/>
+        <date>2019-08-22T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1427-session_bitcoin_lightning_network_ethereum_for_newbs</slug>
+        <title>Bitcoin, Lightning Network, Ethereum for newbs</title>
+        <subtitle>Hands-on cryptocurrency wallet</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>basics : how to create a crypto wallet, backup and to transact</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Polto">Polto</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1045" guid="886dfb0c-900f-47e1-bcb2-a5dc14c09a10">
         <url>https://events.ccc.de/camp/2019/wiki/Session:CCChoir</url>
         <logo/>
@@ -7349,6 +7369,26 @@ Bass ahoi</description>
       </event>
     </room>
     <room name="Johnson (Workshop 1)">
+      <event id="1428" guid="7c95e873-c3b0-5eb3-9c23-4c2d376c3df3">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Bitcoin,_Lightning_Network,_Ethereum_for_newbs</url>
+        <logo/>
+        <date>2019-08-23T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1428-session_bitcoin_lightning_network_ethereum_for_newbs</slug>
+        <title>Bitcoin, Lightning Network, Ethereum for newbs</title>
+        <subtitle>Hands-on cryptocurrency wallet</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>basics : how to create a crypto wallet, backup and to transact</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Polto">Polto</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1383" guid="3baf0897-ca98-4031-a4ae-aa29e47248b6">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Numerical_Weather_Prediction_tutorial</url>
         <logo/>
