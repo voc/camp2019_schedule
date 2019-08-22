@@ -1,0 +1,28 @@
+{
+  "id": 1469,
+  "guid": "5af52d1a-ba8c-4d54-9049-8e6e6273d647",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Ethical_hosting:_where_are_your_data%3F",
+  "logo": null,
+  "date": "2019-08-24T15:00:00+02:00",
+  "start": "15:00",
+  "duration": "1:00",
+  "room": "Village:1komona",
+  "slug": "camp2019-1469-session_ethical_hosting_where_are_your_data_",
+  "title": "Ethical hosting: where are your data?",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "feedback from CHATONS Marsnet",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Florence2Marsnet",
+      "public_name": "Florence2Marsnet"
+    }
+  ],
+  "links": [
+    "https://chatons.org/en"
+  ]
+}

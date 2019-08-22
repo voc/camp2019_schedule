@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 21:10",
+    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 21:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -9098,6 +9098,28 @@
                 "links": [
                   "https://p0stap0calyptic.wordpress.com/"
                 ]
+              },
+              {
+                "id": 1470,
+                "guid": "b0b2cf27-0b81-4977-9080-53e2a70ee19d",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:TechCoop_Meetup",
+                "logo": null,
+                "date": "2019-08-23T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "1:30",
+                "room": "Village:1komona",
+                "slug": "camp2019-1470-session_techcoop_meetup",
+                "title": "TechCoop Meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "MeetUp for worker owned collectives and interested people",
+                "persons": [],
+                "links": [
+                  "https://it-kollektiv.com"
+                ]
               }
             ],
             "Village:HardwareHackingArea": [
@@ -10084,7 +10106,7 @@
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "Reclaim Club Culture goes Feediverse, we want to learn about alternatives to facebook: We need a platform that includes social multimedia feeds and most importantly: a calendar for mobilization/invitation. We will prepare a campaign to get institutions of the cultural scene to use that alternative platform.",
+                "description": "Reclaim Club Culture goes Fediverse, we want to learn about alternatives to facebook: We need a platform that includes social multimedia feeds and most importantly: a calendar for mobilization/invitation. We will prepare a campaign to get institutions of the cultural scene to use that alternative platform.",
                 "persons": [],
                 "links": [
                   "https://twitter.com/ReclaimYourClub"
@@ -12674,6 +12696,34 @@
                 ]
               },
               {
+                "id": 1469,
+                "guid": "5af52d1a-ba8c-4d54-9049-8e6e6273d647",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Ethical_hosting:_where_are_your_data%3F",
+                "logo": null,
+                "date": "2019-08-24T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "1:00",
+                "room": "Village:1komona",
+                "slug": "camp2019-1469-session_ethical_hosting_where_are_your_data_",
+                "title": "Ethical hosting: where are your data?",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "feedback from CHATONS Marsnet",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Florence2Marsnet",
+                    "public_name": "Florence2Marsnet"
+                  }
+                ],
+                "links": [
+                  "https://chatons.org/en"
+                ]
+              },
+              {
                 "id": 1461,
                 "guid": "5ac068f1-3077-4173-a582-e5bef421a05d",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Hosting_for_non-geeks:_communication_needs",
@@ -12926,6 +12976,28 @@
                 "links": [
                   "http://pentagame.org"
                 ]
+              }
+            ],
+            "Village:AFRA": [
+              {
+                "id": 1468,
+                "guid": "07324fcb-71b6-4c4f-8ef2-05c345f34df3",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Digital_Activism_Training_-_Infrastructuring_for_the_upcoming_rave_protests_for_climate",
+                "logo": null,
+                "date": "2019-08-24T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "2:00",
+                "room": "Village:AFRA",
+                "slug": "camp2019-1468-session_digital_activism_training_infrastructuring_for_the_upcoming_rave_protests_for_climate",
+                "title": "Digital Activism Training - Infrastructuring for the upcoming rave protests for climate",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "We are looking for supporters and advisors, because we would to upgrade our communication infrastructure being used in mass scale demonstrations in the city.",
+                "persons": [],
+                "links": []
               }
             ],
             "Village:Digitalcourage": [

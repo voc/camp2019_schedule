@@ -1,0 +1,22 @@
+{
+  "id": 1470,
+  "guid": "b0b2cf27-0b81-4977-9080-53e2a70ee19d",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:TechCoop_Meetup",
+  "logo": null,
+  "date": "2019-08-23T15:00:00+02:00",
+  "start": "15:00",
+  "duration": "1:30",
+  "room": "Village:1komona",
+  "slug": "camp2019-1470-session_techcoop_meetup",
+  "title": "TechCoop Meetup",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "de",
+  "abstract": "",
+  "description": "MeetUp for worker owned collectives and interested people",
+  "persons": [],
+  "links": [
+    "https://it-kollektiv.com"
+  ]
+}

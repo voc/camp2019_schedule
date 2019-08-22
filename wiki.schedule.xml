@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-22 21:10</version>
+  <version>2019-08-22 21:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -3606,6 +3606,26 @@
           <link>https://p0stap0calyptic.wordpress.com/</link>
         </links>
       </event>
+      <event id="1470" guid="b0b2cf27-0b81-4977-9080-53e2a70ee19d">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:TechCoop_Meetup</url>
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1470-session_techcoop_meetup</slug>
+        <title>TechCoop Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>MeetUp for worker owned collectives and interested people</description>
+        <persons/>
+        <links>
+          <link>https://it-kollektiv.com</link>
+        </links>
+      </event>
     </room>
     <room name="Village:HardwareHackingArea">
       <event id="1032" guid="8b07d0a4-891f-48d8-833b-694299433d13">
@@ -4389,7 +4409,7 @@
         <type>workshop</type>
         <language>en</language>
         <abstract/>
-        <description>Reclaim Club Culture goes Feediverse, we want to learn about alternatives to facebook: We need a platform that includes social multimedia feeds and most importantly: a calendar for mobilization/invitation. We will prepare a campaign to get institutions of the cultural scene to use that alternative platform.</description>
+        <description>Reclaim Club Culture goes Fediverse, we want to learn about alternatives to facebook: We need a platform that includes social multimedia feeds and most importantly: a calendar for mobilization/invitation. We will prepare a campaign to get institutions of the cultural scene to use that alternative platform.</description>
         <persons/>
         <links>
           <link>https://twitter.com/ReclaimYourClub</link>
@@ -5583,6 +5603,28 @@
           <link>http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence</link>
         </links>
       </event>
+      <event id="1469" guid="5af52d1a-ba8c-4d54-9049-8e6e6273d647">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Ethical_hosting:_where_are_your_data%3F</url>
+        <logo/>
+        <date>2019-08-24T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1469-session_ethical_hosting_where_are_your_data_</slug>
+        <title>Ethical hosting: where are your data?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>feedback from CHATONS Marsnet</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Florence2Marsnet">Florence2Marsnet</person>
+        </persons>
+        <links>
+          <link>https://chatons.org/en</link>
+        </links>
+      </event>
       <event id="1461" guid="5ac068f1-3077-4173-a582-e5bef421a05d">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Hosting_for_non-geeks:_communication_needs</url>
         <logo/>
@@ -5792,6 +5834,26 @@
         <links>
           <link>http://pentagame.org</link>
         </links>
+      </event>
+    </room>
+    <room name="Village:AFRA">
+      <event id="1468" guid="07324fcb-71b6-4c4f-8ef2-05c345f34df3">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Digital_Activism_Training_-_Infrastructuring_for_the_upcoming_rave_protests_for_climate</url>
+        <logo/>
+        <date>2019-08-24T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>2:00</duration>
+        <room>Village:AFRA</room>
+        <slug>camp2019-1468-session_digital_activism_training_infrastructuring_for_the_upcoming_rave_protests_for_climate</slug>
+        <title>Digital Activism Training - Infrastructuring for the upcoming rave protests for climate</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>We are looking for supporters and advisors, because we would to upgrade our communication infrastructure being used in mass scale demonstrations in the city.</description>
+        <persons/>
+        <links/>
       </event>
     </room>
     <room name="Village:Digitalcourage">
