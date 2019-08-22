@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-22 07:20</version>
+  <version>2019-08-22 08:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -3368,6 +3368,26 @@
         <description>Taste a variety of beers from Franconia</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Jur">Jur</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1429" guid="bddfcb55-1677-46a8-9c3d-7abe3c6fb8b4">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Erfahrungsbericht_Coder_Dojo</url>
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Village:Backspace</room>
+        <slug>camp2019-1429-session_erfahrungsbericht_coder_dojo</slug>
+        <title>Erfahrungsbericht Coder Dojo</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Wir erzählen unsere Erfahrungen mit Coder Dojos</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Advi">Advi</person>
         </persons>
         <links/>
       </event>

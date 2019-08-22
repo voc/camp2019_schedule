@@ -1,0 +1,26 @@
+{
+  "id": 1429,
+  "guid": "bddfcb55-1677-46a8-9c3d-7abe3c6fb8b4",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Erfahrungsbericht_Coder_Dojo",
+  "logo": null,
+  "date": "2019-08-23T15:00:00+02:00",
+  "start": "15:00",
+  "duration": "1:00",
+  "room": "Village:Backspace",
+  "slug": "camp2019-1429-session_erfahrungsbericht_coder_dojo",
+  "title": "Erfahrungsbericht Coder Dojo",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Wir erz\u00e4hlen unsere Erfahrungen mit Coder Dojos",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Advi",
+      "public_name": "Advi"
+    }
+  ],
+  "links": []
+}
