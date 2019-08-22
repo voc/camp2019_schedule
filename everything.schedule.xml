@@ -1,5 +1,5 @@
 <schedule>
-  <version>Gacrux; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 11:10</version>
+  <version>Gacrux; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 11:20</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -2957,13 +2957,14 @@ Finally we will give some ideas on how to read between the lines in datasheets. 
         <room>Meitner</room>
         <slug>TYUD9P</slug>
         <url>https://c3lt.de/camp2019/talk/TYUD9P</url>
-        <title>Digital Analog TV</title>
+        <title>Digital Analog TV (en)</title>
         <subtitle/>
         <track/>
         <type>Lightning Talk</type>
         <language>de</language>
         <abstract>A walk through of how I implemented PAL analog color television using ffmpeg, GNU Radio Companion and the rad1o.</abstract>
         <description>[Hackaday Project Page](https://hackaday.io/project/14904-analog-tv-broadcast-of-the-new-age)&#13;
+&#13;
 [Slides](https://pad.c3loc.de/p/Digital_Analog_TV)</description>
         <recording>
           <license/>
