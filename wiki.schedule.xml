@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-22 08:10</version>
+  <version>2019-08-22 10:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -1717,26 +1717,6 @@
         </links>
       </event>
     </room>
-    <room name="Village:Social Dist0rtion Protocol">
-      <event id="1360" guid="0363f99a-6c55-48d3-a77e-9cb0beb9f27a">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:2050:_A_Co2_Odissey</url>
-        <logo/>
-        <date>2019-08-22T17:30:00+02:00</date>
-        <start>17:30</start>
-        <duration>0:45</duration>
-        <room>Village:Social Dist0rtion Protocol</room>
-        <slug>camp2019-1360-session_2050_a_co2_odissey</slug>
-        <title>2050: A Co2 Odissey</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>Our "little" journey to understand how to save the human species and presentation of our project to save us all.</description>
-        <persons/>
-        <links/>
-      </event>
-    </room>
     <room name="Village:Chaoswelle">
       <event id="1345" guid="1595bd1c-6966-4f06-9fc6-9e01692e1153">
         <url>https://events.ccc.de/camp/2019/wiki/Session:AREDN</url>
@@ -3330,6 +3310,26 @@
       </event>
     </room>
     <room name="Fireplace (Workshop THM)"/>
+    <room name="Village:Social Dist0rtion Protocol">
+      <event id="1360" guid="0363f99a-6c55-48d3-a77e-9cb0beb9f27a">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:2050:_A_Co2_Odissey</url>
+        <logo/>
+        <date>2019-08-23T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>0:45</duration>
+        <room>Village:Social Dist0rtion Protocol</room>
+        <slug>camp2019-1360-session_2050_a_co2_odissey</slug>
+        <title>2050: A Co2 Odissey</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Our "little" journey to understand how to save the human species and presentation of our project to save us all.</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
     <room name="Village:Backspace">
       <event id="1029" guid="0d7d26f7-702d-4311-8e34-a6aa8ef87895">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Advi_Weekly_Aufnahme</url>
