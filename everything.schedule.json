@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Gacrux; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 13:40",
+    "version": "Gacrux; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 14:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -5460,32 +5460,6 @@
                 "links": []
               },
               {
-                "id": 1038,
-                "guid": "2af06946-a29f-426f-9bd3-d24b377b221a",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Befreie_deine_WLAN_Steckdose",
-                "logo": null,
-                "date": "2019-08-22T14:00:00+02:00",
-                "start": "14:00",
-                "duration": "2:00",
-                "room": "Village:About:freedom",
-                "slug": "camp2019-1038-session_befreie_deine_wlan_steckdose",
-                "title": "Befreie deine WLAN Steckdose",
-                "subtitle": "Introduction, Hands-On",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "de",
-                "abstract": "",
-                "description": "Freie Firmware Tasmota auf WLAN Steckdose flashen",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Mischk",
-                    "public_name": "Mischk"
-                  }
-                ],
-                "links": []
-              },
-              {
                 "id": 1259,
                 "guid": "f9cc11df-dd08-40f4-b7ba-1860455d5147",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Bits%26B%C3%A4ume_%26_Co:_How_to_shape_a_responsible_world%3F",
@@ -5499,14 +5473,19 @@
                 "subtitle": "Starting Panel",
                 "track": "self organized sessions",
                 "type": "workshop",
-                "language": "en",
+                "language": "de",
                 "abstract": "",
-                "description": "As activists we seek for a fundamental change in this world towards a fair and responsible society. The invited groups will give their analysis of the problems and present their work. Together we will identify questions or common projects we will work on in the follow-up workshops.",
+                "description": "Als AktivistInnen streben wir einen grundlegenden Wandel in dieser Welt an hin zu einer gerechten und verantwortungsvollen Gesellschaft. Die Ziele sind dabei angelehnt and Bits&B\u00e4ume-Bewegung, also eine Zusammenarbeit von Techies und \u00d6kos.",
                 "persons": [
                   {
                     "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
-                    "public_name": "Gnunicorn"
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Blipp",
+                    "public_name": "Blipp"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Rainer",
+                    "public_name": "Rainer"
                   }
                 ],
                 "links": []
@@ -6519,6 +6498,28 @@
                 "links": [
                   "http://github.com/fort-nix/nix-bitcoin"
                 ]
+              },
+              {
+                "id": 1441,
+                "guid": "903a6baf-f56a-4e25-98fe-802bac852070",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Ice_Dragon_-_A_Lightning_Network_paywall_service",
+                "logo": null,
+                "date": "2019-08-22T19:00:00+02:00",
+                "start": "19:00",
+                "duration": "1:00",
+                "room": "Village:402 Payment Required",
+                "slug": "camp2019-1441-session_ice_dragon_a_lightning_network_paywall_service",
+                "title": "Ice Dragon - A Lightning Network paywall service",
+                "subtitle": "How to earn money with our blog without annoying ads",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "We're going to present the project Ice Dragon that we created during a hackathon",
+                "persons": [],
+                "links": [
+                  "http://www.ice-dragon.ch"
+                ]
               }
             ],
             "Village:Munich Maker Village": [
@@ -6919,6 +6920,64 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Village:Italian Hackers' Embassy": [
+              {
+                "id": 1442,
+                "guid": "a4d49ebc-d5ff-56f6-be75-d313eaad50a3",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Portraits_of_Hackers_-_2019",
+                "logo": null,
+                "date": "2019-08-22T23:30:00+02:00",
+                "start": "23:30",
+                "duration": "1:00",
+                "room": "Village:Italian Hackers' Embassy",
+                "slug": "camp2019-1442-session_portraits_of_hackers_2019",
+                "title": "Portraits of Hackers - 2019",
+                "subtitle": "Portraits of Hackers - 2019 Edition",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "Come and have your own Portrait taken!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Lastknight",
+                    "public_name": "Lastknight"
+                  }
+                ],
+                "links": [
+                  "http://mgpf.it/release"
+                ]
+              },
+              {
+                "id": 1443,
+                "guid": "2c464f02-beda-42c8-92a1-eaa7d9905978",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Portraits_of_Hackers_-_2019",
+                "logo": null,
+                "date": "2019-08-22T23:30:00+02:00",
+                "start": "23:30",
+                "duration": "1:00",
+                "room": "Village:Italian Hackers' Embassy",
+                "slug": "camp2019-1443-session_portraits_of_hackers_2019",
+                "title": "Portraits of Hackers - 2019",
+                "subtitle": "Portraits of Hackers - 2019 Edition",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "Come and have your own Portrait taken!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Lastknight",
+                    "public_name": "Lastknight"
+                  }
+                ],
+                "links": [
+                  "http://mgpf.it/release"
+                ]
               }
             ],
             "Village:Harbor": [
@@ -9247,14 +9306,19 @@
                 "subtitle": "Follow up",
                 "track": "self organized sessions",
                 "type": "workshop",
-                "language": "en",
+                "language": "de",
                 "abstract": "",
-                "description": "As activists we seek for a fundamental change in this world towards a fair and responsible society. The invited groups will give their analysis of the problems and present their work. Together we will identify questions or common projects we will work on in the follow-up workshops.",
+                "description": "Als AktivistInnen streben wir einen grundlegenden Wandel in dieser Welt an hin zu einer gerechten und verantwortungsvollen Gesellschaft. Die Ziele sind dabei angelehnt and Bits&B\u00e4ume-Bewegung, also eine Zusammenarbeit von Techies und \u00d6kos.",
                 "persons": [
                   {
                     "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
-                    "public_name": "Gnunicorn"
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Blipp",
+                    "public_name": "Blipp"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Rainer",
+                    "public_name": "Rainer"
                   }
                 ],
                 "links": []
@@ -10126,6 +10190,36 @@
                 "persons": [],
                 "links": [
                   "http://pentagame.org"
+                ]
+              }
+            ],
+            "Village:Italian Hackers' Embassy": [
+              {
+                "id": 1444,
+                "guid": "f46b0724-f992-5099-a1d4-6c9794f7c0bf",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Portraits_of_Hackers_-_2019",
+                "logo": null,
+                "date": "2019-08-23T23:30:00+02:00",
+                "start": "23:30",
+                "duration": "1:00",
+                "room": "Village:Italian Hackers' Embassy",
+                "slug": "camp2019-1444-session_portraits_of_hackers_2019",
+                "title": "Portraits of Hackers - 2019",
+                "subtitle": "Portraits of Hackers - 2019 Edition",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "Come and have your own Portrait taken!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Lastknight",
+                    "public_name": "Lastknight"
+                  }
+                ],
+                "links": [
+                  "http://mgpf.it/release"
                 ]
               }
             ],
@@ -11600,14 +11694,19 @@
                 "subtitle": "Follow up",
                 "track": "self organized sessions",
                 "type": "workshop",
-                "language": "en",
+                "language": "de",
                 "abstract": "",
-                "description": "As activists we seek for a fundamental change in this world towards a fair and responsible society. The invited groups will give their analysis of the problems and present their work. Together we will identify questions or common projects we will work on in the follow-up workshops.",
+                "description": "Als AktivistInnen streben wir einen grundlegenden Wandel in dieser Welt an hin zu einer gerechten und verantwortungsvollen Gesellschaft. Die Ziele sind dabei angelehnt and Bits&B\u00e4ume-Bewegung, also eine Zusammenarbeit von Techies und \u00d6kos.",
                 "persons": [
                   {
                     "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
-                    "public_name": "Gnunicorn"
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Blipp",
+                    "public_name": "Blipp"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Rainer",
+                    "public_name": "Rainer"
                   }
                 ],
                 "links": []

@@ -1,0 +1,22 @@
+{
+  "id": 1441,
+  "guid": "903a6baf-f56a-4e25-98fe-802bac852070",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Ice_Dragon_-_A_Lightning_Network_paywall_service",
+  "logo": null,
+  "date": "2019-08-22T19:00:00+02:00",
+  "start": "19:00",
+  "duration": "1:00",
+  "room": "Village:402 Payment Required",
+  "slug": "camp2019-1441-session_ice_dragon_a_lightning_network_paywall_service",
+  "title": "Ice Dragon - A Lightning Network paywall service",
+  "subtitle": "How to earn money with our blog without annoying ads",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "We're going to present the project Ice Dragon that we created during a hackathon",
+  "persons": [],
+  "links": [
+    "http://www.ice-dragon.ch"
+  ]
+}

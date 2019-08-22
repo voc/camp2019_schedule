@@ -12,14 +12,19 @@
   "subtitle": "Starting Panel",
   "track": "self organized sessions",
   "type": "workshop",
-  "language": "en",
+  "language": "de",
   "abstract": "",
-  "description": "As activists we seek for a fundamental change in this world towards a fair and responsible society. The invited groups will give their analysis of the problems and present their work. Together we will identify questions or common projects we will work on in the follow-up workshops.",
+  "description": "Als AktivistInnen streben wir einen grundlegenden Wandel in dieser Welt an hin zu einer gerechten und verantwortungsvollen Gesellschaft. Die Ziele sind dabei angelehnt and Bits&B\u00e4ume-Bewegung, also eine Zusammenarbeit von Techies und \u00d6kos.",
   "persons": [
     {
       "id": 0,
-      "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
-      "public_name": "Gnunicorn"
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Blipp",
+      "public_name": "Blipp"
+    },
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Rainer",
+      "public_name": "Rainer"
     }
   ],
   "links": []
