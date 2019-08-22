@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-22 17:30</version>
+  <version>2019-08-22 18:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -1292,6 +1292,26 @@
         <abstract/>
         <description>Offene Chorprobe und physikalische Grundlagen der Musik</description>
         <persons/>
+        <links/>
+      </event>
+      <event id="1456" guid="f0ab5df4-2494-4cc4-9126-826a7b40c45a">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Environmental_and_IMU_sensors_on_the_card10_badge</url>
+        <logo/>
+        <date>2019-08-22T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>0:45</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1456-session_environmental_and_imu_sensors_on_the_card10_badge</slug>
+        <title>Environmental and IMU sensors on the card10 badge</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>In this workshop we're providing some more insights on the environmental and orientation sensors on the card10 badge and how to use them.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Frederik">Frederik</person>
+        </persons>
         <links/>
       </event>
       <event id="1262" guid="afa80109-3761-4b3f-b2e8-57087d164b0d">

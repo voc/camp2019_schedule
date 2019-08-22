@@ -1,0 +1,26 @@
+{
+  "id": 1456,
+  "guid": "f0ab5df4-2494-4cc4-9126-826a7b40c45a",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Environmental_and_IMU_sensors_on_the_card10_badge",
+  "logo": null,
+  "date": "2019-08-22T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "0:45",
+  "room": "Johnson (Workshop 1)",
+  "slug": "camp2019-1456-session_environmental_and_imu_sensors_on_the_card10_badge",
+  "title": "Environmental and IMU sensors on the card10 badge",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "In this workshop we're providing some more insights on the environmental and orientation sensors on the card10 badge and how to use them.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Frederik",
+      "public_name": "Frederik"
+    }
+  ],
+  "links": []
+}
