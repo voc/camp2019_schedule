@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-22 21:50</version>
+  <version>2019-08-22 22:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -2038,26 +2038,6 @@
           <link>https://p0stap0calyptic.wordpress.com/</link>
         </links>
       </event>
-      <event id="1400" guid="f4b1cb32-414a-46cc-881c-16e6c35b72a1">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Trickmisch_-_Trickfilme_erstellen</url>
-        <logo/>
-        <date>2019-08-22T15:00:00+02:00</date>
-        <start>15:00</start>
-        <duration>2:00</duration>
-        <room>Village:1komona</room>
-        <slug>camp2019-1400-session_trickmisch_trickfilme_erstellen</slug>
-        <title>Trickmisch - Trickfilme erstellen</title>
-        <subtitle>Trickfilmworkshop</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons/>
-        <links>
-          <link>http://trixmix.tv</link>
-        </links>
-      </event>
     </room>
     <room name="Village:Königlich Bayerisches Amtsvillage">
       <event id="1438" guid="38398c8e-5432-4b2b-a374-7b0ef7daa4f3">
@@ -3624,6 +3604,26 @@
         <persons/>
         <links>
           <link>https://it-kollektiv.com</link>
+        </links>
+      </event>
+      <event id="1400" guid="f4b1cb32-414a-46cc-881c-16e6c35b72a1">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Trickmisch_-_Trickfilme_erstellen</url>
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1400-session_trickmisch_trickfilme_erstellen</slug>
+        <title>Trickmisch - Trickfilme erstellen</title>
+        <subtitle>Trickfilmworkshop</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>http://trixmix.tv</link>
         </links>
       </event>
     </room>

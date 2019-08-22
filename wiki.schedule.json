@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-22 21:50",
+    "version": "2019-08-22 22:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -2558,28 +2558,6 @@
                 "links": [
                   "https://p0stap0calyptic.wordpress.com/"
                 ]
-              },
-              {
-                "id": 1400,
-                "guid": "f4b1cb32-414a-46cc-881c-16e6c35b72a1",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Trickmisch_-_Trickfilme_erstellen",
-                "logo": null,
-                "date": "2019-08-22T15:00:00+02:00",
-                "start": "15:00",
-                "duration": "2:00",
-                "room": "Village:1komona",
-                "slug": "camp2019-1400-session_trickmisch_trickfilme_erstellen",
-                "title": "Trickmisch - Trickfilme erstellen",
-                "subtitle": "Trickfilmworkshop",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "",
-                "abstract": "",
-                "description": "",
-                "persons": [],
-                "links": [
-                  "http://trixmix.tv"
-                ]
               }
             ],
             "Village:K\u00f6niglich Bayerisches Amtsvillage": [
@@ -4557,6 +4535,28 @@
                 "persons": [],
                 "links": [
                   "https://it-kollektiv.com"
+                ]
+              },
+              {
+                "id": 1400,
+                "guid": "f4b1cb32-414a-46cc-881c-16e6c35b72a1",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Trickmisch_-_Trickfilme_erstellen",
+                "logo": null,
+                "date": "2019-08-23T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "2:00",
+                "room": "Village:1komona",
+                "slug": "camp2019-1400-session_trickmisch_trickfilme_erstellen",
+                "title": "Trickmisch - Trickfilme erstellen",
+                "subtitle": "Trickfilmworkshop",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "",
+                "abstract": "",
+                "description": "",
+                "persons": [],
+                "links": [
+                  "http://trixmix.tv"
                 ]
               }
             ],
