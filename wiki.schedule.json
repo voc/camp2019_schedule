@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-22 14:30",
+    "version": "2019-08-22 15:11",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -15,39 +15,6 @@
           "day_start": "2019-08-21T09:00:00+02:00",
           "day_end": "2019-08-22T04:00:00+02:00",
           "rooms": {
-            "Rockmore Booth": [],
-            "Kemistry Lounge": [],
-            "Plank": [],
-            "Hackcenter": [
-              {
-                "id": 1233,
-                "guid": "f5d15859-c9b5-44c8-8565-cb22daacedc8",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant",
-                "logo": null,
-                "date": "2019-08-21T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "1:30",
-                "room": "Hackcenter",
-                "slug": "camp2019-1233-session_susi_ai_open_source_voice_assistant",
-                "title": "SUSI.AI Open Source Voice Assistant",
-                "subtitle": "Learn about SUSI.AI and how to build your own smart speaker",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:MarioB",
-                    "public_name": "MarioB"
-                  }
-                ],
-                "links": [
-                  "https://susi.ai"
-                ]
-              }
-            ],
             "Johnson (Workshop 1)": [
               {
                 "id": 1359,
@@ -139,7 +106,12 @@
                 ]
               }
             ],
-            "Fireplace (Workshop THM)": [],
+            "Plank": [],
+            "Rockmore Booth": [],
+            "Kemistry Lounge": [],
+            "Fireplace (Workshop THM)Hackcenter": [],
+            "Hackcenter 1": [],
+            "Hackcenter 3": [],
             "Village:Haecksen": [
               {
                 "id": 1274,
@@ -1403,6 +1375,36 @@
                 "links": []
               }
             ],
+            "Hackcenter": [
+              {
+                "id": 1233,
+                "guid": "f5d15859-c9b5-44c8-8565-cb22daacedc8",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant",
+                "logo": null,
+                "date": "2019-08-21T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:30",
+                "room": "Hackcenter",
+                "slug": "camp2019-1233-session_susi_ai_open_source_voice_assistant",
+                "title": "SUSI.AI Open Source Voice Assistant",
+                "subtitle": "Learn about SUSI.AI and how to build your own smart speaker",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:MarioB",
+                    "public_name": "MarioB"
+                  }
+                ],
+                "links": [
+                  "https://susi.ai"
+                ]
+              }
+            ],
             "Village:Sft / pwnda village\u2122": [
               {
                 "id": 1335,
@@ -1577,10 +1579,6 @@
           "day_start": "2019-08-22T09:00:00+02:00",
           "day_end": "2019-08-23T04:00:00+02:00",
           "rooms": {
-            "Rockmore Booth": [],
-            "Kemistry Lounge": [],
-            "Plank": [],
-            "Hackcenter": [],
             "Johnson (Workshop 1)": [
               {
                 "id": 1427,
@@ -1821,7 +1819,35 @@
                 ]
               }
             ],
-            "Fireplace (Workshop THM)": [],
+            "Plank": [],
+            "Rockmore Booth": [],
+            "Kemistry Lounge": [],
+            "Fireplace (Workshop THM)Hackcenter": [],
+            "Hackcenter 1": [
+              {
+                "id": 1062,
+                "guid": "56989b98-d3d7-44db-a9c5-db4553adeed2",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:EightOS",
+                "logo": null,
+                "date": "2019-08-22T20:00:00+02:00",
+                "start": "20:00",
+                "duration": "1:00",
+                "room": "Hackcenter 1",
+                "slug": "camp2019-1062-session_eightos",
+                "title": "EightOS",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "!!! Time change !!! A physical practice session: bodymind operating system \u2014 human firmware update. Hackcenter is the meeting point. We will do the session at a space outside.",
+                "persons": [],
+                "links": [
+                  "http://www.8os.io"
+                ]
+              }
+            ],
+            "Hackcenter 3": [],
             "Village:Chaoswelle": [
               {
                 "id": 1345,
@@ -2920,30 +2946,6 @@
                 "links": []
               }
             ],
-            "Hackcenter 1": [
-              {
-                "id": 1062,
-                "guid": "56989b98-d3d7-44db-a9c5-db4553adeed2",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:EightOS",
-                "logo": null,
-                "date": "2019-08-22T20:00:00+02:00",
-                "start": "20:00",
-                "duration": "1:00",
-                "room": "Hackcenter 1",
-                "slug": "camp2019-1062-session_eightos",
-                "title": "EightOS",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "!!! Time change !!! A physical practice session: bodymind operating system \u2014 human firmware update. Hackcenter is the meeting point. We will do the session at a space outside.",
-                "persons": [],
-                "links": [
-                  "http://www.8os.io"
-                ]
-              }
-            ],
             "Village:Haecksen": [
               {
                 "id": 1322,
@@ -3867,61 +3869,6 @@
           "day_start": "2019-08-23T09:00:00+02:00",
           "day_end": "2019-08-24T04:00:00+02:00",
           "rooms": {
-            "Rockmore Booth": [],
-            "Kemistry Lounge": [],
-            "Plank": [],
-            "Hackcenter": [
-              {
-                "id": 1041,
-                "guid": "7976438d-2b1a-4303-96f5-d6846c9f42f6",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bodymind_Operating_System",
-                "logo": null,
-                "date": "2019-08-23T17:30:00+02:00",
-                "start": "17:30",
-                "duration": "2:00",
-                "room": "Hackcenter",
-                "slug": "camp2019-1041-session_bodymind_operating_system",
-                "title": "Bodymind Operating System",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Physical practice session where we explore the notions of hacking through the human body.",
-                "persons": [],
-                "links": [
-                  "http://www.8os.io"
-                ]
-              },
-              {
-                "id": 1232,
-                "guid": "fe13b901-cc23-4258-91cb-631e29cebe39",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant",
-                "logo": null,
-                "date": "2019-08-23T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "1:30",
-                "room": "Hackcenter",
-                "slug": "camp2019-1232-session_susi_ai_open_source_voice_assistant",
-                "title": "SUSI.AI Open Source Voice Assistant",
-                "subtitle": "Learn about SUSI.AI and how to build your own smart speaker",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:MarioB",
-                    "public_name": "MarioB"
-                  }
-                ],
-                "links": [
-                  "https://susi.ai"
-                ]
-              }
-            ],
             "Johnson (Workshop 1)": [
               {
                 "id": 1428,
@@ -4048,7 +3995,33 @@
                 "links": []
               }
             ],
-            "Fireplace (Workshop THM)": [],
+            "Plank": [],
+            "Rockmore Booth": [],
+            "Kemistry Lounge": [],
+            "Fireplace (Workshop THM)Hackcenter": [],
+            "Hackcenter 1": [],
+            "Hackcenter 3": [
+              {
+                "id": 1052,
+                "guid": "46bdea32-2063-4f57-9b69-8ae65516c241",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Contributing_to_nixpkgs_for_Newbies",
+                "logo": null,
+                "date": "2019-08-23T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "0:45",
+                "room": "Hackcenter 3",
+                "slug": "camp2019-1052-session_contributing_to_nixpkgs_for_newbies",
+                "title": "Contributing to nixpkgs for Newbies",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Learn how you can contribute to the nixpkgs git repo",
+                "persons": [],
+                "links": []
+              }
+            ],
             "Village:Social Dist0rtion Protocol": [
               {
                 "id": 1360,
@@ -4875,6 +4848,32 @@
                 "links": []
               },
               {
+                "id": 1445,
+                "guid": "cdca4786-006b-5a2b-b446-decb9ea12ee5",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Modular_Synths_Impro_LIVE_performance_1)3%5C/1532",
+                "logo": null,
+                "date": "2019-08-23T22:00:00+02:00",
+                "start": "22:00",
+                "duration": "2:00",
+                "room": "Village:About:freedom",
+                "slug": "camp2019-1445-session_modular_synths_impro_live_performance_1_3_1532",
+                "title": "Modular Synths Impro LIVE performance 1)3\\/1532",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "de",
+                "abstract": "",
+                "description": "modular synths impro",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Benks",
+                    "public_name": "Benks"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1229,
                 "guid": "d28fed56-ab47-4377-baf2-e4e24cc1065a",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:R5_Meeting_(CCC_working_group)",
@@ -4988,6 +4987,58 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Hackcenter": [
+              {
+                "id": 1041,
+                "guid": "7976438d-2b1a-4303-96f5-d6846c9f42f6",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bodymind_Operating_System",
+                "logo": null,
+                "date": "2019-08-23T17:30:00+02:00",
+                "start": "17:30",
+                "duration": "2:00",
+                "room": "Hackcenter",
+                "slug": "camp2019-1041-session_bodymind_operating_system",
+                "title": "Bodymind Operating System",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Physical practice session where we explore the notions of hacking through the human body.",
+                "persons": [],
+                "links": [
+                  "http://www.8os.io"
+                ]
+              },
+              {
+                "id": 1232,
+                "guid": "fe13b901-cc23-4258-91cb-631e29cebe39",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant",
+                "logo": null,
+                "date": "2019-08-23T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:30",
+                "room": "Hackcenter",
+                "slug": "camp2019-1232-session_susi_ai_open_source_voice_assistant",
+                "title": "SUSI.AI Open Source Voice Assistant",
+                "subtitle": "Learn about SUSI.AI and how to build your own smart speaker",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:MarioB",
+                    "public_name": "MarioB"
+                  }
+                ],
+                "links": [
+                  "https://susi.ai"
+                ]
               }
             ],
             "Village:NixOS": [
@@ -5199,28 +5250,6 @@
                     "public_name": "Fr\u00f6belsuppe"
                   }
                 ],
-                "links": []
-              }
-            ],
-            "Hackcenter 3": [
-              {
-                "id": 1052,
-                "guid": "46bdea32-2063-4f57-9b69-8ae65516c241",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Contributing_to_nixpkgs_for_Newbies",
-                "logo": null,
-                "date": "2019-08-23T14:00:00+02:00",
-                "start": "14:00",
-                "duration": "0:45",
-                "room": "Hackcenter 3",
-                "slug": "camp2019-1052-session_contributing_to_nixpkgs_for_newbies",
-                "title": "Contributing to nixpkgs for Newbies",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Learn how you can contribute to the nixpkgs git repo",
-                "persons": [],
                 "links": []
               }
             ],
@@ -5868,33 +5897,6 @@
           "day_start": "2019-08-24T09:00:00+02:00",
           "day_end": "2019-08-25T04:00:00+02:00",
           "rooms": {
-            "Rockmore Booth": [],
-            "Kemistry Lounge": [],
-            "Plank": [],
-            "Hackcenter": [
-              {
-                "id": 1040,
-                "guid": "6ad28881-1413-46a4-837a-315359e19aeb",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Body/Mind_Hardware/Software",
-                "logo": null,
-                "date": "2019-08-24T18:00:00+02:00",
-                "start": "18:00",
-                "duration": "2:00",
-                "room": "Hackcenter",
-                "slug": "camp2019-1040-session_body_mind_hardware_software",
-                "title": "Body/Mind Hardware/Software",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "EightOS bodymind operating system",
-                "persons": [],
-                "links": [
-                  "http://www.8os.io"
-                ]
-              }
-            ],
             "Johnson (Workshop 1)": [
               {
                 "id": 1197,
@@ -5991,7 +5993,33 @@
                 ]
               }
             ],
-            "Fireplace (Workshop THM)": [],
+            "Plank": [],
+            "Rockmore Booth": [],
+            "Kemistry Lounge": [],
+            "Fireplace (Workshop THM)Hackcenter": [],
+            "Hackcenter 1": [],
+            "Hackcenter 3": [
+              {
+                "id": 1222,
+                "guid": "b7523425-acee-4679-96c6-4382236e43ba",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Let%27s_hack_words!",
+                "logo": null,
+                "date": "2019-08-24T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "1:30",
+                "room": "Hackcenter 3",
+                "slug": "camp2019-1222-session_let_s_hack_words_",
+                "title": "Let's hack words!",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Let's hack words is a session for everyone, who wants to explore creative writing, build worlds and lets characters dive into adventures. Or - for a start - just wants to get rid of hacker's block.",
+                "persons": [],
+                "links": []
+              }
+            ],
             "Village:About:freedom": [
               {
                 "id": 1176,
@@ -6663,6 +6691,30 @@
                 "links": []
               }
             ],
+            "Hackcenter": [
+              {
+                "id": 1040,
+                "guid": "6ad28881-1413-46a4-837a-315359e19aeb",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Body/Mind_Hardware/Software",
+                "logo": null,
+                "date": "2019-08-24T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "2:00",
+                "room": "Hackcenter",
+                "slug": "camp2019-1040-session_body_mind_hardware_software",
+                "title": "Body/Mind Hardware/Software",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "EightOS bodymind operating system",
+                "persons": [],
+                "links": [
+                  "http://www.8os.io"
+                ]
+              }
+            ],
             "Village:C-base": [
               {
                 "id": 1300,
@@ -7095,28 +7147,6 @@
                 ]
               }
             ],
-            "Hackcenter 3": [
-              {
-                "id": 1222,
-                "guid": "b7523425-acee-4679-96c6-4382236e43ba",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Let%27s_hack_words!",
-                "logo": null,
-                "date": "2019-08-24T15:00:00+02:00",
-                "start": "15:00",
-                "duration": "1:30",
-                "room": "Hackcenter 3",
-                "slug": "camp2019-1222-session_let_s_hack_words_",
-                "title": "Let's hack words!",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Let's hack words is a session for everyone, who wants to explore creative writing, build worlds and lets characters dive into adventures. Or - for a start - just wants to get rid of hacker's block.",
-                "persons": [],
-                "links": []
-              }
-            ],
             "Village:TEUrCamp": [
               {
                 "id": 1112,
@@ -7293,13 +7323,14 @@
           "day_start": "2019-08-25T09:00:00+02:00",
           "day_end": "2019-08-26T04:00:00+02:00",
           "rooms": {
-            "Rockmore Booth": [],
-            "Kemistry Lounge": [],
-            "Plank": [],
-            "Hackcenter": [],
             "Johnson (Workshop 1)": [],
             "Goldberg (Workshop 2)": [],
-            "Fireplace (Workshop THM)": [],
+            "Plank": [],
+            "Rockmore Booth": [],
+            "Kemistry Lounge": [],
+            "Fireplace (Workshop THM)Hackcenter": [],
+            "Hackcenter 1": [],
+            "Hackcenter 3": [],
             "Village:Haecksen": [
               {
                 "id": 1270,

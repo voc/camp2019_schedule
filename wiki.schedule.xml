@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-22 14:30</version>
+  <version>2019-08-22 15:11</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -10,33 +10,6 @@
     <base_url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/</base_url>
   </conference>
   <day index="1" date="2019-08-21" start="2019-08-21T09:00:00+02:00" end="2019-08-22T04:00:00+02:00">
-    <room name="Rockmore Booth"/>
-    <room name="Kemistry Lounge"/>
-    <room name="Plank"/>
-    <room name="Hackcenter">
-      <event id="1233" guid="f5d15859-c9b5-44c8-8565-cb22daacedc8">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant</url>
-        <logo/>
-        <date>2019-08-21T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Hackcenter</room>
-        <slug>camp2019-1233-session_susi_ai_open_source_voice_assistant</slug>
-        <title>SUSI.AI Open Source Voice Assistant</title>
-        <subtitle>Learn about SUSI.AI and how to build your own smart speaker</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:MarioB">MarioB</person>
-        </persons>
-        <links>
-          <link>https://susi.ai</link>
-        </links>
-      </event>
-    </room>
     <room name="Johnson (Workshop 1)">
       <event id="1359" guid="f38ff36c-3a0a-47e4-8969-091845b6c0a0">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Bitcoin,_Lightning_Network,_Ethereum_for_newbs</url>
@@ -106,7 +79,12 @@
         </links>
       </event>
     </room>
-    <room name="Fireplace (Workshop THM)"/>
+    <room name="Plank"/>
+    <room name="Rockmore Booth"/>
+    <room name="Kemistry Lounge"/>
+    <room name="Fireplace (Workshop THM)Hackcenter"/>
+    <room name="Hackcenter 1"/>
+    <room name="Hackcenter 3"/>
     <room name="Village:Haecksen">
       <event id="1274" guid="cc994b81-832a-4206-aa6b-64d587849cd1">
         <url>https://events.ccc.de/camp/2019/wiki/Session:A_capella</url>
@@ -1136,6 +1114,30 @@
         <links/>
       </event>
     </room>
+    <room name="Hackcenter">
+      <event id="1233" guid="f5d15859-c9b5-44c8-8565-cb22daacedc8">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant</url>
+        <logo/>
+        <date>2019-08-21T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1233-session_susi_ai_open_source_voice_assistant</slug>
+        <title>SUSI.AI Open Source Voice Assistant</title>
+        <subtitle>Learn about SUSI.AI and how to build your own smart speaker</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:MarioB">MarioB</person>
+        </persons>
+        <links>
+          <link>https://susi.ai</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:Sft / pwnda village™">
       <event id="1335" guid="e04abc78-9ce0-438b-be18-262991300d62">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Stargazing_with_a_telescope</url>
@@ -1254,10 +1256,6 @@
     </room>
   </day>
   <day index="2" date="2019-08-22" start="2019-08-22T09:00:00+02:00" end="2019-08-23T04:00:00+02:00">
-    <room name="Rockmore Booth"/>
-    <room name="Kemistry Lounge"/>
-    <room name="Plank"/>
-    <room name="Hackcenter"/>
     <room name="Johnson (Workshop 1)">
       <event id="1427" guid="7d83d79e-9969-4eab-b3d8-f3dea3643f63">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Bitcoin,_Lightning_Network,_Ethereum_for_newbs</url>
@@ -1452,7 +1450,33 @@
         </links>
       </event>
     </room>
-    <room name="Fireplace (Workshop THM)"/>
+    <room name="Plank"/>
+    <room name="Rockmore Booth"/>
+    <room name="Kemistry Lounge"/>
+    <room name="Fireplace (Workshop THM)Hackcenter"/>
+    <room name="Hackcenter 1">
+      <event id="1062" guid="56989b98-d3d7-44db-a9c5-db4553adeed2">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:EightOS</url>
+        <logo/>
+        <date>2019-08-22T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Hackcenter 1</room>
+        <slug>camp2019-1062-session_eightos</slug>
+        <title>EightOS</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>!!! Time change !!! A physical practice session: bodymind operating system — human firmware update. Hackcenter is the meeting point. We will do the session at a space outside.</description>
+        <persons/>
+        <links>
+          <link>http://www.8os.io</link>
+        </links>
+      </event>
+    </room>
+    <room name="Hackcenter 3"/>
     <room name="Village:Chaoswelle">
       <event id="1345" guid="1595bd1c-6966-4f06-9fc6-9e01692e1153">
         <url>https://events.ccc.de/camp/2019/wiki/Session:AREDN</url>
@@ -2325,28 +2349,6 @@
         <links/>
       </event>
     </room>
-    <room name="Hackcenter 1">
-      <event id="1062" guid="56989b98-d3d7-44db-a9c5-db4553adeed2">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:EightOS</url>
-        <logo/>
-        <date>2019-08-22T20:00:00+02:00</date>
-        <start>20:00</start>
-        <duration>1:00</duration>
-        <room>Hackcenter 1</room>
-        <slug>camp2019-1062-session_eightos</slug>
-        <title>EightOS</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>!!! Time change !!! A physical practice session: bodymind operating system — human firmware update. Hackcenter is the meeting point. We will do the session at a space outside.</description>
-        <persons/>
-        <links>
-          <link>http://www.8os.io</link>
-        </links>
-      </event>
-    </room>
     <room name="Village:Haecksen">
       <event id="1322" guid="ae547302-6b4b-4ea9-ade9-51a495ac1b82">
         <url>https://events.ccc.de/camp/2019/wiki/Session:FNIT_Vernetzungsworkshop</url>
@@ -3054,53 +3056,6 @@
     </room>
   </day>
   <day index="3" date="2019-08-23" start="2019-08-23T09:00:00+02:00" end="2019-08-24T04:00:00+02:00">
-    <room name="Rockmore Booth"/>
-    <room name="Kemistry Lounge"/>
-    <room name="Plank"/>
-    <room name="Hackcenter">
-      <event id="1041" guid="7976438d-2b1a-4303-96f5-d6846c9f42f6">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Bodymind_Operating_System</url>
-        <logo/>
-        <date>2019-08-23T17:30:00+02:00</date>
-        <start>17:30</start>
-        <duration>2:00</duration>
-        <room>Hackcenter</room>
-        <slug>camp2019-1041-session_bodymind_operating_system</slug>
-        <title>Bodymind Operating System</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Physical practice session where we explore the notions of hacking through the human body.</description>
-        <persons/>
-        <links>
-          <link>http://www.8os.io</link>
-        </links>
-      </event>
-      <event id="1232" guid="fe13b901-cc23-4258-91cb-631e29cebe39">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant</url>
-        <logo/>
-        <date>2019-08-23T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Hackcenter</room>
-        <slug>camp2019-1232-session_susi_ai_open_source_voice_assistant</slug>
-        <title>SUSI.AI Open Source Voice Assistant</title>
-        <subtitle>Learn about SUSI.AI and how to build your own smart speaker</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:MarioB">MarioB</person>
-        </persons>
-        <links>
-          <link>https://susi.ai</link>
-        </links>
-      </event>
-    </room>
     <room name="Johnson (Workshop 1)">
       <event id="1428" guid="7c95e873-c3b0-5eb3-9c23-4c2d376c3df3">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Bitcoin,_Lightning_Network,_Ethereum_for_newbs</url>
@@ -3205,7 +3160,31 @@
         <links/>
       </event>
     </room>
-    <room name="Fireplace (Workshop THM)"/>
+    <room name="Plank"/>
+    <room name="Rockmore Booth"/>
+    <room name="Kemistry Lounge"/>
+    <room name="Fireplace (Workshop THM)Hackcenter"/>
+    <room name="Hackcenter 1"/>
+    <room name="Hackcenter 3">
+      <event id="1052" guid="46bdea32-2063-4f57-9b69-8ae65516c241">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Contributing_to_nixpkgs_for_Newbies</url>
+        <logo/>
+        <date>2019-08-23T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>0:45</duration>
+        <room>Hackcenter 3</room>
+        <slug>camp2019-1052-session_contributing_to_nixpkgs_for_newbies</slug>
+        <title>Contributing to nixpkgs for Newbies</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn how you can contribute to the nixpkgs git repo</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
     <room name="Village:Social Dist0rtion Protocol">
       <event id="1360" guid="0363f99a-6c55-48d3-a77e-9cb0beb9f27a">
         <url>https://events.ccc.de/camp/2019/wiki/Session:2050:_A_Co2_Odissey</url>
@@ -3863,6 +3842,26 @@
         </persons>
         <links/>
       </event>
+      <event id="1445" guid="cdca4786-006b-5a2b-b446-decb9ea12ee5">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Modular_Synths_Impro_LIVE_performance_1)3%5C/1532</url>
+        <logo/>
+        <date>2019-08-23T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>2:00</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1445-session_modular_synths_impro_live_performance_1_3_1532</slug>
+        <title>Modular Synths Impro LIVE performance 1)3\/1532</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>modular synths impro</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Benks">Benks</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1229" guid="d28fed56-ab47-4377-baf2-e4e24cc1065a">
         <url>https://events.ccc.de/camp/2019/wiki/Session:R5_Meeting_(CCC_working_group)</url>
         <logo/>
@@ -3949,6 +3948,50 @@
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:M1P3">M1P3</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="Hackcenter">
+      <event id="1041" guid="7976438d-2b1a-4303-96f5-d6846c9f42f6">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Bodymind_Operating_System</url>
+        <logo/>
+        <date>2019-08-23T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>2:00</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1041-session_bodymind_operating_system</slug>
+        <title>Bodymind Operating System</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Physical practice session where we explore the notions of hacking through the human body.</description>
+        <persons/>
+        <links>
+          <link>http://www.8os.io</link>
+        </links>
+      </event>
+      <event id="1232" guid="fe13b901-cc23-4258-91cb-631e29cebe39">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant</url>
+        <logo/>
+        <date>2019-08-23T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1232-session_susi_ai_open_source_voice_assistant</slug>
+        <title>SUSI.AI Open Source Voice Assistant</title>
+        <subtitle>Learn about SUSI.AI and how to build your own smart speaker</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:MarioB">MarioB</person>
+        </persons>
+        <links>
+          <link>https://susi.ai</link>
+        </links>
       </event>
     </room>
     <room name="Village:NixOS">
@@ -4124,26 +4167,6 @@
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Fr%C3%B6belsuppe">Fröbelsuppe</person>
         </persons>
-        <links/>
-      </event>
-    </room>
-    <room name="Hackcenter 3">
-      <event id="1052" guid="46bdea32-2063-4f57-9b69-8ae65516c241">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Contributing_to_nixpkgs_for_Newbies</url>
-        <logo/>
-        <date>2019-08-23T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>0:45</duration>
-        <room>Hackcenter 3</room>
-        <slug>camp2019-1052-session_contributing_to_nixpkgs_for_newbies</slug>
-        <title>Contributing to nixpkgs for Newbies</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Learn how you can contribute to the nixpkgs git repo</description>
-        <persons/>
         <links/>
       </event>
     </room>
@@ -4641,31 +4664,6 @@
     </room>
   </day>
   <day index="4" date="2019-08-24" start="2019-08-24T09:00:00+02:00" end="2019-08-25T04:00:00+02:00">
-    <room name="Rockmore Booth"/>
-    <room name="Kemistry Lounge"/>
-    <room name="Plank"/>
-    <room name="Hackcenter">
-      <event id="1040" guid="6ad28881-1413-46a4-837a-315359e19aeb">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Body/Mind_Hardware/Software</url>
-        <logo/>
-        <date>2019-08-24T18:00:00+02:00</date>
-        <start>18:00</start>
-        <duration>2:00</duration>
-        <room>Hackcenter</room>
-        <slug>camp2019-1040-session_body_mind_hardware_software</slug>
-        <title>Body/Mind Hardware/Software</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>EightOS bodymind operating system</description>
-        <persons/>
-        <links>
-          <link>http://www.8os.io</link>
-        </links>
-      </event>
-    </room>
     <room name="Johnson (Workshop 1)">
       <event id="1197" guid="c8804eab-dadd-4307-ab8c-e19f4a5d769f">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Fair_Ticket_Sales_on_a_Capitalist_World</url>
@@ -4750,7 +4748,31 @@
         </links>
       </event>
     </room>
-    <room name="Fireplace (Workshop THM)"/>
+    <room name="Plank"/>
+    <room name="Rockmore Booth"/>
+    <room name="Kemistry Lounge"/>
+    <room name="Fireplace (Workshop THM)Hackcenter"/>
+    <room name="Hackcenter 1"/>
+    <room name="Hackcenter 3">
+      <event id="1222" guid="b7523425-acee-4679-96c6-4382236e43ba">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Let%27s_hack_words!</url>
+        <logo/>
+        <date>2019-08-24T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Hackcenter 3</room>
+        <slug>camp2019-1222-session_let_s_hack_words_</slug>
+        <title>Let's hack words!</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Let's hack words is a session for everyone, who wants to explore creative writing, build worlds and lets characters dive into adventures. Or - for a start - just wants to get rid of hacker's block.</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
     <room name="Village:About:freedom">
       <event id="1176" guid="a208d05f-cafd-4680-9f4e-760994a1202d">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Advanced_web_tracking_methods</url>
@@ -5276,6 +5298,28 @@
         <links/>
       </event>
     </room>
+    <room name="Hackcenter">
+      <event id="1040" guid="6ad28881-1413-46a4-837a-315359e19aeb">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Body/Mind_Hardware/Software</url>
+        <logo/>
+        <date>2019-08-24T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>2:00</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1040-session_body_mind_hardware_software</slug>
+        <title>Body/Mind Hardware/Software</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>EightOS bodymind operating system</description>
+        <persons/>
+        <links>
+          <link>http://www.8os.io</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:C-base">
       <event id="1300" guid="6dc5eae9-babb-44e7-b2e5-c4308c8f257d">
         <url>https://events.ccc.de/camp/2019/wiki/Session:CoderDojo</url>
@@ -5624,26 +5668,6 @@
         </links>
       </event>
     </room>
-    <room name="Hackcenter 3">
-      <event id="1222" guid="b7523425-acee-4679-96c6-4382236e43ba">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Let%27s_hack_words!</url>
-        <logo/>
-        <date>2019-08-24T15:00:00+02:00</date>
-        <start>15:00</start>
-        <duration>1:30</duration>
-        <room>Hackcenter 3</room>
-        <slug>camp2019-1222-session_let_s_hack_words_</slug>
-        <title>Let's hack words!</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Let's hack words is a session for everyone, who wants to explore creative writing, build worlds and lets characters dive into adventures. Or - for a start - just wants to get rid of hacker's block.</description>
-        <persons/>
-        <links/>
-      </event>
-    </room>
     <room name="Village:TEUrCamp">
       <event id="1112" guid="79236664-3145-40c6-9bb8-fe38fcc00ca0">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Oscilloscope_Music_Workshop</url>
@@ -5764,13 +5788,14 @@
     </room>
   </day>
   <day index="5" date="2019-08-25" start="2019-08-25T09:00:00+02:00" end="2019-08-26T04:00:00+02:00">
-    <room name="Rockmore Booth"/>
-    <room name="Kemistry Lounge"/>
-    <room name="Plank"/>
-    <room name="Hackcenter"/>
     <room name="Johnson (Workshop 1)"/>
     <room name="Goldberg (Workshop 2)"/>
-    <room name="Fireplace (Workshop THM)"/>
+    <room name="Plank"/>
+    <room name="Rockmore Booth"/>
+    <room name="Kemistry Lounge"/>
+    <room name="Fireplace (Workshop THM)Hackcenter"/>
+    <room name="Hackcenter 1"/>
+    <room name="Hackcenter 3"/>
     <room name="Village:Haecksen">
       <event id="1270" guid="70d9eabd-198b-4bbb-98bd-1d60a7587bc8">
         <url>https://events.ccc.de/camp/2019/wiki/Session:B%C3%B6ser_Sprechworkshop</url>
