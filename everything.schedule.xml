@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 16:41</version>
+  <version>Hadar; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 17:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -8189,26 +8189,6 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
           <link>https://p0stap0calyptic.wordpress.com/</link>
         </links>
       </event>
-      <event id="1420" guid="4b72c9b7-1fe5-4f4b-9a31-21c0de7e9303">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:YunoHost_workshop:_install_your_own!</url>
-        <logo/>
-        <date>2019-08-23T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>1:00</duration>
-        <room>Village:1komona</room>
-        <slug>camp2019-1420-session_yunohost_workshop_install_your_own_</slug>
-        <title>YunoHost workshop: install your own!</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Self-hosting apps for your friends and organization should be easy!</description>
-        <persons/>
-        <links>
-          <link>https://yunohost.org</link>
-        </links>
-      </event>
     </room>
     <room name="Village:Scottish Consulate">
       <event id="1036" guid="31fcf2eb-ad14-47f8-971c-7f06b2d8c178">
@@ -9299,6 +9279,28 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         </persons>
         <links>
           <link>https://www.robokoding.com/kits/sumorobot</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Librehosters">
+      <event id="1420" guid="4b72c9b7-1fe5-4f4b-9a31-21c0de7e9303">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:YunoHost_workshop:_install_your_own!</url>
+        <logo/>
+        <date>2019-08-23T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Village:Librehosters</room>
+        <slug>camp2019-1420-session_yunohost_workshop_install_your_own_</slug>
+        <title>YunoHost workshop: install your own!</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Self-hosting apps for your friends and organization should be easy!</description>
+        <persons/>
+        <links>
+          <link>https://yunohost.org</link>
         </links>
       </event>
     </room>

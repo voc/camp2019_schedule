@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 16:41",
+    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 17:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -9193,28 +9193,6 @@
                 "links": [
                   "https://p0stap0calyptic.wordpress.com/"
                 ]
-              },
-              {
-                "id": 1420,
-                "guid": "4b72c9b7-1fe5-4f4b-9a31-21c0de7e9303",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:YunoHost_workshop:_install_your_own!",
-                "logo": null,
-                "date": "2019-08-23T17:00:00+02:00",
-                "start": "17:00",
-                "duration": "1:00",
-                "room": "Village:1komona",
-                "slug": "camp2019-1420-session_yunohost_workshop_install_your_own_",
-                "title": "YunoHost workshop: install your own!",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Self-hosting apps for your friends and organization should be easy!",
-                "persons": [],
-                "links": [
-                  "https://yunohost.org"
-                ]
               }
             ],
             "Village:Scottish Consulate": [
@@ -10602,6 +10580,30 @@
                 ],
                 "links": [
                   "https://www.robokoding.com/kits/sumorobot"
+                ]
+              }
+            ],
+            "Village:Librehosters": [
+              {
+                "id": 1420,
+                "guid": "4b72c9b7-1fe5-4f4b-9a31-21c0de7e9303",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:YunoHost_workshop:_install_your_own!",
+                "logo": null,
+                "date": "2019-08-23T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "1:00",
+                "room": "Village:Librehosters",
+                "slug": "camp2019-1420-session_yunohost_workshop_install_your_own_",
+                "title": "YunoHost workshop: install your own!",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Self-hosting apps for your friends and organization should be easy!",
+                "persons": [],
+                "links": [
+                  "https://yunohost.org"
                 ]
               }
             ]
