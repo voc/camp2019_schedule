@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-22 20:40",
+    "version": "2019-08-22 21:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -4405,7 +4405,7 @@
                 "type": "other",
                 "language": "",
                 "abstract": "",
-                "description": "come and enjoy",
+                "description": "20:30-22:30  Las Vegas Lady  Sensual tunes and electronic beats: Welcome to this shiny abyss.   http://soundcloud.com/lasvegaslady       22:30-00:00  Plan\u00e8te Concr\u00e8te is an open universe staged by strange / loving creatures. Diy instruments, music performance and visual elements are the main instruments of this pink noise constellation  http://ooooo.be/planeteconcrete/  https://soundcloud.com/planeteconcrete http://planeteconcrete.tumblr.com/",
                 "persons": [],
                 "links": []
               },
@@ -5785,6 +5785,80 @@
                 "links": []
               }
             ],
+            "Village:Chaos-West": [
+              {
+                "id": 1467,
+                "guid": "231a0f7d-2b25-4b14-8fa0-8beca33f7eec",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Fediverse-Meetup",
+                "logo": null,
+                "date": "2019-08-23T16:30:00+02:00",
+                "start": "16:30",
+                "duration": "1:30",
+                "room": "Village:Chaos-West",
+                "slug": "camp2019-1467-session_fediverse_meetup",
+                "title": "Fediverse-Meetup",
+                "subtitle": "Mastodon, Pleroma, Pixelfed, Peertube & co",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "A meetup of people doing stuff in, around and with the fediverse.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Clerie",
+                    "public_name": "Clerie"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1355,
+                "guid": "ed165662-1de2-482e-9db4-3cd6c1a43d48",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Redhat",
+                "logo": null,
+                "date": "2019-08-23T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "2:00",
+                "room": "Village:Chaos-West",
+                "slug": "camp2019-1355-session_redhat",
+                "title": "Redhat",
+                "subtitle": "Meeting",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "RHEL/CentOS meetup",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Fuero",
+                    "public_name": "Fuero"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1339,
+                "guid": "7b8838c4-ecf1-4875-b647-b2054d817895",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:WoW!_Dancing_like_a_Blood_Elf...",
+                "logo": null,
+                "date": "2019-08-23T20:00:00+02:00",
+                "start": "20:00",
+                "duration": "0:45",
+                "room": "Village:Chaos-West",
+                "slug": "camp2019-1339-session_wow_dancing_like_a_blood_elf_",
+                "title": "WoW! Dancing like a Blood Elf...",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Learn how to dance for real like the male blood elf in world of warcraft in 5 steps. Beginner's class. All gender welcome!",
+                "persons": [],
+                "links": []
+              }
+            ],
             "Village:Free Software Foundation Europe": [
               {
                 "id": 1161,
@@ -6075,54 +6149,6 @@
                 "links": [
                   "https://wiki.ecohackerfarm.org/powerplant:start"
                 ]
-              }
-            ],
-            "Village:Chaos-West": [
-              {
-                "id": 1355,
-                "guid": "ed165662-1de2-482e-9db4-3cd6c1a43d48",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Redhat",
-                "logo": null,
-                "date": "2019-08-23T17:00:00+02:00",
-                "start": "17:00",
-                "duration": "2:00",
-                "room": "Village:Chaos-West",
-                "slug": "camp2019-1355-session_redhat",
-                "title": "Redhat",
-                "subtitle": "Meeting",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "de",
-                "abstract": "",
-                "description": "RHEL/CentOS meetup",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Fuero",
-                    "public_name": "Fuero"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1339,
-                "guid": "7b8838c4-ecf1-4875-b647-b2054d817895",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:WoW!_Dancing_like_a_Blood_Elf...",
-                "logo": null,
-                "date": "2019-08-23T20:00:00+02:00",
-                "start": "20:00",
-                "duration": "0:45",
-                "room": "Village:Chaos-West",
-                "slug": "camp2019-1339-session_wow_dancing_like_a_blood_elf_",
-                "title": "WoW! Dancing like a Blood Elf...",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Learn how to dance for real like the male blood elf in world of warcraft in 5 steps. Beginner's class. All gender welcome!",
-                "persons": [],
-                "links": []
               }
             ],
             "Village:RoboVillage": [

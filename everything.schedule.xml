@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 20:40</version>
+  <version>Hadar; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 21:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -8014,7 +8014,7 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <type>other</type>
         <language/>
         <abstract/>
-        <description>come and enjoy</description>
+        <description>20:30-22:30  Las Vegas Lady  Sensual tunes and electronic beats: Welcome to this shiny abyss.   http://soundcloud.com/lasvegaslady       22:30-00:00  Planète Concrète is an open universe staged by strange / loving creatures. Diy instruments, music performance and visual elements are the main instruments of this pink noise constellation  http://ooooo.be/planeteconcrete/  https://soundcloud.com/planeteconcrete http://planeteconcrete.tumblr.com/</description>
         <persons/>
         <links/>
       </event>
@@ -9118,6 +9118,66 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <links/>
       </event>
     </room>
+    <room name="Village:Chaos-West">
+      <event id="1467" guid="231a0f7d-2b25-4b14-8fa0-8beca33f7eec">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Fediverse-Meetup</url>
+        <logo/>
+        <date>2019-08-23T16:30:00+02:00</date>
+        <start>16:30</start>
+        <duration>1:30</duration>
+        <room>Village:Chaos-West</room>
+        <slug>camp2019-1467-session_fediverse_meetup</slug>
+        <title>Fediverse-Meetup</title>
+        <subtitle>Mastodon, Pleroma, Pixelfed, Peertube &amp; co</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>A meetup of people doing stuff in, around and with the fediverse.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Clerie">Clerie</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1355" guid="ed165662-1de2-482e-9db4-3cd6c1a43d48">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Redhat</url>
+        <logo/>
+        <date>2019-08-23T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>2:00</duration>
+        <room>Village:Chaos-West</room>
+        <slug>camp2019-1355-session_redhat</slug>
+        <title>Redhat</title>
+        <subtitle>Meeting</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>RHEL/CentOS meetup</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Fuero">Fuero</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1339" guid="7b8838c4-ecf1-4875-b647-b2054d817895">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:WoW!_Dancing_like_a_Blood_Elf...</url>
+        <logo/>
+        <date>2019-08-23T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>0:45</duration>
+        <room>Village:Chaos-West</room>
+        <slug>camp2019-1339-session_wow_dancing_like_a_blood_elf_</slug>
+        <title>WoW! Dancing like a Blood Elf...</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Learn how to dance for real like the male blood elf in world of warcraft in 5 steps. Beginner's class. All gender welcome!</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
     <room name="Village:Free Software Foundation Europe">
       <event id="1161" guid="151e438c-6527-4f1c-aad5-359e5312110f">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Free_Software_Song_sing-along</url>
@@ -9348,46 +9408,6 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <links>
           <link>https://wiki.ecohackerfarm.org/powerplant:start</link>
         </links>
-      </event>
-    </room>
-    <room name="Village:Chaos-West">
-      <event id="1355" guid="ed165662-1de2-482e-9db4-3cd6c1a43d48">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Redhat</url>
-        <logo/>
-        <date>2019-08-23T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>2:00</duration>
-        <room>Village:Chaos-West</room>
-        <slug>camp2019-1355-session_redhat</slug>
-        <title>Redhat</title>
-        <subtitle>Meeting</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>RHEL/CentOS meetup</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Fuero">Fuero</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1339" guid="7b8838c4-ecf1-4875-b647-b2054d817895">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:WoW!_Dancing_like_a_Blood_Elf...</url>
-        <logo/>
-        <date>2019-08-23T20:00:00+02:00</date>
-        <start>20:00</start>
-        <duration>0:45</duration>
-        <room>Village:Chaos-West</room>
-        <slug>camp2019-1339-session_wow_dancing_like_a_blood_elf_</slug>
-        <title>WoW! Dancing like a Blood Elf...</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Learn how to dance for real like the male blood elf in world of warcraft in 5 steps. Beginner's class. All gender welcome!</description>
-        <persons/>
-        <links/>
       </event>
     </room>
     <room name="Village:RoboVillage">

@@ -1,0 +1,26 @@
+{
+  "id": 1467,
+  "guid": "231a0f7d-2b25-4b14-8fa0-8beca33f7eec",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Fediverse-Meetup",
+  "logo": null,
+  "date": "2019-08-23T16:30:00+02:00",
+  "start": "16:30",
+  "duration": "1:30",
+  "room": "Village:Chaos-West",
+  "slug": "camp2019-1467-session_fediverse_meetup",
+  "title": "Fediverse-Meetup",
+  "subtitle": "Mastodon, Pleroma, Pixelfed, Peertube & co",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "de",
+  "abstract": "",
+  "description": "A meetup of people doing stuff in, around and with the fediverse.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Clerie",
+      "public_name": "Clerie"
+    }
+  ],
+  "links": []
+}
