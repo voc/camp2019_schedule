@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-22 11:20",
+    "version": "2019-08-22 11:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -3010,6 +3010,30 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Village:ChaosZone": [
+              {
+                "id": 1430,
+                "guid": "1fd1de1c-0e8f-4fcf-8ede-3847df406885",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Der_Goldene_Schu%C3%9F_-_Lesung_am_Sp%C3%A4ti",
+                "logo": null,
+                "date": "2019-08-22T21:30:00+02:00",
+                "start": "21:30",
+                "duration": "1:30",
+                "room": "Village:ChaosZone",
+                "slug": "camp2019-1430-session_der_goldene_schuss_lesung_am_spaeti",
+                "title": "Der Goldene Schu\u00df - Lesung am Sp\u00e4ti",
+                "subtitle": "Klolekt\u00fcre und Schnaps-Tasting",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Die Redaktion des Goldenen Schusz liest Klolekt\u00fcre vor",
+                "persons": [],
+                "links": [
+                  "http://dergoldeneschusz.net"
+                ]
               }
             ],
             "Village:Digitalcourage": [
