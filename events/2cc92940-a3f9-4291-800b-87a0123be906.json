@@ -1,20 +1,20 @@
 {
   "id": 1070,
   "guid": "2cc92940-a3f9-4291-800b-87a0123be906",
-  "url": "https://events.ccc.de/camp/2019/wiki/Session:FifF-Stammtische_everywhere",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:FIfF-Stammtische_everywhere_-_gr%C3%BCndet_Ortsgruppen",
   "logo": null,
   "date": "2019-08-23T16:30:00+02:00",
   "start": "16:30",
   "duration": "0:55",
   "room": "Village:About:freedom",
-  "slug": "camp2019-1070-session_fiff_stammtische_everywhere",
-  "title": "FifF-Stammtische everywhere",
+  "slug": "camp2019-1070-session_fiff_stammtische_everywhere_gruendet_ortsgruppen",
+  "title": "FIfF-Stammtische everywhere - gr\u00fcndet Ortsgruppen",
   "subtitle": "about:stage",
   "track": "self organized sessions",
   "type": "workshop",
   "language": "de",
   "abstract": "",
-  "description": "",
+  "description": "found local discussion groups",
   "persons": [
     {
       "id": 0,
@@ -27,5 +27,7 @@
       "public_name": "Benks"
     }
   ],
-  "links": []
+  "links": [
+    "http://www.fiff.de"
+  ]
 }

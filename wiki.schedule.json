@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-22 12:10",
+    "version": "2019-08-22 12:27",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -1188,96 +1188,6 @@
                 "links": []
               }
             ],
-            "Village:Three Headed Monkey": [
-              {
-                "id": 1389,
-                "guid": "520aa887-cb13-4374-82df-40ec2e9e105f",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:FridaysForFuture_was,_wie,_warum%3F",
-                "logo": null,
-                "date": "2019-08-21T19:15:00+02:00",
-                "start": "19:15",
-                "duration": "0:30",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1389-session_fridaysforfuture_was_wie_warum_",
-                "title": "FridaysForFuture was, wie, warum?",
-                "subtitle": "Location: Feuerstelle (Workshop)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "\u201cWir sind nicht nur verantwortlich f\u00fcr das, was wir tun, sondern auch f\u00fcr das was wir nicht tun\u201d",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/KXW3SP/"
-                ]
-              },
-              {
-                "id": 1413,
-                "guid": "f1a9efce-258f-4f74-ac6b-9550ca0d82c1",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Meet_CADUS!_Humanitarian_Aid_goes_Open_Source",
-                "logo": null,
-                "date": "2019-08-21T14:00:00+02:00",
-                "start": "14:00",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1413-session_meet_cadus_humanitarian_aid_goes_open_source",
-                "title": "Meet CADUS! Humanitarian Aid goes Open Source",
-                "subtitle": "Location: Feuerstelle (Workshop)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the \"consultation hours\" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/VT87DH/"
-                ]
-              },
-              {
-                "id": 1390,
-                "guid": "15ad1046-6240-4f7b-8e84-fa94fbe1c6fa",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Nice_View_Reporter",
-                "logo": null,
-                "date": "2019-08-21T20:00:00+02:00",
-                "start": "20:00",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1390-session_nice_view_reporter",
-                "title": "Nice View Reporter",
-                "subtitle": "location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Projektwoche an einer Schule in Msambweni, Kenia",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/PEXUEM/"
-                ]
-              },
-              {
-                "id": 1392,
-                "guid": "8e26af52-718f-4fa8-99fe-12111959400d",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:%C3%9Cber_die_Nachhaltigkeit_von_Software",
-                "logo": null,
-                "date": "2019-08-21T21:10:00+02:00",
-                "start": "21:10",
-                "duration": "0:30",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1392-session_ueber_die_nachhaltigkeit_von_software",
-                "title": "\u00dcber die Nachhaltigkeit von Software",
-                "subtitle": "location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Software ist essenzieller Bestandteil und Ressource unserer Dienstleistungs- und Wissensgesellschaft sowie unserer Infrastrukturen. Als Ressource betrachtet verh\u00e4lt sich der Konsum und Erhalt von Software jedoch in vielen Dingen kontr\u00e4r zu nat\u00fcrlichen Ressourcen. Eine Reflektion \u00fcber die besonderen Eigenschaften der \"Ressource Software\" und wie wir diese nutzen k\u00f6nnen um Software nachhaltig zu gestalten und damit auch f\u00fcr die Zukunft zu erhalten.",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/NWNHJ3/"
-                ]
-              }
-            ],
             "Village:Schaffenburg": [
               {
                 "id": 1079,
@@ -1912,206 +1822,6 @@
               }
             ],
             "Fireplace (Workshop THM)": [],
-            "Village:Three Headed Monkey": [
-              {
-                "id": 1393,
-                "guid": "cb80ca4e-2fda-4e16-bef8-a7226174b91f",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:15_Jahre_netzpolitik.org",
-                "logo": null,
-                "date": "2019-08-22T21:30:00+02:00",
-                "start": "21:30",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1393-session_15_jahre_netzpolitik_org",
-                "title": "15 Jahre netzpolitik.org",
-                "subtitle": "Location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Im Sommer 2004 erschienen die erste Artikel auf netzpolitik.org. Was als Seitenprojekt begann, entwickelte sich in 15 Jahren zu einer der schlagkr\u00e4ftigsten Organisationen zur Verteidigung von digitalen Grundrechten in Deutschland.",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/9P8DR9/"
-                ]
-              },
-              {
-                "id": 1386,
-                "guid": "543676ca-8d19-480e-ba7a-5cb5e4749256",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Als_Netzaktivistin_im_Bundestag_%E2%80%93_Insider_Einblicke_und_Mitmachm%C3%B6glichkeiten",
-                "logo": null,
-                "date": "2019-08-22T18:15:00+02:00",
-                "start": "18:15",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1386-session_als_netzaktivistin_im_bundestag_insider_einblicke_und_mitmachmoeglichkeiten",
-                "title": "Als Netzaktivistin im Bundestag \u2013 Insider Einblicke und Mitmachm\u00f6glichkeiten",
-                "subtitle": "Location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "",
-                "abstract": "",
-                "description": "Der Bundestag ist anders als man denkt.",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/GRRQTX/"
-                ]
-              },
-              {
-                "id": 1394,
-                "guid": "6da859fb-8ee5-4688-8415-5a34dc032e36",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Analoge_neuronale_oszillatoren",
-                "logo": null,
-                "date": "2019-08-22T18:30:00+02:00",
-                "start": "18:30",
-                "duration": "2:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1394-session_analoge_neuronale_oszillatoren",
-                "title": "Analoge neuronale oszillatoren",
-                "subtitle": "location: Lagerfeuer (Workshop)",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "in dem workshop bauen teilnehmer*innen analoge neuronale schaltungen mit denen ein netzwerkmodell, wie es shun-ichi amari in den 70 er jahren entwickelt hat, realisiert wird.",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/GHNDP7/"
-                ]
-              },
-              {
-                "id": 1387,
-                "guid": "25a15dc4-b039-4187-9162-e48116f54924",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Blockchain:_Proof_of_ignorance",
-                "logo": null,
-                "date": "2019-08-22T15:00:00+02:00",
-                "start": "15:00",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1387-session_blockchain_proof_of_ignorance",
-                "title": "Blockchain: Proof of ignorance",
-                "subtitle": "Location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "A rant about liberty and autonomy for some!",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/WCSCAX/"
-                ]
-              },
-              {
-                "id": 1396,
-                "guid": "32227f86-6b84-44d7-a4f2-adf19dc7a41f",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Denn_so_wissen_wir,_was_sie_tun:_Das_Berliner_Transparenzgesetz",
-                "logo": null,
-                "date": "2019-08-22T19:30:00+02:00",
-                "start": "19:30",
-                "duration": "0:30",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1396-session_denn_so_wissen_wir_was_sie_tun_das_berliner_transparenzgesetz",
-                "title": "Denn so wissen wir, was sie tun: Das Berliner Transparenzgesetz",
-                "subtitle": "location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Ein Hoch auf Volksentscheide! Wir erz\u00e4hlen vom Berliner Volksentscheid f\u00fcr ein Transparenzgesetz, das wir ins Leben gerufen haben. Hier k\u00f6nnt ihr unterschreiben. Und wir zeigen, wie ihr mitmachen k\u00f6nnt.",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/MRJQ7S/"
-                ]
-              },
-              {
-                "id": 1388,
-                "guid": "d8fc3e31-950d-4be2-945e-a598ef384d2c",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Dissecting_the_AMD_Platform_Security_Processor",
-                "logo": null,
-                "date": "2019-08-22T16:15:00+02:00",
-                "start": "16:15",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1388-session_dissecting_the_amd_platform_security_processor",
-                "title": "Dissecting the AMD Platform Security Processor",
-                "subtitle": "location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "The AMD Platform Security Processor (PSP) is a security subsystem in AMD CPUs comparable to the Intel ME and was introduced in 2013. It is essential for system startup \u2013 in fact, in runs before the main processor is even started \u2013 and offers runtime services to the main processor. For this, it has full access to the system memory space (inlcuding MMIO).  The PSP runs undocumented, proprietary firmware. This talk presents efforts of investigating what the PSP does and if it's secure. For the first time, it documents the PSP firmware's proprietary filesystem and provides insights into reverse-engineering such a deeply embedded system as the PSP. The talk further sheds light on how we might regain trust in AMD CPUs despite the delicate nature of the PSP.",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/LEA7LY/"
-                ]
-              },
-              {
-                "id": 1398,
-                "guid": "31a91893-7b03-490b-9057-c55a49443789",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Logbuch:Netzpolitik",
-                "logo": null,
-                "date": "2019-08-22T20:15:00+02:00",
-                "start": "20:15",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1398-session_logbuch_netzpolitik",
-                "title": "Logbuch:Netzpolitik",
-                "subtitle": "Location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Live-Podcast",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/LJQNKC/"
-                ]
-              },
-              {
-                "id": 1410,
-                "guid": "ff23ea91-72ac-4688-882e-d593b6b851be",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Meet_CADUS!_Humanitarian_Aid_goes_Open_Source",
-                "logo": null,
-                "date": "2019-08-22T14:00:00+02:00",
-                "start": "14:00",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1410-session_meet_cadus_humanitarian_aid_goes_open_source",
-                "title": "Meet CADUS! Humanitarian Aid goes Open Source",
-                "subtitle": "Location: Feuerstelle (Workshop)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the \"consultation hours\" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/VT87DH/"
-                ]
-              },
-              {
-                "id": 1391,
-                "guid": "9508b1c9-0297-41e8-a116-38ae2642948f",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Werdeteildesgesamtwiderstandes",
-                "logo": null,
-                "date": "2019-08-22T15:15:00+02:00",
-                "start": "15:15",
-                "duration": "2:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1391-session_werdeteildesgesamtwiderstandes",
-                "title": "Werdeteildesgesamtwiderstandes",
-                "subtitle": "location: Lagerfeuer (Workshop)",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "werdeteildesgesamtwiderstandes ist eine Objekt gewordene Handlungsanweisung die dazu anregt sich mit anderen menschen zu verbinden. Im Workshop bauen wir diesen analogen synthesizer, jeder kann mitmachen, vorkenntnisse sind nicht erforderlich, f\u00fcr menschen ab 8.",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/ZMERMD/"
-                ]
-              }
-            ],
             "Village:Chaoswelle": [
               {
                 "id": 1345,
@@ -3831,6 +3541,41 @@
                 ]
               }
             ],
+            "Village:Singularity City": [
+              {
+                "id": 1433,
+                "guid": "9beedfae-1d67-4cc3-a7f1-b70e0daf491b",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Stainless_Steel_Etching_-_Edelstahl_%C3%A4tzen",
+                "logo": null,
+                "date": "2019-08-22T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "2:00",
+                "room": "Village:Singularity City",
+                "slug": "camp2019-1433-session_stainless_steel_etching_edelstahl_aetzen",
+                "title": "Stainless Steel Etching - Edelstahl \u00e4tzen",
+                "subtitle": "Bring your own Besteckset/Coffee mug",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "We will etch your cutlery set or coffee mug. Bring your vector graphics.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Mist",
+                    "public_name": "Mist"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Larsan",
+                    "public_name": "Larsan"
+                  }
+                ],
+                "links": [
+                  "https://stratum0.org/blog/posts/2014/03/06/how-to-stainless-steel-etching/"
+                ]
+              }
+            ],
             "Village:RoboVillage": [
               {
                 "id": 1148,
@@ -4884,20 +4629,20 @@
               {
                 "id": 1070,
                 "guid": "2cc92940-a3f9-4291-800b-87a0123be906",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:FifF-Stammtische_everywhere",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:FIfF-Stammtische_everywhere_-_gr%C3%BCndet_Ortsgruppen",
                 "logo": null,
                 "date": "2019-08-23T16:30:00+02:00",
                 "start": "16:30",
                 "duration": "0:55",
                 "room": "Village:About:freedom",
-                "slug": "camp2019-1070-session_fiff_stammtische_everywhere",
-                "title": "FifF-Stammtische everywhere",
+                "slug": "camp2019-1070-session_fiff_stammtische_everywhere_gruendet_ortsgruppen",
+                "title": "FIfF-Stammtische everywhere - gr\u00fcndet Ortsgruppen",
                 "subtitle": "about:stage",
                 "track": "self organized sessions",
                 "type": "workshop",
                 "language": "de",
                 "abstract": "",
-                "description": "",
+                "description": "found local discussion groups",
                 "persons": [
                   {
                     "id": 0,
@@ -4910,7 +4655,9 @@
                     "public_name": "Benks"
                   }
                 ],
-                "links": []
+                "links": [
+                  "http://www.fiff.de"
+                ]
               },
               {
                 "id": 1202,
@@ -5285,160 +5032,6 @@
                 "links": []
               }
             ],
-            "Village:Three Headed Monkey": [
-              {
-                "id": 1395,
-                "guid": "f43ae881-619f-4f35-90d4-472100ef18d2",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Cryptography_of_Killing_Proof-of-Work",
-                "logo": null,
-                "date": "2019-08-23T17:00:00+02:00",
-                "start": "17:00",
-                "duration": "0:30",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1395-session_cryptography_of_killing_proof_of_work",
-                "title": "Cryptography of Killing Proof-of-Work",
-                "subtitle": "Location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "We briefly discuss the range of cryptographic primitives being used by protocols that seek to make proof-of-work protocols obsolete. We shall focus primarily on these cryptographic building blocks themselves, not overly on the different protocols built form them.",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/Z3VR8P/"
-                ]
-              },
-              {
-                "id": 1404,
-                "guid": "901b3777-4810-476f-9298-c94028f0f017",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:E-Mail-Privatheit_und_Mailbox-Verschl%C3%BCsselung",
-                "logo": null,
-                "date": "2019-08-23T18:30:00+02:00",
-                "start": "18:30",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1404-session_e_mail_privatheit_und_mailbox_verschluesselung",
-                "title": "E-Mail-Privatheit und Mailbox-Verschl\u00fcsselung",
-                "subtitle": "Location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "\u00dcberblick \u00fcber den aktuellen Stand der Privatheit von E-Mails und Pr\u00e4sentation von Userli, einer Webapplikation um E-Mailboxen zu verschl\u00fcsseln.",
-                "persons": [],
-                "links": []
-              },
-              {
-                "id": 1405,
-                "guid": "d1188c39-054d-43f9-bb95-70503e5639db",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Elektroschrott_-_Welchen_letzten_Weg_geht_mein_PC%3F",
-                "logo": null,
-                "date": "2019-08-23T19:45:00+02:00",
-                "start": "19:45",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1405-session_elektroschrott_welchen_letzten_weg_geht_mein_pc_",
-                "title": "Elektroschrott - Welchen letzten Weg geht mein PC?",
-                "subtitle": "location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Elektronikschrott ist eine Handelsware. Schrott wird zu Gold. Ger\u00e4te werden \u00fcberall in der Welt mal gut, mal nicht so gut zerlegt. Wer verdient daran? Und was k\u00f6nnen wir tun, dass sich der Export nicht mehr lohnt?",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/GYWNQP/"
-                ]
-              },
-              {
-                "id": 1397,
-                "guid": "3e47244d-4edd-40a4-9fc1-ca9902e2dffc",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Emulate,_fuzz,_break_kernels",
-                "logo": null,
-                "date": "2019-08-23T16:15:00+02:00",
-                "start": "16:15",
-                "duration": "0:30",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1397-session_emulate_fuzz_break_kernels",
-                "title": "Emulate, fuzz, break kernels",
-                "subtitle": "location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "This talk will give an introduction to kernel fuzzing using unicorefuzz.",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/QULQKV/"
-                ]
-              },
-              {
-                "id": 1409,
-                "guid": "69625296-43ca-4248-a6e9-ed678afe4d26",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Introduction_to_Lindy_Hop_/_Swing_Dance",
-                "logo": null,
-                "date": "2019-08-23T18:45:00+02:00",
-                "start": "18:45",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1409-session_introduction_to_lindy_hop_swing_dance",
-                "title": "Introduction to Lindy Hop / Swing Dance",
-                "subtitle": "location: Lagerfeuer (Workshop)",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "en",
-                "abstract": "",
-                "description": "A brief introduction to Lindy Hop dancing for beginners.",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/PGL9WK/"
-                ]
-              },
-              {
-                "id": 1412,
-                "guid": "76a31e93-5998-5887-aabb-015c3e5dcbb7",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Meet_CADUS!_Humanitarian_Aid_goes_Open_Source",
-                "logo": null,
-                "date": "2019-08-23T14:00:00+02:00",
-                "start": "14:00",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1412-session_meet_cadus_humanitarian_aid_goes_open_source",
-                "title": "Meet CADUS! Humanitarian Aid goes Open Source",
-                "subtitle": "Location: Feuerstelle (Workshop)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the \"consultation hours\" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/VT87DH/"
-                ]
-              },
-              {
-                "id": 1399,
-                "guid": "926e7afc-2e87-4ff8-bb9c-def9b7241870",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Sinn_von_Unsinn_unterscheiden_-_Glaub_ich%27s_oder_glaub_ich%27s_nicht%3F",
-                "logo": null,
-                "date": "2019-08-23T15:00:00+02:00",
-                "start": "15:00",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1399-session_sinn_von_unsinn_unterscheiden_glaub_ich_s_oder_glaub_ich_s_nicht_",
-                "title": "Sinn von Unsinn unterscheiden - Glaub ich's oder glaub ich's nicht?",
-                "subtitle": "location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Pyramiden wurden von Au\u00dferirdischen gebaut! Impfen macht Autismus! Gott hat die Welt geschaffen!",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/ARDC3J/"
-                ]
-              }
-            ],
             "Village:Haecksen": [
               {
                 "id": 1314,
@@ -5547,8 +5140,8 @@
                 "guid": "a4c66248-897e-4280-bb3e-3ba18695526b",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:FabScanPi_-_3D_Laser_Scanner_Workshop",
                 "logo": null,
-                "date": "2019-08-23T14:00:00+02:00",
-                "start": "14:00",
+                "date": "2019-08-23T15:00:00+02:00",
+                "start": "15:00",
                 "duration": "4:00",
                 "room": "Village:Kidspace",
                 "slug": "camp2019-1196-session_fabscanpi_3d_laser_scanner_workshop",
@@ -6124,7 +5717,36 @@
                 ]
               }
             ],
-            "Goldberg (Workshop 2)": [],
+            "Goldberg (Workshop 2)": [
+              {
+                "id": 1432,
+                "guid": "2d62e308-acc4-4b03-baca-382c2f0584c9",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Introduction_to_Live_Coding_with_Sonic_Pi",
+                "logo": null,
+                "date": "2019-08-24T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "1:00",
+                "room": "Goldberg (Workshop 2)",
+                "slug": "camp2019-1432-session_introduction_to_live_coding_with_sonic_pi",
+                "title": "Introduction to Live Coding with Sonic Pi",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Learn how to create music with code",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Sohalt",
+                    "public_name": "Sohalt"
+                  }
+                ],
+                "links": [
+                  "https://sonic-pi.net/"
+                ]
+              }
+            ],
             "Fireplace (Workshop THM)": [],
             "Village:About:freedom": [
               {
@@ -6766,162 +6388,6 @@
                   }
                 ],
                 "links": []
-              }
-            ],
-            "Village:Three Headed Monkey": [
-              {
-                "id": 1402,
-                "guid": "04bea69e-ef61-4294-8fb8-11aec47afd40",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Chaosradio_254",
-                "logo": null,
-                "date": "2019-08-24T18:30:00+02:00",
-                "start": "18:30",
-                "duration": "2:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1402-session_chaosradio_254",
-                "title": "Chaosradio 254",
-                "subtitle": "Location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Chaosradio 254 live von der THM-Stage auf dem Chaos Communication Congress 2019. Die erste Folge nach der Pause!",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/FMQ3UN/"
-                ]
-              },
-              {
-                "id": 1403,
-                "guid": "21457a04-47f8-4af4-987b-88e83d1b1c6f",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Climate_breakdown_%E2%80%93_the_bleak_reality",
-                "logo": null,
-                "date": "2019-08-24T16:15:00+02:00",
-                "start": "16:15",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1403-session_climate_breakdown_the_bleak_reality",
-                "title": "Climate breakdown \u2013 the bleak reality",
-                "subtitle": "Location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "Heat waves, wildfires and new movements like Fridays for Future and Extinction Rebellion have brought the climate crisis back into the news. However, meaningful political action is still not happening and the world is on track to three to four degrees of warming. Where are we heading and why did humanity fail so badly at tackling the problem?",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/FLXJRA/"
-                ]
-              },
-              {
-                "id": 1406,
-                "guid": "00beec1c-2897-4250-b799-70c2237bd46b",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Freak_Show",
-                "logo": null,
-                "date": "2019-08-24T20:45:00+02:00",
-                "start": "20:45",
-                "duration": "2:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1406-session_freak_show",
-                "title": "Freak Show",
-                "subtitle": "Location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Der Freak Show Podcast live on stage",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/ULS83P/"
-                ]
-              },
-              {
-                "id": 1407,
-                "guid": "d03d319c-d7a6-46ba-830c-3c69b36f6d28",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Gameboy_Musik_Workshop",
-                "logo": null,
-                "date": "2019-08-24T15:15:00+02:00",
-                "start": "15:15",
-                "duration": "2:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1407-session_gameboy_musik_workshop",
-                "title": "Gameboy Musik Workshop",
-                "subtitle": "location: Lagerfeuer (Workshop)",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Ein Einsteiger-Workshop f\u00fcr alle die schon immer mal Musik mit Gameboys machen wollten.",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/8NG8AA/"
-                ]
-              },
-              {
-                "id": 1408,
-                "guid": "71e9ffcb-4dcb-4d5a-8abf-8246fc01087c",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Global_Warming_Sucks!",
-                "logo": null,
-                "date": "2019-08-24T15:00:00+02:00",
-                "start": "15:00",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1408-session_global_warming_sucks_",
-                "title": "Global Warming Sucks!",
-                "subtitle": "location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Alle reden vom Klimawandel, doch niemand erkl\u00e4rt was da gerade passiert. Wird es in Zukunft einfach nur sch\u00f6n warm oder wird die Ver\u00e4nderung der Umwelt die Menschheit in die Knie zwingen? Warum der Temperaturanstieg der Atmosph\u00e4re einzigartig ist und welche Folgen dies f\u00fcr Land, Meer und Gletscher hat, erkl\u00e4rt die angehende Polarforscherin Maria-Elena Vorrath.",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/P9JCSV/"
-                ]
-              },
-              {
-                "id": 1411,
-                "guid": "9e097e30-fd31-5996-97d8-4c734188716c",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Meet_CADUS!_Humanitarian_Aid_goes_Open_Source",
-                "logo": null,
-                "date": "2019-08-24T14:00:00+02:00",
-                "start": "14:00",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1411-session_meet_cadus_humanitarian_aid_goes_open_source",
-                "title": "Meet CADUS! Humanitarian Aid goes Open Source",
-                "subtitle": "Location: Feuerstelle (Workshop)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the \"consultation hours\" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/VT87DH/"
-                ]
-              },
-              {
-                "id": 1414,
-                "guid": "a8332fb3-4b7d-42c8-96d4-9eaf1250148a",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Re-boot_yourself!",
-                "logo": null,
-                "date": "2019-08-24T11:00:00+02:00",
-                "start": "11:00",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1414-session_re_boot_yourself_",
-                "title": "Re-boot yourself!",
-                "subtitle": "location: Lagerfeuer (Workshop)",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Yoga f\u00fcr diejenigen, die bisher haupts\u00e4chlich die Computer-Asana praktizieren. Auf deutsch, bei Bedarf auch Englisch. (Asana= (sitzende) K\u00f6rperstellung im Yoga) Yoga for people who practice Computer Asana most of the time. In German, english as needed. (asana = (sitting) body posture in Yoga)",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/ARNTML/"
-                ]
               }
             ],
             "Village:C-base": [
@@ -7587,74 +7053,6 @@
                   }
                 ],
                 "links": []
-              }
-            ],
-            "Village:Three Headed Monkey": [
-              {
-                "id": 1401,
-                "guid": "7fa2f608-b079-49b4-aa1c-761e37e76fe7",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Capitana_vs._Benito_Salvini_-_%C3%BCber_die_Erosion_von_Grundrechten_und_was_wir_dagegen_tun_k%C3%B6nnen",
-                "logo": null,
-                "date": "2019-08-25T15:00:00+02:00",
-                "start": "15:00",
-                "duration": "0:30",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1401-session_capitana_vs_benito_salvini_ueber_die_erosion_von_grundrechten_und_was_wir_dagegen_tun_koennen",
-                "title": "Capitana vs. Benito Salvini - \u00fcber die Erosion von Grundrechten und was wir dagegen tun k\u00f6nnen",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/TX3WKW/"
-                ]
-              },
-              {
-                "id": 1415,
-                "guid": "6bcb76d0-3176-43f6-9e14-e4a2c3ec3a3e",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Verstehbahnhof_and_beyond_--_building_the_ultimate_digital_playground",
-                "logo": null,
-                "date": "2019-08-25T16:30:00+02:00",
-                "start": "16:30",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1415-session_verstehbahnhof_and_beyond_building_the_ultimate_digital_playground",
-                "title": "Verstehbahnhof and beyond -- building the ultimate digital playground",
-                "subtitle": "location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "Less than two years ago, we set out to create a hacker-and makerspace in the rural countryside of Brandenburg, twenty something minutes north-west of camp, in Fuerstenberg/Havel. Dubbed \"Verstehbahnhof\", as it is located in the local (and still operating) trainstation, the space was setup as an open educational space for the up- and coming and a shared workshop and space for like-minded grown-ups. This project, by now, has grown into much more than that. And we think it is time for you to know about a few things.",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/7QKPYA/"
-                ]
-              },
-              {
-                "id": 1416,
-                "guid": "79f2d637-cb7a-4b28-9ed3-3c428a83d265",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:ZpS_-_Bildung_einer_kriminellen_Vereinigung",
-                "logo": null,
-                "date": "2019-08-25T15:45:00+02:00",
-                "start": "15:45",
-                "duration": "1:00",
-                "room": "Village:Three Headed Monkey",
-                "slug": "camp2019-1416-session_zps_bildung_einer_kriminellen_vereinigung",
-                "title": "ZpS - Bildung einer kriminellen Vereinigung",
-                "subtitle": "location: Planke (B\u00fchne)",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Zentrum f\u00fcr politische Sch\u00f6nheit",
-                "persons": [],
-                "links": [
-                  "https://talx.thm.cloud/thms/talk/QHMZQM/"
-                ]
               }
             ],
             "Village:About:freedom": [

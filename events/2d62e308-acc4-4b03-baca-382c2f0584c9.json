@@ -1,0 +1,28 @@
+{
+  "id": 1432,
+  "guid": "2d62e308-acc4-4b03-baca-382c2f0584c9",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Introduction_to_Live_Coding_with_Sonic_Pi",
+  "logo": null,
+  "date": "2019-08-24T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "1:00",
+  "room": "Goldberg (Workshop 2)",
+  "slug": "camp2019-1432-session_introduction_to_live_coding_with_sonic_pi",
+  "title": "Introduction to Live Coding with Sonic Pi",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "Learn how to create music with code",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Sohalt",
+      "public_name": "Sohalt"
+    }
+  ],
+  "links": [
+    "https://sonic-pi.net/"
+  ]
+}
