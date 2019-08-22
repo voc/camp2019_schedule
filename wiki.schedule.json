@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-22 12:50",
+    "version": "2019-08-22 13:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -3490,7 +3490,7 @@
                 "type": "",
                 "language": "de",
                 "abstract": "",
-                "description": "We are singing using analog instruments and",
+                "description": "We are singing using analog instruments and our very own voices. Bring some instruments, songbooks and candles if at hand.",
                 "persons": [
                   {
                     "id": 0,
