@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 16:20</version>
+  <version>Hadar; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 16:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -2221,6 +2221,7 @@ Consultation hours are held in German or English, depending on the need. Oh, and
         <description>Let's hang around, talk about concepts of interpersonal relationships</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Binbash">Binbash</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Poly">Poly</person>
         </persons>
         <links/>
       </event>
@@ -5986,8 +5987,8 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
       <event id="1109" guid="2ec27fbb-3f33-4515-8228-db6205370168">
         <url>https://events.ccc.de/camp/2019/wiki/Session:NixOS_contribution_discussion</url>
         <logo/>
-        <date>2019-08-22T16:00:00+02:00</date>
-        <start>16:00</start>
+        <date>2019-08-22T17:30:00+02:00</date>
+        <start>17:30</start>
         <duration>1:00</duration>
         <room>Village:NixOS</room>
         <slug>camp2019-1109-session_nixos_contribution_discussion</slug>
@@ -6135,6 +6136,7 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
         <description>Let's hang around, talk about concepts of interpersonal relationships</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Binbash">Binbash</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Poly">Poly</person>
         </persons>
         <links/>
       </event>
@@ -8747,6 +8749,26 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <persons/>
         <links>
           <link>https://twitter.com/ReclaimYourClub</link>
+        </links>
+      </event>
+      <event id="1453" guid="e8c7d850-380c-4618-be43-6fe811bfe771">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hybrid_DTN_%26_Mobil_Adhoc_Routing_Protocol</url>
+        <logo/>
+        <date>2019-08-23T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Village:AFRA</room>
+        <slug>camp2019-1453-session_hybrid_dtn_mobil_adhoc_routing_protocol</slug>
+        <title>Hybrid DTN &amp; Mobil Adhoc Routing Protocol</title>
+        <subtitle>agnostic routing protocol which covers mobile ad hoc routing</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>We currently develop a network agnostic routing protocol which covers mobile ad hoc routing as well as delay tolerant package store and forward routing. This routing protocol is part of the project qaul.net, an Internet independent wireless mesh communication app.  In this session we would like to discuss and develop our ideas and concepts further. Everybody is invited to contribute ideas and/or just learn more about the subject.</description>
+        <persons/>
+        <links>
+          <link>https://qaul.net</link>
         </links>
       </event>
     </room>

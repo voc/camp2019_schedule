@@ -1,0 +1,22 @@
+{
+  "id": 1453,
+  "guid": "e8c7d850-380c-4618-be43-6fe811bfe771",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Hybrid_DTN_%26_Mobil_Adhoc_Routing_Protocol",
+  "logo": null,
+  "date": "2019-08-23T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "1:00",
+  "room": "Village:AFRA",
+  "slug": "camp2019-1453-session_hybrid_dtn_mobil_adhoc_routing_protocol",
+  "title": "Hybrid DTN & Mobil Adhoc Routing Protocol",
+  "subtitle": "agnostic routing protocol which covers mobile ad hoc routing",
+  "track": "self organized sessions",
+  "type": "discussion",
+  "language": "en",
+  "abstract": "",
+  "description": "We currently develop a network agnostic routing protocol which covers mobile ad hoc routing as well as delay tolerant package store and forward routing. This routing protocol is part of the project qaul.net, an Internet independent wireless mesh communication app.  In this session we would like to discuss and develop our ideas and concepts further. Everybody is invited to contribute ideas and/or just learn more about the subject.",
+  "persons": [],
+  "links": [
+    "https://qaul.net"
+  ]
+}
