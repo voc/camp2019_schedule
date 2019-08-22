@@ -1,0 +1,26 @@
+{
+  "id": 1464,
+  "guid": "f89f31f6-1c3d-455a-b2a1-4bf22851b269",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Decentralized_Autonomous_Organization.",
+  "logo": null,
+  "date": "2019-08-23T15:00:00+02:00",
+  "start": "15:00",
+  "duration": "1:00",
+  "room": "Johnson (Workshop 1)",
+  "slug": "camp2019-1464-session_decentralized_autonomous_organization_",
+  "title": "Decentralized Autonomous Organization.",
+  "subtitle": "Hands on Aragon DAO.",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "Hands on Decentralized Autonomous Organization - Aragon DAO.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Polto",
+      "public_name": "Polto"
+    }
+  ],
+  "links": []
+}
