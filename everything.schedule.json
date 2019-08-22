@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 20:00",
+    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 20:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -8950,6 +8950,156 @@
                 "links": []
               }
             ],
+            "Village:1komona": [
+              {
+                "id": 1465,
+                "guid": "d1610879-394c-4a30-a8e8-c683919f2247",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Anarchist_Networking_Party_w/_Las_Vegas_Lady_and_Plan%C3%A8te_Concr%C3%A8te",
+                "logo": null,
+                "date": "2019-08-23T20:00:00+02:00",
+                "start": "20:00",
+                "duration": "4:00",
+                "room": "Village:1komona",
+                "slug": "camp2019-1465-session_anarchist_networking_party_w_las_vegas_lady_and_plante_concrte",
+                "title": "Anarchist Networking Party w/ Las Vegas Lady and Plan\u00e8te Concr\u00e8te",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "",
+                "abstract": "",
+                "description": "come and enjoy",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1353,
+                "guid": "21eeb908-8ed0-4d8c-b376-b4f628ce20aa",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:ArtesMobiles_-_SpeculativeAI",
+                "logo": null,
+                "date": "2019-08-23T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "0:15",
+                "room": "Village:1komona",
+                "slug": "camp2019-1353-session_artesmobiles_speculativeai",
+                "title": "ArtesMobiles - SpeculativeAI",
+                "subtitle": "4pm - 6pm every 15 min",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "en",
+                "abstract": "",
+                "description": "<b>Performance</b> // audiovisual experiment // @12m long white Bus with rooftop terasse",
+                "persons": [],
+                "links": [
+                  "http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence"
+                ]
+              },
+              {
+                "id": 1423,
+                "guid": "f2c6d956-6000-5efe-a11f-bd9650dbe06f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters",
+                "logo": null,
+                "date": "2019-08-23T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "0:30",
+                "room": "Village:1komona",
+                "slug": "camp2019-1423-session_meet_librehosters",
+                "title": "Meet librehosters",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "A daily timeslot to meet existing librehosters members and an open invitation to join  the discussion of the directions of the network.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Agnez",
+                    "public_name": "Agnez"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Realitygaps",
+                    "public_name": "Realitygaps"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gust",
+                    "public_name": "Gust"
+                  }
+                ],
+                "links": [
+                  "https://libreho.st/"
+                ]
+              },
+              {
+                "id": 1431,
+                "guid": "6dda4de7-658f-45d7-a512-4389c8087809",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Mental_Training_Against_Sexual_Harassment",
+                "logo": null,
+                "date": "2019-08-23T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "1:30",
+                "room": "Village:1komona",
+                "slug": "camp2019-1431-session_mental_training_against_sexual_harassment",
+                "title": "Mental Training Against Sexual Harassment",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Once I told a friend about a situation where I was sexually harassed and froze, could not move, shrinked. She asked me to describe the situation and about my preferred reaction. Then we role played the situation. This scheme helped me a lot for real situations. This is what we want to do. More info below...",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Karlabyrinth",
+                    "public_name": "Karlabyrinth"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1374,
+                "guid": "8f1f9a69-e055-49fd-a557-d013c7b325ed",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Networking_Basics_on_the_Command_Line",
+                "logo": null,
+                "date": "2019-08-23T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "1:30",
+                "room": "Village:1komona",
+                "slug": "camp2019-1374-session_networking_basics_on_the_command_line",
+                "title": "Networking Basics on the Command Line",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "@Heart of code-dome, by Theresa! What's an IP address and how do you get it? How does your computer manage to reach the whole world? How can you check what part of it went wrong? This hands-on workshop will give a basic overview of some networking concepts and tools, such as ip, ping, and traceroute. Then you will have time to try out the tools for yourself. Please bring a laptop.",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1457,
+                "guid": "3e811174-99ef-5164-b2be-c5a11b9d1f25",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery",
+                "logo": null,
+                "date": "2019-08-23T16:16:00+02:00",
+                "start": "16:16",
+                "duration": "2:02",
+                "room": "Village:1komona",
+                "slug": "camp2019-1457-session_postapokalyptic_jewellery",
+                "title": "Postapokalyptic jewellery",
+                "subtitle": "scrap tinkering - schrottbasteln",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "living in the postapocalypse and noticing the beauty of relicts of human civilisation, we start to adorn and grace ourselves with it. the workshop offers to create more or less pretty jewellery things out of a big collection of found objects. bring your own nuggets or choose from provided material. there will be a donation box as sad enough the apocalypse didn't make capitalism history.",
+                "persons": [],
+                "links": [
+                  "https://p0stap0calyptic.wordpress.com/"
+                ]
+              }
+            ],
             "Village:HardwareHackingArea": [
               {
                 "id": 1032,
@@ -9165,136 +9315,6 @@
                   }
                 ],
                 "links": []
-              }
-            ],
-            "Village:1komona": [
-              {
-                "id": 1353,
-                "guid": "21eeb908-8ed0-4d8c-b376-b4f628ce20aa",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:ArtesMobiles_-_SpeculativeAI",
-                "logo": null,
-                "date": "2019-08-23T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "0:15",
-                "room": "Village:1komona",
-                "slug": "camp2019-1353-session_artesmobiles_speculativeai",
-                "title": "ArtesMobiles - SpeculativeAI",
-                "subtitle": "4pm - 6pm every 15 min",
-                "track": "self organized sessions",
-                "type": "other",
-                "language": "en",
-                "abstract": "",
-                "description": "<b>Performance</b> // audiovisual experiment // @12m long white Bus with rooftop terasse",
-                "persons": [],
-                "links": [
-                  "http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence"
-                ]
-              },
-              {
-                "id": 1423,
-                "guid": "f2c6d956-6000-5efe-a11f-bd9650dbe06f",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters",
-                "logo": null,
-                "date": "2019-08-23T17:00:00+02:00",
-                "start": "17:00",
-                "duration": "0:30",
-                "room": "Village:1komona",
-                "slug": "camp2019-1423-session_meet_librehosters",
-                "title": "Meet librehosters",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "en",
-                "abstract": "",
-                "description": "A daily timeslot to meet existing librehosters members and an open invitation to join  the discussion of the directions of the network.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Agnez",
-                    "public_name": "Agnez"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Realitygaps",
-                    "public_name": "Realitygaps"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gust",
-                    "public_name": "Gust"
-                  }
-                ],
-                "links": [
-                  "https://libreho.st/"
-                ]
-              },
-              {
-                "id": 1431,
-                "guid": "6dda4de7-658f-45d7-a512-4389c8087809",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Mental_Training_Against_Sexual_Harassment",
-                "logo": null,
-                "date": "2019-08-23T15:00:00+02:00",
-                "start": "15:00",
-                "duration": "1:30",
-                "room": "Village:1komona",
-                "slug": "camp2019-1431-session_mental_training_against_sexual_harassment",
-                "title": "Mental Training Against Sexual Harassment",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Once I told a friend about a situation where I was sexually harassed and froze, could not move, shrinked. She asked me to describe the situation and about my preferred reaction. Then we role played the situation. This scheme helped me a lot for real situations. This is what we want to do. More info below...",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Karlabyrinth",
-                    "public_name": "Karlabyrinth"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1374,
-                "guid": "8f1f9a69-e055-49fd-a557-d013c7b325ed",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Networking_Basics_on_the_Command_Line",
-                "logo": null,
-                "date": "2019-08-23T18:00:00+02:00",
-                "start": "18:00",
-                "duration": "1:30",
-                "room": "Village:1komona",
-                "slug": "camp2019-1374-session_networking_basics_on_the_command_line",
-                "title": "Networking Basics on the Command Line",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "@Heart of code-dome, by Theresa! What's an IP address and how do you get it? How does your computer manage to reach the whole world? How can you check what part of it went wrong? This hands-on workshop will give a basic overview of some networking concepts and tools, such as ip, ping, and traceroute. Then you will have time to try out the tools for yourself. Please bring a laptop.",
-                "persons": [],
-                "links": []
-              },
-              {
-                "id": 1457,
-                "guid": "3e811174-99ef-5164-b2be-c5a11b9d1f25",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery",
-                "logo": null,
-                "date": "2019-08-23T16:16:00+02:00",
-                "start": "16:16",
-                "duration": "2:02",
-                "room": "Village:1komona",
-                "slug": "camp2019-1457-session_postapokalyptic_jewellery",
-                "title": "Postapokalyptic jewellery",
-                "subtitle": "scrap tinkering - schrottbasteln",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "living in the postapocalypse and noticing the beauty of relicts of human civilisation, we start to adorn and grace ourselves with it. the workshop offers to create more or less pretty jewellery things out of a big collection of found objects. bring your own nuggets or choose from provided material. there will be a donation box as sad enough the apocalypse didn't make capitalism history.",
-                "persons": [],
-                "links": [
-                  "https://p0stap0calyptic.wordpress.com/"
-                ]
               }
             ],
             "Village:Scottish Consulate": [
@@ -12159,6 +12179,26 @@
                 "links": []
               },
               {
+                "id": 1452,
+                "guid": "7b9fea97-aa86-48ce-ba95-9bae5007efad",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Digital_Services_Act:_The_future_of_Internet_in_the_next_rules_on_Intermediary_Liability",
+                "logo": null,
+                "date": "2019-08-24T19:30:00+02:00",
+                "start": "19:30",
+                "duration": "1:00",
+                "room": "Village:About:freedom",
+                "slug": "camp2019-1452-session_digital_services_act_the_future_of_internet_in_the_next_rules_on_intermediary_liability",
+                "title": "Digital Services Act: The future of Internet in the next rules on Intermediary Liability",
+                "subtitle": "Panel on Intermediary Liability @ about:stage",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "'''CDT - Center for Democracy & Technology''', will discuss with valuable guests the political and legislative initiatives already in place and the safeguards that the new Digital Services Act must take into consideration in order to do not harm freedom of expression, access to information, and innovation and entrepreneurship on the internet.",
+                "persons": [],
+                "links": []
+              },
+              {
                 "id": 1061,
                 "guid": "7ed87274-4ec1-46e5-a779-ce8fdcc37bb4",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Discussion_on_privacy-friendly_green_policies_in_the_European_Union",
@@ -12836,28 +12876,6 @@
                 "links": [
                   "https://digitalcourage.de/digitale-selbstverteidigung"
                 ]
-              }
-            ],
-            "Village:Italian Hackers' Embassy": [
-              {
-                "id": 1452,
-                "guid": "7b9fea97-aa86-48ce-ba95-9bae5007efad",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Digital_Services_Act:_The_future_of_Internet_in_the_next_rules_on_Intermediary_Liability",
-                "logo": null,
-                "date": "2019-08-24T10:30:00+02:00",
-                "start": "10:30",
-                "duration": "1:00",
-                "room": "Village:Italian Hackers' Embassy",
-                "slug": "camp2019-1452-session_digital_services_act_the_future_of_internet_in_the_next_rules_on_intermediary_liability",
-                "title": "Digital Services Act: The future of Internet in the next rules on Intermediary Liability",
-                "subtitle": "Panel on Intermediary Liability",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "en",
-                "abstract": "",
-                "description": "'''CDT - Center for Democracy & Technology''', will discuss with valuable guests the political and legislative initiatives already in place and the safeguards that the new Digital Services Act must take into consideration in order to do not harm freedom of expression, access to information, and innovation and entrepreneurship on the internet.",
-                "persons": [],
-                "links": []
               }
             ],
             "Village:Haecksen": [
