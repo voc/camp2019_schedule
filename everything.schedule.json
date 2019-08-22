@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 22:30",
+    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 23:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -2641,17 +2641,17 @@
                 ]
               },
               {
-                "id": 1135,
-                "guid": "52fca402-211b-41df-953f-daede2a0a68b",
+                "id": 1241,
+                "guid": "d9d1bb33-18ab-4327-b399-d875d9be83ae",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
                 "logo": null,
-                "date": "2019-08-21T10:00:00+02:00",
-                "start": "10:00",
+                "date": "2019-08-21T19:00:00+02:00",
+                "start": "19:00",
                 "duration": "2:00",
                 "room": "Village:RoboVillage",
-                "slug": "camp2019-1135-session_sumorobot_soldering",
+                "slug": "camp2019-1241-session_sumorobot_soldering",
                 "title": "SumoRobot soldering",
-                "subtitle": "Day 1 morning",
+                "subtitle": "Day 1 evening",
                 "track": "self organized sessions",
                 "type": "hands-on",
                 "language": "de",
@@ -2674,15 +2674,15 @@
                 ]
               },
               {
-                "id": 1241,
-                "guid": "d9d1bb33-18ab-4327-b399-d875d9be83ae",
+                "id": 1135,
+                "guid": "52fca402-211b-41df-953f-daede2a0a68b",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
                 "logo": null,
                 "date": "2019-08-21T14:30:00+02:00",
                 "start": "14:30",
                 "duration": "2:00",
                 "room": "Village:RoboVillage",
-                "slug": "camp2019-1241-session_sumorobot_soldering",
+                "slug": "camp2019-1135-session_sumorobot_soldering",
                 "title": "SumoRobot soldering",
                 "subtitle": "Day 1 afternoon",
                 "track": "self organized sessions",
@@ -6740,36 +6740,6 @@
                 "links": []
               }
             ],
-            "Village:NixOS": [
-              {
-                "id": 1109,
-                "guid": "2ec27fbb-3f33-4515-8228-db6205370168",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:NixOS_contribution_discussion",
-                "logo": null,
-                "date": "2019-08-22T17:30:00+02:00",
-                "start": "17:30",
-                "duration": "1:00",
-                "room": "Village:NixOS",
-                "slug": "camp2019-1109-session_nixos_contribution_discussion",
-                "title": "NixOS contribution discussion",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "de",
-                "abstract": "",
-                "description": "discussion about NixOS contribution workflow",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Palo",
-                    "public_name": "Palo"
-                  }
-                ],
-                "links": [
-                  "https://git.ingolf-wagner.de/palo/nixos-diagrams"
-                ]
-              }
-            ],
             "Seating area south of Milliways (S9 on map)": [
               {
                 "id": 1226,
@@ -6904,28 +6874,6 @@
                 "persons": [],
                 "links": [
                   "http://pentagame.org"
-                ]
-              },
-              {
-                "id": 1455,
-                "guid": "e7e191ca-a827-4ec9-8346-1c1fd7cb814b",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Plant_%26_grow",
-                "logo": null,
-                "date": "2019-08-22T18:00:00+02:00",
-                "start": "18:00",
-                "duration": "2:00",
-                "room": "Village:C-base",
-                "slug": "camp2019-1455-session_plant_grow",
-                "title": "Plant & grow",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "other",
-                "language": "",
-                "abstract": "",
-                "description": "",
-                "persons": [],
-                "links": [
-                  "https://b2g.mobi"
                 ]
               }
             ],
@@ -7227,15 +7175,15 @@
                 ]
               },
               {
-                "id": 1169,
-                "guid": "4259313b-6e4c-47dd-9e7d-83798e30d421",
+                "id": 1242,
+                "guid": "d1816030-bd5c-4674-ae2b-4c8b630aaa8c",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
                 "logo": null,
                 "date": "2019-08-22T14:30:00+02:00",
                 "start": "14:30",
                 "duration": "2:00",
                 "room": "Village:RoboVillage",
-                "slug": "camp2019-1169-session_sumorobot_soldering",
+                "slug": "camp2019-1242-session_sumorobot_soldering",
                 "title": "SumoRobot soldering",
                 "subtitle": "Day 2 afternoon",
                 "track": "self organized sessions",
@@ -7260,17 +7208,17 @@
                 ]
               },
               {
-                "id": 1242,
-                "guid": "d1816030-bd5c-4674-ae2b-4c8b630aaa8c",
+                "id": 1169,
+                "guid": "4259313b-6e4c-47dd-9e7d-83798e30d421",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
                 "logo": null,
-                "date": "2019-08-22T10:00:00+02:00",
-                "start": "10:00",
+                "date": "2019-08-22T19:00:00+02:00",
+                "start": "19:00",
                 "duration": "2:00",
                 "room": "Village:RoboVillage",
-                "slug": "camp2019-1242-session_sumorobot_soldering",
+                "slug": "camp2019-1169-session_sumorobot_soldering",
                 "title": "SumoRobot soldering",
-                "subtitle": "Day 2 morning",
+                "subtitle": "Day 2 evening",
                 "track": "self organized sessions",
                 "type": "hands-on",
                 "language": "de",
@@ -9985,6 +9933,34 @@
                 ]
               },
               {
+                "id": 1109,
+                "guid": "2ec27fbb-3f33-4515-8228-db6205370168",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:NixOS_contribution_discussion",
+                "logo": null,
+                "date": "2019-08-23T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "1:00",
+                "room": "Village:NixOS",
+                "slug": "camp2019-1109-session_nixos_contribution_discussion",
+                "title": "NixOS contribution discussion",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "discussion about NixOS contribution workflow",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Palo",
+                    "public_name": "Palo"
+                  }
+                ],
+                "links": [
+                  "https://git.ingolf-wagner.de/palo/nixos-diagrams"
+                ]
+              },
+              {
                 "id": 1136,
                 "guid": "0c8e57af-799e-4378-a318-07fbd1b1da3f",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Terranix",
@@ -10845,13 +10821,13 @@
                 "guid": "083d8e09-756d-4565-a484-159cb37945f1",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
                 "logo": null,
-                "date": "2019-08-23T10:00:00+02:00",
-                "start": "10:00",
+                "date": "2019-08-23T14:30:00+02:00",
+                "start": "14:30",
                 "duration": "2:00",
                 "room": "Village:RoboVillage",
                 "slug": "camp2019-1168-session_sumorobot_soldering",
                 "title": "SumoRobot soldering",
-                "subtitle": "Day 3 morning",
+                "subtitle": "Day 3 afternoon",
                 "track": "self organized sessions",
                 "type": "hands-on",
                 "language": "de",
@@ -10878,13 +10854,13 @@
                 "guid": "43d790cb-0328-410d-a781-94edc06f6030",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
                 "logo": null,
-                "date": "2019-08-23T14:30:00+02:00",
-                "start": "14:30",
+                "date": "2019-08-23T19:00:00+02:00",
+                "start": "19:00",
                 "duration": "2:00",
                 "room": "Village:RoboVillage",
                 "slug": "camp2019-1171-session_sumorobot_soldering",
                 "title": "SumoRobot soldering",
-                "subtitle": "Day 3 afternoon",
+                "subtitle": "Day 3 evening",
                 "track": "self organized sessions",
                 "type": "hands-on",
                 "language": "de",
@@ -13516,15 +13492,15 @@
                 ]
               },
               {
-                "id": 1172,
-                "guid": "2f9e5999-b655-4c1e-a1e3-79eb6e74ae7b",
+                "id": 1243,
+                "guid": "ab31a912-85f6-4703-8aa2-de2c8906203f",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
                 "logo": null,
                 "date": "2019-08-24T14:30:00+02:00",
                 "start": "14:30",
                 "duration": "2:00",
                 "room": "Village:RoboVillage",
-                "slug": "camp2019-1172-session_sumorobot_soldering",
+                "slug": "camp2019-1243-session_sumorobot_soldering",
                 "title": "SumoRobot soldering",
                 "subtitle": "Day 4 afternoon",
                 "track": "self organized sessions",
@@ -13549,17 +13525,17 @@
                 ]
               },
               {
-                "id": 1243,
-                "guid": "ab31a912-85f6-4703-8aa2-de2c8906203f",
+                "id": 1172,
+                "guid": "2f9e5999-b655-4c1e-a1e3-79eb6e74ae7b",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
                 "logo": null,
-                "date": "2019-08-24T10:00:00+02:00",
-                "start": "10:00",
+                "date": "2019-08-24T19:00:00+02:00",
+                "start": "19:00",
                 "duration": "2:00",
                 "room": "Village:RoboVillage",
-                "slug": "camp2019-1243-session_sumorobot_soldering",
+                "slug": "camp2019-1172-session_sumorobot_soldering",
                 "title": "SumoRobot soldering",
-                "subtitle": "Day 4 morning",
+                "subtitle": "Day 4 evening",
                 "track": "self organized sessions",
                 "type": "hands-on",
                 "language": "de",
@@ -14533,17 +14509,17 @@
                 ]
               },
               {
-                "id": 1170,
-                "guid": "16adbe9f-1e08-452f-9337-bfdf205ea4bc",
+                "id": 1173,
+                "guid": "272b0087-bb81-4bf0-bb15-6c928912fcd2",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
                 "logo": null,
-                "date": "2019-08-25T10:00:00+02:00",
-                "start": "10:00",
+                "date": "2019-08-25T19:00:00+02:00",
+                "start": "19:00",
                 "duration": "2:00",
                 "room": "Village:RoboVillage",
-                "slug": "camp2019-1170-session_sumorobot_soldering",
+                "slug": "camp2019-1173-session_sumorobot_soldering",
                 "title": "SumoRobot soldering",
-                "subtitle": "Day 5 morning",
+                "subtitle": "Day 5 evening",
                 "track": "self organized sessions",
                 "type": "hands-on",
                 "language": "de",
@@ -14566,15 +14542,15 @@
                 ]
               },
               {
-                "id": 1173,
-                "guid": "272b0087-bb81-4bf0-bb15-6c928912fcd2",
+                "id": 1170,
+                "guid": "16adbe9f-1e08-452f-9337-bfdf205ea4bc",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
                 "logo": null,
                 "date": "2019-08-25T14:30:00+02:00",
                 "start": "14:30",
                 "duration": "2:00",
                 "room": "Village:RoboVillage",
-                "slug": "camp2019-1173-session_sumorobot_soldering",
+                "slug": "camp2019-1170-session_sumorobot_soldering",
                 "title": "SumoRobot soldering",
                 "subtitle": "Day 5 afternoon",
                 "track": "self organized sessions",
