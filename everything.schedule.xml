@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 19:10</version>
+  <version>Hadar; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 19:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -8500,6 +8500,28 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <persons/>
         <links>
           <link>https://hacc.uber.space/Main_Page</link>
+        </links>
+      </event>
+      <event id="1463" guid="24f4da3d-9ede-433c-a71d-3caafacff7e2">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Join_CCC_Sustainability_(c3sus)_and_help_make_CCC_events_sustainable</url>
+        <logo/>
+        <date>2019-08-23T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1463-session_join_ccc_sustainability_c3sus_and_help_make_ccc_events_sustainable</slug>
+        <title>Join CCC Sustainability (c3sus) and help make CCC events sustainable</title>
+        <subtitle>about:dome</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>CCC Sustainability is a young orga team that tries to make CCC events more sustainable by proposing solutions to existing teams and help to implement them</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Blipp">Blipp</person>
+        </persons>
+        <links>
+          <link>https://hacc.uber.space/CCC_Sustainability</link>
         </links>
       </event>
       <event id="1448" guid="8be7ed68-1559-45a4-94ab-bf53b612c9aa">
