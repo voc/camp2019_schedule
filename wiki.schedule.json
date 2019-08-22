@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-22 13:30",
+    "version": "2019-08-22 13:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -2528,6 +2528,117 @@
                 ]
               }
             ],
+            "Village:K\u00f6niglich Bayerisches Amtsvillage": [
+              {
+                "id": 1438,
+                "guid": "38398c8e-5432-4b2b-a374-7b0ef7daa4f3",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Blinking_Selfmade_LED_Ear_Ring_Workshop",
+                "logo": null,
+                "date": "2019-08-22T19:00:00+02:00",
+                "start": "19:00",
+                "duration": "0:30",
+                "room": "Village:K\u00f6niglich Bayerisches Amtsvillage",
+                "slug": "camp2019-1438-session_blinking_selfmade_led_ear_ring_workshop",
+                "title": "Blinking Selfmade LED Ear Ring Workshop",
+                "subtitle": "Hands-On Workshop  Day2 - evening",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "We show you how to solder Blinking Ear Rings",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:M1P3",
+                    "public_name": "M1P3"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Village:Metalab Dome": [
+              {
+                "id": 1440,
+                "guid": "ad22b09d-0708-41f4-bd41-c647c380873d",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Building_dome_tarps_with_PVC_fabric",
+                "logo": null,
+                "date": "2019-08-22T15:30:00+02:00",
+                "start": "15:30",
+                "duration": "2:00",
+                "room": "Village:Metalab Dome",
+                "slug": "camp2019-1440-session_building_dome_tarps_with_pvc_fabric",
+                "title": "Building dome tarps with PVC fabric",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Building tarps for the Metalab Dome",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ripper",
+                    "public_name": "Ripper"
+                  }
+                ],
+                "links": [
+                  "https://metalab.at/wiki/Dome_2.0"
+                ]
+              },
+              {
+                "id": 1417,
+                "guid": "cf044024-4111-4e64-9c4a-11c6f1dd12d2",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Gameboy_Tetris_Tournament",
+                "logo": null,
+                "date": "2019-08-22T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "1:00",
+                "room": "Village:Metalab Dome",
+                "slug": "camp2019-1417-session_gameboy_tetris_tournament",
+                "title": "Gameboy Tetris Tournament",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Gameboys! Link Cables! Tetris! Competition!",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1230,
+                "guid": "f28bdd0a-d215-4af6-8c78-9a0ed4e0d758",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Regio_Mediation",
+                "logo": null,
+                "date": "2019-08-22T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "2:00",
+                "room": "Village:Metalab Dome",
+                "slug": "camp2019-1230-session_regio_mediation",
+                "title": "Regio Mediation",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Streitigkeiten, die sich schon tiefer in einen Verein eingetreten haben oder sogar mit Machtgef\u00e4llen behaftet sind, sind nicht einfach aus der Welt zu schaffen und k\u00f6nnen eine gute Vereinsarbeit \u00fcber lange Zeit l\u00e4hmen.  Wir glauben, um diese Probleme zu l\u00f6sen, k\u00f6nnenn uns die Techniken der Mediation weiterhelfen.  Wir vermuten au\u00dferdem, dass schon viel Erfahrung im CCC und seinen Mitgliedern schlummert und wollen euch einladen mit uns Idee noch weiter auszuarbeiten.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Susi",
+                    "public_name": "Susi"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Dkl",
+                    "public_name": "Dkl"
+                  }
+                ],
+                "links": [
+                  "https://doku.ccc.de/Regiowochenende_2019"
+                ]
+              }
+            ],
             "Village:Infuanfu": [
               {
                 "id": 1421,
@@ -2985,61 +3096,6 @@
                 ],
                 "links": [
                   "https://freifunk.net"
-                ]
-              }
-            ],
-            "Village:Metalab Dome": [
-              {
-                "id": 1417,
-                "guid": "cf044024-4111-4e64-9c4a-11c6f1dd12d2",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Gameboy_Tetris_Tournament",
-                "logo": null,
-                "date": "2019-08-22T18:00:00+02:00",
-                "start": "18:00",
-                "duration": "1:00",
-                "room": "Village:Metalab Dome",
-                "slug": "camp2019-1417-session_gameboy_tetris_tournament",
-                "title": "Gameboy Tetris Tournament",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "game",
-                "language": "de",
-                "abstract": "",
-                "description": "Gameboys! Link Cables! Tetris! Competition!",
-                "persons": [],
-                "links": []
-              },
-              {
-                "id": 1230,
-                "guid": "f28bdd0a-d215-4af6-8c78-9a0ed4e0d758",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Regio_Mediation",
-                "logo": null,
-                "date": "2019-08-22T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "2:00",
-                "room": "Village:Metalab Dome",
-                "slug": "camp2019-1230-session_regio_mediation",
-                "title": "Regio Mediation",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "de",
-                "abstract": "",
-                "description": "Streitigkeiten, die sich schon tiefer in einen Verein eingetreten haben oder sogar mit Machtgef\u00e4llen behaftet sind, sind nicht einfach aus der Welt zu schaffen und k\u00f6nnen eine gute Vereinsarbeit \u00fcber lange Zeit l\u00e4hmen.  Wir glauben, um diese Probleme zu l\u00f6sen, k\u00f6nnenn uns die Techniken der Mediation weiterhelfen.  Wir vermuten au\u00dferdem, dass schon viel Erfahrung im CCC und seinen Mitgliedern schlummert und wollen euch einladen mit uns Idee noch weiter auszuarbeiten.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Susi",
-                    "public_name": "Susi"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Dkl",
-                    "public_name": "Dkl"
-                  }
-                ],
-                "links": [
-                  "https://doku.ccc.de/Regiowochenende_2019"
                 ]
               }
             ],
@@ -4842,6 +4898,34 @@
                 ]
               }
             ],
+            "Village:K\u00f6niglich Bayerisches Amtsvillage": [
+              {
+                "id": 1439,
+                "guid": "e6c6fdf5-f248-45e7-bdbe-98e7c1cef775",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Blinking_Selfmade_LED_Ear_Ring_Workshop",
+                "logo": null,
+                "date": "2019-08-23T19:00:00+02:00",
+                "start": "19:00",
+                "duration": "0:30",
+                "room": "Village:K\u00f6niglich Bayerisches Amtsvillage",
+                "slug": "camp2019-1439-session_blinking_selfmade_led_ear_ring_workshop",
+                "title": "Blinking Selfmade LED Ear Ring Workshop",
+                "subtitle": "Hands-On Workshop  Day3- evening",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "We show you how to solder Blinking Ear Rings",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:M1P3",
+                    "public_name": "M1P3"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Village:NixOS": [
               {
                 "id": 1042,
@@ -5754,7 +5838,7 @@
                 "type": "",
                 "language": "en",
                 "abstract": "",
-                "description": "Why nix and Bitcoin are a perfect match",
+                "description": "Why Nix and Bitcoin are a perfect match",
                 "persons": [],
                 "links": [
                   "http://github.com/fort-nix/nix-bitcoin"

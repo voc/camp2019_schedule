@@ -1,5 +1,5 @@
 <schedule>
-  <version>Gacrux; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 13:30</version>
+  <version>Gacrux; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 13:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -5269,6 +5269,93 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
         </links>
       </event>
     </room>
+    <room name="Village:Königlich Bayerisches Amtsvillage">
+      <event id="1438" guid="38398c8e-5432-4b2b-a374-7b0ef7daa4f3">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Blinking_Selfmade_LED_Ear_Ring_Workshop</url>
+        <logo/>
+        <date>2019-08-22T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>0:30</duration>
+        <room>Village:Königlich Bayerisches Amtsvillage</room>
+        <slug>camp2019-1438-session_blinking_selfmade_led_ear_ring_workshop</slug>
+        <title>Blinking Selfmade LED Ear Ring Workshop</title>
+        <subtitle>Hands-On Workshop  Day2 - evening</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>We show you how to solder Blinking Ear Rings</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:M1P3">M1P3</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Village:Metalab Dome">
+      <event id="1440" guid="ad22b09d-0708-41f4-bd41-c647c380873d">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Building_dome_tarps_with_PVC_fabric</url>
+        <logo/>
+        <date>2019-08-22T15:30:00+02:00</date>
+        <start>15:30</start>
+        <duration>2:00</duration>
+        <room>Village:Metalab Dome</room>
+        <slug>camp2019-1440-session_building_dome_tarps_with_pvc_fabric</slug>
+        <title>Building dome tarps with PVC fabric</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Building tarps for the Metalab Dome</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Ripper">Ripper</person>
+        </persons>
+        <links>
+          <link>https://metalab.at/wiki/Dome_2.0</link>
+        </links>
+      </event>
+      <event id="1417" guid="cf044024-4111-4e64-9c4a-11c6f1dd12d2">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Gameboy_Tetris_Tournament</url>
+        <logo/>
+        <date>2019-08-22T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Village:Metalab Dome</room>
+        <slug>camp2019-1417-session_gameboy_tetris_tournament</slug>
+        <title>Gameboy Tetris Tournament</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Gameboys! Link Cables! Tetris! Competition!</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1230" guid="f28bdd0a-d215-4af6-8c78-9a0ed4e0d758">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Regio_Mediation</url>
+        <logo/>
+        <date>2019-08-22T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Village:Metalab Dome</room>
+        <slug>camp2019-1230-session_regio_mediation</slug>
+        <title>Regio Mediation</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Streitigkeiten, die sich schon tiefer in einen Verein eingetreten haben oder sogar mit Machtgefällen behaftet sind, sind nicht einfach aus der Welt zu schaffen und können eine gute Vereinsarbeit über lange Zeit lähmen.  Wir glauben, um diese Probleme zu lösen, könnenn uns die Techniken der Mediation weiterhelfen.  Wir vermuten außerdem, dass schon viel Erfahrung im CCC und seinen Mitgliedern schlummert und wollen euch einladen mit uns Idee noch weiter auszuarbeiten.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Susi">Susi</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Dkl">Dkl</person>
+        </persons>
+        <links>
+          <link>https://doku.ccc.de/Regiowochenende_2019</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:Infuanfu">
       <event id="1421" guid="def30019-b984-4830-865d-c3ce6a3da3f3">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Chaos_Microgrid_Working_Group</url>
@@ -5636,49 +5723,6 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
         </persons>
         <links>
           <link>https://freifunk.net</link>
-        </links>
-      </event>
-    </room>
-    <room name="Village:Metalab Dome">
-      <event id="1417" guid="cf044024-4111-4e64-9c4a-11c6f1dd12d2">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Gameboy_Tetris_Tournament</url>
-        <logo/>
-        <date>2019-08-22T18:00:00+02:00</date>
-        <start>18:00</start>
-        <duration>1:00</duration>
-        <room>Village:Metalab Dome</room>
-        <slug>camp2019-1417-session_gameboy_tetris_tournament</slug>
-        <title>Gameboy Tetris Tournament</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>Gameboys! Link Cables! Tetris! Competition!</description>
-        <persons/>
-        <links/>
-      </event>
-      <event id="1230" guid="f28bdd0a-d215-4af6-8c78-9a0ed4e0d758">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Regio_Mediation</url>
-        <logo/>
-        <date>2019-08-22T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>2:00</duration>
-        <room>Village:Metalab Dome</room>
-        <slug>camp2019-1230-session_regio_mediation</slug>
-        <title>Regio Mediation</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>Streitigkeiten, die sich schon tiefer in einen Verein eingetreten haben oder sogar mit Machtgefällen behaftet sind, sind nicht einfach aus der Welt zu schaffen und können eine gute Vereinsarbeit über lange Zeit lähmen.  Wir glauben, um diese Probleme zu lösen, könnenn uns die Techniken der Mediation weiterhelfen.  Wir vermuten außerdem, dass schon viel Erfahrung im CCC und seinen Mitgliedern schlummert und wollen euch einladen mit uns Idee noch weiter auszuarbeiten.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Susi">Susi</person>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Dkl">Dkl</person>
-        </persons>
-        <links>
-          <link>https://doku.ccc.de/Regiowochenende_2019</link>
         </links>
       </event>
     </room>
@@ -8371,6 +8415,28 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         </links>
       </event>
     </room>
+    <room name="Village:Königlich Bayerisches Amtsvillage">
+      <event id="1439" guid="e6c6fdf5-f248-45e7-bdbe-98e7c1cef775">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Blinking_Selfmade_LED_Ear_Ring_Workshop</url>
+        <logo/>
+        <date>2019-08-23T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>0:30</duration>
+        <room>Village:Königlich Bayerisches Amtsvillage</room>
+        <slug>camp2019-1439-session_blinking_selfmade_led_ear_ring_workshop</slug>
+        <title>Blinking Selfmade LED Ear Ring Workshop</title>
+        <subtitle>Hands-On Workshop  Day3- evening</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>We show you how to solder Blinking Ear Rings</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:M1P3">M1P3</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Village:NixOS">
       <event id="1042" guid="68994b27-2215-45aa-bfa0-b9f3440c7e17">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Bootstrapping_NixOS</url>
@@ -10017,7 +10083,7 @@ https://freakshow.fm</description>
         <type/>
         <language>en</language>
         <abstract/>
-        <description>Why nix and Bitcoin are a perfect match</description>
+        <description>Why Nix and Bitcoin are a perfect match</description>
         <persons/>
         <links>
           <link>http://github.com/fort-nix/nix-bitcoin</link>

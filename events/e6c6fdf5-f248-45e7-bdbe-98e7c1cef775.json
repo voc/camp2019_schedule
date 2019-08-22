@@ -1,0 +1,26 @@
+{
+  "id": 1439,
+  "guid": "e6c6fdf5-f248-45e7-bdbe-98e7c1cef775",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Blinking_Selfmade_LED_Ear_Ring_Workshop",
+  "logo": null,
+  "date": "2019-08-23T19:00:00+02:00",
+  "start": "19:00",
+  "duration": "0:30",
+  "room": "Village:K\u00f6niglich Bayerisches Amtsvillage",
+  "slug": "camp2019-1439-session_blinking_selfmade_led_ear_ring_workshop",
+  "title": "Blinking Selfmade LED Ear Ring Workshop",
+  "subtitle": "Hands-On Workshop  Day3- evening",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "de",
+  "abstract": "",
+  "description": "We show you how to solder Blinking Ear Rings",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:M1P3",
+      "public_name": "M1P3"
+    }
+  ],
+  "links": []
+}
