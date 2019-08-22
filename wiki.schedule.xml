@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-22 20:30</version>
+  <version>2019-08-22 20:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -3882,6 +3882,26 @@
         </persons>
         <links/>
       </event>
+      <event id="1190" guid="b4cc194f-6a8f-4dce-a7ee-b79b68cf78dc">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:CryptoParty</url>
+        <logo/>
+        <date>2019-08-23T18:30:00+02:00</date>
+        <start>18:30</start>
+        <duration>6:00</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1190-session_cryptoparty</slug>
+        <title>CryptoParty</title>
+        <subtitle>CryptoParty</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1446" guid="f3779e26-6160-5d05-99f1-b826f541a50f">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Deviser_%26_trummerschlunk_%E2%80%93_Modular_Synths_Impro_LIVE_performance</url>
         <logo/>
@@ -4111,6 +4131,28 @@
         </persons>
         <links>
           <link>https://substrate.dev/en/tutorials</link>
+        </links>
+      </event>
+      <event id="1466" guid="70e10376-9f77-461b-a0bb-8aeecc2eda1f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Testing_economic_incentives_on_the_Kusama_Blockchain</url>
+        <logo/>
+        <date>2019-08-23T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>0:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1466-session_testing_economic_incentives_on_the_kusama_blockchain</slug>
+        <title>Testing economic incentives on the Kusama Blockchain</title>
+        <subtitle>about:sessions</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>soon Kusama, the Polkadot Chaos Canary network, is going to launch. In this session we'll dive into how this blockchain network will be used to test ecnomic incentives</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>https://kusama.network/</link>
         </links>
       </event>
       <event id="1356" guid="7642b89a-7920-4796-85c6-29437a8da2bb">

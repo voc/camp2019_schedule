@@ -1,11 +1,12 @@
 {
   "id": 1190,
   "guid": "b4cc194f-6a8f-4dce-a7ee-b79b68cf78dc",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:CryptoParty",
   "logo": null,
   "date": "2019-08-23T18:30:00+02:00",
   "start": "18:30",
   "duration": "6:00",
-  "room": "",
+  "room": "Village:About:freedom",
   "slug": "camp2019-1190-session_cryptoparty",
   "title": "CryptoParty",
   "subtitle": "CryptoParty",
@@ -17,11 +18,9 @@
   "persons": [
     {
       "id": 0,
-      "url": "//events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
       "public_name": "Gnunicorn"
     }
   ],
-  "links": [
-    "//events.ccc.de/camp/2019/wiki/Session:CryptoParty"
-  ]
+  "links": []
 }

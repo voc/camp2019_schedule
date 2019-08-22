@@ -1,0 +1,28 @@
+{
+  "id": 1466,
+  "guid": "70e10376-9f77-461b-a0bb-8aeecc2eda1f",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Testing_economic_incentives_on_the_Kusama_Blockchain",
+  "logo": null,
+  "date": "2019-08-23T17:00:00+02:00",
+  "start": "17:00",
+  "duration": "0:55",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1466-session_testing_economic_incentives_on_the_kusama_blockchain",
+  "title": "Testing economic incentives on the Kusama Blockchain",
+  "subtitle": "about:sessions",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "soon Kusama, the Polkadot Chaos Canary network, is going to launch. In this session we'll dive into how this blockchain network will be used to test ecnomic incentives",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+      "public_name": "Gnunicorn"
+    }
+  ],
+  "links": [
+    "https://kusama.network/"
+  ]
+}

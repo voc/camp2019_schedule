@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 20:30",
+    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 20:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -9458,6 +9458,32 @@
                 "links": []
               },
               {
+                "id": 1190,
+                "guid": "b4cc194f-6a8f-4dce-a7ee-b79b68cf78dc",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:CryptoParty",
+                "logo": null,
+                "date": "2019-08-23T18:30:00+02:00",
+                "start": "18:30",
+                "duration": "6:00",
+                "room": "Village:About:freedom",
+                "slug": "camp2019-1190-session_cryptoparty",
+                "title": "CryptoParty",
+                "subtitle": "CryptoParty",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "public_name": "Gnunicorn"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1446,
                 "guid": "f3779e26-6160-5d05-99f1-b826f541a50f",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Deviser_%26_trummerschlunk_%E2%80%93_Modular_Synths_Impro_LIVE_performance",
@@ -9752,6 +9778,34 @@
                 ],
                 "links": [
                   "https://substrate.dev/en/tutorials"
+                ]
+              },
+              {
+                "id": 1466,
+                "guid": "70e10376-9f77-461b-a0bb-8aeecc2eda1f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Testing_economic_incentives_on_the_Kusama_Blockchain",
+                "logo": null,
+                "date": "2019-08-23T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "0:55",
+                "room": "Village:About:freedom",
+                "slug": "camp2019-1466-session_testing_economic_incentives_on_the_kusama_blockchain",
+                "title": "Testing economic incentives on the Kusama Blockchain",
+                "subtitle": "about:sessions",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "soon Kusama, the Polkadot Chaos Canary network, is going to launch. In this session we'll dive into how this blockchain network will be used to test ecnomic incentives",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
+                    "public_name": "Gnunicorn"
+                  }
+                ],
+                "links": [
+                  "https://kusama.network/"
                 ]
               },
               {
