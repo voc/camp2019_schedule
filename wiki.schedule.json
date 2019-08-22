@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-22 10:40",
+    "version": "2019-08-22 11:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -188,7 +188,7 @@
                 "logo": null,
                 "date": "2019-08-21T22:00:00+02:00",
                 "start": "22:00",
-                "duration": "0:30",
+                "duration": "0:01",
                 "room": "Village:Haecksen",
                 "slug": "camp2019-1279-session_maerchenstunde_fuer_erwachsene_",
                 "title": "M\u00e4rchenstunde (f\u00fcr Erwachsene)",
@@ -197,7 +197,7 @@
                 "type": "talk",
                 "language": "de",
                 "abstract": "",
-                "description": "",
+                "description": "Achtung, f\u00e4llt aus! Tag 3 gehts los",
                 "persons": [],
                 "links": []
               },
@@ -3160,12 +3160,12 @@
                 "room": "Village:Haecksen",
                 "slug": "camp2019-1278-session_maerchenstunde_fuer_erwachsene_",
                 "title": "M\u00e4rchenstunde (f\u00fcr Erwachsene)",
-                "subtitle": "Teil 2: Die Originaltexte von Ada Lovelace (die sind toll!)",
+                "subtitle": "F\u00e4llt aus, an Tag 3 gehts los!",
                 "track": "self organized sessions",
                 "type": "talk",
                 "language": "de",
                 "abstract": "",
-                "description": "",
+                "description": "Achtung, f\u00e4llt aus! Tag 3 gehts los",
                 "persons": [],
                 "links": []
               },
@@ -5545,12 +5545,12 @@
                 "room": "Village:Haecksen",
                 "slug": "camp2019-1310-session_maerchenstunde_fuer_erwachsene_",
                 "title": "M\u00e4rchenstunde (f\u00fcr Erwachsene)",
-                "subtitle": "Teil 3: Meine Gro\u00dfmutter war ein Computer! - von den ENIAC Girls bis zum Harem von Pickering",
+                "subtitle": "M\u00e4rchenstunde: Computergeschichte und Frauen*",
                 "track": "self organized sessions",
                 "type": "talk",
                 "language": "de",
                 "abstract": "",
-                "description": "",
+                "description": "Achtung, f\u00e4llt aus! Tag 3 gehts los",
                 "persons": [],
                 "links": []
               }
@@ -7036,12 +7036,12 @@
                 "room": "Village:Haecksen",
                 "slug": "camp2019-1311-session_maerchenstunde_fuer_erwachsene_",
                 "title": "M\u00e4rchenstunde (f\u00fcr Erwachsene)",
-                "subtitle": "Computerge- schichte und Frauen*: letzter Teil, die Gegenwart, was ist da los und was soll das",
+                "subtitle": "M\u00e4rchenstunde: Computergeschichte und Frauen*",
                 "track": "self organized sessions",
                 "type": "talk",
                 "language": "de",
                 "abstract": "",
-                "description": "",
+                "description": "Achtung, f\u00e4llt aus! Tag 3 gehts los",
                 "persons": [],
                 "links": []
               },

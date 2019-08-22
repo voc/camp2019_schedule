@@ -1,5 +1,5 @@
 <schedule>
-  <version>Gacrux; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 10:40</version>
+  <version>Gacrux; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 11:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -1235,7 +1235,7 @@ Consultation hours are held in German or English, depending on the need. Oh, and
         <logo/>
         <date>2019-08-21T22:00:00+02:00</date>
         <start>22:00</start>
-        <duration>0:30</duration>
+        <duration>0:01</duration>
         <room>Village:Haecksen</room>
         <slug>camp2019-1279-session_maerchenstunde_fuer_erwachsene_</slug>
         <title>Märchenstunde (für Erwachsene)</title>
@@ -1244,7 +1244,7 @@ Consultation hours are held in German or English, depending on the need. Oh, and
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description/>
+        <description>Achtung, fällt aus! Tag 3 gehts los</description>
         <persons/>
         <links/>
       </event>
@@ -5535,12 +5535,12 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
         <room>Village:Haecksen</room>
         <slug>camp2019-1278-session_maerchenstunde_fuer_erwachsene_</slug>
         <title>Märchenstunde (für Erwachsene)</title>
-        <subtitle>Teil 2: Die Originaltexte von Ada Lovelace (die sind toll!)</subtitle>
+        <subtitle>Fällt aus, an Tag 3 gehts los!</subtitle>
         <track>self organized sessions</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description/>
+        <description>Achtung, fällt aus! Tag 3 gehts los</description>
         <persons/>
         <links/>
       </event>
@@ -8572,12 +8572,12 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <room>Village:Haecksen</room>
         <slug>camp2019-1310-session_maerchenstunde_fuer_erwachsene_</slug>
         <title>Märchenstunde (für Erwachsene)</title>
-        <subtitle>Teil 3: Meine Großmutter war ein Computer! - von den ENIAC Girls bis zum Harem von Pickering</subtitle>
+        <subtitle>Märchenstunde: Computergeschichte und Frauen*</subtitle>
         <track>self organized sessions</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description/>
+        <description>Achtung, fällt aus! Tag 3 gehts los</description>
         <persons/>
         <links/>
       </event>
@@ -10701,12 +10701,12 @@ Live spielen die Muckemacher in voller Bandbesetzung mit Schlagzeug, Bass, Gitar
         <room>Village:Haecksen</room>
         <slug>camp2019-1311-session_maerchenstunde_fuer_erwachsene_</slug>
         <title>Märchenstunde (für Erwachsene)</title>
-        <subtitle>Computerge- schichte und Frauen*: letzter Teil, die Gegenwart, was ist da los und was soll das</subtitle>
+        <subtitle>Märchenstunde: Computergeschichte und Frauen*</subtitle>
         <track>self organized sessions</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description/>
+        <description>Achtung, fällt aus! Tag 3 gehts los</description>
         <persons/>
         <links/>
       </event>
