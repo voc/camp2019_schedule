@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 16:10",
+    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 16:20",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -7054,7 +7054,7 @@
                 "room": "Village:Harbor",
                 "slug": "camp2019-1126-session_socialtech",
                 "title": "SocialTech",
-                "subtitle": "SocialTech #1",
+                "subtitle": "SocialTech Workshop #1",
                 "track": "self organized sessions",
                 "type": "workshop",
                 "language": "de",
@@ -12614,6 +12614,28 @@
                 ]
               }
             ],
+            "Village:Italian Hackers' Embassy": [
+              {
+                "id": 1452,
+                "guid": "7b9fea97-aa86-48ce-ba95-9bae5007efad",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Digital_Services_Act:_The_future_of_Internet_in_the_next_rules_on_Intermediary_Liability",
+                "logo": null,
+                "date": "2019-08-24T10:30:00+02:00",
+                "start": "10:30",
+                "duration": "1:00",
+                "room": "Village:Italian Hackers' Embassy",
+                "slug": "camp2019-1452-session_digital_services_act_the_future_of_internet_in_the_next_rules_on_intermediary_liability",
+                "title": "Digital Services Act: The future of Internet in the next rules on Intermediary Liability",
+                "subtitle": "Panel on Intermediary Liability",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "'''CDT - Center for Democracy & Technology''', will discuss with valuable guests the political and legislative initiatives already in place and the safeguards that the new Digital Services Act must take into consideration in order to do not harm freedom of expression, access to information, and innovation and entrepreneurship on the internet.",
+                "persons": [],
+                "links": []
+              }
+            ],
             "Village:Haecksen": [
               {
                 "id": 1315,
@@ -12692,7 +12714,7 @@
                 "room": "Village:Haecksen",
                 "slug": "camp2019-1312-session_socialtech",
                 "title": "SocialTech",
-                "subtitle": "SocialTech #2",
+                "subtitle": "SocialTech Workshop #2",
                 "track": "self organized sessions",
                 "type": "workshop",
                 "language": "de",

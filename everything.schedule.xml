@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 16:10</version>
+  <version>Hadar; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 16:20</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -6215,7 +6215,7 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
         <room>Village:Harbor</room>
         <slug>camp2019-1126-session_socialtech</slug>
         <title>SocialTech</title>
-        <subtitle>SocialTech #1</subtitle>
+        <subtitle>SocialTech Workshop #1</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -11165,6 +11165,26 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         </links>
       </event>
     </room>
+    <room name="Village:Italian Hackers' Embassy">
+      <event id="1452" guid="7b9fea97-aa86-48ce-ba95-9bae5007efad">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Digital_Services_Act:_The_future_of_Internet_in_the_next_rules_on_Intermediary_Liability</url>
+        <logo/>
+        <date>2019-08-24T10:30:00+02:00</date>
+        <start>10:30</start>
+        <duration>1:00</duration>
+        <room>Village:Italian Hackers' Embassy</room>
+        <slug>camp2019-1452-session_digital_services_act_the_future_of_internet_in_the_next_rules_on_intermediary_liability</slug>
+        <title>Digital Services Act: The future of Internet in the next rules on Intermediary Liability</title>
+        <subtitle>Panel on Intermediary Liability</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>'''CDT - Center for Democracy &amp; Technology''', will discuss with valuable guests the political and legislative initiatives already in place and the safeguards that the new Digital Services Act must take into consideration in order to do not harm freedom of expression, access to information, and innovation and entrepreneurship on the internet.</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
     <room name="Village:Haecksen">
       <event id="1315" guid="be027390-38e1-4207-b05f-2f4a2a279194">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Feierliche_Verlesung_des_gesammelten_%C3%84rgers</url>
@@ -11231,7 +11251,7 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <room>Village:Haecksen</room>
         <slug>camp2019-1312-session_socialtech</slug>
         <title>SocialTech</title>
-        <subtitle>SocialTech #2</subtitle>
+        <subtitle>SocialTech Workshop #2</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
