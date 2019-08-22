@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 18:40",
+    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 19:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -9813,6 +9813,28 @@
                 ]
               },
               {
+                "id": 1462,
+                "guid": "370642b8-90b4-4f8e-8933-e4d9ca328a02",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Let%E2%80%99s_play_EmptyEpsilon_(Bridge_Simulator)",
+                "logo": null,
+                "date": "2019-08-23T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "1:30",
+                "room": "Village:NixOS",
+                "slug": "camp2019-1462-session_let_s_play_emptyepsilon_bridge_simulator_",
+                "title": "Let\u2019s play EmptyEpsilon (Bridge Simulator)",
+                "subtitle": "Take 2",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Let\u2019s play a spaceship bridge simulator together (we are noobs)",
+                "persons": [],
+                "links": [
+                  "https://daid.github.io/EmptyEpsilon/"
+                ]
+              },
+              {
                 "id": 1136,
                 "guid": "0c8e57af-799e-4378-a318-07fbd1b1da3f",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Terranix",
@@ -12478,6 +12500,32 @@
                 ]
               },
               {
+                "id": 1461,
+                "guid": "5ac068f1-3077-4173-a582-e5bef421a05d",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hosting_for_non-geeks:_communication_needs",
+                "logo": null,
+                "date": "2019-08-24T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "Village:1komona",
+                "slug": "camp2019-1461-session_hosting_for_non_geeks_communication_needs",
+                "title": "Hosting for non-geeks: communication needs",
+                "subtitle": "talk, brainstorm, worksession... let's see what form this is going to take",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "Making ethical hosting projects accessible to non-geeks needs good communication",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Agnez",
+                    "public_name": "Agnez"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1422,
                 "guid": "59eba6c8-b345-4555-abba-adc984b5dfba",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters",
@@ -12759,32 +12807,6 @@
               }
             ],
             "Village:Haecksen": [
-              {
-                "id": 1460,
-                "guid": "03e86b75-b044-42a5-8429-6ab2bff64ad3",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Do_you_hear_the_people_sing_%E2%80%93_the_song_of_the_Hong_Kong_protests",
-                "logo": null,
-                "date": "2019-08-25T00:00:00+02:00",
-                "start": "00:00",
-                "duration": "0:30",
-                "room": "Village:Haecksen",
-                "slug": "camp2019-1460-session_do_you_hear_the_people_sing_the_song_of_the_hong_kong_protests",
-                "title": "Do you hear the people sing \u2013 the song of the Hong Kong protests",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "de",
-                "abstract": "",
-                "description": "Singing the song and learning about it's background in the Hong Kong protests",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Piko",
-                    "public_name": "Piko"
-                  }
-                ],
-                "links": []
-              },
               {
                 "id": 1315,
                 "guid": "be027390-38e1-4207-b05f-2f4a2a279194",
@@ -13927,6 +13949,32 @@
                 "language": "de",
                 "abstract": "",
                 "description": "Sprechworkshop, um beim Reden ernstgenommen zu werden",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Piko",
+                    "public_name": "Piko"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1460,
+                "guid": "03e86b75-b044-42a5-8429-6ab2bff64ad3",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Do_you_hear_the_people_sing_%E2%80%93_the_song_of_the_Hong_Kong_protests",
+                "logo": null,
+                "date": "2019-08-25T17:30:00+02:00",
+                "start": "17:30",
+                "duration": "0:30",
+                "room": "Village:Haecksen",
+                "slug": "camp2019-1460-session_do_you_hear_the_people_sing_the_song_of_the_hong_kong_protests",
+                "title": "Do you hear the people sing \u2013 the song of the Hong Kong protests",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Singing the song and learning about it's background in the Hong Kong protests",
                 "persons": [
                   {
                     "id": 0,

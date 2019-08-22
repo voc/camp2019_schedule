@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-22 18:40</version>
+  <version>2019-08-22 19:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -4163,6 +4163,26 @@
           <link>https://krebsco.de</link>
         </links>
       </event>
+      <event id="1462" guid="370642b8-90b4-4f8e-8933-e4d9ca328a02">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Let%E2%80%99s_play_EmptyEpsilon_(Bridge_Simulator)</url>
+        <logo/>
+        <date>2019-08-23T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>Village:NixOS</room>
+        <slug>camp2019-1462-session_let_s_play_emptyepsilon_bridge_simulator_</slug>
+        <title>Let’s play EmptyEpsilon (Bridge Simulator)</title>
+        <subtitle>Take 2</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Let’s play a spaceship bridge simulator together (we are noobs)</description>
+        <persons/>
+        <links>
+          <link>https://daid.github.io/EmptyEpsilon/</link>
+        </links>
+      </event>
       <event id="1136" guid="0c8e57af-799e-4378-a318-07fbd1b1da3f">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Terranix</url>
         <logo/>
@@ -5423,6 +5443,26 @@
           <link>http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence</link>
         </links>
       </event>
+      <event id="1461" guid="5ac068f1-3077-4173-a582-e5bef421a05d">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hosting_for_non-geeks:_communication_needs</url>
+        <logo/>
+        <date>2019-08-24T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1461-session_hosting_for_non_geeks_communication_needs</slug>
+        <title>Hosting for non-geeks: communication needs</title>
+        <subtitle>talk, brainstorm, worksession... let's see what form this is going to take</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Making ethical hosting projects accessible to non-geeks needs good communication</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Agnez">Agnez</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1422" guid="59eba6c8-b345-4555-abba-adc984b5dfba">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters</url>
         <logo/>
@@ -5659,26 +5699,6 @@
       </event>
     </room>
     <room name="Village:Haecksen">
-      <event id="1460" guid="03e86b75-b044-42a5-8429-6ab2bff64ad3">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Do_you_hear_the_people_sing_%E2%80%93_the_song_of_the_Hong_Kong_protests</url>
-        <logo/>
-        <date>2019-08-25T00:00:00+02:00</date>
-        <start>00:00</start>
-        <duration>0:30</duration>
-        <room>Village:Haecksen</room>
-        <slug>camp2019-1460-session_do_you_hear_the_people_sing_the_song_of_the_hong_kong_protests</slug>
-        <title>Do you hear the people sing – the song of the Hong Kong protests</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>de</language>
-        <abstract/>
-        <description>Singing the song and learning about it's background in the Hong Kong protests</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
-        </persons>
-        <links/>
-      </event>
       <event id="1315" guid="be027390-38e1-4207-b05f-2f4a2a279194">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Feierliche_Verlesung_des_gesammelten_%C3%84rgers</url>
         <logo/>
@@ -6082,6 +6102,26 @@
         <language>de</language>
         <abstract/>
         <description>Sprechworkshop, um beim Reden ernstgenommen zu werden</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1460" guid="03e86b75-b044-42a5-8429-6ab2bff64ad3">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Do_you_hear_the_people_sing_%E2%80%93_the_song_of_the_Hong_Kong_protests</url>
+        <logo/>
+        <date>2019-08-25T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>0:30</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1460-session_do_you_hear_the_people_sing_the_song_of_the_hong_kong_protests</slug>
+        <title>Do you hear the people sing – the song of the Hong Kong protests</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Singing the song and learning about it's background in the Hong Kong protests</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
         </persons>
