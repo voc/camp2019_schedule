@@ -7,13 +7,13 @@
   "start": "18:00",
   "duration": "00:45",
   "room": "Meitner",
-  "slug": "Camp2019-10210-75_jahre_journalismus_im_www",
-  "title": "75 Jahre Journalismus im WWW",
+  "slug": "Camp2019-10210-50_jahre_journalismus_im_netz",
+  "title": "50 Jahre Journalismus im Netz",
   "subtitle": "the untold stories",
   "track": "Entertainment",
   "type": "performance",
   "language": "de",
-  "abstract": "Detlef Borchers, Peter Glaser und Erich Moechel erz\u00e4hlen, was sie im digitalen Neolithikum gesehen und erlebt, aber nie geschrieben haben. Episoden aus der Fr\u00fchzeit \u00fcber Gier & Dummheit & Illusionen bis die Dot.com-Blase brannte & die Datengeilheit in die digitale Welt kam. Geschichten aus den \"Crypto Wars\" samt schr\u00e4gen Begegnungen mit Schattenmenschen, wie schnell man in was hineingeschlittert wurde & was dabei kaputtging. Wie das WWW halt wurde, was es heute ist.\r\n",
+  "abstract": "Detlef Borchers und Erich Moechel erz\u00e4hlen, was sie im digitalen Neolithikum gesehen und erlebt, aber nie geschrieben haben. Episoden aus der Fr\u00fchzeit \u00fcber Gier & Dummheit & Illusionen bis die Dot.com-Blase brannte & die Datengeilheit in die digitale Welt kam. Geschichten aus den \"Crypto Wars\" samt schr\u00e4gen Begegnungen mit Schattenmenschen, wie schnell man in was hineingeschlittert wurde & was dabei kaputtging. Wie das Netz halt wurde, was es heute ist.\r\n",
   "description": "Der genauere Inhalt musst erst gemeinsam festgelegt werden, es wird auch Bilder geben. Sicher ist, wir werden Klartext reden, wobei auch ein Outing nicht auszuschlie\u00dfen ist.  ",
   "recording_license": "",
   "do_not_record": false,
@@ -25,10 +25,6 @@
     {
       "id": 9135,
       "public_name": "Detlef Borchers"
-    },
-    {
-      "id": 186,
-      "public_name": "peter"
     }
   ],
   "links": [],

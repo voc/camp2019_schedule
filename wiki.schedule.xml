@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-22 15:11</version>
+  <version>2019-08-22 15:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -30,28 +30,6 @@
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Polto">Polto</person>
         </persons>
         <links/>
-      </event>
-      <event id="1284" guid="f4fa97e9-c253-4eb2-8695-83addfc593ea">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</url>
-        <logo/>
-        <date>2019-08-21T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1284-session_creating_z_wave_controllers_and_devices</slug>
-        <title>Creating Z-Wave controllers and devices</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Hacking around Z-Wave smart home protocol</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:PoltoS">PoltoS</person>
-        </persons>
-        <links>
-          <link>http://z-uno.z-wave.me</link>
-        </links>
       </event>
     </room>
     <room name="Goldberg (Workshop 2)">
@@ -555,6 +533,52 @@
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Nils">Nils</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="Hackcenter">
+      <event id="1284" guid="f4fa97e9-c253-4eb2-8695-83addfc593ea">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</url>
+        <logo/>
+        <date>2019-08-21T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1284-session_creating_z_wave_controllers_and_devices</slug>
+        <title>Creating Z-Wave controllers and devices</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hacking around Z-Wave smart home protocol</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:PoltoS">PoltoS</person>
+        </persons>
+        <links>
+          <link>http://z-uno.z-wave.me</link>
+        </links>
+      </event>
+      <event id="1233" guid="f5d15859-c9b5-44c8-8565-cb22daacedc8">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant</url>
+        <logo/>
+        <date>2019-08-21T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1233-session_susi_ai_open_source_voice_assistant</slug>
+        <title>SUSI.AI Open Source Voice Assistant</title>
+        <subtitle>Learn about SUSI.AI and how to build your own smart speaker</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:MarioB">MarioB</person>
+        </persons>
+        <links>
+          <link>https://susi.ai</link>
+        </links>
       </event>
     </room>
     <room name="Village:About:freedom">
@@ -1114,30 +1138,6 @@
         <links/>
       </event>
     </room>
-    <room name="Hackcenter">
-      <event id="1233" guid="f5d15859-c9b5-44c8-8565-cb22daacedc8">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant</url>
-        <logo/>
-        <date>2019-08-21T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Hackcenter</room>
-        <slug>camp2019-1233-session_susi_ai_open_source_voice_assistant</slug>
-        <title>SUSI.AI Open Source Voice Assistant</title>
-        <subtitle>Learn about SUSI.AI and how to build your own smart speaker</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:MarioB">MarioB</person>
-        </persons>
-        <links>
-          <link>https://susi.ai</link>
-        </links>
-      </event>
-    </room>
     <room name="Village:Sft / pwnda village™">
       <event id="1335" guid="e04abc78-9ce0-438b-be18-262991300d62">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Stargazing_with_a_telescope</url>
@@ -1294,28 +1294,6 @@
         <description>Offene Chorprobe und physikalische Grundlagen der Musik</description>
         <persons/>
         <links/>
-      </event>
-      <event id="1283" guid="7db3ec84-5dc0-46a3-b30e-8fa3eb9560b6">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</url>
-        <logo/>
-        <date>2019-08-22T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1283-session_creating_z_wave_controllers_and_devices</slug>
-        <title>Creating Z-Wave controllers and devices</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Hacking around Z-Wave smart home protocol</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:PoltoS">PoltoS</person>
-        </persons>
-        <links>
-          <link>http://z-uno.z-wave.me</link>
-        </links>
       </event>
       <event id="1262" guid="afa80109-3761-4b3f-b2e8-57087d164b0d">
         <url>https://events.ccc.de/camp/2019/wiki/Session:NixOS_Install_Party</url>
@@ -2259,6 +2237,30 @@
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Fr%C3%B6belsuppe">Fröbelsuppe</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="Hackcenter">
+      <event id="1283" guid="7db3ec84-5dc0-46a3-b30e-8fa3eb9560b6">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</url>
+        <logo/>
+        <date>2019-08-22T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1283-session_creating_z_wave_controllers_and_devices</slug>
+        <title>Creating Z-Wave controllers and devices</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hacking around Z-Wave smart home protocol</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:PoltoS">PoltoS</person>
+        </persons>
+        <links>
+          <link>http://z-uno.z-wave.me</link>
+        </links>
       </event>
     </room>
     <room name="Village:ChaosZone">
@@ -3760,6 +3762,48 @@
         </persons>
         <links/>
       </event>
+      <event id="1446" guid="f3779e26-6160-5d05-99f1-b826f541a50f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Deviser_%26_trummerschlunk_%E2%80%93_Modular_Synths_Impro_LIVE_performance</url>
+        <logo/>
+        <date>2019-08-23T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>2:00</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1446-session_deviser_trummerschlunk_modular_synths_impro_live_performance</slug>
+        <title>Deviser &amp; trummerschlunk – Modular Synths Impro LIVE performance</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>modular synths impro</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Benks">Benks</person>
+        </persons>
+        <links>
+          <link>http://trummerschlunk.de</link>
+        </links>
+      </event>
+      <event id="1447" guid="12a66c12-726d-47ff-9cd8-b8d0a3e1aa40">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Extinction_Rebellion:_planning_civil_disobedience</url>
+        <logo/>
+        <date>2019-08-23T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>1:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1447-session_extinction_rebellion_planning_civil_disobedience</slug>
+        <title>Extinction Rebellion: planning civil disobedience</title>
+        <subtitle>about:dome</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Planning an action and discussing communication tech during our rebellion week in october</description>
+        <persons/>
+        <links>
+          <link>http://extinctionrebellion.de</link>
+        </links>
+      </event>
       <event id="1070" guid="2cc92940-a3f9-4291-800b-87a0123be906">
         <url>https://events.ccc.de/camp/2019/wiki/Session:FIfF-Stammtische_everywhere_-_gr%C3%BCndet_Ortsgruppen</url>
         <logo/>
@@ -3839,26 +3883,6 @@
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Karlabyrinth">Karlabyrinth</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1445" guid="cdca4786-006b-5a2b-b446-decb9ea12ee5">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Modular_Synths_Impro_LIVE_performance_1)3%5C/1532</url>
-        <logo/>
-        <date>2019-08-23T22:00:00+02:00</date>
-        <start>22:00</start>
-        <duration>2:00</duration>
-        <room>Village:About:freedom</room>
-        <slug>camp2019-1445-session_modular_synths_impro_live_performance_1_3_1532</slug>
-        <title>Modular Synths Impro LIVE performance 1)3\/1532</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description>modular synths impro</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Benks">Benks</person>
         </persons>
         <links/>
       </event>
@@ -4084,14 +4108,14 @@
         </links>
       </event>
     </room>
-    <room name="Village:Reclaim Club Culture">
+    <room name="Village:AFRA">
       <event id="1319" guid="9c204188-b4dd-4509-982f-db08159de482">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Club_culture_against_the_monopoly_of_Facebook</url>
         <logo/>
         <date>2019-08-23T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>1:30</duration>
-        <room>Village:Reclaim Club Culture</room>
+        <room>Village:AFRA</room>
         <slug>camp2019-1319-session_club_culture_against_the_monopoly_of_facebook</slug>
         <title>Club culture against the monopoly of Facebook</title>
         <subtitle/>
@@ -4453,6 +4477,30 @@
           <link>https://github.com/IuriLeitaoMartinho/OffGridMilliwaysMod</link>
           <link>https://www.twitch.tv/semaeopus</link>
           <link>http://www.offgridthegame.com</link>
+        </links>
+      </event>
+    </room>
+    <room name="About:stage">
+      <event id="1448" guid="8be7ed68-1559-45a4-94ab-bf53b612c9aa">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Ola_Bini:_unfairly_persecuted</url>
+        <logo/>
+        <date>2019-08-23T18:30:00+02:00</date>
+        <start>18:30</start>
+        <duration>0:30</duration>
+        <room>About:stage</room>
+        <slug>camp2019-1448-session_ola_bini_unfairly_persecuted</slug>
+        <title>Ola Bini: unfairly persecuted</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Ola Bini has been unfairly persecuted for almost 130 days in Ecuador. Let's discuss about that!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Sofia_Celi">Sofia Celi</person>
+        </persons>
+        <links>
+          <link>http://freeolabini.org</link>
         </links>
       </event>
     </room>

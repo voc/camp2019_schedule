@@ -1,0 +1,28 @@
+{
+  "id": 1446,
+  "guid": "f3779e26-6160-5d05-99f1-b826f541a50f",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Deviser_%26_trummerschlunk_%E2%80%93_Modular_Synths_Impro_LIVE_performance",
+  "logo": null,
+  "date": "2019-08-23T22:00:00+02:00",
+  "start": "22:00",
+  "duration": "2:00",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1446-session_deviser_trummerschlunk_modular_synths_impro_live_performance",
+  "title": "Deviser & trummerschlunk \u2013 Modular Synths Impro LIVE performance",
+  "subtitle": "about:stage",
+  "track": "self organized sessions",
+  "type": "other",
+  "language": "de",
+  "abstract": "",
+  "description": "modular synths impro",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Benks",
+      "public_name": "Benks"
+    }
+  ],
+  "links": [
+    "http://trummerschlunk.de"
+  ]
+}

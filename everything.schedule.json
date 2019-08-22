@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Gacrux; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 15:11",
+    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 15:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -608,7 +608,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/795/original/CCCamp2019_Final_v2.pdf?1566405433",
+                    "title": "Slides in PDF form (animations splitted)"
+                  }
+                ]
               }
             ],
             "Johnson (Workshop 1)": [
@@ -637,34 +642,6 @@
                   }
                 ],
                 "links": []
-              },
-              {
-                "id": 1284,
-                "guid": "f4fa97e9-c253-4eb2-8695-83addfc593ea",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices",
-                "logo": null,
-                "date": "2019-08-21T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "1:30",
-                "room": "Johnson (Workshop 1)",
-                "slug": "camp2019-1284-session_creating_z_wave_controllers_and_devices",
-                "title": "Creating Z-Wave controllers and devices",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Hacking around Z-Wave smart home protocol",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:PoltoS",
-                    "public_name": "PoltoS"
-                  }
-                ],
-                "links": [
-                  "http://z-uno.z-wave.me"
-                ]
               }
             ],
             "Goldberg (Workshop 2)": [
@@ -1810,6 +1787,64 @@
                 "links": []
               }
             ],
+            "Hackcenter": [
+              {
+                "id": 1284,
+                "guid": "f4fa97e9-c253-4eb2-8695-83addfc593ea",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices",
+                "logo": null,
+                "date": "2019-08-21T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:30",
+                "room": "Hackcenter",
+                "slug": "camp2019-1284-session_creating_z_wave_controllers_and_devices",
+                "title": "Creating Z-Wave controllers and devices",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Hacking around Z-Wave smart home protocol",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:PoltoS",
+                    "public_name": "PoltoS"
+                  }
+                ],
+                "links": [
+                  "http://z-uno.z-wave.me"
+                ]
+              },
+              {
+                "id": 1233,
+                "guid": "f5d15859-c9b5-44c8-8565-cb22daacedc8",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant",
+                "logo": null,
+                "date": "2019-08-21T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:30",
+                "room": "Hackcenter",
+                "slug": "camp2019-1233-session_susi_ai_open_source_voice_assistant",
+                "title": "SUSI.AI Open Source Voice Assistant",
+                "subtitle": "Learn about SUSI.AI and how to build your own smart speaker",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:MarioB",
+                    "public_name": "MarioB"
+                  }
+                ],
+                "links": [
+                  "https://susi.ai"
+                ]
+              }
+            ],
             "Village:About:freedom": [
               {
                 "id": 1053,
@@ -2507,36 +2542,6 @@
                 "links": []
               }
             ],
-            "Hackcenter": [
-              {
-                "id": 1233,
-                "guid": "f5d15859-c9b5-44c8-8565-cb22daacedc8",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant",
-                "logo": null,
-                "date": "2019-08-21T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "1:30",
-                "room": "Hackcenter",
-                "slug": "camp2019-1233-session_susi_ai_open_source_voice_assistant",
-                "title": "SUSI.AI Open Source Voice Assistant",
-                "subtitle": "Learn about SUSI.AI and how to build your own smart speaker",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:MarioB",
-                    "public_name": "MarioB"
-                  }
-                ],
-                "links": [
-                  "https://susi.ai"
-                ]
-              }
-            ],
             "Village:Sft / pwnda village\u2122": [
               {
                 "id": 1335,
@@ -2799,7 +2804,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/796/original/security_cccamp.pdf?1566470964",
+                    "title": "slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10378.html",
@@ -4396,34 +4406,6 @@
                 "description": "Offene Chorprobe und physikalische Grundlagen der Musik",
                 "persons": [],
                 "links": []
-              },
-              {
-                "id": 1283,
-                "guid": "7db3ec84-5dc0-46a3-b30e-8fa3eb9560b6",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices",
-                "logo": null,
-                "date": "2019-08-22T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "1:30",
-                "room": "Johnson (Workshop 1)",
-                "slug": "camp2019-1283-session_creating_z_wave_controllers_and_devices",
-                "title": "Creating Z-Wave controllers and devices",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Hacking around Z-Wave smart home protocol",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:PoltoS",
-                    "public_name": "PoltoS"
-                  }
-                ],
-                "links": [
-                  "http://z-uno.z-wave.me"
-                ]
               },
               {
                 "id": 1262,
@@ -6180,6 +6162,36 @@
                 "links": []
               }
             ],
+            "Hackcenter": [
+              {
+                "id": 1283,
+                "guid": "7db3ec84-5dc0-46a3-b30e-8fa3eb9560b6",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices",
+                "logo": null,
+                "date": "2019-08-22T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:30",
+                "room": "Hackcenter",
+                "slug": "camp2019-1283-session_creating_z_wave_controllers_and_devices",
+                "title": "Creating Z-Wave controllers and devices",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Hacking around Z-Wave smart home protocol",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:PoltoS",
+                    "public_name": "PoltoS"
+                  }
+                ],
+                "links": [
+                  "http://z-uno.z-wave.me"
+                ]
+              }
+            ],
             "Village:ChaosZone": [
               {
                 "id": 1430,
@@ -7674,13 +7686,13 @@
                 "start": "18:00",
                 "duration": "00:45",
                 "room": "Meitner",
-                "slug": "Camp2019-10210-75_jahre_journalismus_im_www",
-                "title": "75 Jahre Journalismus im WWW",
+                "slug": "Camp2019-10210-50_jahre_journalismus_im_netz",
+                "title": "50 Jahre Journalismus im Netz",
                 "subtitle": "the untold stories",
                 "track": "Entertainment",
                 "type": "performance",
                 "language": "de",
-                "abstract": "Detlef Borchers, Peter Glaser und Erich Moechel erz\u00e4hlen, was sie im digitalen Neolithikum gesehen und erlebt, aber nie geschrieben haben. Episoden aus der Fr\u00fchzeit \u00fcber Gier & Dummheit & Illusionen bis die Dot.com-Blase brannte & die Datengeilheit in die digitale Welt kam. Geschichten aus den \"Crypto Wars\" samt schr\u00e4gen Begegnungen mit Schattenmenschen, wie schnell man in was hineingeschlittert wurde & was dabei kaputtging. Wie das WWW halt wurde, was es heute ist.\r\n",
+                "abstract": "Detlef Borchers und Erich Moechel erz\u00e4hlen, was sie im digitalen Neolithikum gesehen und erlebt, aber nie geschrieben haben. Episoden aus der Fr\u00fchzeit \u00fcber Gier & Dummheit & Illusionen bis die Dot.com-Blase brannte & die Datengeilheit in die digitale Welt kam. Geschichten aus den \"Crypto Wars\" samt schr\u00e4gen Begegnungen mit Schattenmenschen, wie schnell man in was hineingeschlittert wurde & was dabei kaputtging. Wie das Netz halt wurde, was es heute ist.\r\n",
                 "description": "Der genauere Inhalt musst erst gemeinsam festgelegt werden, es wird auch Bilder geben. Sicher ist, wir werden Klartext reden, wobei auch ein Outing nicht auszuschlie\u00dfen ist.  ",
                 "recording_license": "",
                 "do_not_record": false,
@@ -7692,10 +7704,6 @@
                   {
                     "id": 9135,
                     "public_name": "Detlef Borchers"
-                  },
-                  {
-                    "id": 186,
-                    "public_name": "peter"
                   }
                 ],
                 "links": [],
@@ -9326,6 +9334,56 @@
                 "links": []
               },
               {
+                "id": 1446,
+                "guid": "f3779e26-6160-5d05-99f1-b826f541a50f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Deviser_%26_trummerschlunk_%E2%80%93_Modular_Synths_Impro_LIVE_performance",
+                "logo": null,
+                "date": "2019-08-23T22:00:00+02:00",
+                "start": "22:00",
+                "duration": "2:00",
+                "room": "Village:About:freedom",
+                "slug": "camp2019-1446-session_deviser_trummerschlunk_modular_synths_impro_live_performance",
+                "title": "Deviser & trummerschlunk \u2013 Modular Synths Impro LIVE performance",
+                "subtitle": "about:stage",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "de",
+                "abstract": "",
+                "description": "modular synths impro",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Benks",
+                    "public_name": "Benks"
+                  }
+                ],
+                "links": [
+                  "http://trummerschlunk.de"
+                ]
+              },
+              {
+                "id": 1447,
+                "guid": "12a66c12-726d-47ff-9cd8-b8d0a3e1aa40",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Extinction_Rebellion:_planning_civil_disobedience",
+                "logo": null,
+                "date": "2019-08-23T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "1:55",
+                "room": "Village:About:freedom",
+                "slug": "camp2019-1447-session_extinction_rebellion_planning_civil_disobedience",
+                "title": "Extinction Rebellion: planning civil disobedience",
+                "subtitle": "about:dome",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "de",
+                "abstract": "",
+                "description": "Planning an action and discussing communication tech during our rebellion week in october",
+                "persons": [],
+                "links": [
+                  "http://extinctionrebellion.de"
+                ]
+              },
+              {
                 "id": 1070,
                 "guid": "2cc92940-a3f9-4291-800b-87a0123be906",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:FIfF-Stammtische_everywhere_-_gr%C3%BCndet_Ortsgruppen",
@@ -9431,32 +9489,6 @@
                     "id": 0,
                     "url": "https://events.ccc.de/camp/2019/wiki/User:Karlabyrinth",
                     "public_name": "Karlabyrinth"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1445,
-                "guid": "cdca4786-006b-5a2b-b446-decb9ea12ee5",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Modular_Synths_Impro_LIVE_performance_1)3%5C/1532",
-                "logo": null,
-                "date": "2019-08-23T22:00:00+02:00",
-                "start": "22:00",
-                "duration": "2:00",
-                "room": "Village:About:freedom",
-                "slug": "camp2019-1445-session_modular_synths_impro_live_performance_1_3_1532",
-                "title": "Modular Synths Impro LIVE performance 1)3\\/1532",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "other",
-                "language": "de",
-                "abstract": "",
-                "description": "modular synths impro",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Benks",
-                    "public_name": "Benks"
                   }
                 ],
                 "links": []
@@ -9735,7 +9767,7 @@
                 ]
               }
             ],
-            "Village:Reclaim Club Culture": [
+            "Village:AFRA": [
               {
                 "id": 1319,
                 "guid": "9c204188-b4dd-4509-982f-db08159de482",
@@ -9744,7 +9776,7 @@
                 "date": "2019-08-23T15:00:00+02:00",
                 "start": "15:00",
                 "duration": "1:30",
-                "room": "Village:Reclaim Club Culture",
+                "room": "Village:AFRA",
                 "slug": "camp2019-1319-session_club_culture_against_the_monopoly_of_facebook",
                 "title": "Club culture against the monopoly of Facebook",
                 "subtitle": "",
@@ -10198,6 +10230,36 @@
                   "https://github.com/IuriLeitaoMartinho/OffGridMilliwaysMod",
                   "https://www.twitch.tv/semaeopus",
                   "http://www.offgridthegame.com"
+                ]
+              }
+            ],
+            "About:stage": [
+              {
+                "id": 1448,
+                "guid": "8be7ed68-1559-45a4-94ab-bf53b612c9aa",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Ola_Bini:_unfairly_persecuted",
+                "logo": null,
+                "date": "2019-08-23T18:30:00+02:00",
+                "start": "18:30",
+                "duration": "0:30",
+                "room": "About:stage",
+                "slug": "camp2019-1448-session_ola_bini_unfairly_persecuted",
+                "title": "Ola Bini: unfairly persecuted",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "Ola Bini has been unfairly persecuted for almost 130 days in Ecuador. Let's discuss about that!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Sofia_Celi",
+                    "public_name": "Sofia Celi"
+                  }
+                ],
+                "links": [
+                  "http://freeolabini.org"
                 ]
               }
             ],
@@ -10749,6 +10811,34 @@
               }
             ],
             "Meitner": [
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10377.html",
+                "id": 10377,
+                "guid": "e1cba2cc-d83f-44dc-869e-51fdfc628563",
+                "logo": null,
+                "date": "2019-08-24T12:00:00+02:00",
+                "start": "12:00",
+                "duration": "00:45",
+                "room": "Meitner",
+                "slug": "Camp2019-10377-solare_brennstoffe_-_wasserstoff_aus_sonnenlicht",
+                "title": "Solare Brennstoffe - Wasserstoff aus Sonnenlicht",
+                "subtitle": "Solarzellen k\u00f6nnen nicht nur Strom erzeugen",
+                "track": "Science",
+                "type": "lecture",
+                "language": "de",
+                "abstract": "Sonnenenergie deckt heute erst etwas \u00fcber 2% des weltweiten Energiebedarfs durch Umwandlung von Sonnenlicht in elektrische Energie. Eine der M\u00f6glichkeiten, um diese zu speichern, ist die Elektrolyse von Wasser, um Wasserstoff zu erhalten.\r\nWas aber w\u00e4re, wenn man Wasserstoff direkt gewinnen k\u00f6nnte?\r\n\r\nEine schnelle \u00dcbersicht \u00fcber Sonnenlicht, das Prinzip hinter Photovoltaischen Solarzeiien, und wie photoelektrochemische Zellen, die fl\u00fcssiges Wasser in seine Bestandteile Wasserstoff und Sauerstoff spalten k\u00f6nnen, beide Prozesse miteinander kombinieren k\u00f6nnen.",
+                "description": "Die von uns Menschen verantworteten CO2-Emissionen m\u00fcssen reduziert werden, aber wie? \r\nDie Erzeugung von elektrischer Energie aus Sonnenlicht wird mit gro\u00dfer Sicherheit einen signifikanten Beitrag zur Deckung des weltweiten Energiebedarfs liefern. \r\nZuerst sehen wir uns das Spektrum der Sonne an, und wie viel dieser Energie wo auf der Erde ankommt.\r\nWenn dieses Licht auf Atome trifft, wie die Siliziumatome in einer Solarzelle, kann es diese in einen energiereicheren Zustand anregen, aber nur ein Teil des Sonnenlichts hat genug Energie, um diese Anregung zu erreichen. Was f\u00fcr Konsequenzen hat das f\u00fcr die Effizienz von Photovoltaik-Zellen?\r\nJeder kennt die blau-schillernde Silizium Photovoltaikzelle, die Gr\u00f6\u00dfen von wenigen Quadratzentimeter in einem Taschenrechner \u00fcber Installationen auf Hausd\u00e4chern mit einigen Kilowatt bis zu Solarparks, die mehrere Megawatt Spitzenleistung abgeben k\u00f6nnen.\r\nSolarenergie ist vom Tag-Nacht-Zyklus der Erde und von der Jahreszeit abh\u00e4ngig. Um die Energieversorgung auch z.B. im Winter bei geringerer Sonnenintensit\u00e4t decken zu k\u00f6nnen, muss diese l\u00e4ngerfristig gespeichert werden. Verschiedene Strategien sind denkbar, eine davon die Umwandlung in chemische Energie in Form von Wasserstoff durch Elektrolyse von Wasser.\r\nBeide Technologien bringen Umwandlungsverluste mit sich und erfordern teilweise teure Metalle und viel Energie bei der Herstellung.\r\n\r\nAber es gibt eine Klasse an Halbleiter-Materialien, die, wenn man sie in Wasser eintaucht und mit Sonnenlicht bestrahlt, die Lichtenergie direkt auf das Wasser \u00fcbertragen, und es in Wasserstoff und Sauerstoff spalten k\u00f6nnen. Man umgeht die Kopplung von Photovoltaik und Elektrolyse.\r\nViele dieser halbleitenden Materialien sind mit weit weniger Energieaufwand herzustellen als Silizium. Besondere Aufmerksamkeit ist auf h\u00e4ufig vorkommende und damit gut verf\u00fcgbare Metalle gerichtet. Eisenoxid - Rost, oder Titandioxid - das Pigent aus wei\u00dfer Wandfarbe, sind zwei Beispiele, die jeder kennt, ihre Superpower aber sehr warscheinlich nicht.\r\nNoch sind die Wirkungsgrade gering und marktreife L\u00f6sungen noch nicht absehbar. Wenn der Ansatz allerdings erfolgreich ist, k\u00f6nnte dies ein Durchbruch f\u00fcr unsere Energieerzeugung sein, und nebenbei einen Teil des Problems l\u00f6sen, Energie zu speichern und zu transportieren. ",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 9097,
+                    "public_name": "Stormwind"
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10381.html",
                 "id": 10381,

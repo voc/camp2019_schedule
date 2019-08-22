@@ -1,5 +1,5 @@
 <schedule>
-  <version>Gacrux; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 15:11</version>
+  <version>Hadar; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 15:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -545,7 +545,9 @@ We will use software methods (rooting) and hardware methods (flash dumping). Usi
           <person id="7869">Dennis Giese</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/795/original/CCCamp2019_Final_v2.pdf?1566405433">Slides in PDF form (animations splitted)</attachment>
+        </attachments>
       </event>
     </room>
     <room name="Johnson (Workshop 1)">
@@ -568,28 +570,6 @@ We will use software methods (rooting) and hardware methods (flash dumping). Usi
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Polto">Polto</person>
         </persons>
         <links/>
-      </event>
-      <event id="1284" guid="f4fa97e9-c253-4eb2-8695-83addfc593ea">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</url>
-        <logo/>
-        <date>2019-08-21T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1284-session_creating_z_wave_controllers_and_devices</slug>
-        <title>Creating Z-Wave controllers and devices</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Hacking around Z-Wave smart home protocol</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:PoltoS">PoltoS</person>
-        </persons>
-        <links>
-          <link>http://z-uno.z-wave.me</link>
-        </links>
       </event>
     </room>
     <room name="Goldberg (Workshop 2)">
@@ -1644,6 +1624,52 @@ Consultation hours are held in German or English, depending on the need. Oh, and
         <links/>
       </event>
     </room>
+    <room name="Hackcenter">
+      <event id="1284" guid="f4fa97e9-c253-4eb2-8695-83addfc593ea">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</url>
+        <logo/>
+        <date>2019-08-21T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1284-session_creating_z_wave_controllers_and_devices</slug>
+        <title>Creating Z-Wave controllers and devices</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hacking around Z-Wave smart home protocol</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:PoltoS">PoltoS</person>
+        </persons>
+        <links>
+          <link>http://z-uno.z-wave.me</link>
+        </links>
+      </event>
+      <event id="1233" guid="f5d15859-c9b5-44c8-8565-cb22daacedc8">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant</url>
+        <logo/>
+        <date>2019-08-21T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1233-session_susi_ai_open_source_voice_assistant</slug>
+        <title>SUSI.AI Open Source Voice Assistant</title>
+        <subtitle>Learn about SUSI.AI and how to build your own smart speaker</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:MarioB">MarioB</person>
+        </persons>
+        <links>
+          <link>https://susi.ai</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:About:freedom">
       <event id="1053" guid="5c1066ad-c624-437b-b1aa-cd94855def55">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Creative_commons</url>
@@ -2201,30 +2227,6 @@ Consultation hours are held in German or English, depending on the need. Oh, and
         <links/>
       </event>
     </room>
-    <room name="Hackcenter">
-      <event id="1233" guid="f5d15859-c9b5-44c8-8565-cb22daacedc8">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant</url>
-        <logo/>
-        <date>2019-08-21T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Hackcenter</room>
-        <slug>camp2019-1233-session_susi_ai_open_source_voice_assistant</slug>
-        <title>SUSI.AI Open Source Voice Assistant</title>
-        <subtitle>Learn about SUSI.AI and how to build your own smart speaker</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>We are developing a smart speaker that can play music through voice commands. Users can play music from online resources such as radio stations, YouTube, their cloud folder (e.g. Nextcloud) as well as from locally connected USB sticks or music available in the local network.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:MarioB">MarioB</person>
-        </persons>
-        <links>
-          <link>https://susi.ai</link>
-        </links>
-      </event>
-    </room>
     <room name="Village:Sft / pwnda village™">
       <event id="1335" guid="e04abc78-9ce0-438b-be18-262991300d62">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Stargazing_with_a_telescope</url>
@@ -2432,7 +2434,9 @@ The Talk will introduce basic security knowhow, then show how you can use Open S
           <person id="6479">cy</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/796/original/security_cccamp.pdf?1566470964">slides</attachment>
+        </attachments>
       </event>
       <event id="10378" guid="d219432f-68ed-4162-8e7a-1d53a3e3e17c">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10378.html</url>
@@ -3926,28 +3930,6 @@ We made https://janitor.technology to help newcomers and developers experiment, 
         <description>Offene Chorprobe und physikalische Grundlagen der Musik</description>
         <persons/>
         <links/>
-      </event>
-      <event id="1283" guid="7db3ec84-5dc0-46a3-b30e-8fa3eb9560b6">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</url>
-        <logo/>
-        <date>2019-08-22T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1283-session_creating_z_wave_controllers_and_devices</slug>
-        <title>Creating Z-Wave controllers and devices</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Hacking around Z-Wave smart home protocol</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:PoltoS">PoltoS</person>
-        </persons>
-        <links>
-          <link>http://z-uno.z-wave.me</link>
-        </links>
       </event>
       <event id="1262" guid="afa80109-3761-4b3f-b2e8-57087d164b0d">
         <url>https://events.ccc.de/camp/2019/wiki/Session:NixOS_Install_Party</url>
@@ -5515,6 +5497,30 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
         <links/>
       </event>
     </room>
+    <room name="Hackcenter">
+      <event id="1283" guid="7db3ec84-5dc0-46a3-b30e-8fa3eb9560b6">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</url>
+        <logo/>
+        <date>2019-08-22T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1283-session_creating_z_wave_controllers_and_devices</slug>
+        <title>Creating Z-Wave controllers and devices</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hacking around Z-Wave smart home protocol</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:PoltoS">PoltoS</person>
+        </persons>
+        <links>
+          <link>http://z-uno.z-wave.me</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:ChaosZone">
       <event id="1430" guid="1fd1de1c-0e8f-4fcf-8ede-3847df406885">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Der_Goldene_Schu%C3%9F_-_Lesung_am_Sp%C3%A4ti</url>
@@ -6796,13 +6802,13 @@ This talk will look at the ways in which these techniques can be usefully applie
         <start>18:00</start>
         <duration>00:45</duration>
         <room>Meitner</room>
-        <slug>Camp2019-10210-75_jahre_journalismus_im_www</slug>
-        <title>75 Jahre Journalismus im WWW</title>
+        <slug>Camp2019-10210-50_jahre_journalismus_im_netz</slug>
+        <title>50 Jahre Journalismus im Netz</title>
         <subtitle>the untold stories</subtitle>
         <track>Entertainment</track>
         <type>performance</type>
         <language>de</language>
-        <abstract>Detlef Borchers, Peter Glaser und Erich Moechel erzählen, was sie im digitalen Neolithikum gesehen und erlebt, aber nie geschrieben haben. Episoden aus der Frühzeit über Gier &amp; Dummheit &amp; Illusionen bis die Dot.com-Blase brannte &amp; die Datengeilheit in die digitale Welt kam. Geschichten aus den "Crypto Wars" samt schrägen Begegnungen mit Schattenmenschen, wie schnell man in was hineingeschlittert wurde &amp; was dabei kaputtging. Wie das WWW halt wurde, was es heute ist.&#13;
+        <abstract>Detlef Borchers und Erich Moechel erzählen, was sie im digitalen Neolithikum gesehen und erlebt, aber nie geschrieben haben. Episoden aus der Frühzeit über Gier &amp; Dummheit &amp; Illusionen bis die Dot.com-Blase brannte &amp; die Datengeilheit in die digitale Welt kam. Geschichten aus den "Crypto Wars" samt schrägen Begegnungen mit Schattenmenschen, wie schnell man in was hineingeschlittert wurde &amp; was dabei kaputtging. Wie das Netz halt wurde, was es heute ist.&#13;
 </abstract>
         <description>Der genauere Inhalt musst erst gemeinsam festgelegt werden, es wird auch Bilder geben. Sicher ist, wir werden Klartext reden, wobei auch ein Outing nicht auszuschließen ist.  </description>
         <recording>
@@ -6812,7 +6818,6 @@ This talk will look at the ways in which these techniques can be usefully applie
         <persons>
           <person id="5097">Erich Moechel</person>
           <person id="9135">Detlef Borchers</person>
-          <person id="186">peter</person>
         </persons>
         <links/>
         <attachments/>
@@ -8297,6 +8302,48 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         </persons>
         <links/>
       </event>
+      <event id="1446" guid="f3779e26-6160-5d05-99f1-b826f541a50f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Deviser_%26_trummerschlunk_%E2%80%93_Modular_Synths_Impro_LIVE_performance</url>
+        <logo/>
+        <date>2019-08-23T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>2:00</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1446-session_deviser_trummerschlunk_modular_synths_impro_live_performance</slug>
+        <title>Deviser &amp; trummerschlunk – Modular Synths Impro LIVE performance</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>modular synths impro</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Benks">Benks</person>
+        </persons>
+        <links>
+          <link>http://trummerschlunk.de</link>
+        </links>
+      </event>
+      <event id="1447" guid="12a66c12-726d-47ff-9cd8-b8d0a3e1aa40">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Extinction_Rebellion:_planning_civil_disobedience</url>
+        <logo/>
+        <date>2019-08-23T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>1:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1447-session_extinction_rebellion_planning_civil_disobedience</slug>
+        <title>Extinction Rebellion: planning civil disobedience</title>
+        <subtitle>about:dome</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Planning an action and discussing communication tech during our rebellion week in october</description>
+        <persons/>
+        <links>
+          <link>http://extinctionrebellion.de</link>
+        </links>
+      </event>
       <event id="1070" guid="2cc92940-a3f9-4291-800b-87a0123be906">
         <url>https://events.ccc.de/camp/2019/wiki/Session:FIfF-Stammtische_everywhere_-_gr%C3%BCndet_Ortsgruppen</url>
         <logo/>
@@ -8376,26 +8423,6 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Karlabyrinth">Karlabyrinth</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1445" guid="cdca4786-006b-5a2b-b446-decb9ea12ee5">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Modular_Synths_Impro_LIVE_performance_1)3%5C/1532</url>
-        <logo/>
-        <date>2019-08-23T22:00:00+02:00</date>
-        <start>22:00</start>
-        <duration>2:00</duration>
-        <room>Village:About:freedom</room>
-        <slug>camp2019-1445-session_modular_synths_impro_live_performance_1_3_1532</slug>
-        <title>Modular Synths Impro LIVE performance 1)3\/1532</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description>modular synths impro</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Benks">Benks</person>
         </persons>
         <links/>
       </event>
@@ -8621,14 +8648,14 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         </links>
       </event>
     </room>
-    <room name="Village:Reclaim Club Culture">
+    <room name="Village:AFRA">
       <event id="1319" guid="9c204188-b4dd-4509-982f-db08159de482">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Club_culture_against_the_monopoly_of_Facebook</url>
         <logo/>
         <date>2019-08-23T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>1:30</duration>
-        <room>Village:Reclaim Club Culture</room>
+        <room>Village:AFRA</room>
         <slug>camp2019-1319-session_club_culture_against_the_monopoly_of_facebook</slug>
         <title>Club culture against the monopoly of Facebook</title>
         <subtitle/>
@@ -8990,6 +9017,30 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
           <link>https://github.com/IuriLeitaoMartinho/OffGridMilliwaysMod</link>
           <link>https://www.twitch.tv/semaeopus</link>
           <link>http://www.offgridthegame.com</link>
+        </links>
+      </event>
+    </room>
+    <room name="About:stage">
+      <event id="1448" guid="8be7ed68-1559-45a4-94ab-bf53b612c9aa">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Ola_Bini:_unfairly_persecuted</url>
+        <logo/>
+        <date>2019-08-23T18:30:00+02:00</date>
+        <start>18:30</start>
+        <duration>0:30</duration>
+        <room>About:stage</room>
+        <slug>camp2019-1448-session_ola_bini_unfairly_persecuted</slug>
+        <title>Ola Bini: unfairly persecuted</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Ola Bini has been unfairly persecuted for almost 130 days in Ecuador. Let's discuss about that!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Sofia_Celi">Sofia Celi</person>
+        </persons>
+        <links>
+          <link>http://freeolabini.org</link>
         </links>
       </event>
     </room>
@@ -9495,6 +9546,44 @@ Begleitet uns in einem besinnlichen Diavortrag bei Geschichten einer abenteuerli
       </event>
     </room>
     <room name="Meitner">
+      <event id="10377" guid="e1cba2cc-d83f-44dc-869e-51fdfc628563">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10377.html</url>
+        <logo/>
+        <date>2019-08-24T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>00:45</duration>
+        <room>Meitner</room>
+        <slug>Camp2019-10377-solare_brennstoffe_-_wasserstoff_aus_sonnenlicht</slug>
+        <title>Solare Brennstoffe - Wasserstoff aus Sonnenlicht</title>
+        <subtitle>Solarzellen können nicht nur Strom erzeugen</subtitle>
+        <track>Science</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Sonnenenergie deckt heute erst etwas über 2% des weltweiten Energiebedarfs durch Umwandlung von Sonnenlicht in elektrische Energie. Eine der Möglichkeiten, um diese zu speichern, ist die Elektrolyse von Wasser, um Wasserstoff zu erhalten.&#13;
+Was aber wäre, wenn man Wasserstoff direkt gewinnen könnte?&#13;
+&#13;
+Eine schnelle Übersicht über Sonnenlicht, das Prinzip hinter Photovoltaischen Solarzeiien, und wie photoelektrochemische Zellen, die flüssiges Wasser in seine Bestandteile Wasserstoff und Sauerstoff spalten können, beide Prozesse miteinander kombinieren können.</abstract>
+        <description>Die von uns Menschen verantworteten CO2-Emissionen müssen reduziert werden, aber wie? &#13;
+Die Erzeugung von elektrischer Energie aus Sonnenlicht wird mit großer Sicherheit einen signifikanten Beitrag zur Deckung des weltweiten Energiebedarfs liefern. &#13;
+Zuerst sehen wir uns das Spektrum der Sonne an, und wie viel dieser Energie wo auf der Erde ankommt.&#13;
+Wenn dieses Licht auf Atome trifft, wie die Siliziumatome in einer Solarzelle, kann es diese in einen energiereicheren Zustand anregen, aber nur ein Teil des Sonnenlichts hat genug Energie, um diese Anregung zu erreichen. Was für Konsequenzen hat das für die Effizienz von Photovoltaik-Zellen?&#13;
+Jeder kennt die blau-schillernde Silizium Photovoltaikzelle, die Größen von wenigen Quadratzentimeter in einem Taschenrechner über Installationen auf Hausdächern mit einigen Kilowatt bis zu Solarparks, die mehrere Megawatt Spitzenleistung abgeben können.&#13;
+Solarenergie ist vom Tag-Nacht-Zyklus der Erde und von der Jahreszeit abhängig. Um die Energieversorgung auch z.B. im Winter bei geringerer Sonnenintensität decken zu können, muss diese längerfristig gespeichert werden. Verschiedene Strategien sind denkbar, eine davon die Umwandlung in chemische Energie in Form von Wasserstoff durch Elektrolyse von Wasser.&#13;
+Beide Technologien bringen Umwandlungsverluste mit sich und erfordern teilweise teure Metalle und viel Energie bei der Herstellung.&#13;
+&#13;
+Aber es gibt eine Klasse an Halbleiter-Materialien, die, wenn man sie in Wasser eintaucht und mit Sonnenlicht bestrahlt, die Lichtenergie direkt auf das Wasser übertragen, und es in Wasserstoff und Sauerstoff spalten können. Man umgeht die Kopplung von Photovoltaik und Elektrolyse.&#13;
+Viele dieser halbleitenden Materialien sind mit weit weniger Energieaufwand herzustellen als Silizium. Besondere Aufmerksamkeit ist auf häufig vorkommende und damit gut verfügbare Metalle gerichtet. Eisenoxid - Rost, oder Titandioxid - das Pigent aus weißer Wandfarbe, sind zwei Beispiele, die jeder kennt, ihre Superpower aber sehr warscheinlich nicht.&#13;
+Noch sind die Wirkungsgrade gering und marktreife Lösungen noch nicht absehbar. Wenn der Ansatz allerdings erfolgreich ist, könnte dies ein Durchbruch für unsere Energieerzeugung sein, und nebenbei einen Teil des Problems lösen, Energie zu speichern und zu transportieren. </description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="9097">Stormwind</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="10381" guid="2fe00b49-1471-4c79-8a75-8da73f71b63d">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10381.html</url>
         <logo/>

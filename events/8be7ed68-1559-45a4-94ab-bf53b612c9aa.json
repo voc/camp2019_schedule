@@ -1,0 +1,28 @@
+{
+  "id": 1448,
+  "guid": "8be7ed68-1559-45a4-94ab-bf53b612c9aa",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Ola_Bini:_unfairly_persecuted",
+  "logo": null,
+  "date": "2019-08-23T18:30:00+02:00",
+  "start": "18:30",
+  "duration": "0:30",
+  "room": "About:stage",
+  "slug": "camp2019-1448-session_ola_bini_unfairly_persecuted",
+  "title": "Ola Bini: unfairly persecuted",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "discussion",
+  "language": "en",
+  "abstract": "",
+  "description": "Ola Bini has been unfairly persecuted for almost 130 days in Ecuador. Let's discuss about that!",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Sofia_Celi",
+      "public_name": "Sofia Celi"
+    }
+  ],
+  "links": [
+    "http://freeolabini.org"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Gacrux; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island",
+    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island",
     "base_url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/",
     "conference": {
       "acronym": "Camp2019",
@@ -609,7 +609,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/795/original/CCCamp2019_Final_v2.pdf?1566405433",
+                    "title": "Slides in PDF form (animations splitted)"
+                  }
+                ]
               }
             ],
             "Johnson (Workshop 1)": [],
@@ -1252,7 +1257,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/796/original/security_cccamp.pdf?1566470964",
+                    "title": "slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10378.html",
@@ -3853,13 +3863,13 @@
                 "start": "18:00",
                 "duration": "00:45",
                 "room": "Meitner",
-                "slug": "Camp2019-10210-75_jahre_journalismus_im_www",
-                "title": "75 Jahre Journalismus im WWW",
+                "slug": "Camp2019-10210-50_jahre_journalismus_im_netz",
+                "title": "50 Jahre Journalismus im Netz",
                 "subtitle": "the untold stories",
                 "track": "Entertainment",
                 "type": "performance",
                 "language": "de",
-                "abstract": "Detlef Borchers, Peter Glaser und Erich Moechel erz\u00e4hlen, was sie im digitalen Neolithikum gesehen und erlebt, aber nie geschrieben haben. Episoden aus der Fr\u00fchzeit \u00fcber Gier & Dummheit & Illusionen bis die Dot.com-Blase brannte & die Datengeilheit in die digitale Welt kam. Geschichten aus den \"Crypto Wars\" samt schr\u00e4gen Begegnungen mit Schattenmenschen, wie schnell man in was hineingeschlittert wurde & was dabei kaputtging. Wie das WWW halt wurde, was es heute ist.\r\n",
+                "abstract": "Detlef Borchers und Erich Moechel erz\u00e4hlen, was sie im digitalen Neolithikum gesehen und erlebt, aber nie geschrieben haben. Episoden aus der Fr\u00fchzeit \u00fcber Gier & Dummheit & Illusionen bis die Dot.com-Blase brannte & die Datengeilheit in die digitale Welt kam. Geschichten aus den \"Crypto Wars\" samt schr\u00e4gen Begegnungen mit Schattenmenschen, wie schnell man in was hineingeschlittert wurde & was dabei kaputtging. Wie das Netz halt wurde, was es heute ist.\r\n",
                 "description": "Der genauere Inhalt musst erst gemeinsam festgelegt werden, es wird auch Bilder geben. Sicher ist, wir werden Klartext reden, wobei auch ein Outing nicht auszuschlie\u00dfen ist.  ",
                 "recording_license": "",
                 "do_not_record": false,
@@ -3871,10 +3881,6 @@
                   {
                     "id": 9135,
                     "public_name": "Detlef Borchers"
-                  },
-                  {
-                    "id": 186,
-                    "public_name": "peter"
                   }
                 ],
                 "links": [],
@@ -4916,6 +4922,34 @@
               }
             ],
             "Meitner": [
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10377.html",
+                "id": 10377,
+                "guid": "e1cba2cc-d83f-44dc-869e-51fdfc628563",
+                "logo": null,
+                "date": "2019-08-24T12:00:00+02:00",
+                "start": "12:00",
+                "duration": "00:45",
+                "room": "Meitner",
+                "slug": "Camp2019-10377-solare_brennstoffe_-_wasserstoff_aus_sonnenlicht",
+                "title": "Solare Brennstoffe - Wasserstoff aus Sonnenlicht",
+                "subtitle": "Solarzellen k\u00f6nnen nicht nur Strom erzeugen",
+                "track": "Science",
+                "type": "lecture",
+                "language": "de",
+                "abstract": "Sonnenenergie deckt heute erst etwas \u00fcber 2% des weltweiten Energiebedarfs durch Umwandlung von Sonnenlicht in elektrische Energie. Eine der M\u00f6glichkeiten, um diese zu speichern, ist die Elektrolyse von Wasser, um Wasserstoff zu erhalten.\r\nWas aber w\u00e4re, wenn man Wasserstoff direkt gewinnen k\u00f6nnte?\r\n\r\nEine schnelle \u00dcbersicht \u00fcber Sonnenlicht, das Prinzip hinter Photovoltaischen Solarzeiien, und wie photoelektrochemische Zellen, die fl\u00fcssiges Wasser in seine Bestandteile Wasserstoff und Sauerstoff spalten k\u00f6nnen, beide Prozesse miteinander kombinieren k\u00f6nnen.",
+                "description": "Die von uns Menschen verantworteten CO2-Emissionen m\u00fcssen reduziert werden, aber wie? \r\nDie Erzeugung von elektrischer Energie aus Sonnenlicht wird mit gro\u00dfer Sicherheit einen signifikanten Beitrag zur Deckung des weltweiten Energiebedarfs liefern. \r\nZuerst sehen wir uns das Spektrum der Sonne an, und wie viel dieser Energie wo auf der Erde ankommt.\r\nWenn dieses Licht auf Atome trifft, wie die Siliziumatome in einer Solarzelle, kann es diese in einen energiereicheren Zustand anregen, aber nur ein Teil des Sonnenlichts hat genug Energie, um diese Anregung zu erreichen. Was f\u00fcr Konsequenzen hat das f\u00fcr die Effizienz von Photovoltaik-Zellen?\r\nJeder kennt die blau-schillernde Silizium Photovoltaikzelle, die Gr\u00f6\u00dfen von wenigen Quadratzentimeter in einem Taschenrechner \u00fcber Installationen auf Hausd\u00e4chern mit einigen Kilowatt bis zu Solarparks, die mehrere Megawatt Spitzenleistung abgeben k\u00f6nnen.\r\nSolarenergie ist vom Tag-Nacht-Zyklus der Erde und von der Jahreszeit abh\u00e4ngig. Um die Energieversorgung auch z.B. im Winter bei geringerer Sonnenintensit\u00e4t decken zu k\u00f6nnen, muss diese l\u00e4ngerfristig gespeichert werden. Verschiedene Strategien sind denkbar, eine davon die Umwandlung in chemische Energie in Form von Wasserstoff durch Elektrolyse von Wasser.\r\nBeide Technologien bringen Umwandlungsverluste mit sich und erfordern teilweise teure Metalle und viel Energie bei der Herstellung.\r\n\r\nAber es gibt eine Klasse an Halbleiter-Materialien, die, wenn man sie in Wasser eintaucht und mit Sonnenlicht bestrahlt, die Lichtenergie direkt auf das Wasser \u00fcbertragen, und es in Wasserstoff und Sauerstoff spalten k\u00f6nnen. Man umgeht die Kopplung von Photovoltaik und Elektrolyse.\r\nViele dieser halbleitenden Materialien sind mit weit weniger Energieaufwand herzustellen als Silizium. Besondere Aufmerksamkeit ist auf h\u00e4ufig vorkommende und damit gut verf\u00fcgbare Metalle gerichtet. Eisenoxid - Rost, oder Titandioxid - das Pigent aus wei\u00dfer Wandfarbe, sind zwei Beispiele, die jeder kennt, ihre Superpower aber sehr warscheinlich nicht.\r\nNoch sind die Wirkungsgrade gering und marktreife L\u00f6sungen noch nicht absehbar. Wenn der Ansatz allerdings erfolgreich ist, k\u00f6nnte dies ein Durchbruch f\u00fcr unsere Energieerzeugung sein, und nebenbei einen Teil des Problems l\u00f6sen, Energie zu speichern und zu transportieren. ",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 9097,
+                    "public_name": "Stormwind"
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10381.html",
                 "id": 10381,
