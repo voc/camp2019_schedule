@@ -1,5 +1,5 @@
 <schedule>
-  <version>Gacrux; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 12:27</version>
+  <version>Gacrux; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 12:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -3283,6 +3283,10 @@ Github: https://github.com/fossasia?utf8=✓&amp;q=susi</description>
         <persons>
           <person id="62">
             <name>Mario Behling</name>
+            <biography/>
+          </person>
+          <person id="144">
+            <name>Michael Christen</name>
             <biography/>
           </person>
         </persons>
@@ -7777,6 +7781,24 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <language>en</language>
         <abstract/>
         <description>We will show you and explain how to make your own yarn from wool and other fibres.</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1434" guid="521069f1-ae69-4279-83c3-6d7d5fa21b43">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Offene_Werkst%C3%A4tten_und_Hackerspaces:_eine_Community%3F</url>
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Village:ChaosZone</room>
+        <slug>camp2019-1434-session_offene_werkstaetten_und_hackerspaces_eine_community_</slug>
+        <title>Offene Werkstätten und Hackerspaces: eine Community?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
         <persons/>
         <links/>
       </event>

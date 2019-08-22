@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-22 12:27",
+    "version": "2019-08-22 12:50",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -4092,6 +4092,26 @@
                 "language": "en",
                 "abstract": "",
                 "description": "We will show you and explain how to make your own yarn from wool and other fibres.",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1434,
+                "guid": "521069f1-ae69-4279-83c3-6d7d5fa21b43",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Offene_Werkst%C3%A4tten_und_Hackerspaces:_eine_Community%3F",
+                "logo": null,
+                "date": "2019-08-23T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "1:00",
+                "room": "Village:ChaosZone",
+                "slug": "camp2019-1434-session_offene_werkstaetten_und_hackerspaces_eine_community_",
+                "title": "Offene Werkst\u00e4tten und Hackerspaces: eine Community?",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "de",
+                "abstract": "",
+                "description": "",
                 "persons": [],
                 "links": []
               }
