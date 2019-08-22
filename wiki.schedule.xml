@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-22 16:00</version>
+  <version>2019-08-22 16:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -1956,6 +1956,46 @@
         <links>
           <link>https://libreho.st/</link>
         </links>
+      </event>
+      <event id="1450" guid="f298d36c-3dc7-417b-9ffb-f0ff5666df71">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Movie_screening_%22weird_Germany_series%22_-_day_2_:_Kasper_Hauser_goes_techno</url>
+        <logo/>
+        <date>2019-08-22T23:00:00+02:00</date>
+        <start>23:00</start>
+        <duration>1:30</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1450-session_movie_screening_weird_germany_series_day_2_kasper_hauser_goes_techno</slug>
+        <title>Movie screening "weird Germany series" - day 2 : Kasper Hauser goes techno</title>
+        <subtitle>psychik video's "weird Germany series" at Libre Hosters' cinema</subtitle>
+        <track>self organized sessions</track>
+        <type>outside</type>
+        <language>en</language>
+        <abstract/>
+        <description>An even weirder movie about the story of Kasper Hauser starring a beautiful soul called Bruno S. in the role of the legendary German foundling boy.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Agnez">Agnez</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1451" guid="303002d1-2d0d-45c2-86bd-026b888f9cc3">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Movies_screening_%22weird_Germany_series%22_-_day_2_:_The_old_Kasper_Hauser</url>
+        <logo/>
+        <date>2019-08-22T21:30:00+02:00</date>
+        <start>21:30</start>
+        <duration>1:45</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1451-session_movies_screening_weird_germany_series_day_2_the_old_kasper_hauser</slug>
+        <title>Movies screening "weird Germany series" - day 2 : The old Kasper Hauser</title>
+        <subtitle>psychik video's "weird Germany series" at Libre Hosters' cinema</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Feature movie about the story of Kasper Hauser starring a beautiful soul called Bruno S. in the role of the legendary German foundling boy.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Agnez">Agnez</person>
+        </persons>
+        <links/>
       </event>
       <event id="1331" guid="500f0955-5369-5612-bcb0-19da2505a670">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>

@@ -1,0 +1,26 @@
+{
+  "id": 1450,
+  "guid": "f298d36c-3dc7-417b-9ffb-f0ff5666df71",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Movie_screening_%22weird_Germany_series%22_-_day_2_:_Kasper_Hauser_goes_techno",
+  "logo": null,
+  "date": "2019-08-22T23:00:00+02:00",
+  "start": "23:00",
+  "duration": "1:30",
+  "room": "Village:1komona",
+  "slug": "camp2019-1450-session_movie_screening_weird_germany_series_day_2_kasper_hauser_goes_techno",
+  "title": "Movie screening \"weird Germany series\" - day 2 : Kasper Hauser goes techno",
+  "subtitle": "psychik video's \"weird Germany series\" at Libre Hosters' cinema",
+  "track": "self organized sessions",
+  "type": "outside",
+  "language": "en",
+  "abstract": "",
+  "description": "An even weirder movie about the story of Kasper Hauser starring a beautiful soul called Bruno S. in the role of the legendary German foundling boy.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Agnez",
+      "public_name": "Agnez"
+    }
+  ],
+  "links": []
+}
