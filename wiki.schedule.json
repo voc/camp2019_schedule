@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-22 15:40",
+    "version": "2019-08-22 16:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -252,13 +252,7 @@
                 "language": "en",
                 "abstract": "",
                 "description": "We are tired of this oppressive capitalist system",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:AK47",
-                    "public_name": "AK47"
-                  }
-                ],
+                "persons": [],
                 "links": [
                   "https://discordleaks.unicornriot.ninja/discord/"
                 ]
@@ -4917,7 +4911,9 @@
                 "abstract": "",
                 "description": "Meetup/Discussion for Hackers concerned with Climate Change",
                 "persons": [],
-                "links": []
+                "links": [
+                  "https://hacc.uber.space/Main_Page"
+                ]
               },
               {
                 "id": 1448,

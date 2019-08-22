@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 15:40",
+    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 16:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -1389,13 +1389,7 @@
                 "language": "en",
                 "abstract": "",
                 "description": "We are tired of this oppressive capitalist system",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:AK47",
-                    "public_name": "AK47"
-                  }
-                ],
+                "persons": [],
                 "links": [
                   "https://discordleaks.unicornriot.ninja/discord/"
                 ]
@@ -9511,7 +9505,9 @@
                 "abstract": "",
                 "description": "Meetup/Discussion for Hackers concerned with Climate Change",
                 "persons": [],
-                "links": []
+                "links": [
+                  "https://hacc.uber.space/Main_Page"
+                ]
               },
               {
                 "id": 1448,
