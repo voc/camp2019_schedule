@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-22 14:10",
+    "version": "2019-08-22 14:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -2524,7 +2524,7 @@
                 "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "We show you how to solder Blinking Ear Rings",
+                "description": "Soldering Blinking Ear Rings",
                 "persons": [
                   {
                     "id": 0,
@@ -4979,7 +4979,7 @@
                 "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "We show you how to solder Blinking Ear Rings",
+                "description": "Soldering Blinking Ear Rings",
                 "persons": [
                   {
                     "id": 0,
