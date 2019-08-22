@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 15:30",
+    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 15:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -9494,6 +9494,54 @@
                 "links": []
               },
               {
+                "id": 1449,
+                "guid": "4d54fc01-dab7-4029-8631-42da85beedef",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hackers_Against_Climate_Change",
+                "logo": null,
+                "date": "2019-08-23T17:30:00+02:00",
+                "start": "17:30",
+                "duration": "1:30",
+                "room": "Village:About:freedom",
+                "slug": "camp2019-1449-session_hackers_against_climate_change",
+                "title": "Hackers Against Climate Change",
+                "subtitle": "about:dome",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "de",
+                "abstract": "",
+                "description": "Meetup/Discussion for Hackers concerned with Climate Change",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1448,
+                "guid": "8be7ed68-1559-45a4-94ab-bf53b612c9aa",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Ola_Bini:_unfairly_persecuted",
+                "logo": null,
+                "date": "2019-08-23T18:30:00+02:00",
+                "start": "18:30",
+                "duration": "0:30",
+                "room": "Village:About:freedom",
+                "slug": "camp2019-1448-session_ola_bini_unfairly_persecuted",
+                "title": "Ola Bini: unfairly persecuted",
+                "subtitle": "about:stage",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "Ola Bini has been unfairly persecuted for almost 130 days in Ecuador. Let's discuss about that!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Sofia_Celi",
+                    "public_name": "Sofia Celi"
+                  }
+                ],
+                "links": [
+                  "http://freeolabini.org"
+                ]
+              },
+              {
                 "id": 1229,
                 "guid": "d28fed56-ab47-4377-baf2-e4e24cc1065a",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:R5_Meeting_(CCC_working_group)",
@@ -10230,36 +10278,6 @@
                   "https://github.com/IuriLeitaoMartinho/OffGridMilliwaysMod",
                   "https://www.twitch.tv/semaeopus",
                   "http://www.offgridthegame.com"
-                ]
-              }
-            ],
-            "About:stage": [
-              {
-                "id": 1448,
-                "guid": "8be7ed68-1559-45a4-94ab-bf53b612c9aa",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Ola_Bini:_unfairly_persecuted",
-                "logo": null,
-                "date": "2019-08-23T18:30:00+02:00",
-                "start": "18:30",
-                "duration": "0:30",
-                "room": "About:stage",
-                "slug": "camp2019-1448-session_ola_bini_unfairly_persecuted",
-                "title": "Ola Bini: unfairly persecuted",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "en",
-                "abstract": "",
-                "description": "Ola Bini has been unfairly persecuted for almost 130 days in Ecuador. Let's discuss about that!",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Sofia_Celi",
-                    "public_name": "Sofia Celi"
-                  }
-                ],
-                "links": [
-                  "http://freeolabini.org"
                 ]
               }
             ],
