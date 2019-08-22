@@ -1,0 +1,22 @@
+{
+  "id": 1436,
+  "guid": "694f48cd-fcf7-4259-a5d4-b83110b22d5b",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:All_Creatures_Welcome",
+  "logo": null,
+  "date": "2019-08-24T21:00:00+02:00",
+  "start": "21:00",
+  "duration": "1:30",
+  "room": "Village:Singularity City",
+  "slug": "camp2019-1436-session_all_creatures_welcome",
+  "title": "All Creatures Welcome",
+  "subtitle": "Film von Sandra Trostel",
+  "track": "self organized sessions",
+  "type": "other",
+  "language": "de",
+  "abstract": "",
+  "description": "Vorf\u00fchrung des Films \"All Creatures Welcome\"",
+  "persons": [],
+  "links": [
+    "https://sandratrostel.de/projects/acw/"
+  ]
+}

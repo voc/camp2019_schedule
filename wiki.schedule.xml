@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-22 13:10</version>
+  <version>2019-08-22 13:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -2391,8 +2391,8 @@
       <event id="1417" guid="cf044024-4111-4e64-9c4a-11c6f1dd12d2">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Gameboy_Tetris_Tournament</url>
         <logo/>
-        <date>2019-08-22T16:00:00+02:00</date>
-        <start>16:00</start>
+        <date>2019-08-22T18:00:00+02:00</date>
+        <start>18:00</start>
         <duration>1:00</duration>
         <room>Village:Metalab Dome</room>
         <slug>camp2019-1417-session_gameboy_tetris_tournament</slug>
@@ -4547,6 +4547,26 @@
         <persons/>
         <links/>
       </event>
+      <event id="1437" guid="52c110ba-8604-494b-bffd-4657171ef06c">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Spreading_nix_to_the_Bitcoin_ecosystem</url>
+        <logo/>
+        <date>2019-08-24T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>0:30</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1437-session_spreading_nix_to_the_bitcoin_ecosystem</slug>
+        <title>Spreading nix to the Bitcoin ecosystem</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>Why nix and Bitcoin are a perfect match</description>
+        <persons/>
+        <links>
+          <link>http://github.com/fort-nix/nix-bitcoin</link>
+        </links>
+      </event>
       <event id="1379" guid="0c0709ed-6fba-4013-aa75-fcfc4f07e1c7">
         <url>https://events.ccc.de/camp/2019/wiki/Session:You_broke_the_internet,_let_us_build_a_GNU_one</url>
         <logo/>
@@ -4861,6 +4881,28 @@
         <description>ZF-Auskopplung als Spektrumskop mit RTL-SDR-Stick und HUP-RF Auskoppelverstärker</description>
         <persons/>
         <links/>
+      </event>
+    </room>
+    <room name="Village:Singularity City">
+      <event id="1436" guid="694f48cd-fcf7-4259-a5d4-b83110b22d5b">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:All_Creatures_Welcome</url>
+        <logo/>
+        <date>2019-08-24T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>1:30</duration>
+        <room>Village:Singularity City</room>
+        <slug>camp2019-1436-session_all_creatures_welcome</slug>
+        <title>All Creatures Welcome</title>
+        <subtitle>Film von Sandra Trostel</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Vorführung des Films "All Creatures Welcome"</description>
+        <persons/>
+        <links>
+          <link>https://sandratrostel.de/projects/acw/</link>
+        </links>
       </event>
     </room>
     <room name="Village:HardwareHackingArea">

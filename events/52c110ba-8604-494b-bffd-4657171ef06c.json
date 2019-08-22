@@ -1,0 +1,22 @@
+{
+  "id": 1437,
+  "guid": "52c110ba-8604-494b-bffd-4657171ef06c",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Spreading_nix_to_the_Bitcoin_ecosystem",
+  "logo": null,
+  "date": "2019-08-24T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "0:30",
+  "room": "Johnson (Workshop 1)",
+  "slug": "camp2019-1437-session_spreading_nix_to_the_bitcoin_ecosystem",
+  "title": "Spreading nix to the Bitcoin ecosystem",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "",
+  "language": "en",
+  "abstract": "",
+  "description": "Why nix and Bitcoin are a perfect match",
+  "persons": [],
+  "links": [
+    "http://github.com/fort-nix/nix-bitcoin"
+  ]
+}

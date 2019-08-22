@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-22 13:10",
+    "version": "2019-08-22 13:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -2994,8 +2994,8 @@
                 "guid": "cf044024-4111-4e64-9c4a-11c6f1dd12d2",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Gameboy_Tetris_Tournament",
                 "logo": null,
-                "date": "2019-08-22T16:00:00+02:00",
-                "start": "16:00",
+                "date": "2019-08-22T18:00:00+02:00",
+                "start": "18:00",
                 "duration": "1:00",
                 "room": "Village:Metalab Dome",
                 "slug": "camp2019-1417-session_gameboy_tetris_tournament",
@@ -5739,6 +5739,28 @@
                 "links": []
               },
               {
+                "id": 1437,
+                "guid": "52c110ba-8604-494b-bffd-4657171ef06c",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Spreading_nix_to_the_Bitcoin_ecosystem",
+                "logo": null,
+                "date": "2019-08-24T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "0:30",
+                "room": "Johnson (Workshop 1)",
+                "slug": "camp2019-1437-session_spreading_nix_to_the_bitcoin_ecosystem",
+                "title": "Spreading nix to the Bitcoin ecosystem",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "en",
+                "abstract": "",
+                "description": "Why nix and Bitcoin are a perfect match",
+                "persons": [],
+                "links": [
+                  "http://github.com/fort-nix/nix-bitcoin"
+                ]
+              },
+              {
                 "id": 1379,
                 "guid": "0c0709ed-6fba-4013-aa75-fcfc4f07e1c7",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:You_broke_the_internet,_let_us_build_a_GNU_one",
@@ -6142,6 +6164,30 @@
                 "description": "ZF-Auskopplung als Spektrumskop mit RTL-SDR-Stick und HUP-RF Auskoppelverst\u00e4rker",
                 "persons": [],
                 "links": []
+              }
+            ],
+            "Village:Singularity City": [
+              {
+                "id": 1436,
+                "guid": "694f48cd-fcf7-4259-a5d4-b83110b22d5b",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:All_Creatures_Welcome",
+                "logo": null,
+                "date": "2019-08-24T21:00:00+02:00",
+                "start": "21:00",
+                "duration": "1:30",
+                "room": "Village:Singularity City",
+                "slug": "camp2019-1436-session_all_creatures_welcome",
+                "title": "All Creatures Welcome",
+                "subtitle": "Film von Sandra Trostel",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "de",
+                "abstract": "",
+                "description": "Vorf\u00fchrung des Films \"All Creatures Welcome\"",
+                "persons": [],
+                "links": [
+                  "https://sandratrostel.de/projects/acw/"
+                ]
               }
             ],
             "Village:HardwareHackingArea": [
