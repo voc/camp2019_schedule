@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-22 18:00",
+    "version": "2019-08-22 18:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -4687,15 +4687,15 @@
                 "links": []
               },
               {
-                "id": 1333,
-                "guid": "bbd152a9-b0bb-5b07-b1d2-41fb91d372f2",
+                "id": 1457,
+                "guid": "3e811174-99ef-5164-b2be-c5a11b9d1f25",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery",
                 "logo": null,
-                "date": "2019-08-23T13:13:00+02:00",
-                "start": "13:13",
+                "date": "2019-08-23T16:16:00+02:00",
+                "start": "16:16",
                 "duration": "2:02",
                 "room": "Village:1komona",
-                "slug": "camp2019-1333-session_postapokalyptic_jewellery",
+                "slug": "camp2019-1457-session_postapokalyptic_jewellery",
                 "title": "Postapokalyptic jewellery",
                 "subtitle": "scrap tinkering - schrottbasteln",
                 "track": "self organized sessions",
@@ -6103,8 +6103,8 @@
                 "guid": "4b72c9b7-1fe5-4f4b-9a31-21c0de7e9303",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:YunoHost_workshop:_install_your_own!",
                 "logo": null,
-                "date": "2019-08-23T17:00:00+02:00",
-                "start": "17:00",
+                "date": "2019-08-23T18:00:00+02:00",
+                "start": "18:00",
                 "duration": "1:00",
                 "room": "Village:Librehosters",
                 "slug": "camp2019-1420-session_yunohost_workshop_install_your_own_",

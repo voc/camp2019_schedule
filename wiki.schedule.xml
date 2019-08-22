@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-22 18:00</version>
+  <version>2019-08-22 18:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -3717,14 +3717,14 @@
         <persons/>
         <links/>
       </event>
-      <event id="1333" guid="bbd152a9-b0bb-5b07-b1d2-41fb91d372f2">
+      <event id="1457" guid="3e811174-99ef-5164-b2be-c5a11b9d1f25">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>
         <logo/>
-        <date>2019-08-23T13:13:00+02:00</date>
-        <start>13:13</start>
+        <date>2019-08-23T16:16:00+02:00</date>
+        <start>16:16</start>
         <duration>2:02</duration>
         <room>Village:1komona</room>
-        <slug>camp2019-1333-session_postapokalyptic_jewellery</slug>
+        <slug>camp2019-1457-session_postapokalyptic_jewellery</slug>
         <title>Postapokalyptic jewellery</title>
         <subtitle>scrap tinkering - schrottbasteln</subtitle>
         <track>self organized sessions</track>
@@ -4834,8 +4834,8 @@
       <event id="1420" guid="4b72c9b7-1fe5-4f4b-9a31-21c0de7e9303">
         <url>https://events.ccc.de/camp/2019/wiki/Session:YunoHost_workshop:_install_your_own!</url>
         <logo/>
-        <date>2019-08-23T17:00:00+02:00</date>
-        <start>17:00</start>
+        <date>2019-08-23T18:00:00+02:00</date>
+        <start>18:00</start>
         <duration>1:00</duration>
         <room>Village:Librehosters</room>
         <slug>camp2019-1420-session_yunohost_workshop_install_your_own_</slug>
