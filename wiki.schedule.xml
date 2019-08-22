@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-22 23:10</version>
+  <version>2019-08-23 01:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -5165,26 +5165,7 @@
     <room name="Kemistry Lounge"/>
     <room name="Fireplace (Workshop THM)Hackcenter"/>
     <room name="Hackcenter 1"/>
-    <room name="Hackcenter 3">
-      <event id="1222" guid="b7523425-acee-4679-96c6-4382236e43ba">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Let%27s_hack_words!</url>
-        <logo/>
-        <date>2019-08-24T15:00:00+02:00</date>
-        <start>15:00</start>
-        <duration>1:30</duration>
-        <room>Hackcenter 3</room>
-        <slug>camp2019-1222-session_let_s_hack_words_</slug>
-        <title>Let's hack words!</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Let's hack words is a session for everyone, who wants to explore creative writing, build worlds and lets characters dive into adventures. Or - for a start - just wants to get rid of hacker's block.</description>
-        <persons/>
-        <links/>
-      </event>
-    </room>
+    <room name="Hackcenter 3"/>
     <room name="Village:About:freedom">
       <event id="1176" guid="a208d05f-cafd-4680-9f4e-760994a1202d">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Advanced_web_tracking_methods</url>
@@ -6178,6 +6159,26 @@
         <links>
           <link>https://ecohackerfarm.org/</link>
         </links>
+      </event>
+    </room>
+    <room name="Village:Metalab Dome">
+      <event id="1222" guid="b7523425-acee-4679-96c6-4382236e43ba">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Let%27s_hack_words!</url>
+        <logo/>
+        <date>2019-08-24T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Village:Metalab Dome</room>
+        <slug>camp2019-1222-session_let_s_hack_words_</slug>
+        <title>Let's hack words!</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Let's hack words is a session for everyone, who wants to explore creative writing, build worlds and lets characters dive into adventures. Or - for a start - just wants to get rid of hacker's block.</description>
+        <persons/>
+        <links/>
       </event>
     </room>
     <room name="Village:TEUrCamp">
