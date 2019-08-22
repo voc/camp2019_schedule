@@ -1,0 +1,26 @@
+{
+  "id": 1460,
+  "guid": "03e86b75-b044-42a5-8429-6ab2bff64ad3",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Do_you_hear_the_people_sing_%E2%80%93_the_song_of_the_Hong_Kong_protests",
+  "logo": null,
+  "date": "2019-08-25T00:00:00+02:00",
+  "start": "00:00",
+  "duration": "0:30",
+  "room": "Village:Haecksen",
+  "slug": "camp2019-1460-session_do_you_hear_the_people_sing_the_song_of_the_hong_kong_protests",
+  "title": "Do you hear the people sing \u2013 the song of the Hong Kong protests",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "de",
+  "abstract": "",
+  "description": "Singing the song and learning about it's background in the Hong Kong protests",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Piko",
+      "public_name": "Piko"
+    }
+  ],
+  "links": []
+}

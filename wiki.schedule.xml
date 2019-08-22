@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-22 18:10</version>
+  <version>2019-08-22 18:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -4208,6 +4208,26 @@
         </links>
       </event>
     </room>
+    <room name="Village:Chaos Ballett Bett (Drahti Trampolin)">
+      <event id="1459" guid="c2976908-e011-58e2-932e-aa076f796ce1">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Chaos_Ballett</url>
+        <logo/>
+        <date>2019-08-23T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>1:00</duration>
+        <room>Village:Chaos Ballett Bett (Drahti Trampolin)</room>
+        <slug>camp2019-1459-session_chaos_ballett</slug>
+        <title>Chaos Ballett</title>
+        <subtitle>Chaos Ballett Restart</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>Argumente fühlen statt gefühlter Argumente</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
     <room name="Village:Foodhackingbase">
       <event id="1187" guid="a29622ff-88ce-4a82-ad06-638b1549d398">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Cheese_Rendezvous</url>
@@ -5510,6 +5530,26 @@
         </links>
       </event>
     </room>
+    <room name="Village:Chaos Ballett Bett (Drahti Trampolin)">
+      <event id="1458" guid="d88835db-1546-4e09-a65f-7958e6f01c5a">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Chaos_Ballett</url>
+        <logo/>
+        <date>2019-08-24T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>1:00</duration>
+        <room>Village:Chaos Ballett Bett (Drahti Trampolin)</room>
+        <slug>camp2019-1458-session_chaos_ballett</slug>
+        <title>Chaos Ballett</title>
+        <subtitle>Chaos Ballett Restart</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>Argumente fühlen statt gefühlter Argumente</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
     <room name="Village:C-base">
       <event id="1300" guid="6dc5eae9-babb-44e7-b2e5-c4308c8f257d">
         <url>https://events.ccc.de/camp/2019/wiki/Session:CoderDojo</url>
@@ -5619,6 +5659,26 @@
       </event>
     </room>
     <room name="Village:Haecksen">
+      <event id="1460" guid="03e86b75-b044-42a5-8429-6ab2bff64ad3">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Do_you_hear_the_people_sing_%E2%80%93_the_song_of_the_Hong_Kong_protests</url>
+        <logo/>
+        <date>2019-08-25T00:00:00+02:00</date>
+        <start>00:00</start>
+        <duration>0:30</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1460-session_do_you_hear_the_people_sing_the_song_of_the_hong_kong_protests</slug>
+        <title>Do you hear the people sing – the song of the Hong Kong protests</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Singing the song and learning about it's background in the Hong Kong protests</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1315" guid="be027390-38e1-4207-b05f-2f4a2a279194">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Feierliche_Verlesung_des_gesammelten_%C3%84rgers</url>
         <logo/>

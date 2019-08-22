@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 18:10",
+    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 18:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -9865,6 +9865,28 @@
                 ]
               }
             ],
+            "Village:Chaos Ballett Bett (Drahti Trampolin)": [
+              {
+                "id": 1459,
+                "guid": "c2976908-e011-58e2-932e-aa076f796ce1",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Chaos_Ballett",
+                "logo": null,
+                "date": "2019-08-23T11:00:00+02:00",
+                "start": "11:00",
+                "duration": "1:00",
+                "room": "Village:Chaos Ballett Bett (Drahti Trampolin)",
+                "slug": "camp2019-1459-session_chaos_ballett",
+                "title": "Chaos Ballett",
+                "subtitle": "Chaos Ballett Restart",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "",
+                "abstract": "",
+                "description": "Argumente f\u00fchlen statt gef\u00fchlter Argumente",
+                "persons": [],
+                "links": []
+              }
+            ],
             "Village:Foodhackingbase": [
               {
                 "id": 1187,
@@ -12588,6 +12610,28 @@
                 ]
               }
             ],
+            "Village:Chaos Ballett Bett (Drahti Trampolin)": [
+              {
+                "id": 1458,
+                "guid": "d88835db-1546-4e09-a65f-7958e6f01c5a",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Chaos_Ballett",
+                "logo": null,
+                "date": "2019-08-24T11:00:00+02:00",
+                "start": "11:00",
+                "duration": "1:00",
+                "room": "Village:Chaos Ballett Bett (Drahti Trampolin)",
+                "slug": "camp2019-1458-session_chaos_ballett",
+                "title": "Chaos Ballett",
+                "subtitle": "Chaos Ballett Restart",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "",
+                "abstract": "",
+                "description": "Argumente f\u00fchlen statt gef\u00fchlter Argumente",
+                "persons": [],
+                "links": []
+              }
+            ],
             "Village:C-base": [
               {
                 "id": 1300,
@@ -12715,6 +12759,32 @@
               }
             ],
             "Village:Haecksen": [
+              {
+                "id": 1460,
+                "guid": "03e86b75-b044-42a5-8429-6ab2bff64ad3",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Do_you_hear_the_people_sing_%E2%80%93_the_song_of_the_Hong_Kong_protests",
+                "logo": null,
+                "date": "2019-08-25T00:00:00+02:00",
+                "start": "00:00",
+                "duration": "0:30",
+                "room": "Village:Haecksen",
+                "slug": "camp2019-1460-session_do_you_hear_the_people_sing_the_song_of_the_hong_kong_protests",
+                "title": "Do you hear the people sing \u2013 the song of the Hong Kong protests",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Singing the song and learning about it's background in the Hong Kong protests",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Piko",
+                    "public_name": "Piko"
+                  }
+                ],
+                "links": []
+              },
               {
                 "id": 1315,
                 "guid": "be027390-38e1-4207-b05f-2f4a2a279194",
