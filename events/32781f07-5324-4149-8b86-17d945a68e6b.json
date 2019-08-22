@@ -1,0 +1,22 @@
+{
+  "id": 1474,
+  "guid": "32781f07-5324-4149-8b86-17d945a68e6b",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Bare_Metal_Camp",
+  "logo": null,
+  "date": "2019-08-23T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "2:00",
+  "room": "Village:AAAAAAAAAAAA",
+  "slug": "camp2019-1474-session_bare_metal_camp",
+  "title": "Bare Metal Camp",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "de",
+  "abstract": "",
+  "description": "Bare_Metal_Camp meetup. If you plan to come to Metaldays 2020 and need a friendly group to camp with. Meet us here.",
+  "persons": [],
+  "links": [
+    "http://bare-metal-camp.at"
+  ]
+}

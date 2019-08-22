@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 23:00",
+    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 23:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -9369,6 +9369,30 @@
                 ]
               }
             ],
+            "Village:AAAAAAAAAAAA": [
+              {
+                "id": 1474,
+                "guid": "32781f07-5324-4149-8b86-17d945a68e6b",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bare_Metal_Camp",
+                "logo": null,
+                "date": "2019-08-23T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "2:00",
+                "room": "Village:AAAAAAAAAAAA",
+                "slug": "camp2019-1474-session_bare_metal_camp",
+                "title": "Bare Metal Camp",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Bare_Metal_Camp meetup. If you plan to come to Metaldays 2020 and need a friendly group to camp with. Meet us here.",
+                "persons": [],
+                "links": [
+                  "http://bare-metal-camp.at"
+                ]
+              }
+            ],
             "Village:About:freedom": [
               {
                 "id": 1258,
@@ -9937,8 +9961,8 @@
                 "guid": "2ec27fbb-3f33-4515-8228-db6205370168",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:NixOS_contribution_discussion",
                 "logo": null,
-                "date": "2019-08-23T17:00:00+02:00",
-                "start": "17:00",
+                "date": "2019-08-23T18:00:00+02:00",
+                "start": "18:00",
                 "duration": "1:00",
                 "room": "Village:NixOS",
                 "slug": "camp2019-1109-session_nixos_contribution_discussion",
@@ -10625,6 +10649,26 @@
                   "https://www.twitch.tv/semaeopus",
                   "http://www.offgridthegame.com"
                 ]
+              },
+              {
+                "id": 1475,
+                "guid": "ac200bd3-0256-4a22-8958-c7ab3f3ba0f9",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Tesla_coil_show",
+                "logo": null,
+                "date": "2019-08-23T19:00:00+02:00",
+                "start": "19:00",
+                "duration": "0:30",
+                "room": "Village:Milliways",
+                "slug": "camp2019-1475-session_tesla_coil_show",
+                "title": "Tesla coil show",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "outside",
+                "language": "en",
+                "abstract": "",
+                "description": "Omega Verksted will demo their home-made tesla coil.",
+                "persons": [],
+                "links": []
               }
             ],
             "Village:C-base": [

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 23:00</version>
+  <version>Hadar; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 23:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -8330,6 +8330,28 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         </links>
       </event>
     </room>
+    <room name="Village:AAAAAAAAAAAA">
+      <event id="1474" guid="32781f07-5324-4149-8b86-17d945a68e6b">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Bare_Metal_Camp</url>
+        <logo/>
+        <date>2019-08-23T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>2:00</duration>
+        <room>Village:AAAAAAAAAAAA</room>
+        <slug>camp2019-1474-session_bare_metal_camp</slug>
+        <title>Bare Metal Camp</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Bare_Metal_Camp meetup. If you plan to come to Metaldays 2020 and need a friendly group to camp with. Meet us here.</description>
+        <persons/>
+        <links>
+          <link>http://bare-metal-camp.at</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:About:freedom">
       <event id="1258" guid="c26c1327-b087-4f31-93d8-394eece62ae5">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Bits%26B%C3%A4ume_%26_Co:_How_to_shape_a_responsible_world%3F</url>
@@ -8778,8 +8800,8 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
       <event id="1109" guid="2ec27fbb-3f33-4515-8228-db6205370168">
         <url>https://events.ccc.de/camp/2019/wiki/Session:NixOS_contribution_discussion</url>
         <logo/>
-        <date>2019-08-23T17:00:00+02:00</date>
-        <start>17:00</start>
+        <date>2019-08-23T18:00:00+02:00</date>
+        <start>18:00</start>
         <duration>1:00</duration>
         <room>Village:NixOS</room>
         <slug>camp2019-1109-session_nixos_contribution_discussion</slug>
@@ -9336,6 +9358,24 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
           <link>https://www.twitch.tv/semaeopus</link>
           <link>http://www.offgridthegame.com</link>
         </links>
+      </event>
+      <event id="1475" guid="ac200bd3-0256-4a22-8958-c7ab3f3ba0f9">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Tesla_coil_show</url>
+        <logo/>
+        <date>2019-08-23T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>0:30</duration>
+        <room>Village:Milliways</room>
+        <slug>camp2019-1475-session_tesla_coil_show</slug>
+        <title>Tesla coil show</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>outside</type>
+        <language>en</language>
+        <abstract/>
+        <description>Omega Verksted will demo their home-made tesla coil.</description>
+        <persons/>
+        <links/>
       </event>
     </room>
     <room name="Village:C-base">
