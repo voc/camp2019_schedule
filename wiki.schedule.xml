@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-22 13:00</version>
+  <version>2019-08-22 13:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -1718,6 +1718,26 @@
         </persons>
         <links/>
       </event>
+      <event id="1259" guid="f9cc11df-dd08-40f4-b7ba-1860455d5147">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Bits%26B%C3%A4ume_%26_Co:_How_to_shape_a_responsible_world%3F</url>
+        <logo/>
+        <date>2019-08-22T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1259-session_bits_baeume_co_how_to_shape_a_responsible_world_</slug>
+        <title>Bits&amp;Bäume &amp; Co: How to shape a responsible world?</title>
+        <subtitle>Starting Panel</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>As activists we seek for a fundamental change in this world towards a fair and responsible society. The invited groups will give their analysis of the problems and present their work. Together we will identify questions or common projects we will work on in the follow-up workshops.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1357" guid="a17a2adb-49c5-4c5b-92c4-28402b1a1c25">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Bits%26B%C3%A4ume_w%C3%A4chst:_Forderungen_und_eine_neue_Bewegung</url>
         <logo/>
@@ -1777,26 +1797,6 @@
         <language>en</language>
         <abstract/>
         <description>Pre-CryptoParty Meetup of organisers and those, who want to help,</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1259" guid="f9cc11df-dd08-40f4-b7ba-1860455d5147">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:How_to_shape_a_responsible_world%3F</url>
-        <logo/>
-        <date>2019-08-22T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>2:00</duration>
-        <room>Village:About:freedom</room>
-        <slug>camp2019-1259-session_how_to_shape_a_responsible_world_</slug>
-        <title>How to shape a responsible world?</title>
-        <subtitle>Starting Panel</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>As activists we seek for a fundamental change in this world towards a fair and responsible society. The invited groups will give their analysis of the problems and present their work. Together we will identify questions or common projects we will work on in the follow-up workshops.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
         </persons>
@@ -2473,6 +2473,28 @@
         </persons>
         <links>
           <link>https://wiki.ecohackerfarm.org/powerplant:start</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:402 Payment Required">
+      <event id="1435" guid="a07bf133-212b-4da8-9dca-bdb67dc89e70">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_on_nix-bitcoin</url>
+        <logo/>
+        <date>2019-08-22T20:30:00+02:00</date>
+        <start>20:30</start>
+        <duration>0:45</duration>
+        <room>Village:402 Payment Required</room>
+        <slug>camp2019-1435-session_hacking_on_nix_bitcoin</slug>
+        <title>Hacking on nix-bitcoin</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn how to write modules for nix-bitcoin</description>
+        <persons/>
+        <links>
+          <link>http://github.com/fort-nix/nix-bitcoin</link>
         </links>
       </event>
     </room>
@@ -3626,51 +3648,27 @@
         </links>
       </event>
     </room>
-    <room name="Village:NixOS">
-      <event id="1042" guid="68994b27-2215-45aa-bfa0-b9f3440c7e17">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Bootstrapping_NixOS</url>
-        <logo/>
-        <date>2019-08-23T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Village:NixOS</room>
-        <slug>camp2019-1042-session_bootstrapping_nixos</slug>
-        <title>Bootstrapping NixOS</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>de</language>
-        <abstract/>
-        <description>learn how Nixers bootstrap their hosts</description>
-        <persons/>
-        <links>
-          <link>https://krebsco.de</link>
-        </links>
-      </event>
-      <event id="1136" guid="0c8e57af-799e-4378-a318-07fbd1b1da3f">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Terranix</url>
-        <logo/>
-        <date>2019-08-23T15:00:00+02:00</date>
-        <start>15:00</start>
-        <duration>0:45</duration>
-        <room>Village:NixOS</room>
-        <slug>camp2019-1136-session_terranix</slug>
-        <title>Terranix</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>A NixOS way to create terraform json files.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Palo">Palo</person>
-        </persons>
-        <links>
-          <link>https://terranix.org/</link>
-        </links>
-      </event>
-    </room>
     <room name="Village:About:freedom">
+      <event id="1258" guid="c26c1327-b087-4f31-93d8-394eece62ae5">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Bits%26B%C3%A4ume_%26_Co:_How_to_shape_a_responsible_world%3F</url>
+        <logo/>
+        <date>2019-08-23T10:30:00+02:00</date>
+        <start>10:30</start>
+        <duration>2:30</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1258-session_bits_baeume_co_how_to_shape_a_responsible_world_</slug>
+        <title>Bits&amp;Bäume &amp; Co: How to shape a responsible world?</title>
+        <subtitle>Follow up</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>As activists we seek for a fundamental change in this world towards a fair and responsible society. The invited groups will give their analysis of the problems and present their work. Together we will identify questions or common projects we will work on in the follow-up workshops.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1251" guid="c806c61c-521f-4f89-a836-064f5575b3a3">
         <url>https://events.ccc.de/camp/2019/wiki/Session:C3Sus_Ride_excellent_with_each_other</url>
         <logo/>
@@ -3773,26 +3771,6 @@
         </persons>
         <links/>
       </event>
-      <event id="1258" guid="c26c1327-b087-4f31-93d8-394eece62ae5">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:How_to_shape_a_responsible_world%3F</url>
-        <logo/>
-        <date>2019-08-23T10:30:00+02:00</date>
-        <start>10:30</start>
-        <duration>2:30</duration>
-        <room>Village:About:freedom</room>
-        <slug>camp2019-1258-session_how_to_shape_a_responsible_world_</slug>
-        <title>How to shape a responsible world?</title>
-        <subtitle>Follow up</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>As activists we seek for a fundamental change in this world towards a fair and responsible society. The invited groups will give their analysis of the problems and present their work. Together we will identify questions or common projects we will work on in the follow-up workshops.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
-        </persons>
-        <links/>
-      </event>
       <event id="1229" guid="d28fed56-ab47-4377-baf2-e4e24cc1065a">
         <url>https://events.ccc.de/camp/2019/wiki/Session:R5_Meeting_(CCC_working_group)</url>
         <logo/>
@@ -3856,6 +3834,50 @@
         </persons>
         <links>
           <link>https://zenodo.org/record/3236807#.XV1aVOgzbIU</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:NixOS">
+      <event id="1042" guid="68994b27-2215-45aa-bfa0-b9f3440c7e17">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Bootstrapping_NixOS</url>
+        <logo/>
+        <date>2019-08-23T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Village:NixOS</room>
+        <slug>camp2019-1042-session_bootstrapping_nixos</slug>
+        <title>Bootstrapping NixOS</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>learn how Nixers bootstrap their hosts</description>
+        <persons/>
+        <links>
+          <link>https://krebsco.de</link>
+        </links>
+      </event>
+      <event id="1136" guid="0c8e57af-799e-4378-a318-07fbd1b1da3f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Terranix</url>
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>0:45</duration>
+        <room>Village:NixOS</room>
+        <slug>camp2019-1136-session_terranix</slug>
+        <title>Terranix</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>A NixOS way to create terraform json files.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Palo">Palo</person>
+        </persons>
+        <links>
+          <link>https://terranix.org/</link>
         </links>
       </event>
     </room>
@@ -4612,6 +4634,26 @@
         </persons>
         <links/>
       </event>
+      <event id="1260" guid="c59ab826-e9ec-40d9-b529-b48e9d0b87c6">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Bits%26B%C3%A4ume_%26_Co:_How_to_shape_a_responsible_world%3F</url>
+        <logo/>
+        <date>2019-08-24T10:30:00+02:00</date>
+        <start>10:30</start>
+        <duration>2:30</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1260-session_bits_baeume_co_how_to_shape_a_responsible_world_</slug>
+        <title>Bits&amp;Bäume &amp; Co: How to shape a responsible world?</title>
+        <subtitle>Follow up</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>As activists we seek for a fundamental change in this world towards a fair and responsible society. The invited groups will give their analysis of the problems and present their work. Together we will identify questions or common projects we will work on in the follow-up workshops.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1338" guid="4b982349-7593-41ef-af01-0dc6348d2678">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Blockchain_Interoperability</url>
         <logo/>
@@ -4709,26 +4751,6 @@
         <language>en</language>
         <abstract/>
         <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1260" guid="c59ab826-e9ec-40d9-b529-b48e9d0b87c6">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:How_to_shape_a_responsible_world%3F</url>
-        <logo/>
-        <date>2019-08-24T10:30:00+02:00</date>
-        <start>10:30</start>
-        <duration>2:30</duration>
-        <room>Village:About:freedom</room>
-        <slug>camp2019-1260-session_how_to_shape_a_responsible_world_</slug>
-        <title>How to shape a responsible world?</title>
-        <subtitle>Follow up</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>As activists we seek for a fundamental change in this world towards a fair and responsible society. The invited groups will give their analysis of the problems and present their work. Together we will identify questions or common projects we will work on in the follow-up workshops.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
         </persons>

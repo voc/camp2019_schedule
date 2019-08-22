@@ -1,0 +1,22 @@
+{
+  "id": 1435,
+  "guid": "a07bf133-212b-4da8-9dca-bdb67dc89e70",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_on_nix-bitcoin",
+  "logo": null,
+  "date": "2019-08-22T20:30:00+02:00",
+  "start": "20:30",
+  "duration": "0:45",
+  "room": "Village:402 Payment Required",
+  "slug": "camp2019-1435-session_hacking_on_nix_bitcoin",
+  "title": "Hacking on nix-bitcoin",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "Learn how to write modules for nix-bitcoin",
+  "persons": [],
+  "links": [
+    "http://github.com/fort-nix/nix-bitcoin"
+  ]
+}
