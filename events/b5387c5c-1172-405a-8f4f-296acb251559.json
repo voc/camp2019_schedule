@@ -1,0 +1,26 @@
+{
+  "id": 1454,
+  "guid": "b5387c5c-1172-405a-8f4f-296acb251559",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Pimms_O%27_Clock",
+  "logo": null,
+  "date": "2019-08-22T18:15:00+02:00",
+  "start": "18:15",
+  "duration": "1:45",
+  "room": "Village:EMF",
+  "slug": "camp2019-1454-session_pimms_o_clock",
+  "title": "Pimms O' Clock",
+  "subtitle": "Pimms O' Clock, come drink some pimms!",
+  "track": "self organized sessions",
+  "type": "discussion",
+  "language": "en",
+  "abstract": "",
+  "description": "Pimms O' Clock, drink some pimms!",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Pezmc",
+      "public_name": "Pezmc"
+    }
+  ],
+  "links": []
+}

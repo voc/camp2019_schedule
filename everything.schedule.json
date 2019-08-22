@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 17:10",
+    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 17:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -6901,6 +6901,56 @@
                 "links": [
                   "http://pentagame.org"
                 ]
+              },
+              {
+                "id": 1455,
+                "guid": "e7e191ca-a827-4ec9-8346-1c1fd7cb814b",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Plant_%26_grow",
+                "logo": null,
+                "date": "2019-08-22T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "2:00",
+                "room": "Village:C-base",
+                "slug": "camp2019-1455-session_plant_grow",
+                "title": "Plant & grow",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "",
+                "abstract": "",
+                "description": "",
+                "persons": [],
+                "links": [
+                  "https://b2g.mobi"
+                ]
+              }
+            ],
+            "Village:EMF": [
+              {
+                "id": 1454,
+                "guid": "b5387c5c-1172-405a-8f4f-296acb251559",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Pimms_O%27_Clock",
+                "logo": null,
+                "date": "2019-08-22T18:15:00+02:00",
+                "start": "18:15",
+                "duration": "1:45",
+                "room": "Village:EMF",
+                "slug": "camp2019-1454-session_pimms_o_clock",
+                "title": "Pimms O' Clock",
+                "subtitle": "Pimms O' Clock, come drink some pimms!",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "Pimms O' Clock, drink some pimms!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Pezmc",
+                    "public_name": "Pezmc"
+                  }
+                ],
+                "links": []
               }
             ],
             "Village:ZSH - Zelt Stadt Hessen": [
