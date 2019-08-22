@@ -1,0 +1,28 @@
+{
+  "id": 1472,
+  "guid": "490f5ff6-e9fb-4eeb-9f95-11492efae78c",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Robot_Soccer",
+  "logo": null,
+  "date": "2019-08-23T11:00:00+02:00",
+  "start": "11:00",
+  "duration": "0:30",
+  "room": "Village:RoboVillage",
+  "slug": "camp2019-1472-session_robot_soccer",
+  "title": "Robot Soccer",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "other",
+  "language": "de",
+  "abstract": "",
+  "description": "RoboCup: demonstration of humanoid robots playing soccer autonomously. \u26bd",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Mellmann",
+      "public_name": "Mellmann"
+    }
+  ],
+  "links": [
+    "https://naoth.de"
+  ]
+}

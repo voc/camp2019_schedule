@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-22 21:30</version>
+  <version>2019-08-22 21:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -4917,6 +4917,28 @@
       </event>
     </room>
     <room name="Village:RoboVillage">
+      <event id="1472" guid="490f5ff6-e9fb-4eeb-9f95-11492efae78c">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Robot_Soccer</url>
+        <logo/>
+        <date>2019-08-23T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>0:30</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1472-session_robot_soccer</slug>
+        <title>Robot Soccer</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>RoboCup: demonstration of humanoid robots playing soccer autonomously. ⚽</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Mellmann">Mellmann</person>
+        </persons>
+        <links>
+          <link>https://naoth.de</link>
+        </links>
+      </event>
       <event id="1240" guid="d227bcc8-63df-4eea-9385-e420a774f060">
         <url>https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming</url>
         <logo/>
@@ -6163,6 +6185,28 @@
       </event>
     </room>
     <room name="Village:RoboVillage">
+      <event id="1471" guid="00b86f4a-480d-4f8c-8b08-eb898049e615">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Robot_Soccer</url>
+        <logo/>
+        <date>2019-08-24T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>0:30</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1471-session_robot_soccer</slug>
+        <title>Robot Soccer</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>RoboCup: demonstration of humanoid robots playing soccer autonomously. ⚽</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Mellmann">Mellmann</person>
+        </persons>
+        <links>
+          <link>https://naoth.de</link>
+        </links>
+      </event>
       <event id="1239" guid="d6de80f2-2bd9-495e-9554-9ee405b854fe">
         <url>https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming</url>
         <logo/>
@@ -6441,6 +6485,28 @@
       </event>
     </room>
     <room name="Village:RoboVillage">
+      <event id="1473" guid="28266195-b041-5522-8a0a-3edd08979ceb">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Robot_Soccer</url>
+        <logo/>
+        <date>2019-08-25T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>0:30</duration>
+        <room>Village:RoboVillage</room>
+        <slug>camp2019-1473-session_robot_soccer</slug>
+        <title>Robot Soccer</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>RoboCup: demonstration of humanoid robots playing soccer autonomously. ⚽</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Mellmann">Mellmann</person>
+        </persons>
+        <links>
+          <link>https://naoth.de</link>
+        </links>
+      </event>
       <event id="1149" guid="55e871c2-1e5d-42d7-9b42-21aab9fa8ee5">
         <url>https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming</url>
         <logo/>
