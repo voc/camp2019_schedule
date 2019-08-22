@@ -14,7 +14,7 @@
   "type": "Lightning Talk",
   "language": "de",
   "abstract": "A walk through of how I implemented PAL analog color television using ffmpeg, GNU Radio Companion and the rad1o.",
-  "description": "[Hackaday Project Page](https://hackaday.io/project/14904-analog-tv-broadcast-of-the-new-age)",
+  "description": "[Hackaday Project Page](https://hackaday.io/project/14904-analog-tv-broadcast-of-the-new-age)\r\n[Slides](https://pad.c3loc.de/p/Digital_Analog_TV)",
   "recording_license": "",
   "do_not_record": false,
   "persons": [

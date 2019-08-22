@@ -1,5 +1,5 @@
 <schedule>
-  <version>Gacrux; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 11:00</version>
+  <version>Gacrux; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 11:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -2963,7 +2963,8 @@ Finally we will give some ideas on how to read between the lines in datasheets. 
         <type>Lightning Talk</type>
         <language>de</language>
         <abstract>A walk through of how I implemented PAL analog color television using ffmpeg, GNU Radio Companion and the rad1o.</abstract>
-        <description>[Hackaday Project Page](https://hackaday.io/project/14904-analog-tv-broadcast-of-the-new-age)</description>
+        <description>[Hackaday Project Page](https://hackaday.io/project/14904-analog-tv-broadcast-of-the-new-age)&#13;
+[Slides](https://pad.c3loc.de/p/Digital_Analog_TV)</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -8069,54 +8070,6 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         </links>
       </event>
     </room>
-    <room name="Village:Milliways">
-      <event id="1338" guid="4b982349-7593-41ef-af01-0dc6348d2678">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Blockchain_Interoperability</url>
-        <logo/>
-        <date>2019-08-23T19:00:00+02:00</date>
-        <start>19:00</start>
-        <duration>1:00</duration>
-        <room>Village:Milliways</room>
-        <slug>camp2019-1338-session_blockchain_interoperability</slug>
-        <title>Blockchain Interoperability</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Unidirectional and bidirectional crosschain transfers using NIPoPoWs and Proof-of-Burn</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gtklocker">Gtklocker</person>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Dionyziz">Dionyziz</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1342" guid="dff8659b-3e7a-5769-9704-b7555b16d525">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Modding_Milliways_-_Low-poly_Whiskyleaks</url>
-        <logo/>
-        <date>2019-08-23T18:00:00+02:00</date>
-        <start>18:00</start>
-        <duration>2:00</duration>
-        <room>Village:Milliways</room>
-        <slug>camp2019-1342-session_modding_milliways_low_poly_whiskyleaks</slug>
-        <title>Modding Milliways - Low-poly Whiskyleaks</title>
-        <subtitle>Low-poly buildup pt.4</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>en</language>
-        <abstract/>
-        <description>A livestream at Milliways of CCC being modded into a videogame</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Awtnmy">Awtnmy</person>
-        </persons>
-        <links>
-          <link>http://wiki.offgridthegame.com/index.php?title=Milliways_CCCamp_mod</link>
-          <link>https://github.com/IuriLeitaoMartinho/OffGridMilliwaysMod</link>
-          <link>https://www.twitch.tv/semaeopus</link>
-          <link>http://www.offgridthegame.com</link>
-        </links>
-      </event>
-    </room>
     <room name="Village:NixOS">
       <event id="1042" guid="68994b27-2215-45aa-bfa0-b9f3440c7e17">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Bootstrapping_NixOS</url>
@@ -8757,6 +8710,33 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Tamberg">Tamberg</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="Village:Milliways">
+      <event id="1342" guid="dff8659b-3e7a-5769-9704-b7555b16d525">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Modding_Milliways_-_Low-poly_Whiskyleaks</url>
+        <logo/>
+        <date>2019-08-23T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>2:00</duration>
+        <room>Village:Milliways</room>
+        <slug>camp2019-1342-session_modding_milliways_low_poly_whiskyleaks</slug>
+        <title>Modding Milliways - Low-poly Whiskyleaks</title>
+        <subtitle>Low-poly buildup pt.4</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>en</language>
+        <abstract/>
+        <description>A livestream at Milliways of CCC being modded into a videogame</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Awtnmy">Awtnmy</person>
+        </persons>
+        <links>
+          <link>http://wiki.offgridthegame.com/index.php?title=Milliways_CCCamp_mod</link>
+          <link>https://github.com/IuriLeitaoMartinho/OffGridMilliwaysMod</link>
+          <link>https://www.twitch.tv/semaeopus</link>
+          <link>http://www.offgridthegame.com</link>
+        </links>
       </event>
     </room>
     <room name="Village:C-base">
@@ -10122,6 +10102,27 @@ Live spielen die Muckemacher in voller Bandbesetzung mit Schlagzeug, Bass, Gitar
         <description>What does information controls look like in conflict states of India? How does indias surveillance apparatus further intensify the information controls in conflict areas? How does this affect the everyday life of people esp women living and promoting peace in these regions?</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1338" guid="4b982349-7593-41ef-af01-0dc6348d2678">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Blockchain_Interoperability</url>
+        <logo/>
+        <date>2019-08-24T12:30:00+02:00</date>
+        <start>12:30</start>
+        <duration>0:25</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1338-session_blockchain_interoperability</slug>
+        <title>Blockchain Interoperability</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Unidirectional and bidirectional crosschain transfers using NIPoPoWs and Proof-of-Burn</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gtklocker">Gtklocker</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Dionyziz">Dionyziz</person>
         </persons>
         <links/>
       </event>

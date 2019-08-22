@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Gacrux; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 11:00",
+    "version": "Gacrux; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-22 11:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -3389,7 +3389,7 @@
                 "type": "Lightning Talk",
                 "language": "de",
                 "abstract": "A walk through of how I implemented PAL analog color television using ffmpeg, GNU Radio Companion and the rad1o.",
-                "description": "[Hackaday Project Page](https://hackaday.io/project/14904-analog-tv-broadcast-of-the-new-age)",
+                "description": "[Hackaday Project Page](https://hackaday.io/project/14904-analog-tv-broadcast-of-the-new-age)\r\n[Slides](https://pad.c3loc.de/p/Digital_Analog_TV)",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -9041,70 +9041,6 @@
                 ]
               }
             ],
-            "Village:Milliways": [
-              {
-                "id": 1338,
-                "guid": "4b982349-7593-41ef-af01-0dc6348d2678",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Blockchain_Interoperability",
-                "logo": null,
-                "date": "2019-08-23T19:00:00+02:00",
-                "start": "19:00",
-                "duration": "1:00",
-                "room": "Village:Milliways",
-                "slug": "camp2019-1338-session_blockchain_interoperability",
-                "title": "Blockchain Interoperability",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Unidirectional and bidirectional crosschain transfers using NIPoPoWs and Proof-of-Burn",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gtklocker",
-                    "public_name": "Gtklocker"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Dionyziz",
-                    "public_name": "Dionyziz"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1342,
-                "guid": "dff8659b-3e7a-5769-9704-b7555b16d525",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Modding_Milliways_-_Low-poly_Whiskyleaks",
-                "logo": null,
-                "date": "2019-08-23T18:00:00+02:00",
-                "start": "18:00",
-                "duration": "2:00",
-                "room": "Village:Milliways",
-                "slug": "camp2019-1342-session_modding_milliways_low_poly_whiskyleaks",
-                "title": "Modding Milliways - Low-poly Whiskyleaks",
-                "subtitle": "Low-poly buildup pt.4",
-                "track": "self organized sessions",
-                "type": "game",
-                "language": "en",
-                "abstract": "",
-                "description": "A livestream at Milliways of CCC being modded into a videogame",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Awtnmy",
-                    "public_name": "Awtnmy"
-                  }
-                ],
-                "links": [
-                  "http://wiki.offgridthegame.com/index.php?title=Milliways_CCCamp_mod",
-                  "https://github.com/IuriLeitaoMartinho/OffGridMilliwaysMod",
-                  "https://www.twitch.tv/semaeopus",
-                  "http://www.offgridthegame.com"
-                ]
-              }
-            ],
             "Village:NixOS": [
               {
                 "id": 1042,
@@ -9913,6 +9849,39 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Village:Milliways": [
+              {
+                "id": 1342,
+                "guid": "dff8659b-3e7a-5769-9704-b7555b16d525",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Modding_Milliways_-_Low-poly_Whiskyleaks",
+                "logo": null,
+                "date": "2019-08-23T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "2:00",
+                "room": "Village:Milliways",
+                "slug": "camp2019-1342-session_modding_milliways_low_poly_whiskyleaks",
+                "title": "Modding Milliways - Low-poly Whiskyleaks",
+                "subtitle": "Low-poly buildup pt.4",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "en",
+                "abstract": "",
+                "description": "A livestream at Milliways of CCC being modded into a videogame",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Awtnmy",
+                    "public_name": "Awtnmy"
+                  }
+                ],
+                "links": [
+                  "http://wiki.offgridthegame.com/index.php?title=Milliways_CCCamp_mod",
+                  "https://github.com/IuriLeitaoMartinho/OffGridMilliwaysMod",
+                  "https://www.twitch.tv/semaeopus",
+                  "http://www.offgridthegame.com"
+                ]
               }
             ],
             "Village:C-base": [
@@ -11341,6 +11310,37 @@
                     "id": 0,
                     "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
                     "public_name": "Gnunicorn"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1338,
+                "guid": "4b982349-7593-41ef-af01-0dc6348d2678",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Blockchain_Interoperability",
+                "logo": null,
+                "date": "2019-08-24T12:30:00+02:00",
+                "start": "12:30",
+                "duration": "0:25",
+                "room": "Village:About:freedom",
+                "slug": "camp2019-1338-session_blockchain_interoperability",
+                "title": "Blockchain Interoperability",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Unidirectional and bidirectional crosschain transfers using NIPoPoWs and Proof-of-Burn",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gtklocker",
+                    "public_name": "Gtklocker"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Dionyziz",
+                    "public_name": "Dionyziz"
                   }
                 ],
                 "links": []
