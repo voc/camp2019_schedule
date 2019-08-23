@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-23 14:10</version>
+  <version>2019-08-23 14:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -3461,7 +3461,7 @@
         <type>other</type>
         <language/>
         <abstract/>
-        <description>20:30-22:30  Las Vegas Lady  Sensual tunes and electronic beats: Welcome to this shiny abyss.   http://soundcloud.com/lasvegaslady       22:30-00:00  Planète Concrète is an open universe staged by strange / loving creatures. Diy instruments, music performance and visual elements are the main instruments of this pink noise constellation  http://ooooo.be/planeteconcrete/  https://soundcloud.com/planeteconcrete http://planeteconcrete.tumblr.com/</description>
+        <description>21:00 Anarchist Networking Party starting   22:00-23:00  Las Vegas Lady  Sensual tunes and electronic beats: Welcome to this shiny abyss.   http://soundcloud.com/lasvegaslady       23:00-00:00  Planète Concrète is an open universe staged by strange / loving creatures. Diy instruments, music performance and visual elements are the main instruments of this pink noise constellation  http://ooooo.be/planeteconcrete/  https://soundcloud.com/planeteconcrete http://planeteconcrete.tumblr.com/</description>
         <persons/>
         <links/>
       </event>
@@ -5105,11 +5105,13 @@
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language/>
+        <language>en</language>
         <abstract/>
-        <description/>
+        <description>Hands-on matrix server</description>
         <persons/>
-        <links/>
+        <links>
+          <link>https://matrix.org/</link>
+        </links>
       </event>
       <event id="1496" guid="640a6b0b-6dca-4cde-9c5e-050c9ca64378">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Terraform_and_Docker_to_selfhost</url>

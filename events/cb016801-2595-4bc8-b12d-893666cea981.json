@@ -12,9 +12,11 @@
   "subtitle": "",
   "track": "self organized sessions",
   "type": "workshop",
-  "language": "",
+  "language": "en",
   "abstract": "",
-  "description": "",
+  "description": "Hands-on matrix server",
   "persons": [],
-  "links": []
+  "links": [
+    "https://matrix.org/"
+  ]
 }

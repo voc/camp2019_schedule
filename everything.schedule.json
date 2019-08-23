@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 14:10",
+    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 14:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -9033,7 +9033,7 @@
                 "type": "other",
                 "language": "",
                 "abstract": "",
-                "description": "20:30-22:30  Las Vegas Lady  Sensual tunes and electronic beats: Welcome to this shiny abyss.   http://soundcloud.com/lasvegaslady       22:30-00:00  Plan\u00e8te Concr\u00e8te is an open universe staged by strange / loving creatures. Diy instruments, music performance and visual elements are the main instruments of this pink noise constellation  http://ooooo.be/planeteconcrete/  https://soundcloud.com/planeteconcrete http://planeteconcrete.tumblr.com/",
+                "description": "21:00 Anarchist Networking Party starting   22:00-23:00  Las Vegas Lady  Sensual tunes and electronic beats: Welcome to this shiny abyss.   http://soundcloud.com/lasvegaslady       23:00-00:00  Plan\u00e8te Concr\u00e8te is an open universe staged by strange / loving creatures. Diy instruments, music performance and visual elements are the main instruments of this pink noise constellation  http://ooooo.be/planeteconcrete/  https://soundcloud.com/planeteconcrete http://planeteconcrete.tumblr.com/",
                 "persons": [],
                 "links": []
               },
@@ -11069,11 +11069,13 @@
                 "subtitle": "",
                 "track": "self organized sessions",
                 "type": "workshop",
-                "language": "",
+                "language": "en",
                 "abstract": "",
-                "description": "",
+                "description": "Hands-on matrix server",
                 "persons": [],
-                "links": []
+                "links": [
+                  "https://matrix.org/"
+                ]
               },
               {
                 "id": 1496,
