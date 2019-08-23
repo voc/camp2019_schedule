@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 14:30",
+    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 14:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -10110,6 +10110,28 @@
                     "public_name": "M1P3"
                   }
                 ],
+                "links": []
+              }
+            ],
+            "Village:MOiN": [
+              {
+                "id": 1508,
+                "guid": "74d4991d-1d90-4790-8f79-7e564f221509",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Bl%C3%A5haj-Versammlung",
+                "logo": null,
+                "date": "2019-08-23T20:00:00+02:00",
+                "start": "20:00",
+                "duration": "1:00",
+                "room": "Village:MOiN",
+                "slug": "camp2019-1508-session_blhaj_versammlung",
+                "title": "Bl\u00e5haj-Versammlung",
+                "subtitle": "All Fischies welcome!",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "da",
+                "abstract": "",
+                "description": "Bl\u00e5haj-Versammlung",
+                "persons": [],
                 "links": []
               }
             ],

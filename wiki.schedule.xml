@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-23 14:30</version>
+  <version>2019-08-23 14:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -4324,6 +4324,26 @@
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:M1P3">M1P3</person>
         </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Village:MOiN">
+      <event id="1508" guid="74d4991d-1d90-4790-8f79-7e564f221509">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Bl%C3%A5haj-Versammlung</url>
+        <logo/>
+        <date>2019-08-23T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Village:MOiN</room>
+        <slug>camp2019-1508-session_blhaj_versammlung</slug>
+        <title>Blåhaj-Versammlung</title>
+        <subtitle>All Fischies welcome!</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>da</language>
+        <abstract/>
+        <description>Blåhaj-Versammlung</description>
+        <persons/>
         <links/>
       </event>
     </room>
