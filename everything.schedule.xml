@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 17:30</version>
+  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 17:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -7743,6 +7743,26 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <description>Our "little" journey to understand how to save the human species and presentation of our project to save us all.</description>
         <persons/>
         <links/>
+      </event>
+      <event id="1542" guid="20362bd2-234d-47d7-b949-b153759bdaa3">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Planet_A_Handshaking_Party_-_Popcorn_and_Berliner_Luft_available!</url>
+        <logo/>
+        <date>2019-08-23T20:30:00+02:00</date>
+        <start>20:30</start>
+        <duration>3:30</duration>
+        <room>Village:Social Dist0rtion Protocol</room>
+        <slug>camp2019-1542-session_planet_a_handshaking_party_popcorn_and_berliner_luft_available_</slug>
+        <title>Planet A Handshaking Party - Popcorn and Berliner Luft available!</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>en</language>
+        <abstract/>
+        <description>Come to the Social Dist0rtion Protocol Village to get your Planet A passport and meet fellow players to handshake and coordinate!</description>
+        <persons/>
+        <links>
+          <link>https://planeta.leap.rocks/</link>
+        </links>
       </event>
       <event id="1476" guid="b322ec7c-ffd6-45f0-8fd1-52b2b1bd19ab">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Planet_A_embassy_is_open!_Come_and_get_your_passport!</url>
