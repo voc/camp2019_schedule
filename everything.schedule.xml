@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 15:10</version>
+  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 15:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -8103,26 +8103,6 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
           <link>http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence</link>
         </links>
       </event>
-      <event id="1431" guid="6dda4de7-658f-45d7-a512-4389c8087809">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Mental_Training_Against_Sexual_Harassment</url>
-        <logo/>
-        <date>2019-08-23T15:00:00+02:00</date>
-        <start>15:00</start>
-        <duration>1:30</duration>
-        <room>Village:1komona</room>
-        <slug>camp2019-1431-session_mental_training_against_sexual_harassment</slug>
-        <title>Mental Training Against Sexual Harassment</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Once I told a friend about a situation where I was sexually harassed and froze, could not move, shrinked. She asked me to describe the situation and about my preferred reaction. Then we role played the situation. This scheme helped me a lot for real situations. This is what we want to do. More info below...</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Karlabyrinth">Karlabyrinth</person>
-        </persons>
-        <links/>
-      </event>
       <event id="1374" guid="8f1f9a69-e055-49fd-a557-d013c7b325ed">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Networking_Basics_on_the_Command_Line</url>
         <logo/>
@@ -11854,6 +11834,26 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <links>
           <link>http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence</link>
         </links>
+      </event>
+      <event id="1431" guid="6dda4de7-658f-45d7-a512-4389c8087809">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Mental_Training_Against_Sexual_Harassment</url>
+        <logo/>
+        <date>2019-08-24T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1431-session_mental_training_against_sexual_harassment</slug>
+        <title>Mental Training Against Sexual Harassment</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Once I told a friend about a situation where I was sexually harassed and froze, could not move, shrinked. She asked me to describe the situation and about my preferred reaction. Then we role played the situation. This scheme helped me a lot for real situations. This is what we want to do. More info below...</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Karlabyrinth">Karlabyrinth</person>
+        </persons>
+        <links/>
       </event>
       <event id="1377" guid="c89e556c-382d-4a2d-8935-296d5f545cc6">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Patterns_for_Decentralization</url>
