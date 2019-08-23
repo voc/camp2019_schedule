@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 17:10",
+    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 17:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -1652,34 +1652,6 @@
                 ],
                 "links": [
                   "https://foodhackingbase.org/wiki/Tempeh_making_ccccamp2019"
-                ]
-              },
-              {
-                "id": 1373,
-                "guid": "b5d29270-8b60-4317-9639-041eb2f3a418",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Whiskey_tasting",
-                "logo": null,
-                "date": "2019-08-21T22:00:00+02:00",
-                "start": "22:00",
-                "duration": "1:30",
-                "room": "Village:Foodhackingbase",
-                "slug": "camp2019-1373-session_whiskey_tasting",
-                "title": "Whiskey tasting",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Tasting different whiskeys",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Algoldor",
-                    "public_name": "Algoldor"
-                  }
-                ],
-                "links": [
-                  "https://foodhackingbase.org/wiki/Whiskytasting_ccccamp2019"
                 ]
               }
             ],
@@ -5003,30 +4975,7 @@
               }
             ],
             "Fireplace (Workshop THM)Hackcenter": [],
-            "Hackcenter 1": [
-              {
-                "id": 1062,
-                "guid": "56989b98-d3d7-44db-a9c5-db4553adeed2",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:EightOS",
-                "logo": null,
-                "date": "2019-08-22T20:00:00+02:00",
-                "start": "20:00",
-                "duration": "1:00",
-                "room": "Hackcenter 1",
-                "slug": "camp2019-1062-session_eightos",
-                "title": "EightOS",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "!!! Time change !!! A physical practice session: bodymind operating system \u2014 human firmware update. Hackcenter is the meeting point. We will do the session at a space outside.",
-                "persons": [],
-                "links": [
-                  "http://www.8os.io"
-                ]
-              }
-            ],
+            "Hackcenter 1": [],
             "Hackcenter 3": [],
             "Fireplace (Workshop THM)": [
               {
@@ -6084,6 +6033,28 @@
                 "links": [
                   "http://z-uno.z-wave.me"
                 ]
+              },
+              {
+                "id": 1062,
+                "guid": "56989b98-d3d7-44db-a9c5-db4553adeed2",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:EightOS",
+                "logo": null,
+                "date": "2019-08-22T20:00:00+02:00",
+                "start": "20:00",
+                "duration": "1:00",
+                "room": "Hackcenter",
+                "slug": "camp2019-1062-session_eightos",
+                "title": "EightOS",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "!!! Time change !!! A physical practice session: bodymind operating system \u2014 human firmware update. Hackcenter is the meeting point. We will do the session at a space outside.",
+                "persons": [],
+                "links": [
+                  "http://www.8os.io"
+                ]
               }
             ],
             "Village:ChaosZone": [
@@ -6649,32 +6620,6 @@
                 "links": [
                   "https://www.2600.com/content/future-hope"
                 ]
-              },
-              {
-                "id": 1143,
-                "guid": "0ef423eb-0595-4918-9f30-6158ea6227e5",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Whiskyleaks",
-                "logo": null,
-                "date": "2019-08-22T20:00:00+02:00",
-                "start": "20:00",
-                "duration": "5:00",
-                "room": "Village:Milliways",
-                "slug": "camp2019-1143-session_whiskyleaks",
-                "title": "Whiskyleaks",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "",
-                "abstract": "",
-                "description": "The traditional Milliways Whiskyleaks, bring a nice bottle of liquor and a glass and share it with other fine human beings, donations welcome.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Adventureloop",
-                    "public_name": "Adventureloop"
-                  }
-                ],
-                "links": []
               }
             ],
             "Seating area south of Milliways (S9 on map)": [
@@ -10015,6 +9960,28 @@
                 ]
               },
               {
+                "id": 1539,
+                "guid": "78013ffc-62d6-4051-b3a0-4b771d9f89e5",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:EightOS",
+                "logo": null,
+                "date": "2019-08-23T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "2:00",
+                "room": "Hackcenter",
+                "slug": "camp2019-1539-session_eightos",
+                "title": "EightOS",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "!!! Time change !!! A physical practice session: bodymind operating system \u2014 human firmware update. Hackcenter is the meeting point. We will do the session at a space outside.",
+                "persons": [],
+                "links": [
+                  "http://www.8os.io"
+                ]
+              },
+              {
                 "id": 1232,
                 "guid": "fe13b901-cc23-4258-91cb-631e29cebe39",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:SUSI.AI_Open_Source_Voice_Assistant",
@@ -13212,6 +13179,28 @@
                 ]
               },
               {
+                "id": 1541,
+                "guid": "69c67934-eb42-4b17-90ae-18fb7bf8b681",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:How2kicad",
+                "logo": null,
+                "date": "2019-08-24T20:30:00+02:00",
+                "start": "20:30",
+                "duration": "2:00",
+                "room": "Village:HardwareHackingArea",
+                "slug": "camp2019-1541-session_how2kicad",
+                "title": "How2kicad",
+                "subtitle": "how2kicad",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "kicad pcb schematic beginner workshop",
+                "persons": [],
+                "links": [
+                  "http://kicad-pcb.org"
+                ]
+              },
+              {
                 "id": 1212,
                 "guid": "dd6684d6-ee37-4d95-8be4-9fbb29f2cb46",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Icibici",
@@ -13516,6 +13505,28 @@
                 ]
               },
               {
+                "id": 1540,
+                "guid": "2d051993-196f-5cdc-af7f-6a0d71415a87",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:EightOS",
+                "logo": null,
+                "date": "2019-08-24T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "2:00",
+                "room": "Hackcenter",
+                "slug": "camp2019-1540-session_eightos",
+                "title": "EightOS",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "!!! Time change !!! A physical practice session: bodymind operating system \u2014 human firmware update. Hackcenter is the meeting point. We will do the session at a space outside.",
+                "persons": [],
+                "links": [
+                  "http://www.8os.io"
+                ]
+              },
+              {
                 "id": 1538,
                 "guid": "145004d6-950a-4512-9e16-72ad7fca8fca",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:How_to_design_a_DIY_keyboard_for_you",
@@ -13574,26 +13585,6 @@
                 "language": "",
                 "abstract": "",
                 "description": "Come join us to hack on OONI code: https://github.com/ooni.",
-                "persons": [],
-                "links": []
-              },
-              {
-                "id": 1489,
-                "guid": "039689b0-0433-44e2-b0e7-8de8ef67d1b7",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:What_the_weather",
-                "logo": null,
-                "date": "2019-08-24T17:00:00+02:00",
-                "start": "17:00",
-                "duration": "0:45",
-                "room": "Hackcenter",
-                "slug": "camp2019-1489-session_what_the_weather",
-                "title": "What the weather",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "Learn about how models are used in weather prediction and more",
                 "persons": [],
                 "links": []
               }
