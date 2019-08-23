@@ -1,0 +1,28 @@
+{
+  "id": 1536,
+  "guid": "2817e1cc-6808-483d-9f6c-7bf609f1f90e",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Brainstorming_about_Camp/Congress_Schedule_2019_for_Android",
+  "logo": null,
+  "date": "2019-08-23T19:00:00+02:00",
+  "start": "19:00",
+  "duration": "1:30",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1536-session_brainstorming_about_camp_congress_schedule_2019_for_android",
+  "title": "Brainstorming about Camp/Congress Schedule 2019 for Android",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "discussion",
+  "language": "en",
+  "abstract": "",
+  "description": "Let's brainstorm about the Camp Schedule app for Android.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Tbsprs",
+      "public_name": "Tbsprs"
+    }
+  ],
+  "links": [
+    "https://github.com/EventFahrplan/EventFahrplan"
+  ]
+}

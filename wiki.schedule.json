@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-23 16:20",
+    "version": "2019-08-23 16:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -4887,6 +4887,34 @@
                 "links": []
               },
               {
+                "id": 1536,
+                "guid": "2817e1cc-6808-483d-9f6c-7bf609f1f90e",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Brainstorming_about_Camp/Congress_Schedule_2019_for_Android",
+                "logo": null,
+                "date": "2019-08-23T19:00:00+02:00",
+                "start": "19:00",
+                "duration": "1:30",
+                "room": "Village:About:freedom",
+                "slug": "camp2019-1536-session_brainstorming_about_camp_congress_schedule_2019_for_android",
+                "title": "Brainstorming about Camp/Congress Schedule 2019 for Android",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "Let's brainstorm about the Camp Schedule app for Android.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Tbsprs",
+                    "public_name": "Tbsprs"
+                  }
+                ],
+                "links": [
+                  "https://github.com/EventFahrplan/EventFahrplan"
+                ]
+              },
+              {
                 "id": 1251,
                 "guid": "c806c61c-521f-4f89-a836-064f5575b3a3",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:C3Sus_Ride_excellent_with_each_other",
@@ -8609,6 +8637,34 @@
                 "links": [
                   "https://ecohackerfarm.org/"
                 ]
+              }
+            ],
+            "Village:Milliways": [
+              {
+                "id": 1537,
+                "guid": "92cf4be0-1d93-4ee7-a42a-5ca3b680a9f3",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_Chromebook",
+                "logo": null,
+                "date": "2019-08-24T21:00:00+02:00",
+                "start": "21:00",
+                "duration": "1:00",
+                "room": "Village:Milliways",
+                "slug": "camp2019-1537-session_hacking_chromebook",
+                "title": "Hacking Chromebook",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "en",
+                "abstract": "",
+                "description": "Reinstall any OS other than Chrome on a Chromebook",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Snotje",
+                    "public_name": "Snotje"
+                  }
+                ],
+                "links": []
               }
             ],
             "Village:Italian Hackers' Embassy": [
