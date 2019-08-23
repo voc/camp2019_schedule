@@ -1,0 +1,22 @@
+{
+  "id": 1506,
+  "guid": "1c2d895b-d6f8-4b18-b82b-d8cdfad844c0",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:BornHack_Party",
+  "logo": null,
+  "date": "2019-08-23T22:00:00+02:00",
+  "start": "22:00",
+  "duration": "7:00",
+  "room": "Village:BornHack",
+  "slug": "camp2019-1506-session_bornhack_party",
+  "title": "BornHack Party",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "other",
+  "language": "en",
+  "abstract": "",
+  "description": "A party to celebrate that BornHack 2019 went well, and to drink the leftover booze",
+  "persons": [],
+  "links": [
+    "https://bornhack.dk"
+  ]
+}

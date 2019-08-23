@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-23 13:50</version>
+  <version>2019-08-23 14:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -4370,6 +4370,28 @@
         </persons>
         <links>
           <link>https://susi.ai</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:BornHack">
+      <event id="1506" guid="1c2d895b-d6f8-4b18-b82b-d8cdfad844c0">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:BornHack_Party</url>
+        <logo/>
+        <date>2019-08-23T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>7:00</duration>
+        <room>Village:BornHack</room>
+        <slug>camp2019-1506-session_bornhack_party</slug>
+        <title>BornHack Party</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>en</language>
+        <abstract/>
+        <description>A party to celebrate that BornHack 2019 went well, and to drink the leftover booze</description>
+        <persons/>
+        <links>
+          <link>https://bornhack.dk</link>
         </links>
       </event>
     </room>
