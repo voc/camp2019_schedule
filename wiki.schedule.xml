@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-23 01:10</version>
+  <version>2019-08-23 02:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -3263,6 +3263,26 @@
         <description>Our "little" journey to understand how to save the human species and presentation of our project to save us all.</description>
         <persons/>
         <links/>
+      </event>
+      <event id="1476" guid="b322ec7c-ffd6-45f0-8fd1-52b2b1bd19ab">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Planet_A_embassy_is_open!_Come_and_get_your_passport!</url>
+        <logo/>
+        <date>2019-08-23T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>3:00</duration>
+        <room>Village:Social Dist0rtion Protocol</room>
+        <slug>camp2019-1476-session_planet_a_embassy_is_open_come_and_get_your_passport_</slug>
+        <title>Planet A embassy is open! Come and get your passport!</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>en</language>
+        <abstract/>
+        <description>The Planet A embassy is open. Come to the Social Dist0rtion Protocol village to get your passport and play the game :)</description>
+        <persons/>
+        <links>
+          <link>https://planeta.leap.rocks/</link>
+        </links>
       </event>
     </room>
     <room name="Village:Backspace">

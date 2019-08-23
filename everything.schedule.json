@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 01:10",
+    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 02:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -8690,6 +8690,28 @@
                 "description": "Our \"little\" journey to understand how to save the human species and presentation of our project to save us all.",
                 "persons": [],
                 "links": []
+              },
+              {
+                "id": 1476,
+                "guid": "b322ec7c-ffd6-45f0-8fd1-52b2b1bd19ab",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Planet_A_embassy_is_open!_Come_and_get_your_passport!",
+                "logo": null,
+                "date": "2019-08-23T13:00:00+02:00",
+                "start": "13:00",
+                "duration": "3:00",
+                "room": "Village:Social Dist0rtion Protocol",
+                "slug": "camp2019-1476-session_planet_a_embassy_is_open_come_and_get_your_passport_",
+                "title": "Planet A embassy is open! Come and get your passport!",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "en",
+                "abstract": "",
+                "description": "The Planet A embassy is open. Come to the Social Dist0rtion Protocol village to get your passport and play the game :)",
+                "persons": [],
+                "links": [
+                  "https://planeta.leap.rocks/"
+                ]
               }
             ],
             "Village:Backspace": [
