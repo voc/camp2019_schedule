@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-23 10:30</version>
+  <version>2019-08-23 11:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -3185,28 +3185,6 @@
       </event>
     </room>
     <room name="Goldberg (Workshop 2)">
-      <event id="1321" guid="1953ae86-7a6b-4a3f-b80f-71490d017842">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen</url>
-        <logo/>
-        <date>2019-08-23T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>1:00</duration>
-        <room>Goldberg (Workshop 2)</room>
-        <slug>camp2019-1321-session_binaergewitter_hoerertreffen</slug>
-        <title>Binärgewitter Hörertreffen</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>Hörertreffen des Binärgewitter Podcasts</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Makefu">Makefu</person>
-        </persons>
-        <links>
-          <link>https://krepel.us</link>
-        </links>
-      </event>
       <event id="1316" guid="01a0c21a-8b90-4387-9198-8e80cccb18a8">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Extra_Thumb_Workshop</url>
         <logo/>
@@ -3882,6 +3860,114 @@
         </links>
       </event>
     </room>
+    <room name="Village:NixOS">
+      <event id="1321" guid="1953ae86-7a6b-4a3f-b80f-71490d017842">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen</url>
+        <logo/>
+        <date>2019-08-23T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Village:NixOS</room>
+        <slug>camp2019-1321-session_binaergewitter_hoerertreffen</slug>
+        <title>Binärgewitter Hörertreffen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Hörertreffen des Binärgewitter Podcasts</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Makefu">Makefu</person>
+        </persons>
+        <links>
+          <link>https://krepel.us</link>
+        </links>
+      </event>
+      <event id="1042" guid="68994b27-2215-45aa-bfa0-b9f3440c7e17">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Bootstrapping_NixOS</url>
+        <logo/>
+        <date>2019-08-23T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Village:NixOS</room>
+        <slug>camp2019-1042-session_bootstrapping_nixos</slug>
+        <title>Bootstrapping NixOS</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>learn how Nixers bootstrap their hosts</description>
+        <persons/>
+        <links>
+          <link>https://krebsco.de</link>
+        </links>
+      </event>
+      <event id="1462" guid="370642b8-90b4-4f8e-8933-e4d9ca328a02">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Let%E2%80%99s_play_EmptyEpsilon_(Bridge_Simulator)</url>
+        <logo/>
+        <date>2019-08-23T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>Village:NixOS</room>
+        <slug>camp2019-1462-session_let_s_play_emptyepsilon_bridge_simulator_</slug>
+        <title>Let’s play EmptyEpsilon (Bridge Simulator)</title>
+        <subtitle>Take 2</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Let’s play a spaceship bridge simulator together (we are noobs)</description>
+        <persons/>
+        <links>
+          <link>https://daid.github.io/EmptyEpsilon/</link>
+        </links>
+      </event>
+      <event id="1109" guid="2ec27fbb-3f33-4515-8228-db6205370168">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:NixOS_contribution_discussion</url>
+        <logo/>
+        <date>2019-08-23T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Village:NixOS</room>
+        <slug>camp2019-1109-session_nixos_contribution_discussion</slug>
+        <title>NixOS contribution discussion</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>discussion about NixOS contribution workflow</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Palo">Palo</person>
+        </persons>
+        <links>
+          <link>https://git.ingolf-wagner.de/palo/nixos-diagrams</link>
+        </links>
+      </event>
+      <event id="1136" guid="0c8e57af-799e-4378-a318-07fbd1b1da3f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Terranix</url>
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>0:45</duration>
+        <room>Village:NixOS</room>
+        <slug>camp2019-1136-session_terranix</slug>
+        <title>Terranix</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>A NixOS way to create terraform json files.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Palo">Palo</person>
+        </persons>
+        <links>
+          <link>https://terranix.org/</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:About:freedom">
       <event id="1258" guid="c26c1327-b087-4f31-93d8-394eece62ae5">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Bits%26B%C3%A4ume_%26_Co:_How_to_shape_a_responsible_world%3F</url>
@@ -4285,92 +4371,6 @@
         </persons>
         <links>
           <link>https://susi.ai</link>
-        </links>
-      </event>
-    </room>
-    <room name="Village:NixOS">
-      <event id="1042" guid="68994b27-2215-45aa-bfa0-b9f3440c7e17">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Bootstrapping_NixOS</url>
-        <logo/>
-        <date>2019-08-23T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Village:NixOS</room>
-        <slug>camp2019-1042-session_bootstrapping_nixos</slug>
-        <title>Bootstrapping NixOS</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>de</language>
-        <abstract/>
-        <description>learn how Nixers bootstrap their hosts</description>
-        <persons/>
-        <links>
-          <link>https://krebsco.de</link>
-        </links>
-      </event>
-      <event id="1462" guid="370642b8-90b4-4f8e-8933-e4d9ca328a02">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Let%E2%80%99s_play_EmptyEpsilon_(Bridge_Simulator)</url>
-        <logo/>
-        <date>2019-08-23T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>1:30</duration>
-        <room>Village:NixOS</room>
-        <slug>camp2019-1462-session_let_s_play_emptyepsilon_bridge_simulator_</slug>
-        <title>Let’s play EmptyEpsilon (Bridge Simulator)</title>
-        <subtitle>Take 2</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>Let’s play a spaceship bridge simulator together (we are noobs)</description>
-        <persons/>
-        <links>
-          <link>https://daid.github.io/EmptyEpsilon/</link>
-        </links>
-      </event>
-      <event id="1109" guid="2ec27fbb-3f33-4515-8228-db6205370168">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:NixOS_contribution_discussion</url>
-        <logo/>
-        <date>2019-08-23T18:00:00+02:00</date>
-        <start>18:00</start>
-        <duration>1:00</duration>
-        <room>Village:NixOS</room>
-        <slug>camp2019-1109-session_nixos_contribution_discussion</slug>
-        <title>NixOS contribution discussion</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>discussion about NixOS contribution workflow</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Palo">Palo</person>
-        </persons>
-        <links>
-          <link>https://git.ingolf-wagner.de/palo/nixos-diagrams</link>
-        </links>
-      </event>
-      <event id="1136" guid="0c8e57af-799e-4378-a318-07fbd1b1da3f">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Terranix</url>
-        <logo/>
-        <date>2019-08-23T15:00:00+02:00</date>
-        <start>15:00</start>
-        <duration>0:45</duration>
-        <room>Village:NixOS</room>
-        <slug>camp2019-1136-session_terranix</slug>
-        <title>Terranix</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>A NixOS way to create terraform json files.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Palo">Palo</person>
-        </persons>
-        <links>
-          <link>https://terranix.org/</link>
         </links>
       </event>
     </room>
@@ -6329,6 +6329,26 @@
         <language>de</language>
         <abstract/>
         <description>Let's hack words is a session for everyone, who wants to explore creative writing, build worlds and lets characters dive into adventures. Or - for a start - just wants to get rid of hacker's block.</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
+    <room name="Village:Italian Hackers' Embassy">
+      <event id="1483" guid="eacca4c7-d154-4861-9467-ee2327e9caf5">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Mastro_Gippo%27s_Ghost_Talk</url>
+        <logo/>
+        <date>2019-08-24T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Village:Italian Hackers' Embassy</room>
+        <slug>camp2019-1483-session_mastro_gippo_s_ghost_talk</slug>
+        <title>Mastro Gippo's Ghost Talk</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Pen Test of security controls</description>
         <persons/>
         <links/>
       </event>
