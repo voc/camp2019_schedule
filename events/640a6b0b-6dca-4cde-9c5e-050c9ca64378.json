@@ -1,0 +1,26 @@
+{
+  "id": 1496,
+  "guid": "640a6b0b-6dca-4cde-9c5e-050c9ca64378",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Terraform_and_Docker_to_selfhost",
+  "logo": null,
+  "date": "2019-08-23T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "1:00",
+  "room": "Village:Librehosters",
+  "slug": "camp2019-1496-session_terraform_and_docker_to_selfhost",
+  "title": "Terraform and Docker to selfhost",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Nemo",
+      "public_name": "Nemo"
+    }
+  ],
+  "links": []
+}

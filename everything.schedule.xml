@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 12:10</version>
+  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 12:20</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -5234,26 +5234,6 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
         </persons>
         <links/>
       </event>
-      <event id="1451" guid="303002d1-2d0d-45c2-86bd-026b888f9cc3">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Movies_screening_%22weird_Germany_series%22_-_day_2_:_The_old_Kasper_Hauser</url>
-        <logo/>
-        <date>2019-08-22T21:30:00+02:00</date>
-        <start>21:30</start>
-        <duration>1:45</duration>
-        <room>Village:1komona</room>
-        <slug>camp2019-1451-session_movies_screening_weird_germany_series_day_2_the_old_kasper_hauser</slug>
-        <title>Movies screening "weird Germany series" - day 2 : The old Kasper Hauser</title>
-        <subtitle>psychik video's "weird Germany series" at Librehosters' cinema</subtitle>
-        <track>self organized sessions</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description>Feature movie about the story of Kasper Hauser starring a beautiful soul called Bruno S. in the role of the legendary German foundling boy.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Agnez">Agnez</person>
-        </persons>
-        <links/>
-      </event>
       <event id="1331" guid="500f0955-5369-5612-bcb0-19da2505a670">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>
         <logo/>
@@ -5890,6 +5870,26 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
         <links>
           <link>https://libreho.st/</link>
         </links>
+      </event>
+      <event id="1451" guid="303002d1-2d0d-45c2-86bd-026b888f9cc3">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Movies_screening_%22weird_Germany_series%22_-_day_2_:_The_old_Kasper_Hauser</url>
+        <logo/>
+        <date>2019-08-22T21:30:00+02:00</date>
+        <start>21:30</start>
+        <duration>1:45</duration>
+        <room>Village:Librehosters</room>
+        <slug>camp2019-1451-session_movies_screening_weird_germany_series_day_2_the_old_kasper_hauser</slug>
+        <title>Movies screening "weird Germany series" - day 2 : The old Kasper Hauser</title>
+        <subtitle>psychik video's "weird Germany series" at Librehosters' cinema</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Feature movie about the story of Kasper Hauser starring a beautiful soul called Bruno S. in the role of the legendary German foundling boy.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Agnez">Agnez</person>
+        </persons>
+        <links/>
       </event>
     </room>
     <room name="Village:Milliways">
@@ -8367,6 +8367,26 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <links/>
       </event>
     </room>
+    <room name="Village:Singularity City">
+      <event id="1495" guid="0fabf409-d4d1-4432-a8e5-1df28fcee25b">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Aufbau_eines_Sensornetzes_mit_LoRaWAN</url>
+        <logo/>
+        <date>2019-08-23T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Village:Singularity City</room>
+        <slug>camp2019-1495-session_aufbau_eines_sensornetzes_mit_lorawan</slug>
+        <title>Aufbau eines Sensornetzes mit LoRaWAN</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Kurze technische Einführung in die Grundlagen von LoRa und LoRaWAN</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
     <room name="Village:Scottish Consulate">
       <event id="1036" guid="31fcf2eb-ad14-47f8-971c-7f06b2d8c178">
         <url>https://events.ccc.de/camp/2019/wiki/Session:BSD_Users_and_Developers_Meetup</url>
@@ -9646,6 +9666,26 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <links>
           <link>https://libreho.st/</link>
         </links>
+      </event>
+      <event id="1496" guid="640a6b0b-6dca-4cde-9c5e-050c9ca64378">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Terraform_and_Docker_to_selfhost</url>
+        <logo/>
+        <date>2019-08-23T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Village:Librehosters</room>
+        <slug>camp2019-1496-session_terraform_and_docker_to_selfhost</slug>
+        <title>Terraform and Docker to selfhost</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Nemo">Nemo</person>
+        </persons>
+        <links/>
       </event>
       <event id="1420" guid="4b72c9b7-1fe5-4f4b-9a31-21c0de7e9303">
         <url>https://events.ccc.de/camp/2019/wiki/Session:YunoHost_workshop:_install_your_own!</url>

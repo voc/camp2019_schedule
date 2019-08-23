@@ -1,0 +1,20 @@
+{
+  "id": 1495,
+  "guid": "0fabf409-d4d1-4432-a8e5-1df28fcee25b",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Aufbau_eines_Sensornetzes_mit_LoRaWAN",
+  "logo": null,
+  "date": "2019-08-23T17:00:00+02:00",
+  "start": "17:00",
+  "duration": "1:00",
+  "room": "Village:Singularity City",
+  "slug": "camp2019-1495-session_aufbau_eines_sensornetzes_mit_lorawan",
+  "title": "Aufbau eines Sensornetzes mit LoRaWAN",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Kurze technische Einf\u00fchrung in die Grundlagen von LoRa und LoRaWAN",
+  "persons": [],
+  "links": []
+}

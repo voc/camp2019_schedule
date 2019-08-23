@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-23 12:10",
+    "version": "2019-08-23 12:20",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -2477,32 +2477,6 @@
                 "links": []
               },
               {
-                "id": 1451,
-                "guid": "303002d1-2d0d-45c2-86bd-026b888f9cc3",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Movies_screening_%22weird_Germany_series%22_-_day_2_:_The_old_Kasper_Hauser",
-                "logo": null,
-                "date": "2019-08-22T21:30:00+02:00",
-                "start": "21:30",
-                "duration": "1:45",
-                "room": "Village:1komona",
-                "slug": "camp2019-1451-session_movies_screening_weird_germany_series_day_2_the_old_kasper_hauser",
-                "title": "Movies screening \"weird Germany series\" - day 2 : The old Kasper Hauser",
-                "subtitle": "psychik video's \"weird Germany series\" at Librehosters' cinema",
-                "track": "self organized sessions",
-                "type": "other",
-                "language": "de",
-                "abstract": "",
-                "description": "Feature movie about the story of Kasper Hauser starring a beautiful soul called Bruno S. in the role of the legendary German foundling boy.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Agnez",
-                    "public_name": "Agnez"
-                  }
-                ],
-                "links": []
-              },
-              {
                 "id": 1331,
                 "guid": "500f0955-5369-5612-bcb0-19da2505a670",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery",
@@ -3300,6 +3274,32 @@
                 "links": [
                   "https://libreho.st/"
                 ]
+              },
+              {
+                "id": 1451,
+                "guid": "303002d1-2d0d-45c2-86bd-026b888f9cc3",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Movies_screening_%22weird_Germany_series%22_-_day_2_:_The_old_Kasper_Hauser",
+                "logo": null,
+                "date": "2019-08-22T21:30:00+02:00",
+                "start": "21:30",
+                "duration": "1:45",
+                "room": "Village:Librehosters",
+                "slug": "camp2019-1451-session_movies_screening_weird_germany_series_day_2_the_old_kasper_hauser",
+                "title": "Movies screening \"weird Germany series\" - day 2 : The old Kasper Hauser",
+                "subtitle": "psychik video's \"weird Germany series\" at Librehosters' cinema",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "de",
+                "abstract": "",
+                "description": "Feature movie about the story of Kasper Hauser starring a beautiful soul called Bruno S. in the role of the legendary German foundling boy.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Agnez",
+                    "public_name": "Agnez"
+                  }
+                ],
+                "links": []
               }
             ],
             "Village:Milliways": [
@@ -4715,6 +4715,28 @@
                     "public_name": "Kliment"
                   }
                 ],
+                "links": []
+              }
+            ],
+            "Village:Singularity City": [
+              {
+                "id": 1495,
+                "guid": "0fabf409-d4d1-4432-a8e5-1df28fcee25b",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Aufbau_eines_Sensornetzes_mit_LoRaWAN",
+                "logo": null,
+                "date": "2019-08-23T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "1:00",
+                "room": "Village:Singularity City",
+                "slug": "camp2019-1495-session_aufbau_eines_sensornetzes_mit_lorawan",
+                "title": "Aufbau eines Sensornetzes mit LoRaWAN",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Kurze technische Einf\u00fchrung in die Grundlagen von LoRa und LoRaWAN",
+                "persons": [],
                 "links": []
               }
             ],
@@ -6317,6 +6339,32 @@
                 "links": [
                   "https://libreho.st/"
                 ]
+              },
+              {
+                "id": 1496,
+                "guid": "640a6b0b-6dca-4cde-9c5e-050c9ca64378",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Terraform_and_Docker_to_selfhost",
+                "logo": null,
+                "date": "2019-08-23T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "1:00",
+                "room": "Village:Librehosters",
+                "slug": "camp2019-1496-session_terraform_and_docker_to_selfhost",
+                "title": "Terraform and Docker to selfhost",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Nemo",
+                    "public_name": "Nemo"
+                  }
+                ],
+                "links": []
               },
               {
                 "id": 1420,
