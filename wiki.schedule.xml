@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-23 22:50</version>
+  <version>2019-08-23 23:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -6007,8 +6007,8 @@
       <event id="1572" guid="2594e286-bfa9-4544-8e64-491467094168">
         <url>https://events.ccc.de/camp/2019/wiki/Session:P2panda</url>
         <logo/>
-        <date>2019-08-24T17:00:00+02:00</date>
-        <start>17:00</start>
+        <date>2019-08-24T16:00:00+02:00</date>
+        <start>16:00</start>
         <duration>0:45</duration>
         <room>Village:1komona</room>
         <slug>camp2019-1572-session_p2panda</slug>
