@@ -1,0 +1,26 @@
+{
+  "id": 1534,
+  "guid": "81e3ec2b-c7f2-4b88-8476-34c404b81e85",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Between_rationality,_transhumanism_and_AI_alarmism",
+  "logo": null,
+  "date": "2019-08-24T13:00:00+02:00",
+  "start": "13:00",
+  "duration": "1:00",
+  "room": "Village:NixOS",
+  "slug": "camp2019-1534-session_between_rationality_transhumanism_and_ai_alarmism",
+  "title": "Between rationality, transhumanism and AI alarmism",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "discussion",
+  "language": "en",
+  "abstract": "",
+  "description": "Some groups believe that intelligent machines are going to take over the world sooner or later. Part of the transhumanist movement sees this as redemption, another part is prophesying human extinction and working frantically on solutions. What should we make of this? This session will start with an introduction to the topic that leads into a critical, open, political, philosophical and technological discussion.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Morn",
+      "public_name": "Morn"
+    }
+  ],
+  "links": []
+}

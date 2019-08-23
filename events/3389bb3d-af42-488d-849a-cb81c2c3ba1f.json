@@ -1,0 +1,26 @@
+{
+  "id": 1535,
+  "guid": "3389bb3d-af42-488d-849a-cb81c2c3ba1f",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:OpenCMOS:_the_why_and_how_of_truly_open_hardware",
+  "logo": null,
+  "date": "2019-08-24T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "1:00",
+  "room": "Village:NixOS",
+  "slug": "camp2019-1535-session_opencmos_the_why_and_how_of_truly_open_hardware",
+  "title": "OpenCMOS: the why and how of truly open hardware",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "discussion",
+  "language": "en",
+  "abstract": "",
+  "description": "With so much activity in the the open hardware world, why do we have no open source silicon chips yet? Why do we need them and what do we need to do to get them?",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Morn",
+      "public_name": "Morn"
+    }
+  ],
+  "links": []
+}

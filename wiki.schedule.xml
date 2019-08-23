@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-23 16:00</version>
+  <version>2019-08-23 16:20</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -154,24 +154,6 @@
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
         </persons>
-        <links/>
-      </event>
-      <event id="1277" guid="fc8fb444-0f23-4b1c-84fa-d36ddf78c50c">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Wie_funktioniert_ein_Sicherheitsgurt</url>
-        <logo/>
-        <date>2019-08-21T20:00:00+02:00</date>
-        <start>20:00</start>
-        <duration>0:45</duration>
-        <room>Village:Haecksen</room>
-        <slug>camp2019-1277-session_wie_funktioniert_ein_sicherheitsgurt</slug>
-        <title>Wie funktioniert ein Sicherheitsgurt</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>How seatbelt retractors work</description>
-        <persons/>
         <links/>
       </event>
     </room>
@@ -1337,28 +1319,6 @@
         </persons>
         <links>
           <link>https://git.card10.badge.events.ccc.de/astro/rust-card10</link>
-        </links>
-      </event>
-      <event id="1248" guid="de5f9fba-3854-4a9d-b3f0-69e409f01b79">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Why_NixOS%3F</url>
-        <logo/>
-        <date>2019-08-22T12:00:00+02:00</date>
-        <start>12:00</start>
-        <duration>0:45</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1248-session_why_nixos_</slug>
-        <title>Why NixOS?</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>A Presentation about NixOS for newcomers.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Palo">Palo</person>
-        </persons>
-        <links>
-          <link>https://tech.ingolf-wagner.de/slides/why-nixos/</link>
         </links>
       </event>
     </room>
@@ -4222,28 +4182,6 @@
           <link>https://kusama.network/</link>
         </links>
       </event>
-      <event id="1356" guid="7642b89a-7920-4796-85c6-29437a8da2bb">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Wifi4EU_-_broken_by_technical_specifications</url>
-        <logo/>
-        <date>2019-08-23T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>0:55</duration>
-        <room>Village:About:freedom</room>
-        <slug>camp2019-1356-session_wifi4eu_broken_by_technical_specifications</slug>
-        <title>Wifi4EU - broken by technical specifications</title>
-        <subtitle>about:stage</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>With the Wifi4EU programm the EU is planning to spend 100 million € by 2020 to subsidise a centralized surveillance infrastructure for centers of public life in the EU. The talk will lay out how Wifi4EU is supposed to work both administratively and technically, where there are problems with the later and what is and can be done about it.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
-        </persons>
-        <links>
-          <link>https://zenodo.org/record/3236807#.XV1aVOgzbIU</link>
-        </links>
-      </event>
     </room>
     <room name="Hackcenter">
       <event id="1509" guid="4c9adb2b-0836-4669-87fa-075eb171fb5b">
@@ -6126,6 +6064,66 @@
         <links/>
       </event>
     </room>
+    <room name="Village:NixOS">
+      <event id="1534" guid="81e3ec2b-c7f2-4b88-8476-34c404b81e85">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Between_rationality,_transhumanism_and_AI_alarmism</url>
+        <logo/>
+        <date>2019-08-24T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
+        <room>Village:NixOS</room>
+        <slug>camp2019-1534-session_between_rationality_transhumanism_and_ai_alarmism</slug>
+        <title>Between rationality, transhumanism and AI alarmism</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Some groups believe that intelligent machines are going to take over the world sooner or later. Part of the transhumanist movement sees this as redemption, another part is prophesying human extinction and working frantically on solutions. What should we make of this? This session will start with an introduction to the topic that leads into a critical, open, political, philosophical and technological discussion.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Morn">Morn</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1490" guid="caf7a533-0791-4106-9f26-a1503f25a30b">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:NixOS_/_QubesOS_fusion</url>
+        <logo/>
+        <date>2019-08-24T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Village:NixOS</room>
+        <slug>camp2019-1490-session_nixos_qubesos_fusion</slug>
+        <title>NixOS / QubesOS fusion</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1535" guid="3389bb3d-af42-488d-849a-cb81c2c3ba1f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:OpenCMOS:_the_why_and_how_of_truly_open_hardware</url>
+        <logo/>
+        <date>2019-08-24T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Village:NixOS</room>
+        <slug>camp2019-1535-session_opencmos_the_why_and_how_of_truly_open_hardware</slug>
+        <title>OpenCMOS: the why and how of truly open hardware</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>With so much activity in the the open hardware world, why do we have no open source silicon chips yet? Why do we need them and what do we need to do to get them?</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Morn">Morn</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Hackcenter">
       <event id="1040" guid="6ad28881-1413-46a4-837a-315359e19aeb">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Body/Mind_Hardware/Software</url>
@@ -6956,26 +6954,6 @@
         <links>
           <link>https://librepcb.org/</link>
         </links>
-      </event>
-    </room>
-    <room name="Village:NixOS">
-      <event id="1490" guid="caf7a533-0791-4106-9f26-a1503f25a30b">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:NixOS_/_QubesOS_fusion</url>
-        <logo/>
-        <date>2019-08-24T15:00:00+02:00</date>
-        <start>15:00</start>
-        <duration>1:00</duration>
-        <room>Village:NixOS</room>
-        <slug>camp2019-1490-session_nixos_qubesos_fusion</slug>
-        <title>NixOS / QubesOS fusion</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <links/>
       </event>
     </room>
     <room name="Village:TEUrCamp">
