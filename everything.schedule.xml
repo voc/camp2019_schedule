@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 19:10</version>
+  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 19:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -12136,7 +12136,7 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <type>discussion</type>
         <language>en</language>
         <abstract/>
-        <description>Making ethical hosting projects accessible to non-geeks needs good communication</description>
+        <description>Making ethical hosting projects accessible to non-geeks needs good communication. If you want people to use your hosting services, they should be able to find and use them. I think every hoster should be a team of technicians and communicators. Communication means heaps of work, maybe we can do it together in a network? If we want a change and make people (some/many) turn away from the GAFAM we have to explane and translate tech topics to simple language. Collaboration is necessary to manage this big task. Can we work together on this in the Librehosters network? This session is an invitation to talk about that.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Agnez">Agnez</person>
         </persons>
