@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-23 12:40</version>
+  <version>2019-08-23 13:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -5820,7 +5820,7 @@
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>Tschernobyl Reisebericht + Q&amp;A</description>
+        <description>Tschernobyl Reisebericht + Q&amp;A / Chernobyl travel report and Q&amp;A</description>
         <persons/>
         <links/>
       </event>
