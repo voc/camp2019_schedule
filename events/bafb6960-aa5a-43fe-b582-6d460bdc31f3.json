@@ -1,0 +1,28 @@
+{
+  "id": 1548,
+  "guid": "bafb6960-aa5a-43fe-b582-6d460bdc31f3",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Kimchi_Making",
+  "logo": null,
+  "date": "2019-08-24T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "2:00",
+  "room": "Village:Foodhackingbase",
+  "slug": "camp2019-1548-session_kimchi_making",
+  "title": "Kimchi Making",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "Hands on making kimchi.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Algoldor",
+      "public_name": "Algoldor"
+    }
+  ],
+  "links": [
+    "https://foodhackingbase.org/wiki/Kimchi_making_ccccamp2019"
+  ]
+}

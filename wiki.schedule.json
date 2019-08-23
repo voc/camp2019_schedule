@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-23 19:50",
+    "version": "2019-08-23 20:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -6373,8 +6373,8 @@
                 "guid": "ac200bd3-0256-4a22-8958-c7ab3f3ba0f9",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Tesla_coil_show",
                 "logo": null,
-                "date": "2019-08-23T19:00:00+02:00",
-                "start": "19:00",
+                "date": "2019-08-23T21:00:00+02:00",
+                "start": "21:00",
                 "duration": "0:30",
                 "room": "Village:Milliways",
                 "slug": "camp2019-1475-session_tesla_coil_show",
@@ -6384,7 +6384,7 @@
                 "type": "outside",
                 "language": "en",
                 "abstract": "",
-                "description": "Omega Verksted will demo their home-made tesla coil.",
+                "description": "Omega Verksted will demo their home-made tesla coil, now in the dark..",
                 "persons": [],
                 "links": []
               }
@@ -6812,6 +6812,64 @@
             "Fireplace (Workshop THM)Hackcenter": [],
             "Hackcenter 1": [],
             "Hackcenter 3": [],
+            "Village:Foodhackingbase": [
+              {
+                "id": 1547,
+                "guid": "1daabc42-8bea-4bc1-b1c6-55d68554ceff",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Advanced_Probiotic_Brewing",
+                "logo": null,
+                "date": "2019-08-24T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "2:00",
+                "room": "Village:Foodhackingbase",
+                "slug": "camp2019-1547-session_advanced_probiotic_brewing",
+                "title": "Advanced Probiotic Brewing",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "Hands on workshop and discussion.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Algoldor",
+                    "public_name": "Algoldor"
+                  }
+                ],
+                "links": [
+                  "https://foodhackingbase.org/wiki/Advanced_brewing_ccccamp2019"
+                ]
+              },
+              {
+                "id": 1548,
+                "guid": "bafb6960-aa5a-43fe-b582-6d460bdc31f3",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Kimchi_Making",
+                "logo": null,
+                "date": "2019-08-24T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "2:00",
+                "room": "Village:Foodhackingbase",
+                "slug": "camp2019-1548-session_kimchi_making",
+                "title": "Kimchi Making",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Hands on making kimchi.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Algoldor",
+                    "public_name": "Algoldor"
+                  }
+                ],
+                "links": [
+                  "https://foodhackingbase.org/wiki/Kimchi_making_ccccamp2019"
+                ]
+              }
+            ],
             "Village:About:freedom": [
               {
                 "id": 1176,
@@ -7272,26 +7330,6 @@
                 "links": [
                   "https://stratum0.org/blog/posts/2014/03/06/how-to-stainless-steel-etching/"
                 ]
-              },
-              {
-                "id": 1503,
-                "guid": "33259ffa-c352-4cf4-9200-ec6e5a3ab677",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Tschernobyl",
-                "logo": null,
-                "date": "2019-08-24T17:00:00+02:00",
-                "start": "17:00",
-                "duration": "1:00",
-                "room": "Village:Singularity City",
-                "slug": "camp2019-1503-session_tschernobyl",
-                "title": "Tschernobyl",
-                "subtitle": "Tschernobyl Reisebericht und Q&A",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Tschernobyl Reisebericht + Q&A / Chernobyl travel report and Q&A",
-                "persons": [],
-                "links": []
               }
             ],
             "Village:HardwareHackingArea": [

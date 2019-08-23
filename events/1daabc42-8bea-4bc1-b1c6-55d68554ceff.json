@@ -1,0 +1,28 @@
+{
+  "id": 1547,
+  "guid": "1daabc42-8bea-4bc1-b1c6-55d68554ceff",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Advanced_Probiotic_Brewing",
+  "logo": null,
+  "date": "2019-08-24T14:00:00+02:00",
+  "start": "14:00",
+  "duration": "2:00",
+  "room": "Village:Foodhackingbase",
+  "slug": "camp2019-1547-session_advanced_probiotic_brewing",
+  "title": "Advanced Probiotic Brewing",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "discussion",
+  "language": "en",
+  "abstract": "",
+  "description": "Hands on workshop and discussion.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Algoldor",
+      "public_name": "Algoldor"
+    }
+  ],
+  "links": [
+    "https://foodhackingbase.org/wiki/Advanced_brewing_ccccamp2019"
+  ]
+}

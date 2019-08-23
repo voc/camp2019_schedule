@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-23 19:50</version>
+  <version>2019-08-23 20:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -5104,8 +5104,8 @@
       <event id="1475" guid="ac200bd3-0256-4a22-8958-c7ab3f3ba0f9">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Tesla_coil_show</url>
         <logo/>
-        <date>2019-08-23T19:00:00+02:00</date>
-        <start>19:00</start>
+        <date>2019-08-23T21:00:00+02:00</date>
+        <start>21:00</start>
         <duration>0:30</duration>
         <room>Village:Milliways</room>
         <slug>camp2019-1475-session_tesla_coil_show</slug>
@@ -5115,7 +5115,7 @@
         <type>outside</type>
         <language>en</language>
         <abstract/>
-        <description>Omega Verksted will demo their home-made tesla coil.</description>
+        <description>Omega Verksted will demo their home-made tesla coil, now in the dark..</description>
         <persons/>
         <links/>
       </event>
@@ -5441,6 +5441,52 @@
     <room name="Fireplace (Workshop THM)Hackcenter"/>
     <room name="Hackcenter 1"/>
     <room name="Hackcenter 3"/>
+    <room name="Village:Foodhackingbase">
+      <event id="1547" guid="1daabc42-8bea-4bc1-b1c6-55d68554ceff">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Advanced_Probiotic_Brewing</url>
+        <logo/>
+        <date>2019-08-24T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Village:Foodhackingbase</room>
+        <slug>camp2019-1547-session_advanced_probiotic_brewing</slug>
+        <title>Advanced Probiotic Brewing</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hands on workshop and discussion.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Algoldor">Algoldor</person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Advanced_brewing_ccccamp2019</link>
+        </links>
+      </event>
+      <event id="1548" guid="bafb6960-aa5a-43fe-b582-6d460bdc31f3">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Kimchi_Making</url>
+        <logo/>
+        <date>2019-08-24T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Village:Foodhackingbase</room>
+        <slug>camp2019-1548-session_kimchi_making</slug>
+        <title>Kimchi Making</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hands on making kimchi.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Algoldor">Algoldor</person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Kimchi_making_ccccamp2019</link>
+        </links>
+      </event>
+    </room>
     <room name="Village:About:freedom">
       <event id="1176" guid="a208d05f-cafd-4680-9f4e-760994a1202d">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Advanced_web_tracking_methods</url>
@@ -5795,24 +5841,6 @@
         <links>
           <link>https://stratum0.org/blog/posts/2014/03/06/how-to-stainless-steel-etching/</link>
         </links>
-      </event>
-      <event id="1503" guid="33259ffa-c352-4cf4-9200-ec6e5a3ab677">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Tschernobyl</url>
-        <logo/>
-        <date>2019-08-24T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>1:00</duration>
-        <room>Village:Singularity City</room>
-        <slug>camp2019-1503-session_tschernobyl</slug>
-        <title>Tschernobyl</title>
-        <subtitle>Tschernobyl Reisebericht und Q&amp;A</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Tschernobyl Reisebericht + Q&amp;A / Chernobyl travel report and Q&amp;A</description>
-        <persons/>
-        <links/>
       </event>
     </room>
     <room name="Village:HardwareHackingArea">
