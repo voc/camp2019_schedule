@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-23 15:40",
+    "version": "2019-08-23 16:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -210,28 +210,6 @@
                 "description": "How seatbelt retractors work",
                 "persons": [],
                 "links": []
-              },
-              {
-                "id": 1320,
-                "guid": "15d059be-acc8-4d88-a350-e7dc94ab2ca4",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Workshop_feminist_library",
-                "logo": null,
-                "date": "2019-08-21T21:00:00+02:00",
-                "start": "21:00",
-                "duration": "1:00",
-                "room": "Village:Haecksen",
-                "slug": "camp2019-1320-session_workshop_feminist_library",
-                "title": "Workshop feminist library",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "de",
-                "abstract": "",
-                "description": "Workshop to start the feminist library",
-                "persons": [],
-                "links": [
-                  "http://haecksen.org"
-                ]
               }
             ],
             "Village:1komona": [
@@ -2773,32 +2751,6 @@
                     "id": 0,
                     "url": "https://events.ccc.de/camp/2019/wiki/User:Dantetante",
                     "public_name": "Dantetante"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1249,
-                "guid": "a3c87f56-9cfa-454b-a6b5-4c2741ebc2c2",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Xspace_%E2%80%93_Solution_to_an_annoying_TeX_quirk",
-                "logo": null,
-                "date": "2019-08-22T13:00:00+02:00",
-                "start": "13:00",
-                "duration": "0:15",
-                "room": "Village:LaTeX",
-                "slug": "camp2019-1249-session_xspace_solution_to_an_annoying_tex_quirk",
-                "title": "Xspace \u2013 Solution to an annoying TeX quirk",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Let's have a look how xspace.sty makes TeX's treatment of whitespace more predictable!",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Fr%C3%B6belsuppe",
-                    "public_name": "Fr\u00f6belsuppe"
                   }
                 ],
                 "links": []
@@ -5494,6 +5446,32 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1532,
+                "guid": "d78feba9-ba87-4a13-833f-1fb6d714aad7",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Soldering_Workshop",
+                "logo": null,
+                "date": "2019-08-23T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "2:00",
+                "room": "Village:K\u00f6niglich Bayerisches Amtsvillage",
+                "slug": "camp2019-1532-session_soldering_workshop",
+                "title": "Soldering Workshop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Learn soldering",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Venti",
+                    "public_name": "Venti"
+                  }
+                ],
+                "links": []
               }
             ],
             "Village:MOiN": [
@@ -6041,26 +6019,6 @@
                     "public_name": "Fuero"
                   }
                 ],
-                "links": []
-              },
-              {
-                "id": 1339,
-                "guid": "7b8838c4-ecf1-4875-b647-b2054d817895",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:WoW!_Dancing_like_a_Blood_Elf...",
-                "logo": null,
-                "date": "2019-08-23T20:00:00+02:00",
-                "start": "20:00",
-                "duration": "0:45",
-                "room": "Village:Chaos-West",
-                "slug": "camp2019-1339-session_wow_dancing_like_a_blood_elf_",
-                "title": "WoW! Dancing like a Blood Elf...",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Learn how to dance for real like the male blood elf in world of warcraft in 5 steps. Beginner's class. All gender welcome!",
-                "persons": [],
                 "links": []
               }
             ],
@@ -8936,6 +8894,58 @@
                 ],
                 "links": [
                   "https://www.robokoding.com/kits/sumorobot"
+                ]
+              }
+            ],
+            "Village:K\u00f6niglich Bayerisches Amtsvillage": [
+              {
+                "id": 1531,
+                "guid": "da84bd56-71ff-4b33-876b-c8e77898a4b5",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Soldering_Workshop",
+                "logo": null,
+                "date": "2019-08-24T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "2:00",
+                "room": "Village:K\u00f6niglich Bayerisches Amtsvillage",
+                "slug": "camp2019-1531-session_soldering_workshop",
+                "title": "Soldering Workshop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Learn soldering",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Venti",
+                    "public_name": "Venti"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Fairydust": [
+              {
+                "id": 1533,
+                "guid": "edb206bb-59f2-4254-bd3a-224eacc4800f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Solifoto_f%C3%BCr_Unteilbar",
+                "logo": null,
+                "date": "2019-08-24T12:00:00+02:00",
+                "start": "12:00",
+                "duration": "0:15",
+                "room": "Fairydust",
+                "slug": "camp2019-1533-session_solifoto_fuer_unteilbar",
+                "title": "Solifoto f\u00fcr Unteilbar",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "outside",
+                "language": "de",
+                "abstract": "",
+                "description": "Wir machen ein solidarisches Foto f\u00fcr die Unteilbar-Demo am Samstag in Dresden.",
+                "persons": [],
+                "links": [
+                  "https://www.unteilbar.org/"
                 ]
               }
             ]

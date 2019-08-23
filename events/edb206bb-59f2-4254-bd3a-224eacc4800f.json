@@ -1,0 +1,22 @@
+{
+  "id": 1533,
+  "guid": "edb206bb-59f2-4254-bd3a-224eacc4800f",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Solifoto_f%C3%BCr_Unteilbar",
+  "logo": null,
+  "date": "2019-08-24T12:00:00+02:00",
+  "start": "12:00",
+  "duration": "0:15",
+  "room": "Fairydust",
+  "slug": "camp2019-1533-session_solifoto_fuer_unteilbar",
+  "title": "Solifoto f\u00fcr Unteilbar",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "outside",
+  "language": "de",
+  "abstract": "",
+  "description": "Wir machen ein solidarisches Foto f\u00fcr die Unteilbar-Demo am Samstag in Dresden.",
+  "persons": [],
+  "links": [
+    "https://www.unteilbar.org/"
+  ]
+}
