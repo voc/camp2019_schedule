@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-23 11:20</version>
+  <version>2019-08-23 11:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -5959,6 +5959,26 @@
         </persons>
         <links>
           <link>http://www.8os.io</link>
+        </links>
+      </event>
+      <event id="1488" guid="8e5dd139-3da2-4138-bc37-9c1738185ff7">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Like2hear_OpenHearingAid_for_field_research</url>
+        <logo/>
+        <date>2019-08-24T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1488-session_like2hear_openhearingaid_for_field_research</slug>
+        <title>Like2hear OpenHearingAid for field research</title>
+        <subtitle>Hear How You Like To Hear</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Introduction to and testing of the openhearingaid prototype #like2hear</description>
+        <persons/>
+        <links>
+          <link>https://www.buergerschaffenwissen.de/projekt/hear-how-you-hear</link>
         </links>
       </event>
     </room>

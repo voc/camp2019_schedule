@@ -1,0 +1,22 @@
+{
+  "id": 1488,
+  "guid": "8e5dd139-3da2-4138-bc37-9c1738185ff7",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Like2hear_OpenHearingAid_for_field_research",
+  "logo": null,
+  "date": "2019-08-24T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "1:00",
+  "room": "Hackcenter",
+  "slug": "camp2019-1488-session_like2hear_openhearingaid_for_field_research",
+  "title": "Like2hear OpenHearingAid for field research",
+  "subtitle": "Hear How You Like To Hear",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "en",
+  "abstract": "",
+  "description": "Introduction to and testing of the openhearingaid prototype #like2hear",
+  "persons": [],
+  "links": [
+    "https://www.buergerschaffenwissen.de/projekt/hear-how-you-hear"
+  ]
+}
