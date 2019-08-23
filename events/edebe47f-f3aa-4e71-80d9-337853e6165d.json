@@ -1,0 +1,22 @@
+{
+  "id": 1484,
+  "guid": "edebe47f-f3aa-4e71-80d9-337853e6165d",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Anf%C3%A4nger/Kinder-L%C3%B6tworkshop",
+  "logo": null,
+  "date": "2019-08-23T12:00:00+02:00",
+  "start": "12:00",
+  "duration": "5:00",
+  "room": "Village:Backspace",
+  "slug": "camp2019-1484-session_anfaenger_kinder_loetworkshop",
+  "title": "Anf\u00e4nger/Kinder-L\u00f6tworkshop",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "",
+  "language": "",
+  "abstract": "",
+  "description": "we solder a small beginners badge with a rgb-light",
+  "persons": [],
+  "links": [
+    "http://hackzogtum-coburg.de"
+  ]
+}

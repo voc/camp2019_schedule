@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 11:00</version>
+  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 11:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -7667,26 +7667,7 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
     </room>
     <room name="Fireplace (Workshop THM)Hackcenter"/>
     <room name="Hackcenter 1"/>
-    <room name="Hackcenter 3">
-      <event id="1052" guid="46bdea32-2063-4f57-9b69-8ae65516c241">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Contributing_to_nixpkgs_for_Newbies</url>
-        <logo/>
-        <date>2019-08-23T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>0:45</duration>
-        <room>Hackcenter 3</room>
-        <slug>camp2019-1052-session_contributing_to_nixpkgs_for_newbies</slug>
-        <title>Contributing to nixpkgs for Newbies</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Learn how you can contribute to the nixpkgs git repo</description>
-        <persons/>
-        <links/>
-      </event>
-    </room>
+    <room name="Hackcenter 3"/>
     <room name="Komona Stage">
       <event id="10447" guid="56967900-1040-4a3a-895c-5dea88a24d90">
         <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10447.html</url>
@@ -7921,6 +7902,26 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Advi">Advi</person>
         </persons>
         <links/>
+      </event>
+      <event id="1484" guid="edebe47f-f3aa-4e71-80d9-337853e6165d">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Anf%C3%A4nger/Kinder-L%C3%B6tworkshop</url>
+        <logo/>
+        <date>2019-08-23T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>5:00</duration>
+        <room>Village:Backspace</room>
+        <slug>camp2019-1484-session_anfaenger_kinder_loetworkshop</slug>
+        <title>Anfänger/Kinder-Lötworkshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>we solder a small beginners badge with a rgb-light</description>
+        <persons/>
+        <links>
+          <link>http://hackzogtum-coburg.de</link>
+        </links>
       </event>
       <event id="1328" guid="517cae14-fb5b-48aa-ae5b-5bfbda3f3f3b">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Beer_Tasting</url>
@@ -9387,6 +9388,24 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         </persons>
         <links/>
       </event>
+      <event id="1487" guid="fb842371-2080-4094-9df6-0fe199a05805">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Liquor_Tasting</url>
+        <logo/>
+        <date>2019-08-23T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>0:45</duration>
+        <room>Village:Chaos-West</room>
+        <slug>camp2019-1487-session_liquor_tasting</slug>
+        <title>Liquor Tasting</title>
+        <subtitle>Aufgesetzter von SiriusLee</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>I made some liquor with fruits and herbs and you can try it</description>
+        <persons/>
+        <links/>
+      </event>
       <event id="1355" guid="ed165662-1de2-482e-9db4-3cd6c1a43d48">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Redhat</url>
         <logo/>
@@ -9491,6 +9510,48 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         </persons>
         <links>
           <link>https://isomer.hackerfleet.eu</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Italian Hackers' Embassy">
+      <event id="1485" guid="82fe5e45-af8d-41b7-85b3-89ffefe13ec2">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Information_Overload_e_Social_Overload</url>
+        <logo/>
+        <date>2019-08-23T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Village:Italian Hackers' Embassy</room>
+        <slug>camp2019-1485-session_information_overload_e_social_overload</slug>
+        <title>Information Overload e Social Overload</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Digital Right</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1444" guid="f46b0724-f992-5099-a1d4-6c9794f7c0bf">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Portraits_of_Hackers_-_2019</url>
+        <logo/>
+        <date>2019-08-23T23:30:00+02:00</date>
+        <start>23:30</start>
+        <duration>1:00</duration>
+        <room>Village:Italian Hackers' Embassy</room>
+        <slug>camp2019-1444-session_portraits_of_hackers_2019</slug>
+        <title>Portraits of Hackers - 2019</title>
+        <subtitle>Portraits of Hackers - 2019 Edition</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Come and have your own Portrait taken!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Lastknight">Lastknight</person>
+        </persons>
+        <links>
+          <link>http://mgpf.it/release</link>
         </links>
       </event>
     </room>
@@ -9647,30 +9708,6 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <persons/>
         <links>
           <link>http://pentagame.org</link>
-        </links>
-      </event>
-    </room>
-    <room name="Village:Italian Hackers' Embassy">
-      <event id="1444" guid="f46b0724-f992-5099-a1d4-6c9794f7c0bf">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Portraits_of_Hackers_-_2019</url>
-        <logo/>
-        <date>2019-08-23T23:30:00+02:00</date>
-        <start>23:30</start>
-        <duration>1:00</duration>
-        <room>Village:Italian Hackers' Embassy</room>
-        <slug>camp2019-1444-session_portraits_of_hackers_2019</slug>
-        <title>Portraits of Hackers - 2019</title>
-        <subtitle>Portraits of Hackers - 2019 Edition</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>Come and have your own Portrait taken!</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Lastknight">Lastknight</person>
-        </persons>
-        <links>
-          <link>http://mgpf.it/release</link>
         </links>
       </event>
     </room>
@@ -12063,6 +12100,44 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         </links>
       </event>
     </room>
+    <room name="Village:Italian Hackers' Embassy">
+      <event id="1486" guid="0338e4a3-89c5-4395-bfc2-bb9cd0e6313f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:ItalianGrappa_Party</url>
+        <logo/>
+        <date>2019-08-24T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>5:00</duration>
+        <room>Village:Italian Hackers' Embassy</room>
+        <slug>camp2019-1486-session_italiangrappa_party</slug>
+        <title>ItalianGrappa Party</title>
+        <subtitle>Come on and Have fun with us!</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>en</language>
+        <abstract/>
+        <description>ItalianGrappa Party</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1483" guid="eacca4c7-d154-4861-9467-ee2327e9caf5">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Mastro_Gippo%27s_Ghost_Talk</url>
+        <logo/>
+        <date>2019-08-24T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Village:Italian Hackers' Embassy</room>
+        <slug>camp2019-1483-session_mastro_gippo_s_ghost_talk</slug>
+        <title>Mastro Gippo's Ghost Talk</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Pen Test of security controls</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
     <room name="Village:Metalab Dome">
       <event id="1222" guid="b7523425-acee-4679-96c6-4382236e43ba">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Let%27s_hack_words!</url>
@@ -12079,26 +12154,6 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <language>de</language>
         <abstract/>
         <description>Let's hack words is a session for everyone, who wants to explore creative writing, build worlds and lets characters dive into adventures. Or - for a start - just wants to get rid of hacker's block.</description>
-        <persons/>
-        <links/>
-      </event>
-    </room>
-    <room name="Village:Italian Hackers' Embassy">
-      <event id="1483" guid="eacca4c7-d154-4861-9467-ee2327e9caf5">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Mastro_Gippo%27s_Ghost_Talk</url>
-        <logo/>
-        <date>2019-08-24T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:00</duration>
-        <room>Village:Italian Hackers' Embassy</room>
-        <slug>camp2019-1483-session_mastro_gippo_s_ghost_talk</slug>
-        <title>Mastro Gippo's Ghost Talk</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>Pen Test of security controls</description>
         <persons/>
         <links/>
       </event>

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 11:00",
+    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 11:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -8593,28 +8593,7 @@
             ],
             "Fireplace (Workshop THM)Hackcenter": [],
             "Hackcenter 1": [],
-            "Hackcenter 3": [
-              {
-                "id": 1052,
-                "guid": "46bdea32-2063-4f57-9b69-8ae65516c241",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Contributing_to_nixpkgs_for_Newbies",
-                "logo": null,
-                "date": "2019-08-23T14:00:00+02:00",
-                "start": "14:00",
-                "duration": "0:45",
-                "room": "Hackcenter 3",
-                "slug": "camp2019-1052-session_contributing_to_nixpkgs_for_newbies",
-                "title": "Contributing to nixpkgs for Newbies",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Learn how you can contribute to the nixpkgs git repo",
-                "persons": [],
-                "links": []
-              }
-            ],
+            "Hackcenter 3": [],
             "Komona Stage": [
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10447.html",
@@ -8855,6 +8834,28 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1484,
+                "guid": "edebe47f-f3aa-4e71-80d9-337853e6165d",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Anf%C3%A4nger/Kinder-L%C3%B6tworkshop",
+                "logo": null,
+                "date": "2019-08-23T12:00:00+02:00",
+                "start": "12:00",
+                "duration": "5:00",
+                "room": "Village:Backspace",
+                "slug": "camp2019-1484-session_anfaenger_kinder_loetworkshop",
+                "title": "Anf\u00e4nger/Kinder-L\u00f6tworkshop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "",
+                "abstract": "",
+                "description": "we solder a small beginners badge with a rgb-light",
+                "persons": [],
+                "links": [
+                  "http://hackzogtum-coburg.de"
+                ]
               },
               {
                 "id": 1328,
@@ -10666,6 +10667,26 @@
                 "links": []
               },
               {
+                "id": 1487,
+                "guid": "fb842371-2080-4094-9df6-0fe199a05805",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Liquor_Tasting",
+                "logo": null,
+                "date": "2019-08-23T22:00:00+02:00",
+                "start": "22:00",
+                "duration": "0:45",
+                "room": "Village:Chaos-West",
+                "slug": "camp2019-1487-session_liquor_tasting",
+                "title": "Liquor Tasting",
+                "subtitle": "Aufgesetzter von SiriusLee",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "",
+                "abstract": "",
+                "description": "I made some liquor with fruits and herbs and you can try it",
+                "persons": [],
+                "links": []
+              },
+              {
                 "id": 1355,
                 "guid": "ed165662-1de2-482e-9db4-3cd6c1a43d48",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Redhat",
@@ -10795,6 +10816,56 @@
                 ],
                 "links": [
                   "https://isomer.hackerfleet.eu"
+                ]
+              }
+            ],
+            "Village:Italian Hackers' Embassy": [
+              {
+                "id": 1485,
+                "guid": "82fe5e45-af8d-41b7-85b3-89ffefe13ec2",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Information_Overload_e_Social_Overload",
+                "logo": null,
+                "date": "2019-08-23T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "Village:Italian Hackers' Embassy",
+                "slug": "camp2019-1485-session_information_overload_e_social_overload",
+                "title": "Information Overload e Social Overload",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "Digital Right",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1444,
+                "guid": "f46b0724-f992-5099-a1d4-6c9794f7c0bf",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Portraits_of_Hackers_-_2019",
+                "logo": null,
+                "date": "2019-08-23T23:30:00+02:00",
+                "start": "23:30",
+                "duration": "1:00",
+                "room": "Village:Italian Hackers' Embassy",
+                "slug": "camp2019-1444-session_portraits_of_hackers_2019",
+                "title": "Portraits of Hackers - 2019",
+                "subtitle": "Portraits of Hackers - 2019 Edition",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "Come and have your own Portrait taken!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Lastknight",
+                    "public_name": "Lastknight"
+                  }
+                ],
+                "links": [
+                  "http://mgpf.it/release"
                 ]
               }
             ],
@@ -10989,36 +11060,6 @@
                 "persons": [],
                 "links": [
                   "http://pentagame.org"
-                ]
-              }
-            ],
-            "Village:Italian Hackers' Embassy": [
-              {
-                "id": 1444,
-                "guid": "f46b0724-f992-5099-a1d4-6c9794f7c0bf",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Portraits_of_Hackers_-_2019",
-                "logo": null,
-                "date": "2019-08-23T23:30:00+02:00",
-                "start": "23:30",
-                "duration": "1:00",
-                "room": "Village:Italian Hackers' Embassy",
-                "slug": "camp2019-1444-session_portraits_of_hackers_2019",
-                "title": "Portraits of Hackers - 2019",
-                "subtitle": "Portraits of Hackers - 2019 Edition",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "Come and have your own Portrait taken!",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Lastknight",
-                    "public_name": "Lastknight"
-                  }
-                ],
-                "links": [
-                  "http://mgpf.it/release"
                 ]
               }
             ],
@@ -13711,6 +13752,48 @@
                 ]
               }
             ],
+            "Village:Italian Hackers' Embassy": [
+              {
+                "id": 1486,
+                "guid": "0338e4a3-89c5-4395-bfc2-bb9cd0e6313f",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:ItalianGrappa_Party",
+                "logo": null,
+                "date": "2019-08-24T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "5:00",
+                "room": "Village:Italian Hackers' Embassy",
+                "slug": "camp2019-1486-session_italiangrappa_party",
+                "title": "ItalianGrappa Party",
+                "subtitle": "Come on and Have fun with us!",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "en",
+                "abstract": "",
+                "description": "ItalianGrappa Party",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1483,
+                "guid": "eacca4c7-d154-4861-9467-ee2327e9caf5",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Mastro_Gippo%27s_Ghost_Talk",
+                "logo": null,
+                "date": "2019-08-24T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "Village:Italian Hackers' Embassy",
+                "slug": "camp2019-1483-session_mastro_gippo_s_ghost_talk",
+                "title": "Mastro Gippo's Ghost Talk",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "Pen Test of security controls",
+                "persons": [],
+                "links": []
+              }
+            ],
             "Village:Metalab Dome": [
               {
                 "id": 1222,
@@ -13729,28 +13812,6 @@
                 "language": "de",
                 "abstract": "",
                 "description": "Let's hack words is a session for everyone, who wants to explore creative writing, build worlds and lets characters dive into adventures. Or - for a start - just wants to get rid of hacker's block.",
-                "persons": [],
-                "links": []
-              }
-            ],
-            "Village:Italian Hackers' Embassy": [
-              {
-                "id": 1483,
-                "guid": "eacca4c7-d154-4861-9467-ee2327e9caf5",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Mastro_Gippo%27s_Ghost_Talk",
-                "logo": null,
-                "date": "2019-08-24T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "1:00",
-                "room": "Village:Italian Hackers' Embassy",
-                "slug": "camp2019-1483-session_mastro_gippo_s_ghost_talk",
-                "title": "Mastro Gippo's Ghost Talk",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "Pen Test of security controls",
                 "persons": [],
                 "links": []
               }
