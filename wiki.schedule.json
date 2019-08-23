@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-23 21:00",
+    "version": "2019-08-23 21:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -6367,34 +6367,6 @@
                 "links": []
               }
             ],
-            "Village:Moose Hillhackers": [
-              {
-                "id": 1481,
-                "guid": "26500b4f-e948-48dd-8f42-db690587d884",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Payment_Systems_in_India",
-                "logo": null,
-                "date": "2019-08-23T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "0:30",
-                "room": "Village:Moose Hillhackers",
-                "slug": "camp2019-1481-session_payment_systems_in_india",
-                "title": "Payment Systems in India",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "A primer to the state of Digital Payments in India",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Nemo",
-                    "public_name": "Nemo"
-                  }
-                ],
-                "links": []
-              }
-            ],
             "Village:C-base": [
               {
                 "id": 1115,
@@ -8832,6 +8804,34 @@
                 "links": [
                   "https://oscilloscopemusic.com"
                 ]
+              }
+            ],
+            "Village:Moose Hillhackers": [
+              {
+                "id": 1481,
+                "guid": "26500b4f-e948-48dd-8f42-db690587d884",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Payment_Systems_in_India",
+                "logo": null,
+                "date": "2019-08-24T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "0:30",
+                "room": "Village:Moose Hillhackers",
+                "slug": "camp2019-1481-session_payment_systems_in_india",
+                "title": "Payment Systems in India",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "A primer to the state of Digital Payments in India",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Nemo",
+                    "public_name": "Nemo"
+                  }
+                ],
+                "links": []
               }
             ],
             "Village:RoboVillage": [
