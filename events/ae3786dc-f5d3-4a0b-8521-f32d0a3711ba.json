@@ -1,0 +1,22 @@
+{
+  "id": 1549,
+  "guid": "ae3786dc-f5d3-4a0b-8521-f32d0a3711ba",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Let%E2%80%99s_play_EmptyEpsilon_(Bridge_Simulator)",
+  "logo": null,
+  "date": "2019-08-24T17:00:00+02:00",
+  "start": "17:00",
+  "duration": "1:30",
+  "room": "Village:NixOS",
+  "slug": "camp2019-1549-session_let_s_play_emptyepsilon_bridge_simulator_",
+  "title": "Let\u2019s play EmptyEpsilon (Bridge Simulator)",
+  "subtitle": "Take 3",
+  "track": "self organized sessions",
+  "type": "game",
+  "language": "de",
+  "abstract": "",
+  "description": "Let\u2019s play a spaceship bridge simulator together (we are noobs)",
+  "persons": [],
+  "links": [
+    "https://daid.github.io/EmptyEpsilon/"
+  ]
+}

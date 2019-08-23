@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 20:10",
+    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 21:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -8941,28 +8941,6 @@
                 "links": [
                   "https://it-kollektiv.com"
                 ]
-              },
-              {
-                "id": 1400,
-                "guid": "f4b1cb32-414a-46cc-881c-16e6c35b72a1",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Trickmisch_-_Trickfilme_erstellen",
-                "logo": null,
-                "date": "2019-08-23T15:00:00+02:00",
-                "start": "15:00",
-                "duration": "2:00",
-                "room": "Village:1komona",
-                "slug": "camp2019-1400-session_trickmisch_trickfilme_erstellen",
-                "title": "Trickmisch - Trickfilme erstellen",
-                "subtitle": "Trickfilmworkshop",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "",
-                "abstract": "",
-                "description": "Animate your own drawings or use our huge collection of images made by newcomers. you are kindly invited to animate them analog on a lighting table or online on trixmix.tv  You find us in the heart of code dome. (a very warm thank you at this point to Heart of Code for hosting us! :)",
-                "persons": [],
-                "links": [
-                  "http://trixmix.tv"
-                ]
               }
             ],
             "Village:HardwareHackingArea": [
@@ -13451,6 +13429,28 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1549,
+                "guid": "ae3786dc-f5d3-4a0b-8521-f32d0a3711ba",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Let%E2%80%99s_play_EmptyEpsilon_(Bridge_Simulator)",
+                "logo": null,
+                "date": "2019-08-24T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "1:30",
+                "room": "Village:NixOS",
+                "slug": "camp2019-1549-session_let_s_play_emptyepsilon_bridge_simulator_",
+                "title": "Let\u2019s play EmptyEpsilon (Bridge Simulator)",
+                "subtitle": "Take 3",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Let\u2019s play a spaceship bridge simulator together (we are noobs)",
+                "persons": [],
+                "links": [
+                  "https://daid.github.io/EmptyEpsilon/"
+                ]
               },
               {
                 "id": 1490,
