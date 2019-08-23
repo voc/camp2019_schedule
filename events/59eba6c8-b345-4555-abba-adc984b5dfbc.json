@@ -1,0 +1,38 @@
+{
+  "id": 1569,
+  "guid": "59eba6c8-b345-4555-abba-adc984b5dfbc",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters",
+  "logo": null,
+  "date": "2019-08-24T17:00:00+02:00",
+  "start": "17:00",
+  "duration": "0:30",
+  "room": "Village:Librehosters",
+  "slug": "camp2019-1569-session_meet_librehosters",
+  "title": "Meet librehosters",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "discussion",
+  "language": "en",
+  "abstract": "",
+  "description": "A daily timeslot to meet existing librehosters members and an open invitation to join  the discussion of the directions of the network.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Agnez",
+      "public_name": "Agnez"
+    },
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Realitygaps",
+      "public_name": "Realitygaps"
+    },
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Gust",
+      "public_name": "Gust"
+    }
+  ],
+  "links": [
+    "https://libreho.st/"
+  ]
+}

@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-23 21:50</version>
+  <version>2019-08-23 22:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -1834,14 +1834,14 @@
         </persons>
         <links/>
       </event>
-      <event id="1331" guid="500f0955-5369-5612-bcb0-19da2505a670">
+      <event id="1330" guid="96c09f00-222f-4053-b80a-4fb0ed5ab439">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>
         <logo/>
         <date>2019-08-22T15:15:00+02:00</date>
         <start>15:15</start>
         <duration>2:02</duration>
         <room>Village:1komona</room>
-        <slug>camp2019-1331-session_postapokalyptic_jewellery</slug>
+        <slug>camp2019-1330-session_postapokalyptic_jewellery</slug>
         <title>Postapokalyptic jewellery</title>
         <subtitle>scrap tinkering - schrottbasteln</subtitle>
         <track>self organized sessions</track>
@@ -2496,13 +2496,13 @@
       <event id="1341" guid="76a758fd-23da-4aa7-8d94-124a28e14e1d">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Modding_Milliways_-_Low-poly_Whiskyleaks</url>
         <logo/>
-        <date>2019-08-22T21:30:00+02:00</date>
-        <start>21:30</start>
+        <date>2019-08-22T18:00:00+02:00</date>
+        <start>18:00</start>
         <duration>2:00</duration>
         <room>Village:Milliways</room>
         <slug>camp2019-1341-session_modding_milliways_low_poly_whiskyleaks</slug>
         <title>Modding Milliways - Low-poly Whiskyleaks</title>
-        <subtitle>Low-poly buildup pt.3 Live @ Whiskyleaks</subtitle>
+        <subtitle>Low-poly buildup pt.2</subtitle>
         <track>self organized sessions</track>
         <type>game</type>
         <language>en</language>
@@ -2518,16 +2518,16 @@
           <link>http://www.offgridthegame.com</link>
         </links>
       </event>
-      <event id="1344" guid="83932d28-9edd-5e43-80b0-b9365a855284">
+      <event id="1571" guid="76a758fd-23da-4aa7-8d94-124a28e14e1e">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Modding_Milliways_-_Low-poly_Whiskyleaks</url>
         <logo/>
-        <date>2019-08-22T18:00:00+02:00</date>
-        <start>18:00</start>
+        <date>2019-08-22T21:30:00+02:00</date>
+        <start>21:30</start>
         <duration>2:00</duration>
         <room>Village:Milliways</room>
-        <slug>camp2019-1344-session_modding_milliways_low_poly_whiskyleaks</slug>
+        <slug>camp2019-1571-session_modding_milliways_low_poly_whiskyleaks</slug>
         <title>Modding Milliways - Low-poly Whiskyleaks</title>
-        <subtitle>Low-poly buildup pt.2</subtitle>
+        <subtitle>Low-poly buildup pt.3 Live @ Whiskyleaks</subtitle>
         <track>self organized sessions</track>
         <type>game</type>
         <language>en</language>
@@ -3340,14 +3340,14 @@
         <persons/>
         <links/>
       </event>
-      <event id="1457" guid="3e811174-99ef-5164-b2be-c5a11b9d1f25">
+      <event id="1575" guid="96c09f00-222f-4053-b80a-4fb0ed5ab440">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>
         <logo/>
         <date>2019-08-23T16:16:00+02:00</date>
         <start>16:16</start>
         <duration>2:02</duration>
         <room>Village:1komona</room>
-        <slug>camp2019-1457-session_postapokalyptic_jewellery</slug>
+        <slug>camp2019-1575-session_postapokalyptic_jewellery</slug>
         <title>Postapokalyptic jewellery</title>
         <subtitle>scrap tinkering - schrottbasteln</subtitle>
         <track>self organized sessions</track>
@@ -4759,6 +4759,26 @@
       </event>
     </room>
     <room name="Village:Digitalcourage">
+      <event id="1551" guid="34cc5457-b2a0-4083-a06d-036fdd6aabb9">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
+        <logo/>
+        <date>2019-08-23T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Village:Digitalcourage</room>
+        <slug>camp2019-1551-session_hacking_licence</slug>
+        <title>Hacking Licence</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Your daily basic hacking learning lesson.</description>
+        <persons/>
+        <links>
+          <link>https://digitalcourage.de</link>
+        </links>
+      </event>
       <event id="1514" guid="334bc30e-b5f8-4273-83c3-4df3147ecba7">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
         <logo/>
@@ -4779,34 +4799,14 @@
           <link>https://digitalcourage.de</link>
         </links>
       </event>
-      <event id="1526" guid="524d3911-375f-56a8-983e-a0f947aa5570">
+      <event id="1512" guid="34cc5457-b2a0-4083-a06d-036fdd6aabb8">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
         <logo/>
         <date>2019-08-23T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>1:00</duration>
         <room>Village:Digitalcourage</room>
-        <slug>camp2019-1526-session_hacking_licence</slug>
-        <title>Hacking Licence</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Your daily basic hacking learning lesson.</description>
-        <persons/>
-        <links>
-          <link>https://digitalcourage.de</link>
-        </links>
-      </event>
-      <event id="1530" guid="6a06f1ec-dc2d-580a-9e3f-d9389ef2a01e">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
-        <logo/>
-        <date>2019-08-23T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>1:00</duration>
-        <room>Village:Digitalcourage</room>
-        <slug>camp2019-1530-session_hacking_licence</slug>
+        <slug>camp2019-1512-session_hacking_licence</slug>
         <title>Hacking Licence</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -5036,14 +5036,14 @@
       </event>
     </room>
     <room name="Village:Milliways">
-      <event id="1342" guid="dff8659b-3e7a-5769-9704-b7555b16d525">
+      <event id="1570" guid="76a758fd-23da-4aa7-8d94-124a28e14e1f">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Modding_Milliways_-_Low-poly_Whiskyleaks</url>
         <logo/>
         <date>2019-08-23T18:00:00+02:00</date>
         <start>18:00</start>
         <duration>2:00</duration>
         <room>Village:Milliways</room>
-        <slug>camp2019-1342-session_modding_milliways_low_poly_whiskyleaks</slug>
+        <slug>camp2019-1570-session_modding_milliways_low_poly_whiskyleaks</slug>
         <title>Modding Milliways - Low-poly Whiskyleaks</title>
         <subtitle>Low-poly buildup pt.4</subtitle>
         <track>self organized sessions</track>
@@ -5986,6 +5986,26 @@
         </persons>
         <links/>
       </event>
+      <event id="1572" guid="2594e286-bfa9-4544-8e64-491467094168">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:P2panda</url>
+        <logo/>
+        <date>2019-08-24T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>0:45</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1572-session_p2panda</slug>
+        <title>P2panda</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language/>
+        <abstract/>
+        <description>p2panda is the idea of a p2p protocol to run decentralized and self-organized festivals initiated by the association "Liebe Chaos Verein e. V." based in Berlin - this session is a discussion of interested people of all directions, a space for strange, challenging and radical ideas on how we want to run the festivals of the future 8-)</description>
+        <persons/>
+        <links>
+          <link>https://github.com/adzialocha/p2panda-specification</link>
+        </links>
+      </event>
       <event id="1377" guid="c89e556c-382d-4a2d-8935-296d5f545cc6">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Patterns_for_Decentralization</url>
         <logo/>
@@ -6004,14 +6024,14 @@
         <persons/>
         <links/>
       </event>
-      <event id="1332" guid="c94ee149-84c1-5769-9c14-8eaccbcd4683">
+      <event id="1573" guid="96c09f00-222f-4053-b80a-4fb0ed5ab441">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>
         <logo/>
         <date>2019-08-24T15:15:00+02:00</date>
         <start>15:15</start>
         <duration>3:03</duration>
         <room>Village:1komona</room>
-        <slug>camp2019-1332-session_postapokalyptic_jewellery</slug>
+        <slug>camp2019-1573-session_postapokalyptic_jewellery</slug>
         <title>Postapokalyptic jewellery</title>
         <subtitle>scrap tinkering - schrottbasteln</subtitle>
         <track>self organized sessions</track>
@@ -6392,14 +6412,14 @@
         <persons/>
         <links/>
       </event>
-      <event id="1493" guid="891bf1b9-b6b7-5db5-acf3-514bc2cdd3ff">
+      <event id="1569" guid="59eba6c8-b345-4555-abba-adc984b5dfbc">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters</url>
         <logo/>
         <date>2019-08-24T17:00:00+02:00</date>
         <start>17:00</start>
         <duration>0:30</duration>
         <room>Village:Librehosters</room>
-        <slug>camp2019-1493-session_meet_librehosters</slug>
+        <slug>camp2019-1569-session_meet_librehosters</slug>
         <title>Meet librehosters</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -6480,74 +6500,14 @@
           <link>https://digitalcourage.de/digitale-selbstverteidigung</link>
         </links>
       </event>
-      <event id="1513" guid="e8953357-8a57-5b33-94b1-d83f48376e39">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
-        <logo/>
-        <date>2019-08-24T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>1:00</duration>
-        <room>Village:Digitalcourage</room>
-        <slug>camp2019-1513-session_hacking_licence</slug>
-        <title>Hacking Licence</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Your daily basic hacking learning lesson.</description>
-        <persons/>
-        <links>
-          <link>https://digitalcourage.de</link>
-        </links>
-      </event>
-      <event id="1518" guid="2f5b2fd4-977e-5541-85b6-350862431cda">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
-        <logo/>
-        <date>2019-08-24T10:00:00+02:00</date>
-        <start>10:00</start>
-        <duration>1:00</duration>
-        <room>Village:Digitalcourage</room>
-        <slug>camp2019-1518-session_hacking_licence</slug>
-        <title>Hacking Licence</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Your daily basic hacking learning lesson.</description>
-        <persons/>
-        <links>
-          <link>https://digitalcourage.de</link>
-        </links>
-      </event>
-      <event id="1520" guid="9e140cf4-56c9-5812-844d-1da66a8d74ca">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
-        <logo/>
-        <date>2019-08-24T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:00</duration>
-        <room>Village:Digitalcourage</room>
-        <slug>camp2019-1520-session_hacking_licence</slug>
-        <title>Hacking Licence</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Your daily basic hacking learning lesson.</description>
-        <persons/>
-        <links>
-          <link>https://digitalcourage.de</link>
-        </links>
-      </event>
-      <event id="1521" guid="7816b249-afda-5897-a7fc-5f1db2ea04b5">
+      <event id="1553" guid="34cc5457-b2a0-4083-a06d-036fdd6aabbf">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
         <logo/>
         <date>2019-08-24T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>1:00</duration>
         <room>Village:Digitalcourage</room>
-        <slug>camp2019-1521-session_hacking_licence</slug>
+        <slug>camp2019-1553-session_hacking_licence</slug>
         <title>Hacking Licence</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -6560,14 +6520,34 @@
           <link>https://digitalcourage.de</link>
         </links>
       </event>
-      <event id="1522" guid="6b08708a-fd70-5918-a878-a165f4ee89c9">
+      <event id="1554" guid="34cc5457-b2a0-4083-a06d-036fdd6aaba1">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
+        <logo/>
+        <date>2019-08-24T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Village:Digitalcourage</room>
+        <slug>camp2019-1554-session_hacking_licence</slug>
+        <title>Hacking Licence</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Your daily basic hacking learning lesson.</description>
+        <persons/>
+        <links>
+          <link>https://digitalcourage.de</link>
+        </links>
+      </event>
+      <event id="1555" guid="34cc5457-b2a0-4083-a06d-036fdd6aabbe">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
         <logo/>
         <date>2019-08-24T14:00:00+02:00</date>
         <start>14:00</start>
         <duration>1:00</duration>
         <room>Village:Digitalcourage</room>
-        <slug>camp2019-1522-session_hacking_licence</slug>
+        <slug>camp2019-1555-session_hacking_licence</slug>
         <title>Hacking Licence</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -6580,34 +6560,14 @@
           <link>https://digitalcourage.de</link>
         </links>
       </event>
-      <event id="1523" guid="8c7bacf0-fbeb-5289-81c6-8b2c4a131233">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
-        <logo/>
-        <date>2019-08-24T12:00:00+02:00</date>
-        <start>12:00</start>
-        <duration>1:00</duration>
-        <room>Village:Digitalcourage</room>
-        <slug>camp2019-1523-session_hacking_licence</slug>
-        <title>Hacking Licence</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Your daily basic hacking learning lesson.</description>
-        <persons/>
-        <links>
-          <link>https://digitalcourage.de</link>
-        </links>
-      </event>
-      <event id="1527" guid="54fa8724-3760-5e68-a82d-7ca2a837d0fd">
+      <event id="1556" guid="34cc5457-b2a0-4083-a06d-036fdd6aabbd">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
         <logo/>
         <date>2019-08-24T13:00:00+02:00</date>
         <start>13:00</start>
         <duration>1:00</duration>
         <room>Village:Digitalcourage</room>
-        <slug>camp2019-1527-session_hacking_licence</slug>
+        <slug>camp2019-1556-session_hacking_licence</slug>
         <title>Hacking Licence</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -6620,14 +6580,74 @@
           <link>https://digitalcourage.de</link>
         </links>
       </event>
-      <event id="1529" guid="918243a8-e774-508e-be42-45ea109663e5">
+      <event id="1560" guid="34cc5457-b2a0-4083-a06d-036fdd6aabbc">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
+        <logo/>
+        <date>2019-08-24T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>1:00</duration>
+        <room>Village:Digitalcourage</room>
+        <slug>camp2019-1560-session_hacking_licence</slug>
+        <title>Hacking Licence</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Your daily basic hacking learning lesson.</description>
+        <persons/>
+        <links>
+          <link>https://digitalcourage.de</link>
+        </links>
+      </event>
+      <event id="1562" guid="34cc5457-b2a0-4083-a06d-036fdd6aabbb">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
         <logo/>
         <date>2019-08-24T11:00:00+02:00</date>
         <start>11:00</start>
         <duration>1:00</duration>
         <room>Village:Digitalcourage</room>
-        <slug>camp2019-1529-session_hacking_licence</slug>
+        <slug>camp2019-1562-session_hacking_licence</slug>
+        <title>Hacking Licence</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Your daily basic hacking learning lesson.</description>
+        <persons/>
+        <links>
+          <link>https://digitalcourage.de</link>
+        </links>
+      </event>
+      <event id="1565" guid="34cc5457-b2a0-4083-a06d-036fdd6aaba0">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
+        <logo/>
+        <date>2019-08-24T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Village:Digitalcourage</room>
+        <slug>camp2019-1565-session_hacking_licence</slug>
+        <title>Hacking Licence</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Your daily basic hacking learning lesson.</description>
+        <persons/>
+        <links>
+          <link>https://digitalcourage.de</link>
+        </links>
+      </event>
+      <event id="1566" guid="34cc5457-b2a0-4083-a06d-036fdd6aabba">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
+        <logo/>
+        <date>2019-08-24T10:00:00+02:00</date>
+        <start>10:00</start>
+        <duration>1:00</duration>
+        <room>Village:Digitalcourage</room>
+        <slug>camp2019-1566-session_hacking_licence</slug>
         <title>Hacking Licence</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -7382,94 +7402,14 @@
           <link>https://digitalcourage.de/digitale-selbstverteidigung</link>
         </links>
       </event>
-      <event id="1512" guid="34cc5457-b2a0-4083-a06d-036fdd6aabb8">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
-        <logo/>
-        <date>2019-08-25T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:00</duration>
-        <room>Village:Digitalcourage</room>
-        <slug>camp2019-1512-session_hacking_licence</slug>
-        <title>Hacking Licence</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Your daily basic hacking learning lesson.</description>
-        <persons/>
-        <links>
-          <link>https://digitalcourage.de</link>
-        </links>
-      </event>
-      <event id="1515" guid="c042d136-114a-5734-bc7a-43cf11618584">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
-        <logo/>
-        <date>2019-08-25T10:00:00+02:00</date>
-        <start>10:00</start>
-        <duration>1:00</duration>
-        <room>Village:Digitalcourage</room>
-        <slug>camp2019-1515-session_hacking_licence</slug>
-        <title>Hacking Licence</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Your daily basic hacking learning lesson.</description>
-        <persons/>
-        <links>
-          <link>https://digitalcourage.de</link>
-        </links>
-      </event>
-      <event id="1516" guid="1a22522d-d6ee-5491-932b-28176f842083">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
-        <logo/>
-        <date>2019-08-25T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>1:00</duration>
-        <room>Village:Digitalcourage</room>
-        <slug>camp2019-1516-session_hacking_licence</slug>
-        <title>Hacking Licence</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Your daily basic hacking learning lesson.</description>
-        <persons/>
-        <links>
-          <link>https://digitalcourage.de</link>
-        </links>
-      </event>
-      <event id="1517" guid="4ff694cf-42ba-573c-8cd0-c52284a99724">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
-        <logo/>
-        <date>2019-08-25T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>1:00</duration>
-        <room>Village:Digitalcourage</room>
-        <slug>camp2019-1517-session_hacking_licence</slug>
-        <title>Hacking Licence</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Your daily basic hacking learning lesson.</description>
-        <persons/>
-        <links>
-          <link>https://digitalcourage.de</link>
-        </links>
-      </event>
-      <event id="1519" guid="3c4ad215-b6fc-5194-a560-5cbdfe7dc774">
+      <event id="1550" guid="34cc5457-b2a0-4083-a06d-036fdd6aaba4">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
         <logo/>
         <date>2019-08-25T12:00:00+02:00</date>
         <start>12:00</start>
         <duration>1:00</duration>
         <room>Village:Digitalcourage</room>
-        <slug>camp2019-1519-session_hacking_licence</slug>
+        <slug>camp2019-1550-session_hacking_licence</slug>
         <title>Hacking Licence</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -7482,14 +7422,14 @@
           <link>https://digitalcourage.de</link>
         </links>
       </event>
-      <event id="1524" guid="c556ba3f-f36d-521a-94e9-1f88dc86320c">
+      <event id="1552" guid="34cc5457-b2a0-4083-a06d-036fdd6aaba8">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
         <logo/>
-        <date>2019-08-25T11:00:00+02:00</date>
-        <start>11:00</start>
+        <date>2019-08-25T16:00:00+02:00</date>
+        <start>16:00</start>
         <duration>1:00</duration>
         <room>Village:Digitalcourage</room>
-        <slug>camp2019-1524-session_hacking_licence</slug>
+        <slug>camp2019-1552-session_hacking_licence</slug>
         <title>Hacking Licence</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -7502,14 +7442,34 @@
           <link>https://digitalcourage.de</link>
         </links>
       </event>
-      <event id="1525" guid="78dc837c-dcc6-5747-b635-58bd55a34372">
+      <event id="1557" guid="34cc5457-b2a0-4083-a06d-036fdd6aaba6">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
+        <logo/>
+        <date>2019-08-25T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Village:Digitalcourage</room>
+        <slug>camp2019-1557-session_hacking_licence</slug>
+        <title>Hacking Licence</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Your daily basic hacking learning lesson.</description>
+        <persons/>
+        <links>
+          <link>https://digitalcourage.de</link>
+        </links>
+      </event>
+      <event id="1558" guid="34cc5457-b2a0-4083-a06d-036fdd6aaba7">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
         <logo/>
         <date>2019-08-25T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>1:00</duration>
         <room>Village:Digitalcourage</room>
-        <slug>camp2019-1525-session_hacking_licence</slug>
+        <slug>camp2019-1558-session_hacking_licence</slug>
         <title>Hacking Licence</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -7522,14 +7482,74 @@
           <link>https://digitalcourage.de</link>
         </links>
       </event>
-      <event id="1528" guid="70f15f54-c124-5e67-9385-bacff047ece3">
+      <event id="1559" guid="34cc5457-b2a0-4083-a06d-036fdd6aaba2">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
+        <logo/>
+        <date>2019-08-25T10:00:00+02:00</date>
+        <start>10:00</start>
+        <duration>1:00</duration>
+        <room>Village:Digitalcourage</room>
+        <slug>camp2019-1559-session_hacking_licence</slug>
+        <title>Hacking Licence</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Your daily basic hacking learning lesson.</description>
+        <persons/>
+        <links>
+          <link>https://digitalcourage.de</link>
+        </links>
+      </event>
+      <event id="1561" guid="34cc5457-b2a0-4083-a06d-036fdd6aaba5">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
         <logo/>
         <date>2019-08-25T13:00:00+02:00</date>
         <start>13:00</start>
         <duration>1:00</duration>
         <room>Village:Digitalcourage</room>
-        <slug>camp2019-1528-session_hacking_licence</slug>
+        <slug>camp2019-1561-session_hacking_licence</slug>
+        <title>Hacking Licence</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Your daily basic hacking learning lesson.</description>
+        <persons/>
+        <links>
+          <link>https://digitalcourage.de</link>
+        </links>
+      </event>
+      <event id="1563" guid="34cc5457-b2a0-4083-a06d-036fdd6aaba9">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
+        <logo/>
+        <date>2019-08-25T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Village:Digitalcourage</room>
+        <slug>camp2019-1563-session_hacking_licence</slug>
+        <title>Hacking Licence</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Your daily basic hacking learning lesson.</description>
+        <persons/>
+        <links>
+          <link>https://digitalcourage.de</link>
+        </links>
+      </event>
+      <event id="1564" guid="34cc5457-b2a0-4083-a06d-036fdd6aaba3">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
+        <logo/>
+        <date>2019-08-25T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>1:00</duration>
+        <room>Village:Digitalcourage</room>
+        <slug>camp2019-1564-session_hacking_licence</slug>
         <title>Hacking Licence</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -7566,14 +7586,14 @@
       </event>
     </room>
     <room name="Village:1komona">
-      <event id="1330" guid="96c09f00-222f-4053-b80a-4fb0ed5ab439">
+      <event id="1574" guid="96c09f00-222f-4053-b80a-4fb0ed5ab442">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Postapokalyptic_jewellery</url>
         <logo/>
         <date>2019-08-25T15:15:00+02:00</date>
         <start>15:15</start>
         <duration>3:03</duration>
         <room>Village:1komona</room>
-        <slug>camp2019-1330-session_postapokalyptic_jewellery</slug>
+        <slug>camp2019-1574-session_postapokalyptic_jewellery</slug>
         <title>Postapokalyptic jewellery</title>
         <subtitle>scrap tinkering - schrottbasteln</subtitle>
         <track>self organized sessions</track>
