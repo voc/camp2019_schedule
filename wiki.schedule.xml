@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-23 09:50</version>
+  <version>2019-08-23 10:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -4669,6 +4669,26 @@
         <persons/>
         <links/>
       </event>
+      <event id="1482" guid="d8667e92-0157-455a-bf12-dc4f690f98d9">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Quereinstieg_IT</url>
+        <logo/>
+        <date>2019-08-23T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>1:00</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1482-session_quereinstieg_it</slug>
+        <title>Quereinstieg IT</title>
+        <subtitle>Erfahrungsaustausch</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Erfahrungsaustausch</description>
+        <persons/>
+        <links>
+          <link>http://www.haecksen.org</link>
+        </links>
+      </event>
     </room>
     <room name="Village:Kidspace">
       <event id="1196" guid="a4c66248-897e-4280-bb3e-3ba18695526b">
@@ -4972,6 +4992,28 @@
         <links/>
       </event>
     </room>
+    <room name="Village:Moose Hillhackers">
+      <event id="1481" guid="26500b4f-e948-48dd-8f42-db690587d884">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Payment_Systems_in_India</url>
+        <logo/>
+        <date>2019-08-23T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>0:30</duration>
+        <room>Village:Moose Hillhackers</room>
+        <slug>camp2019-1481-session_payment_systems_in_india</slug>
+        <title>Payment Systems in India</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>A primer to the state of Digital Payments in India</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Nemo">Nemo</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Village:C-base">
       <event id="1115" guid="1c0f9124-a0a8-4de3-bf71-7e9e8918b06c">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Pentagame</url>
@@ -5028,7 +5070,7 @@
         <room>Village:Ecohackerfarm</room>
         <slug>camp2019-1118-session_powerplant_an_opensource_permaculture_garden_planner_for_everyone</slug>
         <title>Powerplant: an opensource permaculture garden planner for everyone</title>
-        <subtitle>find out what it is a join the dev team</subtitle>
+        <subtitle>find out what it is and join the dev team</subtitle>
         <track>self organized sessions</track>
         <type>talk</type>
         <language>en</language>

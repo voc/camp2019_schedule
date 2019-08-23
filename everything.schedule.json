@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 09:50",
+    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 10:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -10538,6 +10538,28 @@
                 "description": "Achtung, f\u00e4llt aus! Tag 3 gehts los",
                 "persons": [],
                 "links": []
+              },
+              {
+                "id": 1482,
+                "guid": "d8667e92-0157-455a-bf12-dc4f690f98d9",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Quereinstieg_IT",
+                "logo": null,
+                "date": "2019-08-23T17:30:00+02:00",
+                "start": "17:30",
+                "duration": "1:00",
+                "room": "Village:Haecksen",
+                "slug": "camp2019-1482-session_quereinstieg_it",
+                "title": "Quereinstieg IT",
+                "subtitle": "Erfahrungsaustausch",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "de",
+                "abstract": "",
+                "description": "Erfahrungsaustausch",
+                "persons": [],
+                "links": [
+                  "http://www.haecksen.org"
+                ]
               }
             ],
             "Village:Kidspace": [
@@ -10918,6 +10940,34 @@
                 "links": []
               }
             ],
+            "Village:Moose Hillhackers": [
+              {
+                "id": 1481,
+                "guid": "26500b4f-e948-48dd-8f42-db690587d884",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Payment_Systems_in_India",
+                "logo": null,
+                "date": "2019-08-23T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "0:30",
+                "room": "Village:Moose Hillhackers",
+                "slug": "camp2019-1481-session_payment_systems_in_india",
+                "title": "Payment Systems in India",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "A primer to the state of Digital Payments in India",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Nemo",
+                    "public_name": "Nemo"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Village:C-base": [
               {
                 "id": 1115,
@@ -10984,7 +11034,7 @@
                 "room": "Village:Ecohackerfarm",
                 "slug": "camp2019-1118-session_powerplant_an_opensource_permaculture_garden_planner_for_everyone",
                 "title": "Powerplant: an opensource permaculture garden planner for everyone",
-                "subtitle": "find out what it is a join the dev team",
+                "subtitle": "find out what it is and join the dev team",
                 "track": "self organized sessions",
                 "type": "talk",
                 "language": "en",

@@ -1,0 +1,22 @@
+{
+  "id": 1482,
+  "guid": "d8667e92-0157-455a-bf12-dc4f690f98d9",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Quereinstieg_IT",
+  "logo": null,
+  "date": "2019-08-23T17:30:00+02:00",
+  "start": "17:30",
+  "duration": "1:00",
+  "room": "Village:Haecksen",
+  "slug": "camp2019-1482-session_quereinstieg_it",
+  "title": "Quereinstieg IT",
+  "subtitle": "Erfahrungsaustausch",
+  "track": "self organized sessions",
+  "type": "discussion",
+  "language": "de",
+  "abstract": "",
+  "description": "Erfahrungsaustausch",
+  "persons": [],
+  "links": [
+    "http://www.haecksen.org"
+  ]
+}
