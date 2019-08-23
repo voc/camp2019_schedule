@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-23 18:00",
+    "version": "2019-08-23 18:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -7554,8 +7554,8 @@
                 "guid": "9515d766-a627-48c2-a62f-f20593e0e600",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:How_to_talk_to_the_badge_-_a_(micro-)python_introduction_for_BEGINNERS!",
                 "logo": null,
-                "date": "2019-08-24T13:00:00+02:00",
-                "start": "13:00",
+                "date": "2019-08-24T20:00:00+02:00",
+                "start": "20:00",
                 "duration": "1:30",
                 "room": "Village:1komona",
                 "slug": "camp2019-1545-session_how_to_talk_to_the_badge_a_micro_python_introduction_for_beginners_",
@@ -7849,7 +7849,7 @@
                 "type": "",
                 "language": "",
                 "abstract": "",
-                "description": "Come join us to hack on OONI code: https://github.com/ooni.",
+                "description": "Come join us to hack on OONI code: https://github.com/orgs/ooni/projects/9.",
                 "persons": [],
                 "links": []
               }

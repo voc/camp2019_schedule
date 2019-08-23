@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 18:00</version>
+  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 18:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -11779,8 +11779,8 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
       <event id="1545" guid="9515d766-a627-48c2-a62f-f20593e0e600">
         <url>https://events.ccc.de/camp/2019/wiki/Session:How_to_talk_to_the_badge_-_a_(micro-)python_introduction_for_BEGINNERS!</url>
         <logo/>
-        <date>2019-08-24T13:00:00+02:00</date>
-        <start>13:00</start>
+        <date>2019-08-24T20:00:00+02:00</date>
+        <start>20:00</start>
         <duration>1:30</duration>
         <room>Village:1komona</room>
         <slug>camp2019-1545-session_how_to_talk_to_the_badge_a_micro_python_introduction_for_beginners_</slug>
@@ -12030,7 +12030,7 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <type/>
         <language/>
         <abstract/>
-        <description>Come join us to hack on OONI code: https://github.com/ooni.</description>
+        <description>Come join us to hack on OONI code: https://github.com/orgs/ooni/projects/9.</description>
         <persons/>
         <links/>
       </event>
