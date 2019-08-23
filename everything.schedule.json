@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 11:10",
+    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 11:20",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -8848,8 +8848,8 @@
                 "title": "Anf\u00e4nger/Kinder-L\u00f6tworkshop",
                 "subtitle": "",
                 "track": "self organized sessions",
-                "type": "",
-                "language": "",
+                "type": "hands-on",
+                "language": "de",
                 "abstract": "",
                 "description": "we solder a small beginners badge with a rgb-light",
                 "persons": [],
