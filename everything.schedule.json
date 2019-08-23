@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 18:10",
+    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 18:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -6681,32 +6681,6 @@
                   }
                 ],
                 "links": []
-              },
-              {
-                "id": 1303,
-                "guid": "f40b1ff2-7dbd-419a-8dc4-199f3bf33c0f",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour",
-                "logo": null,
-                "date": "2019-08-22T17:30:00+02:00",
-                "start": "17:30",
-                "duration": "1:00",
-                "room": "Village:Kidspace",
-                "slug": "camp2019-1303-session_vorlesestunde_reading_hour",
-                "title": "Vorlesestunde / reading hour",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "other",
-                "language": "de",
-                "abstract": "",
-                "description": "Kinderb\u00fccher vorlesen",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ckeen",
-                    "public_name": "Ckeen"
-                  }
-                ],
-                "links": []
               }
             ],
             "Village:C-base": [
@@ -11037,8 +11011,8 @@
                 "guid": "640a6b0b-6dca-4cde-9c5e-050c9ca64378",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Terraform_and_Docker_to_selfhost",
                 "logo": null,
-                "date": "2019-08-23T18:00:00+02:00",
-                "start": "18:00",
+                "date": "2019-08-23T19:00:00+02:00",
+                "start": "19:00",
                 "duration": "1:00",
                 "room": "Village:Librehosters",
                 "slug": "camp2019-1496-session_terraform_and_docker_to_selfhost",
@@ -14313,6 +14287,26 @@
                 "language": "de",
                 "abstract": "",
                 "description": "Let's hack words is a session for everyone, who wants to explore creative writing, build worlds and lets characters dive into adventures. Or - for a start - just wants to get rid of hacker's block.",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1546,
+                "guid": "749d94da-3c03-4f5d-86fd-3bff30a6c8ee",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:News_Nerds_Meetup_--_Hacks/Hackers",
+                "logo": null,
+                "date": "2019-08-24T13:30:00+02:00",
+                "start": "13:30",
+                "duration": "0:45",
+                "room": "Village:Metalab Dome",
+                "slug": "camp2019-1546-session_news_nerds_meetup_hacks_hackers",
+                "title": "News Nerds Meetup -- Hacks/Hackers",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "Meetup for news/journalism nerds",
                 "persons": [],
                 "links": []
               }
