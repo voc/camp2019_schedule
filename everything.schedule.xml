@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 23:10</version>
+  <version>Hadar; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 23:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -6003,28 +6003,6 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
           <link>http://mgpf.it/release</link>
         </links>
       </event>
-      <event id="1443" guid="2c464f02-beda-42c8-92a1-eaa7d9905978">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Portraits_of_Hackers_-_2019</url>
-        <logo/>
-        <date>2019-08-22T23:30:00+02:00</date>
-        <start>23:30</start>
-        <duration>1:00</duration>
-        <room>Village:Italian Hackers' Embassy</room>
-        <slug>camp2019-1443-session_portraits_of_hackers_2019</slug>
-        <title>Portraits of Hackers - 2019</title>
-        <subtitle>Portraits of Hackers - 2019 Edition</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>Come and have your own Portrait taken!</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Lastknight">Lastknight</person>
-        </persons>
-        <links>
-          <link>http://mgpf.it/release</link>
-        </links>
-      </event>
     </room>
     <room name="Village:Harbor">
       <event id="1126" guid="53b7eed2-1de8-4fa7-8816-618cf4eb6c14">
@@ -9497,28 +9475,6 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <persons/>
         <links/>
       </event>
-      <event id="1444" guid="f46b0724-f992-5099-a1d4-6c9794f7c0bf">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Portraits_of_Hackers_-_2019</url>
-        <logo/>
-        <date>2019-08-23T23:30:00+02:00</date>
-        <start>23:30</start>
-        <duration>1:00</duration>
-        <room>Village:Italian Hackers' Embassy</room>
-        <slug>camp2019-1444-session_portraits_of_hackers_2019</slug>
-        <title>Portraits of Hackers - 2019</title>
-        <subtitle>Portraits of Hackers - 2019 Edition</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>Come and have your own Portrait taken!</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Lastknight">Lastknight</person>
-        </persons>
-        <links>
-          <link>http://mgpf.it/release</link>
-        </links>
-      </event>
     </room>
     <room name="Village:Munich Maker Village">
       <event id="1364" guid="46fd0666-6a0a-44df-935b-05aa3e45a248">
@@ -12809,6 +12765,28 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <description>Pen Test of security controls</description>
         <persons/>
         <links/>
+      </event>
+      <event id="1443" guid="2c464f02-beda-42c8-92a1-eaa7d9905978">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Portraits_of_Hackers_-_2019</url>
+        <logo/>
+        <date>2019-08-24T23:30:00+02:00</date>
+        <start>23:30</start>
+        <duration>1:00</duration>
+        <room>Village:Italian Hackers' Embassy</room>
+        <slug>camp2019-1443-session_portraits_of_hackers_2019</slug>
+        <title>Portraits of Hackers - 2019</title>
+        <subtitle>Portraits of Hackers - 2019 Edition</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Come and have your own Portrait taken!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Lastknight">Lastknight</person>
+        </persons>
+        <links>
+          <link>http://mgpf.it/release</link>
+        </links>
       </event>
     </room>
     <room name="Village:CCC-CH">

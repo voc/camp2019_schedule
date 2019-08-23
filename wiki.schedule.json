@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-23 23:10",
+    "version": "2019-08-23 23:50",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -3448,34 +3448,6 @@
                 "links": [
                   "http://mgpf.it/release"
                 ]
-              },
-              {
-                "id": 1443,
-                "guid": "2c464f02-beda-42c8-92a1-eaa7d9905978",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Portraits_of_Hackers_-_2019",
-                "logo": null,
-                "date": "2019-08-22T23:30:00+02:00",
-                "start": "23:30",
-                "duration": "1:00",
-                "room": "Village:Italian Hackers' Embassy",
-                "slug": "camp2019-1443-session_portraits_of_hackers_2019",
-                "title": "Portraits of Hackers - 2019",
-                "subtitle": "Portraits of Hackers - 2019 Edition",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "Come and have your own Portrait taken!",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Lastknight",
-                    "public_name": "Lastknight"
-                  }
-                ],
-                "links": [
-                  "http://mgpf.it/release"
-                ]
               }
             ],
             "Village:Harbor": [
@@ -6081,34 +6053,6 @@
                 "description": "Digital Right",
                 "persons": [],
                 "links": []
-              },
-              {
-                "id": 1444,
-                "guid": "f46b0724-f992-5099-a1d4-6c9794f7c0bf",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Portraits_of_Hackers_-_2019",
-                "logo": null,
-                "date": "2019-08-23T23:30:00+02:00",
-                "start": "23:30",
-                "duration": "1:00",
-                "room": "Village:Italian Hackers' Embassy",
-                "slug": "camp2019-1444-session_portraits_of_hackers_2019",
-                "title": "Portraits of Hackers - 2019",
-                "subtitle": "Portraits of Hackers - 2019 Edition",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "Come and have your own Portrait taken!",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Lastknight",
-                    "public_name": "Lastknight"
-                  }
-                ],
-                "links": [
-                  "http://mgpf.it/release"
-                ]
               }
             ],
             "Village:Munich Maker Village": [
@@ -8778,6 +8722,34 @@
                 "description": "Pen Test of security controls",
                 "persons": [],
                 "links": []
+              },
+              {
+                "id": 1443,
+                "guid": "2c464f02-beda-42c8-92a1-eaa7d9905978",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Portraits_of_Hackers_-_2019",
+                "logo": null,
+                "date": "2019-08-24T23:30:00+02:00",
+                "start": "23:30",
+                "duration": "1:00",
+                "room": "Village:Italian Hackers' Embassy",
+                "slug": "camp2019-1443-session_portraits_of_hackers_2019",
+                "title": "Portraits of Hackers - 2019",
+                "subtitle": "Portraits of Hackers - 2019 Edition",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "Come and have your own Portrait taken!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Lastknight",
+                    "public_name": "Lastknight"
+                  }
+                ],
+                "links": [
+                  "http://mgpf.it/release"
+                ]
               }
             ],
             "Village:CCC-CH": [
