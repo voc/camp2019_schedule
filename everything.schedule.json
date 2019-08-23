@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 12:30",
+    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 12:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -13077,6 +13077,26 @@
                 "links": [
                   "https://sandratrostel.de/projects/acw/"
                 ]
+              },
+              {
+                "id": 1503,
+                "guid": "33259ffa-c352-4cf4-9200-ec6e5a3ab677",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Tschernobyl",
+                "logo": null,
+                "date": "2019-08-24T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "1:00",
+                "room": "Village:Singularity City",
+                "slug": "camp2019-1503-session_tschernobyl",
+                "title": "Tschernobyl",
+                "subtitle": "Tschernobyl Reisebericht und Q&A",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Tschernobyl Reisebericht + Q&A",
+                "persons": [],
+                "links": []
               }
             ],
             "Village:HardwareHackingArea": [
@@ -13499,59 +13519,27 @@
                 ]
               }
             ],
-            "Village:AFRA": [
+            "Village:Librehosters": [
               {
-                "id": 1468,
-                "guid": "07324fcb-71b6-4c4f-8ef2-05c345f34df3",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Digital_Activism_Training_-_Infrastructuring_for_the_upcoming_rave_protests_for_climate",
+                "id": 1501,
+                "guid": "effe4fff-a50d-4017-9681-8143f30bea84",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Cryptpad",
                 "logo": null,
-                "date": "2019-08-24T17:00:00+02:00",
-                "start": "17:00",
-                "duration": "2:00",
-                "room": "Village:AFRA",
-                "slug": "camp2019-1468-session_digital_activism_training_infrastructuring_for_the_upcoming_rave_protests_for_climate",
-                "title": "Digital Activism Training - Infrastructuring for the upcoming rave protests for climate",
+                "date": "2019-08-24T19:00:00+02:00",
+                "start": "19:00",
+                "duration": "1:00",
+                "room": "Village:Librehosters",
+                "slug": "camp2019-1501-session_cryptpad",
+                "title": "Cryptpad",
                 "subtitle": "",
                 "track": "self organized sessions",
                 "type": "workshop",
-                "language": "de",
+                "language": "",
                 "abstract": "",
-                "description": "We are looking for supporters and advisors, because we would to upgrade our communication infrastructure being used in mass scale demonstrations in the city.",
+                "description": "",
                 "persons": [],
                 "links": []
-              }
-            ],
-            "Village:Digitalcourage": [
-              {
-                "id": 1307,
-                "guid": "16bfa5df-7213-49b9-8179-5ad27a218ed7",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Digital_Self-Defense_Workshop",
-                "logo": null,
-                "date": "2019-08-24T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "1:30",
-                "room": "Village:Digitalcourage",
-                "slug": "camp2019-1307-session_digital_self_defense_workshop",
-                "title": "Digital Self-Defense Workshop",
-                "subtitle": "E-Mail Encryption",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Learn about the basics of practical cryptography and privacy enhancing measures for your digital devices in the spirit of a CryptoParty.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:CryptGoat",
-                    "public_name": "CryptGoat"
-                  }
-                ],
-                "links": [
-                  "https://digitalcourage.de/digitale-selbstverteidigung"
-                ]
-              }
-            ],
-            "Village:Librehosters": [
+              },
               {
                 "id": 1469,
                 "guid": "5af52d1a-ba8c-4d54-9049-8e6e6273d647",
@@ -13607,6 +13595,26 @@
                 "links": []
               },
               {
+                "id": 1502,
+                "guid": "33675209-9122-405b-a897-8fd93d27ec7e",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:How_to_collaborate_better",
+                "logo": null,
+                "date": "2019-08-24T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "1:00",
+                "room": "Village:Librehosters",
+                "slug": "camp2019-1502-session_how_to_collaborate_better",
+                "title": "How to collaborate better",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "persons": [],
+                "links": []
+              },
+              {
                 "id": 1493,
                 "guid": "891bf1b9-b6b7-5db5-acf3-514bc2cdd3ff",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters",
@@ -13642,6 +13650,58 @@
                 ],
                 "links": [
                   "https://libreho.st/"
+                ]
+              }
+            ],
+            "Village:AFRA": [
+              {
+                "id": 1468,
+                "guid": "07324fcb-71b6-4c4f-8ef2-05c345f34df3",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Digital_Activism_Training_-_Infrastructuring_for_the_upcoming_rave_protests_for_climate",
+                "logo": null,
+                "date": "2019-08-24T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "2:00",
+                "room": "Village:AFRA",
+                "slug": "camp2019-1468-session_digital_activism_training_infrastructuring_for_the_upcoming_rave_protests_for_climate",
+                "title": "Digital Activism Training - Infrastructuring for the upcoming rave protests for climate",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "We are looking for supporters and advisors, because we would to upgrade our communication infrastructure being used in mass scale demonstrations in the city.",
+                "persons": [],
+                "links": []
+              }
+            ],
+            "Village:Digitalcourage": [
+              {
+                "id": 1307,
+                "guid": "16bfa5df-7213-49b9-8179-5ad27a218ed7",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Digital_Self-Defense_Workshop",
+                "logo": null,
+                "date": "2019-08-24T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:30",
+                "room": "Village:Digitalcourage",
+                "slug": "camp2019-1307-session_digital_self_defense_workshop",
+                "title": "Digital Self-Defense Workshop",
+                "subtitle": "E-Mail Encryption",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Learn about the basics of practical cryptography and privacy enhancing measures for your digital devices in the spirit of a CryptoParty.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:CryptGoat",
+                    "public_name": "CryptGoat"
+                  }
+                ],
+                "links": [
+                  "https://digitalcourage.de/digitale-selbstverteidigung"
                 ]
               }
             ],
