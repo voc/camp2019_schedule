@@ -1,0 +1,20 @@
+{
+  "id": 1500,
+  "guid": "cb016801-2595-4bc8-b12d-893666cea981",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Run_your_own_Matrix_server",
+  "logo": null,
+  "date": "2019-08-23T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "1:00",
+  "room": "Village:Librehosters",
+  "slug": "camp2019-1500-session_run_your_own_matrix_server",
+  "title": "Run your own Matrix server",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "",
+  "abstract": "",
+  "description": "",
+  "persons": [],
+  "links": []
+}

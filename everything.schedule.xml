@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 12:20</version>
+  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 12:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -5309,7 +5309,7 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
         <room>Village:Metalab Dome</room>
         <slug>camp2019-1417-session_gameboy_tetris_tournament</slug>
         <title>Gameboy Tetris Tournament</title>
-        <subtitle/>
+        <subtitle>Round 1</subtitle>
         <track>self organized sessions</track>
         <type>game</type>
         <language>de</language>
@@ -9643,6 +9643,24 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
       </event>
     </room>
     <room name="Village:Librehosters">
+      <event id="1498" guid="a16804a0-333d-4559-a54e-44cac56f89b1">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Lh_lightning_talks</url>
+        <logo/>
+        <date>2019-08-23T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Village:Librehosters</room>
+        <slug>camp2019-1498-session_lh_lightning_talks</slug>
+        <title>Lh lightning talks</title>
+        <subtitle>Present your project (lightning talk style)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links/>
+      </event>
       <event id="1422" guid="59eba6c8-b345-4555-abba-adc984b5dfba">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters</url>
         <logo/>
@@ -9666,6 +9684,24 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <links>
           <link>https://libreho.st/</link>
         </links>
+      </event>
+      <event id="1500" guid="cb016801-2595-4bc8-b12d-893666cea981">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Run_your_own_Matrix_server</url>
+        <logo/>
+        <date>2019-08-23T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Village:Librehosters</room>
+        <slug>camp2019-1500-session_run_your_own_matrix_server</slug>
+        <title>Run your own Matrix server</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links/>
       </event>
       <event id="1496" guid="640a6b0b-6dca-4cde-9c5e-050c9ca64378">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Terraform_and_Docker_to_selfhost</url>
@@ -12113,6 +12149,44 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <links/>
       </event>
     </room>
+    <room name="Village:Metalab Dome">
+      <event id="1497" guid="5b00e84b-c8f7-492a-ae14-a82dc26d1e62">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Gameboy_Tetris_Tournament</url>
+        <logo/>
+        <date>2019-08-24T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Village:Metalab Dome</room>
+        <slug>camp2019-1497-session_gameboy_tetris_tournament</slug>
+        <title>Gameboy Tetris Tournament</title>
+        <subtitle>Round 2</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Gameboys! Link Cables! Tetris! Competition!</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1222" guid="b7523425-acee-4679-96c6-4382236e43ba">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Let%27s_hack_words!</url>
+        <logo/>
+        <date>2019-08-24T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Village:Metalab Dome</room>
+        <slug>camp2019-1222-session_let_s_hack_words_</slug>
+        <title>Let's hack words!</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Let's hack words is a session for everyone, who wants to explore creative writing, build worlds and lets characters dive into adventures. Or - for a start - just wants to get rid of hacker's block.</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
     <room name="Village:HackLeman">
       <event id="1285" guid="ada6ca92-709b-4574-b783-ea647d6ee9f3">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Gigatron_TTL_Computer</url>
@@ -12285,24 +12359,26 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <links/>
       </event>
     </room>
-    <room name="Village:Metalab Dome">
-      <event id="1222" guid="b7523425-acee-4679-96c6-4382236e43ba">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Let%27s_hack_words!</url>
+    <room name="Village:CCC-CH">
+      <event id="1499" guid="7727a10c-202a-4540-9287-241c567621a7">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:LibrePCB_Meetup</url>
         <logo/>
-        <date>2019-08-24T15:00:00+02:00</date>
-        <start>15:00</start>
-        <duration>1:30</duration>
-        <room>Village:Metalab Dome</room>
-        <slug>camp2019-1222-session_let_s_hack_words_</slug>
-        <title>Let's hack words!</title>
+        <date>2019-08-24T13:45:00+02:00</date>
+        <start>13:45</start>
+        <duration>1:00</duration>
+        <room>Village:CCC-CH</room>
+        <slug>camp2019-1499-session_librepcb_meetup</slug>
+        <title>LibrePCB Meetup</title>
         <subtitle/>
         <track>self organized sessions</track>
-        <type>workshop</type>
+        <type>meeting</type>
         <language>de</language>
         <abstract/>
-        <description>Let's hack words is a session for everyone, who wants to explore creative writing, build worlds and lets characters dive into adventures. Or - for a start - just wants to get rid of hacker's block.</description>
+        <description>Let's meet to talk about LibrePCB, the free EDA software. We can also give you an introduction if you don't know the software yet.</description>
         <persons/>
-        <links/>
+        <links>
+          <link>https://librepcb.org/</link>
+        </links>
       </event>
     </room>
     <room name="Village:NixOS">

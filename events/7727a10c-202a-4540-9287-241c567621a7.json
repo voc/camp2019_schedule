@@ -1,0 +1,22 @@
+{
+  "id": 1499,
+  "guid": "7727a10c-202a-4540-9287-241c567621a7",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:LibrePCB_Meetup",
+  "logo": null,
+  "date": "2019-08-24T13:45:00+02:00",
+  "start": "13:45",
+  "duration": "1:00",
+  "room": "Village:CCC-CH",
+  "slug": "camp2019-1499-session_librepcb_meetup",
+  "title": "LibrePCB Meetup",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "de",
+  "abstract": "",
+  "description": "Let's meet to talk about LibrePCB, the free EDA software. We can also give you an introduction if you don't know the software yet.",
+  "persons": [],
+  "links": [
+    "https://librepcb.org/"
+  ]
+}

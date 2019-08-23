@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-23 12:20",
+    "version": "2019-08-23 12:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -2567,7 +2567,7 @@
                 "room": "Village:Metalab Dome",
                 "slug": "camp2019-1417-session_gameboy_tetris_tournament",
                 "title": "Gameboy Tetris Tournament",
-                "subtitle": "",
+                "subtitle": "Round 1",
                 "track": "self organized sessions",
                 "type": "game",
                 "language": "de",
@@ -6303,6 +6303,26 @@
             ],
             "Village:Librehosters": [
               {
+                "id": 1498,
+                "guid": "a16804a0-333d-4559-a54e-44cac56f89b1",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Lh_lightning_talks",
+                "logo": null,
+                "date": "2019-08-23T21:00:00+02:00",
+                "start": "21:00",
+                "duration": "1:00",
+                "room": "Village:Librehosters",
+                "slug": "camp2019-1498-session_lh_lightning_talks",
+                "title": "Lh lightning talks",
+                "subtitle": "Present your project (lightning talk style)",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "persons": [],
+                "links": []
+              },
+              {
                 "id": 1422,
                 "guid": "59eba6c8-b345-4555-abba-adc984b5dfba",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters",
@@ -6339,6 +6359,26 @@
                 "links": [
                   "https://libreho.st/"
                 ]
+              },
+              {
+                "id": 1500,
+                "guid": "cb016801-2595-4bc8-b12d-893666cea981",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Run_your_own_Matrix_server",
+                "logo": null,
+                "date": "2019-08-23T20:00:00+02:00",
+                "start": "20:00",
+                "duration": "1:00",
+                "room": "Village:Librehosters",
+                "slug": "camp2019-1500-session_run_your_own_matrix_server",
+                "title": "Run your own Matrix server",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "",
+                "abstract": "",
+                "description": "",
+                "persons": [],
+                "links": []
               },
               {
                 "id": 1496,
@@ -7994,6 +8034,48 @@
                 "links": []
               }
             ],
+            "Village:Metalab Dome": [
+              {
+                "id": 1497,
+                "guid": "5b00e84b-c8f7-492a-ae14-a82dc26d1e62",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Gameboy_Tetris_Tournament",
+                "logo": null,
+                "date": "2019-08-24T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "1:00",
+                "room": "Village:Metalab Dome",
+                "slug": "camp2019-1497-session_gameboy_tetris_tournament",
+                "title": "Gameboy Tetris Tournament",
+                "subtitle": "Round 2",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Gameboys! Link Cables! Tetris! Competition!",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1222,
+                "guid": "b7523425-acee-4679-96c6-4382236e43ba",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Let%27s_hack_words!",
+                "logo": null,
+                "date": "2019-08-24T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "1:30",
+                "room": "Village:Metalab Dome",
+                "slug": "camp2019-1222-session_let_s_hack_words_",
+                "title": "Let's hack words!",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Let's hack words is a session for everyone, who wants to explore creative writing, build worlds and lets characters dive into adventures. Or - for a start - just wants to get rid of hacker's block.",
+                "persons": [],
+                "links": []
+              }
+            ],
             "Village:HackLeman": [
               {
                 "id": 1285,
@@ -8202,26 +8284,28 @@
                 "links": []
               }
             ],
-            "Village:Metalab Dome": [
+            "Village:CCC-CH": [
               {
-                "id": 1222,
-                "guid": "b7523425-acee-4679-96c6-4382236e43ba",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Let%27s_hack_words!",
+                "id": 1499,
+                "guid": "7727a10c-202a-4540-9287-241c567621a7",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:LibrePCB_Meetup",
                 "logo": null,
-                "date": "2019-08-24T15:00:00+02:00",
-                "start": "15:00",
-                "duration": "1:30",
-                "room": "Village:Metalab Dome",
-                "slug": "camp2019-1222-session_let_s_hack_words_",
-                "title": "Let's hack words!",
+                "date": "2019-08-24T13:45:00+02:00",
+                "start": "13:45",
+                "duration": "1:00",
+                "room": "Village:CCC-CH",
+                "slug": "camp2019-1499-session_librepcb_meetup",
+                "title": "LibrePCB Meetup",
                 "subtitle": "",
                 "track": "self organized sessions",
-                "type": "workshop",
+                "type": "meeting",
                 "language": "de",
                 "abstract": "",
-                "description": "Let's hack words is a session for everyone, who wants to explore creative writing, build worlds and lets characters dive into adventures. Or - for a start - just wants to get rid of hacker's block.",
+                "description": "Let's meet to talk about LibrePCB, the free EDA software. We can also give you an introduction if you don't know the software yet.",
                 "persons": [],
-                "links": []
+                "links": [
+                  "https://librepcb.org/"
+                ]
               }
             ],
             "Village:NixOS": [
