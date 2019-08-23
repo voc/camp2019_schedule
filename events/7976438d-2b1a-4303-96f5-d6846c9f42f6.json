@@ -14,8 +14,14 @@
   "type": "workshop",
   "language": "en",
   "abstract": "",
-  "description": "Physical practice session where we explore the notions of hacking through the human body.",
-  "persons": [],
+  "description": "'''Physical practice session ''' where we explore the notions of hacking through the human body.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Aerodynamika",
+      "public_name": "Aerodynamika"
+    }
+  ],
   "links": [
     "http://www.8os.io"
   ]

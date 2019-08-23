@@ -1,0 +1,22 @@
+{
+  "id": 1477,
+  "guid": "2e17a230-bf81-4abb-9541-ae7e43936558",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:SpaceAPI_Meetup",
+  "logo": null,
+  "date": "2019-08-23T17:00:00+02:00",
+  "start": "17:00",
+  "duration": "1:00",
+  "room": "Village:CCC-CH",
+  "slug": "camp2019-1477-session_spaceapi_meetup",
+  "title": "SpaceAPI Meetup",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "en",
+  "abstract": "",
+  "description": "Let's meet to talk about the SpaceAPI!",
+  "persons": [],
+  "links": [
+    "https://spaceapi.io/"
+  ]
+}

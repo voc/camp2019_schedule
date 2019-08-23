@@ -14,8 +14,14 @@
   "type": "workshop",
   "language": "en",
   "abstract": "",
-  "description": "EightOS bodymind operating system",
-  "persons": [],
+  "description": "EightOS bodymind operating system - physical practice session",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Aerodynamika",
+      "public_name": "Aerodynamika"
+    }
+  ],
   "links": [
     "http://www.8os.io"
   ]

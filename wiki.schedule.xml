@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-23 02:30</version>
+  <version>2019-08-23 02:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -4233,8 +4233,10 @@
         <type>workshop</type>
         <language>en</language>
         <abstract/>
-        <description>Physical practice session where we explore the notions of hacking through the human body.</description>
-        <persons/>
+        <description>'''Physical practice session ''' where we explore the notions of hacking through the human body.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Aerodynamika">Aerodynamika</person>
+        </persons>
         <links>
           <link>http://www.8os.io</link>
         </links>
@@ -4367,6 +4369,26 @@
         <persons/>
         <links>
           <link>https://ccc-ch.ch</link>
+        </links>
+      </event>
+      <event id="1477" guid="2e17a230-bf81-4abb-9541-ae7e43936558">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:SpaceAPI_Meetup</url>
+        <logo/>
+        <date>2019-08-23T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Village:CCC-CH</room>
+        <slug>camp2019-1477-session_spaceapi_meetup</slug>
+        <title>SpaceAPI Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Let's meet to talk about the SpaceAPI!</description>
+        <persons/>
+        <links>
+          <link>https://spaceapi.io/</link>
         </links>
       </event>
     </room>
@@ -5786,8 +5808,10 @@
         <type>workshop</type>
         <language>en</language>
         <abstract/>
-        <description>EightOS bodymind operating system</description>
-        <persons/>
+        <description>EightOS bodymind operating system - physical practice session</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Aerodynamika">Aerodynamika</person>
+        </persons>
         <links>
           <link>http://www.8os.io</link>
         </links>
