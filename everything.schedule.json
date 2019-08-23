@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 14:00",
+    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 14:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -13480,6 +13480,26 @@
                 "links": [
                   "https://www.idmt.fraunhofer.de/de/institute/projects-products/projects/liketohear.html"
                 ]
+              },
+              {
+                "id": 1507,
+                "guid": "de6217f0-b502-48d2-9c45-da070633bcfa",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:OONI_Hackathon",
+                "logo": null,
+                "date": "2019-08-24T18:30:00+02:00",
+                "start": "18:30",
+                "duration": "16:39",
+                "room": "Hackcenter",
+                "slug": "camp2019-1507-session_ooni_hackathon",
+                "title": "OONI Hackathon",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "",
+                "abstract": "",
+                "description": "Come join us to hack on OONI code: https://github.com/ooni.",
+                "persons": [],
+                "links": []
               },
               {
                 "id": 1489,

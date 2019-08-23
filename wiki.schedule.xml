@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-23 14:00</version>
+  <version>2019-08-23 14:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -6140,6 +6140,24 @@
         <links>
           <link>https://www.idmt.fraunhofer.de/de/institute/projects-products/projects/liketohear.html</link>
         </links>
+      </event>
+      <event id="1507" guid="de6217f0-b502-48d2-9c45-da070633bcfa">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:OONI_Hackathon</url>
+        <logo/>
+        <date>2019-08-24T18:30:00+02:00</date>
+        <start>18:30</start>
+        <duration>16:39</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1507-session_ooni_hackathon</slug>
+        <title>OONI Hackathon</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>Come join us to hack on OONI code: https://github.com/ooni.</description>
+        <persons/>
+        <links/>
       </event>
       <event id="1489" guid="039689b0-0433-44e2-b0e7-8de8ef67d1b7">
         <url>https://events.ccc.de/camp/2019/wiki/Session:What_the_weather</url>
