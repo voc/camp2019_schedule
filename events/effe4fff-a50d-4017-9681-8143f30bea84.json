@@ -12,9 +12,15 @@
   "subtitle": "",
   "track": "self organized sessions",
   "type": "workshop",
-  "language": "",
+  "language": "en",
   "abstract": "",
-  "description": "",
-  "persons": [],
+  "description": "Installing, configuring and customizing Cryptpad",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Promasu",
+      "public_name": "Promasu"
+    }
+  ],
   "links": []
 }

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-23 15:30",
+    "version": "2019-08-23 15:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -5768,32 +5768,6 @@
                   }
                 ],
                 "links": []
-              },
-              {
-                "id": 1250,
-                "guid": "ac48ceec-92fe-4bbc-b7aa-6993ec6e5da1",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Xspace_%E2%80%93_Solution_to_an_annoying_TeX_quirk",
-                "logo": null,
-                "date": "2019-08-23T17:00:00+02:00",
-                "start": "17:00",
-                "duration": "0:15",
-                "room": "Village:LaTeX",
-                "slug": "camp2019-1250-session_xspace_solution_to_an_annoying_tex_quirk",
-                "title": "Xspace \u2013 Solution to an annoying TeX quirk",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Let's have a look how xspace.sty makes TeX's treatment of whitespace more predictable!",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Fr%C3%B6belsuppe",
-                    "public_name": "Fr\u00f6belsuppe"
-                  }
-                ],
-                "links": []
               }
             ],
             "Village:Haecksen": [
@@ -6176,6 +6150,74 @@
                 ]
               }
             ],
+            "Village:Digitalcourage": [
+              {
+                "id": 1514,
+                "guid": "334bc30e-b5f8-4273-83c3-4df3147ecba7",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-08-23T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "1:00",
+                "room": "Village:Digitalcourage",
+                "slug": "camp2019-1514-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.",
+                "persons": [],
+                "links": [
+                  "https://digitalcourage.de"
+                ]
+              },
+              {
+                "id": 1526,
+                "guid": "524d3911-375f-56a8-983e-a0f947aa5570",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-08-23T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "Village:Digitalcourage",
+                "slug": "camp2019-1526-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.",
+                "persons": [],
+                "links": [
+                  "https://digitalcourage.de"
+                ]
+              },
+              {
+                "id": 1530,
+                "guid": "6a06f1ec-dc2d-580a-9e3f-d9389ef2a01e",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-08-23T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "1:00",
+                "room": "Village:Digitalcourage",
+                "slug": "camp2019-1530-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.",
+                "persons": [],
+                "links": [
+                  "https://digitalcourage.de"
+                ]
+              }
+            ],
             "Village:Dragon Sleep Pwn Sector": [
               {
                 "id": 1492,
@@ -6449,28 +6491,6 @@
                   }
                 ],
                 "links": []
-              },
-              {
-                "id": 1420,
-                "guid": "4b72c9b7-1fe5-4f4b-9a31-21c0de7e9303",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:YunoHost_workshop:_install_your_own!",
-                "logo": null,
-                "date": "2019-08-23T18:00:00+02:00",
-                "start": "18:00",
-                "duration": "1:00",
-                "room": "Village:Librehosters",
-                "slug": "camp2019-1420-session_yunohost_workshop_install_your_own_",
-                "title": "YunoHost workshop: install your own!",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Self-hosting apps for your friends and organization should be easy!",
-                "persons": [],
-                "links": [
-                  "https://yunohost.org"
-                ]
               }
             ],
             "Village:Milliways": [
@@ -6910,28 +6930,6 @@
                 "persons": [],
                 "links": [
                   "http://github.com/fort-nix/nix-bitcoin"
-                ]
-              },
-              {
-                "id": 1379,
-                "guid": "0c0709ed-6fba-4013-aa75-fcfc4f07e1c7",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:You_broke_the_internet,_let_us_build_a_GNU_one",
-                "logo": null,
-                "date": "2019-08-24T14:00:00+02:00",
-                "start": "14:00",
-                "duration": "1:30",
-                "room": "Johnson (Workshop 1)",
-                "slug": "camp2019-1379-session_you_broke_the_internet_let_us_build_a_gnu_one",
-                "title": "You broke the internet, let us build a GNU one",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "en",
-                "abstract": "",
-                "description": "GNUnet meetup for the community",
-                "persons": [],
-                "links": [
-                  "https://gnunet.org"
                 ]
               }
             ],
@@ -7934,10 +7932,16 @@
                 "subtitle": "",
                 "track": "self organized sessions",
                 "type": "workshop",
-                "language": "",
+                "language": "en",
                 "abstract": "",
-                "description": "",
-                "persons": [],
+                "description": "Installing, configuring and customizing Cryptpad",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Promasu",
+                    "public_name": "Promasu"
+                  }
+                ],
                 "links": []
               },
               {
@@ -8102,6 +8106,182 @@
                 ],
                 "links": [
                   "https://digitalcourage.de/digitale-selbstverteidigung"
+                ]
+              },
+              {
+                "id": 1513,
+                "guid": "e8953357-8a57-5b33-94b1-d83f48376e39",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-08-24T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "1:00",
+                "room": "Village:Digitalcourage",
+                "slug": "camp2019-1513-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.",
+                "persons": [],
+                "links": [
+                  "https://digitalcourage.de"
+                ]
+              },
+              {
+                "id": 1518,
+                "guid": "2f5b2fd4-977e-5541-85b6-350862431cda",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-08-24T10:00:00+02:00",
+                "start": "10:00",
+                "duration": "1:00",
+                "room": "Village:Digitalcourage",
+                "slug": "camp2019-1518-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.",
+                "persons": [],
+                "links": [
+                  "https://digitalcourage.de"
+                ]
+              },
+              {
+                "id": 1520,
+                "guid": "9e140cf4-56c9-5812-844d-1da66a8d74ca",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-08-24T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "Village:Digitalcourage",
+                "slug": "camp2019-1520-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.",
+                "persons": [],
+                "links": [
+                  "https://digitalcourage.de"
+                ]
+              },
+              {
+                "id": 1521,
+                "guid": "7816b249-afda-5897-a7fc-5f1db2ea04b5",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-08-24T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "1:00",
+                "room": "Village:Digitalcourage",
+                "slug": "camp2019-1521-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.",
+                "persons": [],
+                "links": [
+                  "https://digitalcourage.de"
+                ]
+              },
+              {
+                "id": 1522,
+                "guid": "6b08708a-fd70-5918-a878-a165f4ee89c9",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-08-24T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "1:00",
+                "room": "Village:Digitalcourage",
+                "slug": "camp2019-1522-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.",
+                "persons": [],
+                "links": [
+                  "https://digitalcourage.de"
+                ]
+              },
+              {
+                "id": 1523,
+                "guid": "8c7bacf0-fbeb-5289-81c6-8b2c4a131233",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-08-24T12:00:00+02:00",
+                "start": "12:00",
+                "duration": "1:00",
+                "room": "Village:Digitalcourage",
+                "slug": "camp2019-1523-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.",
+                "persons": [],
+                "links": [
+                  "https://digitalcourage.de"
+                ]
+              },
+              {
+                "id": 1527,
+                "guid": "54fa8724-3760-5e68-a82d-7ca2a837d0fd",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-08-24T13:00:00+02:00",
+                "start": "13:00",
+                "duration": "1:00",
+                "room": "Village:Digitalcourage",
+                "slug": "camp2019-1527-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.",
+                "persons": [],
+                "links": [
+                  "https://digitalcourage.de"
+                ]
+              },
+              {
+                "id": 1529,
+                "guid": "918243a8-e774-508e-be42-45ea109663e5",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-08-24T11:00:00+02:00",
+                "start": "11:00",
+                "duration": "1:00",
+                "room": "Village:Digitalcourage",
+                "slug": "camp2019-1529-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.",
+                "persons": [],
+                "links": [
+                  "https://digitalcourage.de"
                 ]
               }
             ],
@@ -8936,6 +9116,182 @@
                 ],
                 "links": [
                   "https://digitalcourage.de/digitale-selbstverteidigung"
+                ]
+              },
+              {
+                "id": 1512,
+                "guid": "34cc5457-b2a0-4083-a06d-036fdd6aabb8",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-08-25T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "Village:Digitalcourage",
+                "slug": "camp2019-1512-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.",
+                "persons": [],
+                "links": [
+                  "https://digitalcourage.de"
+                ]
+              },
+              {
+                "id": 1515,
+                "guid": "c042d136-114a-5734-bc7a-43cf11618584",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-08-25T10:00:00+02:00",
+                "start": "10:00",
+                "duration": "1:00",
+                "room": "Village:Digitalcourage",
+                "slug": "camp2019-1515-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.",
+                "persons": [],
+                "links": [
+                  "https://digitalcourage.de"
+                ]
+              },
+              {
+                "id": 1516,
+                "guid": "1a22522d-d6ee-5491-932b-28176f842083",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-08-25T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "1:00",
+                "room": "Village:Digitalcourage",
+                "slug": "camp2019-1516-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.",
+                "persons": [],
+                "links": [
+                  "https://digitalcourage.de"
+                ]
+              },
+              {
+                "id": 1517,
+                "guid": "4ff694cf-42ba-573c-8cd0-c52284a99724",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-08-25T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "1:00",
+                "room": "Village:Digitalcourage",
+                "slug": "camp2019-1517-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.",
+                "persons": [],
+                "links": [
+                  "https://digitalcourage.de"
+                ]
+              },
+              {
+                "id": 1519,
+                "guid": "3c4ad215-b6fc-5194-a560-5cbdfe7dc774",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-08-25T12:00:00+02:00",
+                "start": "12:00",
+                "duration": "1:00",
+                "room": "Village:Digitalcourage",
+                "slug": "camp2019-1519-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.",
+                "persons": [],
+                "links": [
+                  "https://digitalcourage.de"
+                ]
+              },
+              {
+                "id": 1524,
+                "guid": "c556ba3f-f36d-521a-94e9-1f88dc86320c",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-08-25T11:00:00+02:00",
+                "start": "11:00",
+                "duration": "1:00",
+                "room": "Village:Digitalcourage",
+                "slug": "camp2019-1524-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.",
+                "persons": [],
+                "links": [
+                  "https://digitalcourage.de"
+                ]
+              },
+              {
+                "id": 1525,
+                "guid": "78dc837c-dcc6-5747-b635-58bd55a34372",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-08-25T15:00:00+02:00",
+                "start": "15:00",
+                "duration": "1:00",
+                "room": "Village:Digitalcourage",
+                "slug": "camp2019-1525-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.",
+                "persons": [],
+                "links": [
+                  "https://digitalcourage.de"
+                ]
+              },
+              {
+                "id": 1528,
+                "guid": "70f15f54-c124-5e67-9385-bacff047ece3",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-08-25T13:00:00+02:00",
+                "start": "13:00",
+                "duration": "1:00",
+                "room": "Village:Digitalcourage",
+                "slug": "camp2019-1528-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.",
+                "persons": [],
+                "links": [
+                  "https://digitalcourage.de"
                 ]
               }
             ],
