@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-23 14:40</version>
+  <version>2019-08-23 14:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -4305,49 +4305,27 @@
         </links>
       </event>
     </room>
-    <room name="Village:Königlich Bayerisches Amtsvillage">
-      <event id="1439" guid="e6c6fdf5-f248-45e7-bdbe-98e7c1cef775">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Blinking_Selfmade_LED_Ear_Ring_Workshop</url>
+    <room name="Hackcenter">
+      <event id="1509" guid="4c9adb2b-0836-4669-87fa-075eb171fb5b">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Blinkenpoi</url>
         <logo/>
         <date>2019-08-23T19:00:00+02:00</date>
         <start>19:00</start>
-        <duration>0:30</duration>
-        <room>Village:Königlich Bayerisches Amtsvillage</room>
-        <slug>camp2019-1439-session_blinking_selfmade_led_ear_ring_workshop</slug>
-        <title>Blinking Selfmade LED Ear Ring Workshop</title>
-        <subtitle>Hands-On Workshop  Day3- evening</subtitle>
+        <duration>2:00</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1509-session_blinkenpoi</slug>
+        <title>Blinkenpoi</title>
+        <subtitle>Hands-on</subtitle>
         <track>self organized sessions</track>
-        <type>hands-on</type>
+        <type>workshop</type>
         <language>de</language>
         <abstract/>
-        <description>Soldering Blinking Ear Rings</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:M1P3">M1P3</person>
-        </persons>
-        <links/>
-      </event>
-    </room>
-    <room name="Village:MOiN">
-      <event id="1508" guid="74d4991d-1d90-4790-8f79-7e564f221509">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Bl%C3%A5haj-Versammlung</url>
-        <logo/>
-        <date>2019-08-23T20:00:00+02:00</date>
-        <start>20:00</start>
-        <duration>1:00</duration>
-        <room>Village:MOiN</room>
-        <slug>camp2019-1508-session_blhaj_versammlung</slug>
-        <title>Blåhaj-Versammlung</title>
-        <subtitle>All Fischies welcome!</subtitle>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>da</language>
-        <abstract/>
-        <description>Blåhaj-Versammlung</description>
+        <description>Build a BlinkenPoi</description>
         <persons/>
-        <links/>
+        <links>
+          <link>https://metalab.at/wiki/Blinkenpoi</link>
+        </links>
       </event>
-    </room>
-    <room name="Hackcenter">
       <event id="1041" guid="7976438d-2b1a-4303-96f5-d6846c9f42f6">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Bodymind_Operating_System</url>
         <logo/>
@@ -4391,6 +4369,48 @@
         <links>
           <link>https://susi.ai</link>
         </links>
+      </event>
+    </room>
+    <room name="Village:Königlich Bayerisches Amtsvillage">
+      <event id="1439" guid="e6c6fdf5-f248-45e7-bdbe-98e7c1cef775">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Blinking_Selfmade_LED_Ear_Ring_Workshop</url>
+        <logo/>
+        <date>2019-08-23T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>0:30</duration>
+        <room>Village:Königlich Bayerisches Amtsvillage</room>
+        <slug>camp2019-1439-session_blinking_selfmade_led_ear_ring_workshop</slug>
+        <title>Blinking Selfmade LED Ear Ring Workshop</title>
+        <subtitle>Hands-On Workshop  Day3- evening</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Soldering Blinking Ear Rings</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:M1P3">M1P3</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Village:MOiN">
+      <event id="1508" guid="74d4991d-1d90-4790-8f79-7e564f221509">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Bl%C3%A5haj-Versammlung</url>
+        <logo/>
+        <date>2019-08-23T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Village:MOiN</room>
+        <slug>camp2019-1508-session_blhaj_versammlung</slug>
+        <title>Blåhaj-Versammlung</title>
+        <subtitle>All Fischies welcome!</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>da</language>
+        <abstract/>
+        <description>Blåhaj-Versammlung</description>
+        <persons/>
+        <links/>
       </event>
     </room>
     <room name="Village:BornHack">
@@ -5403,6 +5423,26 @@
         <links>
           <link>https://www.robokoding.com/kits/sumorobot</link>
         </links>
+      </event>
+    </room>
+    <room name="Village:Sft / pwnda village™">
+      <event id="1510" guid="46c4aecf-99a7-4595-83c2-68744b1cd955">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Stargazing_with_a_telescope</url>
+        <logo/>
+        <date>2019-08-23T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>2:00</duration>
+        <room>Village:Sft / pwnda village™</room>
+        <slug>camp2019-1510-session_stargazing_with_a_telescope</slug>
+        <title>Stargazing with a telescope</title>
+        <subtitle>looking up</subtitle>
+        <track>self organized sessions</track>
+        <type>outside</type>
+        <language>en</language>
+        <abstract/>
+        <description>Wir beobachten Planeten und Sterne mit einem Teleskop. We are gazing at stars</description>
+        <persons/>
+        <links/>
       </event>
     </room>
   </day>
@@ -7248,6 +7288,28 @@
         <links>
           <link>https://www.robokoding.com/kits/sumorobot</link>
         </links>
+      </event>
+    </room>
+    <room name="Village:Singularity City">
+      <event id="1511" guid="488d1e1b-c4bd-4740-b0c3-54c4121e510c">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:The_camp_LTE_network</url>
+        <logo/>
+        <date>2019-08-25T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>0:45</duration>
+        <room>Village:Singularity City</room>
+        <slug>camp2019-1511-session_the_camp_lte_network</slug>
+        <title>The camp LTE network</title>
+        <subtitle>how the camp LTE network is built</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>The camp LTE network</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:LaF0rge">LaF0rge</person>
+        </persons>
+        <links/>
       </event>
     </room>
   </day>

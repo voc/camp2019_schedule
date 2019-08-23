@@ -1,0 +1,22 @@
+{
+  "id": 1509,
+  "guid": "4c9adb2b-0836-4669-87fa-075eb171fb5b",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Blinkenpoi",
+  "logo": null,
+  "date": "2019-08-23T19:00:00+02:00",
+  "start": "19:00",
+  "duration": "2:00",
+  "room": "Hackcenter",
+  "slug": "camp2019-1509-session_blinkenpoi",
+  "title": "Blinkenpoi",
+  "subtitle": "Hands-on",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "Build a BlinkenPoi",
+  "persons": [],
+  "links": [
+    "https://metalab.at/wiki/Blinkenpoi"
+  ]
+}

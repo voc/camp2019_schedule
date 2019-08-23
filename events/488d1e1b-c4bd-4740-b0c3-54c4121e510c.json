@@ -1,0 +1,26 @@
+{
+  "id": 1511,
+  "guid": "488d1e1b-c4bd-4740-b0c3-54c4121e510c",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:The_camp_LTE_network",
+  "logo": null,
+  "date": "2019-08-25T12:00:00+02:00",
+  "start": "12:00",
+  "duration": "0:45",
+  "room": "Village:Singularity City",
+  "slug": "camp2019-1511-session_the_camp_lte_network",
+  "title": "The camp LTE network",
+  "subtitle": "how the camp LTE network is built",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "The camp LTE network",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:LaF0rge",
+      "public_name": "LaF0rge"
+    }
+  ],
+  "links": []
+}
