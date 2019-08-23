@@ -1,0 +1,26 @@
+{
+  "id": 1579,
+  "guid": "5cc54a44-ebc9-52e9-aedf-0ecc24c7444b",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Drumm_and_bass_-_benks",
+  "logo": null,
+  "date": "2019-08-24T01:00:00+02:00",
+  "start": "01:00",
+  "duration": "1:00",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1579-session_drumm_and_bass_benks",
+  "title": "Drumm and bass - benks",
+  "subtitle": "about:stage",
+  "track": "self organized sessions",
+  "type": "other",
+  "language": "de",
+  "abstract": "",
+  "description": "drumm and bass",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Benks",
+      "public_name": "Benks"
+    }
+  ],
+  "links": []
+}

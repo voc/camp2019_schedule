@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 01:00</version>
+  <version>Hadar; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 01:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -5005,28 +5005,6 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
           <link>https://substrate.dev/en/tutorials</link>
         </links>
       </event>
-      <event id="1139" guid="74735d77-9d77-4c14-b823-81a1c91820ee">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Tor_Project:_running_Tor_trainings_with_human_rights_defenders_in_Global_South</url>
-        <logo/>
-        <date>2019-08-22T14:30:00+02:00</date>
-        <start>14:30</start>
-        <duration>0:55</duration>
-        <room>Village:About:freedom</room>
-        <slug>camp2019-1139-session_tor_project_running_tor_trainings_with_human_rights_defenders_in_global_south</slug>
-        <title>Tor Project: running Tor trainings with human rights defenders in Global South</title>
-        <subtitle>about:stage</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>Meeting the Global South community and users</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
-        </persons>
-        <links>
-          <link>https://www.torproject.org</link>
-        </links>
-      </event>
     </room>
     <room name="Village:1komona">
       <event id="1352" guid="a4924a82-9cf2-4f01-ac38-b2fae9f50b45">
@@ -8461,6 +8439,26 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <links>
           <link>http://trummerschlunk.de</link>
         </links>
+      </event>
+      <event id="1579" guid="5cc54a44-ebc9-52e9-aedf-0ecc24c7444b">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Drumm_and_bass_-_benks</url>
+        <logo/>
+        <date>2019-08-24T01:00:00+02:00</date>
+        <start>01:00</start>
+        <duration>1:00</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1579-session_drumm_and_bass_benks</slug>
+        <title>Drumm and bass - benks</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>drumm and bass</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Benks">Benks</person>
+        </persons>
+        <links/>
       </event>
       <event id="1447" guid="12a66c12-726d-47ff-9cd8-b8d0a3e1aa40">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Extinction_Rebellion:_planning_civil_disobedience</url>
