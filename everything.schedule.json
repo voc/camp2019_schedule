@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 21:30",
+    "version": "Hadar; lounges 808; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 21:50",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -5600,32 +5600,6 @@
                 "links": [
                   "https://www.torproject.org"
                 ]
-              },
-              {
-                "id": 1246,
-                "guid": "a6715135-987f-418c-8dad-d5896ac63695",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Treffen_und_Diskussion_zur_Netzpolitik_in_der_Schweiz",
-                "logo": null,
-                "date": "2019-08-22T10:30:00+02:00",
-                "start": "10:30",
-                "duration": "1:25",
-                "room": "Village:About:freedom",
-                "slug": "camp2019-1246-session_treffen_und_diskussion_zur_netzpolitik_in_der_schweiz",
-                "title": "Treffen und Diskussion zur Netzpolitik in der Schweiz",
-                "subtitle": "about:stage",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "de",
-                "abstract": "",
-                "description": "Netzpolitik-Fr\u00fchst\u00fcck: Kaffee & Gipfeli ab 10.30, Vorstellung und Diskussion der aktuellen und anstehenden Themen im Herbst (E-ID, E-Voting, Datenschutzgesetz, Netzneutralit\u00e4t, ...) ab 11.00 Uhr",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Kire",
-                    "public_name": "Kire"
-                  }
-                ],
-                "links": []
               }
             ],
             "Village:1komona": [
@@ -8399,8 +8373,8 @@
                 "id": 10447,
                 "guid": "56967900-1040-4a3a-895c-5dea88a24d90",
                 "logo": "/system/events/logos/000/010/447/large/lasvegaslady.jpg?1566518133",
-                "date": "2019-08-23T23:00:00+02:00",
-                "start": "23:00",
+                "date": "2019-08-23T22:00:00+02:00",
+                "start": "22:00",
                 "duration": "01:00",
                 "room": "Komona Stage",
                 "slug": "camp19lounge-10447-las_vegas_lady",
@@ -8427,8 +8401,8 @@
                 "id": 10446,
                 "guid": "a459216b-eb18-44ad-b49b-17ad116f35fb",
                 "logo": "/system/events/logos/000/010/446/large/planeteconcrete.jpg?1566517810",
-                "date": "2019-08-24T00:00:00+02:00",
-                "start": "00:00",
+                "date": "2019-08-23T23:00:00+02:00",
+                "start": "23:00",
                 "duration": "01:00",
                 "room": "Komona Stage",
                 "slug": "camp19lounge-10446-planete_concrete",

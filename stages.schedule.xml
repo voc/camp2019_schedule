@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island</version>
+  <version>Hadar; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -4508,8 +4508,8 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
       <event id="10447" guid="56967900-1040-4a3a-895c-5dea88a24d90">
         <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10447.html</url>
         <logo>/system/events/logos/000/010/447/large/lasvegaslady.jpg?1566518133</logo>
-        <date>2019-08-23T23:00:00+02:00</date>
-        <start>23:00</start>
+        <date>2019-08-23T22:00:00+02:00</date>
+        <start>22:00</start>
         <duration>01:00</duration>
         <room>Komona Stage</room>
         <slug>camp19lounge-10447-las_vegas_lady</slug>
@@ -4533,8 +4533,8 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
       <event id="10446" guid="a459216b-eb18-44ad-b49b-17ad116f35fb">
         <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10446.html</url>
         <logo>/system/events/logos/000/010/446/large/planeteconcrete.jpg?1566517810</logo>
-        <date>2019-08-24T00:00:00+02:00</date>
-        <start>00:00</start>
+        <date>2019-08-23T23:00:00+02:00</date>
+        <start>23:00</start>
         <duration>01:00</duration>
         <room>Komona Stage</room>
         <slug>camp19lounge-10446-planete_concrete</slug>

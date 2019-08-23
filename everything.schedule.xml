@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 21:30</version>
+  <version>Hadar; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 21:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -5049,26 +5049,6 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
           <link>https://www.torproject.org</link>
         </links>
       </event>
-      <event id="1246" guid="a6715135-987f-418c-8dad-d5896ac63695">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Treffen_und_Diskussion_zur_Netzpolitik_in_der_Schweiz</url>
-        <logo/>
-        <date>2019-08-22T10:30:00+02:00</date>
-        <start>10:30</start>
-        <duration>1:25</duration>
-        <room>Village:About:freedom</room>
-        <slug>camp2019-1246-session_treffen_und_diskussion_zur_netzpolitik_in_der_schweiz</slug>
-        <title>Treffen und Diskussion zur Netzpolitik in der Schweiz</title>
-        <subtitle>about:stage</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>Netzpolitik-Frühstück: Kaffee &amp; Gipfeli ab 10.30, Vorstellung und Diskussion der aktuellen und anstehenden Themen im Herbst (E-ID, E-Voting, Datenschutzgesetz, Netzneutralität, ...) ab 11.00 Uhr</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Kire">Kire</person>
-        </persons>
-        <links/>
-      </event>
     </room>
     <room name="Village:1komona">
       <event id="1352" guid="a4924a82-9cf2-4f01-ac38-b2fae9f50b45">
@@ -7511,8 +7491,8 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
       <event id="10447" guid="56967900-1040-4a3a-895c-5dea88a24d90">
         <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10447.html</url>
         <logo>/system/events/logos/000/010/447/large/lasvegaslady.jpg?1566518133</logo>
-        <date>2019-08-23T23:00:00+02:00</date>
-        <start>23:00</start>
+        <date>2019-08-23T22:00:00+02:00</date>
+        <start>22:00</start>
         <duration>01:00</duration>
         <room>Komona Stage</room>
         <slug>camp19lounge-10447-las_vegas_lady</slug>
@@ -7536,8 +7516,8 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
       <event id="10446" guid="a459216b-eb18-44ad-b49b-17ad116f35fb">
         <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10446.html</url>
         <logo>/system/events/logos/000/010/446/large/planeteconcrete.jpg?1566517810</logo>
-        <date>2019-08-24T00:00:00+02:00</date>
-        <start>00:00</start>
+        <date>2019-08-23T23:00:00+02:00</date>
+        <start>23:00</start>
         <duration>01:00</duration>
         <room>Komona Stage</room>
         <slug>camp19lounge-10446-planete_concrete</slug>

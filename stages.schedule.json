@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island",
+    "version": "Hadar; lounges 808; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island",
     "base_url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/",
     "conference": {
       "acronym": "Camp2019",
@@ -4595,8 +4595,8 @@
                 "id": 10447,
                 "guid": "56967900-1040-4a3a-895c-5dea88a24d90",
                 "logo": "/system/events/logos/000/010/447/large/lasvegaslady.jpg?1566518133",
-                "date": "2019-08-23T23:00:00+02:00",
-                "start": "23:00",
+                "date": "2019-08-23T22:00:00+02:00",
+                "start": "22:00",
                 "duration": "01:00",
                 "room": "Komona Stage",
                 "slug": "camp19lounge-10447-las_vegas_lady",
@@ -4623,8 +4623,8 @@
                 "id": 10446,
                 "guid": "a459216b-eb18-44ad-b49b-17ad116f35fb",
                 "logo": "/system/events/logos/000/010/446/large/planeteconcrete.jpg?1566517810",
-                "date": "2019-08-24T00:00:00+02:00",
-                "start": "00:00",
+                "date": "2019-08-23T23:00:00+02:00",
+                "start": "23:00",
                 "duration": "01:00",
                 "room": "Komona Stage",
                 "slug": "camp19lounge-10446-planete_concrete",
