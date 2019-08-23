@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-24 00:10",
+    "version": "2019-08-24 01:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -871,34 +871,6 @@
                   }
                 ],
                 "links": []
-              },
-              {
-                "id": 1140,
-                "guid": "9c0d9834-b2a4-4a2e-9c15-9e54bac815d0",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Tor_Relay_Operator_Meetup",
-                "logo": null,
-                "date": "2019-08-21T18:00:00+02:00",
-                "start": "18:00",
-                "duration": "1:55",
-                "room": "Village:About:freedom",
-                "slug": "camp2019-1140-session_tor_relay_operator_meetup",
-                "title": "Tor Relay Operator Meetup",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "Come learn about Tor Project and privacy, and hang out with Tor contributors",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
-                    "public_name": "Gnunicorn"
-                  }
-                ],
-                "links": [
-                  "https://www.torproject.org"
-                ]
               }
             ],
             "Village:Digitalcourage": [
@@ -8395,6 +8367,28 @@
                 ],
                 "links": [
                   "http://angela.is/SocialTech/"
+                ]
+              },
+              {
+                "id": 1578,
+                "guid": "f563b8de-80fa-47a8-b017-8b42ed5516a4",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Stand_with_Hongkong",
+                "logo": null,
+                "date": "2019-08-24T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "Village:Haecksen",
+                "slug": "camp2019-1578-session_stand_with_hongkong",
+                "title": "Stand with Hongkong",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "We want to meet, discuss Hongkong / Chinese Politics and come up with ways to support HK",
+                "persons": [],
+                "links": [
+                  "https://mobile.twitter.com/hkcccamp19"
                 ]
               }
             ],

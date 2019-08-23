@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 00:10</version>
+  <version>Hadar; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 01:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -1793,28 +1793,6 @@ Consultation hours are held in German or English, depending on the need. Oh, and
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Benks">Benks</person>
         </persons>
         <links/>
-      </event>
-      <event id="1140" guid="9c0d9834-b2a4-4a2e-9c15-9e54bac815d0">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Tor_Relay_Operator_Meetup</url>
-        <logo/>
-        <date>2019-08-21T18:00:00+02:00</date>
-        <start>18:00</start>
-        <duration>1:55</duration>
-        <room>Village:About:freedom</room>
-        <slug>camp2019-1140-session_tor_relay_operator_meetup</slug>
-        <title>Tor Relay Operator Meetup</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>Come learn about Tor Project and privacy, and hang out with Tor contributors</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
-        </persons>
-        <links>
-          <link>https://www.torproject.org</link>
-        </links>
       </event>
     </room>
     <room name="Village:Digitalcourage">
@@ -12492,6 +12470,26 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         </persons>
         <links>
           <link>http://angela.is/SocialTech/</link>
+        </links>
+      </event>
+      <event id="1578" guid="f563b8de-80fa-47a8-b017-8b42ed5516a4">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Stand_with_Hongkong</url>
+        <logo/>
+        <date>2019-08-24T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1578-session_stand_with_hongkong</slug>
+        <title>Stand with Hongkong</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>We want to meet, discuss Hongkong / Chinese Politics and come up with ways to support HK</description>
+        <persons/>
+        <links>
+          <link>https://mobile.twitter.com/hkcccamp19</link>
         </links>
       </event>
     </room>
