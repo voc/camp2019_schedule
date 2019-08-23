@@ -1,0 +1,20 @@
+{
+  "id": 1490,
+  "guid": "caf7a533-0791-4106-9f26-a1503f25a30b",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:NixOS_/_QubesOS_fusion",
+  "logo": null,
+  "date": "2019-08-24T15:00:00+02:00",
+  "start": "15:00",
+  "duration": "1:00",
+  "room": "Village:NixOS",
+  "slug": "camp2019-1490-session_nixos_qubesos_fusion",
+  "title": "NixOS / QubesOS fusion",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "",
+  "persons": [],
+  "links": []
+}

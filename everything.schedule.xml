@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 11:40</version>
+  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 12:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -8213,7 +8213,7 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <type>workshop</type>
         <language/>
         <abstract/>
-        <description/>
+        <description>Animate your own drawings or use our huge collection of images made by newcomers. you are kindly invited to animate them analog on a lighting table or online on trixmix.tv  You find us in the heart of code dome. (a very warm thank you at this point to Heart of Code for hosting us! :)</description>
         <persons/>
         <links>
           <link>http://trixmix.tv</link>
@@ -11725,7 +11725,7 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <type>hands-on</type>
         <language>en</language>
         <abstract/>
-        <description>Introduction to and testing of the #like2hear OpenHearingAid prototype</description>
+        <description>Introduction to and testing of the #like2hear hearable research prototype</description>
         <persons/>
         <links>
           <link>https://www.idmt.fraunhofer.de/de/institute/projects-products/projects/liketohear.html</link>
@@ -12192,6 +12192,26 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <language>de</language>
         <abstract/>
         <description>Let's hack words is a session for everyone, who wants to explore creative writing, build worlds and lets characters dive into adventures. Or - for a start - just wants to get rid of hacker's block.</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
+    <room name="Village:NixOS">
+      <event id="1490" guid="caf7a533-0791-4106-9f26-a1503f25a30b">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:NixOS_/_QubesOS_fusion</url>
+        <logo/>
+        <date>2019-08-24T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Village:NixOS</room>
+        <slug>camp2019-1490-session_nixos_qubesos_fusion</slug>
+        <title>NixOS / QubesOS fusion</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
         <persons/>
         <links/>
       </event>
