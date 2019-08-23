@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 16:30</version>
+  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 17:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -11922,6 +11922,24 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <links>
           <link>http://www.8os.io</link>
         </links>
+      </event>
+      <event id="1538" guid="145004d6-950a-4512-9e16-72ad7fca8fca">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:How_to_design_a_DIY_keyboard_for_you</url>
+        <logo/>
+        <date>2019-08-24T15:15:00+02:00</date>
+        <start>15:15</start>
+        <duration>0:30</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1538-session_how_to_design_a_diy_keyboard_for_you</slug>
+        <title>How to design a DIY keyboard for you</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Describe my experience of DIY keyboard and introduce important points to do it by yourself. I am a DIY keyboard enthusiast. I made several keyboards and found some techniques to customize sold products for me. I will talk about my latest keyboard in order to transfer knowledge behind it. I also discuss about working environment, related to keyboards.</description>
+        <persons/>
+        <links/>
       </event>
       <event id="1488" guid="8e5dd139-3da2-4138-bc37-9c1738185ff7">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Like2hear_OpenHearingAid_for_field_research</url>

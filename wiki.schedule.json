@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-23 16:30",
+    "version": "2019-08-23 17:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -7741,6 +7741,26 @@
                 "links": [
                   "http://www.8os.io"
                 ]
+              },
+              {
+                "id": 1538,
+                "guid": "145004d6-950a-4512-9e16-72ad7fca8fca",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:How_to_design_a_DIY_keyboard_for_you",
+                "logo": null,
+                "date": "2019-08-24T15:15:00+02:00",
+                "start": "15:15",
+                "duration": "0:30",
+                "room": "Hackcenter",
+                "slug": "camp2019-1538-session_how_to_design_a_diy_keyboard_for_you",
+                "title": "How to design a DIY keyboard for you",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "Describe my experience of DIY keyboard and introduce important points to do it by yourself. I am a DIY keyboard enthusiast. I made several keyboards and found some techniques to customize sold products for me. I will talk about my latest keyboard in order to transfer knowledge behind it. I also discuss about working environment, related to keyboards.",
+                "persons": [],
+                "links": []
               },
               {
                 "id": 1488,
