@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-23 22:40",
+    "version": "2019-08-23 22:50",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -3932,6 +3932,88 @@
                 ]
               }
             ],
+            "Village:Chaoswelle": [
+              {
+                "id": 1576,
+                "guid": "c6b68e7a-d3d8-4f67-9ab7-2f3334f4cda0",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:APRS",
+                "logo": null,
+                "date": "2019-08-23T21:00:00+02:00",
+                "start": "21:00",
+                "duration": "1:00",
+                "room": "Village:Chaoswelle",
+                "slug": "camp2019-1576-session_aprs",
+                "title": "APRS",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Automatic Packet Reporting System",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1346,
+                "guid": "5994d79f-c014-4ba3-8cb3-7956276a3f4c",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Amateurfunk_f%C3%BCr_Dummies",
+                "logo": null,
+                "date": "2019-08-23T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "0:30",
+                "room": "Village:Chaoswelle",
+                "slug": "camp2019-1346-session_amateurfunk_fuer_dummies",
+                "title": "Amateurfunk f\u00fcr Dummies",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1347,
+                "guid": "50cea405-319b-4d75-a6b0-87f8a0120ac9",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Aus-_und_Weiterbildung_im_Amateurfunk",
+                "logo": null,
+                "date": "2019-08-23T18:30:00+02:00",
+                "start": "18:30",
+                "duration": "0:30",
+                "room": "Village:Chaoswelle",
+                "slug": "camp2019-1347-session_aus_und_weiterbildung_im_amateurfunk",
+                "title": "Aus- und Weiterbildung im Amateurfunk",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "de",
+                "abstract": "",
+                "description": "",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1371,
+                "guid": "ee1a2594-4589-489f-a5e1-ce3bc0760549",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Customizing_Bluetooth_and_Wi-Fi_Firmware",
+                "logo": null,
+                "date": "2019-08-23T19:30:00+02:00",
+                "start": "19:30",
+                "duration": "0:30",
+                "room": "Village:Chaoswelle",
+                "slug": "camp2019-1371-session_customizing_bluetooth_and_wi_fi_firmware",
+                "title": "Customizing Bluetooth and Wi-Fi Firmware",
+                "subtitle": "Binary patching for Broadcom Wi-Fi/Bluetooth combo chips",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Introduction talk to binary patching with Nexmon for Wi-Fi and Bluetooth. Followed by a practical part with a focus on patching Bluetooth on off-the-shelf smartphones and laptops with a Broadcom Bluetooth chip.",
+                "persons": [],
+                "links": []
+              }
+            ],
             "Village:Backspace": [
               {
                 "id": 1029,
@@ -4031,68 +4113,6 @@
                     "public_name": "Advi"
                   }
                 ],
-                "links": []
-              }
-            ],
-            "Village:Chaoswelle": [
-              {
-                "id": 1346,
-                "guid": "5994d79f-c014-4ba3-8cb3-7956276a3f4c",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Amateurfunk_f%C3%BCr_Dummies",
-                "logo": null,
-                "date": "2019-08-23T18:00:00+02:00",
-                "start": "18:00",
-                "duration": "0:30",
-                "room": "Village:Chaoswelle",
-                "slug": "camp2019-1346-session_amateurfunk_fuer_dummies",
-                "title": "Amateurfunk f\u00fcr Dummies",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "",
-                "persons": [],
-                "links": []
-              },
-              {
-                "id": 1347,
-                "guid": "50cea405-319b-4d75-a6b0-87f8a0120ac9",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Aus-_und_Weiterbildung_im_Amateurfunk",
-                "logo": null,
-                "date": "2019-08-23T18:30:00+02:00",
-                "start": "18:30",
-                "duration": "0:30",
-                "room": "Village:Chaoswelle",
-                "slug": "camp2019-1347-session_aus_und_weiterbildung_im_amateurfunk",
-                "title": "Aus- und Weiterbildung im Amateurfunk",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "de",
-                "abstract": "",
-                "description": "",
-                "persons": [],
-                "links": []
-              },
-              {
-                "id": 1371,
-                "guid": "ee1a2594-4589-489f-a5e1-ce3bc0760549",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Customizing_Bluetooth_and_Wi-Fi_Firmware",
-                "logo": null,
-                "date": "2019-08-23T19:30:00+02:00",
-                "start": "19:30",
-                "duration": "0:30",
-                "room": "Village:Chaoswelle",
-                "slug": "camp2019-1371-session_customizing_bluetooth_and_wi_fi_firmware",
-                "title": "Customizing Bluetooth and Wi-Fi Firmware",
-                "subtitle": "Binary patching for Broadcom Wi-Fi/Bluetooth combo chips",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Introduction talk to binary patching with Nexmon for Wi-Fi and Bluetooth. Followed by a practical part with a focus on patching Bluetooth on off-the-shelf smartphones and laptops with a Broadcom Bluetooth chip.",
-                "persons": [],
                 "links": []
               }
             ],
@@ -7519,10 +7539,16 @@
                 "subtitle": "",
                 "track": "self organized sessions",
                 "type": "discussion",
-                "language": "",
+                "language": "de",
                 "abstract": "",
                 "description": "p2panda is the idea of a p2p protocol to run decentralized and self-organized festivals initiated by the association \"Liebe Chaos Verein e. V.\" based in Berlin - this session is a discussion of interested people of all directions, a space for strange, challenging and radical ideas on how we want to run the festivals of the future 8-)",
-                "persons": [],
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Adz",
+                    "public_name": "Adz"
+                  }
+                ],
                 "links": [
                   "https://github.com/adzialocha/p2panda-specification"
                 ]

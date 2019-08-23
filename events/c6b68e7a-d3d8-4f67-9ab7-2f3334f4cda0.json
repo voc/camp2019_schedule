@@ -1,0 +1,20 @@
+{
+  "id": 1576,
+  "guid": "c6b68e7a-d3d8-4f67-9ab7-2f3334f4cda0",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:APRS",
+  "logo": null,
+  "date": "2019-08-23T21:00:00+02:00",
+  "start": "21:00",
+  "duration": "1:00",
+  "room": "Village:Chaoswelle",
+  "slug": "camp2019-1576-session_aprs",
+  "title": "APRS",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Automatic Packet Reporting System",
+  "persons": [],
+  "links": []
+}

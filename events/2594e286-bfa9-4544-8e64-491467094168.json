@@ -12,10 +12,16 @@
   "subtitle": "",
   "track": "self organized sessions",
   "type": "discussion",
-  "language": "",
+  "language": "de",
   "abstract": "",
   "description": "p2panda is the idea of a p2p protocol to run decentralized and self-organized festivals initiated by the association \"Liebe Chaos Verein e. V.\" based in Berlin - this session is a discussion of interested people of all directions, a space for strange, challenging and radical ideas on how we want to run the festivals of the future 8-)",
-  "persons": [],
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Adz",
+      "public_name": "Adz"
+    }
+  ],
   "links": [
     "https://github.com/adzialocha/p2panda-specification"
   ]

@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-23 22:40</version>
+  <version>2019-08-23 22:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -3107,6 +3107,80 @@
         </links>
       </event>
     </room>
+    <room name="Village:Chaoswelle">
+      <event id="1576" guid="c6b68e7a-d3d8-4f67-9ab7-2f3334f4cda0">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:APRS</url>
+        <logo/>
+        <date>2019-08-23T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Village:Chaoswelle</room>
+        <slug>camp2019-1576-session_aprs</slug>
+        <title>APRS</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Automatic Packet Reporting System</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1346" guid="5994d79f-c014-4ba3-8cb3-7956276a3f4c">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Amateurfunk_f%C3%BCr_Dummies</url>
+        <logo/>
+        <date>2019-08-23T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>0:30</duration>
+        <room>Village:Chaoswelle</room>
+        <slug>camp2019-1346-session_amateurfunk_fuer_dummies</slug>
+        <title>Amateurfunk für Dummies</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1347" guid="50cea405-319b-4d75-a6b0-87f8a0120ac9">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Aus-_und_Weiterbildung_im_Amateurfunk</url>
+        <logo/>
+        <date>2019-08-23T18:30:00+02:00</date>
+        <start>18:30</start>
+        <duration>0:30</duration>
+        <room>Village:Chaoswelle</room>
+        <slug>camp2019-1347-session_aus_und_weiterbildung_im_amateurfunk</slug>
+        <title>Aus- und Weiterbildung im Amateurfunk</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1371" guid="ee1a2594-4589-489f-a5e1-ce3bc0760549">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Customizing_Bluetooth_and_Wi-Fi_Firmware</url>
+        <logo/>
+        <date>2019-08-23T19:30:00+02:00</date>
+        <start>19:30</start>
+        <duration>0:30</duration>
+        <room>Village:Chaoswelle</room>
+        <slug>camp2019-1371-session_customizing_bluetooth_and_wi_fi_firmware</slug>
+        <title>Customizing Bluetooth and Wi-Fi Firmware</title>
+        <subtitle>Binary patching for Broadcom Wi-Fi/Bluetooth combo chips</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Introduction talk to binary patching with Nexmon for Wi-Fi and Bluetooth. Followed by a practical part with a focus on patching Bluetooth on off-the-shelf smartphones and laptops with a Broadcom Bluetooth chip.</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
     <room name="Village:Backspace">
       <event id="1029" guid="0d7d26f7-702d-4311-8e34-a6aa8ef87895">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Advi_Weekly_Aufnahme</url>
@@ -3186,62 +3260,6 @@
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Advi">Advi</person>
         </persons>
-        <links/>
-      </event>
-    </room>
-    <room name="Village:Chaoswelle">
-      <event id="1346" guid="5994d79f-c014-4ba3-8cb3-7956276a3f4c">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Amateurfunk_f%C3%BCr_Dummies</url>
-        <logo/>
-        <date>2019-08-23T18:00:00+02:00</date>
-        <start>18:00</start>
-        <duration>0:30</duration>
-        <room>Village:Chaoswelle</room>
-        <slug>camp2019-1346-session_amateurfunk_fuer_dummies</slug>
-        <title>Amateurfunk für Dummies</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <links/>
-      </event>
-      <event id="1347" guid="50cea405-319b-4d75-a6b0-87f8a0120ac9">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Aus-_und_Weiterbildung_im_Amateurfunk</url>
-        <logo/>
-        <date>2019-08-23T18:30:00+02:00</date>
-        <start>18:30</start>
-        <duration>0:30</duration>
-        <room>Village:Chaoswelle</room>
-        <slug>camp2019-1347-session_aus_und_weiterbildung_im_amateurfunk</slug>
-        <title>Aus- und Weiterbildung im Amateurfunk</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <links/>
-      </event>
-      <event id="1371" guid="ee1a2594-4589-489f-a5e1-ce3bc0760549">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Customizing_Bluetooth_and_Wi-Fi_Firmware</url>
-        <logo/>
-        <date>2019-08-23T19:30:00+02:00</date>
-        <start>19:30</start>
-        <duration>0:30</duration>
-        <room>Village:Chaoswelle</room>
-        <slug>camp2019-1371-session_customizing_bluetooth_and_wi_fi_firmware</slug>
-        <title>Customizing Bluetooth and Wi-Fi Firmware</title>
-        <subtitle>Binary patching for Broadcom Wi-Fi/Bluetooth combo chips</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Introduction talk to binary patching with Nexmon for Wi-Fi and Bluetooth. Followed by a practical part with a focus on patching Bluetooth on off-the-shelf smartphones and laptops with a Broadcom Bluetooth chip.</description>
-        <persons/>
         <links/>
       </event>
     </room>
@@ -5998,10 +6016,12 @@
         <subtitle/>
         <track>self organized sessions</track>
         <type>discussion</type>
-        <language/>
+        <language>de</language>
         <abstract/>
         <description>p2panda is the idea of a p2p protocol to run decentralized and self-organized festivals initiated by the association "Liebe Chaos Verein e. V." based in Berlin - this session is a discussion of interested people of all directions, a space for strange, challenging and radical ideas on how we want to run the festivals of the future 8-)</description>
-        <persons/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Adz">Adz</person>
+        </persons>
         <links>
           <link>https://github.com/adzialocha/p2panda-specification</link>
         </links>
