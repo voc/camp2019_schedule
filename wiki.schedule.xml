@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-23 17:40</version>
+  <version>2019-08-23 18:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -770,26 +770,6 @@
         <description>lets go plant hunting at the lake and test some plant identification apps</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Minoi">Minoi</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1304" guid="f40b1ff2-7dbd-419a-8dc4-199f3bf33c0e">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour</url>
-        <logo/>
-        <date>2019-08-21T17:30:00+02:00</date>
-        <start>17:30</start>
-        <duration>1:00</duration>
-        <room>Village:Kidspace</room>
-        <slug>camp2019-1304-session_vorlesestunde_reading_hour</slug>
-        <title>Vorlesestunde / reading hour</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description>Kinderbücher vorlesen</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Ckeen">Ckeen</person>
         </persons>
         <links/>
       </event>
@@ -4546,6 +4526,26 @@
         <links/>
       </event>
     </room>
+    <room name="Village:Hacksaar">
+      <event id="1544" guid="2b4e784e-aaab-48f3-a836-83b350d630eb">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:DIY_Merch_-_Print_your_own_T-Shirt!</url>
+        <logo/>
+        <date>2019-08-23T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Village:Hacksaar</room>
+        <slug>camp2019-1544-session_diy_merch_print_your_own_t_shirt_</slug>
+        <title>DIY Merch - Print your own T-Shirt!</title>
+        <subtitle>First printing session</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Print your own camp shirt, Datenhörnchen, Datenknoten or Fairydust onto a T-Shirt!</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
     <room name="Village:Haecksen">
       <event id="1314" guid="b5dd48f1-339a-4de9-b32b-9b01eec5d1d7">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Der_Haecksen-Hack</url>
@@ -6022,6 +6022,24 @@
           <link>http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence</link>
         </links>
       </event>
+      <event id="1545" guid="9515d766-a627-48c2-a62f-f20593e0e600">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:How_to_talk_to_the_badge_-_a_(micro-)python_introduction_for_BEGINNERS!</url>
+        <logo/>
+        <date>2019-08-24T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>1:30</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1545-session_how_to_talk_to_the_badge_a_micro_python_introduction_for_beginners_</slug>
+        <title>How to talk to the badge - a (micro-)python introduction for BEGINNERS!</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>@Heart of Code dome in the 1komona Village. We will give a short python introduction and then focus on finding out together how to talk to the badge, let LEDs blink and use the environment sensors :-)</description>
+        <persons/>
+        <links/>
+      </event>
       <event id="1431" guid="6dda4de7-658f-45d7-a512-4389c8087809">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Mental_Training_Against_Sexual_Harassment</url>
         <logo/>
@@ -6451,6 +6469,26 @@
         <links>
           <link>https://libreho.st/</link>
         </links>
+      </event>
+    </room>
+    <room name="Village:Hacksaar">
+      <event id="1543" guid="a80d287c-5d21-4439-82d0-2ba3814a1da1">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:DIY_Merch_-_Print_your_own_T-Shirt!</url>
+        <logo/>
+        <date>2019-08-24T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Village:Hacksaar</room>
+        <slug>camp2019-1543-session_diy_merch_print_your_own_t_shirt_</slug>
+        <title>DIY Merch - Print your own T-Shirt!</title>
+        <subtitle>Second printing session</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Print your own camp shirt, Datenhörnchen, Datenknoten or Fairydust onto a T-Shirt!</description>
+        <persons/>
+        <links/>
       </event>
     </room>
     <room name="Village:AFRA">
