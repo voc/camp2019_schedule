@@ -1,0 +1,20 @@
+{
+  "id": 1489,
+  "guid": "039689b0-0433-44e2-b0e7-8de8ef67d1b7",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:What_the_weather",
+  "logo": null,
+  "date": "2019-08-24T17:00:00+02:00",
+  "start": "17:00",
+  "duration": "0:45",
+  "room": "Hackcenter",
+  "slug": "camp2019-1489-session_what_the_weather",
+  "title": "What the weather",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "Learn about how models are used in weather prediction and more",
+  "persons": [],
+  "links": []
+}

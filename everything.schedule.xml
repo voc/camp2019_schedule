@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 11:30</version>
+  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 11:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -5267,7 +5267,7 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
         <room>Village:1komona</room>
         <slug>camp2019-1451-session_movies_screening_weird_germany_series_day_2_the_old_kasper_hauser</slug>
         <title>Movies screening "weird Germany series" - day 2 : The old Kasper Hauser</title>
-        <subtitle>psychik video's "weird Germany series" at Libre Hosters' cinema</subtitle>
+        <subtitle>psychik video's "weird Germany series" at Librehosters' cinema</subtitle>
         <track>self organized sessions</track>
         <type>other</type>
         <language>de</language>
@@ -11725,11 +11725,29 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <type>hands-on</type>
         <language>en</language>
         <abstract/>
-        <description>Introduction to and testing of the openhearingaid prototype #like2hear</description>
+        <description>Introduction to and testing of the #like2hear OpenHearingAid prototype</description>
         <persons/>
         <links>
-          <link>https://www.buergerschaffenwissen.de/projekt/hear-how-you-hear</link>
+          <link>https://www.idmt.fraunhofer.de/de/institute/projects-products/projects/liketohear.html</link>
         </links>
+      </event>
+      <event id="1489" guid="039689b0-0433-44e2-b0e7-8de8ef67d1b7">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:What_the_weather</url>
+        <logo/>
+        <date>2019-08-24T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>0:45</duration>
+        <room>Hackcenter</room>
+        <slug>camp2019-1489-session_what_the_weather</slug>
+        <title>What the weather</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn about how models are used in weather prediction and more</description>
+        <persons/>
+        <links/>
       </event>
     </room>
     <room name="Village:Chaos Ballett Bett (Drahti Trampolin)">

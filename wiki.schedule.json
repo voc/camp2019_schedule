@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-23 11:30",
+    "version": "2019-08-23 11:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -2525,7 +2525,7 @@
                 "room": "Village:1komona",
                 "slug": "camp2019-1451-session_movies_screening_weird_germany_series_day_2_the_old_kasper_hauser",
                 "title": "Movies screening \"weird Germany series\" - day 2 : The old Kasper Hauser",
-                "subtitle": "psychik video's \"weird Germany series\" at Libre Hosters' cinema",
+                "subtitle": "psychik video's \"weird Germany series\" at Librehosters' cinema",
                 "track": "self organized sessions",
                 "type": "other",
                 "language": "de",
@@ -7518,11 +7518,31 @@
                 "type": "hands-on",
                 "language": "en",
                 "abstract": "",
-                "description": "Introduction to and testing of the openhearingaid prototype #like2hear",
+                "description": "Introduction to and testing of the #like2hear OpenHearingAid prototype",
                 "persons": [],
                 "links": [
-                  "https://www.buergerschaffenwissen.de/projekt/hear-how-you-hear"
+                  "https://www.idmt.fraunhofer.de/de/institute/projects-products/projects/liketohear.html"
                 ]
+              },
+              {
+                "id": 1489,
+                "guid": "039689b0-0433-44e2-b0e7-8de8ef67d1b7",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:What_the_weather",
+                "logo": null,
+                "date": "2019-08-24T17:00:00+02:00",
+                "start": "17:00",
+                "duration": "0:45",
+                "room": "Hackcenter",
+                "slug": "camp2019-1489-session_what_the_weather",
+                "title": "What the weather",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "Learn about how models are used in weather prediction and more",
+                "persons": [],
+                "links": []
               }
             ],
             "Village:Chaos Ballett Bett (Drahti Trampolin)": [
