@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-23 18:30",
+    "version": "2019-08-23 19:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -5828,32 +5828,6 @@
                     "id": 0,
                     "url": "https://events.ccc.de/camp/2019/wiki/User:Dkl",
                     "public_name": "Dkl"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1302,
-                "guid": "f40b1ff2-7dbd-419a-8dc4-199f3bf33c1a",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour",
-                "logo": null,
-                "date": "2019-08-23T17:30:00+02:00",
-                "start": "17:30",
-                "duration": "1:00",
-                "room": "Village:Kidspace",
-                "slug": "camp2019-1302-session_vorlesestunde_reading_hour",
-                "title": "Vorlesestunde / reading hour",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "other",
-                "language": "de",
-                "abstract": "",
-                "description": "Kinderb\u00fccher vorlesen",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ckeen",
-                    "public_name": "Ckeen"
                   }
                 ],
                 "links": []

@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-23 18:30</version>
+  <version>2019-08-23 19:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -4666,26 +4666,6 @@
         <description>We are going to inform the water of the lake nearby with our root CA, which will enable us to verify the water later and use the subwaterkeys to create a trust chain along the Havel.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Dkl">Dkl</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1302" guid="f40b1ff2-7dbd-419a-8dc4-199f3bf33c1a">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour</url>
-        <logo/>
-        <date>2019-08-23T17:30:00+02:00</date>
-        <start>17:30</start>
-        <duration>1:00</duration>
-        <room>Village:Kidspace</room>
-        <slug>camp2019-1302-session_vorlesestunde_reading_hour</slug>
-        <title>Vorlesestunde / reading hour</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description>Kinderbücher vorlesen</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Ckeen">Ckeen</person>
         </persons>
         <links/>
       </event>
