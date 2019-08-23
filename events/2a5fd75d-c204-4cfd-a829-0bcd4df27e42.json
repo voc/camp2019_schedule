@@ -1,0 +1,33 @@
+{
+  "id": 1505,
+  "guid": "2a5fd75d-c204-4cfd-a829-0bcd4df27e42",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Stainless_Steel_Etching_-_Edelstahl_%C3%A4tzen",
+  "logo": null,
+  "date": "2019-08-24T13:00:00+02:00",
+  "start": "13:00",
+  "duration": "2:00",
+  "room": "Village:Singularity City",
+  "slug": "camp2019-1505-session_stainless_steel_etching_edelstahl_aetzen",
+  "title": "Stainless Steel Etching - Edelstahl \u00e4tzen",
+  "subtitle": "Bring your own Besteckset/Coffee mug",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "We will etch your cutlery set or coffee mug. Bring your vector graphics.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Mist",
+      "public_name": "Mist"
+    },
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Larsan",
+      "public_name": "Larsan"
+    }
+  ],
+  "links": [
+    "https://stratum0.org/blog/posts/2014/03/06/how-to-stainless-steel-etching/"
+  ]
+}

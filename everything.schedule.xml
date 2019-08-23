@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 13:00</version>
+  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 13:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -11554,6 +11554,49 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <persons/>
         <links>
           <link>https://sandratrostel.de/projects/acw/</link>
+        </links>
+      </event>
+      <event id="1504" guid="22d61f74-e3fb-43ed-9dba-de0f4a5c679f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:GNU_Radio_Workshop</url>
+        <logo/>
+        <date>2019-08-24T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>1:30</duration>
+        <room>Village:Singularity City</room>
+        <slug>camp2019-1504-session_gnu_radio_workshop</slug>
+        <title>GNU Radio Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Introduction to GNU Radio Workshop</description>
+        <persons/>
+        <links>
+          <link>https://gnuradio.org</link>
+        </links>
+      </event>
+      <event id="1505" guid="2a5fd75d-c204-4cfd-a829-0bcd4df27e42">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Stainless_Steel_Etching_-_Edelstahl_%C3%A4tzen</url>
+        <logo/>
+        <date>2019-08-24T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>2:00</duration>
+        <room>Village:Singularity City</room>
+        <slug>camp2019-1505-session_stainless_steel_etching_edelstahl_aetzen</slug>
+        <title>Stainless Steel Etching - Edelstahl ätzen</title>
+        <subtitle>Bring your own Besteckset/Coffee mug</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>We will etch your cutlery set or coffee mug. Bring your vector graphics.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Mist">Mist</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Larsan">Larsan</person>
+        </persons>
+        <links>
+          <link>https://stratum0.org/blog/posts/2014/03/06/how-to-stainless-steel-etching/</link>
         </links>
       </event>
       <event id="1503" guid="33259ffa-c352-4cf4-9200-ec6e5a3ab677">

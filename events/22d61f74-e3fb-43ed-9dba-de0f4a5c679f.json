@@ -1,0 +1,22 @@
+{
+  "id": 1504,
+  "guid": "22d61f74-e3fb-43ed-9dba-de0f4a5c679f",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:GNU_Radio_Workshop",
+  "logo": null,
+  "date": "2019-08-24T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "1:30",
+  "room": "Village:Singularity City",
+  "slug": "camp2019-1504-session_gnu_radio_workshop",
+  "title": "GNU Radio Workshop",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "Introduction to GNU Radio Workshop",
+  "persons": [],
+  "links": [
+    "https://gnuradio.org"
+  ]
+}
