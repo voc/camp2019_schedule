@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 606; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 02:50",
+    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 05:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -4893,6 +4893,34 @@
                   }
                 ],
                 "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10443.html",
+                "id": 10443,
+                "guid": "6349c66e-5aab-41d0-bbad-932175bd15e8",
+                "logo": "/system/events/logos/000/010/443/large/hypno?1566498485",
+                "date": "2019-08-22T20:00:00+02:00",
+                "start": "20:00",
+                "duration": "03:00",
+                "room": "Rockmore Booth",
+                "slug": "camp19lounge-10443-hypnorex",
+                "title": "Hypnorex",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "Hypnorex from Sportbrigade Sparwasser",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/hypnorex",
+                    "title": "Hypnorex auf Soundcloud"
+                  }
+                ],
+                "attachments": []
               }
             ],
             "Kemistry Lounge": [
@@ -8395,6 +8423,29 @@
                 "persons": [],
                 "links": [],
                 "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10444.html",
+                "id": 10444,
+                "guid": "d2928eb9-86bc-417a-83af-251b798c954c",
+                "logo": "/system/events/logos/000/010/444/large/zwetschki.jpg?1566498815",
+                "date": "2019-08-23T20:00:00+02:00",
+                "start": "20:00",
+                "duration": "03:00",
+                "room": "Rockmore Booth",
+                "slug": "camp19lounge-10444-yj_heimi_zwetschki",
+                "title": "YJ HEIMI & ZWETSCHKI",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "YJ-Heimi ist YouTube-Jockey und Heimleiter der Restrealitaet, Zwetschki einer der beiden Macher der Nation Of Gondwana . Spielen die beiden im Duett, kommen so technische Anforderungen wie Luftschlangentr\u00f6te und Kinderrassel. Und weil auch ein Mikro auf dem Tech Rider steht, wird nicht nur musikalisch kein Auge trocken bleiben. Im Spannungsfeld zwischen gutem und schlechtem Geschmack treten Joy Division gegen Juliane Werding an, Slime und die Scorpions verbr\u00fcdern sich, Johnny Rotten zerlegt Harald Juhnke und am Ende ist jede Zelle Deines K\u00f6rpers gl\u00fccklich.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
               }
             ],
             "Kemistry Lounge": [
@@ -8556,6 +8607,64 @@
                 "description": "Learn how you can contribute to the nixpkgs git repo",
                 "persons": [],
                 "links": []
+              }
+            ],
+            "Komona Stage": [
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10447.html",
+                "id": 10447,
+                "guid": "56967900-1040-4a3a-895c-5dea88a24d90",
+                "logo": "/system/events/logos/000/010/447/large/lasvegaslady.jpg?1566518133",
+                "date": "2019-08-23T23:00:00+02:00",
+                "start": "23:00",
+                "duration": "01:00",
+                "room": "Komona Stage",
+                "slug": "camp19lounge-10447-las_vegas_lady",
+                "title": "Las Vegas Lady",
+                "subtitle": "live",
+                "track": "Music",
+                "type": "concert",
+                "language": "en",
+                "abstract": "Sensual tunes and electronic beats: Welcome to this shiny abyss.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/lasvegaslady",
+                    "title": "Las Vegas Lady on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10446.html",
+                "id": 10446,
+                "guid": "a459216b-eb18-44ad-b49b-17ad116f35fb",
+                "logo": "/system/events/logos/000/010/446/large/planeteconcrete.jpg?1566517810",
+                "date": "2019-08-24T00:00:00+02:00",
+                "start": "00:00",
+                "duration": "01:00",
+                "room": "Komona Stage",
+                "slug": "camp19lounge-10446-planete_concrete",
+                "title": "Plan\u00e8te Concr\u00e8te",
+                "subtitle": "live",
+                "track": "Music",
+                "type": "concert",
+                "language": "en",
+                "abstract": "Plan\u00e8te Concr\u00e8te is an open universe staged by strange / loving creatures. Diy instruments, music performance and visual elements are the main instruments of this pink noise constellation",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "http://ooooo.be/planeteconcrete/",
+                    "title": "plan\u00e8te concr\u00e8te homepage"
+                  }
+                ],
+                "attachments": []
               }
             ],
             "Fireplace (Workshop THM)": [
@@ -10106,6 +10215,34 @@
                 "abstract": "",
                 "description": "Argumente f\u00fchlen statt gef\u00fchlter Argumente",
                 "persons": [],
+                "links": []
+              }
+            ],
+            "Village:Infuanfu": [
+              {
+                "id": 1478,
+                "guid": "3ca1f5ad-31cf-4da8-b39a-35ce7bac4a33",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Chaos_Microgrid_Working_Group",
+                "logo": null,
+                "date": "2019-08-23T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "2:00",
+                "room": "Village:Infuanfu",
+                "slug": "camp2019-1478-session_chaos_microgrid_working_group",
+                "title": "Chaos Microgrid Working Group",
+                "subtitle": "Fourth Meetup - Complete survey site",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "de",
+                "abstract": "",
+                "description": "We want to meet and discuss the requirements and possibilities of setting up a microgrid solution for future camping events.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Hadez",
+                    "public_name": "Hadez"
+                  }
+                ],
                 "links": []
               }
             ],
@@ -11901,6 +12038,29 @@
                     "title": "Jeanette Tr\u00e8sbien on Soundcloud"
                   }
                 ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10445.html",
+                "id": 10445,
+                "guid": "945e0e1c-a6a7-43a0-acea-86f8335e83bc",
+                "logo": null,
+                "date": "2019-08-24T20:00:00+02:00",
+                "start": "20:00",
+                "duration": "03:00",
+                "room": "Rockmore Booth",
+                "slug": "camp19lounge-10445-lowfi",
+                "title": "lowfi",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
                 "attachments": []
               }
             ],
@@ -14170,6 +14330,29 @@
                   }
                 ],
                 "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10436.html",
+                "id": 10436,
+                "guid": "79e5bbac-adb3-42be-8342-9ca76ab8a5ff",
+                "logo": "/system/events/logos/000/010/436/large/silvi.jpg?1566517399",
+                "date": "2019-08-25T20:00:00+02:00",
+                "start": "20:00",
+                "duration": "03:00",
+                "room": "Rockmore Booth",
+                "slug": "camp19lounge-10436-silvie",
+                "title": "Silvie",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "from out of space into the rabbit hole\u2026",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
               }
             ],
             "Kemistry Lounge": [
@@ -14262,21 +14445,21 @@
                 "attachments": []
               },
               {
-                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10436.html",
-                "id": 10436,
-                "guid": "79e5bbac-adb3-42be-8342-9ca76ab8a5ff",
+                "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10448.html",
+                "id": 10448,
+                "guid": "ac7db476-c89e-427c-9210-657298b439ce",
                 "logo": null,
                 "date": "2019-08-26T02:00:00+02:00",
                 "start": "02:00",
                 "duration": "03:00",
                 "room": "Kemistry Lounge",
-                "slug": "camp19lounge-10436-silvie",
-                "title": "Silvie",
+                "slug": "camp19lounge-10448-tba",
+                "title": "TBA",
                 "subtitle": "",
                 "track": "Music",
                 "type": "djset",
                 "language": "en",
-                "abstract": "from out of space into the rabbit hole\u2026",
+                "abstract": "TBA",
                 "description": "",
                 "recording_license": "",
                 "do_not_record": false,

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-23 02:50",
+    "version": "2019-08-23 05:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -5544,6 +5544,34 @@
                 "abstract": "",
                 "description": "Argumente f\u00fchlen statt gef\u00fchlter Argumente",
                 "persons": [],
+                "links": []
+              }
+            ],
+            "Village:Infuanfu": [
+              {
+                "id": 1478,
+                "guid": "3ca1f5ad-31cf-4da8-b39a-35ce7bac4a33",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Chaos_Microgrid_Working_Group",
+                "logo": null,
+                "date": "2019-08-23T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "2:00",
+                "room": "Village:Infuanfu",
+                "slug": "camp2019-1478-session_chaos_microgrid_working_group",
+                "title": "Chaos Microgrid Working Group",
+                "subtitle": "Fourth Meetup - Complete survey site",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "de",
+                "abstract": "",
+                "description": "We want to meet and discuss the requirements and possibilities of setting up a microgrid solution for future camping events.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Hadez",
+                    "public_name": "Hadez"
+                  }
+                ],
                 "links": []
               }
             ],

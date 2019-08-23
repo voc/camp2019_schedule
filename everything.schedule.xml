@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 606; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 02:50</version>
+  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 05:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -4419,6 +4419,31 @@ Publikum vor.</abstract>
         </links>
         <attachments/>
       </event>
+      <event id="10443" guid="6349c66e-5aab-41d0-bbad-932175bd15e8">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10443.html</url>
+        <logo>/system/events/logos/000/010/443/large/hypno?1566498485</logo>
+        <date>2019-08-22T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>03:00</duration>
+        <room>Rockmore Booth</room>
+        <slug>camp19lounge-10443-hypnorex</slug>
+        <title>Hypnorex</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Hypnorex from Sportbrigade Sparwasser</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/hypnorex">Hypnorex auf Soundcloud</link>
+        </links>
+        <attachments/>
+      </event>
     </room>
     <room name="Kemistry Lounge">
       <event id="10410" guid="8cde404d-139e-48a1-a6c9-0924a5c2ef16">
@@ -7484,6 +7509,29 @@ Bass ahoi</description>
         <links/>
         <attachments/>
       </event>
+      <event id="10444" guid="d2928eb9-86bc-417a-83af-251b798c954c">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10444.html</url>
+        <logo>/system/events/logos/000/010/444/large/zwetschki.jpg?1566498815</logo>
+        <date>2019-08-23T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>03:00</duration>
+        <room>Rockmore Booth</room>
+        <slug>camp19lounge-10444-yj_heimi_zwetschki</slug>
+        <title>YJ HEIMI &amp; ZWETSCHKI</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>YJ-Heimi ist YouTube-Jockey und Heimleiter der Restrealitaet, Zwetschki einer der beiden Macher der Nation Of Gondwana . Spielen die beiden im Duett, kommen so technische Anforderungen wie Luftschlangentröte und Kinderrassel. Und weil auch ein Mikro auf dem Tech Rider steht, wird nicht nur musikalisch kein Auge trocken bleiben. Im Spannungsfeld zwischen gutem und schlechtem Geschmack treten Joy Division gegen Juliane Werding an, Slime und die Scorpions verbrüdern sich, Johnny Rotten zerlegt Harald Juhnke und am Ende ist jede Zelle Deines Körpers glücklich.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
     </room>
     <room name="Kemistry Lounge">
       <event id="10419" guid="b85045f4-2bd4-4053-98ae-fb3046e2d22b">
@@ -7635,6 +7683,58 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
         <description>Learn how you can contribute to the nixpkgs git repo</description>
         <persons/>
         <links/>
+      </event>
+    </room>
+    <room name="Komona Stage">
+      <event id="10447" guid="56967900-1040-4a3a-895c-5dea88a24d90">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10447.html</url>
+        <logo>/system/events/logos/000/010/447/large/lasvegaslady.jpg?1566518133</logo>
+        <date>2019-08-23T23:00:00+02:00</date>
+        <start>23:00</start>
+        <duration>01:00</duration>
+        <room>Komona Stage</room>
+        <slug>camp19lounge-10447-las_vegas_lady</slug>
+        <title>Las Vegas Lady</title>
+        <subtitle>live</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>Sensual tunes and electronic beats: Welcome to this shiny abyss.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/lasvegaslady">Las Vegas Lady on Soundcloud</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10446" guid="a459216b-eb18-44ad-b49b-17ad116f35fb">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10446.html</url>
+        <logo>/system/events/logos/000/010/446/large/planeteconcrete.jpg?1566517810</logo>
+        <date>2019-08-24T00:00:00+02:00</date>
+        <start>00:00</start>
+        <duration>01:00</duration>
+        <room>Komona Stage</room>
+        <slug>camp19lounge-10446-planete_concrete</slug>
+        <title>Planète Concrète</title>
+        <subtitle>live</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>Planète Concrète is an open universe staged by strange / loving creatures. Diy instruments, music performance and visual elements are the main instruments of this pink noise constellation</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="http://ooooo.be/planeteconcrete/">planète concrète homepage</link>
+        </links>
+        <attachments/>
       </event>
     </room>
     <room name="Fireplace (Workshop THM)">
@@ -8923,6 +9023,28 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <abstract/>
         <description>Argumente fühlen statt gefühlter Argumente</description>
         <persons/>
+        <links/>
+      </event>
+    </room>
+    <room name="Village:Infuanfu">
+      <event id="1478" guid="3ca1f5ad-31cf-4da8-b39a-35ce7bac4a33">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Chaos_Microgrid_Working_Group</url>
+        <logo/>
+        <date>2019-08-23T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Village:Infuanfu</room>
+        <slug>camp2019-1478-session_chaos_microgrid_working_group</slug>
+        <title>Chaos Microgrid Working Group</title>
+        <subtitle>Fourth Meetup - Complete survey site</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>We want to meet and discuss the requirements and possibilities of setting up a microgrid solution for future camping events.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Hadez">Hadez</person>
+        </persons>
         <links/>
       </event>
     </room>
@@ -10532,6 +10654,29 @@ https://freakshow.fm</description>
         <links>
           <link href="https://soundcloud.com/jeanette-tr-sbien">Jeanette Trèsbien on Soundcloud</link>
         </links>
+        <attachments/>
+      </event>
+      <event id="10445" guid="945e0e1c-a6a7-43a0-acea-86f8335e83bc">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10445.html</url>
+        <logo/>
+        <date>2019-08-24T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>03:00</duration>
+        <room>Rockmore Booth</room>
+        <slug>camp19lounge-10445-lowfi</slug>
+        <title>lowfi</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
         <attachments/>
       </event>
     </room>
@@ -12506,6 +12651,29 @@ you for many different reasons and would like to talk about that.</description>
         </links>
         <attachments/>
       </event>
+      <event id="10436" guid="79e5bbac-adb3-42be-8342-9ca76ab8a5ff">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10436.html</url>
+        <logo>/system/events/logos/000/010/436/large/silvi.jpg?1566517399</logo>
+        <date>2019-08-25T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>03:00</duration>
+        <room>Rockmore Booth</room>
+        <slug>camp19lounge-10436-silvie</slug>
+        <title>Silvie</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>from out of space into the rabbit hole…</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
     </room>
     <room name="Kemistry Lounge">
       <event id="10433" guid="bb6567c9-2e2e-4e43-8679-6ce87341d6e2">
@@ -12585,20 +12753,20 @@ Seitenprojekt des Berliner DJ Duetts: Pale Lynx mixt die sportbrigade-typischen 
         </links>
         <attachments/>
       </event>
-      <event id="10436" guid="79e5bbac-adb3-42be-8342-9ca76ab8a5ff">
-        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10436.html</url>
+      <event id="10448" guid="ac7db476-c89e-427c-9210-657298b439ce">
+        <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10448.html</url>
         <logo/>
         <date>2019-08-26T02:00:00+02:00</date>
         <start>02:00</start>
         <duration>03:00</duration>
         <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10436-silvie</slug>
-        <title>Silvie</title>
+        <slug>camp19lounge-10448-tba</slug>
+        <title>TBA</title>
         <subtitle/>
         <track>Music</track>
         <type>djset</type>
         <language>en</language>
-        <abstract>from out of space into the rabbit hole…</abstract>
+        <abstract>TBA</abstract>
         <description/>
         <recording>
           <license/>

@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10446.html",
+  "id": 10446,
+  "guid": "a459216b-eb18-44ad-b49b-17ad116f35fb",
+  "logo": "/system/events/logos/000/010/446/large/planeteconcrete.jpg?1566517810",
+  "date": "2019-08-24T00:00:00+02:00",
+  "start": "00:00",
+  "duration": "01:00",
+  "room": "Komona Stage",
+  "slug": "camp19lounge-10446-planete_concrete",
+  "title": "Plan\u00e8te Concr\u00e8te",
+  "subtitle": "live",
+  "track": "Music",
+  "type": "concert",
+  "language": "en",
+  "abstract": "Plan\u00e8te Concr\u00e8te is an open universe staged by strange / loving creatures. Diy instruments, music performance and visual elements are the main instruments of this pink noise constellation",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [],
+  "links": [
+    {
+      "url": "http://ooooo.be/planeteconcrete/",
+      "title": "plan\u00e8te concr\u00e8te homepage"
+    }
+  ],
+  "attachments": []
+}

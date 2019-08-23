@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10443.html",
+  "id": 10443,
+  "guid": "6349c66e-5aab-41d0-bbad-932175bd15e8",
+  "logo": "/system/events/logos/000/010/443/large/hypno?1566498485",
+  "date": "2019-08-22T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "03:00",
+  "room": "Rockmore Booth",
+  "slug": "camp19lounge-10443-hypnorex",
+  "title": "Hypnorex",
+  "subtitle": "",
+  "track": "Music",
+  "type": "djset",
+  "language": "en",
+  "abstract": "Hypnorex from Sportbrigade Sparwasser",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [],
+  "links": [
+    {
+      "url": "https://soundcloud.com/hypnorex",
+      "title": "Hypnorex auf Soundcloud"
+    }
+  ],
+  "attachments": []
+}

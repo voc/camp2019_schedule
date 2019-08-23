@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-23 02:50</version>
+  <version>2019-08-23 05:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -4409,6 +4409,28 @@
         <abstract/>
         <description>Argumente fühlen statt gefühlter Argumente</description>
         <persons/>
+        <links/>
+      </event>
+    </room>
+    <room name="Village:Infuanfu">
+      <event id="1478" guid="3ca1f5ad-31cf-4da8-b39a-35ce7bac4a33">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Chaos_Microgrid_Working_Group</url>
+        <logo/>
+        <date>2019-08-23T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Village:Infuanfu</room>
+        <slug>camp2019-1478-session_chaos_microgrid_working_group</slug>
+        <title>Chaos Microgrid Working Group</title>
+        <subtitle>Fourth Meetup - Complete survey site</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>We want to meet and discuss the requirements and possibilities of setting up a microgrid solution for future camping events.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Hadez">Hadez</person>
+        </persons>
         <links/>
       </event>
     </room>
