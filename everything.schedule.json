@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 14:50",
+    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 15:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -8703,7 +8703,7 @@
                 "type": "Workshop",
                 "language": "en",
                 "abstract": "The OWASP Top Ten project lists the top 10 (web) application security risks. In this Workshop we will take a close look at number 9: \"Using Components With Known Vulnerabilities\".\r\n\r\nwe will try to use (open source) tooling to find known vulnerabilities in 3rd party libraries, containers and APIs, then take a look at how we can automate those tools in our ci/cd pipelines\r\nyou don't need to know about security or vulnerability management to do the workshop, we will cover the basics and you can a lot on the way",
-                "description": "workshop will feature the following Tools:\r\n- OWASP dependency-check (workshop will focus on java/maven/gradle, but feel free bring your own languages and dependencies so i can learn something too:) )\r\n- CoreOS Clair for container scanning\r\n- OWASP Zap for API scanning (technically not A9, but many the others;) )\r\n\r\nif we have time (or if you're interested after the actual workshop) we can further discuss how we can shape the process of fixing said vulnerabilities in our daily dev/ops/x jobs (or we can just rant about security over some beers)\r\n\r\nwe speak english and german, so dont be scared if your english is not too good. we will get along :-)\r\n\r\nthis workshop will be the hands-on counterpart to my talk on Thursday, 14:00 in Curie (Tent 1)\r\nhttps://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10181.html",
+                "description": "Demo APP: \r\n*https://github.com/cy4n/broken/\r\n*workshop assignment: https://github.com/cy4n/broken/blob/master/workshop/assignment.md\r\n\r\nworkshop will feature the following Tools:\r\n- OWASP dependency-check (workshop will focus on java/maven/gradle, but feel free bring your own languages and dependencies so i can learn something too:) )\r\n- CoreOS Clair for container scanning\r\n- OWASP Zap for API scanning (technically not A9, but many the others;) )\r\n\r\nif we have time (or if you're interested after the actual workshop) we can further discuss how we can shape the process of fixing said vulnerabilities in our daily dev/ops/x jobs (or we can just rant about security over some beers)\r\n\r\nwe speak english and german, so dont be scared if your english is not too good. we will get along :-)\r\n\r\nthis workshop will be the hands-on counterpart to my talk on Thursday, 14:00 in Curie (Tent 1)\r\nhttps://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10181.html",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -13187,7 +13187,13 @@
                 "language": "en",
                 "abstract": "",
                 "description": "Introduction to GNU Radio Workshop",
-                "persons": [],
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Crofton",
+                    "public_name": "Crofton"
+                  }
+                ],
                 "links": [
                   "https://gnuradio.org"
                 ]

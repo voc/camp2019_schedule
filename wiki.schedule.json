@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-23 14:50",
+    "version": "2019-08-23 15:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -7414,7 +7414,13 @@
                 "language": "en",
                 "abstract": "",
                 "description": "Introduction to GNU Radio Workshop",
-                "persons": [],
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Crofton",
+                    "public_name": "Crofton"
+                  }
+                ],
                 "links": [
                   "https://gnuradio.org"
                 ]

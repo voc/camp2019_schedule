@@ -4605,7 +4605,11 @@ Consultation hours are held in German or English, depending on the need. Oh, and
 &#13;
 we will try to use (open source) tooling to find known vulnerabilities in 3rd party libraries, containers and APIs, then take a look at how we can automate those tools in our ci/cd pipelines&#13;
 you don't need to know about security or vulnerability management to do the workshop, we will cover the basics and you can a lot on the way</abstract>
-        <description>workshop will feature the following Tools:&#13;
+        <description>Demo APP: &#13;
+*https://github.com/cy4n/broken/&#13;
+*workshop assignment: https://github.com/cy4n/broken/blob/master/workshop/assignment.md&#13;
+&#13;
+workshop will feature the following Tools:&#13;
 - OWASP dependency-check (workshop will focus on java/maven/gradle, but feel free bring your own languages and dependencies so i can learn something too:) )&#13;
 - CoreOS Clair for container scanning&#13;
 - OWASP Zap for API scanning (technically not A9, but many the others;) )&#13;
