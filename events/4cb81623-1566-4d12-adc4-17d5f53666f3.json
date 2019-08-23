@@ -1,0 +1,26 @@
+{
+  "id": 1492,
+  "guid": "4cb81623-1566-4d12-adc4-17d5f53666f3",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:IXP_Meetup",
+  "logo": null,
+  "date": "2019-08-23T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "1:00",
+  "room": "Village:Dragon Sleep Pwn Sector",
+  "slug": "camp2019-1492-session_ixp_meetup",
+  "title": "IXP Meetup",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "en",
+  "abstract": "",
+  "description": "Meetup for Camp IXP members and friends",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Q3k",
+      "public_name": "Q3k"
+    }
+  ],
+  "links": []
+}

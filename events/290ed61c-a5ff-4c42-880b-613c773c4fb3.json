@@ -1,0 +1,31 @@
+{
+  "id": 1494,
+  "guid": "290ed61c-a5ff-4c42-880b-613c773c4fb3",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Poly*-/RA-Meetup",
+  "logo": null,
+  "date": "2019-08-24T18:00:00+02:00",
+  "start": "18:00",
+  "duration": "2:00",
+  "room": "Johnson (Workshop 1)",
+  "slug": "camp2019-1494-session_poly_ra_meetup",
+  "title": "Poly*-/RA-Meetup",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "de",
+  "abstract": "",
+  "description": "Let's hang around, talk about concepts of interpersonal relationships",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Binbash",
+      "public_name": "Binbash"
+    },
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Poly",
+      "public_name": "Poly"
+    }
+  ],
+  "links": []
+}

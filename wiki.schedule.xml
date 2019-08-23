@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-23 12:00</version>
+  <version>2019-08-23 12:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -1957,30 +1957,6 @@
           <link>http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence</link>
         </links>
       </event>
-      <event id="1424" guid="6c478d36-40e3-4625-82d4-ce27dbcfed4b">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters</url>
-        <logo/>
-        <date>2019-08-22T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>0:30</duration>
-        <room>Village:1komona</room>
-        <slug>camp2019-1424-session_meet_librehosters</slug>
-        <title>Meet librehosters</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>en</language>
-        <abstract/>
-        <description>A daily timeslot to meet existing librehosters members and an open invitation to join  the discussion of the directions of the network.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Agnez">Agnez</person>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Realitygaps">Realitygaps</person>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gust">Gust</person>
-        </persons>
-        <links>
-          <link>https://libreho.st/</link>
-        </links>
-      </event>
       <event id="1450" guid="f298d36c-3dc7-417b-9ffb-f0ff5666df71">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Movie_screening_%22weird_Germany_series%22_-_day_2_:_Kasper_Hauser_goes_techno</url>
         <logo/>
@@ -2630,6 +2606,32 @@
         </persons>
         <links>
           <link>https://luftdaten.info/feinstaubsensor-bauen/</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Librehosters">
+      <event id="1424" guid="6c478d36-40e3-4625-82d4-ce27dbcfed4b">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters</url>
+        <logo/>
+        <date>2019-08-22T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>0:30</duration>
+        <room>Village:Librehosters</room>
+        <slug>camp2019-1424-session_meet_librehosters</slug>
+        <title>Meet librehosters</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>A daily timeslot to meet existing librehosters members and an open invitation to join  the discussion of the directions of the network.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Agnez">Agnez</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Realitygaps">Realitygaps</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gust">Gust</person>
+        </persons>
+        <links>
+          <link>https://libreho.st/</link>
         </links>
       </event>
     </room>
@@ -3481,30 +3483,6 @@
         <persons/>
         <links>
           <link>http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence</link>
-        </links>
-      </event>
-      <event id="1423" guid="f2c6d956-6000-5efe-a11f-bd9650dbe06f">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters</url>
-        <logo/>
-        <date>2019-08-23T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>0:30</duration>
-        <room>Village:1komona</room>
-        <slug>camp2019-1423-session_meet_librehosters</slug>
-        <title>Meet librehosters</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>en</language>
-        <abstract/>
-        <description>A daily timeslot to meet existing librehosters members and an open invitation to join  the discussion of the directions of the network.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Agnez">Agnez</person>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Realitygaps">Realitygaps</person>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gust">Gust</person>
-        </persons>
-        <links>
-          <link>https://libreho.st/</link>
         </links>
       </event>
       <event id="1431" guid="6dda4de7-658f-45d7-a512-4389c8087809">
@@ -4899,6 +4877,28 @@
         </links>
       </event>
     </room>
+    <room name="Village:Dragon Sleep Pwn Sector">
+      <event id="1492" guid="4cb81623-1566-4d12-adc4-17d5f53666f3">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:IXP_Meetup</url>
+        <logo/>
+        <date>2019-08-23T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Village:Dragon Sleep Pwn Sector</room>
+        <slug>camp2019-1492-session_ixp_meetup</slug>
+        <title>IXP Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Meetup for Camp IXP members and friends</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Q3k">Q3k</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Village:Italian Hackers' Embassy">
       <event id="1485" guid="82fe5e45-af8d-41b7-85b3-89ffefe13ec2">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Information_Overload_e_Social_Overload</url>
@@ -5006,6 +5006,52 @@
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Tamberg">Tamberg</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="Village:Librehosters">
+      <event id="1422" guid="59eba6c8-b345-4555-abba-adc984b5dfba">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters</url>
+        <logo/>
+        <date>2019-08-23T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>0:30</duration>
+        <room>Village:Librehosters</room>
+        <slug>camp2019-1422-session_meet_librehosters</slug>
+        <title>Meet librehosters</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>A daily timeslot to meet existing librehosters members and an open invitation to join  the discussion of the directions of the network.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Agnez">Agnez</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Realitygaps">Realitygaps</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gust">Gust</person>
+        </persons>
+        <links>
+          <link>https://libreho.st/</link>
+        </links>
+      </event>
+      <event id="1420" guid="4b72c9b7-1fe5-4f4b-9a31-21c0de7e9303">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:YunoHost_workshop:_install_your_own!</url>
+        <logo/>
+        <date>2019-08-23T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Village:Librehosters</room>
+        <slug>camp2019-1420-session_yunohost_workshop_install_your_own_</slug>
+        <title>YunoHost workshop: install your own!</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Self-hosting apps for your friends and organization should be easy!</description>
+        <persons/>
+        <links>
+          <link>https://yunohost.org</link>
+        </links>
       </event>
     </room>
     <room name="Village:Milliways">
@@ -5239,31 +5285,31 @@
         </links>
       </event>
     </room>
-    <room name="Village:Librehosters">
-      <event id="1420" guid="4b72c9b7-1fe5-4f4b-9a31-21c0de7e9303">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:YunoHost_workshop:_install_your_own!</url>
+  </day>
+  <day index="4" date="2019-08-24" start="2019-08-24T09:00:00+02:00" end="2019-08-25T04:00:00+02:00">
+    <room name="Johnson (Workshop 1)">
+      <event id="1491" guid="0fc6f4b3-da18-458f-a979-a26401e1342a">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</url>
         <logo/>
-        <date>2019-08-23T18:00:00+02:00</date>
-        <start>18:00</start>
-        <duration>1:00</duration>
-        <room>Village:Librehosters</room>
-        <slug>camp2019-1420-session_yunohost_workshop_install_your_own_</slug>
-        <title>YunoHost workshop: install your own!</title>
+        <date>2019-08-24T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1491-session_creating_z_wave_controllers_and_devices</slug>
+        <title>Creating Z-Wave controllers and devices</title>
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>en</language>
         <abstract/>
-        <description>Self-hosting apps for your friends and organization should be easy!</description>
-        <persons/>
+        <description>Hacking around Z-Wave smart home protocol</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:PoltoS">PoltoS</person>
+        </persons>
         <links>
-          <link>https://yunohost.org</link>
+          <link>http://z-uno.z-wave.me</link>
         </links>
       </event>
-    </room>
-  </day>
-  <day index="4" date="2019-08-24" start="2019-08-24T09:00:00+02:00" end="2019-08-25T04:00:00+02:00">
-    <room name="Johnson (Workshop 1)">
       <event id="1197" guid="c8804eab-dadd-4307-ab8c-e19f4a5d769f">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Fair_Ticket_Sales_on_a_Capitalist_World</url>
         <logo/>
@@ -5280,6 +5326,27 @@
         <abstract/>
         <description>In this open discussion we will discuss solutions taken by organizations to address ticket sales at fair prices when demand significantly outgrows supply</description>
         <persons/>
+        <links/>
+      </event>
+      <event id="1494" guid="290ed61c-a5ff-4c42-880b-613c773c4fb3">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Poly*-/RA-Meetup</url>
+        <logo/>
+        <date>2019-08-24T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>2:00</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1494-session_poly_ra_meetup</slug>
+        <title>Poly*-/RA-Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Let's hang around, talk about concepts of interpersonal relationships</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Binbash">Binbash</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Poly">Poly</person>
+        </persons>
         <links/>
       </event>
       <event id="1437" guid="52c110ba-8604-494b-bffd-4657171ef06c">
@@ -5811,72 +5878,6 @@
           <link>http://www.kollektivartesmobiles.com/de/produktion.php#SpeculativeArtificialIntelligence</link>
         </links>
       </event>
-      <event id="1469" guid="5af52d1a-ba8c-4d54-9049-8e6e6273d647">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Ethical_hosting:_where_are_your_data%3F</url>
-        <logo/>
-        <date>2019-08-24T15:00:00+02:00</date>
-        <start>15:00</start>
-        <duration>1:00</duration>
-        <room>Village:1komona</room>
-        <slug>camp2019-1469-session_ethical_hosting_where_are_your_data_</slug>
-        <title>Ethical hosting: where are your data?</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>feedback from CHATONS Marsnet</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Florence2Marsnet">Florence2Marsnet</person>
-        </persons>
-        <links>
-          <link>https://chatons.org/en</link>
-        </links>
-      </event>
-      <event id="1461" guid="5ac068f1-3077-4173-a582-e5bef421a05d">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Hosting_for_non-geeks:_communication_needs</url>
-        <logo/>
-        <date>2019-08-24T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:00</duration>
-        <room>Village:1komona</room>
-        <slug>camp2019-1461-session_hosting_for_non_geeks_communication_needs</slug>
-        <title>Hosting for non-geeks: communication needs</title>
-        <subtitle>talk, brainstorm, worksession... let's see what form this is going to take</subtitle>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>en</language>
-        <abstract/>
-        <description>Making ethical hosting projects accessible to non-geeks needs good communication</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Agnez">Agnez</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1422" guid="59eba6c8-b345-4555-abba-adc984b5dfba">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters</url>
-        <logo/>
-        <date>2019-08-24T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>0:30</duration>
-        <room>Village:1komona</room>
-        <slug>camp2019-1422-session_meet_librehosters</slug>
-        <title>Meet librehosters</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>en</language>
-        <abstract/>
-        <description>A daily timeslot to meet existing librehosters members and an open invitation to join  the discussion of the directions of the network.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Agnez">Agnez</person>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Realitygaps">Realitygaps</person>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gust">Gust</person>
-        </persons>
-        <links>
-          <link>https://libreho.st/</link>
-        </links>
-      </event>
       <event id="1377" guid="c89e556c-382d-4a2d-8935-296d5f545cc6">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Patterns_for_Decentralization</url>
         <logo/>
@@ -6125,6 +6126,74 @@
         </persons>
         <links>
           <link>https://digitalcourage.de/digitale-selbstverteidigung</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Librehosters">
+      <event id="1469" guid="5af52d1a-ba8c-4d54-9049-8e6e6273d647">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Ethical_hosting:_where_are_your_data%3F</url>
+        <logo/>
+        <date>2019-08-24T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Village:Librehosters</room>
+        <slug>camp2019-1469-session_ethical_hosting_where_are_your_data_</slug>
+        <title>Ethical hosting: where are your data?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>feedback from CHATONS Marsnet</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Florence2Marsnet">Florence2Marsnet</person>
+        </persons>
+        <links>
+          <link>https://chatons.org/en</link>
+        </links>
+      </event>
+      <event id="1461" guid="5ac068f1-3077-4173-a582-e5bef421a05d">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hosting_for_non-geeks:_communication_needs</url>
+        <logo/>
+        <date>2019-08-24T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Village:Librehosters</room>
+        <slug>camp2019-1461-session_hosting_for_non_geeks_communication_needs</slug>
+        <title>Hosting for non-geeks: communication needs</title>
+        <subtitle>talk, brainstorm, worksession... let's see what form this is going to take</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Making ethical hosting projects accessible to non-geeks needs good communication</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Agnez">Agnez</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1493" guid="891bf1b9-b6b7-5db5-acf3-514bc2cdd3ff">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters</url>
+        <logo/>
+        <date>2019-08-24T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>0:30</duration>
+        <room>Village:Librehosters</room>
+        <slug>camp2019-1493-session_meet_librehosters</slug>
+        <title>Meet librehosters</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>A daily timeslot to meet existing librehosters members and an open invitation to join  the discussion of the directions of the network.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Agnez">Agnez</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Realitygaps">Realitygaps</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gust">Gust</person>
+        </persons>
+        <links>
+          <link>https://libreho.st/</link>
         </links>
       </event>
     </room>
