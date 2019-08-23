@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 09:00</version>
+  <version>Hadar; lounges 707; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 09:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -1687,7 +1687,10 @@ Consultation hours are held in German or English, depending on the need. Oh, and
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Tunda">Tunda</person>
         </persons>
-        <links/>
+        <links>
+          <link>http://creativecommons.org</link>
+          <link>http://irights.info</link>
+        </links>
       </event>
       <event id="1059" guid="8fffd29a-b237-48ec-b2cd-4126bff8dd15">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Digitale_Werkzeuge_zum_Verst%C3%A4ndnis_der_Energiewende</url>
@@ -7070,6 +7073,27 @@ These tools, called Dreams and Realities are run alongside a customized version 
           <link>https://git.hacknology.de/projekte/wrftut</link>
         </links>
       </event>
+      <event id="1480" guid="d0b6d3d7-a2e9-4d6a-84f1-f5fb08172cfa">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Poly*-/RA-Meetup</url>
+        <logo/>
+        <date>2019-08-23T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1480-session_poly_ra_meetup</slug>
+        <title>Poly*-/RA-Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Let's hang around, talk about concepts of interpersonal relationships</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Binbash">Binbash</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Poly">Poly</person>
+        </persons>
+        <links/>
+      </event>
     </room>
     <room name="Goldberg (Workshop 2)">
       <event id="1321" guid="1953ae86-7a6b-4a3f-b80f-71490d017842">
@@ -9280,6 +9304,26 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <links>
           <link>https://fabscan.org</link>
         </links>
+      </event>
+      <event id="1479" guid="45ba951a-9bcc-4464-b62b-4e79f8609e03">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Granderwasser</url>
+        <logo/>
+        <date>2019-08-23T14:55:00+02:00</date>
+        <start>14:55</start>
+        <duration>0:30</duration>
+        <room>Village:Kidspace</room>
+        <slug>camp2019-1479-session_granderwasser</slug>
+        <title>Granderwasser</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>We are going to inform the water of the lake nearby with our root CA, which will enable us to verify the water later and use the subwaterkeys to create a trust chain along the Havel.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Dkl">Dkl</person>
+        </persons>
+        <links/>
       </event>
       <event id="1302" guid="f40b1ff2-7dbd-419a-8dc4-199f3bf33c1a">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour</url>

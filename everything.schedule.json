@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 09:00",
+    "version": "Hadar; lounges 707; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-23 09:50",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -1864,7 +1864,10 @@
                     "public_name": "Tunda"
                   }
                 ],
-                "links": []
+                "links": [
+                  "http://creativecommons.org",
+                  "http://irights.info"
+                ]
               },
               {
                 "id": 1059,
@@ -7983,6 +7986,37 @@
                 "links": [
                   "https://git.hacknology.de/projekte/wrftut"
                 ]
+              },
+              {
+                "id": 1480,
+                "guid": "d0b6d3d7-a2e9-4d6a-84f1-f5fb08172cfa",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Poly*-/RA-Meetup",
+                "logo": null,
+                "date": "2019-08-23T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "2:00",
+                "room": "Johnson (Workshop 1)",
+                "slug": "camp2019-1480-session_poly_ra_meetup",
+                "title": "Poly*-/RA-Meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Let's hang around, talk about concepts of interpersonal relationships",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Binbash",
+                    "public_name": "Binbash"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Poly",
+                    "public_name": "Poly"
+                  }
+                ],
+                "links": []
               }
             ],
             "Goldberg (Workshop 2)": [
@@ -10528,6 +10562,32 @@
                 "links": [
                   "https://fabscan.org"
                 ]
+              },
+              {
+                "id": 1479,
+                "guid": "45ba951a-9bcc-4464-b62b-4e79f8609e03",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Granderwasser",
+                "logo": null,
+                "date": "2019-08-23T14:55:00+02:00",
+                "start": "14:55",
+                "duration": "0:30",
+                "room": "Village:Kidspace",
+                "slug": "camp2019-1479-session_granderwasser",
+                "title": "Granderwasser",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "We are going to inform the water of the lake nearby with our root CA, which will enable us to verify the water later and use the subwaterkeys to create a trust chain along the Havel.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Dkl",
+                    "public_name": "Dkl"
+                  }
+                ],
+                "links": []
               },
               {
                 "id": 1302,
