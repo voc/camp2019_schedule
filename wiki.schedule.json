@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-24 15:40",
+    "version": "2019-08-24 16:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -6981,37 +6981,6 @@
                 "links": []
               },
               {
-                "id": 1494,
-                "guid": "290ed61c-a5ff-4c42-880b-613c773c4fb3",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Poly*-/RA-Meetup",
-                "logo": null,
-                "date": "2019-08-24T18:00:00+02:00",
-                "start": "18:00",
-                "duration": "2:00",
-                "room": "Johnson (Workshop 1)",
-                "slug": "camp2019-1494-session_poly_ra_meetup",
-                "title": "Poly*-/RA-Meetup",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "de",
-                "abstract": "",
-                "description": "Let's hang around, talk about concepts of interpersonal relationships",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Binbash",
-                    "public_name": "Binbash"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Poly",
-                    "public_name": "Poly"
-                  }
-                ],
-                "links": []
-              },
-              {
                 "id": 1489,
                 "guid": "039689b0-0433-44e2-b0e7-8de8ef67d1b7",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:What_the_weather",
@@ -9628,6 +9597,39 @@
                 "links": [
                   "https://planeta.leap.rocks"
                 ]
+              }
+            ],
+            "Village:ZSH - Zelt Stadt Hessen": [
+              {
+                "id": 1494,
+                "guid": "290ed61c-a5ff-4c42-880b-613c773c4fb3",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Poly*-/RA-Meetup",
+                "logo": null,
+                "date": "2019-08-24T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "2:00",
+                "room": "Village:ZSH - Zelt Stadt Hessen",
+                "slug": "camp2019-1494-session_poly_ra_meetup",
+                "title": "Poly*-/RA-Meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Let's hang around, talk about concepts of interpersonal relationships",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Binbash",
+                    "public_name": "Binbash"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Poly",
+                    "public_name": "Poly"
+                  }
+                ],
+                "links": []
               }
             ],
             "Village:Dolphin Emulator \ud83d\udc2c": [
