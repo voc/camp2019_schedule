@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-24 12:40</version>
+  <version>2019-08-24 12:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -4904,24 +4904,6 @@
           <link>http://www.offgridthegame.com</link>
         </links>
       </event>
-      <event id="1475" guid="ac200bd3-0256-4a22-8958-c7ab3f3ba0f9">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Tesla_coil_show</url>
-        <logo/>
-        <date>2019-08-23T21:00:00+02:00</date>
-        <start>21:00</start>
-        <duration>0:30</duration>
-        <room>Village:Milliways</room>
-        <slug>camp2019-1475-session_tesla_coil_show</slug>
-        <title>Tesla coil show</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>outside</type>
-        <language>en</language>
-        <abstract/>
-        <description>Omega Verksted will demo their home-made tesla coil, now in the dark..</description>
-        <persons/>
-        <links/>
-      </event>
     </room>
     <room name="Village:C-base">
       <event id="1115" guid="1c0f9124-a0a8-4de3-bf71-7e9e8918b06c">
@@ -6261,6 +6243,28 @@
         <abstract/>
         <description>Argumente fühlen statt gefühlter Argumente</description>
         <persons/>
+        <links/>
+      </event>
+    </room>
+    <room name="Village:Infuanfu">
+      <event id="1584" guid="520a6791-07c5-41f8-af04-4555e9d9e6bb">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Chaos_Microgrid_Working_Group</url>
+        <logo/>
+        <date>2019-08-24T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Village:Infuanfu</room>
+        <slug>camp2019-1584-session_chaos_microgrid_working_group</slug>
+        <title>Chaos Microgrid Working Group</title>
+        <subtitle>Fifth Meetup - Swap contact details, skills matrix, survey completion</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>We want to meet and discuss the requirements and possibilities of setting up a microgrid solution for future camping events.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Hadez">Hadez</person>
+        </persons>
         <links/>
       </event>
     </room>

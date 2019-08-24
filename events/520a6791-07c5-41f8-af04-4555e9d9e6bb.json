@@ -1,0 +1,26 @@
+{
+  "id": 1584,
+  "guid": "520a6791-07c5-41f8-af04-4555e9d9e6bb",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Chaos_Microgrid_Working_Group",
+  "logo": null,
+  "date": "2019-08-24T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "2:00",
+  "room": "Village:Infuanfu",
+  "slug": "camp2019-1584-session_chaos_microgrid_working_group",
+  "title": "Chaos Microgrid Working Group",
+  "subtitle": "Fifth Meetup - Swap contact details, skills matrix, survey completion",
+  "track": "self organized sessions",
+  "type": "discussion",
+  "language": "de",
+  "abstract": "",
+  "description": "We want to meet and discuss the requirements and possibilities of setting up a microgrid solution for future camping events.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Hadez",
+      "public_name": "Hadez"
+    }
+  ],
+  "links": []
+}
