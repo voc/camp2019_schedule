@@ -1,5 +1,5 @@
 <schedule>
-  <version>Kaus Australis; lounges 808; lightning Manwë; thms Escape from Monkey Island; wiki 2019-08-24 16:40</version>
+  <version>Kaus Australis; lounges 808; lightning Manwë; thms Escape from Monkey Island; wiki 2019-08-24 17:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -12772,6 +12772,26 @@ More https://saunaclash.de/</description>
         <description>what is a infoshop - a short input / was ist ein infoladen - ein kurzer input</description>
         <persons/>
         <links/>
+      </event>
+      <event id="1606" guid="e0c62bfc-7346-4e36-b67e-47ce2030c3bf">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Sticker_Exchange_Party</url>
+        <logo/>
+        <date>2019-08-24T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>1:30</duration>
+        <room>Village:Mobile Infoshop</room>
+        <slug>camp2019-1606-session_sticker_exchange_party</slug>
+        <title>Sticker Exchange Party</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Come together and have fun exchanging stickers at mobile infoshop. Infoshop has a large collection of political stickers.</description>
+        <persons/>
+        <links>
+          <link>https://infoladen.kukuma.org/</link>
+        </links>
       </event>
     </room>
     <room name="Village:AFRA">
