@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-24 03:10</version>
+  <version>2019-08-24 10:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -7217,6 +7217,26 @@
         </links>
       </event>
     </room>
+    <room name="Village:CCCFr">
+      <event id="1580" guid="8628d4fe-9144-4766-a031-c3ef5c3df248">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Screenprinting</url>
+        <logo/>
+        <date>2019-08-24T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>8:00</duration>
+        <room>Village:CCCFr</room>
+        <slug>camp2019-1580-session_screenprinting</slug>
+        <title>Screenprinting</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Print CCCC and Hacker designs on your textiles, laptops, whatever (flat surfaces). Get Information on how to set up your own screenprinting operation.</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
     <room name="Village:Königlich Bayerisches Amtsvillage">
       <event id="1531" guid="da84bd56-71ff-4b33-876b-c8e77898a4b5">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Soldering_Workshop</url>
@@ -7719,28 +7739,6 @@
         <links>
           <link>https://www.robokoding.com/kits/sumorobot</link>
         </links>
-      </event>
-    </room>
-    <room name="Village:Singularity City">
-      <event id="1511" guid="488d1e1b-c4bd-4740-b0c3-54c4121e510c">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:The_camp_LTE_network</url>
-        <logo/>
-        <date>2019-08-25T12:00:00+02:00</date>
-        <start>12:00</start>
-        <duration>0:45</duration>
-        <room>Village:Singularity City</room>
-        <slug>camp2019-1511-session_the_camp_lte_network</slug>
-        <title>The camp LTE network</title>
-        <subtitle>how the camp LTE network is built</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>The camp LTE network</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:LaF0rge">LaF0rge</person>
-        </persons>
-        <links/>
       </event>
     </room>
   </day>
