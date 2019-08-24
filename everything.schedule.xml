@@ -1,5 +1,5 @@
 <schedule>
-  <version>Kaus Australis; lounges 808; lightning Manwë; thms Escape from Monkey Island; wiki 2019-08-24 23:20</version>
+  <version>Kaus Australis; lounges 808; lightning Manwë; thms Tales of Monkey Island; wiki 2019-08-24 23:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -14496,6 +14496,43 @@ Seitenprojekt des Berliner DJ Duetts: Pale Lynx mixt die sportbrigade-typischen 
     <room name="Fireplace (Workshop THM)Hackcenter"/>
     <room name="Hackcenter 1"/>
     <room name="Hackcenter 3"/>
+    <room name="Fireplace (Workshop THM)">
+      <event id="155" guid="0be7b345-e2aa-5d94-ba3e-674f3b9b0aea">
+        <logo/>
+        <date>2019-08-25T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>ARNTML</slug>
+        <url>http://talx.thm.cloud/thms/talk/ARNTML/</url>
+        <title>Re-boot yourself!</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Entertainment</type>
+        <language>de</language>
+        <abstract>Yoga für diejenigen, die bisher hauptsächlich die Computer-Asana praktizieren. Auf deutsch, bei Bedarf auch Englisch. (Asana= (sitzende) Körperstellung im Yoga)&#13;
+Yoga for people who practice Computer Asana most of the time. In German, english as needed. (asana = (sitting) body posture in Yoga)</abstract>
+        <description>Ich zeige euch ein paar schlichte und sanfte Bewegungen, die dem Körper nach langem Sitzen guttun - kein esoterisches Kunstturnen, versprochen! Wenn ihr eigentlich keine Lust auf Sport, aber öfter mal Verspannungen habt, kommt vorbei!&#13;
+&#13;
+Ihr braucht: eine Matte oder Decke. Wer eh immer ein Handtuch dabei hat, nimmt einfach das!&#13;
+Wichtig: bequeme Kleidung tragen.&#13;
+Bei gutem Wetter im Freien; bei schlechtem im Zelt.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="63">
+            <code>KGEVE9</code>
+            <public_name>Neelke</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="Village:About:freedom">
       <event id="1601" guid="d661197d-b893-444a-9c0c-36b9f3f8aa9a">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Algorithms_and_AI_for_democratic_governance</url>

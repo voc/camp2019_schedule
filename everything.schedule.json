@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Kaus Australis; lounges 808; lightning Manw\u00eb; thms Escape from Monkey Island; wiki 2019-08-24 23:20",
+    "version": "Kaus Australis; lounges 808; lightning Manw\u00eb; thms Tales of Monkey Island; wiki 2019-08-24 23:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -16517,6 +16517,40 @@
             "Fireplace (Workshop THM)Hackcenter": [],
             "Hackcenter 1": [],
             "Hackcenter 3": [],
+            "Fireplace (Workshop THM)": [
+              {
+                "id": 155,
+                "guid": "0be7b345-e2aa-5d94-ba3e-674f3b9b0aea",
+                "logo": "",
+                "date": "2019-08-25T11:00:00+02:00",
+                "start": "11:00",
+                "duration": "01:00",
+                "room": "Fireplace (Workshop THM)",
+                "slug": "ARNTML",
+                "url": "http://talx.thm.cloud/thms/talk/ARNTML/",
+                "title": "Re-boot yourself!",
+                "subtitle": "",
+                "track": "Workshop",
+                "type": "Entertainment",
+                "language": "de",
+                "abstract": "Yoga f\u00fcr diejenigen, die bisher haupts\u00e4chlich die Computer-Asana praktizieren. Auf deutsch, bei Bedarf auch Englisch. (Asana= (sitzende) K\u00f6rperstellung im Yoga)\r\nYoga for people who practice Computer Asana most of the time. In German, english as needed. (asana = (sitting) body posture in Yoga)",
+                "description": "Ich zeige euch ein paar schlichte und sanfte Bewegungen, die dem K\u00f6rper nach langem Sitzen guttun - kein esoterisches Kunstturnen, versprochen! Wenn ihr eigentlich keine Lust auf Sport, aber \u00f6fter mal Verspannungen habt, kommt vorbei!\r\n\r\nIhr braucht: eine Matte oder Decke. Wer eh immer ein Handtuch dabei hat, nimmt einfach das!\r\nWichtig: bequeme Kleidung tragen.\r\nBei gutem Wetter im Freien; bei schlechtem im Zelt.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 63,
+                    "code": "KGEVE9",
+                    "public_name": "Neelke",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
             "Village:About:freedom": [
               {
                 "id": 1601,
