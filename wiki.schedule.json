@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-24 21:00",
+    "version": "2019-08-24 22:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -10431,6 +10431,60 @@
                 ]
               }
             ],
+            "Village:Singularity City": [
+              {
+                "id": 1610,
+                "guid": "a3b185a6-9a33-4bbb-8775-b6192c6530be",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Hack_your_nails",
+                "logo": null,
+                "date": "2019-08-25T12:00:00+02:00",
+                "start": "12:00",
+                "duration": "2:00",
+                "room": "Village:Singularity City",
+                "slug": "camp2019-1610-session_hack_your_nails",
+                "title": "Hack your nails",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "We will paint nails with nail polish and have a good time",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Efsho",
+                    "public_name": "Efsho"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1511,
+                "guid": "488d1e1b-c4bd-4740-b0c3-54c4121e510c",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:The_camp_LTE_network",
+                "logo": null,
+                "date": "2019-08-25T12:00:00+02:00",
+                "start": "12:00",
+                "duration": "0:45",
+                "room": "Village:Singularity City",
+                "slug": "camp2019-1511-session_the_camp_lte_network",
+                "title": "The camp LTE network",
+                "subtitle": "how the camp LTE network is built",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "The camp LTE network",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:LaF0rge",
+                    "public_name": "LaF0rge"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Village:HardwareHackingArea": [
               {
                 "id": 1166,
@@ -10511,34 +10565,6 @@
                 "links": [
                   "https://naoth.de"
                 ]
-              }
-            ],
-            "Village:Singularity City": [
-              {
-                "id": 1511,
-                "guid": "488d1e1b-c4bd-4740-b0c3-54c4121e510c",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:The_camp_LTE_network",
-                "logo": null,
-                "date": "2019-08-25T12:00:00+02:00",
-                "start": "12:00",
-                "duration": "0:45",
-                "room": "Village:Singularity City",
-                "slug": "camp2019-1511-session_the_camp_lte_network",
-                "title": "The camp LTE network",
-                "subtitle": "how the camp LTE network is built",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "The camp LTE network",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:LaF0rge",
-                    "public_name": "LaF0rge"
-                  }
-                ],
-                "links": []
               }
             ]
           }

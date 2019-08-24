@@ -1,5 +1,5 @@
 <schedule>
-  <version>Kaus Australis; lounges 808; lightning Manwë; thms Escape from Monkey Island; wiki 2019-08-24 21:00</version>
+  <version>Kaus Australis; lounges 808; lightning Manwë; thms Escape from Monkey Island; wiki 2019-08-24 22:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -14867,6 +14867,48 @@ Seitenprojekt des Berliner DJ Duetts: Pale Lynx mixt die sportbrigade-typischen 
         </links>
       </event>
     </room>
+    <room name="Village:Singularity City">
+      <event id="1610" guid="a3b185a6-9a33-4bbb-8775-b6192c6530be">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hack_your_nails</url>
+        <logo/>
+        <date>2019-08-25T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>2:00</duration>
+        <room>Village:Singularity City</room>
+        <slug>camp2019-1610-session_hack_your_nails</slug>
+        <title>Hack your nails</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>We will paint nails with nail polish and have a good time</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Efsho">Efsho</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1511" guid="488d1e1b-c4bd-4740-b0c3-54c4121e510c">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:The_camp_LTE_network</url>
+        <logo/>
+        <date>2019-08-25T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>0:45</duration>
+        <room>Village:Singularity City</room>
+        <slug>camp2019-1511-session_the_camp_lte_network</slug>
+        <title>The camp LTE network</title>
+        <subtitle>how the camp LTE network is built</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>The camp LTE network</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:LaF0rge">LaF0rge</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Village:HardwareHackingArea">
       <event id="1166" guid="9e621cac-08d6-4dd4-bdaf-20307f41fb38">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Learn_To_Solder</url>
@@ -14933,28 +14975,6 @@ Seitenprojekt des Berliner DJ Duetts: Pale Lynx mixt die sportbrigade-typischen 
         <links>
           <link>https://naoth.de</link>
         </links>
-      </event>
-    </room>
-    <room name="Village:Singularity City">
-      <event id="1511" guid="488d1e1b-c4bd-4740-b0c3-54c4121e510c">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:The_camp_LTE_network</url>
-        <logo/>
-        <date>2019-08-25T12:00:00+02:00</date>
-        <start>12:00</start>
-        <duration>0:45</duration>
-        <room>Village:Singularity City</room>
-        <slug>camp2019-1511-session_the_camp_lte_network</slug>
-        <title>The camp LTE network</title>
-        <subtitle>how the camp LTE network is built</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>The camp LTE network</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:LaF0rge">LaF0rge</person>
-        </persons>
-        <links/>
       </event>
     </room>
   </day>

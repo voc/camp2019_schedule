@@ -1,0 +1,26 @@
+{
+  "id": 1610,
+  "guid": "a3b185a6-9a33-4bbb-8775-b6192c6530be",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Hack_your_nails",
+  "logo": null,
+  "date": "2019-08-25T12:00:00+02:00",
+  "start": "12:00",
+  "duration": "2:00",
+  "room": "Village:Singularity City",
+  "slug": "camp2019-1610-session_hack_your_nails",
+  "title": "Hack your nails",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "de",
+  "abstract": "",
+  "description": "We will paint nails with nail polish and have a good time",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Efsho",
+      "public_name": "Efsho"
+    }
+  ],
+  "links": []
+}
