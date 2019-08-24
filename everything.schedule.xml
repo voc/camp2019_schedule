@@ -1,5 +1,5 @@
 <schedule>
-  <version>Kaus Australis; lounges 808; lightning Manwë; thms Escape from Monkey Island; wiki 2019-08-24 18:30</version>
+  <version>Kaus Australis; lounges 808; lightning Manwë; thms Escape from Monkey Island; wiki 2019-08-24 19:20</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -14972,52 +14972,6 @@ Seitenprojekt des Berliner DJ Duetts: Pale Lynx mixt die sportbrigade-typischen 
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Superwallah">Superwallah</person>
-        </persons>
-        <links>
-          <link>https://www.robokoding.com/kits/sumorobot</link>
-        </links>
-      </event>
-      <event id="1173" guid="272b0087-bb81-4bf0-bb15-6c928912fcd2">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering</url>
-        <logo/>
-        <date>2019-08-25T19:00:00+02:00</date>
-        <start>19:00</start>
-        <duration>2:00</duration>
-        <room>Village:RoboVillage</room>
-        <slug>camp2019-1173-session_sumorobot_soldering</slug>
-        <title>SumoRobot soldering</title>
-        <subtitle>Day 5 evening</subtitle>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>de</language>
-        <abstract/>
-        <description>DECT 7866 - Come solder your own SumoRobot and have a blast later at the SumoRobot match.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
-        </persons>
-        <links>
-          <link>https://www.robokoding.com/kits/sumorobot</link>
-        </links>
-      </event>
-      <event id="1170" guid="16adbe9f-1e08-452f-9337-bfdf205ea4bc">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering</url>
-        <logo/>
-        <date>2019-08-25T14:30:00+02:00</date>
-        <start>14:30</start>
-        <duration>2:00</duration>
-        <room>Village:RoboVillage</room>
-        <slug>camp2019-1170-session_sumorobot_soldering</slug>
-        <title>SumoRobot soldering</title>
-        <subtitle>Day 5 afternoon</subtitle>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>de</language>
-        <abstract/>
-        <description>DECT 7866 - Come solder your own SumoRobot and have a blast later at the SumoRobot match.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Silbo">Silbo</person>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Ivanna">Ivanna</person>
         </persons>
         <links>
           <link>https://www.robokoding.com/kits/sumorobot</link>

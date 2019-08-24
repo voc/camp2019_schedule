@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-24 18:30",
+    "version": "2019-08-24 19:20",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -10577,72 +10577,6 @@
                     "id": 0,
                     "url": "https://events.ccc.de/camp/2019/wiki/User:Superwallah",
                     "public_name": "Superwallah"
-                  }
-                ],
-                "links": [
-                  "https://www.robokoding.com/kits/sumorobot"
-                ]
-              },
-              {
-                "id": 1173,
-                "guid": "272b0087-bb81-4bf0-bb15-6c928912fcd2",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
-                "logo": null,
-                "date": "2019-08-25T19:00:00+02:00",
-                "start": "19:00",
-                "duration": "2:00",
-                "room": "Village:RoboVillage",
-                "slug": "camp2019-1173-session_sumorobot_soldering",
-                "title": "SumoRobot soldering",
-                "subtitle": "Day 5 evening",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "de",
-                "abstract": "",
-                "description": "DECT 7866 - Come solder your own SumoRobot and have a blast later at the SumoRobot match.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
-                    "public_name": "Silbo"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
-                    "public_name": "Ivanna"
-                  }
-                ],
-                "links": [
-                  "https://www.robokoding.com/kits/sumorobot"
-                ]
-              },
-              {
-                "id": 1170,
-                "guid": "16adbe9f-1e08-452f-9337-bfdf205ea4bc",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_soldering",
-                "logo": null,
-                "date": "2019-08-25T14:30:00+02:00",
-                "start": "14:30",
-                "duration": "2:00",
-                "room": "Village:RoboVillage",
-                "slug": "camp2019-1170-session_sumorobot_soldering",
-                "title": "SumoRobot soldering",
-                "subtitle": "Day 5 afternoon",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "de",
-                "abstract": "",
-                "description": "DECT 7866 - Come solder your own SumoRobot and have a blast later at the SumoRobot match.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
-                    "public_name": "Silbo"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
-                    "public_name": "Ivanna"
                   }
                 ],
                 "links": [
