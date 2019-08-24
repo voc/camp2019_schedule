@@ -1,5 +1,5 @@
 <schedule>
-  <version>Izar; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 13:40</version>
+  <version>Izar; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 13:41</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -1225,6 +1225,64 @@ Consultation hours are held in German or English, depending on the need. Oh, and
         <persons/>
         <links/>
       </event>
+      <event id="1273" guid="a0eaf4f8-d2d9-4f6e-b8c4-b0b31f8824ec">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Toki_Pona</url>
+        <logo/>
+        <date>2019-08-21T13:30:00+02:00</date>
+        <start>13:30</start>
+        <duration>0:30</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1273-session_toki_pona</slug>
+        <title>Toki Pona</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>an introduction to the language of good</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1277" guid="fc8fb444-0f23-4b1c-84fa-d36ddf78c50c">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Wie_funktioniert_ein_Sicherheitsgurt</url>
+        <logo/>
+        <date>2019-08-21T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>0:45</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1277-session_wie_funktioniert_ein_sicherheitsgurt</slug>
+        <title>Wie funktioniert ein Sicherheitsgurt</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>How seatbelt retractors work</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1320" guid="15d059be-acc8-4d88-a350-e7dc94ab2ca4">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Workshop_feminist_library</url>
+        <logo/>
+        <date>2019-08-21T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1320-session_workshop_feminist_library</slug>
+        <title>Workshop feminist library</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Workshop to start the feminist library</description>
+        <persons/>
+        <links>
+          <link>http://haecksen.org</link>
+        </links>
+      </event>
     </room>
     <room name="Village:1komona">
       <event id="1361" guid="0d8f7404-43e2-44d2-8de0-0fe29a1a4a40">
@@ -1495,6 +1553,28 @@ Consultation hours are held in German or English, depending on the need. Oh, and
         </persons>
         <links>
           <link>https://foodhackingbase.org/wiki/Tempeh_making_ccccamp2019</link>
+        </links>
+      </event>
+      <event id="1373" guid="b5d29270-8b60-4317-9639-041eb2f3a418">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Whiskey_tasting</url>
+        <logo/>
+        <date>2019-08-21T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>1:30</duration>
+        <room>Village:Foodhackingbase</room>
+        <slug>camp2019-1373-session_whiskey_tasting</slug>
+        <title>Whiskey tasting</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Tasting different whiskeys</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Algoldor">Algoldor</person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Whiskytasting_ccccamp2019</link>
         </links>
       </event>
     </room>
@@ -1774,6 +1854,28 @@ Consultation hours are held in German or English, depending on the need. Oh, and
         </persons>
         <links/>
       </event>
+      <event id="1140" guid="9c0d9834-b2a4-4a2e-9c15-9e54bac815d0">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Tor_Relay_Operator_Meetup</url>
+        <logo/>
+        <date>2019-08-21T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>1:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1140-session_tor_relay_operator_meetup</slug>
+        <title>Tor Relay Operator Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Come learn about Tor Project and privacy, and hang out with Tor contributors</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>https://www.torproject.org</link>
+        </links>
+      </event>
     </room>
     <room name="Village:Digitalcourage">
       <event id="1269" guid="01d7adc9-5283-4009-8cc1-55bfe4569c82">
@@ -1817,6 +1919,26 @@ Consultation hours are held in German or English, depending on the need. Oh, and
         <description>lets go plant hunting at the lake and test some plant identification apps</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Minoi">Minoi</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1304" guid="f40b1ff2-7dbd-419a-8dc4-199f3bf33c0e">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour</url>
+        <logo/>
+        <date>2019-08-21T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>1:00</duration>
+        <room>Village:Kidspace</room>
+        <slug>camp2019-1304-session_vorlesestunde_reading_hour</slug>
+        <title>Vorlesestunde / reading hour</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Kinderbücher vorlesen</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Ckeen">Ckeen</person>
         </persons>
         <links/>
       </event>
@@ -3855,6 +3977,28 @@ We made https://janitor.technology to help newcomers and developers experiment, 
           <link>https://git.card10.badge.events.ccc.de/astro/rust-card10</link>
         </links>
       </event>
+      <event id="1248" guid="de5f9fba-3854-4a9d-b3f0-69e409f01b79">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Why_NixOS%3F</url>
+        <logo/>
+        <date>2019-08-22T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>0:45</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1248-session_why_nixos_</slug>
+        <title>Why NixOS?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>A Presentation about NixOS for newcomers.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Palo">Palo</person>
+        </persons>
+        <links>
+          <link>https://tech.ingolf-wagner.de/slides/why-nixos/</link>
+        </links>
+      </event>
     </room>
     <room name="Goldberg (Workshop 2)">
       <event id="1177" guid="f827e2f7-55c1-4f65-b2a4-aa77da48549b">
@@ -4993,6 +5137,48 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
           <link>https://substrate.dev/en/tutorials</link>
         </links>
       </event>
+      <event id="1139" guid="74735d77-9d77-4c14-b823-81a1c91820ee">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Tor_Project:_running_Tor_trainings_with_human_rights_defenders_in_Global_South</url>
+        <logo/>
+        <date>2019-08-22T14:30:00+02:00</date>
+        <start>14:30</start>
+        <duration>0:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1139-session_tor_project_running_tor_trainings_with_human_rights_defenders_in_global_south</slug>
+        <title>Tor Project: running Tor trainings with human rights defenders in Global South</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Meeting the Global South community and users</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>https://www.torproject.org</link>
+        </links>
+      </event>
+      <event id="1246" guid="a6715135-987f-418c-8dad-d5896ac63695">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Treffen_und_Diskussion_zur_Netzpolitik_in_der_Schweiz</url>
+        <logo/>
+        <date>2019-08-22T10:30:00+02:00</date>
+        <start>10:30</start>
+        <duration>1:25</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1246-session_treffen_und_diskussion_zur_netzpolitik_in_der_schweiz</slug>
+        <title>Treffen und Diskussion zur Netzpolitik in der Schweiz</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Netzpolitik-Frühstück: Kaffee &amp; Gipfeli ab 10.30, Vorstellung und Diskussion der aktuellen und anstehenden Themen im Herbst (E-ID, E-Voting, Datenschutzgesetz, Netzneutralität, ...) ab 11.00 Uhr</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Kire">Kire</person>
+        </persons>
+        <links/>
+      </event>
     </room>
     <room name="Village:1komona">
       <event id="1352" guid="a4924a82-9cf2-4f01-ac38-b2fae9f50b45">
@@ -5271,6 +5457,26 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
         <description>introduction into generating graphics with LaTeX</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Dantetante">Dantetante</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1249" guid="a3c87f56-9cfa-454b-a6b5-4c2741ebc2c2">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Xspace_%E2%80%93_Solution_to_an_annoying_TeX_quirk</url>
+        <logo/>
+        <date>2019-08-22T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>0:15</duration>
+        <room>Village:LaTeX</room>
+        <slug>camp2019-1249-session_xspace_solution_to_an_annoying_tex_quirk</slug>
+        <title>Xspace – Solution to an annoying TeX quirk</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Let's have a look how xspace.sty makes TeX's treatment of whitespace more predictable!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Fr%C3%B6belsuppe">Fröbelsuppe</person>
         </persons>
         <links/>
       </event>
@@ -5744,6 +5950,49 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
           <link>http://www.offgridthegame.com</link>
         </links>
       </event>
+      <event id="1245" guid="b942af59-cc7b-4414-a822-4fa6d4ade0aa">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:The_Future_of_HOPE</url>
+        <logo/>
+        <date>2019-08-22T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Village:Milliways</room>
+        <slug>camp2019-1245-session_the_future_of_hope</slug>
+        <title>The Future of HOPE</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>The HOPE conference run by 2600 Magazine is in trouble and needs your help</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Aestetix">Aestetix</person>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Maltman23">Maltman23</person>
+        </persons>
+        <links>
+          <link>https://www.2600.com/content/future-hope</link>
+        </links>
+      </event>
+      <event id="1143" guid="0ef423eb-0595-4918-9f30-6158ea6227e5">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Whiskyleaks</url>
+        <logo/>
+        <date>2019-08-22T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>5:00</duration>
+        <room>Village:Milliways</room>
+        <slug>camp2019-1143-session_whiskyleaks</slug>
+        <title>Whiskyleaks</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language/>
+        <abstract/>
+        <description>The traditional Milliways Whiskyleaks, bring a nice bottle of liquor and a glass and share it with other fine human beings, donations welcome.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Adventureloop">Adventureloop</person>
+        </persons>
+        <links/>
+      </event>
     </room>
     <room name="Seating area south of Milliways (S9 on map)">
       <event id="1226" guid="eb23d0dc-2d2f-49c8-98a2-b96cf3d78782">
@@ -5792,6 +6041,46 @@ https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</
           <link>https://www.hackerspace-bamberg.de/Otto_LC</link>
           <link>https://www.ottodiy.com/</link>
         </links>
+      </event>
+      <event id="1137" guid="127c17a7-0a66-49a2-a806-db41c19ebfac">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Tetrapixels</url>
+        <logo/>
+        <date>2019-08-22T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>3:00</duration>
+        <room>Village:Kidspace</room>
+        <slug>camp2019-1137-session_tetrapixels</slug>
+        <title>Tetrapixels</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>We build blinking objects with Tetrapacks and Arduinos</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Melle">Melle</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1303" guid="f40b1ff2-7dbd-419a-8dc4-199f3bf33c0f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour</url>
+        <logo/>
+        <date>2019-08-22T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>1:00</duration>
+        <room>Village:Kidspace</room>
+        <slug>camp2019-1303-session_vorlesestunde_reading_hour</slug>
+        <title>Vorlesestunde / reading hour</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Kinderbücher vorlesen</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Ckeen">Ckeen</person>
+        </persons>
+        <links/>
       </event>
     </room>
     <room name="Village:C-base">
@@ -7909,6 +8198,26 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
           <link>https://it-kollektiv.com</link>
         </links>
       </event>
+      <event id="1400" guid="f4b1cb32-414a-46cc-881c-16e6c35b72a1">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Trickmisch_-_Trickfilme_erstellen</url>
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Village:1komona</room>
+        <slug>camp2019-1400-session_trickmisch_trickfilme_erstellen</slug>
+        <title>Trickmisch - Trickfilme erstellen</title>
+        <subtitle>Trickfilmworkshop</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description>Animate your own drawings or use our huge collection of images made by newcomers. you are kindly invited to animate them analog on a lighting table or online on trixmix.tv  You find us in the heart of code dome. (a very warm thank you at this point to Heart of Code for hosting us! :)</description>
+        <persons/>
+        <links>
+          <link>http://trixmix.tv</link>
+        </links>
+      </event>
     </room>
     <room name="Village:HardwareHackingArea">
       <event id="1032" guid="8b07d0a4-891f-48d8-833b-694299433d13">
@@ -7953,14 +8262,14 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         </persons>
         <links/>
       </event>
-      <event id="1426" guid="f81b0dc4-73dc-5f89-bbb1-5e3e4aea2bdb">
+      <event id="1590" guid="468d9123-d7ea-4647-935e-ae4a3f6e5820">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Fomu,_the_FPGA_in_your_USB_Port</url>
         <logo/>
         <date>2019-08-23T17:30:00+02:00</date>
         <start>17:30</start>
         <duration>1:30</duration>
         <room>Village:HardwareHackingArea</room>
-        <slug>camp2019-1426-session_fomu_the_fpga_in_your_usb_port</slug>
+        <slug>camp2019-1590-session_fomu_the_fpga_in_your_usb_port</slug>
         <title>Fomu, the FPGA in your USB Port</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -8268,6 +8577,28 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         </persons>
         <links>
           <link>https://git.ingolf-wagner.de/palo/nixos-diagrams</link>
+        </links>
+      </event>
+      <event id="1136" guid="0c8e57af-799e-4378-a318-07fbd1b1da3f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Terranix</url>
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>0:45</duration>
+        <room>Village:NixOS</room>
+        <slug>camp2019-1136-session_terranix</slug>
+        <title>Terranix</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>A NixOS way to create terraform json files.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Palo">Palo</person>
+        </persons>
+        <links>
+          <link>https://terranix.org/</link>
         </links>
       </event>
     </room>
@@ -8582,6 +8913,50 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         </persons>
         <links>
           <link>https://substrate.dev/en/tutorials</link>
+        </links>
+      </event>
+      <event id="1466" guid="70e10376-9f77-461b-a0bb-8aeecc2eda1f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Testing_economic_incentives_on_the_Kusama_Blockchain</url>
+        <logo/>
+        <date>2019-08-23T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>0:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1466-session_testing_economic_incentives_on_the_kusama_blockchain</slug>
+        <title>Testing economic incentives on the Kusama Blockchain</title>
+        <subtitle>about:sessions</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>soon Kusama, the Polkadot Chaos Canary network, is going to launch. In this session we'll dive into how this blockchain network will be used to test ecnomic incentives</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>https://kusama.network/</link>
+        </links>
+      </event>
+      <event id="1356" guid="7642b89a-7920-4796-85c6-29437a8da2bb">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Wifi4EU_-_broken_by_technical_specifications</url>
+        <logo/>
+        <date>2019-08-23T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>0:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1356-session_wifi4eu_broken_by_technical_specifications</slug>
+        <title>Wifi4EU - broken by technical specifications</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>With the Wifi4EU programm the EU is planning to spend 100 million € by 2020 to subsidise a centralized surveillance infrastructure for centers of public life in the EU. The talk will lay out how Wifi4EU is supposed to work both administratively and technically, where there are problems with the later and what is and can be done about it.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gnunicorn">Gnunicorn</person>
+        </persons>
+        <links>
+          <link>https://zenodo.org/record/3236807#.XV1aVOgzbIU</link>
         </links>
       </event>
     </room>
@@ -8948,6 +9323,26 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         </persons>
         <links/>
       </event>
+      <event id="1250" guid="ac48ceec-92fe-4bbc-b7aa-6993ec6e5da1">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Xspace_%E2%80%93_Solution_to_an_annoying_TeX_quirk</url>
+        <logo/>
+        <date>2019-08-23T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>0:15</duration>
+        <room>Village:LaTeX</room>
+        <slug>camp2019-1250-session_xspace_solution_to_an_annoying_tex_quirk</slug>
+        <title>Xspace – Solution to an annoying TeX quirk</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Let's have a look how xspace.sty makes TeX's treatment of whitespace more predictable!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Fr%C3%B6belsuppe">Fröbelsuppe</person>
+        </persons>
+        <links/>
+      </event>
     </room>
     <room name="Village:Hacksaar">
       <event id="1544" guid="2b4e784e-aaab-48f3-a836-83b350d630eb">
@@ -9112,6 +9507,26 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         </persons>
         <links/>
       </event>
+      <event id="1302" guid="f40b1ff2-7dbd-419a-8dc4-199f3bf33c1a">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Vorlesestunde_/_reading_hour</url>
+        <logo/>
+        <date>2019-08-23T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>1:00</duration>
+        <room>Village:Kidspace</room>
+        <slug>camp2019-1302-session_vorlesestunde_reading_hour</slug>
+        <title>Vorlesestunde / reading hour</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Kinderbücher vorlesen</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Ckeen">Ckeen</person>
+        </persons>
+        <links/>
+      </event>
     </room>
     <room name="Village:Chaos-West">
       <event id="1467" guid="231a0f7d-2b25-4b14-8fa0-8beca33f7eec">
@@ -9170,6 +9585,24 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Fuero">Fuero</person>
         </persons>
+        <links/>
+      </event>
+      <event id="1339" guid="7b8838c4-ecf1-4875-b647-b2054d817895">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:WoW!_Dancing_like_a_Blood_Elf...</url>
+        <logo/>
+        <date>2019-08-23T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>0:45</duration>
+        <room>Village:Chaos-West</room>
+        <slug>camp2019-1339-session_wow_dancing_like_a_blood_elf_</slug>
+        <title>WoW! Dancing like a Blood Elf...</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Learn how to dance for real like the male blood elf in world of warcraft in 5 steps. Beginner's class. All gender welcome!</description>
+        <persons/>
         <links/>
       </event>
     </room>
@@ -9475,6 +9908,46 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
           <link>https://matrix.org/</link>
         </links>
       </event>
+      <event id="1496" guid="640a6b0b-6dca-4cde-9c5e-050c9ca64378">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Terraform_and_Docker_to_selfhost</url>
+        <logo/>
+        <date>2019-08-23T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>Village:Librehosters</room>
+        <slug>camp2019-1496-session_terraform_and_docker_to_selfhost</slug>
+        <title>Terraform and Docker to selfhost</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Nemo">Nemo</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1420" guid="4b72c9b7-1fe5-4f4b-9a31-21c0de7e9303">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:YunoHost_workshop:_install_your_own!</url>
+        <logo/>
+        <date>2019-08-23T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Village:Librehosters</room>
+        <slug>camp2019-1420-session_yunohost_workshop_install_your_own_</slug>
+        <title>YunoHost workshop: install your own!</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Self-hosting apps for your friends and organization should be easy!</description>
+        <persons/>
+        <links>
+          <link>https://yunohost.org</link>
+        </links>
+      </event>
     </room>
     <room name="Village:Milliways">
       <event id="1570" guid="76a758fd-23da-4aa7-8d94-124a28e14e1f">
@@ -9501,6 +9974,24 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
           <link>https://www.twitch.tv/semaeopus</link>
           <link>http://www.offgridthegame.com</link>
         </links>
+      </event>
+      <event id="1475" guid="ac200bd3-0256-4a22-8958-c7ab3f3ba0f9">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Tesla_coil_show</url>
+        <logo/>
+        <date>2019-08-23T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>0:30</duration>
+        <room>Village:Milliways</room>
+        <slug>camp2019-1475-session_tesla_coil_show</slug>
+        <title>Tesla coil show</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>outside</type>
+        <language>en</language>
+        <abstract/>
+        <description>Omega Verksted will demo their home-made tesla coil, now in the dark..</description>
+        <persons/>
+        <links/>
       </event>
     </room>
     <room name="Village:C-base">
@@ -10354,6 +10845,44 @@ I am currently doing my PhD at a research institute that focuses on embedded sec
         <persons/>
         <links>
           <link>http://github.com/fort-nix/nix-bitcoin</link>
+        </links>
+      </event>
+      <event id="1489" guid="039689b0-0433-44e2-b0e7-8de8ef67d1b7">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:What_the_weather</url>
+        <logo/>
+        <date>2019-08-24T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>0:45</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1489-session_what_the_weather</slug>
+        <title>What the weather</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn about how models are used in weather prediction and more</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1379" guid="0c0709ed-6fba-4013-aa75-fcfc4f07e1c7">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:You_broke_the_internet,_let_us_build_a_GNU_one</url>
+        <logo/>
+        <date>2019-08-24T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>1:30</duration>
+        <room>Johnson (Workshop 1)</room>
+        <slug>camp2019-1379-session_you_broke_the_internet_let_us_build_a_gnu_one</slug>
+        <title>You broke the internet, let us build a GNU one</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>GNUnet meetup for the community</description>
+        <persons/>
+        <links>
+          <link>https://gnunet.org</link>
         </links>
       </event>
     </room>
@@ -11345,6 +11874,24 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
           <link>https://stratum0.org/blog/posts/2014/03/06/how-to-stainless-steel-etching/</link>
         </links>
       </event>
+      <event id="1503" guid="33259ffa-c352-4cf4-9200-ec6e5a3ab677">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Tschernobyl</url>
+        <logo/>
+        <date>2019-08-24T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Village:Singularity City</room>
+        <slug>camp2019-1503-session_tschernobyl</slug>
+        <title>Tschernobyl</title>
+        <subtitle>Tschernobyl Reisebericht und Q&amp;A</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Tschernobyl Reisebericht + Q&amp;A / Chernobyl travel report and Q&amp;A</description>
+        <persons/>
+        <links/>
+      </event>
     </room>
     <room name="Village:HardwareHackingArea">
       <event id="1031" guid="2a436543-55ef-4f8d-a8c6-955ce870a700">
@@ -11537,14 +12084,14 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
       </event>
     </room>
     <room name="Village:1komona">
-      <event id="1354" guid="9ff4afa9-52f2-515a-ac54-ec1448b3016a">
+      <event id="1588" guid="21eeb908-8ed0-4d8c-b376-b4f628ce20ab">
         <url>https://events.ccc.de/camp/2019/wiki/Session:ArtesMobiles_-_SpeculativeAI</url>
         <logo/>
         <date>2019-08-24T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>0:15</duration>
         <room>Village:1komona</room>
-        <slug>camp2019-1354-session_artesmobiles_speculativeai</slug>
+        <slug>camp2019-1588-session_artesmobiles_speculativeai</slug>
         <title>ArtesMobiles - SpeculativeAI</title>
         <subtitle>4pm - 6pm every 15 min</subtitle>
         <track>self organized sessions</track>
@@ -11781,14 +12328,14 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
           <link>http://www.8os.io</link>
         </links>
       </event>
-      <event id="1540" guid="2d051993-196f-5cdc-af7f-6a0d71415a87">
+      <event id="1589" guid="78013ffc-62d6-4051-b3a0-4b771d9f89e6">
         <url>https://events.ccc.de/camp/2019/wiki/Session:EightOS</url>
         <logo/>
         <date>2019-08-24T18:00:00+02:00</date>
         <start>18:00</start>
         <duration>2:00</duration>
         <room>Hackcenter</room>
-        <slug>camp2019-1540-session_eightos</slug>
+        <slug>camp2019-1589-session_eightos</slug>
         <title>EightOS</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -12418,6 +12965,24 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <links>
           <link>http://angela.is/SocialTech/</link>
         </links>
+      </event>
+      <event id="1591" guid="f0650ac5-3097-4008-bafb-dd56efdab2dd">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Wikipedia_Edit-a-thon_about_wom*n_in_STEM</url>
+        <logo/>
+        <date>2019-08-24T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1591-session_wikipedia_edit_a_thon_about_wom_n_in_stem</slug>
+        <title>Wikipedia Edit-a-thon about wom*n in STEM</title>
+        <subtitle>ask for Pooja</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>We will imporve wikipedia by starting, adding, and translating pages about wom*n in STEM fields</description>
+        <persons/>
+        <links/>
       </event>
     </room>
     <room name="Village:Free Software Foundation Europe">
@@ -14137,6 +14702,28 @@ Seitenprojekt des Berliner DJ Duetts: Pale Lynx mixt die sportbrigade-typischen 
         <links>
           <link>https://www.robokoding.com/kits/sumorobot</link>
         </links>
+      </event>
+    </room>
+    <room name="Village:Singularity City">
+      <event id="1511" guid="488d1e1b-c4bd-4740-b0c3-54c4121e510c">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:The_camp_LTE_network</url>
+        <logo/>
+        <date>2019-08-25T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>0:45</duration>
+        <room>Village:Singularity City</room>
+        <slug>camp2019-1511-session_the_camp_lte_network</slug>
+        <title>The camp LTE network</title>
+        <subtitle>how the camp LTE network is built</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>The camp LTE network</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:LaF0rge">LaF0rge</person>
+        </persons>
+        <links/>
       </event>
     </room>
   </day>
