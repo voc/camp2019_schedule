@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 808; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 01:30",
+    "version": "Hadar; lounges 808; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 02:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -11752,13 +11752,13 @@
                 "guid": "0fc6f4b3-da18-458f-a979-a26401e1342a",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices",
                 "logo": null,
-                "date": "2019-08-24T15:00:00+02:00",
-                "start": "15:00",
-                "duration": "1:30",
+                "date": "2019-08-24T14:00:00+02:00",
+                "start": "14:00",
+                "duration": "2:00",
                 "room": "Johnson (Workshop 1)",
                 "slug": "camp2019-1491-session_creating_z_wave_controllers_and_devices",
                 "title": "Creating Z-Wave controllers and devices",
-                "subtitle": "",
+                "subtitle": "Time changed!!!!!",
                 "track": "self organized sessions",
                 "type": "workshop",
                 "language": "en",

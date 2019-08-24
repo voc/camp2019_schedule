@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-24 01:30</version>
+  <version>2019-08-24 02:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -5220,13 +5220,13 @@
       <event id="1491" guid="0fc6f4b3-da18-458f-a979-a26401e1342a">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Creating_Z-Wave_controllers_and_devices</url>
         <logo/>
-        <date>2019-08-24T15:00:00+02:00</date>
-        <start>15:00</start>
-        <duration>1:30</duration>
+        <date>2019-08-24T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
         <room>Johnson (Workshop 1)</room>
         <slug>camp2019-1491-session_creating_z_wave_controllers_and_devices</slug>
         <title>Creating Z-Wave controllers and devices</title>
-        <subtitle/>
+        <subtitle>Time changed!!!!!</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>en</language>
