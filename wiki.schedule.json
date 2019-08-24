@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-24 17:00",
+    "version": "2019-08-24 18:20",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -2041,32 +2041,6 @@
                 "links": [
                   "https://twitter.com/helenleigh"
                 ]
-              },
-              {
-                "id": 1289,
-                "guid": "61307345-e6a1-4822-8d7a-58082ebf65ce",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners",
-                "logo": null,
-                "date": "2019-08-22T17:30:00+02:00",
-                "start": "17:30",
-                "duration": "1:40",
-                "room": "Village:HardwareHackingArea",
-                "slug": "camp2019-1289-session_surface_mount_electronics_assembly_for_terrified_beginners",
-                "title": "Surface Mount Electronics Assembly for Terrified Beginners",
-                "subtitle": "Day 2 - 17:30",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 17 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Kliment",
-                    "public_name": "Kliment"
-                  }
-                ],
-                "links": []
               },
               {
                 "id": 1287,
@@ -4657,32 +4631,6 @@
                 "links": [
                   "https://redd.it/ch91ip"
                 ]
-              },
-              {
-                "id": 1308,
-                "guid": "34ee2023-e2f1-4adf-8715-4a23d512238a",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners",
-                "logo": null,
-                "date": "2019-08-23T17:30:00+02:00",
-                "start": "17:30",
-                "duration": "1:40",
-                "room": "Village:HardwareHackingArea",
-                "slug": "camp2019-1308-session_surface_mount_electronics_assembly_for_terrified_beginners",
-                "title": "Surface Mount Electronics Assembly for Terrified Beginners",
-                "subtitle": "Day 3 - 17:30",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 17 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Kliment",
-                    "public_name": "Kliment"
-                  }
-                ],
-                "links": []
               },
               {
                 "id": 1309,
@@ -7869,32 +7817,6 @@
                 "links": [
                   "https://github.com/ropg/hyper-pi"
                 ]
-              },
-              {
-                "id": 1295,
-                "guid": "07c2e0d3-6f4b-462b-9725-5846c7f0dc16",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners_-_electronic_kitten_EXPERIMENTAL_WORKSHOP",
-                "logo": null,
-                "date": "2019-08-24T17:30:00+02:00",
-                "start": "17:30",
-                "duration": "1:40",
-                "room": "Village:HardwareHackingArea",
-                "slug": "camp2019-1295-session_surface_mount_electronics_assembly_for_terrified_beginners_electronic_kitten_experimental_workshop",
-                "title": "Surface Mount Electronics Assembly for Terrified Beginners - electronic kitten EXPERIMENTAL WORKSHOP",
-                "subtitle": "EXPERIMENTAL Day 4 - 17:30",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Experimental new workshop - Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building an electronic touch-activated purring kitten. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 5 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Kliment",
-                    "public_name": "Kliment"
-                  }
-                ],
-                "links": []
               }
             ],
             "Village:1komona": [
