@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-24 10:10",
+    "version": "2019-08-24 10:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -9011,7 +9011,7 @@
                 "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "Print CCCC and Hacker designs on your textiles, laptops, whatever (flat surfaces). Get Information on how to set up your own screenprinting operation.",
+                "description": "Print CCC and Hacker designs on your textiles, laptops, whatever (flat surfaces). Get Information on how to set up your own screenprinting operation.",
                 "persons": [],
                 "links": []
               }

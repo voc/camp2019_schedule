@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-24 10:10</version>
+  <version>2019-08-24 10:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -7232,7 +7232,7 @@
         <type>hands-on</type>
         <language>de</language>
         <abstract/>
-        <description>Print CCCC and Hacker designs on your textiles, laptops, whatever (flat surfaces). Get Information on how to set up your own screenprinting operation.</description>
+        <description>Print CCC and Hacker designs on your textiles, laptops, whatever (flat surfaces). Get Information on how to set up your own screenprinting operation.</description>
         <persons/>
         <links/>
       </event>
