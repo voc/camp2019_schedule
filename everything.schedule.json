@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Kaus Australis; lounges 808; lightning Manw\u00eb; thms Escape from Monkey Island; wiki 2019-08-24 20:40",
+    "version": "Kaus Australis; lounges 808; lightning Manw\u00eb; thms Escape from Monkey Island; wiki 2019-08-24 21:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -4615,8 +4615,8 @@
                   {
                     "id": 42,
                     "code": "3UXMDZ",
-                    "public_name": "Rainer",
-                    "biography": "",
+                    "public_name": "Rainer Rehak",
+                    "biography": "https://weizenbaum-institut.de/en/persons-details/p/rainer-rehak/",
                     "answers": []
                   }
                 ],
