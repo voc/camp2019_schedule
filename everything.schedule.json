@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Kaus Australis; lounges 808; lightning Manw\u00eb; thms Escape from Monkey Island; wiki 2019-08-24 19:40",
+    "version": "Kaus Australis; lounges 808; lightning Manw\u00eb; thms Escape from Monkey Island; wiki 2019-08-24 19:50",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -16536,32 +16536,6 @@
                 "abstract": "",
                 "description": "This workshop introduces into the need and the current developments of digitizing democratic politics. It's main focus is to assess and discuss options to use data analytics and plattform technologies to advance national and international governance. It includes the consideration of data and copyright politics and other essentials for change.",
                 "persons": [],
-                "links": []
-              },
-              {
-                "id": 1158,
-                "guid": "7ba573f9-56d0-4941-8381-522df2118498",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Decentrathon",
-                "logo": null,
-                "date": "2019-08-25T12:00:00+02:00",
-                "start": "12:00",
-                "duration": "2:00",
-                "room": "Village:About:freedom",
-                "slug": "camp2019-1158-session_decentrathon",
-                "title": "Decentrathon",
-                "subtitle": "Final Presentations",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "en",
-                "abstract": "",
-                "description": "the decentralisation hackathon",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
-                    "public_name": "Gnunicorn"
-                  }
-                ],
                 "links": []
               },
               {
