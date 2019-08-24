@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Izar; lounges 808; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 13:10",
+    "version": "Izar; lounges 808; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 13:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -9934,15 +9934,15 @@
             ],
             "Village:Chaos Ballett Bett (Drahti Trampolin)": [
               {
-                "id": 1459,
-                "guid": "c2976908-e011-58e2-932e-aa076f796ce1",
+                "id": 1586,
+                "guid": "d88835db-1546-4e09-a65f-7958e6f01c5b",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Chaos_Ballett",
                 "logo": null,
                 "date": "2019-08-23T11:00:00+02:00",
                 "start": "11:00",
                 "duration": "1:00",
                 "room": "Village:Chaos Ballett Bett (Drahti Trampolin)",
-                "slug": "camp2019-1459-session_chaos_ballett",
+                "slug": "camp2019-1586-session_chaos_ballett",
                 "title": "Chaos Ballett",
                 "subtitle": "Chaos Ballett Restart",
                 "track": "self organized sessions",
@@ -10757,32 +10757,6 @@
                 "links": [
                   "https://matrix.org/"
                 ]
-              },
-              {
-                "id": 1496,
-                "guid": "640a6b0b-6dca-4cde-9c5e-050c9ca64378",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Terraform_and_Docker_to_selfhost",
-                "logo": null,
-                "date": "2019-08-23T19:00:00+02:00",
-                "start": "19:00",
-                "duration": "1:00",
-                "room": "Village:Librehosters",
-                "slug": "camp2019-1496-session_terraform_and_docker_to_selfhost",
-                "title": "Terraform and Docker to selfhost",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Nemo",
-                    "public_name": "Nemo"
-                  }
-                ],
-                "links": []
               }
             ],
             "Village:Milliways": [
@@ -13596,15 +13570,15 @@
             ],
             "Village:Chaos Ballett Bett (Drahti Trampolin)": [
               {
-                "id": 1458,
-                "guid": "d88835db-1546-4e09-a65f-7958e6f01c5a",
+                "id": 1587,
+                "guid": "d88835db-1546-4e09-a65f-7958e6f01c5c",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:Chaos_Ballett",
                 "logo": null,
                 "date": "2019-08-24T11:00:00+02:00",
                 "start": "11:00",
                 "duration": "1:00",
                 "room": "Village:Chaos Ballett Bett (Drahti Trampolin)",
-                "slug": "camp2019-1458-session_chaos_ballett",
+                "slug": "camp2019-1587-session_chaos_ballett",
                 "title": "Chaos Ballett",
                 "subtitle": "Chaos Ballett Restart",
                 "track": "self organized sessions",
