@@ -14,7 +14,7 @@
   "type": "workshop",
   "language": "en",
   "abstract": "",
-  "description": "Unidirectional and bidirectional crosschain transfers using NIPoPoWs and Proof-of-Burn",
+  "description": "Proof-of-Burn formalisation, schemes and cross-chain utilization",
   "persons": [
     {
       "id": 0,

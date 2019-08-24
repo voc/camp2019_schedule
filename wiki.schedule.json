@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-24 11:40",
+    "version": "2019-08-24 11:50",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -6774,7 +6774,7 @@
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "Unidirectional and bidirectional crosschain transfers using NIPoPoWs and Proof-of-Burn",
+                "description": "Proof-of-Burn formalisation, schemes and cross-chain utilization",
                 "persons": [
                   {
                     "id": 0,

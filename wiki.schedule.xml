@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-24 11:40</version>
+  <version>2019-08-24 11:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -5409,7 +5409,7 @@
         <type>workshop</type>
         <language>en</language>
         <abstract/>
-        <description>Unidirectional and bidirectional crosschain transfers using NIPoPoWs and Proof-of-Burn</description>
+        <description>Proof-of-Burn formalisation, schemes and cross-chain utilization</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Gtklocker">Gtklocker</person>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Dionyziz">Dionyziz</person>
