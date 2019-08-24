@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-24 15:30",
+    "version": "2019-08-24 15:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -7878,7 +7878,7 @@
                 "room": "Village:HardwareHackingArea",
                 "slug": "camp2019-1603-session_make_a_foss_ipod_touch_secure_messenger",
                 "title": "Make a FOSS iPod Touch / Secure Messenger",
-                "subtitle": "",
+                "subtitle": "Hands-On workshop to create at least 5 devices",
                 "track": "self organized sessions",
                 "type": "workshop",
                 "language": "en",

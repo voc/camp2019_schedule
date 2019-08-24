@@ -1,5 +1,5 @@
 <schedule>
-  <version>Kaus Australis; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 15:30</version>
+  <version>Kaus Australis; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 15:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -12073,7 +12073,7 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <room>Village:HardwareHackingArea</room>
         <slug>camp2019-1603-session_make_a_foss_ipod_touch_secure_messenger</slug>
         <title>Make a FOSS iPod Touch / Secure Messenger</title>
-        <subtitle/>
+        <subtitle>Hands-On workshop to create at least 5 devices</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>en</language>
