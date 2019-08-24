@@ -1,0 +1,26 @@
+{
+  "id": 1592,
+  "guid": "b3f658f9-be67-44e8-86b0-6ed8a83d66f7",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Retro_hardware_meeting",
+  "logo": null,
+  "date": "2019-08-24T20:30:00+02:00",
+  "start": "20:30",
+  "duration": "2:00",
+  "room": "Village:Dolphin Emulator \ud83d\udc2c",
+  "slug": "camp2019-1592-session_retro_hardware_meeting",
+  "title": "Retro hardware meeting",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "meeting",
+  "language": "de",
+  "abstract": "",
+  "description": "Retro Hardware meetup - bring your old computers and consoles, or just talk about them!",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Js",
+      "public_name": "Js"
+    }
+  ],
+  "links": []
+}

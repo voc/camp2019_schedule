@@ -1,5 +1,5 @@
 <schedule>
-  <version>Izar; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 13:41</version>
+  <version>Izar; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 14:20</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -10827,26 +10827,6 @@ I am currently doing my PhD at a research institute that focuses on embedded sec
         </persons>
         <links/>
       </event>
-      <event id="1437" guid="52c110ba-8604-494b-bffd-4657171ef06c">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Spreading_nix_to_the_Bitcoin_ecosystem</url>
-        <logo/>
-        <date>2019-08-24T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>0:30</duration>
-        <room>Johnson (Workshop 1)</room>
-        <slug>camp2019-1437-session_spreading_nix_to_the_bitcoin_ecosystem</slug>
-        <title>Spreading nix to the Bitcoin ecosystem</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type/>
-        <language>en</language>
-        <abstract/>
-        <description>Why Nix and Bitcoin are a perfect match</description>
-        <persons/>
-        <links>
-          <link>http://github.com/fort-nix/nix-bitcoin</link>
-        </links>
-      </event>
       <event id="1489" guid="039689b0-0433-44e2-b0e7-8de8ef67d1b7">
         <url>https://events.ccc.de/camp/2019/wiki/Session:What_the_weather</url>
         <logo/>
@@ -11000,9 +10980,9 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="6">
-            <code>MXYMJ3</code>
-            <public_name>Daniel Molkentin</public_name>
+          <person id="74">
+            <code>HYJBCA</code>
+            <public_name>Marcus Richter</public_name>
             <biography/>
           </person>
         </persons>
@@ -13407,6 +13387,28 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <links>
           <link>https://planeta.leap.rocks</link>
         </links>
+      </event>
+    </room>
+    <room name="Village:Dolphin Emulator 🐬">
+      <event id="1592" guid="b3f658f9-be67-44e8-86b0-6ed8a83d66f7">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Retro_hardware_meeting</url>
+        <logo/>
+        <date>2019-08-24T20:30:00+02:00</date>
+        <start>20:30</start>
+        <duration>2:00</duration>
+        <room>Village:Dolphin Emulator 🐬</room>
+        <slug>camp2019-1592-session_retro_hardware_meeting</slug>
+        <title>Retro hardware meeting</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Retro Hardware meetup - bring your old computers and consoles, or just talk about them!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Js">Js</person>
+        </persons>
+        <links/>
       </event>
     </room>
     <room name="Village:RoboVillage">
