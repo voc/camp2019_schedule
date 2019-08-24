@@ -1,5 +1,5 @@
 <schedule>
-  <version>Kaus Australis; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 15:20</version>
+  <version>Kaus Australis; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 15:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -12064,6 +12064,28 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         </persons>
         <links/>
       </event>
+      <event id="1603" guid="42627a83-cf21-4b60-ab1b-63af5bb37bbb">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Make_a_FOSS_iPod_Touch_/_Secure_Messenger</url>
+        <logo/>
+        <date>2019-08-24T20:30:00+02:00</date>
+        <start>20:30</start>
+        <duration>2:00</duration>
+        <room>Village:HardwareHackingArea</room>
+        <slug>camp2019-1603-session_make_a_foss_ipod_touch_secure_messenger</slug>
+        <title>Make a FOSS iPod Touch / Secure Messenger</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Reverse">Reverse</person>
+        </persons>
+        <links>
+          <link>https://github.com/ropg/hyper-pi</link>
+        </links>
+      </event>
       <event id="1295" guid="07c2e0d3-6f4b-462b-9725-5846c7f0dc16">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Surface_Mount_Electronics_Assembly_for_Terrified_Beginners_-_electronic_kitten_EXPERIMENTAL_WORKSHOP</url>
         <logo/>
@@ -14411,7 +14433,7 @@ Seitenprojekt des Berliner DJ Duetts: Pale Lynx mixt die sportbrigade-typischen 
         <type>workshop</type>
         <language>en</language>
         <abstract/>
-        <description/>
+        <description>This workshop introduces into the need and the current developments of digitizing democratic politics. It's main focus is to assess and discuss options to use data analytics and plattform technologies to advance national and international governance. It includes the consideration of data and copyright politics and other essentials for change.</description>
         <persons/>
         <links/>
       </event>

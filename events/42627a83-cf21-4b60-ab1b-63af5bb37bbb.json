@@ -1,0 +1,28 @@
+{
+  "id": 1603,
+  "guid": "42627a83-cf21-4b60-ab1b-63af5bb37bbb",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Make_a_FOSS_iPod_Touch_/_Secure_Messenger",
+  "logo": null,
+  "date": "2019-08-24T20:30:00+02:00",
+  "start": "20:30",
+  "duration": "2:00",
+  "room": "Village:HardwareHackingArea",
+  "slug": "camp2019-1603-session_make_a_foss_ipod_touch_secure_messenger",
+  "title": "Make a FOSS iPod Touch / Secure Messenger",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Reverse",
+      "public_name": "Reverse"
+    }
+  ],
+  "links": [
+    "https://github.com/ropg/hyper-pi"
+  ]
+}
