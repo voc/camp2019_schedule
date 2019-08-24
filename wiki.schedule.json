@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-24 12:00",
+    "version": "2019-08-24 12:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -3104,39 +3104,6 @@
                   "https://github.com/IuriLeitaoMartinho/OffGridMilliwaysMod",
                   "https://www.twitch.tv/semaeopus",
                   "http://www.offgridthegame.com"
-                ]
-              },
-              {
-                "id": 1245,
-                "guid": "b942af59-cc7b-4414-a822-4fa6d4ade0aa",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:The_Future_of_HOPE",
-                "logo": null,
-                "date": "2019-08-22T20:00:00+02:00",
-                "start": "20:00",
-                "duration": "1:00",
-                "room": "Village:Milliways",
-                "slug": "camp2019-1245-session_the_future_of_hope",
-                "title": "The Future of HOPE",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "en",
-                "abstract": "",
-                "description": "The HOPE conference run by 2600 Magazine is in trouble and needs your help",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Aestetix",
-                    "public_name": "Aestetix"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Maltman23",
-                    "public_name": "Maltman23"
-                  }
-                ],
-                "links": [
-                  "https://www.2600.com/content/future-hope"
                 ]
               }
             ],
@@ -8798,6 +8765,30 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Village:Social Dist0rtion Protocol": [
+              {
+                "id": 1581,
+                "guid": "eab21f25-34d8-4aa1-8e32-f19cabae3190",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Planet_A_Networking_Party._Bring_your_LinkedIn_and_enjoy_some_soothing_lounge_music!",
+                "logo": null,
+                "date": "2019-08-24T12:20:00+02:00",
+                "start": "12:20",
+                "duration": "2:00",
+                "room": "Village:Social Dist0rtion Protocol",
+                "slug": "camp2019-1581-session_planet_a_networking_party_bring_your_linkedin_and_enjoy_some_soothing_lounge_music_",
+                "title": "Planet A Networking Party. Bring your LinkedIn and enjoy some soothing lounge music!",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "en",
+                "abstract": "",
+                "description": "Come to the Social Dist0rtion Protocol village, hang out, enjoy the music and handshake with others!",
+                "persons": [],
+                "links": [
+                  "https://planeta.leap.rocks"
+                ]
               }
             ],
             "Village:RoboVillage": [

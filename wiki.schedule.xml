@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-24 12:00</version>
+  <version>2019-08-24 12:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -2477,29 +2477,6 @@
           <link>https://github.com/IuriLeitaoMartinho/OffGridMilliwaysMod</link>
           <link>https://www.twitch.tv/semaeopus</link>
           <link>http://www.offgridthegame.com</link>
-        </links>
-      </event>
-      <event id="1245" guid="b942af59-cc7b-4414-a822-4fa6d4ade0aa">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:The_Future_of_HOPE</url>
-        <logo/>
-        <date>2019-08-22T20:00:00+02:00</date>
-        <start>20:00</start>
-        <duration>1:00</duration>
-        <room>Village:Milliways</room>
-        <slug>camp2019-1245-session_the_future_of_hope</slug>
-        <title>The Future of HOPE</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>en</language>
-        <abstract/>
-        <description>The HOPE conference run by 2600 Magazine is in trouble and needs your help</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Aestetix">Aestetix</person>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Maltman23">Maltman23</person>
-        </persons>
-        <links>
-          <link>https://www.2600.com/content/future-hope</link>
         </links>
       </event>
     </room>
@@ -7077,6 +7054,28 @@
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Nemo">Nemo</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="Village:Social Dist0rtion Protocol">
+      <event id="1581" guid="eab21f25-34d8-4aa1-8e32-f19cabae3190">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Planet_A_Networking_Party._Bring_your_LinkedIn_and_enjoy_some_soothing_lounge_music!</url>
+        <logo/>
+        <date>2019-08-24T12:20:00+02:00</date>
+        <start>12:20</start>
+        <duration>2:00</duration>
+        <room>Village:Social Dist0rtion Protocol</room>
+        <slug>camp2019-1581-session_planet_a_networking_party_bring_your_linkedin_and_enjoy_some_soothing_lounge_music_</slug>
+        <title>Planet A Networking Party. Bring your LinkedIn and enjoy some soothing lounge music!</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>en</language>
+        <abstract/>
+        <description>Come to the Social Dist0rtion Protocol village, hang out, enjoy the music and handshake with others!</description>
+        <persons/>
+        <links>
+          <link>https://planeta.leap.rocks</link>
+        </links>
       </event>
     </room>
     <room name="Village:RoboVillage">
