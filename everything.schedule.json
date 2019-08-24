@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 808; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 11:50",
+    "version": "Hadar; lounges 808; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 12:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -14113,28 +14113,6 @@
                 "links": [
                   "http://angela.is/SocialTech/"
                 ]
-              },
-              {
-                "id": 1578,
-                "guid": "f563b8de-80fa-47a8-b017-8b42ed5516a4",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Stand_with_Hongkong",
-                "logo": null,
-                "date": "2019-08-24T16:00:00+02:00",
-                "start": "16:00",
-                "duration": "1:00",
-                "room": "Village:Haecksen",
-                "slug": "camp2019-1578-session_stand_with_hongkong",
-                "title": "Stand with Hongkong",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "We want to meet, discuss Hongkong / Chinese Politics and come up with ways to support HK",
-                "persons": [],
-                "links": [
-                  "https://mobile.twitter.com/hkcccamp19"
-                ]
               }
             ],
             "Village:Free Software Foundation Europe": [
@@ -14838,6 +14816,28 @@
                 "persons": [],
                 "links": [
                   "https://www.unteilbar.org/"
+                ]
+              },
+              {
+                "id": 1578,
+                "guid": "f563b8de-80fa-47a8-b017-8b42ed5516a4",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Stand_with_Hongkong",
+                "logo": null,
+                "date": "2019-08-24T16:00:00+02:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "Fairydust",
+                "slug": "camp2019-1578-session_stand_with_hongkong",
+                "title": "Stand with Hongkong",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "We want to meet, discuss Hongkong / Chinese Politics and come up with ways to support HK",
+                "persons": [],
+                "links": [
+                  "https://mobile.twitter.com/hkcccamp19"
                 ]
               }
             ]

@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-24 11:50</version>
+  <version>2019-08-24 12:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -6696,26 +6696,6 @@
           <link>http://angela.is/SocialTech/</link>
         </links>
       </event>
-      <event id="1578" guid="f563b8de-80fa-47a8-b017-8b42ed5516a4">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Stand_with_Hongkong</url>
-        <logo/>
-        <date>2019-08-24T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>1:00</duration>
-        <room>Village:Haecksen</room>
-        <slug>camp2019-1578-session_stand_with_hongkong</slug>
-        <title>Stand with Hongkong</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>We want to meet, discuss Hongkong / Chinese Politics and come up with ways to support HK</description>
-        <persons/>
-        <links>
-          <link>https://mobile.twitter.com/hkcccamp19</link>
-        </links>
-      </event>
     </room>
     <room name="Village:Free Software Foundation Europe">
       <event id="1160" guid="94927a6d-0607-40eb-9064-2563a6c333ca">
@@ -7278,6 +7258,26 @@
         <persons/>
         <links>
           <link>https://www.unteilbar.org/</link>
+        </links>
+      </event>
+      <event id="1578" guid="f563b8de-80fa-47a8-b017-8b42ed5516a4">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Stand_with_Hongkong</url>
+        <logo/>
+        <date>2019-08-24T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Fairydust</room>
+        <slug>camp2019-1578-session_stand_with_hongkong</slug>
+        <title>Stand with Hongkong</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>We want to meet, discuss Hongkong / Chinese Politics and come up with ways to support HK</description>
+        <persons/>
+        <links>
+          <link>https://mobile.twitter.com/hkcccamp19</link>
         </links>
       </event>
     </room>
