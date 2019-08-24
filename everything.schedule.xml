@@ -1,5 +1,5 @@
 <schedule>
-  <version>Kaus Australis; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 16:00</version>
+  <version>Kaus Australis; lounges 808; lightning Manwë; thms Escape from Monkey Island; wiki 2019-08-24 16:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -8096,8 +8096,10 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         <type>discussion</type>
         <language>de</language>
         <abstract/>
-        <description/>
-        <persons/>
+        <description>Was haben Offene Werkstätten und Hackerspaces gemeinsam?</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Ma_vo">Ma vo</person>
+        </persons>
         <links/>
       </event>
     </room>
@@ -11431,6 +11433,38 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <attachments/>
         <answers/>
       </event>
+      <event id="167" guid="df965bff-fa35-5f47-84b4-9a6002f7de94">
+        <logo/>
+        <date>2019-08-24T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>00:30</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>W9SGXY</slug>
+        <url>http://talx.thm.cloud/thms/talk/W9SGXY/</url>
+        <title>Mobile Saunafestival MeetUp</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Short Talk</type>
+        <language>en</language>
+        <abstract>We want to meet Sauna enthusiasts and fans and people who want to support our sauna festival in Berlin. Especially people who own or have a access to a mobile sauna.</abstract>
+        <description>Participation also for German speakers possible.&#13;
+&#13;
+More https://saunaclash.de/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="75">
+            <code>HVSGFA</code>
+            <public_name>Bastian</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
     </room>
     <room name="Village:Foodhackingbase">
       <event id="1547" guid="1daabc42-8bea-4bc1-b1c6-55d68554ceff">
@@ -13124,6 +13158,28 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <description>Everyday at 19:30 in the Cluster about:freedom we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Eal">Eal</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Village:402 Payment Required">
+      <event id="1604" guid="8b6719fd-4c5a-4e06-b3c0-502dcb3eb922">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Freezing_your_crypto-currencies_-_very_cold_storage_solution</url>
+        <logo/>
+        <date>2019-08-24T19:30:00+02:00</date>
+        <start>19:30</start>
+        <duration>0:20</duration>
+        <room>Village:402 Payment Required</room>
+        <slug>camp2019-1604-session_freezing_your_crypto_currencies_very_cold_storage_solution</slug>
+        <title>Freezing your crypto-currencies - very cold storage solution</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Very cold storage for your cryptocurrencies</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Polto">Polto</person>
         </persons>
         <links/>
       </event>

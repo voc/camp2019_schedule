@@ -14,7 +14,13 @@
   "type": "discussion",
   "language": "de",
   "abstract": "",
-  "description": "",
-  "persons": [],
+  "description": "Was haben Offene Werkst\u00e4tten und Hackerspaces gemeinsam?",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Ma_vo",
+      "public_name": "Ma vo"
+    }
+  ],
   "links": []
 }

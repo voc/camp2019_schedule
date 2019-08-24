@@ -1,0 +1,26 @@
+{
+  "id": 1604,
+  "guid": "8b6719fd-4c5a-4e06-b3c0-502dcb3eb922",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Freezing_your_crypto-currencies_-_very_cold_storage_solution",
+  "logo": null,
+  "date": "2019-08-24T19:30:00+02:00",
+  "start": "19:30",
+  "duration": "0:20",
+  "room": "Village:402 Payment Required",
+  "slug": "camp2019-1604-session_freezing_your_crypto_currencies_very_cold_storage_solution",
+  "title": "Freezing your crypto-currencies - very cold storage solution",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "Very cold storage for your cryptocurrencies",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Polto",
+      "public_name": "Polto"
+    }
+  ],
+  "links": []
+}

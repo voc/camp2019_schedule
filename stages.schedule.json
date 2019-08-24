@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Kaus Australis; lounges 808; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island",
+    "version": "Kaus Australis; lounges 808; lightning Manw\u00eb; thms Escape from Monkey Island",
     "base_url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/",
     "conference": {
       "acronym": "Camp2019",
@@ -5945,6 +5945,38 @@
                     "code": "U8GPQ7",
                     "public_name": "Hannes Fertala",
                     "biography": "Hannes Fertala ist seit mehreren Jahren in der Chiptune-Szene als Gameboy-Liveact 'irq7' aktiv. Der erste Kontakt zu dieser Art von Musik kam 2003 durch ein Konzert des Gameboymusicclub's in Graz zustande. Daraufhin folgt der Kauf den ersten Gameboys und dann schlie\u00dflich das erste Konzert im Jahr 2006. Davor ein \u00fcberzeugter Fan des Commodore 64 \u2013 Sounds und sammeln erster Erfahrungen mit Tracker-Software am Amiga.\r\nUm noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys selbst zu modifizieren und erweitern. Alle Aktivit\u00e4ten werden seither auf seinem Blog (http://irq7.blogspot.com) ver\u00f6ffentlicht. Des Weiteren ist er seit 2010 Mitorganisator des j\u00e4hrlichen Chiptune-Festivals CHIP HITS THE FAN (http://chiphitsthefan.de) in N\u00fcrnberg.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 167,
+                "guid": "df965bff-fa35-5f47-84b4-9a6002f7de94",
+                "logo": "",
+                "date": "2019-08-24T21:00:00+02:00",
+                "start": "21:00",
+                "duration": "00:30",
+                "room": "Fireplace (Workshop THM)",
+                "slug": "W9SGXY",
+                "url": "http://talx.thm.cloud/thms/talk/W9SGXY/",
+                "title": "Mobile Saunafestival MeetUp",
+                "subtitle": "",
+                "track": "Workshop",
+                "type": "Short Talk",
+                "language": "en",
+                "abstract": "We want to meet Sauna enthusiasts and fans and people who want to support our sauna festival in Berlin. Especially people who own or have a access to a mobile sauna.",
+                "description": "Participation also for German speakers possible.\r\n\r\nMore https://saunaclash.de/",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 75,
+                    "code": "HVSGFA",
+                    "public_name": "Bastian",
+                    "biography": null,
                     "answers": []
                   }
                 ],

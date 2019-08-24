@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-24 16:00</version>
+  <version>2019-08-24 16:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -3456,8 +3456,10 @@
         <type>discussion</type>
         <language>de</language>
         <abstract/>
-        <description/>
-        <persons/>
+        <description>Was haben Offene Werkstätten und Hackerspaces gemeinsam?</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Ma_vo">Ma vo</person>
+        </persons>
         <links/>
       </event>
     </room>
@@ -7342,6 +7344,28 @@
         <description>Everyday at 19:30 in the Cluster about:freedom we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Eal">Eal</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Village:402 Payment Required">
+      <event id="1604" guid="8b6719fd-4c5a-4e06-b3c0-502dcb3eb922">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Freezing_your_crypto-currencies_-_very_cold_storage_solution</url>
+        <logo/>
+        <date>2019-08-24T19:30:00+02:00</date>
+        <start>19:30</start>
+        <duration>0:20</duration>
+        <room>Village:402 Payment Required</room>
+        <slug>camp2019-1604-session_freezing_your_crypto_currencies_very_cold_storage_solution</slug>
+        <title>Freezing your crypto-currencies - very cold storage solution</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Very cold storage for your cryptocurrencies</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Polto">Polto</person>
         </persons>
         <links/>
       </event>

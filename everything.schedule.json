@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Kaus Australis; lounges 808; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 16:00",
+    "version": "Kaus Australis; lounges 808; lightning Manw\u00eb; thms Escape from Monkey Island; wiki 2019-08-24 16:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -9085,8 +9085,14 @@
                 "type": "discussion",
                 "language": "de",
                 "abstract": "",
-                "description": "",
-                "persons": [],
+                "description": "Was haben Offene Werkst\u00e4tten und Hackerspaces gemeinsam?",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ma_vo",
+                    "public_name": "Ma vo"
+                  }
+                ],
                 "links": []
               }
             ],
@@ -12906,6 +12912,38 @@
                 "links": [],
                 "attachments": [],
                 "answers": []
+              },
+              {
+                "id": 167,
+                "guid": "df965bff-fa35-5f47-84b4-9a6002f7de94",
+                "logo": "",
+                "date": "2019-08-24T21:00:00+02:00",
+                "start": "21:00",
+                "duration": "00:30",
+                "room": "Fireplace (Workshop THM)",
+                "slug": "W9SGXY",
+                "url": "http://talx.thm.cloud/thms/talk/W9SGXY/",
+                "title": "Mobile Saunafestival MeetUp",
+                "subtitle": "",
+                "track": "Workshop",
+                "type": "Short Talk",
+                "language": "en",
+                "abstract": "We want to meet Sauna enthusiasts and fans and people who want to support our sauna festival in Berlin. Especially people who own or have a access to a mobile sauna.",
+                "description": "Participation also for German speakers possible.\r\n\r\nMore https://saunaclash.de/",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 75,
+                    "code": "HVSGFA",
+                    "public_name": "Bastian",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
               }
             ],
             "Village:Foodhackingbase": [
@@ -14967,6 +15005,34 @@
                     "id": 0,
                     "url": "https://events.ccc.de/camp/2019/wiki/User:Eal",
                     "public_name": "Eal"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Village:402 Payment Required": [
+              {
+                "id": 1604,
+                "guid": "8b6719fd-4c5a-4e06-b3c0-502dcb3eb922",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Freezing_your_crypto-currencies_-_very_cold_storage_solution",
+                "logo": null,
+                "date": "2019-08-24T19:30:00+02:00",
+                "start": "19:30",
+                "duration": "0:20",
+                "room": "Village:402 Payment Required",
+                "slug": "camp2019-1604-session_freezing_your_crypto_currencies_very_cold_storage_solution",
+                "title": "Freezing your crypto-currencies - very cold storage solution",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "Very cold storage for your cryptocurrencies",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Polto",
+                    "public_name": "Polto"
                   }
                 ],
                 "links": []

@@ -1,0 +1,32 @@
+{
+  "id": 167,
+  "guid": "df965bff-fa35-5f47-84b4-9a6002f7de94",
+  "logo": "",
+  "date": "2019-08-24T21:00:00+02:00",
+  "start": "21:00",
+  "duration": "00:30",
+  "room": "Fireplace (Workshop THM)",
+  "slug": "W9SGXY",
+  "url": "http://talx.thm.cloud/thms/talk/W9SGXY/",
+  "title": "Mobile Saunafestival MeetUp",
+  "subtitle": "",
+  "track": "Workshop",
+  "type": "Short Talk",
+  "language": "en",
+  "abstract": "We want to meet Sauna enthusiasts and fans and people who want to support our sauna festival in Berlin. Especially people who own or have a access to a mobile sauna.",
+  "description": "Participation also for German speakers possible.\r\n\r\nMore https://saunaclash.de/",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 75,
+      "code": "HVSGFA",
+      "public_name": "Bastian",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Kaus Australis; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island</version>
+  <version>Kaus Australis; lounges 808; lightning Manwë; thms Escape from Monkey Island</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -5849,6 +5849,38 @@ Consultation hours are held in German or English, depending on the need. Oh, and
             <public_name>Hannes Fertala</public_name>
             <biography>Hannes Fertala ist seit mehreren Jahren in der Chiptune-Szene als Gameboy-Liveact 'irq7' aktiv. Der erste Kontakt zu dieser Art von Musik kam 2003 durch ein Konzert des Gameboymusicclub's in Graz zustande. Daraufhin folgt der Kauf den ersten Gameboys und dann schließlich das erste Konzert im Jahr 2006. Davor ein überzeugter Fan des Commodore 64 – Sounds und sammeln erster Erfahrungen mit Tracker-Software am Amiga.&#13;
 Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys selbst zu modifizieren und erweitern. Alle Aktivitäten werden seither auf seinem Blog (http://irq7.blogspot.com) veröffentlicht. Des Weiteren ist er seit 2010 Mitorganisator des jährlichen Chiptune-Festivals CHIP HITS THE FAN (http://chiphitsthefan.de) in Nürnberg.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="167" guid="df965bff-fa35-5f47-84b4-9a6002f7de94">
+        <logo/>
+        <date>2019-08-24T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>00:30</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>W9SGXY</slug>
+        <url>http://talx.thm.cloud/thms/talk/W9SGXY/</url>
+        <title>Mobile Saunafestival MeetUp</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Short Talk</type>
+        <language>en</language>
+        <abstract>We want to meet Sauna enthusiasts and fans and people who want to support our sauna festival in Berlin. Especially people who own or have a access to a mobile sauna.</abstract>
+        <description>Participation also for German speakers possible.&#13;
+&#13;
+More https://saunaclash.de/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="75">
+            <code>HVSGFA</code>
+            <public_name>Bastian</public_name>
+            <biography/>
           </person>
         </persons>
         <links/>
