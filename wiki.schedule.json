@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-24 02:10",
+    "version": "2019-08-24 03:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -163,32 +163,6 @@
                 "abstract": "",
                 "description": "basic formulas for sorting data without as much pain as usual",
                 "persons": [],
-                "links": []
-              },
-              {
-                "id": 1273,
-                "guid": "a0eaf4f8-d2d9-4f6e-b8c4-b0b31f8824ec",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Toki_Pona",
-                "logo": null,
-                "date": "2019-08-21T13:30:00+02:00",
-                "start": "13:30",
-                "duration": "0:30",
-                "room": "Village:Haecksen",
-                "slug": "camp2019-1273-session_toki_pona",
-                "title": "Toki Pona",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "an introduction to the language of good",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Piko",
-                    "public_name": "Piko"
-                  }
-                ],
                 "links": []
               }
             ],
@@ -4690,34 +4664,6 @@
                 "links": []
               },
               {
-                "id": 1536,
-                "guid": "2817e1cc-6808-483d-9f6c-7bf609f1f90e",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Brainstorming_about_Camp/Congress_Schedule_2019_for_Android",
-                "logo": null,
-                "date": "2019-08-23T19:00:00+02:00",
-                "start": "19:00",
-                "duration": "1:30",
-                "room": "Village:About:freedom",
-                "slug": "camp2019-1536-session_brainstorming_about_camp_congress_schedule_2019_for_android",
-                "title": "Brainstorming about Camp/Congress Schedule 2019 for Android",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "en",
-                "abstract": "",
-                "description": "Let's brainstorm about the Camp Schedule app for Android.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Tbsprs",
-                    "public_name": "Tbsprs"
-                  }
-                ],
-                "links": [
-                  "https://github.com/EventFahrplan/EventFahrplan"
-                ]
-              },
-              {
                 "id": 1251,
                 "guid": "c806c61c-521f-4f89-a836-064f5575b3a3",
                 "url": "https://events.ccc.de/camp/2019/wiki/Session:C3Sus_Ride_excellent_with_each_other",
@@ -7776,29 +7722,35 @@
                 ]
               }
             ],
-            "Village:Chaos Ballett Bett (Drahti Trampolin)": [
-              {
-                "id": 1458,
-                "guid": "d88835db-1546-4e09-a65f-7958e6f01c5a",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Chaos_Ballett",
-                "logo": null,
-                "date": "2019-08-24T11:00:00+02:00",
-                "start": "11:00",
-                "duration": "1:00",
-                "room": "Village:Chaos Ballett Bett (Drahti Trampolin)",
-                "slug": "camp2019-1458-session_chaos_ballett",
-                "title": "Chaos Ballett",
-                "subtitle": "Chaos Ballett Restart",
-                "track": "self organized sessions",
-                "type": "",
-                "language": "",
-                "abstract": "",
-                "description": "Argumente f\u00fchlen statt gef\u00fchlter Argumente",
-                "persons": [],
-                "links": []
-              }
-            ],
             "Village:C-base": [
+              {
+                "id": 1536,
+                "guid": "2817e1cc-6808-483d-9f6c-7bf609f1f90e",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Brainstorming_about_Camp/Congress_Schedule_2019_for_Android",
+                "logo": null,
+                "date": "2019-08-24T16:30:00+02:00",
+                "start": "16:30",
+                "duration": "0:30",
+                "room": "Village:C-base",
+                "slug": "camp2019-1536-session_brainstorming_about_camp_congress_schedule_2019_for_android",
+                "title": "Brainstorming about Camp/Congress Schedule 2019 for Android",
+                "subtitle": "Users-developer-meeting",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "Let's brainstorm about the Camp Schedule app for Android.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Tbsprs",
+                    "public_name": "Tbsprs"
+                  }
+                ],
+                "links": [
+                  "https://github.com/EventFahrplan/EventFahrplan"
+                ]
+              },
               {
                 "id": 1300,
                 "guid": "6dc5eae9-babb-44e7-b2e5-c4308c8f257d",
@@ -7870,6 +7822,28 @@
                 "links": [
                   "http://pentagame.org"
                 ]
+              }
+            ],
+            "Village:Chaos Ballett Bett (Drahti Trampolin)": [
+              {
+                "id": 1458,
+                "guid": "d88835db-1546-4e09-a65f-7958e6f01c5a",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Chaos_Ballett",
+                "logo": null,
+                "date": "2019-08-24T11:00:00+02:00",
+                "start": "11:00",
+                "duration": "1:00",
+                "room": "Village:Chaos Ballett Bett (Drahti Trampolin)",
+                "slug": "camp2019-1458-session_chaos_ballett",
+                "title": "Chaos Ballett",
+                "subtitle": "Chaos Ballett Restart",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "",
+                "abstract": "",
+                "description": "Argumente f\u00fchlen statt gef\u00fchlter Argumente",
+                "persons": [],
+                "links": []
               }
             ],
             "Village:Librehosters": [
