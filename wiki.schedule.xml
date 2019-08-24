@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-24 20:30</version>
+  <version>2019-08-24 20:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -8088,6 +8088,28 @@
         </persons>
         <links/>
       </event>
+      <event id="1608" guid="811e7dea-47aa-418c-9590-66fe176f3267">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Gaby_Weber_@_CCCamp_2019</url>
+        <logo/>
+        <date>2019-08-25T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>2:00</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1608-session_gaby_weber_cccamp_2019</slug>
+        <title>Gaby Weber @ CCCamp 2019</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Filmvorstellung durch und Diskussion mit der investigativen Journalistin Gaby Weber</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Rainer">Rainer</person>
+        </persons>
+        <links>
+          <link>https://www.gabyweber.com</link>
+        </links>
+      </event>
       <event id="1119" guid="7735bc78-26f8-4f7c-82ae-bfa7080816be">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Proof_of_ignorance</url>
         <logo/>
@@ -8108,6 +8130,7 @@
         </persons>
         <links>
           <link>https://talx.thm.cloud/thms/talk/WCSCAX/</link>
+          <link>https://events.ccc.de/camp/2019/wiki/Session:Blockchain:_Proof_of_ignorance</link>
         </links>
       </event>
     </room>
@@ -8395,26 +8418,6 @@
         <links>
           <link>https://digitalcourage.de</link>
         </links>
-      </event>
-    </room>
-    <room name="Village:AAAAAAAAAAAA">
-      <event id="1607" guid="db2979eb-802a-4107-90b9-db4ac74b5050">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Gaby_Weber_@_CCCamp_2019</url>
-        <logo/>
-        <date>2019-08-25T13:00:00+02:00</date>
-        <start>13:00</start>
-        <duration>2:00</duration>
-        <room>Village:AAAAAAAAAAAA</room>
-        <slug>camp2019-1607-session_gaby_weber_cccamp_2019</slug>
-        <title>Gaby Weber @ CCCamp 2019</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <links/>
       </event>
     </room>
     <room name="Village:HardwareHackingArea">

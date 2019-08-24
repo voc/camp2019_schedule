@@ -1,0 +1,28 @@
+{
+  "id": 1608,
+  "guid": "811e7dea-47aa-418c-9590-66fe176f3267",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Gaby_Weber_@_CCCamp_2019",
+  "logo": null,
+  "date": "2019-08-25T13:00:00+02:00",
+  "start": "13:00",
+  "duration": "2:00",
+  "room": "Village:About:freedom",
+  "slug": "camp2019-1608-session_gaby_weber_cccamp_2019",
+  "title": "Gaby Weber @ CCCamp 2019",
+  "subtitle": "about:stage",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Filmvorstellung durch und Diskussion mit der investigativen Journalistin Gaby Weber",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Rainer",
+      "public_name": "Rainer"
+    }
+  ],
+  "links": [
+    "https://www.gabyweber.com"
+  ]
+}
