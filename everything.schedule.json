@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Izar; lounges 808; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 14:30",
+    "version": "Kaus Australis; lounges 808; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 15:20",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -14503,6 +14503,26 @@
                 "description": "come by read something - also reading out is welcome / komm vorbei und lese was - auch vorlesen willkommen",
                 "persons": [],
                 "links": []
+              },
+              {
+                "id": 1602,
+                "guid": "130f44f2-7f85-463c-8dfc-c68c476fd9b9",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Introduction_to_infoshop",
+                "logo": null,
+                "date": "2019-08-24T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "0:30",
+                "room": "Village:Mobile Infoshop",
+                "slug": "camp2019-1602-session_introduction_to_infoshop",
+                "title": "Introduction to infoshop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "what is a infoshop - a short input / was ist ein infoladen - ein kurzer input",
+                "persons": [],
+                "links": []
               }
             ],
             "Village:AFRA": [
@@ -14865,26 +14885,6 @@
                 "language": "",
                 "abstract": "",
                 "description": "Ein praktischer Einstieg in die Improvisation",
-                "persons": [],
-                "links": []
-              },
-              {
-                "id": 1311,
-                "guid": "b2a39864-a9b3-4026-82c9-6398c8588651",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)",
-                "logo": null,
-                "date": "2019-08-24T22:00:00+02:00",
-                "start": "22:00",
-                "duration": "0:30",
-                "room": "Village:Haecksen",
-                "slug": "camp2019-1311-session_maerchenstunde_fuer_erwachsene_",
-                "title": "M\u00e4rchenstunde (f\u00fcr Erwachsene)",
-                "subtitle": "M\u00e4rchenstunde: Computergeschichte und Frauen*",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Achtung, f\u00e4llt aus! Tag 3 gehts los",
                 "persons": [],
                 "links": []
               },
@@ -16399,61 +16399,27 @@
             "Fireplace (Workshop THM)Hackcenter": [],
             "Hackcenter 1": [],
             "Hackcenter 3": [],
-            "Village:Haecksen": [
+            "Village:About:freedom": [
               {
-                "id": 1270,
-                "guid": "70d9eabd-198b-4bbb-98bd-1d60a7587bc8",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:B%C3%B6ser_Sprechworkshop",
+                "id": 1601,
+                "guid": "d661197d-b893-444a-9c0c-36b9f3f8aa9a",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Algorithms_and_AI_for_democratic_governance",
                 "logo": null,
-                "date": "2019-08-25T13:00:00+02:00",
-                "start": "13:00",
-                "duration": "1:30",
-                "room": "Village:Haecksen",
-                "slug": "camp2019-1270-session_boeser_sprechworkshop",
-                "title": "B\u00f6ser Sprechworkshop",
-                "subtitle": "",
+                "date": "2019-08-25T11:00:00+02:00",
+                "start": "11:00",
+                "duration": "0:55",
+                "room": "Village:About:freedom",
+                "slug": "camp2019-1601-session_algorithms_and_ai_for_democratic_governance",
+                "title": "Algorithms and AI for democratic governance",
+                "subtitle": "about:stage",
                 "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "de",
+                "type": "workshop",
+                "language": "en",
                 "abstract": "",
-                "description": "Sprechworkshop, um beim Reden ernstgenommen zu werden",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Piko",
-                    "public_name": "Piko"
-                  }
-                ],
+                "description": "",
+                "persons": [],
                 "links": []
               },
-              {
-                "id": 1460,
-                "guid": "03e86b75-b044-42a5-8429-6ab2bff64ad3",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Do_you_hear_the_people_sing_%E2%80%93_the_song_of_the_Hong_Kong_protests",
-                "logo": null,
-                "date": "2019-08-25T17:30:00+02:00",
-                "start": "17:30",
-                "duration": "0:30",
-                "room": "Village:Haecksen",
-                "slug": "camp2019-1460-session_do_you_hear_the_people_sing_the_song_of_the_hong_kong_protests",
-                "title": "Do you hear the people sing \u2013 the song of the Hong Kong protests",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "de",
-                "abstract": "",
-                "description": "Singing the song and learning about it's background in the Hong Kong protests",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Piko",
-                    "public_name": "Piko"
-                  }
-                ],
-                "links": []
-              }
-            ],
-            "Village:About:freedom": [
               {
                 "id": 1158,
                 "guid": "7ba573f9-56d0-4941-8381-522df2118498",
@@ -16528,6 +16494,60 @@
                     "id": 0,
                     "url": "https://events.ccc.de/camp/2019/wiki/User:Rainer",
                     "public_name": "Rainer"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Village:Haecksen": [
+              {
+                "id": 1270,
+                "guid": "70d9eabd-198b-4bbb-98bd-1d60a7587bc8",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:B%C3%B6ser_Sprechworkshop",
+                "logo": null,
+                "date": "2019-08-25T13:00:00+02:00",
+                "start": "13:00",
+                "duration": "1:30",
+                "room": "Village:Haecksen",
+                "slug": "camp2019-1270-session_boeser_sprechworkshop",
+                "title": "B\u00f6ser Sprechworkshop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Sprechworkshop, um beim Reden ernstgenommen zu werden",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Piko",
+                    "public_name": "Piko"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1460,
+                "guid": "03e86b75-b044-42a5-8429-6ab2bff64ad3",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Do_you_hear_the_people_sing_%E2%80%93_the_song_of_the_Hong_Kong_protests",
+                "logo": null,
+                "date": "2019-08-25T17:30:00+02:00",
+                "start": "17:30",
+                "duration": "0:30",
+                "room": "Village:Haecksen",
+                "slug": "camp2019-1460-session_do_you_hear_the_people_sing_the_song_of_the_hong_kong_protests",
+                "title": "Do you hear the people sing \u2013 the song of the Hong Kong protests",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Singing the song and learning about it's background in the Hong Kong protests",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Piko",
+                    "public_name": "Piko"
                   }
                 ],
                 "links": []

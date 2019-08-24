@@ -1,5 +1,5 @@
 <schedule>
-  <version>Izar; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 14:30</version>
+  <version>Kaus Australis; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 15:20</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -12720,6 +12720,24 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <persons/>
         <links/>
       </event>
+      <event id="1602" guid="130f44f2-7f85-463c-8dfc-c68c476fd9b9">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Introduction_to_infoshop</url>
+        <logo/>
+        <date>2019-08-24T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>0:30</duration>
+        <room>Village:Mobile Infoshop</room>
+        <slug>camp2019-1602-session_introduction_to_infoshop</slug>
+        <title>Introduction to infoshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>what is a infoshop - a short input / was ist ein infoladen - ein kurzer input</description>
+        <persons/>
+        <links/>
+      </event>
     </room>
     <room name="Village:AFRA">
       <event id="1468" guid="07324fcb-71b6-4c4f-8ef2-05c345f34df3">
@@ -13041,24 +13059,6 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <language/>
         <abstract/>
         <description>Ein praktischer Einstieg in die Improvisation</description>
-        <persons/>
-        <links/>
-      </event>
-      <event id="1311" guid="b2a39864-a9b3-4026-82c9-6398c8588651">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:M%C3%A4rchenstunde_(f%C3%BCr_Erwachsene)</url>
-        <logo/>
-        <date>2019-08-24T22:00:00+02:00</date>
-        <start>22:00</start>
-        <duration>0:30</duration>
-        <room>Village:Haecksen</room>
-        <slug>camp2019-1311-session_maerchenstunde_fuer_erwachsene_</slug>
-        <title>Märchenstunde (für Erwachsene)</title>
-        <subtitle>Märchenstunde: Computergeschichte und Frauen*</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Achtung, fällt aus! Tag 3 gehts los</description>
         <persons/>
         <links/>
       </event>
@@ -14396,49 +14396,25 @@ Seitenprojekt des Berliner DJ Duetts: Pale Lynx mixt die sportbrigade-typischen 
     <room name="Fireplace (Workshop THM)Hackcenter"/>
     <room name="Hackcenter 1"/>
     <room name="Hackcenter 3"/>
-    <room name="Village:Haecksen">
-      <event id="1270" guid="70d9eabd-198b-4bbb-98bd-1d60a7587bc8">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:B%C3%B6ser_Sprechworkshop</url>
-        <logo/>
-        <date>2019-08-25T13:00:00+02:00</date>
-        <start>13:00</start>
-        <duration>1:30</duration>
-        <room>Village:Haecksen</room>
-        <slug>camp2019-1270-session_boeser_sprechworkshop</slug>
-        <title>Böser Sprechworkshop</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>de</language>
-        <abstract/>
-        <description>Sprechworkshop, um beim Reden ernstgenommen zu werden</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1460" guid="03e86b75-b044-42a5-8429-6ab2bff64ad3">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Do_you_hear_the_people_sing_%E2%80%93_the_song_of_the_Hong_Kong_protests</url>
-        <logo/>
-        <date>2019-08-25T17:30:00+02:00</date>
-        <start>17:30</start>
-        <duration>0:30</duration>
-        <room>Village:Haecksen</room>
-        <slug>camp2019-1460-session_do_you_hear_the_people_sing_the_song_of_the_hong_kong_protests</slug>
-        <title>Do you hear the people sing – the song of the Hong Kong protests</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>de</language>
-        <abstract/>
-        <description>Singing the song and learning about it's background in the Hong Kong protests</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
-        </persons>
-        <links/>
-      </event>
-    </room>
     <room name="Village:About:freedom">
+      <event id="1601" guid="d661197d-b893-444a-9c0c-36b9f3f8aa9a">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Algorithms_and_AI_for_democratic_governance</url>
+        <logo/>
+        <date>2019-08-25T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>0:55</duration>
+        <room>Village:About:freedom</room>
+        <slug>camp2019-1601-session_algorithms_and_ai_for_democratic_governance</slug>
+        <title>Algorithms and AI for democratic governance</title>
+        <subtitle>about:stage</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links/>
+      </event>
       <event id="1158" guid="7ba573f9-56d0-4941-8381-522df2118498">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Decentrathon</url>
         <logo/>
@@ -14496,6 +14472,48 @@ Seitenprojekt des Berliner DJ Duetts: Pale Lynx mixt die sportbrigade-typischen 
         <description/>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Rainer">Rainer</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Village:Haecksen">
+      <event id="1270" guid="70d9eabd-198b-4bbb-98bd-1d60a7587bc8">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:B%C3%B6ser_Sprechworkshop</url>
+        <logo/>
+        <date>2019-08-25T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>1:30</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1270-session_boeser_sprechworkshop</slug>
+        <title>Böser Sprechworkshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Sprechworkshop, um beim Reden ernstgenommen zu werden</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1460" guid="03e86b75-b044-42a5-8429-6ab2bff64ad3">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Do_you_hear_the_people_sing_%E2%80%93_the_song_of_the_Hong_Kong_protests</url>
+        <logo/>
+        <date>2019-08-25T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>0:30</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1460-session_do_you_hear_the_people_sing_the_song_of_the_hong_kong_protests</slug>
+        <title>Do you hear the people sing – the song of the Hong Kong protests</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Singing the song and learning about it's background in the Hong Kong protests</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
         </persons>
         <links/>
       </event>
