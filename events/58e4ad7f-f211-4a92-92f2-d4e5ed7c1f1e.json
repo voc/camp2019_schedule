@@ -1,0 +1,28 @@
+{
+  "id": 1582,
+  "guid": "58e4ad7f-f211-4a92-92f2-d4e5ed7c1f1e",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Card10_ECG_Cable_Workshop",
+  "logo": null,
+  "date": "2019-08-24T21:30:00+02:00",
+  "start": "21:30",
+  "duration": "1:00",
+  "room": "Village:HardwareHackingArea",
+  "slug": "camp2019-1582-session_card10_ecg_cable_workshop",
+  "title": "Card10 ECG Cable Workshop",
+  "subtitle": "Session 2",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "Soldering ECG cables for your card10",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Schneider",
+      "public_name": "Schneider"
+    }
+  ],
+  "links": [
+    "https://card10.badge.events.ccc.de"
+  ]
+}

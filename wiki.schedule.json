@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-24 12:30",
+    "version": "2019-08-24 12:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -3166,32 +3166,6 @@
                   "https://www.hackerspace-bamberg.de/Otto_LC",
                   "https://www.ottodiy.com/"
                 ]
-              },
-              {
-                "id": 1137,
-                "guid": "127c17a7-0a66-49a2-a806-db41c19ebfac",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Tetrapixels",
-                "logo": null,
-                "date": "2019-08-22T13:00:00+02:00",
-                "start": "13:00",
-                "duration": "3:00",
-                "room": "Village:Kidspace",
-                "slug": "camp2019-1137-session_tetrapixels",
-                "title": "Tetrapixels",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "We build blinking objects with Tetrapacks and Arduinos",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Melle",
-                    "public_name": "Melle"
-                  }
-                ],
-                "links": []
               }
             ],
             "Village:C-base": [
@@ -5003,34 +4977,6 @@
                 ],
                 "links": [
                   "https://substrate.dev/en/tutorials"
-                ]
-              },
-              {
-                "id": 1466,
-                "guid": "70e10376-9f77-461b-a0bb-8aeecc2eda1f",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Testing_economic_incentives_on_the_Kusama_Blockchain",
-                "logo": null,
-                "date": "2019-08-23T17:00:00+02:00",
-                "start": "17:00",
-                "duration": "0:55",
-                "room": "Village:About:freedom",
-                "slug": "camp2019-1466-session_testing_economic_incentives_on_the_kusama_blockchain",
-                "title": "Testing economic incentives on the Kusama Blockchain",
-                "subtitle": "about:sessions",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "soon Kusama, the Polkadot Chaos Canary network, is going to launch. In this session we'll dive into how this blockchain network will be used to test ecnomic incentives",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Gnunicorn",
-                    "public_name": "Gnunicorn"
-                  }
-                ],
-                "links": [
-                  "https://kusama.network/"
                 ]
               }
             ],
@@ -7157,6 +7103,62 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1582,
+                "guid": "58e4ad7f-f211-4a92-92f2-d4e5ed7c1f1e",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Card10_ECG_Cable_Workshop",
+                "logo": null,
+                "date": "2019-08-24T21:30:00+02:00",
+                "start": "21:30",
+                "duration": "1:00",
+                "room": "Village:HardwareHackingArea",
+                "slug": "camp2019-1582-session_card10_ecg_cable_workshop",
+                "title": "Card10 ECG Cable Workshop",
+                "subtitle": "Session 2",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Soldering ECG cables for your card10",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Schneider",
+                    "public_name": "Schneider"
+                  }
+                ],
+                "links": [
+                  "https://card10.badge.events.ccc.de"
+                ]
+              },
+              {
+                "id": 1583,
+                "guid": "ceb64a6e-ee71-4bda-b249-4083a5d728b1",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Card10_ECG_Cable_Workshop",
+                "logo": null,
+                "date": "2019-08-24T20:30:00+02:00",
+                "start": "20:30",
+                "duration": "1:00",
+                "room": "Village:HardwareHackingArea",
+                "slug": "camp2019-1583-session_card10_ecg_cable_workshop",
+                "title": "Card10 ECG Cable Workshop",
+                "subtitle": "Session 1",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Soldering ECG cables for your card10",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Schneider",
+                    "public_name": "Schneider"
+                  }
+                ],
+                "links": [
+                  "https://card10.badge.events.ccc.de"
+                ]
               },
               {
                 "id": 1425,
