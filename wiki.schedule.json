@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-24 10:50",
+    "version": "2019-08-24 11:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -8798,14 +8798,14 @@
               {
                 "id": 1481,
                 "guid": "26500b4f-e948-48dd-8f42-db690587d884",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Payment_Systems_in_India",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Payment_Systems_in_India_(Rescheduled)",
                 "logo": null,
                 "date": "2019-08-24T16:00:00+02:00",
                 "start": "16:00",
                 "duration": "0:30",
                 "room": "Village:Moose Hillhackers",
-                "slug": "camp2019-1481-session_payment_systems_in_india",
-                "title": "Payment Systems in India",
+                "slug": "camp2019-1481-session_payment_systems_in_india_rescheduled_",
+                "title": "Payment Systems in India (Rescheduled)",
                 "subtitle": "",
                 "track": "self organized sessions",
                 "type": "talk",
