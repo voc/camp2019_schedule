@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-24 11:10</version>
+  <version>2019-08-24 11:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -3141,7 +3141,7 @@
         <logo/>
         <date>2019-08-23T18:15:00+02:00</date>
         <start>18:15</start>
-        <duration>1:00</duration>
+        <duration>2:00</duration>
         <room>Village:Backspace</room>
         <slug>camp2019-1328-session_beer_tasting</slug>
         <title>Beer Tasting</title>
@@ -5961,7 +5961,7 @@
         <logo/>
         <date>2019-08-24T17:15:00+02:00</date>
         <start>17:15</start>
-        <duration>1:30</duration>
+        <duration>2:00</duration>
         <room>Village:Backspace</room>
         <slug>camp2019-1334-session_beer_tasting</slug>
         <title>Beer Tasting</title>
