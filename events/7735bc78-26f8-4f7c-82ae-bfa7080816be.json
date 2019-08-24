@@ -14,7 +14,7 @@
   "type": "talk",
   "language": "en",
   "abstract": "",
-  "description": "",
+  "description": "RESCHEDULED TO THM Day 1 (recorded) \u2013 A rant about liberty and autonomy for some!",
   "persons": [
     {
       "id": 0,
@@ -22,5 +22,7 @@
       "public_name": "Rainer"
     }
   ],
-  "links": []
+  "links": [
+    "https://talx.thm.cloud/thms/talk/WCSCAX/"
+  ]
 }

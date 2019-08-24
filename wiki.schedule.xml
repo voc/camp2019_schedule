@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-24 19:50</version>
+  <version>2019-08-24 20:20</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -8102,11 +8102,13 @@
         <type>talk</type>
         <language>en</language>
         <abstract/>
-        <description/>
+        <description>RESCHEDULED TO THM Day 1 (recorded) – A rant about liberty and autonomy for some!</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Rainer">Rainer</person>
         </persons>
-        <links/>
+        <links>
+          <link>https://talx.thm.cloud/thms/talk/WCSCAX/</link>
+        </links>
       </event>
     </room>
     <room name="Village:Haecksen">
