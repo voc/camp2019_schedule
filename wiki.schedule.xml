@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-24 10:30</version>
+  <version>2019-08-24 10:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -6194,7 +6194,7 @@
         <type>discussion</type>
         <language>en</language>
         <abstract/>
-        <description>Let's brainstorm about the Camp Schedule app for Android.</description>
+        <description>Let's brainstorm about the Camp Schedule app for Android. Anything goes. I - the author - am looking forward to your input. Let's meet at gate next to the TV tower at c-base.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Tbsprs">Tbsprs</person>
         </persons>
