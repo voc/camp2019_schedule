@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-24 19:20",
+    "version": "2019-08-24 19:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -10505,82 +10505,6 @@
                 ],
                 "links": [
                   "https://naoth.de"
-                ]
-              },
-              {
-                "id": 1149,
-                "guid": "55e871c2-1e5d-42d7-9b42-21aab9fa8ee5",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming",
-                "logo": null,
-                "date": "2019-08-25T17:00:00+02:00",
-                "start": "17:00",
-                "duration": "1:30",
-                "room": "Village:RoboVillage",
-                "slug": "camp2019-1149-session_sumorobot_programming",
-                "title": "SumoRobot programming",
-                "subtitle": "Day 5 evening",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "de",
-                "abstract": "",
-                "description": "DECT 7866 - You will be able to write your awesome algorithm and get a blast on the SumoRobot match.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
-                    "public_name": "Silbo"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
-                    "public_name": "Ivanna"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Superwallah",
-                    "public_name": "Superwallah"
-                  }
-                ],
-                "links": [
-                  "https://www.robokoding.com/kits/sumorobot"
-                ]
-              },
-              {
-                "id": 1156,
-                "guid": "6f171447-e9cd-42d5-80b4-498bb6fee2ac",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:SumoRobot_programming",
-                "logo": null,
-                "date": "2019-08-25T12:30:00+02:00",
-                "start": "12:30",
-                "duration": "1:30",
-                "room": "Village:RoboVillage",
-                "slug": "camp2019-1156-session_sumorobot_programming",
-                "title": "SumoRobot programming",
-                "subtitle": "Day 5 afternoon",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "de",
-                "abstract": "",
-                "description": "DECT 7866 - You will be able to write your awesome algorithm and get a blast on the SumoRobot match.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Silbo",
-                    "public_name": "Silbo"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Ivanna",
-                    "public_name": "Ivanna"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Superwallah",
-                    "public_name": "Superwallah"
-                  }
-                ],
-                "links": [
-                  "https://www.robokoding.com/kits/sumorobot"
                 ]
               }
             ],
