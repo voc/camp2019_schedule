@@ -1,0 +1,28 @@
+{
+  "id": 1600,
+  "guid": "ea45d155-9575-4c62-a6da-1521e0383113",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Project_novis_-_free_%26_open_amateur_radio_web_services",
+  "logo": null,
+  "date": "2019-08-24T20:30:00+02:00",
+  "start": "20:30",
+  "duration": "0:30",
+  "room": "Village:Chaoswelle",
+  "slug": "camp2019-1600-session_project_novis_free_open_amateur_radio_web_services",
+  "title": "Project novis - free & open amateur radio web services",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "de",
+  "abstract": "",
+  "description": "We want to establish an open and free platform for amateur radio related web services everyone can participate",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Elnappo",
+      "public_name": "Elnappo"
+    }
+  ],
+  "links": [
+    "https://www.project-novis.org/"
+  ]
+}

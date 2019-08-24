@@ -1,5 +1,5 @@
 <schedule>
-  <version>Izar; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 14:20</version>
+  <version>Izar; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 14:30</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -11769,6 +11769,28 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         </persons>
         <links/>
       </event>
+      <event id="1600" guid="ea45d155-9575-4c62-a6da-1521e0383113">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Project_novis_-_free_%26_open_amateur_radio_web_services</url>
+        <logo/>
+        <date>2019-08-24T20:30:00+02:00</date>
+        <start>20:30</start>
+        <duration>0:30</duration>
+        <room>Village:Chaoswelle</room>
+        <slug>camp2019-1600-session_project_novis_free_open_amateur_radio_web_services</slug>
+        <title>Project novis - free &amp; open amateur radio web services</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>We want to establish an open and free platform for amateur radio related web services everyone can participate</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Elnappo">Elnappo</person>
+        </persons>
+        <links>
+          <link>https://www.project-novis.org/</link>
+        </links>
+      </event>
       <event id="1351" guid="06a0451f-9d0e-4a59-9126-7de875b8f505">
         <url>https://events.ccc.de/camp/2019/wiki/Session:SDR-Stick_als_Spektrumskop</url>
         <logo/>
@@ -12616,6 +12638,24 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <persons/>
         <links/>
       </event>
+      <event id="1599" guid="c1230ff3-c3cf-4e11-998b-9ca3e37cf0ad">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Lh_lightning_talks</url>
+        <logo/>
+        <date>2019-08-24T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Village:Librehosters</room>
+        <slug>camp2019-1599-session_lh_lightning_talks</slug>
+        <title>Lh lightning talks</title>
+        <subtitle>Present your project (lightning talk style)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links/>
+      </event>
       <event id="1569" guid="59eba6c8-b345-4555-abba-adc984b5dfbc">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Meet_librehosters</url>
         <logo/>
@@ -12657,6 +12697,26 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <language>en</language>
         <abstract/>
         <description>Print your own camp shirt, Datenhörnchen, Datenknoten or Fairydust onto a T-Shirt!</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
+    <room name="Village:Mobile Infoshop">
+      <event id="1593" guid="be864ce3-725e-4b5c-9172-5b6bd1a637ee">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:DIY_reading_session_/_DIY_lese_session</url>
+        <logo/>
+        <date>2019-08-24T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Village:Mobile Infoshop</room>
+        <slug>camp2019-1593-session_diy_reading_session_diy_lese_session</slug>
+        <title>DIY reading session / DIY lese session</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>come by read something - also reading out is welcome / komm vorbei und lese was - auch vorlesen willkommen</description>
         <persons/>
         <links/>
       </event>
@@ -12704,6 +12764,26 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
           <link>https://digitalcourage.de/digitale-selbstverteidigung</link>
         </links>
       </event>
+      <event id="1554" guid="34cc5457-b2a0-4083-a06d-036fdd6aaba1">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
+        <logo/>
+        <date>2019-08-24T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>Village:Digitalcourage</room>
+        <slug>camp2019-1554-session_hacking_licence</slug>
+        <title>Hacking Licence</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Your daily basic hacking learning lesson.</description>
+        <persons/>
+        <links>
+          <link>https://digitalcourage.de</link>
+        </links>
+      </event>
       <event id="1553" guid="34cc5457-b2a0-4083-a06d-036fdd6aabbf">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
         <logo/>
@@ -12724,14 +12804,14 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
           <link>https://digitalcourage.de</link>
         </links>
       </event>
-      <event id="1554" guid="34cc5457-b2a0-4083-a06d-036fdd6aaba1">
+      <event id="1513" guid="e8953357-8a57-5b33-94b1-d83f48376e39">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
         <logo/>
         <date>2019-08-24T17:00:00+02:00</date>
         <start>17:00</start>
         <duration>1:00</duration>
         <room>Village:Digitalcourage</room>
-        <slug>camp2019-1554-session_hacking_licence</slug>
+        <slug>camp2019-1513-session_hacking_licence</slug>
         <title>Hacking Licence</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -12752,6 +12832,26 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <duration>1:00</duration>
         <room>Village:Digitalcourage</room>
         <slug>camp2019-1555-session_hacking_licence</slug>
+        <title>Hacking Licence</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Your daily basic hacking learning lesson.</description>
+        <persons/>
+        <links>
+          <link>https://digitalcourage.de</link>
+        </links>
+      </event>
+      <event id="1594" guid="2d75c5ff-2fb5-5a1b-a1f8-cb20d6a9f6f0">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
+        <logo/>
+        <date>2019-08-24T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Village:Digitalcourage</room>
+        <slug>camp2019-1594-session_hacking_licence</slug>
         <title>Hacking Licence</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -12824,6 +12924,26 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
           <link>https://digitalcourage.de</link>
         </links>
       </event>
+      <event id="1595" guid="85200d38-1629-5430-a0d9-aac2ccfe862f">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
+        <logo/>
+        <date>2019-08-24T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Village:Digitalcourage</room>
+        <slug>camp2019-1595-session_hacking_licence</slug>
+        <title>Hacking Licence</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Your daily basic hacking learning lesson.</description>
+        <persons/>
+        <links>
+          <link>https://digitalcourage.de</link>
+        </links>
+      </event>
       <event id="1565" guid="34cc5457-b2a0-4083-a06d-036fdd6aaba0">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
         <logo/>
@@ -12852,6 +12972,26 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
         <duration>1:00</duration>
         <room>Village:Digitalcourage</room>
         <slug>camp2019-1566-session_hacking_licence</slug>
+        <title>Hacking Licence</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Your daily basic hacking learning lesson.</description>
+        <persons/>
+        <links>
+          <link>https://digitalcourage.de</link>
+        </links>
+      </event>
+      <event id="1598" guid="600ca27d-e2cd-50c7-ad7f-a27eda834bb2">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
+        <logo/>
+        <date>2019-08-24T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Village:Digitalcourage</room>
+        <slug>camp2019-1598-session_hacking_licence</slug>
         <title>Hacking Licence</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -14383,6 +14523,26 @@ Seitenprojekt des Berliner DJ Duetts: Pale Lynx mixt die sportbrigade-typischen 
           <link>https://digitalcourage.de/digitale-selbstverteidigung</link>
         </links>
       </event>
+      <event id="1563" guid="34cc5457-b2a0-4083-a06d-036fdd6aaba9">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
+        <logo/>
+        <date>2019-08-25T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>Village:Digitalcourage</room>
+        <slug>camp2019-1563-session_hacking_licence</slug>
+        <title>Hacking Licence</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Your daily basic hacking learning lesson.</description>
+        <persons/>
+        <links>
+          <link>https://digitalcourage.de</link>
+        </links>
+      </event>
       <event id="1550" guid="34cc5457-b2a0-4083-a06d-036fdd6aaba4">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
         <logo/>
@@ -14503,14 +14663,14 @@ Seitenprojekt des Berliner DJ Duetts: Pale Lynx mixt die sportbrigade-typischen 
           <link>https://digitalcourage.de</link>
         </links>
       </event>
-      <event id="1563" guid="34cc5457-b2a0-4083-a06d-036fdd6aaba9">
+      <event id="1516" guid="1a22522d-d6ee-5491-932b-28176f842083">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
         <logo/>
         <date>2019-08-25T17:00:00+02:00</date>
         <start>17:00</start>
         <duration>1:00</duration>
         <room>Village:Digitalcourage</room>
-        <slug>camp2019-1563-session_hacking_licence</slug>
+        <slug>camp2019-1516-session_hacking_licence</slug>
         <title>Hacking Licence</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -14531,6 +14691,46 @@ Seitenprojekt des Berliner DJ Duetts: Pale Lynx mixt die sportbrigade-typischen 
         <duration>1:00</duration>
         <room>Village:Digitalcourage</room>
         <slug>camp2019-1564-session_hacking_licence</slug>
+        <title>Hacking Licence</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Your daily basic hacking learning lesson.</description>
+        <persons/>
+        <links>
+          <link>https://digitalcourage.de</link>
+        </links>
+      </event>
+      <event id="1596" guid="401e18a6-a761-5285-994d-dc30a51185cc">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
+        <logo/>
+        <date>2019-08-25T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Village:Digitalcourage</room>
+        <slug>camp2019-1596-session_hacking_licence</slug>
+        <title>Hacking Licence</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Your daily basic hacking learning lesson.</description>
+        <persons/>
+        <links>
+          <link>https://digitalcourage.de</link>
+        </links>
+      </event>
+      <event id="1597" guid="f370d1ac-4363-5ff8-9fd4-d4b837466873">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Hacking_Licence</url>
+        <logo/>
+        <date>2019-08-25T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Village:Digitalcourage</room>
+        <slug>camp2019-1597-session_hacking_licence</slug>
         <title>Hacking Licence</title>
         <subtitle/>
         <track>self organized sessions</track>

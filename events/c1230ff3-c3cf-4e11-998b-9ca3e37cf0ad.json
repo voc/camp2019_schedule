@@ -1,0 +1,20 @@
+{
+  "id": 1599,
+  "guid": "c1230ff3-c3cf-4e11-998b-9ca3e37cf0ad",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Lh_lightning_talks",
+  "logo": null,
+  "date": "2019-08-24T20:00:00+02:00",
+  "start": "20:00",
+  "duration": "1:00",
+  "room": "Village:Librehosters",
+  "slug": "camp2019-1599-session_lh_lightning_talks",
+  "title": "Lh lightning talks",
+  "subtitle": "Present your project (lightning talk style)",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "",
+  "persons": [],
+  "links": []
+}
