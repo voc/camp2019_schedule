@@ -2,7 +2,7 @@
   "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10353.html",
   "id": 10353,
   "guid": "6963b184-207a-4ac3-9aea-530120c1445f",
-  "logo": null,
+  "logo": "/system/events/logos/000/010/353/large/linux-tux-icon-12.jpg?1566643259",
   "date": "2019-08-24T18:00:00+02:00",
   "start": "18:00",
   "duration": "00:45",
@@ -24,5 +24,10 @@
     }
   ],
   "links": [],
-  "attachments": []
+  "attachments": [
+    {
+      "url": "/system/event_attachments/attachments/000/003/808/original/20190824_the_camp_v2.pdf?1566643062",
+      "title": "Talk Slides"
+    }
+  ]
 }

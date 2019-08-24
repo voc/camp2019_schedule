@@ -23,6 +23,11 @@
       "public_name": "florian"
     }
   ],
-  "links": [],
+  "links": [
+    {
+      "url": "http://www.burckhardt.de/zombies-vs-ihr.zip",
+      "title": "Link to pdf&pptx (zip)"
+    }
+  ],
   "attachments": []
 }

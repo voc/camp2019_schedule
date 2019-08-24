@@ -1,5 +1,5 @@
 <schedule>
-  <version>Hadar; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 12:50</version>
+  <version>Izar; lounges 808; lightning Manwë; thms Monkey Island 3: The Curse of Monkey Island; wiki 2019-08-24 13:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -2315,7 +2315,7 @@ The Talk will introduce basic security knowhow, then show how you can use Open S
         </persons>
         <links/>
         <attachments>
-          <attachment href="/system/event_attachments/attachments/000/003/796/original/security_cccamp.pdf?1566470964">slides</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/798/original/security_cccamp.pdf?1566480110">slides</attachment>
         </attachments>
       </event>
       <event id="10378" guid="d219432f-68ed-4162-8e7a-1d53a3e3e17c">
@@ -2345,7 +2345,9 @@ Private UHF and VHF radio communications is a complex space, in terms of regulat
           <person id="8890">Paul Gardner-Stephen</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/799/original/PaulGardner-Stephen_CCC-Camp-Talk-2019.pdf?1566480530">Presentation Slides</attachment>
+        </attachments>
       </event>
       <event id="10238" guid="e988c76b-3a47-46de-a2c7-77c49a5e731b">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10238.html</url>
@@ -2520,8 +2522,12 @@ The talk will give a brief overview on what choices state of the art network app
         </persons>
         <links>
           <link href="https://datatracker.ietf.org/wg/taps/documents/">IETF Transport Services (TAPS) working group</link>
+          <link href="https://github.com/fg-inet/python-asyncio-taps">python-asyncio-taps</link>
+          <link href="https://developer.apple.com/documentation/network ">Apple Network Framework </link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/797/original/TAPS_CCC-Camp_2019.pdf?1566479831">Talk Slides</attachment>
+        </attachments>
       </event>
       <event id="10239" guid="4f0aca57-b1b1-4cbc-9538-70fb76bf3216">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10239.html</url>
@@ -2550,7 +2556,9 @@ You won’t become a China expert after the talk but your will definitely know a
           <person id="8891">Brusda</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/800/original/river_crabby_copy.pdf?1566497846">River Crabby</attachment>
+        </attachments>
       </event>
       <event id="10293" guid="acc3dd01-bec3-444f-80c1-5dd37f522aa4">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10293.html</url>
@@ -6117,7 +6125,9 @@ I will use the popular Zombie Apocalypse metaphor to illustrate the various prev
         <persons>
           <person id="1408">florian</person>
         </persons>
-        <links/>
+        <links>
+          <link href="http://www.burckhardt.de/zombies-vs-ihr.zip">Link to pdf&amp;pptx (zip)</link>
+        </links>
         <attachments/>
       </event>
       <event id="10340" guid="a9b096f5-3db7-4c83-af7c-289afa1d886c">
@@ -6266,7 +6276,9 @@ Methods shown will cover the reverse engineering of the wireless protocol based 
           <person id="3683">mh</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/805/original/Published_Slides_Taking-Bluetooth-lockpicking-to-the-next-level.pdf?1566570969">Presentation Slides</attachment>
+        </attachments>
       </event>
       <event id="10226" guid="9e141f51-1fd3-482b-8af8-92f7f65653f7">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10226.html</url>
@@ -6434,7 +6446,10 @@ This talk is mainly based on research by @tifkin_ (Lee Christensen), @harmj0y (W
           <person id="8953">JaGoTu</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/802/original/machine_accounts.pdf?1566566052">Slides</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/803/original/krb_demo.mp4?1566566052">Recorded demo</attachment>
+        </attachments>
       </event>
       <event id="10200" guid="14a2c922-697c-4073-885c-568850a390a7">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10200.html</url>
@@ -6458,9 +6473,12 @@ This talk is mainly based on research by @tifkin_ (Lee Christensen), @harmj0y (W
         <persons>
           <person id="8888">Tatiana Bazzichelli / Disruption Network Lab</person>
         </persons>
-        <links/>
+        <links>
+          <link href="www.disruptionlab.org">Disruption Network Lab</link>
+        </links>
         <attachments>
           <attachment href="/system/event_attachments/attachments/000/003/743/original/01_20151212_Chelsea_Manning_Network.jpg?1559640910">Keep Fighting, photo by Nadine Nelken and Chelsea Manning Initiative Berlin</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/801/original/DisruptionNLab_CCCamp_23Aug_OK.pdf?1566545018">Exposing Systems of Power and Injustice</attachment>
         </attachments>
       </event>
       <event id="10349" guid="95a8ea24-a2dd-479f-86fd-6e96ce66a47e">
@@ -6492,7 +6510,9 @@ Um die Sicherheit bereits installierter, langlebiger Gebäudeinfrastrukturen den
           <person id="9060">Simeon</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/804/original/CCCamp2019_talk.pdf?1566566943">Slides</attachment>
+        </attachments>
       </event>
       <event id="10350" guid="31dfe9ce-3291-497b-80e2-1b7a82344834">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10350.html</url>
@@ -6667,7 +6687,9 @@ Historical security issues related to Unicode and confusable homographs, as well
         <links>
           <link href="https://wildfire.blazeinfosec.com/what-you-see-is-not-what-you-get-when-homographs-attack/">What you see is not what you get</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/806/original/Blaze_Julio_CCC_Homograph.pdf?1566580481">Presentation</attachment>
+        </attachments>
       </event>
       <event id="10204" guid="0d45023b-ddb8-4048-bf39-1bffc11ff097">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10204.html</url>
@@ -8246,28 +8268,6 @@ He is a regular writer for the German online IT magazine Golem.de and writes the
         </persons>
         <links>
           <link>https://git.ingolf-wagner.de/palo/nixos-diagrams</link>
-        </links>
-      </event>
-      <event id="1136" guid="0c8e57af-799e-4378-a318-07fbd1b1da3f">
-        <url>https://events.ccc.de/camp/2019/wiki/Session:Terranix</url>
-        <logo/>
-        <date>2019-08-23T15:00:00+02:00</date>
-        <start>15:00</start>
-        <duration>0:45</duration>
-        <room>Village:NixOS</room>
-        <slug>camp2019-1136-session_terranix</slug>
-        <title>Terranix</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>A NixOS way to create terraform json files.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Palo">Palo</person>
-        </persons>
-        <links>
-          <link>https://terranix.org/</link>
         </links>
       </event>
     </room>
@@ -9876,7 +9876,7 @@ Attendees of this talk will find this information useful in the context of RF ca
       </event>
       <event id="10353" guid="6963b184-207a-4ac3-9aea-530120c1445f">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10353.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/353/large/linux-tux-icon-12.jpg?1566643259</logo>
         <date>2019-08-24T18:00:00+02:00</date>
         <start>18:00</start>
         <duration>00:45</duration>
@@ -9903,7 +9903,9 @@ In the first half of the talk we will deal with these questions. In the second h
           <person id="9072">Johannes Klick 'Garak'</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/808/original/20190824_the_camp_v2.pdf?1566643062">Talk Slides</attachment>
+        </attachments>
       </event>
       <event id="10193" guid="508fe23f-bc69-4521-abc3-59b649598eb5">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10193.html</url>
@@ -9917,7 +9919,7 @@ In the first half of the talk we will deal with these questions. In the second h
         <subtitle>The Price of Energy and Reducing CO2 Emissions</subtitle>
         <track>Science</track>
         <type>lecture</type>
-        <language>en</language>
+        <language>de</language>
         <abstract>Climate change and the discussion about reducing CO2 emissions to ensure matching the Paris agreement currently is the most important topic in our political and economic discussions. We all agree reducing emissions is a necessity, but how can we possibly achieve this in a world that consumes more energy than ever before? And which price are we willing to pay for it?</abstract>
         <description>Climate change and the discussion about reducing CO2 emissions to ensure matching the Paris agreement currently is the most important topic in our political and economic discussions. We all agree reducing emissions is a necessity, but how can we possibly achieve this in a world that consumes more energy than ever before? And which price are we willing to pay for it?&#13;
 &#13;
@@ -10043,7 +10045,7 @@ Noch sind die Wirkungsgrade gering und marktreife Lösungen noch nicht absehbar.
       </event>
       <event id="10381" guid="2fe00b49-1471-4c79-8a75-8da73f71b63d">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10381.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/381/large/20180708_160342.jpg?1566578307</logo>
         <date>2019-08-24T13:00:00+02:00</date>
         <start>13:00</start>
         <duration>00:45</duration>
@@ -10063,7 +10065,9 @@ Noch sind die Wirkungsgrade gering und marktreife Lösungen noch nicht absehbar.
         <persons>
           <person id="9128">Lio</person>
         </persons>
-        <links/>
+        <links>
+          <link href="www.juliamussgnug.com">HP</link>
+        </links>
         <attachments/>
       </event>
       <event id="10312" guid="6d0b0f86-3969-4cd9-974f-69ba90cfce64">
@@ -10127,7 +10131,9 @@ In addition, we have the satisfaction of announcing that the CCC will be the fir
           <person id="8973">Lea Rain</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/807/original/DEMO-cccamp19-beamer.pdf?1566641256">Slides</attachment>
+        </attachments>
       </event>
       <event id="10202" guid="c1146d2e-c4cf-44ed-8d83-3fe3c3a4ba0e">
         <url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10202.html</url>
@@ -12688,6 +12694,26 @@ Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys 
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Snotje">Snotje</person>
         </persons>
         <links/>
+      </event>
+      <event id="1585" guid="e3e85f16-5bf5-49cd-9b3c-41fb663e5de6">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Oscilloscope_Music:_Jerobeam_Fenderson_Performance</url>
+        <logo/>
+        <date>2019-08-24T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>0:45</duration>
+        <room>Village:Milliways</room>
+        <slug>camp2019-1585-session_oscilloscope_music_jerobeam_fenderson_performance</slug>
+        <title>Oscilloscope Music: Jerobeam Fenderson Performance</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>en</language>
+        <abstract/>
+        <description>Come see Jerobeam Fenderson perform his mind-blowing music that when graphed out in x/y mode on a oscilloscope makes amazing visuals</description>
+        <persons/>
+        <links>
+          <link>https://www.oscilloscopemusic.com</link>
+        </links>
       </event>
     </room>
     <room name="Village:Italian Hackers' Embassy">

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-24 12:50",
+    "version": "2019-08-24 13:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -4542,34 +4542,6 @@
                 "links": [
                   "https://git.ingolf-wagner.de/palo/nixos-diagrams"
                 ]
-              },
-              {
-                "id": 1136,
-                "guid": "0c8e57af-799e-4378-a318-07fbd1b1da3f",
-                "url": "https://events.ccc.de/camp/2019/wiki/Session:Terranix",
-                "logo": null,
-                "date": "2019-08-23T15:00:00+02:00",
-                "start": "15:00",
-                "duration": "0:45",
-                "room": "Village:NixOS",
-                "slug": "camp2019-1136-session_terranix",
-                "title": "Terranix",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "A NixOS way to create terraform json files.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/camp/2019/wiki/User:Palo",
-                    "public_name": "Palo"
-                  }
-                ],
-                "links": [
-                  "https://terranix.org/"
-                ]
               }
             ],
             "Village:About:freedom": [
@@ -8629,6 +8601,28 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1585,
+                "guid": "e3e85f16-5bf5-49cd-9b3c-41fb663e5de6",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Oscilloscope_Music:_Jerobeam_Fenderson_Performance",
+                "logo": null,
+                "date": "2019-08-24T22:00:00+02:00",
+                "start": "22:00",
+                "duration": "0:45",
+                "room": "Village:Milliways",
+                "slug": "camp2019-1585-session_oscilloscope_music_jerobeam_fenderson_performance",
+                "title": "Oscilloscope Music: Jerobeam Fenderson Performance",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "en",
+                "abstract": "",
+                "description": "Come see Jerobeam Fenderson perform his mind-blowing music that when graphed out in x/y mode on a oscilloscope makes amazing visuals",
+                "persons": [],
+                "links": [
+                  "https://www.oscilloscopemusic.com"
+                ]
               }
             ],
             "Village:Italian Hackers' Embassy": [

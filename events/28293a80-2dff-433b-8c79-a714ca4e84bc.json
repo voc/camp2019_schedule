@@ -27,7 +27,20 @@
     {
       "url": "https://datatracker.ietf.org/wg/taps/documents/",
       "title": "IETF Transport Services (TAPS) working group"
+    },
+    {
+      "url": "https://github.com/fg-inet/python-asyncio-taps",
+      "title": "python-asyncio-taps"
+    },
+    {
+      "url": "https://developer.apple.com/documentation/network ",
+      "title": "Apple Network Framework\u2028"
     }
   ],
-  "attachments": []
+  "attachments": [
+    {
+      "url": "/system/event_attachments/attachments/000/003/797/original/TAPS_CCC-Camp_2019.pdf?1566479831",
+      "title": "Talk Slides"
+    }
+  ]
 }

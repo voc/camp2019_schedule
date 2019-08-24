@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Hadar; lounges 808; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island",
+    "version": "Izar; lounges 808; lightning Manw\u00eb; thms Monkey Island 3: The Curse of Monkey Island",
     "base_url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/",
     "conference": {
       "acronym": "Camp2019",
@@ -1259,7 +1259,7 @@
                 "links": [],
                 "attachments": [
                   {
-                    "url": "/system/event_attachments/attachments/000/003/796/original/security_cccamp.pdf?1566470964",
+                    "url": "/system/event_attachments/attachments/000/003/798/original/security_cccamp.pdf?1566480110",
                     "title": "slides"
                   }
                 ]
@@ -1290,7 +1290,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/799/original/PaulGardner-Stephen_CCC-Camp-Talk-2019.pdf?1566480530",
+                    "title": "Presentation Slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10238.html",
@@ -1523,9 +1528,22 @@
                   {
                     "url": "https://datatracker.ietf.org/wg/taps/documents/",
                     "title": "IETF Transport Services (TAPS) working group"
+                  },
+                  {
+                    "url": "https://github.com/fg-inet/python-asyncio-taps",
+                    "title": "python-asyncio-taps"
+                  },
+                  {
+                    "url": "https://developer.apple.com/documentation/network ",
+                    "title": "Apple Network Framework\u2028"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/797/original/TAPS_CCC-Camp_2019.pdf?1566479831",
+                    "title": "Talk Slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10239.html",
@@ -1553,7 +1571,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/800/original/river_crabby_copy.pdf?1566497846",
+                    "title": "River Crabby"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10293.html",
@@ -3487,7 +3510,12 @@
                     "public_name": "florian"
                   }
                 ],
-                "links": [],
+                "links": [
+                  {
+                    "url": "http://www.burckhardt.de/zombies-vs-ihr.zip",
+                    "title": "Link to pdf&pptx (zip)"
+                  }
+                ],
                 "attachments": []
               },
               {
@@ -3654,7 +3682,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/805/original/Published_Slides_Taking-Bluetooth-lockpicking-to-the-next-level.pdf?1566570969",
+                    "title": "Presentation Slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10226.html",
@@ -3791,7 +3824,16 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/802/original/machine_accounts.pdf?1566566052",
+                    "title": "Slides"
+                  },
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/803/original/krb_demo.mp4?1566566052",
+                    "title": "Recorded demo"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10200.html",
@@ -3818,11 +3860,20 @@
                     "public_name": "Tatiana Bazzichelli / Disruption Network Lab"
                   }
                 ],
-                "links": [],
+                "links": [
+                  {
+                    "url": "www.disruptionlab.org",
+                    "title": "Disruption Network Lab"
+                  }
+                ],
                 "attachments": [
                   {
                     "url": "/system/event_attachments/attachments/000/003/743/original/01_20151212_Chelsea_Manning_Network.jpg?1559640910",
                     "title": "Keep Fighting, photo by Nadine Nelken and Chelsea Manning Initiative Berlin"
+                  },
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/801/original/DisruptionNLab_CCCamp_23Aug_OK.pdf?1566545018",
+                    "title": "Exposing Systems of Power and Injustice"
                   }
                 ]
               },
@@ -3852,7 +3903,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/804/original/CCCamp2019_talk.pdf?1566566943",
+                    "title": "Slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10350.html",
@@ -4014,7 +4070,12 @@
                     "title": "What you see is not what you get"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/806/original/Blaze_Julio_CCC_Homograph.pdf?1566580481",
+                    "title": "Presentation"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10204.html",
@@ -4917,7 +4978,7 @@
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10353.html",
                 "id": 10353,
                 "guid": "6963b184-207a-4ac3-9aea-530120c1445f",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/353/large/linux-tux-icon-12.jpg?1566643259",
                 "date": "2019-08-24T18:00:00+02:00",
                 "start": "18:00",
                 "duration": "00:45",
@@ -4939,7 +5000,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/808/original/20190824_the_camp_v2.pdf?1566643062",
+                    "title": "Talk Slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10193.html",
@@ -4955,7 +5021,7 @@
                 "subtitle": "The Price of Energy and Reducing CO2 Emissions",
                 "track": "Science",
                 "type": "lecture",
-                "language": "en",
+                "language": "de",
                 "abstract": "Climate change and the discussion about reducing CO2 emissions to ensure matching the Paris agreement currently is the most important topic in our political and economic discussions. We all agree reducing emissions is a necessity, but how can we possibly achieve this in a world that consumes more energy than ever before? And which price are we willing to pay for it?",
                 "description": "Climate change and the discussion about reducing CO2 emissions to ensure matching the Paris agreement currently is the most important topic in our political and economic discussions. We all agree reducing emissions is a necessity, but how can we possibly achieve this in a world that consumes more energy than ever before? And which price are we willing to pay for it?\r\n\r\n[The Paris agreement](https://ec.europa.eu/clima/policies/international/negotiations/paris_en) sets out a global action plan to put the world on track to avoid dangerous climate change by limiting global warming to well below 2\u00b0C and pursuing efforts to limit it to 1.5\u00b0C. This can only be achieved by reducing emissions - this primarily means CO2 emission.\r\n\r\nSo far, so good. But let's face the truth: We NEED energy. Our whole world is addicted to it, and cutting the power lines is no option for today's society, economy, and our daily lives. \r\n\r\nWe need energy, therefor we need power plants. Power plants need energy sources for transforming them into electrical energy. These plants can be fuelled by various sources: Coal, wind, solar, nuclear, natural gas, biomass, and oil, just to name the major ones.\r\n\r\nLet's assume for a moment we could build a completely new power infrastructure for a country from scratch under the following prerequisites:\r\n\r\n* Minimal CO2 emissions\r\n* As little impact as possible (environment, health, economics etc.)\r\n* Affordable price\r\n* Available sources\r\n* Lowest possible fuckup factor\r\n\r\nThis task can be approached by translating it into an optimization problem: Finding the ideal energy mix taking into account the conditions listed above.\r\n\r\nThis talk presents an analysis of this optimization problem by comparison of the relevant factors (emissions, affordability, impact, sources) of different energy sources (coal, natural gas, wind, solar, biomass, nuclear and oil). Our aim is to categorize different energy sources under a strict scientific regime without emotional debates, putting price tags on each of them not only made of money but also factors like emissions, fuckup factors, health concerns, and the cost of human lives per TWh. ",
                 "recording_license": "",
@@ -5063,7 +5129,7 @@
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10381.html",
                 "id": 10381,
                 "guid": "2fe00b49-1471-4c79-8a75-8da73f71b63d",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/381/large/20180708_160342.jpg?1566578307",
                 "date": "2019-08-24T13:00:00+02:00",
                 "start": "13:00",
                 "duration": "00:45",
@@ -5084,7 +5150,12 @@
                     "public_name": "Lio"
                   }
                 ],
-                "links": [],
+                "links": [
+                  {
+                    "url": "www.juliamussgnug.com",
+                    "title": "HP"
+                  }
+                ],
                 "attachments": []
               },
               {
@@ -5154,7 +5225,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/003/807/original/DEMO-cccamp19-beamer.pdf?1566641256",
+                    "title": "Slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10202.html",

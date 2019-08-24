@@ -23,11 +23,20 @@
       "public_name": "Tatiana Bazzichelli / Disruption Network Lab"
     }
   ],
-  "links": [],
+  "links": [
+    {
+      "url": "www.disruptionlab.org",
+      "title": "Disruption Network Lab"
+    }
+  ],
   "attachments": [
     {
       "url": "/system/event_attachments/attachments/000/003/743/original/01_20151212_Chelsea_Manning_Network.jpg?1559640910",
       "title": "Keep Fighting, photo by Nadine Nelken and Chelsea Manning Initiative Berlin"
+    },
+    {
+      "url": "/system/event_attachments/attachments/000/003/801/original/DisruptionNLab_CCCamp_23Aug_OK.pdf?1566545018",
+      "title": "Exposing Systems of Power and Injustice"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10381.html",
   "id": 10381,
   "guid": "2fe00b49-1471-4c79-8a75-8da73f71b63d",
-  "logo": null,
+  "logo": "/system/events/logos/000/010/381/large/20180708_160342.jpg?1566578307",
   "date": "2019-08-24T13:00:00+02:00",
   "start": "13:00",
   "duration": "00:45",
@@ -23,6 +23,11 @@
       "public_name": "Lio"
     }
   ],
-  "links": [],
+  "links": [
+    {
+      "url": "www.juliamussgnug.com",
+      "title": "HP"
+    }
+  ],
   "attachments": []
 }
