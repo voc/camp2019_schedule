@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Kaus Australis; lounges 808; lightning Manw\u00eb; thms Escape from Monkey Island; wiki 2019-08-24 20:20",
+    "version": "Kaus Australis; lounges 808; lightning Manw\u00eb; thms Escape from Monkey Island; wiki 2019-08-24 20:30",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -16917,6 +16917,28 @@
                 "links": [
                   "https://digitalcourage.de"
                 ]
+              }
+            ],
+            "Village:AAAAAAAAAAAA": [
+              {
+                "id": 1607,
+                "guid": "db2979eb-802a-4107-90b9-db4ac74b5050",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Gaby_Weber_@_CCCamp_2019",
+                "logo": null,
+                "date": "2019-08-25T13:00:00+02:00",
+                "start": "13:00",
+                "duration": "2:00",
+                "room": "Village:AAAAAAAAAAAA",
+                "slug": "camp2019-1607-session_gaby_weber_cccamp_2019",
+                "title": "Gaby Weber @ CCCamp 2019",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "",
+                "persons": [],
+                "links": []
               }
             ],
             "Village:HardwareHackingArea": [
