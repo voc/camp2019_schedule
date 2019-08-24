@@ -1,5 +1,5 @@
 <schedule>
-  <version>Kaus Australis; lounges 808; lightning Manwë; thms Tales of Monkey Island; wiki 2019-08-24 23:40</version>
+  <version>Kaus Australis; lounges 808; lightning Manwë; thms Tales of Monkey Island; wiki 2019-08-25 00:50</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -14902,6 +14902,26 @@ Bei gutem Wetter im Freien; bei schlechtem im Zelt.</description>
         <links>
           <link>https://digitalcourage.de</link>
         </links>
+      </event>
+    </room>
+    <room name="Village:NixOS">
+      <event id="1611" guid="f6cf3d47-b379-4b81-b7f3-3b870fbf0b31">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Eye_Contact</url>
+        <logo/>
+        <date>2019-08-25T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>1:00</duration>
+        <room>Village:NixOS</room>
+        <slug>camp2019-1611-session_eye_contact</slug>
+        <title>Eye Contact</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Focus on a form of human connection that gets in a world full of technology.  Nothing is required. It's a good idea to bring something comfortable to sit for the floor.</description>
+        <persons/>
+        <links/>
       </event>
     </room>
     <room name="Village:Singularity City">
