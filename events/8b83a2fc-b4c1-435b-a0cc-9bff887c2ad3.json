@@ -1,0 +1,26 @@
+{
+  "id": 1616,
+  "guid": "8b83a2fc-b4c1-435b-a0cc-9bff887c2ad3",
+  "url": "https://events.ccc.de/camp/2019/wiki/Session:Soldering_last_things",
+  "logo": null,
+  "date": "2019-08-25T16:00:00+02:00",
+  "start": "16:00",
+  "duration": "3:00",
+  "room": "Village:Milliways",
+  "slug": "camp2019-1616-session_soldering_last_things",
+  "title": "Soldering last things",
+  "subtitle": "HELP !! Need soldering Iron for 1 hour",
+  "track": "self organized sessions",
+  "type": "hands-on",
+  "language": "",
+  "abstract": "",
+  "description": "solder your last things before leaving",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/camp/2019/wiki/User:Snotje",
+      "public_name": "Snotje"
+    }
+  ],
+  "links": []
+}
