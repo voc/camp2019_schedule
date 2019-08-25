@@ -1,5 +1,5 @@
 <schedule>
-  <version>Kaus Australis; lounges 808; lightning Manwë; thms Tales of Monkey Island; wiki 2019-08-25 03:00</version>
+  <version>Kaus Australis; lounges 909; lightning Manwë; thms Tales of Monkey Island; wiki 2019-08-25 03:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -14471,25 +14471,27 @@ Seitenprojekt des Berliner DJ Duetts: Pale Lynx mixt die sportbrigade-typischen 
       </event>
       <event id="10448" guid="ac7db476-c89e-427c-9210-657298b439ce">
         <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10448.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/448/large/bennemann?1566668093</logo>
         <date>2019-08-26T02:00:00+02:00</date>
         <start>02:00</start>
         <duration>03:00</duration>
         <room>Kemistry Lounge</room>
-        <slug>camp19lounge-10448-tba</slug>
-        <title>TBA</title>
+        <slug>camp19lounge-10448-steffen_bennemann</slug>
+        <title>steffen bennemann</title>
         <subtitle/>
         <track>Music</track>
         <type>djset</type>
         <language>en</language>
-        <abstract>TBA</abstract>
+        <abstract>Nacht Digital</abstract>
         <description/>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons/>
-        <links/>
+        <links>
+          <link href="https://soundcloud.com/steffenbennemann">steffen bennemann on soundcloud</link>
+        </links>
         <attachments/>
       </event>
     </room>

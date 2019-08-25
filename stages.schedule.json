@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Kaus Australis; lounges 808; lightning Manw\u00eb; thms Tales of Monkey Island",
+    "version": "Kaus Australis; lounges 909; lightning Manw\u00eb; thms Tales of Monkey Island",
     "base_url": "https://fahrplan.events.ccc.de/camp/2019/Fahrplan/",
     "conference": {
       "acronym": "Camp2019",
@@ -6614,23 +6614,28 @@
                 "url": "https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10448.html",
                 "id": 10448,
                 "guid": "ac7db476-c89e-427c-9210-657298b439ce",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/448/large/bennemann?1566668093",
                 "date": "2019-08-26T02:00:00+02:00",
                 "start": "02:00",
                 "duration": "03:00",
                 "room": "Kemistry Lounge",
-                "slug": "camp19lounge-10448-tba",
-                "title": "TBA",
+                "slug": "camp19lounge-10448-steffen_bennemann",
+                "title": "steffen bennemann",
                 "subtitle": "",
                 "track": "Music",
                 "type": "djset",
                 "language": "en",
-                "abstract": "TBA",
+                "abstract": "Nacht Digital",
                 "description": "",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [],
-                "links": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/steffenbennemann",
+                    "title": "steffen bennemann on soundcloud"
+                  }
+                ],
                 "attachments": []
               }
             ],
