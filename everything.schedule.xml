@@ -1,5 +1,5 @@
 <schedule>
-  <version>Kaus Australis; lounges 909; lightning Manwë; thms Tales of Monkey Island; wiki 2019-08-25 13:10</version>
+  <version>Kaus Australis; lounges 909; lightning Manwë; thms Tales of Monkey Island; wiki 2019-08-25 14:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -15011,6 +15011,30 @@ Bei gutem Wetter im Freien; bei schlechtem im Zelt.</description>
         </persons>
         <links>
           <link>https://naoth.de</link>
+        </links>
+      </event>
+    </room>
+    <room name="Village:Scottish Consulate">
+      <event id="1615" guid="28109560-1c79-4ba6-bee0-353d6c5739d5">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Scottish_Pro_Wrestling</url>
+        <logo/>
+        <date>2019-08-25T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>3:00</duration>
+        <room>Village:Scottish Consulate</room>
+        <slug>camp2019-1615-session_scottish_pro_wrestling</slug>
+        <title>Scottish Pro Wrestling</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language/>
+        <abstract/>
+        <description>Come and watch some wrestling with us</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Hibby">Hibby</person>
+        </persons>
+        <links>
+          <link>http://consulate.scot</link>
         </links>
       </event>
     </room>
