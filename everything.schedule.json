@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Kaus Australis; lounges 909; lightning Manw\u00eb; thms Tales of Monkey Island; wiki 2019-08-25 11:00",
+    "version": "Kaus Australis; lounges 909; lightning Manw\u00eb; thms Tales of Monkey Island; wiki 2019-08-25 13:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -16712,6 +16712,26 @@
                     "public_name": "Piko"
                   }
                 ],
+                "links": []
+              },
+              {
+                "id": 1614,
+                "guid": "4c011495-468b-4d47-97d9-a4298b1e344b",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:Improvisation_f%C3%BCr_Einsteiger",
+                "logo": null,
+                "date": "2019-08-25T15:30:00+02:00",
+                "start": "15:30",
+                "duration": "1:30",
+                "room": "Village:Haecksen",
+                "slug": "camp2019-1614-session_improvisation_fuer_einsteiger",
+                "title": "Improvisation f\u00fcr Einsteiger",
+                "subtitle": "Wiederholung (fuer Neueinsteiger:Innen und Wiederholer:Innen)",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "",
+                "abstract": "",
+                "description": "Ein praktischer Einstieg in die Improvisation",
+                "persons": [],
                 "links": []
               }
             ],

@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-25 11:00</version>
+  <version>2019-08-25 13:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -8173,6 +8173,24 @@
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
         </persons>
+        <links/>
+      </event>
+      <event id="1614" guid="4c011495-468b-4d47-97d9-a4298b1e344b">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:Improvisation_f%C3%BCr_Einsteiger</url>
+        <logo/>
+        <date>2019-08-25T15:30:00+02:00</date>
+        <start>15:30</start>
+        <duration>1:30</duration>
+        <room>Village:Haecksen</room>
+        <slug>camp2019-1614-session_improvisation_fuer_einsteiger</slug>
+        <title>Improvisation für Einsteiger</title>
+        <subtitle>Wiederholung (fuer Neueinsteiger:Innen und Wiederholer:Innen)</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description>Ein praktischer Einstieg in die Improvisation</description>
+        <persons/>
         <links/>
       </event>
     </room>
