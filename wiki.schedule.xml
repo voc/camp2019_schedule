@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-08-25 10:20</version>
+  <version>2019-08-25 11:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -8377,6 +8377,26 @@
         <abstract/>
         <description>Focus on a form of human connection that gets in a world full of technology.  Nothing is required. It's a good idea to bring something comfortable to sit for the floor.</description>
         <persons/>
+        <links/>
+      </event>
+      <event id="1613" guid="c2a1aed4-1b2c-41db-884e-3f851d561994">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:NixOS_Group_Photo</url>
+        <logo/>
+        <date>2019-08-25T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>0:10</duration>
+        <room>Village:NixOS</room>
+        <slug>camp2019-1613-session_nixos_group_photo</slug>
+        <title>NixOS Group Photo</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>outside</type>
+        <language/>
+        <abstract/>
+        <description>Group photo for everybody interested in Nix/NixOS</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Haslersn">Haslersn</person>
+        </persons>
         <links/>
       </event>
     </room>

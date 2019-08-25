@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Kaus Australis; lounges 909; lightning Manw\u00eb; thms Tales of Monkey Island; wiki 2019-08-25 10:20",
+    "version": "Kaus Australis; lounges 909; lightning Manw\u00eb; thms Tales of Monkey Island; wiki 2019-08-25 11:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -16940,6 +16940,32 @@
                 "abstract": "",
                 "description": "Focus on a form of human connection that gets in a world full of technology.  Nothing is required. It's a good idea to bring something comfortable to sit for the floor.",
                 "persons": [],
+                "links": []
+              },
+              {
+                "id": 1613,
+                "guid": "c2a1aed4-1b2c-41db-884e-3f851d561994",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:NixOS_Group_Photo",
+                "logo": null,
+                "date": "2019-08-25T13:00:00+02:00",
+                "start": "13:00",
+                "duration": "0:10",
+                "room": "Village:NixOS",
+                "slug": "camp2019-1613-session_nixos_group_photo",
+                "title": "NixOS Group Photo",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "outside",
+                "language": "",
+                "abstract": "",
+                "description": "Group photo for everybody interested in Nix/NixOS",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/camp/2019/wiki/User:Haslersn",
+                    "public_name": "Haslersn"
+                  }
+                ],
                 "links": []
               }
             ],
