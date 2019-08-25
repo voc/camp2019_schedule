@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-25 00:50",
+    "version": "2019-08-25 03:00",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -10156,6 +10156,28 @@
                     "public_name": "Piko"
                   }
                 ],
+                "links": []
+              }
+            ],
+            "Village:Mobile Infoshop": [
+              {
+                "id": 1612,
+                "guid": "ed7f29c1-5259-498e-8b44-b53378fb05a6",
+                "url": "https://events.ccc.de/camp/2019/wiki/Session:CCClasse_%E2%80%93_bezahlen_f%C3%BCr_Arbeit%3F_/_CCClass_%E2%80%93_to_pay_for_work%3F",
+                "logo": null,
+                "date": "2019-08-25T18:00:00+02:00",
+                "start": "18:00",
+                "duration": "0:35",
+                "room": "Village:Mobile Infoshop",
+                "slug": "camp2019-1612-session_ccclasse_bezahlen_fuer_arbeit_ccclass_to_pay_for_work_",
+                "title": "CCClasse \u2013 bezahlen f\u00fcr Arbeit? / CCClass \u2013 to pay for work?",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "talk about CCClass politics - input \u00fcber CCClassen politik",
+                "persons": [],
                 "links": []
               }
             ],

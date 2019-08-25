@@ -1,5 +1,5 @@
 <schedule>
-  <version>Kaus Australis; lounges 808; lightning Manwë; thms Tales of Monkey Island; wiki 2019-08-25 00:50</version>
+  <version>Kaus Australis; lounges 808; lightning Manwë; thms Tales of Monkey Island; wiki 2019-08-25 03:00</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -14657,6 +14657,26 @@ Bei gutem Wetter im Freien; bei schlechtem im Zelt.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Piko">Piko</person>
         </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Village:Mobile Infoshop">
+      <event id="1612" guid="ed7f29c1-5259-498e-8b44-b53378fb05a6">
+        <url>https://events.ccc.de/camp/2019/wiki/Session:CCClasse_%E2%80%93_bezahlen_f%C3%BCr_Arbeit%3F_/_CCClass_%E2%80%93_to_pay_for_work%3F</url>
+        <logo/>
+        <date>2019-08-25T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>0:35</duration>
+        <room>Village:Mobile Infoshop</room>
+        <slug>camp2019-1612-session_ccclasse_bezahlen_fuer_arbeit_ccclass_to_pay_for_work_</slug>
+        <title>CCClasse – bezahlen für Arbeit? / CCClass – to pay for work?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>talk about CCClass politics - input über CCClassen politik</description>
+        <persons/>
         <links/>
       </event>
     </room>
