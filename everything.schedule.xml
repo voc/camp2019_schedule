@@ -1,5 +1,5 @@
 <schedule>
-  <version>Kaus Australis; lounges 909; lightning Manwë; thms Tales of Monkey Island; wiki 2019-08-26 12:20</version>
+  <version>Kaus Australis; lounges 909; lightning Manwë; thms Tales of Monkey Island; wiki 2019-08-26 22:40</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -7115,7 +7115,9 @@ These tools, called Dreams and Realities are run alongside a customized version 
         <abstract/>
         <description>Make yourself an extra functional thumb, and see if you like it.</description>
         <persons/>
-        <links/>
+        <links>
+          <link>https://github.com/jarkman/extrathumb</link>
+        </links>
       </event>
       <event id="1296" guid="4a5e8ab5-afa7-4bcd-9260-bf4ba79f1814">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Learning_to_see_in_3D</url>

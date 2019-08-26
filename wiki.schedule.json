@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-26 12:20",
+    "version": "2019-08-26 22:40",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -4037,7 +4037,9 @@
                 "abstract": "",
                 "description": "Make yourself an extra functional thumb, and see if you like it.",
                 "persons": [],
-                "links": []
+                "links": [
+                  "https://github.com/jarkman/extrathumb"
+                ]
               },
               {
                 "id": 1296,

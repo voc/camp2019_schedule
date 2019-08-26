@@ -16,5 +16,7 @@
   "abstract": "",
   "description": "Make yourself an extra functional thumb, and see if you like it.",
   "persons": [],
-  "links": []
+  "links": [
+    "https://github.com/jarkman/extrathumb"
+  ]
 }
