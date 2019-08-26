@@ -1,5 +1,5 @@
 <schedule>
-  <version>Kaus Australis; lounges 909; lightning Manwë; thms Tales of Monkey Island; wiki 2019-08-26 12:10</version>
+  <version>Kaus Australis; lounges 909; lightning Manwë; thms Tales of Monkey Island; wiki 2019-08-26 12:20</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -4082,12 +4082,14 @@ We made https://janitor.technology to help newcomers and developers experiment, 
         <track>Talk</track>
         <type>Talk</type>
         <language>en</language>
-        <abstract>A rant about liberty and autonomy for some!</abstract>
+        <abstract>With liberty and justice for some! ...a rant.</abstract>
         <description>The Blockchain is celebrated for solving all the hard questions, trusted third-parties? Done! Supply-chain-control? Easy! Deliberation of the individual? Complete!&#13;
 &#13;
 But how come, that so many users move to Exchanges (Bitcoin), lawyers consider smart contracts not contracts (Etherium) and most other actually used Blockchains are either permissioned or private (read: databases).&#13;
 &#13;
-So, why does blockchain does not solve any problem and only grants liberty and autonomy for some – the techies themselves? Come hear my take on this and let's debate the present misunderstanding of what the blockchain technology actually can deliver.</description>
+So, why does blockchain does not solve any problem and only grants liberty and autonomy for some – the techies themselves? Come hear my take on this and let's debate the present misunderstanding of what the blockchain technology actually can deliver.&#13;
+&#13;
+**Recording**: https://media.ccc.de/v/thms-39-blockchain-proof-of-ignorance</description>
         <recording>
           <license/>
           <optout>false</optout>
