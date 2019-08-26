@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-25 15:10",
+    "version": "2019-08-26 12:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -10101,7 +10101,8 @@
                 ],
                 "links": [
                   "https://talx.thm.cloud/thms/talk/WCSCAX/",
-                  "https://events.ccc.de/camp/2019/wiki/Session:Blockchain:_Proof_of_ignorance"
+                  "https://events.ccc.de/camp/2019/wiki/Session:Blockchain:_Proof_of_ignorance",
+                  "https://media.ccc.de/v/thms-39-blockchain-proof-of-ignorance"
                 ]
               }
             ],

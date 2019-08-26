@@ -1,5 +1,5 @@
 <schedule>
-  <version>Kaus Australis; lounges 909; lightning Manwë; thms Tales of Monkey Island; wiki 2019-08-25 15:10</version>
+  <version>Kaus Australis; lounges 909; lightning Manwë; thms Tales of Monkey Island; wiki 2019-08-26 12:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -14617,6 +14617,7 @@ Bei gutem Wetter im Freien; bei schlechtem im Zelt.</description>
         <links>
           <link>https://talx.thm.cloud/thms/talk/WCSCAX/</link>
           <link>https://events.ccc.de/camp/2019/wiki/Session:Blockchain:_Proof_of_ignorance</link>
+          <link>https://media.ccc.de/v/thms-39-blockchain-proof-of-ignorance</link>
         </links>
       </event>
     </room>
