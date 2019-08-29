@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-08-27 20:40",
+    "version": "2019-08-29 02:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019 - Wiki",
@@ -4657,7 +4657,9 @@
                   }
                 ],
                 "links": [
-                  "https://redd.it/ch91ip"
+                  "https://redd.it/ch91ip",
+                  "https://redd.it/ct1c1t",
+                  "https://gallery.noone.org/Keyboard_Events/Chaos_Communication_Camp_2019/"
                 ]
               },
               {
