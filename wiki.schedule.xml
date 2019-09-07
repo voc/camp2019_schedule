@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-09-07 09:00</version>
+  <version>2019-09-07 17:10</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019 - Wiki</title>
@@ -530,7 +530,9 @@
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Nils">Nils</person>
         </persons>
-        <links/>
+        <links>
+          <link>https://gitlab.com/nilspickert/latex-einfuehrung</link>
+        </links>
       </event>
     </room>
     <room name="Hackcenter">
@@ -2173,7 +2175,9 @@
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Nils">Nils</person>
         </persons>
-        <links/>
+        <links>
+          <link>https://gitlab.com/nilspickert/latex-einfuehrung</link>
+        </links>
       </event>
       <event id="1083" guid="3e34db5c-5ac7-485f-947a-8098dd01da0f">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Graphics_with_LaTeX</url>
@@ -4687,7 +4691,9 @@
         <persons>
           <person id="0" href="https://events.ccc.de/camp/2019/wiki/User:Nils">Nils</person>
         </persons>
-        <links/>
+        <links>
+          <link>https://gitlab.com/nilspickert/latex-einfuehrung</link>
+        </links>
       </event>
       <event id="1250" guid="ac48ceec-92fe-4bbc-b7aa-6993ec6e5da1">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Xspace_%E2%80%93_Solution_to_an_annoying_TeX_quirk</url>

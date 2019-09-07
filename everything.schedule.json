@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "Kaus Australis; lounges 909; lightning Manw\u00eb; wiki 2019-09-07 09:00",
+    "version": "Kaus Australis; lounges 909; lightning Manw\u00eb; wiki 2019-09-07 17:10",
     "conference": {
       "acronym": "Camp2019",
       "title": "Chaos Communication Camp 2019",
@@ -1416,7 +1416,9 @@
                     "public_name": "Nils"
                   }
                 ],
-                "links": []
+                "links": [
+                  "https://gitlab.com/nilspickert/latex-einfuehrung"
+                ]
               }
             ],
             "Hackcenter": [
@@ -5366,7 +5368,9 @@
                     "public_name": "Nils"
                   }
                 ],
-                "links": []
+                "links": [
+                  "https://gitlab.com/nilspickert/latex-einfuehrung"
+                ]
               },
               {
                 "id": 1083,
@@ -9432,7 +9436,9 @@
                     "public_name": "Nils"
                   }
                 ],
-                "links": []
+                "links": [
+                  "https://gitlab.com/nilspickert/latex-einfuehrung"
+                ]
               },
               {
                 "id": 1250,
