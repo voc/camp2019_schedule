@@ -1,5 +1,5 @@
 <schedule>
-  <version>Kaus Australis; lounges 909; lightning Manwë; wiki 2019-09-07 17:10</version>
+  <version>Kaus Australis; lounges 909; lightning Manwë; thms Tales of Monkey Island; wiki 2019-09-09 12:11</version>
   <conference>
     <acronym>Camp2019</acronym>
     <title>Chaos Communication Camp 2019</title>
@@ -597,7 +597,329 @@ We will use software methods (rooting) and hardware methods (flash dumping). Usi
         </links>
       </event>
     </room>
-    <room name="Plank"/>
+    <room name="Plank">
+      <event id="141" guid="74ebea5d-e24e-55a0-99a4-f13879394f48">
+        <logo/>
+        <date>2019-08-21T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>VFBKTL</slug>
+        <url>http://talx.thm.cloud/thms/talk/VFBKTL/</url>
+        <title>Sozial-ökologische Dimensionen von Digitalisierung</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Der Vortrag soll einen Überblick über die sozialen und ökologischen Auswirkungen der Digitalisierung von Dienstleistungen oder Prozessen und der steigenden Vernetzung von elektronischen Geräten geben. Dabei spielt die materielle Basis von Digitalisierung mit der Rohstoffgewinnung und dem Ressourcenverbrauch eine entscheidende Rolle, sowie die enorm steigende Datennutzung. &#13;
+Anhand von Beispielen wird gezeigt, welche Rebound-Effekte in dem Zusammenhang bestehen und wie sie Effizienzsteigerungen zunichte machen.</abstract>
+        <description>Der Titel bezieht sich auf das Versprechen der Dematerialisierung, welches oft mit Digitalisierung in Verbindung gebracht wird. Es soll kritisch hinterfragt werden, ob Digitalisierung dabei helfen kann, die Umwelt zu schonen, indem weniger Ressourcen verbraucht werden. Am Beispiel des Konsums wird gezeigt, dass die derzeitige Art von Digitalisierung die Umweltzerstörung vorantreibt, als sie zu verringern.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="71">
+            <code>JLUDRK</code>
+            <public_name>Anja</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="142" guid="ecc2fea1-4e7c-5dce-a88c-e808dd245271">
+        <logo/>
+        <date>2019-08-21T16:15:00+02:00</date>
+        <start>16:15</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>ET9CFU</slug>
+        <url>http://talx.thm.cloud/thms/talk/ET9CFU/</url>
+        <title>Konviviale Software vor und jenseits des digitalen Kapitalismus</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Der Vortrag geht der Frage nach, welche Aspekte der Geschichte des digitalen Wandels mit der Bestrebung nach einer sozial-ökologischen Gestaltung von Technik zu tun haben. Dabei wird gezeigt, was die Nachhaltigkeitsbewegung von der Free-Software-Bewegung und der Hacker-Ethik lernen kann, insbesondere bzgl. der Autonomie gegenüber digitalen Großkonzernen durch Selbstverwaltung und kollaborative Entwicklung. Andersherum wird diskutiert, was die Techszene über die Notwendigkeit und Möglichkeiten einer sozial-ökologischen Transformation lernen kann. Im Grunde genommen geht es hier darum, die emanzipatorischen Elemente der digitalen Technikentwicklung (die vor dem digitalen Kapitalismus des 21. Jahrhunderts existierten und sich ihm weiterhin entgegenstellen) und die Botschaften der politischen Ökologie in eine gemeinsame Erzählung zusammenzuführen.</abstract>
+        <description>Der Begriff "Konvivialität" wurde in der politischen Ökologie eingeführt, um eine Vorstellung von Technik zu beschreiben, die sich von der industriellen Produktivität unterscheidet. Dabei geht es darum, Technik auf der Grundlage sozial-ökologischer Kriterien zu bewerten. Diese Kriterien werden vorgestellt und auf den Bereich digitale Technik angewandt. Ein Überblick über die Geschichte der Softwareentwicklung und des digitalen Kapitalismus wird zeigen, dass Konvivialität viel mit FOSS-Prinzipien zu tun hat, im Gegensatz zu kommerzieller Software, die von Konzernen entwickelt wird. Die Analyse anhand von Konvivialitätskriterien wird dadurch zur nützlichen Methode, um über digitale Technik zu reflektieren. Perspektivisch könnte das zu einer Annäherung der kritischen Tech- und Ökologiebewegungen führen: die etablierte Praxis der Free-Software-Bewegung könnte zu einer Keimform einer sozial-ökologischen Utopie jenseits des digitalen Kapitalismus werden.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="44">
+            <code>BMHR3B</code>
+            <public_name>Nicolas</public_name>
+            <biography>Nicolas ist promovierter Informatiker, der die Wissenschaft hinter sich gelassen hat, um sich auf zivilgesellschaftlicher Seite für einen emanzipatorischen Umgang mit digitalen Technologien einzusetzen. Er arbeitet beim Konzeptwerk Neue Ökonomie zu Digitalisierung und ist in der Klimagerechtigkeitsbewegung aktiv.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="114" guid="d1d313f5-926b-5357-b764-4c85cb9dddfc">
+        <logo/>
+        <date>2019-08-21T18:30:00+02:00</date>
+        <start>18:30</start>
+        <duration>00:30</duration>
+        <room>Plank</room>
+        <slug>ASYLJ8</slug>
+        <url>http://talx.thm.cloud/thms/talk/ASYLJ8/</url>
+        <title>Wo lässt Du zwecklose Widerstände?</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Short Talk</type>
+        <language>de</language>
+        <abstract>Einladung zu einer qualitativen Studie über den Umgang mit Elektroschrott auf dem CCCamp</abstract>
+        <description>Für meine Hausarbeit in Umweltpsychologie rede ich mit Hardware-Leuten über Müll. Hier möchte ich meine Studie vorstellen und Dich zu einem lockeren Interview einladen.&#13;
+&#13;
+Schon im heimischen Hackerspace können Entsorgungskonzepte an unausgesprochenen Hindernissen scheitern: Niemand will die Öko-Spießer-Nervensäge spielen, wenn nach dem Löt-Workshop der Boden gefegt wird. Den Elektroschrott-Eimer wegzubringen, gilt als Strafarbeit. Hoppla, schon wieder im Halbschlaf Pizza- und Löt-Ofen verwechselt...&#13;
+&#13;
+Hier auf dem Camp ist es noch härter, denn die nächste legale Entsorgungsmöglichkeit ist mehrere Kilometer entfernt. Deshalb interessiert mich, wie Du hier wirklich, echt, ehrlich mit kaputten Platinen und Bauteilen umgehst. Was (de-)motiviert Dich, alles ordentlich wieder mitzunehmen? Was könnte Dich auf zukünftigen Events antreiben, "sauberer" zu hacken - und was Dir helfen, das tatsächlich zu schaffen?&#13;
+&#13;
+Der Kurzvortrag gibt einen Einstieg ins Thema und erklärt, was ich vorhabe, wenn ich Dich plötzlich auf dem Campgelände anspreche.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="25">
+            <code>ZVVWP9</code>
+            <public_name>coco</public_name>
+            <biography>Coco kommt aus Hannover, arbeitet als Software-Entwicklerin und studiert nebenbei Interdisziplinäre Umweltwissenschaften an der FernUni Hagen.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="148" guid="b4902bdb-38ab-5abb-9884-5efdb4bca02f">
+        <logo>/media/thms/images/KXW3SP/digital-vs.-printversion_print-version-for-banners-shirts-etc._1500x1500.png</logo>
+        <date>2019-08-21T19:15:00+02:00</date>
+        <start>19:15</start>
+        <duration>00:30</duration>
+        <room>Plank</room>
+        <slug>KXW3SP</slug>
+        <url>http://talx.thm.cloud/thms/talk/KXW3SP/</url>
+        <title>FridaysForFuture was, wie, warum?</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Short Talk</type>
+        <language>de</language>
+        <abstract>“Wir sind nicht nur verantwortlich für das, was wir tun, sondern auch für das was wir nicht tun” &#13;
+&#13;
+FridaysForFuture - die größte SchülerInnenbewegung aller Zeiten weltweit. Wie Jugendliche im Konsens der Wissenschaft um ihre Zukunft kämpfen.</abstract>
+        <description>“Wir sind nicht nur verantwortlich für das, was wir tun, sondern auch für das was wir nicht tun” &#13;
+&#13;
+FridaysForFuture - die größte SchülerInnenbewegung aller Zeiten weltweit. Wie Jugendliche im Konsens der Wissenschaft um ihre Zukunft kämpfen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="52">
+            <code>QGG3RV</code>
+            <public_name>Lucia und Ben</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="133" guid="6d16f60d-11cd-53ca-88bb-ccd014b20a9e">
+        <logo>/media/thms/images/PEXUEM/nice-view-computerraum.jpg</logo>
+        <date>2019-08-21T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>PEXUEM</slug>
+        <url>http://talx.thm.cloud/thms/talk/PEXUEM/</url>
+        <title>Nice View Reporter</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Projektwoche an einer Schule in Msambweni, Kenia</abstract>
+        <description>Die Nice View Gratitude School in der kenianischen Kleinstadt Msambweni hat zwar einen eigenen IT-Raum, in dem die rund 150 Schülerinnen und Schüler lernen, mit Computern umzugehen. Aber die Schule hatte bislang keinen Internet-Anschluss. Und das in Kenia, einem Land, das im Grunde ein riesiger Hub in Sachen Internet-Technik ist, wo an jeder Ecke brauchbare, pragmatische und innovative digitale Anwendungen programmiert werden und mehr als 85 Prozent der Bevölkerung – meist mobilen – Zugang zum Internet hat. FLMH hat im Januar 2019 die Schule mit einem Internetanschluss ausgerüstet und zusammen mit den Schüler*innen und Lehrern eine Projektwoche veranstaltet.&#13;
+&#13;
+Webiste der Nice View Reporter: https://nice-view-reporter.org/&#13;
+Projektbeschreibung: https://www.flmh.de/projekte/nice-view-reporter/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="37">
+            <code>KD8CU9</code>
+            <public_name>Martin Thomas</public_name>
+            <biography>Martin arbeitet seit 2017 bei &amp;bdquo;FLMH | Labor für Politik und Kommunikation&amp;ldquo; im Bereich Digitale Kommunikation und Social Media.&lt;br/&gt;&amp;#x2192; &lt;a href="https://www.flmh.de/" target="_blank"&gt;www.flmh.de&lt;/a&gt;&lt;br/&gt;&#13;
+&amp;#9993; &lt;a href="mailto:m.thomas@flmh.de"&gt;m.thomas@flmh.de&lt;/a&gt;&#13;
+&#13;
+Seit 2003 Mitgründer und Heimleiter der &amp;bdquo;Restrealitaet&amp;ldquo;, eines Forums für die Berliner Party- und Subkultur.&lt;br/&gt;&amp;#x2192; &lt;a href="https://restrealitaet.de" target="_blank"&gt;www.restrealitaet.de&lt;/a&gt;&lt;br/&gt;&#13;
+&amp;#9993; &lt;a href="martin@restrealitaet.de"&gt;martin@restrealitaet.de&lt;/a&gt;</biography>
+          </person>
+          <person id="60">
+            <code>R9WU3Q</code>
+            <public_name>Ralf Mueller von der Haegen</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="149" guid="eda75c8d-fe02-5986-a6c3-d0b699231b6a">
+        <logo/>
+        <date>2019-08-21T21:10:00+02:00</date>
+        <start>21:10</start>
+        <duration>00:30</duration>
+        <room>Plank</room>
+        <slug>NWNHJ3</slug>
+        <url>http://talx.thm.cloud/thms/talk/NWNHJ3/</url>
+        <title>Über die Nachhaltigkeit von Software</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Short Talk</type>
+        <language>de</language>
+        <abstract>Software ist essenzieller Bestandteil und Ressource unserer Dienstleistungs-&#13;
+und Wissensgesellschaft sowie unserer Infrastrukturen. Als Ressource&#13;
+betrachtet verhält sich der Konsum und Erhalt von Software jedoch in vielen&#13;
+Dingen konträr zu natürlichen Ressourcen. Eine Reflektion über die besonderen&#13;
+Eigenschaften der "Ressource Software" und wie wir diese nutzen können um&#13;
+Software nachhaltig zu gestalten und damit auch für die Zukunft zu erhalten.</abstract>
+        <description>Wenig wird bisher über digitale Nachhaltigkeit geredet, aber noch weniger über&#13;
+nachhaltige Software. Dabei ist Software essenzieller Bestandteil und&#13;
+Ressource unserer Dienstleistungs- und Wissensgesellschaften sowie unserer&#13;
+Infrastrukturen. Kein Telefon, keine Ampel und keine moderne Verwaltung würden&#13;
+noch ohne Software funktionieren. Möchten wir diese Systeme erhalten, müssen&#13;
+wir folglich auch Verfügbarkeit und Zugang zu diesen Ressourcen garantieren.&#13;
+&#13;
+Was im Zeitalter von copy&amp;paste und der prinzipiell unbegrenzten Menge&#13;
+digitaler Rohstoffe zunächst einfach klingt wird schnell komplex. Durch Recht,&#13;
+Technik und Architektur werden Verfügbarkeit und Menge von Software häufig&#13;
+künstlich verknappt. Das birgt die Gefahr zu realen Versorgungsengpässen bis&#13;
+hin zu kompletten Ressourcenverlusten und widerspricht damit dem von den&#13;
+Vereinten Nationen formulierten Ziel einer nachhaltigen Entwicklung und&#13;
+"Generationengerechtigkeit". Und auch wenn sich Software immer&#13;
+weiterentwickelt und Ressourcen von heute vielleicht schon morgen nicht länger&#13;
+für nötig gehalten werden, können als Folge von Abhängigkeiten in komplexen&#13;
+Systemen schnell Domino-Effekte entstehen.&#13;
+&#13;
+Der Vortrag erörtert wie und wo sich nachhaltiges Wirtschaften und Konsum von&#13;
+Software in vielen Dingen konträr zum nachhaltigen Konsum natürlicher&#13;
+Ressourcen verhält. Und wie wir diese uns diese besonderen Eigenschaften&#13;
+zunutze machen können um Software nachhaltig zu gestalten und damit auch für&#13;
+die Zukunft zu erhalten</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="53">
+            <code>USVRGR</code>
+            <public_name>Erik Albers</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="105" guid="8b56bef8-edb3-519a-9a48-6a80f4bb9566">
+        <logo>/media/thms/images/DLS83T/Dc8jzhwW0AA1KDn_1.jpg</logo>
+        <date>2019-08-21T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>02:00</duration>
+        <room>Plank</room>
+        <slug>DLS83T</slug>
+        <url>http://talx.thm.cloud/thms/talk/DLS83T/</url>
+        <title>live set</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>DJ Set</type>
+        <language>en</language>
+        <abstract>Techno/House/Downtempo</abstract>
+        <description>https://www.mixcloud.com/vidister/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="15">
+            <code>QTJV7B</code>
+            <public_name>vidister</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="106" guid="bffe36f4-428d-57ba-bcab-01b681292b55">
+        <logo>/media/thms/images/FASSF7/Eat_The_Bass_2.jpg</logo>
+        <date>2019-08-22T00:00:00+02:00</date>
+        <start>00:00</start>
+        <duration>02:00</duration>
+        <room>Plank</room>
+        <slug>FASSF7</slug>
+        <url>http://talx.thm.cloud/thms/talk/FASSF7/</url>
+        <title>Music Music Music (DJ-Set)</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>DJ Set</type>
+        <language>en</language>
+        <abstract>Bass + Klapper-Beats</abstract>
+        <description>Depending on what you are up to, either way, I make you move with Bass + Beats. From Chill-Bass, Vapor-Trap to Djungle. Whatever you like. You **L.O.V.E.** Mjusic!&#13;
+Check out my mixes on [Soundcloud] (https://soundcloud.com/barbnerdy)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="16">
+            <code>PJF8MV</code>
+            <public_name>BarbNerdy</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="117" guid="ea450a4c-8372-51f3-974d-879ce4083976">
+        <logo/>
+        <date>2019-08-22T02:00:00+02:00</date>
+        <start>02:00</start>
+        <duration>02:00</duration>
+        <room>Plank</room>
+        <slug>PHGYF8</slug>
+        <url>http://talx.thm.cloud/thms/talk/PHGYF8/</url>
+        <title>Beh</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>DJ Set</type>
+        <language>de</language>
+        <abstract>Bass/Chill</abstract>
+        <description>DJ-Set Bass/Chill</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="28">
+            <code>TQKQFD</code>
+            <public_name>Beh</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="Rockmore Booth">
       <event id="10407" guid="5c4cc23f-aea8-444b-9803-283b7eaccb3e">
         <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10407.html</url>
@@ -767,6 +1089,69 @@ and amusement.</description>
     <room name="Fireplace (Workshop THM)Hackcenter"/>
     <room name="Hackcenter 1"/>
     <room name="Hackcenter 3"/>
+    <room name="Fireplace (Workshop THM)">
+      <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
+        <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
+        <date>2019-08-21T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>VT87DH</slug>
+        <url>http://talx.thm.cloud/thms/talk/VT87DH/</url>
+        <title>Meet CADUS! Humanitarian Aid goes Open Source</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the "consultation hours" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.</abstract>
+        <description>During this particular format of "consultation hours" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).&#13;
+Consultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="43">
+            <code>ZUGZGF</code>
+            <public_name>Corinna Cadus</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="116" guid="0d5c9c41-398c-5f2b-aeec-34f1ea5ac454">
+        <logo>/media/thms/images/A879ZK/cccamp19_3.png</logo>
+        <date>2019-08-21T15:15:00+02:00</date>
+        <start>15:15</start>
+        <duration>02:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>A879ZK</slug>
+        <url>http://talx.thm.cloud/thms/talk/A879ZK/</url>
+        <title>Einblicke in die Wettervorhersage</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Ist das Wetter immer so unberechenbar wie es scheint? Was passiert in der Atmosphäre? Und wie könnt ihr selbst besser das Wetter vorhersagen?</abstract>
+        <description>Täglich betrifft uns alle das Wetter. Aber was passiert eigentlich in der Atmosphäre? Um das zu verstehen wird in der synoptischen Meteorologie die Analyse *Wie ist das Wetter?* , die Diagnose *Warum ist das Wetter so?* und schlussendlich die Prognose *Wie wird das Wetter?* des Wetters betrachtet. Damit auch ihr das Wetter besser einschätzen könnt und nicht nur auf die Symbole in den Wetterapps angewiesen seid, möchte ich euch erste Einblicke in die Wettervorhersage geben. Dazu gucken wir uns gemeinsam Wetterkarten an und geben einen Tipp (z.B. Temperatur, Luftdruck, Regenmenge) für den nächsten Tag ab.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="27">
+            <code>Z8VADQ</code>
+            <public_name>Daniela Schoster</public_name>
+            <biography>Studentin MA Meteorologie</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="Village:Haecksen">
       <event id="1274" guid="cc994b81-832a-4206-aa6b-64d587849cd1">
         <url>https://events.ccc.de/camp/2019/wiki/Session:A_capella</url>
@@ -3685,7 +4070,314 @@ We made https://janitor.technology to help newcomers and developers experiment, 
         </links>
       </event>
     </room>
-    <room name="Plank"/>
+    <room name="Plank">
+      <event id="139" guid="0ef9486d-7f7a-5298-9042-3e55c19768d2">
+        <logo/>
+        <date>2019-08-22T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>WCSCAX</slug>
+        <url>http://talx.thm.cloud/thms/talk/WCSCAX/</url>
+        <title>Blockchain: Proof of ignorance</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>With liberty and justice for some! ...a rant.</abstract>
+        <description>The Blockchain is celebrated for solving all the hard questions, trusted third-parties? Done! Supply-chain-control? Easy! Deliberation of the individual? Complete!&#13;
+&#13;
+But how come, that so many users move to Exchanges (Bitcoin), lawyers consider smart contracts not contracts (Etherium) and most other actually used Blockchains are either permissioned or private (read: databases).&#13;
+&#13;
+So, why does blockchain does not solve any problem and only grants liberty and autonomy for some – the techies themselves? Come hear my take on this and let's debate the present misunderstanding of what the blockchain technology actually can deliver.&#13;
+&#13;
+**Recording**: https://media.ccc.de/v/thms-39-blockchain-proof-of-ignorance</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="42">
+            <code>3UXMDZ</code>
+            <public_name>Rainer Rehak</public_name>
+            <biography>https://weizenbaum-institut.de/en/persons-details/p/rainer-rehak/</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="138" guid="4ea406aa-1c4b-5694-b1aa-f86dd3057d8a">
+        <logo/>
+        <date>2019-08-22T16:15:00+02:00</date>
+        <start>16:15</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>LEA7LY</slug>
+        <url>http://talx.thm.cloud/thms/talk/LEA7LY/</url>
+        <title>Dissecting the AMD Platform Security Processor</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>The AMD Platform Security Processor (PSP) is a security subsystem in AMD CPUs comparable to the Intel ME and was introduced in 2013. It is essential for system startup – in fact, in runs before the main processor is even started – and offers runtime services to the main processor. For this, it has full access to the system memory space (inlcuding MMIO).&#13;
+&#13;
+The PSP runs undocumented, proprietary firmware. This talk presents efforts of investigating what the PSP does and if it's secure. For the first time, it documents the PSP firmware's proprietary filesystem and provides insights into reverse-engineering such a deeply embedded system as the PSP. The talk further sheds light on how we might regain trust in AMD CPUs despite the delicate nature of the PSP.</abstract>
+        <description>With the ongoing digitalization, not only the number of IT systems is increasing in many domains, but also the amount of software and hardware that forms the trusted computing base of an application. Applications in industrial systems, infrastructure and consumer electronics rely on the security of these systems. Emerging security technologies try to mitigate the risk of insecure software and hardware by embedding secure components into these untrusted systems. &#13;
+&#13;
+AMD introduced the AMD Secure Processor to provide a trusted execution environment for critical operations. This talk comprehensively analyzes the undocumented and largely unknown security co-processor and discovers its inner workings. It aims to find out if it is able to keep its promise – or if it opens up another attack vector.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="41">
+            <code>39DWDB</code>
+            <public_name>Christian Werling</public_name>
+            <biography/>
+          </person>
+          <person id="69">
+            <code>3MMUHQ</code>
+            <public_name>Robert Buhren</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="150" guid="c26d6ec7-2701-56dc-8110-9896c6f6a659">
+        <logo/>
+        <date>2019-08-22T18:15:00+02:00</date>
+        <start>18:15</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>GRRQTX</slug>
+        <url>http://talx.thm.cloud/thms/talk/GRRQTX/</url>
+        <title>Als Netzaktivistin im Bundestag – Insider Einblicke und Mitmachmöglichkeiten</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Der Bundestag ist anders als man denkt. Analoger als man ohnehin&#13;
+vermutet, mit irrsinnigen Abläufen und unvorstellbaren Papierbergen. Es&#13;
+ist viel anstrengender, als man sich je hätte ausmalen können. Man hat&#13;
+zu viel Durst und zu wenig Schlaf und kaum noch ein Privatleben. Aber&#13;
+man kann einen Unterschied machen und deshalb will ich zeigen, dass&#13;
+Politik auch kompetent, transparent und partizipativ möglich ist. In&#13;
+dieser Session gebe ich Insider Einblicke in den Alltag als netzpolitische Sprecherin der Linksfraktion im Bundestag,&#13;
+zeige die Handlungsmöglichkeiten einer Oppositionspolitikerin und wie&#13;
+Ihr als Netzcommunity mich als Eure Volksvertreterin nutzen könnt, um&#13;
+z.B. auf offiziellen Kanälen Informationen abzufragen, an die man sonst&#13;
+nicht kommt, denn Wissen ist Macht.</abstract>
+        <description>Die Arbeit einer Bundestagsabgeordneten hatte ich mir anders&#13;
+vorgestellt. Schon rein vom praktischen Alltag her. Mich überraschten&#13;
+Trinkverbote, 17-stündige Plenartage ohne Pausen, Schreibmaschinen,&#13;
+Karteikarten und Faxgeräte, ich verlief mich in unterirdischen&#13;
+Labyrinthen, fing 19 Mäuse im Büro und freute mich, als 2018 endlich das&#13;
+WLAN kam. Ich wurde netzpolitische Sprecherin der Linksfraktion, Mitglied bzw. stellvertretendes Mitglied im&#13;
+Digitalausschuss, im Beirat der Bundesnetzagentur (Megathema 5G&#13;
+Lizenzversteigerung), der Enquete Kommission Künstliche Intelligenz, in&#13;
+den Ausschüssen für Bildung/Forschung/Technikfolgen sowie für Verkehr&#13;
+und digitale Infrastruktur. In 22 Monaten hielt ich 19 Reden, stellte 43&#13;
+schriftliche Fragen, 33 Kleine Anfragen, 5 Anträge und reichte einen&#13;
+eigenen Gesetzentwurf ein. Es ging um Überwachung am Südkreuz, Open&#13;
+Source, das NetzDG, Hackbacks, IPv6, Künstliche Intelligenz, DNA&#13;
+Analysen in der Stammbaumforschung, Uploadfilter, IT Sicherheit,&#13;
+Impressumpflichten, barrierefreie Notrufe, Whistleblower, Mobilfunk,&#13;
+Open Data, KfZ Scanning, Funkzellenabfragen und stille SMS, digitale&#13;
+Gewalt gegen Frauen, Bundeswehr bei re:publica, Verschlüsselung,&#13;
+Lobbyregister, social Innovation und vieles mehr. Auf parlamentarischen&#13;
+Reisen im Ausland lernte ich, wie weit das links regierte Uruguay in der&#13;
+digitalen Bildung ist, wie man in Oman durch kluge Regulierung die&#13;
+Funklöcher auf dem Land los wurde und wie viele Lichtjahre wir vom&#13;
+eGovernment in Dänemark entfernt sind. Seit 10 Jahren setze ich mich für&#13;
+transparente und partizipative Politik ein. Jetzt will ich meine eigenen&#13;
+Ansprüche daran auch erfüllen. Ich berichte vor allem auf Twitter und&#13;
+Instagram live aus Ausschüssen, Anhörungen und von Parlamentarierreisen&#13;
+und greife Anregungen auf, die mich auf irgendeinem Kanal erreichen. Ich&#13;
+verstehe mich als Volksvertreterin im Wortsinn und möchte als&#13;
+Netzaktivistin ganz besonders Sprachrohr der Netzcommunity sein. Als&#13;
+Politikerin einer Oppositionspartei kann ich Themen setzen und&#13;
+Informationen beschaffen, ich kann fiese Fragen stellen – in langen und&#13;
+kurzen Formaten und die Bundesregierung muss darauf antworten. In dieser&#13;
+Session werde ich Beispiele zeigen, über meine Pläne reden und Euch&#13;
+fragen, was Ihr schon immer von der Bundesregierung in Netzfragen wissen&#13;
+wollten, damit ich die GroKo weiter nerven kann und wir alle besser&#13;
+wissen, was sie tun.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="58">
+            <code>VJGNQC</code>
+            <public_name>Anke Domscheit-Berg</public_name>
+            <biography>Als Quereinsteigerin mit netzpolitischer Expertise kam ich im Oktober 2017 als parteilose Abgeordnete der Linksfraktion in den Bundestag, nachdem ich 15 Jahre in der IT Industrie und -Beratung und seit 2011 freiberuflich als Publizistin v.a. zu den Schwerpunkten Digitale Gesellschaft und Geschlechtergerechtigkeit gearbeitet hatte und seit langem als Netzaktivistin engagiert war. Ich möchte die politische Ebene dafür nutzen, eine linke Vision für eine digitale Gesellschaft zu entwickeln und stark zu machen, denn eine digitale Revolution braucht auch eine soziale Revolution. Ich lebe im Norden von Brandenburg, wo ich mit meinem Mann Daniel und anderen Mitstreiter*innen den havel:lab e.V. gegründet habe, der Träger für den "Verstehbahnhof" wurde, ein Makerspace und Bildungsort für Kinder- und Jugendliche mit dem Schwerpunkt Digitales. Im Internet findet man mich unter anderem auf Twitter (@anked) und bei instagram (@adomscheitberg) und unter www.ankedomscheitberg.de.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="115" guid="ca81a392-cd83-55b0-abd5-1ed379611b37">
+        <logo/>
+        <date>2019-08-22T19:30:00+02:00</date>
+        <start>19:30</start>
+        <duration>00:30</duration>
+        <room>Plank</room>
+        <slug>MRJQ7S</slug>
+        <url>http://talx.thm.cloud/thms/talk/MRJQ7S/</url>
+        <title>Denn so wissen wir, was sie tun: Das Berliner Transparenzgesetz</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Short Talk</type>
+        <language>de</language>
+        <abstract>Ein Hoch auf Volksentscheide! Wir erzählen vom Berliner Volksentscheid für ein Transparenzgesetz, das wir ins Leben gerufen haben. Hier könnt ihr unterschreiben. Und wir zeigen, wie ihr mitmachen könnt.</abstract>
+        <description>Im August hat die Unterschriftensammlung für das Berliner Transparenzgesetz begonnen. Ein breites Bündnis aus Open Knowledge Foundation, Mehr Demokratie, CCC und vielen weiteren hat einen 64-seitigen Gesetzentwurf geschrieben, der in Berlin zu mehr Transparenz und Bürgerbeteiligung führen würde. Und nebenbei müsste die Berliner Verwaltung auch den Quelltext ihrer Software offenlegen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="26">
+            <code>SZJWJZ</code>
+            <public_name>Arne</public_name>
+            <biography>Arne ist Projektleiter von FragDenStaat.de</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="107" guid="49498e74-3b88-599b-9fb5-f28663b3c8bc">
+        <logo/>
+        <date>2019-08-22T20:15:00+02:00</date>
+        <start>20:15</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>LJQNKC</slug>
+        <url>http://talx.thm.cloud/thms/talk/LJQNKC/</url>
+        <title>Logbuch:Netzpolitik</title>
+        <subtitle/>
+        <track>Entertainment</track>
+        <type>Entertainment</type>
+        <language>de</language>
+        <abstract>Live-Podcast</abstract>
+        <description>Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="17">
+            <code>YQRFRN</code>
+            <public_name>Linus Neumann</public_name>
+            <biography/>
+          </person>
+          <person id="18">
+            <code>N9XJ77</code>
+            <public_name>Tim Pritlove</public_name>
+            <biography>Diskordischer Evangelist</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="108" guid="da999f3a-edf0-590a-85f8-37cb00cf21d9">
+        <logo/>
+        <date>2019-08-22T21:30:00+02:00</date>
+        <start>21:30</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>9P8DR9</slug>
+        <url>http://talx.thm.cloud/thms/talk/9P8DR9/</url>
+        <title>15 Jahre netzpolitik.org</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Im Sommer 2004 erschienen die erste Artikel auf netzpolitik.org. Was als Seitenprojekt begann, entwickelte sich in 15 Jahren zu einer der schlagkräftigsten Organisationen zur Verteidigung von digitalen Grundrechten in Deutschland.</abstract>
+        <description>Der Vortrag will einen nicht ganz ernsten Überblick über die Geschichte von netzpolitik.org geben, was auch eine kleine Geschichte der digitalen Zivilgesellschaft in Deutschland ist. Von den erfolgreichen Kämpfen gegen Softwarepatente über die Vorratsdatenspeicherung und Zensursula bis hin zu ACTA und den Uploadfiltern.&#13;
+&#13;
+Mit Bildern, Screenshots und vielleicht auch dem einen oder anderen kurzen Video.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="19">
+            <code>PTPT3U</code>
+            <public_name>Markus Beckedahl</public_name>
+            <biography>Ich hab mal netzpolitik.org gestartet und finde das Internet meistens immer noch toll.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="157" guid="85928ccf-a5a7-56a0-8a65-a3e3c859a3b5">
+        <logo/>
+        <date>2019-08-22T23:00:00+02:00</date>
+        <start>23:00</start>
+        <duration>02:00</duration>
+        <room>Plank</room>
+        <slug>QTLVBH</slug>
+        <url>http://talx.thm.cloud/thms/talk/QTLVBH/</url>
+        <title>Trummerschlunk</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>DJ Set</type>
+        <language>en</language>
+        <abstract>Trummerschlunk</abstract>
+        <description>Trummerschlunk</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="8">
+            <code>TMXW3G</code>
+            <public_name>THM Lounge</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="128" guid="0c7c6703-86ba-5059-897b-682e51056488">
+        <logo/>
+        <date>2019-08-23T01:00:00+02:00</date>
+        <start>01:00</start>
+        <duration>02:00</duration>
+        <room>Plank</room>
+        <slug>UPTJXZ</slug>
+        <url>http://talx.thm.cloud/thms/talk/UPTJXZ/</url>
+        <title>Meta Meta Cloud Beats</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>DJ Set</type>
+        <language>en</language>
+        <abstract>Ein DJ Set von Skorpy</abstract>
+        <description>Skorpy provides you with two hours of filthy and clean techno beats.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="34">
+            <code>CGVXUL</code>
+            <public_name>skorpy</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="Rockmore Booth">
       <event id="10408" guid="6c9f102a-0aed-4360-a31b-2bdb777d0cd8">
         <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10408.html</url>
@@ -3934,6 +4626,105 @@ Transforming Breaks, UK Bass, Footwork, bossy Electro and Jungle into another fo
     <room name="Fireplace (Workshop THM)Hackcenter"/>
     <room name="Hackcenter 1"/>
     <room name="Hackcenter 3"/>
+    <room name="Fireplace (Workshop THM)">
+      <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
+        <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
+        <date>2019-08-22T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>VT87DH</slug>
+        <url>http://talx.thm.cloud/thms/talk/VT87DH/</url>
+        <title>Meet CADUS! Humanitarian Aid goes Open Source</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the "consultation hours" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.</abstract>
+        <description>During this particular format of "consultation hours" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).&#13;
+Consultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="43">
+            <code>ZUGZGF</code>
+            <public_name>Corinna Cadus</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="120" guid="3690343b-b02c-57a6-8c37-d82113a0843b">
+        <logo>/media/thms/images/ZMERMD/photo_2019-07-18_18-58-45.jpg</logo>
+        <date>2019-08-22T15:15:00+02:00</date>
+        <start>15:15</start>
+        <duration>02:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>ZMERMD</slug>
+        <url>http://talx.thm.cloud/thms/talk/ZMERMD/</url>
+        <title>werdeteildesgesamtwiderstandes</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>werdeteildesgesamtwiderstandes ist eine Objekt gewordene Handlungsanweisung die dazu anregt sich mit anderen menschen zu verbinden. Im Workshop bauen wir diesen analogen synthesizer, jeder kann mitmachen, vorkenntnisse sind nicht erforderlich, für menschen ab 8.</abstract>
+        <description>werdeteildesgesamtwiderstandes ist eine Objekt gewordene Handlungsanweisung die dazu anregt sich mit anderen menschen zu verbinden. &#13;
+werdeteildesgesamtwiderstandes ist ein analoger Synthesizer bei dem du selber teil der Schaltung wirst,&#13;
+sobald seine beiden enden über einen Körperkontakt geschlossen werden, tönt der gesamtwiderstand. die Tonhöhe hängt dabei von der Anzahl der beteiligten Menschen ab. je mehr Teilnehmer*innen desto tiefer wird der Ton. du kannst den Gesamtwiderstand wie ein Instrument spielen, ein einfacher Rhythmus entsteht durch wiederholtes anfassen und loslassen. gleichzeitig bildet sich beim spielen ein kleines soziales Netzwerk mit der Besonderheit dass dieses Netzwerk ganz physisch ist und nicht virtuell. nur die haut leitet den Strom und nur durch anfassen entsteht der ton. dies ist in Zeiten virtueller sozialer Netzwerke ein erfrischendes Erlebnis das großen spaß macht.&#13;
+maximal 8 teilnehmer*innen, alter ab 8</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="29">
+            <code>3TMUJD</code>
+            <public_name>christian faubel</public_name>
+            <biography>Christian Faubel ist ein interdisziplinärer Wissenschaftler und Künstler. Er ist promovierter Elektroingenieur und hat von 2002-2012 am Institut für Neuroinformatik zu autonomen Systemen geforscht. Von 2012 bis 2018 war er Dozent an der Kunsthochschule für Medien Köln im Bereich experimentelle Informatik. 2002 hat er das Kollektiv derstrudel, zur Vermittlung eines entspannten Zugangs zu Elektronik und Robotik, gegründet. Mit derstrudel hat er mehr als 50 Workshops zum Bau einfacher analoger Roboter im Rahmen internationaler Festivals durchgeführt. In seiner künstlerischen Arbeit interessiert ihn was autonomes Verhalten ermöglicht und wie komplexes Verhalten aus dem Zusammenspiel und den Interaktionsdynamiken einfacher Elemente entstehen kann. Mit seinen Arbeiten macht er theoretische Konzepte wie Selbstorganisation, Emergenz oder Embodiment ästhetisch erfahrbar und sieht seine Arbeiten in der Tradition philosophischer Spielzeuge.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="123" guid="30f4400a-23d9-5b81-9beb-875217813515">
+        <logo/>
+        <date>2019-08-22T18:30:00+02:00</date>
+        <start>18:30</start>
+        <duration>02:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>GHNDP7</slug>
+        <url>http://talx.thm.cloud/thms/talk/GHNDP7/</url>
+        <title>analoge neuronale oszillatoren</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Workshop</type>
+        <language>en</language>
+        <abstract>in dem workshop bauen teilnehmer*innen analoge neuronale schaltungen mit denen ein netzwerkmodell, wie es shun-ichi amari in den 70 er jahren entwickelt hat, realisiert wird.</abstract>
+        <description>in dem workshop bauen teilnehmer*innen analoge neuronale schaltungen mit denen ein netzwerkmodell, wie es shun-ichi amari in den 70 er jahren entwickelt hat, realisiert wird.  Im workshop geht es darum ein gespür für die neuronalen netzen intrinsischen schwingungen zu entwickeln und mit diesen zu spielen und krach oder musik zu machen.&#13;
+grundlage für den workshop sind sogenannte pop-neuronen schaltungen, die ich gemeinsam mit wolfgang&#13;
+spahn für eine künstlerische installation, symbolic grounding, entwickelt habe. hier ein kurzes video von einem früherem workshop https://vimeo.com/273578536, pop-neurone&#13;
+https://kitspace.org/boards/github.com/dusjagr/pn001_pop-neuron_shenzhenready/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="29">
+            <code>3TMUJD</code>
+            <public_name>christian faubel</public_name>
+            <biography>Christian Faubel ist ein interdisziplinärer Wissenschaftler und Künstler. Er ist promovierter Elektroingenieur und hat von 2002-2012 am Institut für Neuroinformatik zu autonomen Systemen geforscht. Von 2012 bis 2018 war er Dozent an der Kunsthochschule für Medien Köln im Bereich experimentelle Informatik. 2002 hat er das Kollektiv derstrudel, zur Vermittlung eines entspannten Zugangs zu Elektronik und Robotik, gegründet. Mit derstrudel hat er mehr als 50 Workshops zum Bau einfacher analoger Roboter im Rahmen internationaler Festivals durchgeführt. In seiner künstlerischen Arbeit interessiert ihn was autonomes Verhalten ermöglicht und wie komplexes Verhalten aus dem Zusammenspiel und den Interaktionsdynamiken einfacher Elemente entstehen kann. Mit seinen Arbeiten macht er theoretische Konzepte wie Selbstorganisation, Emergenz oder Embodiment ästhetisch erfahrbar und sieht seine Arbeiten in der Tradition philosophischer Spielzeuge.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="Village:Chaoswelle">
       <event id="1345" guid="1595bd1c-6966-4f06-9fc6-9e01692e1153">
         <url>https://events.ccc.de/camp/2019/wiki/Session:AREDN</url>
@@ -6351,7 +7142,337 @@ These tools, called Dreams and Realities are run alongside a customized version 
         <links/>
       </event>
     </room>
-    <room name="Plank"/>
+    <room name="Plank">
+      <event id="152" guid="e960e678-a20b-53bf-8b93-11161b0248b6">
+        <logo/>
+        <date>2019-08-23T03:00:00+02:00</date>
+        <start>03:00</start>
+        <duration>02:00</duration>
+        <room>Plank</room>
+        <slug>9MFGLW</slug>
+        <url>http://talx.thm.cloud/thms/talk/9MFGLW/</url>
+        <title>Piet</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>DJ Set</type>
+        <language>de</language>
+        <abstract>DJ Set</abstract>
+        <description>DJ Set</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="62">
+            <code>VAEBV7</code>
+            <public_name>THM Lounge</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="165" guid="f86ec299-33c8-52ec-a207-62a444e8acbf">
+        <logo/>
+        <date>2019-08-23T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>ARDC3J</slug>
+        <url>http://talx.thm.cloud/thms/talk/ARDC3J/</url>
+        <title>Sinn von Unsinn unterscheiden - Glaub ich's oder glaub ich's nicht?</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Pyramiden wurden von Außerirdischen gebaut! Impfen macht Autismus! Gott hat die Welt geschaffen!</abstract>
+        <description>Kornkreise, Handystrahlung, Chemtrails, Homöopathie, Astrologie, Wasserkristallbilder, Aurafotografie, Quantenheilung...</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="70">
+            <code>N3M87D</code>
+            <public_name>Steini</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="132" guid="4f94b6e0-3e6c-5b5d-9d47-45c06304c063">
+        <logo/>
+        <date>2019-08-23T16:15:00+02:00</date>
+        <start>16:15</start>
+        <duration>00:30</duration>
+        <room>Plank</room>
+        <slug>QULQKV</slug>
+        <url>http://talx.thm.cloud/thms/talk/QULQKV/</url>
+        <title>(emulate|fuzz|break) kernels</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Short Talk</type>
+        <language>en</language>
+        <abstract>This talk will give an introduction to kernel fuzzing using *unicorefuzz*.</abstract>
+        <description>Yes, yes. We all know fuzzing is a powerful tool to find bugs.&#13;
+For user space software, this is so 2014. Fuzzing kernels, however, can still be a daunting task.&#13;
+The state of the art kernel fuzzer, syzkaller, is somewhat complex to set up. &#13;
+So many unhappy parsers in the kernel remain unfuzzed to this day!&#13;
+Why can we not simply start fuzzing from some random breakpoint in the kernel, you ask?&#13;
+Well of course we can. Let's drop the whole thing into Unicorn Engine, a CPU emulator, and give it input.&#13;
+Simple as that.&#13;
+To stay on the punny side of things, we shall call this method *unicorefuzz*.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="36">
+            <code>B739DS</code>
+            <public_name>domenukk</public_name>
+            <biography>Dominik Maier works as Program Manager Security with AVM GmbH and pursues his PhD at TU Berlin with Prof. Dr. Jean-Pierre Seifert. During his Masters at FAU Erlangen-Nürnberg, he conducted security research at NECST-lab of Politecnico di Milano (Italy) and at SecLab UC Santa Barbara, CA (USA). His Bachelor's Thesis, "Obfuscation Techniques for Android Malware to Bypass Sandboxes" was awarded with the CAST-Förderpreis for best Bachelor's thesis in the field of IT security in Germany. He worked on security development projects, consulting and pentesting for large German companies. In his spare-time, he likes to travel and participate in CTFs with ENOFLAG.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="126" guid="493770fd-2347-5707-98bc-22ee77cc9129">
+        <logo/>
+        <date>2019-08-23T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>00:30</duration>
+        <room>Plank</room>
+        <slug>Z3VR8P</slug>
+        <url>http://talx.thm.cloud/thms/talk/Z3VR8P/</url>
+        <title>Cryptography of Killing Proof-of-Work</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Short Talk</type>
+        <language>en</language>
+        <abstract>We briefly discuss the range of cryptographic primitives being used by protocols that seek to make proof-of-work protocols obsolete.  We shall focus primarily on these cryptographic building blocks themselves, not overly on the different protocols built form them.</abstract>
+        <description>There are a handful of protocols consuming enormous amounts of energy in proof-of-work schemes, which provide only rather tenuous security assurances.   In practice, proof-of-work also invalidates these protocols original goal of being distributed.&#13;
+&#13;
+There is also a zoo of protocols designs, both new and from the 80s, that provide far stronger security than proof-of-work at minimal cost.  We shall discuss the distinctive cryptographic primitives used by these protocols, without examining any of these critters too closely.&#13;
+&#13;
+In essence, our taxonomy splits as blind signatures vs. verifiable random functions (VRFs) vs. randomness beacons, with the latter consisting of publicly verifiable secret sharing (PVSS) and verifiable delay functions (VDFs).  We only have time for a cursory look at the mathematics usable to build each of these, but this should explain some of their uses, strengths, and weaknesses.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="33">
+            <code>GEYBHU</code>
+            <public_name>Jeff Burdges</public_name>
+            <biography>I'm a pure mathematician turned cryptographer.  &#13;
+&#13;
+I've worked with most, and carefully implemented several, of the primitives being discussed, including blind signatures as part of GNU Taler, and more recently VRFs and randomness beacons.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="134" guid="361c6e0f-a89b-50a7-acc8-66e3c975e6b4">
+        <logo/>
+        <date>2019-08-23T18:30:00+02:00</date>
+        <start>18:30</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>ACSFZ7</slug>
+        <url>http://talx.thm.cloud/thms/talk/ACSFZ7/</url>
+        <title>E-Mail-Privatheit und Mailbox-Verschlüsselung</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Überblick über den aktuellen Stand der Privatheit von E-Mails und Präsentation von [Userli](https://systemli.github.io/userli/), einer Webapplikation um E-Mailboxen zu verschlüsseln.</abstract>
+        <description>Zuerst werden die derzeitigen Probleme der Privatheit von E-Mail beleuchtet. Dies soll zeigen, dass es sich um eine Vielzahl von Problemen handelt, welche einzeln gelöst werden müssen. &#13;
+Danach wird Userli präsentiert, welches einen Teil dieser Probleme angeht: Die Privatheit des E-Mail-Storage.&#13;
+Userli ist eine FOSS-Webapplikation um die Verwaltung von E-Mail-Konten für Communities zu unterstützen und Postfächer zu verschlüsseln. Auch die Admins eines Servers können dann nicht mehr in die gespeicherten E-Mails schauen.&#13;
+Userli fokussiert sich auf die Selbstverwaltung kleiner Communities und bietet daher auch Einladungsmechanismen, Domain-spezifische Admins und weitere Rollen. Alias-Adressen helfen deine Identität vor Dritten zu verschleiern.&#13;
+Userli verwendet das Dovecot MailCrypt Plugin und libsodium um Postfächer zu verschlüsseln und einen Passwort-Reset-Mechanismus anzubieten, welcher ohne persönliche Informationen auskommt.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="38">
+            <code>DGKT3P</code>
+            <public_name>Tim</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="136" guid="879d54a4-a90e-5e0d-8c56-c189ba166c72">
+        <logo>/media/thms/images/GYWNQP/IMG_9214_ej6Xqgg.JPG</logo>
+        <date>2019-08-23T19:45:00+02:00</date>
+        <start>19:45</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>GYWNQP</slug>
+        <url>http://talx.thm.cloud/thms/talk/GYWNQP/</url>
+        <title>Elektroschrott - Welchen letzten Weg geht mein PC?</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Elektronikschrott ist eine Handelsware. Schrott wird zu Gold. Geräte werden überall in der Welt mal gut, mal nicht so gut zerlegt. Wer verdient daran? Und was können wir tun, dass sich der Export nicht mehr lohnt?</abstract>
+        <description>Die digitale Gesellschaft produziert Elektronikschrott. Dieser besteht aus Kunststoffen, Metallen und Platinen, die unterschiedlichen Verwertungswegen zugeführt werden müssen. Die beste Trennung ist immer noch das Zerlegen per Hand. Dabei können außerdem nutzbare Einzelteile extrahiert und direkt weiterverwendet werden. Dieses Vorgehen ist ökologisch sinnvoll, aber nicht besonders ökonomisch. Das spielt aber im Rahmen eines "Dismantling Cafés" (vis á vis dem Repair Café) keine Rolle. Dafür gibt es die Sicherheit, dass die eigenen Geräte nicht in einer der zahlreichen Dokumentationen über Agbotbloshie, den großen Elektroschrottplatz in Ghana, auftauchen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="40">
+            <code>BZBPSB</code>
+            <public_name>lasermax</public_name>
+            <biography>Maker seit Schneider CPC464, Abitur mit 14.400 Baud Modem, Studium ab Windows 3.11. Ingenieur für Theater- und Veranstaltungstechnik, eigene Firma für technische Spezialeffekte auf Veranstaltungen. Nebenberuflich E-Waste Evangelist.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="113" guid="8c42e64a-160b-53c1-a0a4-c6ef4f93208b">
+        <logo>/media/thms/images/3UBEUB/6B5CDF68-12FE-416E-9490-3B4DFD62F867.jpeg</logo>
+        <date>2019-08-23T21:30:00+02:00</date>
+        <start>21:30</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>3UBEUB</slug>
+        <url>http://talx.thm.cloud/thms/talk/3UBEUB/</url>
+        <title>Systemabsturz</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>Band</type>
+        <language>de</language>
+        <abstract>Systemabsturz haben sich in den Tiefen des Berliner Datenschutzuntergrunds&#13;
+gegründet und spielen unter immer anderem Namen. Ihre Musik ist ganz klar dem Stil datenschutzsensibilisierter&#13;
+Synthiepunk-Bands der 80er zuzuordnen, gekreuzt mit Schlagerverschnitten&#13;
+und Techno. Stets ernst und pflichtbewusst fordern sie in ihren Texten&#13;
+einen weiteren Abbau der Freiheitsrechte und noch mehr Überwachung.</abstract>
+        <description>Wie oben.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="24">
+            <code>RB98TC</code>
+            <public_name>Sof</public_name>
+            <biography>@Systemabsturz</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="158" guid="6d833231-3c1c-506f-b3fe-dbb08c8bffbc">
+        <logo/>
+        <date>2019-08-23T23:00:00+02:00</date>
+        <start>23:00</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>DKGDLN</slug>
+        <url>http://talx.thm.cloud/thms/talk/DKGDLN/</url>
+        <title>Digitale Freiheit</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>Band</type>
+        <language>en</language>
+        <abstract>Digitale Freiheit</abstract>
+        <description>Digitale Freiheit</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="8">
+            <code>TMXW3G</code>
+            <public_name>THM Lounge</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="109" guid="c59b2363-a6cb-561a-84e5-2e55a759ef97">
+        <logo/>
+        <date>2019-08-24T00:00:00+02:00</date>
+        <start>00:00</start>
+        <duration>02:00</duration>
+        <room>Plank</room>
+        <slug>QWFLJN</slug>
+        <url>http://talx.thm.cloud/thms/talk/QWFLJN/</url>
+        <title>Drum&amp;Bass</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>DJ Set</type>
+        <language>en</language>
+        <abstract>Barbara Wimmer tritt unter dem Namen Shroombab seit 1998 als Drum&amp;Bass-DJ auf. Sie hat in 28 Ländern der Welt und mehr als 600 Clubs und auf zahlreichen Festivals gespielt.Zudem hat sie Veröffentlichungen auf mehr als zehn Labels - von ihrem Heimatland Österreich, bis hin zu UK, DE und den USA.</abstract>
+        <description>Shroombab, DJ, producer and founder of High Tension Recordings, is a fixed “institution” of Austrias drum&amp;bass-scene. She was born in Upper Austria and moved to Vienna in 1997 – where she started to change her instruments from flute &amp; guitar to turntables &amp; sequencers. Successfully: Gigs in over 28 countries all over the world and several record releases on quality labels followed.&#13;
+&#13;
+Shroombabs efforts to create her own music and get perfect at spinning records were strong. But not enough, she combined creativity with her talent to organize things: She set up her own Drum’n’Bass clubnight called “Bass Land” (with MC Terra), her own label “High Tension Recordings” and founded the “Junglistic Sistaz” – first a successful girls duo with MC Terra, later a database for women in drum&amp;bass, which got a quality reference for female DJs especially in Eastern Europe.&#13;
+&#13;
+Apart from numerous national DJ bookings at the best and most established clubs all over Austria, Shroombab got a residency at D.Kay &amp; Raw.fulls weekly clubnight "Beat It" at the famous Flex in Vienna which is running since 2004. Her international DJ-gigs brought her to places like Cape Town, Johannesburg, Moscow, St. Petersburg, Talin, Seattle, Paris, London, Barcelona, Berlin, Bukarest, Bratislava and many more cities and festival. &#13;
+&#13;
+Her favorite producers are Calyx, Matrix, Ed Rush &amp; Optical, Teebee, Break, Benny Page, Deekline, Ils, Aquasky, DZ, High Rankin, Skream, Marlow.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="20">
+            <code>QRJVAP</code>
+            <public_name>Barbara</public_name>
+            <biography>Barbara Wimmer tritt unter dem Namen Shroombab seit 1998 als Drum&amp;Bass-DJ auf. Sie hat in 28 Ländern der Welt und mehr als 600 Clubs und auf zahlreichen Festivals gespielt.Zudem hat sie Veröffentlichungen auf mehr als zehn Labels - von ihrem Heimatland Österreich, bis hin zu UK, DE und den USA.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="112" guid="9cf58a9c-11e5-519f-97f9-e66fc443faff">
+        <logo>/media/thms/images/8GEREV/15241904_1804354359578279_5081898806412035648_n.jpg</logo>
+        <date>2019-08-24T02:00:00+02:00</date>
+        <start>02:00</start>
+        <duration>02:00</duration>
+        <room>Plank</room>
+        <slug>8GEREV</slug>
+        <url>http://talx.thm.cloud/thms/talk/8GEREV/</url>
+        <title>Delaydi and Saetchmo bassploring space</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>DJ Set</type>
+        <language>de</language>
+        <abstract>Die Bassplorers aka Delaydi und Saetchmo nehmen euch mit auf eine basstherapeutische Weltraumreise</abstract>
+        <description>Die Bassplores sind ein DJ Team aus Berlin, das mit basstherapeutischen Massnahmen das Raum-Zeit-Kontinuum entdeckt. Folge den Machern des Echochamber Podcasts auf eine faszinierende Reise durch unbekannte Galaxien aus Sound und Licht. Delaydi und Saetchmo dringen dabei in Sphären vor, die die Seele jedes tieffrequent begeisterten Wesens zum Beben bringen wird. &#13;
+In diesem Sinne&#13;
+Bass ahoi</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="23">
+            <code>T9CNKN</code>
+            <public_name>Bassplorers</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="Rockmore Booth">
       <event id="10417" guid="cb1e3dc7-3d3d-40e5-925a-bd8ef2995c6d">
         <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10417.html</url>
@@ -6606,6 +7727,132 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
           <link href="http://ooooo.be/planeteconcrete/">planète concrète homepage</link>
         </links>
         <attachments/>
+      </event>
+    </room>
+    <room name="Fireplace (Workshop THM)">
+      <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
+        <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
+        <date>2019-08-23T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>VT87DH</slug>
+        <url>http://talx.thm.cloud/thms/talk/VT87DH/</url>
+        <title>Meet CADUS! Humanitarian Aid goes Open Source</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the "consultation hours" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.</abstract>
+        <description>During this particular format of "consultation hours" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).&#13;
+Consultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="43">
+            <code>ZUGZGF</code>
+            <public_name>Corinna Cadus</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="131" guid="8437e8a0-e99a-5e16-81d6-81a1cab2fc59">
+        <logo>/media/thms/images/QX7DQP/Screenshot_2019-08-17_at_21.30.45.png</logo>
+        <date>2019-08-23T15:15:00+02:00</date>
+        <start>15:15</start>
+        <duration>02:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>QX7DQP</slug>
+        <url>http://talx.thm.cloud/thms/talk/QX7DQP/</url>
+        <title>Finding insecure third-party librarys in dependencies, containers, APIs (OWASP Top10 - A9)</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Workshop</type>
+        <language>en</language>
+        <abstract>The OWASP Top Ten project lists the top 10 (web) application security risks. In this Workshop we will take a close look at number 9: "Using Components With Known Vulnerabilities".&#13;
+&#13;
+we will try to use (open source) tooling to find known vulnerabilities in 3rd party libraries, containers and APIs, then take a look at how we can automate those tools in our ci/cd pipelines&#13;
+you don't need to know about security or vulnerability management to do the workshop, we will cover the basics and you can a lot on the way</abstract>
+        <description>Demo APP: &#13;
+*https://github.com/cy4n/broken/&#13;
+*workshop assignment: https://github.com/cy4n/broken/blob/master/workshop/assignment.md&#13;
+&#13;
+workshop will feature the following Tools:&#13;
+- OWASP dependency-check (workshop will focus on java/maven/gradle, but feel free bring your own languages and dependencies so i can learn something too:) )&#13;
+- CoreOS Clair for container scanning&#13;
+- OWASP Zap for API scanning (technically not A9, but many the others;) )&#13;
+&#13;
+if we have time (or if you're interested after the actual workshop) we can further discuss how we can shape the process of fixing said vulnerabilities in our daily dev/ops/x jobs (or we can just rant about security over some beers)&#13;
+&#13;
+we speak english and german, so dont be scared if your english is not too good. we will get along :-)&#13;
+&#13;
+this workshop will be the hands-on counterpart to my talk on Thursday, 14:00 in Curie (Tent 1)&#13;
+https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10181.html</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="35">
+            <code>YYBHKY</code>
+            <public_name>cy</public_name>
+            <biography>system developer, i love cloud, automation, testing, security&#13;
+&#13;
+i will camp here: https://events.ccc.de/camp/2019/wiki/Village:Faken_bis_es_rult&#13;
+i might be reachable on eventphone: -CY4N (-2946)</biography>
+          </person>
+          <person id="46">
+            <code>UY8TSA</code>
+            <public_name>honnel</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="121" guid="54e38754-23b1-5d62-8554-77c9aea7180a">
+        <logo/>
+        <date>2019-08-23T18:45:00+02:00</date>
+        <start>18:45</start>
+        <duration>01:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>PGL9WK</slug>
+        <url>http://talx.thm.cloud/thms/talk/PGL9WK/</url>
+        <title>Introduction to Lindy Hop / Swing Dance</title>
+        <subtitle/>
+        <track>Entertainment</track>
+        <type>Entertainment</type>
+        <language>en</language>
+        <abstract>A brief introduction to Lindy Hop dancing for beginners.</abstract>
+        <description>We want to teach you a little bit of Lindy Hop. It is a couple dance that originates in the 1920s in New York, today there's a world-wide scene of Lindy Hop dancers. We'll teach you some basic moves.&#13;
+&#13;
+No dance partner and no previous dancing experience is required. Everyone will learn to dance both roles - following and leading.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="30">
+            <code>XHVTCZ</code>
+            <public_name>zitro</public_name>
+            <biography/>
+          </person>
+          <person id="31">
+            <code>3AZWLV</code>
+            <public_name>hanno</public_name>
+            <biography>Hanno Böck is a hacker and freelance journalist.&#13;
+He is a regular writer for the German online IT magazine Golem.de and writes the monthly Bulletproof TLS Newsletter.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
       </event>
     </room>
     <room name="Village:Social Dist0rtion Protocol">
@@ -9636,7 +10883,194 @@ I am currently doing my PhD at a research institute that focuses on embedded sec
         </links>
       </event>
     </room>
-    <room name="Plank"/>
+    <room name="Plank">
+      <event id="111" guid="93312758-6925-5e84-85b5-3b80f92a0faa">
+        <logo>/media/thms/images/P9JCSV/Im_Eis_Ronja_Reese.png</logo>
+        <date>2019-08-24T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>P9JCSV</slug>
+        <url>http://talx.thm.cloud/thms/talk/P9JCSV/</url>
+        <title>Global Warming Sucks!</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Alle reden vom Klimawandel, doch niemand erklärt was da gerade passiert. Wird es in Zukunft einfach nur schön warm oder wird die Veränderung der Umwelt die Menschheit in die Knie zwingen? Warum der Temperaturanstieg der Atmosphäre einzigartig ist und welche Folgen dies für Land, Meer und Gletscher hat, erklärt die angehende Polarforscherin Maria-Elena Vorrath.</abstract>
+        <description>Die Diskussion über den menschengemachten Klimawandel ist in den Medien stark verzerrt und es ist schwer sich als Laie in der Informationsflut zu orientieren. Der Vortrag "Global Warming Sucks!" soll eine breiten Zuhörerschaft über die aktuelle Situation des sich wandelnden Erdklimas sachlich aufklären. Es wird erklärt, wie der Ausstoß von Treibhausgasen die Atmosphäre seit der Industrialisierung beeinflusst und auf die bisherigen beobachteten Veränderungen in allen Teilen der Erde eingegangen. Anschließend werden einige globale Kipppunkte, die sensiblen Bausteine des Klimasystems, vorgestellt, und ihre Reichweite, Verwundbarkeit und Bedeutung für die Menschheit verdeutlicht. Angesichts der wissenschaftlichen Erkenntnisse können die Zuschauer nun öffentliche Auseinandersetzungen besser einordnen und kommentieren und ihren Beitrag zur Lösung der Klimakrise bestimmen. Fragen sind ausdrücklich erwünscht.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="22">
+            <code>7JYRX9</code>
+            <public_name>Maria-Elena Vorrath</public_name>
+            <biography>Ich lebe in Bremerhaven und promoviere am Alfred Wegener Institut über die Geschichte des Antarktischen Meereises und Klimas. Unsere Forschung leistet einen Beitrag um Klimaveränderungen der Vergangenheit zu erforschen und diese Erkenntnisse für Klimaprojektionen der Zukunft zu nutzen. Ansonsten mache ich viele Science Slams und Wissenschaftskommunikation.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="124" guid="54aa059d-1205-5afb-8a11-68ef351b0ab9">
+        <logo/>
+        <date>2019-08-24T16:15:00+02:00</date>
+        <start>16:15</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>FLXJRA</slug>
+        <url>http://talx.thm.cloud/thms/talk/FLXJRA/</url>
+        <title>Climate breakdown – the bleak reality</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Heat waves, wildfires and new movements like Fridays for Future and Extinction Rebellion have brought the climate crisis back into the news. However, meaningful political action is still not happening and the world is on track to three to four degrees of warming. Where are we heading and why did humanity fail so badly at tackling the problem?</abstract>
+        <description>A look at the scientific reality of the climate crisis is dire. Sinking coastal cities with millions of inhabitants, dying coral reefs, and large uninhabitable areas are practically impossible to avoid by now. But that doesn’t even come close to capture the worst outlooks: A runaway climate change where feedback loops accelerate heating [1], without any option for humanity to do anything about it. The end result may very well be a planet largely uninhabitable for humans.&#13;
+&#13;
+Avoiding just the worst of these consequences requires unprecedented political action on a scale that’s not even part of the political discourse yet.&#13;
+&#13;
+The talk will give an overview of the troubling scientific facts. Furthermore I’ll provide some discussion why humanity failed so badly at doing anything about it. This includes undeserved optimism by traditional environmental organizations about international climate diplomacy and the Kyoto and Paris accords, a wrong understanding about relative versus absolute emission reductions and false hopes in technology fixes.&#13;
+&#13;
+With all that dire outlook, it’s important to realize that the difference between “business as usual” and ambitious changes is still huge. A new wave of climate doomsdayers that say it’s too late to do anything may be just as harmful as the climate deniers, because they share the wrong message of doing nothing.&#13;
+&#13;
+[1] https://www.pik-potsdam.de/news/press-releases/planet-at-risk-of-heading-towards-irreversible-201chothouse-earth201d-state?set_language=en</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="31">
+            <code>3AZWLV</code>
+            <public_name>hanno</public_name>
+            <biography>Hanno Böck is a hacker and freelance journalist.&#13;
+He is a regular writer for the German online IT magazine Golem.de and writes the monthly Bulletproof TLS Newsletter.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="137" guid="2e215ec0-4745-581d-bc12-b5ce7a4b3ff2">
+        <logo>/media/thms/images/FMQ3UN/SUBSCRIBE10-cart-chaosradio_400x400.54d3adaf44f9d8.png</logo>
+        <date>2019-08-24T18:30:00+02:00</date>
+        <start>18:30</start>
+        <duration>02:00</duration>
+        <room>Plank</room>
+        <slug>FMQ3UN</slug>
+        <url>http://talx.thm.cloud/thms/talk/FMQ3UN/</url>
+        <title>Chaosradio 254</title>
+        <subtitle/>
+        <track>Entertainment</track>
+        <type>Entertainment (120)</type>
+        <language>de</language>
+        <abstract>Chaosradio 254 live von der THM-Stage auf dem Chaos Communication Congress 2019. Die erste Folge nach der Pause!</abstract>
+        <description>Anlässlich des Camps heißt Marcus Richter interessante Gäste aus dem Chaosumfeld willkommen, die ihre Projekte präsentieren. Gestreamt wird natürlich live und in Farbe!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="74">
+            <code>HYJBCA</code>
+            <public_name>Marcus Richter</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="127" guid="ffa61ddc-7493-5c90-8976-ca25cf368bd0">
+        <logo>/media/thms/images/ULS83P/freak-show-logo-1.0.png</logo>
+        <date>2019-08-24T20:45:00+02:00</date>
+        <start>20:45</start>
+        <duration>02:00</duration>
+        <room>Plank</room>
+        <slug>ULS83P</slug>
+        <url>http://talx.thm.cloud/thms/talk/ULS83P/</url>
+        <title>Freak Show</title>
+        <subtitle/>
+        <track>Entertainment</track>
+        <type>Entertainment (120)</type>
+        <language>de</language>
+        <abstract>Der Freak Show Podcast live on stage</abstract>
+        <description>Ausgabe FS239 von der Freak Show.&#13;
+&#13;
+https://freakshow.fm</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="18">
+            <code>N9XJ77</code>
+            <public_name>Tim Pritlove</public_name>
+            <biography>Diskordischer Evangelist</biography>
+          </person>
+          <person id="49">
+            <code>9ERJVB</code>
+            <public_name>Roddi</public_name>
+            <biography/>
+          </person>
+          <person id="65">
+            <code>KPZRFJ</code>
+            <public_name>Letty</public_name>
+            <biography/>
+          </person>
+          <person id="66">
+            <code>HVUYSW</code>
+            <public_name>Clemens Schrimpe</public_name>
+            <biography/>
+          </person>
+          <person id="67">
+            <code>DYA983</code>
+            <public_name>hukl</public_name>
+            <biography/>
+          </person>
+          <person id="68">
+            <code>ZPLUTL</code>
+            <public_name>Denis Ahrens</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="153" guid="85ae064f-2bbe-54d2-a26c-c79ce8457076">
+        <logo/>
+        <date>2019-08-24T23:00:00+02:00</date>
+        <start>23:00</start>
+        <duration>02:00</duration>
+        <room>Plank</room>
+        <slug>HSZXE7</slug>
+        <url>http://talx.thm.cloud/thms/talk/HSZXE7/</url>
+        <title>Tschunkelmusik</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>DJ Set</type>
+        <language>en</language>
+        <abstract>Deliziöse Synthklänge</abstract>
+        <description>Deliziöse Synthklänge</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="8">
+            <code>TMXW3G</code>
+            <public_name>THM Lounge</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="Rockmore Booth">
       <event id="10424" guid="1c1d5ada-8e5d-42ee-87b1-934c1413a8bc">
         <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10424.html</url>
@@ -9911,6 +11345,137 @@ Live spielen die Muckemacher in voller Bandbesetzung mit Schlagzeug, Bass, Gitar
         <persons/>
         <links/>
         <attachments/>
+      </event>
+    </room>
+    <room name="Fireplace (Workshop THM)">
+      <event id="155" guid="0be7b345-e2aa-5d94-ba3e-674f3b9b0aea">
+        <logo/>
+        <date>2019-08-24T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>ARNTML</slug>
+        <url>http://talx.thm.cloud/thms/talk/ARNTML/</url>
+        <title>Re-boot yourself!</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Entertainment</type>
+        <language>de</language>
+        <abstract>Yoga für diejenigen, die bisher hauptsächlich die Computer-Asana praktizieren. Auf deutsch, bei Bedarf auch Englisch. (Asana= (sitzende) Körperstellung im Yoga)&#13;
+Yoga for people who practice Computer Asana most of the time. In German, english as needed. (asana = (sitting) body posture in Yoga)</abstract>
+        <description>Ich zeige euch ein paar schlichte und sanfte Bewegungen, die dem Körper nach langem Sitzen guttun - kein esoterisches Kunstturnen, versprochen! Wenn ihr eigentlich keine Lust auf Sport, aber öfter mal Verspannungen habt, kommt vorbei!&#13;
+&#13;
+Ihr braucht: eine Matte oder Decke. Wer eh immer ein Handtuch dabei hat, nimmt einfach das!&#13;
+Wichtig: bequeme Kleidung tragen.&#13;
+Bei gutem Wetter im Freien; bei schlechtem im Zelt.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="63">
+            <code>KGEVE9</code>
+            <public_name>Neelke</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="140" guid="f6b73c1d-465f-540c-9854-26b8c0dcf645">
+        <logo>/media/thms/images/VT87DH/Cadus_logo_camp_2.png</logo>
+        <date>2019-08-24T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>VT87DH</slug>
+        <url>http://talx.thm.cloud/thms/talk/VT87DH/</url>
+        <title>Meet CADUS! Humanitarian Aid goes Open Source</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Meet CADUS, the humanitarian aid organization with its Crisis Response Makerspace in Berlin. During the "consultation hours" you can ask all the questions you may have about CADUS and humanitarian aid, hear about its projects, and gather ideas how to get involved.</abstract>
+        <description>During this particular format of "consultation hours" you can find out the latest about the work of CADUS, be it in the Crisis Response Makerspace in Berlin or in humanitarian aid projects abroad. Take a look at the almost functioning prototype of the Life Sensor, an open source patient monitor, or simply pick up some flyers to stay in touch. And of course: ask all the questions you have! (about CADUS, at least).&#13;
+Consultation hours are held in German or English, depending on the need. Oh, and if you have an actual medical issue, please consult the medic team of the camp, the person doing the consultation hour is not actually a medic.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="43">
+            <code>ZUGZGF</code>
+            <public_name>Corinna Cadus</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="125" guid="730b9a78-233a-5fc2-bd47-a64a582e8466">
+        <logo>/media/thms/images/8NG8AA/Gameboy_Music_Workshop_2011_a.JPG</logo>
+        <date>2019-08-24T15:15:00+02:00</date>
+        <start>15:15</start>
+        <duration>02:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>8NG8AA</slug>
+        <url>http://talx.thm.cloud/thms/talk/8NG8AA/</url>
+        <title>Gameboy Musik Workshop</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Ein Einsteiger-Workshop für alle die schon immer mal Musik mit Gameboys machen wollten.</abstract>
+        <description>Chiptune - oder Musik erzeugt von Soundchips alter Computer, Konsolen und Handhelds benötigt heute keine detaillierten Kenntnisse mehr von Hardware und Assemblersprache. Der Liveact irq7 zeigt wie man einem Gameboy Sounds entlockt und erste Loops damit komponiert. Dafür sind keine Vorkenntnisse nötig - alles was ihr braucht gibt's beim Workshop. Gerne darf man natürlich Kopfhörer und den eigenen Gameboy mitbringen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="32">
+            <code>U8GPQ7</code>
+            <public_name>Hannes Fertala</public_name>
+            <biography>Hannes Fertala ist seit mehreren Jahren in der Chiptune-Szene als Gameboy-Liveact 'irq7' aktiv. Der erste Kontakt zu dieser Art von Musik kam 2003 durch ein Konzert des Gameboymusicclub's in Graz zustande. Daraufhin folgt der Kauf den ersten Gameboys und dann schließlich das erste Konzert im Jahr 2006. Davor ein überzeugter Fan des Commodore 64 – Sounds und sammeln erster Erfahrungen mit Tracker-Software am Amiga.&#13;
+Um noch mehr aus den alten Handhelds raus zu holen, beginnt irq7 seine Gameboys selbst zu modifizieren und erweitern. Alle Aktivitäten werden seither auf seinem Blog (http://irq7.blogspot.com) veröffentlicht. Des Weiteren ist er seit 2010 Mitorganisator des jährlichen Chiptune-Festivals CHIP HITS THE FAN (http://chiphitsthefan.de) in Nürnberg.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="167" guid="df965bff-fa35-5f47-84b4-9a6002f7de94">
+        <logo/>
+        <date>2019-08-24T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>00:30</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>W9SGXY</slug>
+        <url>http://talx.thm.cloud/thms/talk/W9SGXY/</url>
+        <title>Mobile Saunafestival MeetUp</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Short Talk</type>
+        <language>en</language>
+        <abstract>We want to meet Sauna enthusiasts and fans and people who want to support our sauna festival in Berlin. Especially people who own or have a access to a mobile sauna.</abstract>
+        <description>Participation also for German speakers possible.&#13;
+&#13;
+More https://saunaclash.de/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="75">
+            <code>HVSGFA</code>
+            <public_name>Bastian</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
       </event>
     </room>
     <room name="Village:Foodhackingbase">
@@ -12577,7 +14142,192 @@ The laws of physics inherently contain dynamics capable of creating aestheticall
     </room>
     <room name="Johnson (Workshop 1)"/>
     <room name="Goldberg (Workshop 2)"/>
-    <room name="Plank"/>
+    <room name="Plank">
+      <event id="166" guid="85f449be-d06e-5ab8-bb06-a45f9d1347fa">
+        <logo/>
+        <date>2019-08-25T03:00:00+02:00</date>
+        <start>03:00</start>
+        <duration>02:00</duration>
+        <room>Plank</room>
+        <slug>NKSSZ8</slug>
+        <url>http://talx.thm.cloud/thms/talk/NKSSZ8/</url>
+        <title>We &lt;3 Techno</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>DJ Set</type>
+        <language>en</language>
+        <abstract>bam</abstract>
+        <description>&lt;&lt;&lt;EOF&#13;
+Let's celebrate electronic music with some #bambambeats&#13;
+Come together and enjoy some fine Techno &amp;&amp; Tech House tunes&#13;
+&#13;
+Yours truly,&#13;
+https://www.mixcloud.com/b4m/&#13;
+EOF</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="8">
+            <code>TMXW3G</code>
+            <public_name>THM Lounge</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="159" guid="e9cc930e-e589-55b4-a861-44a4fd189512">
+        <logo/>
+        <date>2019-08-25T05:00:00+02:00</date>
+        <start>05:00</start>
+        <duration>02:00</duration>
+        <room>Plank</room>
+        <slug>CNDUXW</slug>
+        <url>http://talx.thm.cloud/thms/talk/CNDUXW/</url>
+        <title>.merlin</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>DJ Set</type>
+        <language>en</language>
+        <abstract>.merlin</abstract>
+        <description>.merlin</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="8">
+            <code>TMXW3G</code>
+            <public_name>THM Lounge</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="119" guid="cf5d0389-ea8b-55d9-966c-2669e88de93a">
+        <logo/>
+        <date>2019-08-25T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Plank</room>
+        <slug>TX3WKW</slug>
+        <url>http://talx.thm.cloud/thms/talk/TX3WKW/</url>
+        <title>Capitana vs. Benito Salvini - über die Erosion von Grundrechten und was wir dagegen tun können</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Short Talk</type>
+        <language>de</language>
+        <abstract>TBD</abstract>
+        <description>Die Erosion von Grundrechten schreitet überall in Europa voran, besonders deutlich wird dies anhand der Situation auf dem Mittelmeer. Hier geht es um die aktuelle Lage, darum dass die Bundesregierung genauso verantwortlich dafür ist wie Benito Salvini und um Strategien und was wir gemeinsam dagegen tun können - außer noch mehr Racketen auf dem Mittelmeer zu stationieren.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="51">
+            <code>PBPVZF</code>
+            <public_name>Ruben Neugebauer</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="145" guid="d6b8d105-2540-5f33-955a-f73ae31831ca">
+        <logo/>
+        <date>2019-08-25T15:45:00+02:00</date>
+        <start>15:45</start>
+        <duration>00:30</duration>
+        <room>Plank</room>
+        <slug>QHMZQM</slug>
+        <url>http://talx.thm.cloud/thms/talk/QHMZQM/</url>
+        <title>ZpS - Bildung einer kriminellen Vereinigung</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Short Talk</type>
+        <language>de</language>
+        <abstract>Zentrum für politische Schönheit</abstract>
+        <description>Das Holocaustmahnmal Bornhagen des Zentrums für Politische Schönheit veranlasste den Kaisertreuen Staatsanwalt Martin Zschächner gegen jene Gruppe als "kriminelle Vereinigung" zu ermitteln - bzw: nicht zu ermitteln. Wie kam das Zentrum auf eine Liste mit der Al-Nusra-Front und was macht Zschächner heute? Eine Reise in den tiefen rechten Sumpf der Thüringer Justiz.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="50">
+            <code>YLWWL9</code>
+            <public_name>Stefan Pelzer</public_name>
+            <biography/>
+          </person>
+          <person id="72">
+            <code>Q8YDS9</code>
+            <public_name>Jasser Almaamoun</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="151" guid="4b53e5aa-54dc-5b1c-8720-6dbea3e85070">
+        <logo/>
+        <date>2019-08-25T16:30:00+02:00</date>
+        <start>16:30</start>
+        <duration>01:00</duration>
+        <room>Plank</room>
+        <slug>7QKPYA</slug>
+        <url>http://talx.thm.cloud/thms/talk/7QKPYA/</url>
+        <title>Verstehbahnhof and beyond -- building the ultimate digital playground</title>
+        <subtitle/>
+        <track>Talk</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Less than two years ago, we set out to create a hacker-and makerspace in&#13;
+the rural countryside of Brandenburg, twenty something minutes&#13;
+north-west of camp, in Fuerstenberg/Havel. Dubbed "Verstehbahnhof", as&#13;
+it is located in the local (and still operating) trainstation, the space&#13;
+was setup as an open educational space for the up- and coming and a&#13;
+shared workshop and space for like-minded grown-ups. This project, by&#13;
+now, has grown into much more than that. And we think it is time for you&#13;
+to know about a few things.</abstract>
+        <description>Eight years ago, when we left camp, Anke and I turned north instead of&#13;
+south, and drove into our new home located just around the corner. Two&#13;
+years later, we and some of our new neighbors, had established a small&#13;
+crowd of young people learning soldering and programming in our place,&#13;
+which grew into a regular class in the local elementary school, which&#13;
+then, in 2017, grew into a local hacker- and maker space called&#13;
+"Verstehbahnhof". The young in mind, we transformed the old waiting hall&#13;
+of our local train station into an educational venue which, 11 months&#13;
+ago, grew into more rooms including a proper workshop with an attached&#13;
+lounge and a soon to be finished and awesome social kitchen. To add to&#13;
+the mix, we are building a water-cooled data center right now, and have&#13;
+more possible internet bandwidth available than our whole region could&#13;
+ever use up -- including camp. With the data center come a LoRaWAN- and&#13;
+WiFi-backbone for the city, and sooner than later FTTH. We are turning&#13;
+our small town into the ultimate digital playground possible, one step&#13;
+at a time. We believe this development is highly relevant for many of&#13;
+you for many different reasons and would like to talk about that.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="57">
+            <code>TMFRPT</code>
+            <public_name>ddb</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="Rockmore Booth">
       <event id="10431" guid="a04a2a51-c372-4bde-8d99-c3297146fe59">
         <url>https://fahrplan.events.ccc.de/camp/2019/Abfahrplan/events/10431.html</url>
@@ -12760,6 +14510,43 @@ Seitenprojekt des Berliner DJ Duetts: Pale Lynx mixt die sportbrigade-typischen 
     <room name="Fireplace (Workshop THM)Hackcenter"/>
     <room name="Hackcenter 1"/>
     <room name="Hackcenter 3"/>
+    <room name="Fireplace (Workshop THM)">
+      <event id="155" guid="0be7b345-e2aa-5d94-ba3e-674f3b9b0aea">
+        <logo/>
+        <date>2019-08-25T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Fireplace (Workshop THM)</room>
+        <slug>ARNTML</slug>
+        <url>http://talx.thm.cloud/thms/talk/ARNTML/</url>
+        <title>Re-boot yourself!</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>Entertainment</type>
+        <language>de</language>
+        <abstract>Yoga für diejenigen, die bisher hauptsächlich die Computer-Asana praktizieren. Auf deutsch, bei Bedarf auch Englisch. (Asana= (sitzende) Körperstellung im Yoga)&#13;
+Yoga for people who practice Computer Asana most of the time. In German, english as needed. (asana = (sitting) body posture in Yoga)</abstract>
+        <description>Ich zeige euch ein paar schlichte und sanfte Bewegungen, die dem Körper nach langem Sitzen guttun - kein esoterisches Kunstturnen, versprochen! Wenn ihr eigentlich keine Lust auf Sport, aber öfter mal Verspannungen habt, kommt vorbei!&#13;
+&#13;
+Ihr braucht: eine Matte oder Decke. Wer eh immer ein Handtuch dabei hat, nimmt einfach das!&#13;
+Wichtig: bequeme Kleidung tragen.&#13;
+Bei gutem Wetter im Freien; bei schlechtem im Zelt.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="63">
+            <code>KGEVE9</code>
+            <public_name>Neelke</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="Village:About:freedom">
       <event id="1601" guid="d661197d-b893-444a-9c0c-36b9f3f8aa9a">
         <url>https://events.ccc.de/camp/2019/wiki/Session:Algorithms_and_AI_for_democratic_governance</url>
